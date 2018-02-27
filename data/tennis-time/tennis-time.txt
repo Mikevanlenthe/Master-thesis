@@ -1,0 +1,114 @@
+
+
+
+
+Jun. 6, 2015
+						at
+						6:00 AM
+
+
+
+							Why Some Tennis Matches Take Forever						
+
+
+
+By Carl Bialik
+Filed under Tick Tock
+
+Get the data on GitHub
+GitHub data at data/tennis-time
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Rafael Nadal takes a break and a towel as he plays Novak Djokovic in the 2014 French Open.							Thibault Camus / AP
+
+
+				Rafael Nadal takes a break and a towel as he plays Novak Djokovic in the 2014 French Open.									Thibault Camus / AP
+
+
+
+
+Nine-time French Open champ Rafael Nadal is one of the slowest players of the last 25 years. Roger Federer is faster than average. Novak Djokovic is slower than average — but has gotten faster. Andy Murray, on the other hand, has slowed down.
+I’m not talking about foot speed, or about the speed of the ball off the racket. I’m talking about how long it takes to play a point of tennis. Like baseball, tennis isn’t bound by a clock, but it does keep time. A match isn’t over until one player wins two sets or three. And who the players are goes a long way to deciding how long it takes to go from start to finish.
+The topic has been especially urgent at this year’s French Open, which lacks a roof and floodlights and must squeeze in play between darkness and rain. If Djokovic and Murray played slightly faster, they might have finished their semifinal Friday. Instead the match was suspended at 3-3 in the fourth set because of an imminent storm at around 8:30 p.m. local time. That will force the winner of the match to play three days in a row, which could be a disadvantage in the final.
+For an illustration of how much pace matters, consider two four-set matches that finished Monday in Paris. Speedy Roger Federer finished off relatively fast Gael Monfils in two hours and 12 minutes, taking 36 seconds per point. Rafael Nadal’s defeat of Jack Sock, on the other hand, required two fewer points but 41 more minutes; it took 47 seconds per point. All those seconds add up fast.1
+Before just about every serve, Nadal went through most parts of his usual ritual: He cleaned the baseline with his foot, tapped his shoes with his racket to knock the clay off, rejected one of the three balls he was offered, bounced one of the others with his racket while with his right hand he picked at the back of his shorts, dried his face and the area behind his ears, rubbed his hand on his shirt, rocked back and forth — and served. When he missed the first serve, he did some of the same things on his second serve, including picking at the back of his shorts and rocking back and forth.
+Players are allowed no more than 20 seconds between serves at Grand Slams2; if they exceed that threshold twice and are called for it, they lose a first serve. Some players stretch and shrink the time as a tactic to rest or throw off opponents.
+Over several games and sets, slower play can add 15 minutes or more to a match, throwing off television schedules and testing the patience of fans. It matters enough to the ATP, which runs the men’s tour, that it cracked down on slow play two years ago by enforcing the rules more strictly. Then again, thrilling long rallies take longer and create longer breaks in between, so a slowdown could be a good sign for the sport.
+I’ve studied the question of what determines the length of a match before, using Little Data: stopwatching the time between a few hundred points, correlating with rally length and other factors. But now we have easy access to big data in tennis. Analyst Jeff Sackmann has posted to GitHub match stats for the last 25 years of the men’s tour. (Match stats for the women’s tour aren’t available.3) There are nearly 25 years of matches in there — 71,027 in all,4 and enough variables for us to tease out which factors have the biggest effect on how long matches take. Like I did last year with baseball games, I ran a regression to see how each of a match’s building blocks affects how long it takes, per point.5 (We’ve uploaded part of my findings on Github for all to see.)
+In the early 1990s, the era in which Pete Sampras served-and-volleyed to success and Andre Agassi rushed from one side of the court to the other between serves, the game sped up. Then, starting in the late 1990s, as play shifted to baseline battles, it slowed down — until 2012, when the average point took 4.6 seconds longer than in 1991, all else equal. That doesn’t sound like much, but it amounts to 19 extra minutes over 250 points, a typical number for a best-of-five-set match.
+In 2012, the five-set Australian Open final between Nadal and Djokovic took five hours and 53 minutes, and raised cries for the game to speed up. The next year, the ATP answered by encouraging umpires to call time violations more strictly — and it appears to have worked. That year play sped up by 2.6 seconds per point, and it has remained roughly at that level since.
+Surface matters, too. The four fastest tournaments were on grass — with Wimbledon the fastest. The 11 slowest were on clay. Grass encourages the fastest rallies in the sport, which take less time and require less recovery. Clay is at the other extreme.6
+
+But some players matter just as much as the year or surface. The difference between Dustin Brown, the fastest player with at least 50 matches, and Nicolas Massu, the slowest, is 12.6 seconds per point — bigger than the difference between the slowest and fastest years, or slowest and fastest tournaments.7 We’ve posted pace estimates for 218 players and for 205 events on GitHub.
+
+This analysis isn’t only about how much time players take between points. The official stats don’t break out that number. A player can affect the pace of play both by how much time he takes between points — mainly when serving — and how much time it takes him to play a point. Players who are fast between points but engage in epic rallies during them — such as Monfils — don’t show up as outliers. Nadal, meanwhile, is slow between points and also plays many long rallies.
+To check what I was capturing, I went back to Little Data. Using my trusty smartphone stopwatch function, I timed how long 15 players took to serve at the French Open. Then I correlated the time they took between each serve with the time the analysis showed they add to the average point. The two quantities had a fairly high correlation, suggesting that the players who add time to matches do so at least in large part by adding time between points.8
+Playing slow puts players in good company. Some of the greatest players of all time do or did: Nadal, Djokovic and Murray join fellow multiple-Slam-winners Jimmy Connors, Jim Courier, Ivan Lendl and John McEnroe, who were all slow, albeit relative to their cohorts’ faster times. But slower players are only marginally better: There is essentially no correlation between career winning percentage and relative speed of play.9 Great players like Federer and 2001 Wimbledon champ Goran Ivanisevic played faster than average.
+My analysis assumed each player maintains the same pace throughout his career, but anyone can change his pace of play. To find out who has, I compared actual and expected pace for each match10:
+
+Nadal is vexed that time has become such a pressing topic lately. “I don’t know why but is very interesting that we are talking a lot about time the last three years,” he said in response to a question of mine at a news conference here at the French Open. “I have been on the tour for 13 years, so for the first 10 years I have been on the tour I don’t think I was quicker than now, and we were not talking about that.” Nadal was so peeved by one umpire’s enforcement of time rules earlier this year that he asked for the ump to be removed from his upcoming matches, a request that was granted.
+Murray knows sometimes he is too slow. “I don’t mean to do it,” he said. Then again, it’s hard to know when he’s taking too much time. “Are we supposed to spend the 25 seconds before you serve counting in your head to 25? No, you’re thinking about tactics or, you know, other things, what you’re about to do with the serve, where you’re going to play the serve. And, yeah, sometimes you can go too slow.”
+Since Murray and Nadal grew tired of all the time questions, I asked some of today’s fastest players why they push the pace. All of them said that’s always been their style.
+Australian Bernard Tomic said he plays fast deliberately. He told me that mixing up pace between points is another way to throw off opponents, like changing the speed or spin of the ball. “Everyone plays differently,” Tomic said. “That’s the weapon you have these days.”
+Lukas Rosol, a Czech player, and American Sam Querrey both said they like to get into a rhythm when serving. Waiting too long between points can break that up. Querrey gets annoyed when he has to wait too long to return, and he figures spectators do, too. “Sports that are popular are ones that have pretty good pace of play,” he said. Some players told The Washington Post they want the game sped up, such as by forcing servers to hit their first ball toss, no matter how errant.
+On Monday, during Nadal’s slow-paced match against Sock, I caught up with some more outliers among retired greats at a joint news conference to promote the seniors tournament. The ex-players’ sense of their own pace generally squared with the analysis.
+“I didn’t take any time,” said Ivanisevic, the 2001 Wimbledon champ. “I just liked to play fast.” He recalled playing Agassi, another fast player, in a five-setter that took two hours. He was a bit off, but the match was still pretty fast for a five-setter, taking two hours and 50 minutes. Ivanisevic has to watch a lot of tennis these days, as coach of defending U.S. Open champ Marin Cilic, and he wishes players would move faster. “Maybe they should go to the towel just half the time,” he said.
+Michael Chang, the 1989 French Open champ, correctly guessed that he was somewhere in between Ivanisevic and Nadal in pace. He doesn’t blame Nadal: “A guy like Rafa, he sweats profusely,” Chang said.
+So did Pat Cash, the 1987 Wimbledon champ. “I was one of the sweatiest players in the history of the game,” he said. He also often ended points at the net, so he needed time to walk back to the baseline. Nonetheless, he used to rush as a young player, until he was taught to slow down — so slow, he was one of the slowest players, relative to his era.
+Cash thinks that the sport, with its protracted baseline rallies, is better today, and that there’s nothing wrong with players taking a 30-second break after a rally at least that long. “Spectators have got to catch their breath,” he said.
+
+
+
+Footnotes
+
+The Federer match was much faster than Nadal’s even though it had more long rallies: 36 of nine or more shots, compared with 27 in the Nadal match.
+25 seconds at ATP World Tour events
+The WTA, which runs the women’s tour, hasn’t cracked down on slow play like the ATP has with the men. And the men notice. Just after the ATP became stricter, in early 2013, men and women both played an Australian Open warmup event in Brisbane. Andy Murray recalled in a news conference last week that men timed women’s matches and complained that 35-second delays weren’t being penalized, while men were dinged for going two seconds over their limit.
+The database was updated through April 27 when I downloaded it. Tennis data is imperfect, including some errors in the historical record. I scrapped all matches with no time info, plus other oddballs (including matches with stats that looked wrong, like a handful of matches with points that averaged less than 15 seconds or more than six and a half minutes).
+I used R. The dependent variable was time divided by points. The variables I included started with the breakdown of points in the match, by type. More precisely, these variables were the percentage of points that were followed by: changeovers after the first game of a set, when there is no prolonged break; changeovers later in sets, with longer breaks; ends of sets; end of matches by one player winning the requisite number of sets; end of matches by retirement; end of matches by default; all other ends of games; tiebreaker changeovers, when players switch side in tiebreakers, after each six points; tiebreaker changes of serve, after an odd number of points; and all other tiebreaker points. I also included four groups of dummy variables: the year of the match; the tournament-surface (treating Madrid’s clay tournament separately from the old Madrid hard-court event and from Rome’s clay event); the winner; and the loser.
+Because of the nature of the regression, I had to choose one event to serve as the benchmark for all others. So I went with the first one listed when the events were lined up in alphabetical order. All the speed data is relative to data from 1998 to 2007 for ‘s-Hertogenbosch, a grass tournament in the Netherlands. Since it’s played on a relatively fast surface, the regression output shows the average tournament as contributing time to matches, so is best used to compare tournaments to each other, and not as an absolute number. Also note that some of the names were formatted inconsistently, so a few tournaments appear more than once, covering different time periods. That doesn’t affect our findings for other types of variables.
+All the player data is relative to retired American Aaron Krickstein, again chosen because he came first in alphabetical order. Since he played slightly faster than average for his time, the regression output shows the average player as contributing time to matches, so is best used to compare players to each other, and not as an absolute number. I’m listing only players with findings significant at the p<0.02 level — a stricter standard than p<0.05 to be more confident in the findings, but not quite as strict as p<0.01, which eliminated many more players — both for matches they won and for those they lost. My method found different estimates for winners and losers, but they were highly correlated — r-squared = 0.76 — so I combined them to form a single measure for each player, weighting the two estimates by his number of wins and losses in the data set. That’s the estimate shown in the following table.
+The 15 players were as follows: Faster than Aaron Krickstein: Nicolas Almagro, Roger Federer, Daniel Gimeno Traver, John Isner, Andrey Kuznetsov, Nick Kyrgios, Benoit Paire, Lukas Rosol, Bernard Tomic. Slower: Pablo Andujar, Carlos Berlocq, Borna Coric, Novak Djokovic, Andy Murray, Rafael Nadal. I measured time before 120 of their serves between Thursday and Saturday. They were playing on courts at the same facility, in roughly the same weather conditions. The r-squared for the correlation was 0.44. The serve speed data also is on GitHub.
+r-squared=0.01
+By inserting the regression coefficients, so I was controlling for opponent, surface, year and other factors.
+ 
+
+
+Carl Bialik was FiveThirtyEight’s lead writer for news.   @CarlBialik
+
+
+
+
+Filed under
+Tennis (84 posts)
+Roger Federer (26)
+Rafael Nadal (20)
+Andy Murray (6)
+Pace of Play (5)
+Michael Chang (1)
+Tick Tock (1)
+
+
+
+Comments
+
+
+
+
+
+

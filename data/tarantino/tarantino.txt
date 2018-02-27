@@ -1,0 +1,284 @@
+
+
+
+
+Dec. 9, 2015
+						at
+						10:29 AM
+
+
+
+							A Complete Catalog Of Every Time Someone Cursed Or Bled Out In A Quentin Tarantino Movie						
+
+
+
+By Oliver Roeder
+Filed under Word Count
+
+Get the data on GitHub
+GitHub data at data/tarantino
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Quentin Tarantino, John Travolta and Samuel L. Jackson in “Pulp Fiction.”							
+
+
+From the minute the multiplex curtains pulled back on his first feature, director Quentin Tarantino has ignited the interest, and occasional ire, of critics for his films’ strong language and frequent violence. The New York Times called his first film, “Reservoir Dogs,” “aggressively brutal.” About his next film, “Pulp Fiction,” the Los Angeles Times wrote that there was “something wearing and repetitive about the film’s reliance on shock value and bad-boy posturing to maintain our attention.”
+Tarantino’s eighth feature film, “The Hateful Eight,” comes out on Christmas, and it’s the story of bounty hunters seeking refuge from a Wyoming blizzard after the Civil War — so basically “The Good, the Bad and the Ugly” meets “Frozen.” To get ready, I spent a week on the couch with Tarantino’s oeuvre, watching people die and swear a blue streak. When someone was killed by a gun or a sword or a venomous snake, or someone was called a “motherfucker” or a “cocksucker,” I made a note of the event and the time. Then I did it all over again a few seconds later. What resulted was hard-won data that showed me the essential tempos of Tarantino’s films, and how they’ve changed over time.1 The guy’s getting bloodier in his old age.
+
+
+
+Some mild assumptions were necessary for this project. For one, I’m not a medical doctor, but I assumed that if, say, someone had numerous limbs cut off or took a direct blade to the torso in a samurai sword battle, that person would indeed bleed out and die.2 And for profanity in foreign languages — mainly in Chinese and Japanese in the “Kill Bill” films and French in “Inglourious Basterds” — I relied on the theatrical subtitles.3
+Also, it’s occasionally difficult to make out the profane language precisely. If you recently had your one remaining eyeball plucked out, for example, I may not have understood every word you screamed in horror. But I did my best to count all the curses, from the mild hells and damns and asses to the more potent shits, fucks and n-words. (You can find the full data set on GitHub.)
+
+
+
+FILM
+CURSES
+DEATHS
+CURSE/DEATH RATIO
+
+
+
+
+Jackie Brown
+368
+4
+92.0
+
+
+Pulp Fiction
+469
+7
+67.0
+
+
+Reservoir Dogs
+421
+10
+42.1
+
+
+Kill Bill: Vol. 2
+69
+11
+6.3
+
+
+Django Unchained
+262
+47
+5.6
+
+
+Inglourious Basterds
+58
+48
+1.2
+
+
+Kill Bill: Vol. 1
+57
+63
+0.9
+
+
+Total
+1704
+190
+9.0
+
+
+
+Every Tarantino film features plenty of R-rated language4 and at least a few deaths, but they’re not all created equal. Tarantino has been trading fucks for deaths as he “matures.” “Reservoir Dogs” features “just” 10 on-screen deaths, but 421 profanities. “Django Unchained,” on the other hand, has “just” 262 profanities but 47 deaths.5
+Part of this is probably his films’ growing budgets — it’s much cheaper to drop a dozen f-bombs on celluloid than to drop a dozen samurais. If you want to jolt audiences on the cheap, you do it through swearing. If you want to do it with a budget, you slice some people in half. “Reservoir Dogs” was made for about $2 million in today’s dollars, per IMDb. The “Django Unchained” budget was just more than $100 million. “The Hateful Eight” cost $44 million.
+
+
+
+WORD
+COUNT
+% OF ALL CURSES
+
+
+
+
+fucking
+407
+23.9%
+
+
+shit
+221
+13.0
+
+
+fuck(s)
+216
+12.7
+
+
+n—–(s)
+179
+10.5
+
+
+goddamn(ed)
+114
+6.7
+
+
+motherfucker(s)
+85
+5.0
+
+
+bitch(es)
+73
+4.3
+
+
+hell
+45
+2.6
+
+
+damn(ed)
+40
+2.3
+
+
+motherfucking
+27
+1.6
+
+
+
+It does appear that, by some measures, Tarantino has chilled out since the salad days of “Reservoir Dogs” and “Pulp Fiction.” In 2004’s “Kill Bill: Vol. 2” there’s a remarkable 16-plus-minute stretch with no death or profanity at all. Just regular talking and driving and stuff. Some of it does take place with a pimp in a brothel and a facially scarred prostitute, but still. And when it comes to curses, we’re in the quietest era of his filmography.
+Although Tarantino is an eclectic profaner, using healthy doses of words from the carnal to the scatological, he’s especially fond of expletives of the “F” variety. Tarantino doesn’t give a fuck — he gives hundreds.
+“Fuck” is a fantastic word. It might be the very best word. It might be the single most useful word in the English language. It’s a transitive verb and an intransitive verb. It’s a noun and an interjection. “Fucking” can be an adjective and an intensifier and a gerund.6 “Fucked” can also be an adjective, with an altogether different meaning. And “fuck,” with all of its deliciously vulgar varietals, is Tarantino’s favorite.
+
+
+
+TYPE OF FUCK
+COUNT
+% OF ALL FUCKS
+
+
+
+
+fucking
+407
+52.7%
+
+
+fuck
+213
+27.6
+
+
+motherfucker
+70
+9.1
+
+
+motherfucking
+27
+3.5
+
+
+fucked
+25
+3.2
+
+
+motherfuckers
+15
+1.9
+
+
+fucker
+8
+1.0
+
+
+fucks
+3
+0.4
+
+
+fuckup
+1
+0.1
+
+
+fuckhead
+1
+0.1
+
+
+fuckface
+1
+0.1
+
+
+fuckers
+1
+0.1
+
+
+Total fucks
+772
+100.0
+
+
+
+The table next to this paragraph breaks down all the inflections of fuck uttered in Tarantino’s films, from the earliest utterance in “Reservoir Dogs” — “She’s been fucked over a few times” — to the last in “Django Unchained” — “You done fucked up.” “Fucking,” with its evergreen, yogic flexibility, earns the top spot. A typical Tarantino deployment of the word, courtesy of Vincent Vega in the back seat of a brain-and-skull-spattered car in “Pulp Fiction”: “Right now I’m a fucking race car, and you got me in the red, and I’m just saying that it’s fucking dangerous to have a race car in the fucking red, that’s all.”
+“The Hateful Eight” may not continue this proud tradition. A leaked script for the movie reportedly had, as Esquire magazine put it, “a paltry 18 fucks.” (My search of the script revealed 23 versions of the word.) If the theatrical release is consistent with the leaked script, and there’s no guarantee that it will be, “Hateful Eight” will nearly be the most fuckless Tarantino film. 2003’s “Kill Bill: Vol. 1” had 17 versions of the f-bomb, according to my tally. By my count, the leaked “Hateful Eight” script also contains 11 versions of “shit,” 14 of “bitch,” 16 of “hell,” 21 of “ass,” 44 of “damn” and 49 n-words. On the profanity gauge, this would be a significant downtick from his last film, and a far cry from the early days of “Reservoir Dogs,” “Pulp Fiction” and “Jackie Brown.”
+Given how Tarantino has eased back on his obscenities, one could be forgiven for feeling nostalgic for Tarantino’s early, hyper-potty-mouthed days. “Dick, dick, dick, dick, dick, dick, dick, dick, dick,” the character Mr. Brown, played by Tarantino himself, explains over coffee in the very first scene of Tarantino’s very first feature, “Reservoir Dogs.” “How many dicks is that?” Mr. Blue deadpans. “A lot,” says Mr. White. Or, to be exact, nine out of the 20 dicks in Tarantino’s full catalog.
+
+
+
+Footnotes
+
+I’m considering only Tarantino’s proper features, so this analysis doesn’t include his “Four Rooms” segment, his special guest director credit on “Sin City” or his half of “Grindhouse.”
+I also didn’t count the deaths in the “Inglourious Basterds” film-within-a-film “Stolz der Nation” because no one was dying within the universe of “Basterds.” Film studies majors, come at me.
+There’s also an explosion in a movie theater in “Inglourious Basterds.” This likely kills people, but it’s impossible to tell how many, and the deaths aren’t explicitly on-screen, so they are absent from my tally.
+And indeed, every Tarantino feature is rated R.
+It also bears mentioning that you could cram a lot more killing and obscenities into “Django”’s 165-minute run time than into the 99-minute “Reservoir Dogs,” if you were so inclined.
+Tarantino most often deploys it as an adjective or an intensifying adverb.
+ 
+
+
+Oliver Roeder is a senior writer for FiveThirtyEight.    @ollie
+
+
+
+
+Filed under
+Movies (117 posts)
+Language (14)
+Word Count (4)
+
+
+
+Comments
+
+
+
+
+
+

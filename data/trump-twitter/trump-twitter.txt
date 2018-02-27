@@ -1,0 +1,205 @@
+
+
+
+
+Jun. 21, 2016
+						at
+						7:00 AM
+
+
+
+							The World’s Favorite Donald Trump Tweets						
+
+
+
+By Leah Libresco
+Filed under 2016 Election
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Original photo by ROBYN BECK/AFP/Getty Images
+
+
+
+Since his presidential campaign started, Donald Trump has sent thousands of tweets into the world. They’ve consumed news cycles, antagonized opponents and riled up supporters. They’ve also been a defining feature of his unorthodox campaign. Truman had his whistle-stop tour. Kennedy had his TV ads. Donald Trump has his Twitter account.
+Because Trump has used Twitter to such great effect, and because his tweets are a useful time capsule for his campaign, we decided to take a look back to see what he has said as he dominated debates, won primaries and all but wrapped up the nomination. We downloaded and categorized more than 3,000 of his most recent tweets (from Nov. 5 through June 2)1 to see what Trump talked about most, which people suffered the majority of his attacks, and how Twitter reacted to what he was tweeting about. (You can read more about our methodology in the footnotes.2) Our analysis includes only tweets that were entirely by Trump (so it excludes the times Trump retweeted someone else’s tweet, which made up a little less than a third of the tweets we collected). If you were divining his platform from his tweets, you’d see a candidate more defined by his enmities than his policy proposals.
+Trump tweeted about his rivals for the Republican nomination nearly as much as he tweeted about policy.
+
+
+
+
+
+SHARE OF TRUMP’S …
+
+
+TOPIC
+TWEETS
+RETWEETS BY OTHERS
+
+
+
+
+Policy
+17%
+25%
+
+
+Republican candidates
+16
+17
+
+
+Polls
+11
+9
+
+
+Attacking media
+11
+9
+
+
+Democratic candidates
+7
+12
+
+
+Attacking women (excluding Clinton)
+3
+3
+
+
+What Trump talks most about on Twitter
+
+
+Includes tweets from Nov. 5 to June 2, excludes retweets. A tweet can count in more than one category.
+Source: Twitter
+
+
+But, interestingly, it’s his policy tweets that prompted a quarter of Trump’s retweets.3 His followers — or at least the people who see his tweets — seem to be more interested in sharing tweets about what Trump is offering to do for them than in sharing his expressions of scorn for the media or his rivals.
+Trump’s most-favorited and most-retweeted tweet was one that didn’t fit into any of our categories about policies or enemies: his “I love Hispanics!” tweet for Cinco de Mayo.
+
+
+
+Happy #CincoDeMayo! The best taco bowls are made in Trump Tower Grill. I love Hispanics! https://t.co/ufoTeQd8yA pic.twitter.com/k01Mc6CuDI
+— Donald J. Trump (@realDonaldTrump) May 5, 2016
+
+
+That tweet was propelled to the top by heavy news coverage,4 as well as supporters’ enthusiasm. His other most-retweeted tweets called out Fox News for bias, castigated protesters, simply declared “MAKE AMERICA GREAT AGAIN,” and called Hillary Clinton a hypocrite for favoring gun control while enjoying armed Secret Service protection. The rest of his five most-favorited tweets were all about either protesters or the Brussels terrorist attacks.
+Trump has used Twitter to hem in his opponents, making the story of the day about his line of attack. He’s prompted the media to analyze his Twitter feuds and forced his opponents to answer questions about his jibes and sobriquets. He also seems to have gone about it in a scattershot way. Over the course of the campaign, Trump’s attacks on his opponents tended to come in bursts, some strategic and others looking more like pique.
+
+
+
+Before the Iowa caucuses and Florida primary, Trump concentrated his fire on his most important rivals in those contests (Ted Cruz and Marco Rubio, respectively). However, he also went on sprees like his flurry of 12 anti-John Kasich tweets within an hour on Nov. 19.
+
+
+
+I want to do negative ads on John Kasich, but he is so irrelevant to the race that I don’t want to waste my money.
+— Donald J. Trump (@realDonaldTrump) November 20, 2015
+
+
+His discussion of different policies on Twitter was similarly streaky, with some tweetstorms written in response to the news cycle and others seemingly spontaneous.
+Whatever tweeting streak Trump is on, he tends to be much more excited about it than other candidates are about their own tweets.
+
+
+
+
+EXCLAMATION POINTS PER TWEET
+TRUMP
+CRUZ
+CLINTON
+SANDERS
+
+
+
+
+None
+29.9%
+68.6%
+93.0%
+90.1%
+
+
+!
+59.6
+30.8
+6.8
+9.4
+
+
+!!
+9.3
+0.6
+0.2
+0.5
+
+
+!!!
+1.0
+0.0
+<0.1
+0.0
+
+
+!!!!
+0.1
+0.0
+0.0
+0.0
+
+
+Trump is really excited to be running for president(!)
+
+
+Includes tweets from Nov. 5 to June 2 (Trump), Feb. 3 to June 8 (Cruz), Nov. 15 to June 8 (Clinton) and Jan. 8 to June 8 (Sanders)
+Source: Twitter
+
+
+More than two-thirds of Trump’s tweets had at least one exclamation point, and less than one-third of Cruz’s and less than 10 percent of Clinton’s and Bernie Sanders’s tweets had punchy punctuation.5 One in 10 of Trump’s tweets had two or more exclamation points, an order of magnitude more than any of the other three candidates.
+I suspect that Trump’s defeated opponents have a lot of thoughts that would merit two or more exclamation points, if they dared to say them on Twitter.
+Dhrumil Mehta and David Nield contributed reporting.
+
+
+
+Footnotes
+
+That’s as far back as our scraper tool takes us.
+All statistics on the total number of favorites and retweets were current as of June 2. Tweets were individually categorized by hand according to their content; categories covered a range of topics from specific people attacked (Elizabeth Warren, the pope), specific policy areas addressed (foreign policy, jobs policy) and tweets about Trump’s own controversies (Trump University, his tax returns). A tweet could fit more than one category. Our analysis did not specifically tally tweets announcing media or speaking appearances; those would fall under “other.”
+We counted anything that made reference to a particular policy domain. So a tweet reading “The U.S. has 69 treaties with other countries where we would have to defend them and their borders. How nice, but what do we get? NOT ENOUGH” counted as “foreign policy” even though it didn’t gesture at what kind of treaties Trump would prefer.
+Everything from an NPR piece exploring all the ways the tweet was offensive to a Vox investigation into whether Trump Tower actually serves taco bowls.
+The date ranges differ because we scraped the other candidates’ Twitter feeds later in the course of reporting this article. Since the scraper pulls a capped number of recent tweets, the start date varies with a candidate’s rate of tweeting.
+ 
+
+
+Leah Libresco is a former news writer for FiveThirtyEight.   @leahlibresco
+
+
+
+
+Filed under
+2016 Election (1071 posts)
+Donald Trump (867)
+2016 Republican Primary (315)
+
+
+
+Comments
+
+
+
+
+
+

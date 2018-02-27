@@ -1,0 +1,89 @@
+
+
+
+
+Jun. 3, 2015
+						at
+						11:58 AM
+
+
+
+							Where Police Have Killed Americans In 2015						
+
+
+
+By Ben Casselman
+Filed under Police Killings
+
+Get the data on GitHub
+GitHub data at data/police-killings
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+			A makeshift memorial at the scene where Freddie Gray was arrested in Baltimore.							David Goldman / AP
+
+
+				A makeshift memorial at the scene where Freddie Gray was arrested in Baltimore.									David Goldman / AP
+
+
+
+On Monday, the Guardian launched “The Counted,” an impressive interactive database of Americans killed by police since the start of the year. As of Tuesday, the database had 467 entries; the Guardian plans to add to it going forward.
+As we’ve written repeatedly, official statistics on police killings are deeply flawed. So the Guardian is building its data set by combining media coverage, reader submissions and open-sourced efforts like Fatal Encounters and Killed by Police, which we’ve previously found to be reliable. The Guardian then verifies those incidents with its own reporting; it calls its data “verified crowdsourced.” Wherever possible, it includes demographic information on those killed, such as age, sex and race,1 as well as basic details on the incidents themselves.
+The Guardian data set also includes the addresses where the killings took place. My colleague Reuben Fischer-Baum converted those addresses into census tracts, which allows us to look at demographic and economic information on the neighborhoods where these deaths occurred. (The Guardian is making its full data set available for download, which gives us, as well as other researchers, journalists and the public at large, a chance to build on its work.)
+The table below gives some basic information on race2 and income by census tract.3
+
+One thing that’s clear from the data: Police killings tend to take place in neighborhoods that are poorer and blacker than the U.S. as a whole. About 30 percent of the killings — 139 of the 467 — took place in census tracts that are in the bottom 20 percent nationally in terms of household income.4 A quarter of those killed by police died in tracts with majority-black populations; nationally, just 7 percent of the population lives in majority-black tracts.
+Black Americans were especially likely to be killed in poorer neighborhoods. Of the 136 African-Americans killed by police who are in the Guardian’s database, 56 — more than 40 percent — died in tracts in the poorest 20 percent nationally. But that may say more about overall racial inequality than about policing per se: African-Americans were killed in low-income areas at roughly the same rate that they live in them.5
+Those numbers fit a narrative that emerged after the deaths of Michael Brown in Ferguson, Missouri, and of Freddie Gray in Baltimore. Both occurred in poor, predominantly black neighborhoods with few jobs and limited educational opportunities. Protesters who took to the streets after those deaths often cited economic conditions — along with police tactics they saw as discriminatory — as an underlying cause of their anger.
+But by no means do all police killings fit this pattern. Take one example: In February, Vincent Cordaro, a 57-year-old white man, was fatally shot in his home in Rockland County, New York – a New York City suburb where the median household income is more than $140,000.
+Like most of the people in the Guardian’s database, Cordaro was armed when he died: According to news reports, he threatened his family with a shotgun and was killed after a seven-hour standoff with police.
+But incidents that look more like ones that have been in the news — unarmed black men shot by police — can happen anywhere. Frank Shephard III, for example, was shot in a census tract in Houston with a median household income of more than $80,000; police said he had fled a traffic stop.
+The numbers in the table above are based on where people died, not where they lived. In some cases, that can yield some strange results. Natasha McKenna, for example, died in a county jail in Fairfax, Virginia, that happens to be in one of the richest census tracts in the country.
+In other words, interpret the numbers with caution. But thanks to the Guardian, and the groups whose data-collection efforts it relies on, we at least have some numbers to work with.
+We’ve posted more data on GitHub. The GitHub data also includes codes for the census tracts, which makes it easy to link it up to other census statistics. We’d love to know what you find.
+
+
+
+Footnotes
+
+Race is unavailable in some cases and may be wrong in others. The Guardian has a good description of how it collects information on race on its site.
+”White” in the table refers to non-Hispanic white.
+Census tracts vary a lot in size but have populations that range from 1,200 to 8,000.
+Tracts aren’t population-weighted, so a tract in rural Wyoming and a tract in New York City count equally in this calculation. Nationally, about 16 percent of the population lives in the poorest 20 percent of census tracts.
+More precisely, 42 percent of police killings of blacks took place in census tracts in the bottom 20 percent by median income; about 44 percent of African-Americans live in such census tracts. The rest of the distribution is similar.
+ 
+
+
+Ben Casselman is a senior editor and the chief economics writer for FiveThirtyEight.   @bencasselman
+
+
+
+
+Filed under
+Police Killings (25 posts)
+Police Misconduct (5)
+The Guardian (3)
+
+
+
+Comments
+
+
+
+
+
+

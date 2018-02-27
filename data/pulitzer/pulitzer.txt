@@ -1,0 +1,76 @@
+
+
+
+
+Apr. 15, 2014
+						at
+						9:56 AM
+
+
+
+							Do Pulitzers Help Newspapers Keep Readers?						
+
+
+
+By Nate Silver
+Filed under Awards
+
+Get the data on GitHub
+GitHub data at data/pulitzer
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Charlotte Observer editorial cartoonist Kevin Siers won a 2014 Pulitzer Award for editorial cartooning.									David T. Foster III / Charlotte Observer / MCT
+
+
+
+The 2014 Pulitzer Prizes were announced Monday afternoon. Congratulations to all the finalists and winners of the annual journalism awards. We’re fans of high-quality journalism at FiveThirtyEight, and we’re hoping to see the organizations that produce it succeed financially as well as journalistically.
+The economics of newspaper publishing remain very challenging, of course. So I wanted to see whether there was any relationship between the Pulitzer Prizes and a newspaper’s commercial success. Are consumers gravitating toward news outlets that produce work of Pulitzer quality? Or are these newspapers struggling even more than others?
+I looked up daily circulation figures for the top 50 U.S. newspapers as of 2004 and how much circulation had increased or decreased as of 2013. I then searched the Pulitzer database for how many winners and finalists those newspapers have had since 1990. We’ve posted all of this data at Github.
+Topping the Pulitzer ranks is The New York Times, which by my count has had 117 winners and finalists since 1990. (My totals may be inexact because the Pulitzer database can list a newspaper under different variations of its name, or the attribution of an award may otherwise be unclear.) The Times’ print circulation fell by 35 percent between 2004 and 2013. However, the paper also sells digital subscriptions, which the Alliance for Audited Media now includes as part of its circulation figures. Counting those, Times subscriptions were up 67 percent between 2004 and 2013.
+Unfortunately, the Times is something of an outlier. The Washington Post has had 100 Pulitzer winners and finalists since 1990, but its total circulation was down 38 percent from 2004 to 2013 (counting digital subscriptions). The Los Angeles Times, with 85 winners and finalists, saw its circulation drop 34 percent over the same period, while The Boston Globe, with 41 winners and finalists, experienced a 45 percent decline.
+Overall, the relationship between Pulitzer Prizes and changes in circulation is very noisy, as can be seen in the chart below. The very modest positive correlation in the chart is mostly the result of The New York Times alone. Were digital subscriptions not counted for the Times and other newspapers, the correlation would be essentially zero instead.
+
+Does that mean that newspapers might as well forget about quality as an economic strategy? That’s not what this data says. There is a relationship between Pulitzer Prizes and circulation (the correlation is .53 among the 50 newspapers listed here). It’s just that this relationship hasn’t changed much from 10 years ago. The vast majority of newspapers have seen their circulations decline; the ones that win a lot of Pulitzers have suffered about as much as the ones that don’t. You could spin this result as a negative for high-quality journalism — newspapers that win Pulitzers are doing no better at retaining their readers — or as a positive — almost all newspapers are struggling, but the ones that win Pulitzers continue to have more readers.
+This is just a quick take, of course. Newspaper sales are affected by all sorts of factors, and counting circulation is not straightforward in the digital age. We encourage you to explore the data yourself.
+A couple of further notes. First, in the file we’ve provided, we’ve broken down Pulitzer Prizes into two periods, 1990-2003 and 2004-2014. That’s because, if we’re being very precise, the number of Pulitzers since 2004 can’t be said to “predict” circulation changes from 2004 onward because these things occurred concurrently. (It could be that commercially successful newspapers can afford to reinvest in categories like investigative journalism — meaning that sales predict Pulitzers rather than the other way around.) However, taking the Pulitzer numbers from 1990-2003, from 2004-2014 or over the entire period from 1990-2014 makes little difference in the results.
+Second, we’ve listed the New Orleans Times-Picayune as having experienced a 100 percent drop in daily circulation. That’s because the paper no longer publishes a daily print edition; instead, it publishes on Wednesdays, Fridays and Sundays.
+Finally, the San Jose Mercury News now counts sales of the Contra Costa Times and the Oakland Tribune as part of its figures. To provide for a fairer comparison, we’ve gone back and added the Contra Costa Times’ and Oakland Tribune’s circulation numbers to the San Jose Mercury News’ circulation totals for 2004. We’ve also included the Oakland Tribune’s 1990 Pulitzer Prize in the Mercury News’ figures.
+
+
+
+Nate Silver is the founder and editor in chief of FiveThirtyEight.   @natesilver538
+
+
+
+
+Filed under
+News Media (101 posts)
+Media (65)
+New York Times (12)
+Awards (8)
+Pulitzer Prizes (2)
+
+
+
+Comments
+
+
+
+
+
+

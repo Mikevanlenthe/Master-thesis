@@ -1,0 +1,224 @@
+
+
+
+
+Nov. 14, 2015
+						at
+						6:26 PM
+
+
+
+							The Rise Of Terrorism Inspired By Religion In France						
+
+
+
+By Carl Bialik
+Filed under Terrorism
+
+Get the data on GitHub
+GitHub data at data/terrorism
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Parisians gather in front of the Carillon cafe on Saturday to pay tribute to those killed in the terrorist attacks the previous day.									Thibault Camus / AP
+
+
+
+The terrorist attacks at six sites in and around Paris on Friday, which French authorities said killed 129 people and injured more than 350, claimed more lives than all other acts of terror combined in the previous quarter century in France, according to the Global Terrorism Database. 1 The victims came from at least nine countries; scores were attending a rock concert, some were eating dinner at a Cambodian restaurant, two were sisters from Tunisia who were celebrating a birthday, according to Le Figaro.
+
+
+
+But the attacks, which French President François Hollande blamed on the Islamic State, are only the latest in a series of religiously inspired terrorist acts that have afflicted France in the last 12 months. Last December, attackers using a van and a knife in Dijon and Tours reportedly yelled out “Allahu Akbar” (God is great) though neither incident appeared to be tied to larger terrorist organizations. The next month, attacks in Paris on a satirical newspaper and a kosher supermarket killed 17 people; a branch of al Qaeda claimed responsibility. A man in June who beheaded his boss had links to Islamic State. In August, an Islamic State sympathizer with a box cutter and rifle apparently planning to attack train passengers was thwarted by three visiting Americans without killing anyone.
+The wave represents a shift away from separatist political violence to religiously inspired acts, according to stats compiled by the European Union’s police organization, Europol.
+
+
+
+
+
+
+Most incidents continue to be inspired by separatism, including 50 in France alone last year, and many French terrorist attacks were committed by Corsican separatists. But recent separatist terrorist attacks in the EU generally have targeted property, often through arson, and very few have killed people. Just 48 people died in the EU in terrorist attacks from 2006 to 2014, according to Europol – fewer than half the number who died in Friday’s Paris attack.2
+Why the rise in religiously motivated terrorist attacks in France? Some terrorism experts point to the disproportionately large number of French residents who have gone to Syria to fight with Islamic State. France has one-eighth of the EU’s population but between one-third and one-fourth of the EU’s residents who have traveled to fight with Islamic State. The number of people who travel to fight with Islamic State is necessarily an estimate, but one that has climbed, for France, from 700 in April 2014 to 1,200 this January, to 1,550 by August.
+(It remains unclear whether Islamic State fighters from France carried out Friday’s attack. A suspect linked to the attack was arrested in Belgium. A Syrian passport was found near one of the attacks.)
+“French authorities are being overwhelmed by numbers,” said Brian Michael Jenkins, a terrorism researcher and senior advisor to the president of RAND Corp., in an email interview. These numbers, he said, include “the number of those who have gone from France to Syria, some of whom have returned; the number suspected of preparing to go; plus others under surveillance for possible involvement in terrorist activity comes to the thousands. Intelligence services do not have the resources to keep all of them under surveillance. Choices have to be made. But dangerousness is difficult to predict.”
+Another potential contributing factor is the prevalence of guns in France, which is higher than in most of the rest of the EU, according to the 2007 Small Arms Survey, the latest available data.
+
+
+
+COUNTRY
+FIREARMS PER 100 PEOPLE
+
+
+
+
+U.S.
+89
+
+
+Switzerland
+46
+
+
+Finland
+45
+
+
+Cyprus
+36
+
+
+Sweden
+32
+
+
+France
+31
+
+
+Austria
+30
+
+
+Germany
+30
+
+
+Greece
+23
+
+
+Croatia
+22
+
+
+Northern Ireland
+22
+
+
+Latvia
+19
+
+
+Belgium
+17
+
+
+Czech Republic
+16
+
+
+Luxembourg
+15
+
+
+Slovenia
+14
+
+
+Denmark
+12
+
+
+Italy
+12
+
+
+Malta
+12
+
+
+Spain
+10
+
+
+Estonia
+9
+
+
+Ireland
+9
+
+
+Portugal
+9
+
+
+Slovakia
+8
+
+
+Hungary
+6
+
+
+England & Wales
+6
+
+
+Scotland
+6
+
+
+Netherlands
+4
+
+
+Lithuania
+1
+
+
+Poland
+1
+
+
+Romania
+1
+
+
+
+“The largely unrestricted availability of weapons has certainly aided the number of terrorist plots,” Sajjan M. Gohel, international security director at the Asia-Pacific Foundation think-tank, said in an email interview. “Following the collapse of former Yugoslavia, there has been a surplus of weapons which would be traded through various criminal networks. Some of those ended up in the hands of those plotting attacks.”
+Most terrorist incidents and deaths still occur outside of Europe. The new attacks are the deadliest in Western Europe since the Madrid train bombings killed 191 in 2004. Other deadly events in Europe in recent years include a hostage crisis at a school in Beslan, Russia, that killed 334 in 2004; London tube bombings that killed 52 in 2005; a bombing and shooting in and near Oslo, Norway in 2011; and a plane shot down over Ukraine last year, killing 283 people on board. Officials suspect a Russian plane that crashed in Egypt last week, killing all 224 on board, was brought down by a bomb. The Islamic State has claimed responsibility for the plane crash.
+Andrew Flowers contributed to this article.
+Check out our live coverage of the second Democratic debate
+
+
+
+Footnotes
+
+The database is maintained by the National Consortium for the Study of Terrorism and Responses to Terrorism at the University of Maryland, College Park. The database includes perpetrators killed during attacks in its counts of deaths; counting at least seven perpetrators killed on Friday, the total death toll was 136. Another 99 people are in critical condition, so the figure is likely to rise. The raw data and code behind this analysis can be found on our GitHub page.
+Terrorism counts are imprecise because not all counts include all events, either because they were missed or because of differences of opinion about what constitutes terrorism. The Global Terrorism Database counts 60 deaths from terrorism between 2006 and 2014 in the 12 countries that have been EU members since 1986. That database, but not Europol’s, counts perpetrators in its death toll.
+ 
+
+
+Carl Bialik was FiveThirtyEight’s lead writer for news.   @CarlBialik
+
+
+
+
+Filed under
+Terrorism (42 posts)
+Islamic State (8)
+Paris (3)
+
+
+
+Comments
+
+
+
+
+
+
