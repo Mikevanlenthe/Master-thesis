@@ -1,4 +1,6 @@
 <h1 align="center">Master Thesis</h1>
+&middot;
+[![Latest Github release](https://img.shields.io/github/release/Mikevanlenthe/Master-thesis.svg)](https://github.com/Mikevanlenthe/Master-thesis/releases)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -8,10 +10,11 @@ Using news article data files and texts to predict it's optimal visual represent
 
 <br>
 
-## Progress
+## To do
+* Calculates **edit distance (Levehnstein distance)**.
 
-<p align="left"><img width=15% src="https://img.shields.io/badge/TODO--blue.svg"></p>
+## In progress
+* Calculates **edit distance (Levehnstein distance)**.
 
-<p align="left"><img width=15% src="https://img.shields.io/badge/IN PROGRESS--yellow.svg"></p>
-
-<p align="left"><img width=15% src="https://img.shields.io/badge/DONE--brightgreen.svg"></p>
+## Done
+* Calculates **edit distance (Levehnstein distance)**.
