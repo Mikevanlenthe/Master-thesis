@@ -3,7 +3,7 @@
 ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mikevanlenthe/master-thesis.svg?longCache=true&style=for-the-badge)
 
 
-## Basic Overview
+## Idea
 
 Using news article data files and texts to predict it's optimal visual representation category, with use of a supervised learning approach. 
 
