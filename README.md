@@ -19,7 +19,7 @@ Using news article data files and texts to predict it's optimal visual represent
           *	What are the textual characteristics related to the visual representation described in the article
               *	What are the key indicators?
               *	E.g. indicators for a bar chart:
-                    *	The graphic shows an increasing trend in the mean dollar value…… over the period from 2000 to 2005
+                  *	The graphic shows an increasing trend in the mean dollar value…… over the period from 2000 to 2005
 
 
 *	On github I will add a folder where I will store the weekly minutes
