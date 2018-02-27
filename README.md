@@ -1,6 +1,6 @@
 <h1 align="center">Master Thesis</h1>
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mikevanlenthe/master-thesis.svg)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mikevanlenthe/master-thesis.svg?longCache=true&style=for-the-badge)
 
 
 ## Basic Overview
