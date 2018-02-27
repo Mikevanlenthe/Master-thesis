@@ -1,6 +1,6 @@
 <h1 align="center">Master Thesis</h1>
 &middot;
-[![Latest Github release](https://img.shields.io/github/release/Mikevanlenthe/Master-thesis.svg)](https://github.com/Mikevanlenthe/Master-thesis/releases)
+[![Last-changedate](https://img.shields.io/badge/last%20change-2017--08--12-yellowgreen.svg)](/commits/master)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
