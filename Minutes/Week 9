@@ -2,36 +2,36 @@ Minutes 27-2-2018 (week 9)
 
 My progress from week 8: 
 -	Github created: https://github.com/Mikevanlenthe/Master-thesis/
-o	Folder structure:
-"	Data: Article texts, csv files 
-"	Code: Used Python programs
+  o	Folder structure:
+    "	Data: Article texts, csv files 
+    "	Code: Used Python programs
 
 -	Data collected (so far)
-o	Scraped +- 80 FiveThirtyEight articles stored on github (folder "data")
-"	Each folder represents an unique article with:
-"	Corresponding csv files 
-"	Corresponding article text (in .txt format) 
-"	Link to article on FiveThirtyEight
+  o	Scraped +- 80 FiveThirtyEight articles stored on github (folder "data")
+    "	Each folder represents an unique article with:
+    "	Corresponding csv files 
+    "	Corresponding article text (in .txt format) 
+    "	Link to article on FiveThirtyEight
 
 -	Study of paper: Generating Textual Summaries of Bar Charts 
-o	Demir, S., Carberry, S., & McCoy, K. F. (2008, June). Generating textual summaries of bar charts. In Proceedings of the Fifth International Natural Language Generation Conference (pp. 7-15). Association for Computational Linguistics.
+  o	Demir, S., Carberry, S., & McCoy, K. F. (2008, June). Generating textual summaries of bar charts. In Proceedings of the Fifth International Natural Language Generation Conference (pp. 7-15). Association for Computational Linguistics.
 
 
 To do (week 9):
 -	For each article in data folder: 
-o	Store corresponding article images (graphs, data tables) 
+  o	Store corresponding article images (graphs, data tables) 
 
 -	Perform a qualitative analysis on some articles:
-o	What is the intended message? 
-"	What are the textual characteristics related to the visual representation described in the article
-"	What are the key indicators?
-o	E.g. indicators for a bar chart:
-"	The graphic shows an increasing trend in the mean dollar value…… over the period from 2000 to 2005
+  o	What is the intended message? 
+    "	What are the textual characteristics related to the visual representation described in the article
+    "	What are the key indicators?
+  o	E.g. indicators for a bar chart:
+    "	The graphic shows an increasing trend in the mean dollar value…… over the period from 2000 to 2005
 
 -	On github I will add a folder where I will store the weekly minutes
 
 -	Study of paper: Exploring the Types of Messages that Pie Charts Convey in Popular Media 
-o	Burns, R., Balawejder, E., Domanowska, W., Schwartz, S. E., & Carberry, S. (2016, August). Exploring the Types of Messages that Pie Charts Convey in Popular Media. In International Conference on Theory and Application of Diagrams (pp. 265-271). Springer, Cham.
+  o	Burns, R., Balawejder, E., Domanowska, W., Schwartz, S. E., & Carberry, S. (2016, August). Exploring the Types of Messages that Pie Charts Convey in Popular Media. In International Conference on Theory and Application of Diagrams (pp. 265-271). Springer, Cham.
 
 -	On the homepage of my github I will generate an overview of my progress 
 
