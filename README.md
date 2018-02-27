@@ -1,6 +1,6 @@
 <h1 align="center">Master Thesis</h1>
 
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mikevanlenthe/master-thesis/infra/config.svg)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/mikevanlenthe/master-thesis/config.svg)
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
