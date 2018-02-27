@@ -36,3 +36,18 @@ Using news article data files and texts to predict it's optimal visual represent
 
 ## Done
 *	On the homepage of my github I will generate an overview of my progress 
+*	Github created: https://github.com/Mikevanlenthe/Master-thesis/
+    *	Folder structure:
+          *	Data: Article texts, csv files 
+          *	Code: Used Python programs
+
+*	Data collected (so far)
+    *	Scraped +- 80 FiveThirtyEight articles stored on github (folder "data")
+          *	Each folder represents an unique article with:
+          *	Corresponding csv files 
+          *	Corresponding article text (in .txt format) 
+          *	Link to article on FiveThirtyEight
+
+*	Study of paper: Generating Textual Summaries of Bar Charts 
+    *	Demir, S., Carberry, S., & McCoy, K. F. (2008, June). Generating textual summaries of bar charts. In Proceedings of the Fifth International Natural Language Generation Conference (pp. 7-15). Association for Computational Linguistics.
+
