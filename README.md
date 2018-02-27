@@ -22,8 +22,6 @@ Using news article data files and texts to predict it's optimal visual represent
                   *	The graphic shows an increasing trend in the mean dollar value…… over the period from 2000 to 2005
 
 
-*	On github I will add a folder where I will store the weekly minutes
-
 *	Study of paper: Exploring the Types of Messages that Pie Charts Convey in Popular Media 
     *	Burns, R., Balawejder, E., Domanowska, W., Schwartz, S. E., & Carberry, S. (2016, August). Exploring the Types of Messages that Pie Charts Convey in Popular Media. In International Conference on Theory and Application of Diagrams (pp. 265-271). Springer, Cham.
 
@@ -50,4 +48,7 @@ Using news article data files and texts to predict it's optimal visual represent
 
 *	Study of paper: Generating Textual Summaries of Bar Charts 
     *	Demir, S., Carberry, S., & McCoy, K. F. (2008, June). Generating textual summaries of bar charts. In Proceedings of the Fifth International Natural Language Generation Conference (pp. 7-15). Association for Computational Linguistics.
+
+
+*	On github I will add a folder where I will store the weekly minutes
 
