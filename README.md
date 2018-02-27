@@ -1,5 +1,5 @@
 <h1 align="center">Master Thesis</h1>
-![GitHub issue last update](https://img.shields.io/github/mikevanlenthe/master-thesis/issues/detail/last-update/badges/shields/979.svg)
+![GitHub issue last update](https://img.shields.io/github/issues/detail/last-update/badges/shields/979.svg)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
