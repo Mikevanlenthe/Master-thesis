@@ -7,7 +7,6 @@ from urllib.request import urlretrieve
 import re
 
 
-
 def find_files(directory):
 	paths = []
 	for root, directories, files in os.walk(directory):
@@ -49,15 +48,12 @@ def get_md_urls(md_files):
 		for line in infile:
 			tokens = line.split('(')
 			for token in tokens:
-				if token.startswith("http://fivethirtyeight.com/features") or token.startswith("https://fivethirtyeight.com/features") or token.startswith("http://fivethirtyeight.com/datalab") or token.startswith("https://fivethirtyeight.com/datalab"):
+				if token.startswith("http://fivethirtyeight.com/features") or token.startswith("https://projects.fivethirtyeight.") or token.startswith("https://fivethirtyeight.com/features") or token.startswith("http://fivethirtyeight.com/datalab") or token.startswith("https://fivethirtyeight.com/datalab"):
 					url = token.rstrip()
 					url = clean_url(url)
 					c += 1
-
-		if c == 1:
-			# print(md_fl)
-			tuple = md_fl, url
-			md_urls.append(tuple)
+					tuple = md_fl, url
+					md_urls.append(tuple)
 
 	return md_urls
 
@@ -70,6 +66,9 @@ def scrape(read_path):
 
 	#scrape articles from readme urls
 	for x in md_urls:
+		print(x)
+		url_name = x[1].split('/')[-1]
+		print(url_name)
 		scraped_article_images = []
 		image_urls = []
 		folder = x[0][:-10]
@@ -77,21 +76,16 @@ def scrape(read_path):
 		url = x[1]
 		img_counter = 0
 
+		# load html content
 		page = requests.get(url)
 		soup = BeautifulSoup(page.text, 'html.parser')
-
-		# Pull all text from the BodyText div
-		# old one, not working for all articles:
-		# y = soup.find(class_='type-fte_features').text
 
 		# scrape article text
 		try:
 			scraped_article_text = soup.find('article').text
 			success_counter += 1
 		except:
-			scraped_article_text = soup.find(class_='type-fte_features').text
-			success_counter += 1
-			#print("{0} not found".format(url))
+			print("{0} not found".format(url))
 
 		# scrape and save images from article
 		tags = [tag for tag in soup.find_all('article')]
@@ -99,18 +93,24 @@ def scrape(read_path):
 			imgTag = tag.find_all('img')
 			for img in imgTag:
 				img_counter += 1
-				urlretrieve(img['src'], folder+"/"+filename+str(img_counter)+".png")
+				try:
+					urlretrieve(img['src'], folder+"/"+url_name+"_image_"+str(img_counter)+".png")
+				except:
+					continue
+
+			# scrape Viz tags????
+			# VizTag = tag.find_all('section', {"class": "viz"})
+			# for viz in VizTag:
+			# 	img_counter += 1
+			# 	urlretrieve(viz['src'], folder+"/"+url_name+"_image_"+str(img_counter)+".png")
 
 		# save article text
-		with io.open(folder+"/"+filename+".txt", "w", encoding="utf-8") as outfile:
+		with io.open(folder+"/"+url_name+".txt", "w", encoding="utf-8") as outfile:
 		    outfile.write(scraped_article_text)
 
 		# print the scarped article
 		print(folder+" Article scraped")
 		print()
-
-	# print amount of articles scraped:
-	print("Articles scraped", success_counter)
 
 	# print amount of readme files found
 	for x in md_files:
@@ -123,9 +123,12 @@ def scrape(read_path):
 		c += 1
 	print("Article url's found", c)
 
+	# print amount of articles scraped:
+	print("Articles scraped", success_counter)
+
 
 def main():
-	scrape("./)
+	scrape("./")
 
 
 if __name__ == '__main__':
