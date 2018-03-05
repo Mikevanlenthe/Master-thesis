@@ -11,8 +11,7 @@ Using news article data files and texts to predict it's optimal visual represent
 
 ## To do
 
-*	For each article in data folder:
-    *	Store corresponding article images (graphs, data tables) 
+
 
 *	Perform a qualitative analysis on some articles:
     *	What is the intended message? 
@@ -22,17 +21,15 @@ Using news article data files and texts to predict it's optimal visual represent
                   *	The graphic shows an increasing trend in the mean dollar value…… over the period from 2000 to 2005
 
 
-*	On github I will add a folder where I will store the weekly minutes
-
-*	Study of paper: Exploring the Types of Messages that Pie Charts Convey in Popular Media 
-    *	Burns, R., Balawejder, E., Domanowska, W., Schwartz, S. E., & Carberry, S. (2016, August). Exploring the Types of Messages that Pie Charts Convey in Popular Media. In International Conference on Theory and Application of Diagrams (pp. 265-271). Springer, Cham.
 
 
 
 
 
 ## In progress
-* 
+*	Study of paper: Exploring the Types of Messages that Pie Charts Convey in Popular Media 
+    *	Burns, R., Balawejder, E., Domanowska, W., Schwartz, S. E., & Carberry, S. (2016, August). Exploring the Types of Messages that Pie Charts Convey in Popular Media. In International Conference on Theory and Application of Diagrams (pp. 265-271). Springer, Cham.
+
 
 ## Done
 *	On the homepage of my github I will generate an overview of my progress 
@@ -40,6 +37,9 @@ Using news article data files and texts to predict it's optimal visual represent
     *	Folder structure:
           *	Data: Article texts, csv files 
           *	Code: Used Python programs
+          
+*	For each article in data folder:
+    *	Store corresponding article images (graphs, data tables) 
 
 *	Data collected (so far)
     *	Scraped +- 80 FiveThirtyEight articles stored on github (folder "data")
@@ -50,4 +50,7 @@ Using news article data files and texts to predict it's optimal visual represent
 
 *	Study of paper: Generating Textual Summaries of Bar Charts 
     *	Demir, S., Carberry, S., & McCoy, K. F. (2008, June). Generating textual summaries of bar charts. In Proceedings of the Fifth International Natural Language Generation Conference (pp. 7-15). Association for Computational Linguistics.
+
+
+*	On github I will add a folder where I will store the weekly minutes
 
