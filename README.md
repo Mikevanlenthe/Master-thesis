@@ -11,8 +11,7 @@ Using news article data files and texts to predict it's optimal visual represent
 
 ## To do
 
-*	For each article in data folder:
-    *	Store corresponding article images (graphs, data tables) 
+
 
 *	Perform a qualitative analysis on some articles:
     *	What is the intended message? 
@@ -38,6 +37,9 @@ Using news article data files and texts to predict it's optimal visual represent
     *	Folder structure:
           *	Data: Article texts, csv files 
           *	Code: Used Python programs
+          
+*	For each article in data folder:
+    *	Store corresponding article images (graphs, data tables) 
 
 *	Data collected (so far)
     *	Scraped +- 80 FiveThirtyEight articles stored on github (folder "data")
