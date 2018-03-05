@@ -21,15 +21,15 @@ Using news article data files and texts to predict it's optimal visual represent
                   *	The graphic shows an increasing trend in the mean dollar value…… over the period from 2000 to 2005
 
 
-*	Study of paper: Exploring the Types of Messages that Pie Charts Convey in Popular Media 
-    *	Burns, R., Balawejder, E., Domanowska, W., Schwartz, S. E., & Carberry, S. (2016, August). Exploring the Types of Messages that Pie Charts Convey in Popular Media. In International Conference on Theory and Application of Diagrams (pp. 265-271). Springer, Cham.
 
 
 
 
 
 ## In progress
-* 
+*	Study of paper: Exploring the Types of Messages that Pie Charts Convey in Popular Media 
+    *	Burns, R., Balawejder, E., Domanowska, W., Schwartz, S. E., & Carberry, S. (2016, August). Exploring the Types of Messages that Pie Charts Convey in Popular Media. In International Conference on Theory and Application of Diagrams (pp. 265-271). Springer, Cham.
+
 
 ## Done
 *	On the homepage of my github I will generate an overview of my progress 
