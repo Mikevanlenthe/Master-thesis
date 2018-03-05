@@ -1,0 +1,247 @@
+
+
+
+
+							The Save Ruined Relief Pitching. The Goose Egg Can Fix It.						
+
+
+
+By Nate Silver
+Filed under MLB
+
+Get the data on GitHub
+GitHub data at data/goose
+
+
+								Published Apr. 17, 2017
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+Hall of Fame relief pitcher Richard “Goose” Gossage isn’t the biggest fan of the “Moneyball” revolution. Here at FiveThirtyEight, we don’t think his expletive-laced tirades about nerds ruining baseball have always found their target the way his fastballs once did. But on one point, he’s absolutely right: The save is a stupid [bleep]ing statistic.
+Gossage recently lashed out against modern closers — including all-time saves leader Mariano Rivera — arguing that they aren’t used in the right situations and that cheaply earned saves exaggerate closers’ value compared to the pitchers of his day. “I would like to see these guys come into more jams, into tighter situations and finish the game. … In the seventh, eighth or ninth innings. I don’t think they’re utilizing these guys to the maximum efficiency and benefit to your ballclub,” Gossage said. “This is not a knock against Mo [Rivera],” he continued later.1 “[But] I’d like to know how many of Mo’s saves are of one inning with a three-run lead. If everybody in that [bleep]ing bullpen can’t save a three-run lead for one inning, they shouldn’t even be in the big leagues.”
+Gossage is right about pretty much all of that. A pitcher probably shouldn’t get much credit for handling just the final inning when his team has a three-run lead. Moreover, the top relief pitchers today are less valuable than they were in Gossage’s heyday in the 1970s and ’80s. In large part, that’s because managers are trying to maximize the number of saves for their closer, as opposed to the number of wins for their team. They’re managing to a stat and playing worse baseball as a result.
+But there’s a solution. Building on the work of Baseball Prospectus’s Russell Carleton,2 I’ve designed a statistic and named it the goose egg to honor (or troll) Gossage. The basic idea — aside from some additional provisions designed to handle inherited runners, which we’ll detail later — is that a pitcher gets a goose egg for a clutch, scoreless relief inning. Specifically, he gets credit for throwing a scoreless inning when it’s the seventh inning or later and the game is tied or his team leads by no more than two runs. A pitcher can get more than one goose egg in a game, so pitching three clutch scoreless innings counts three times as much as one inning does.
+The goose egg properly rewards the contributions made by Gossage and other “firemen” of his era, who regularly threw two or three innings at a time, often came into the game with runners on base, and routinely pitched in tie games and not just in save situations.3 I’ve calculated goose eggs for all seasons since 19304 — plus select seasons since 1921 — based on play-by-play data from Retrosheet. While Gossage ranks only 23rd in major league history with 310 saves, he’s the lifetime leader in goose eggs (677) — ahead of Rivera and every other modern closer.
+
+
+
+
+PITCHER
+SAVES
+
+PITCHER
+GOOSE EGGS
+
+
+
+
+Mariano Rivera
+652
+
+Goose Gossage
+677
+
+
+Trevor Hoffman
+601
+
+Rollie Fingers
+663
+
+
+Lee Smith
+478
+
+Hoyt Wilhelm
+641
+
+
+Francisco Rodriguez
+430
+
+Mariano Rivera
+614
+
+
+John Franco
+424
+
+Lee Smith
+589
+
+
+Billy Wagner
+422
+
+John Franco
+589
+
+
+Dennis Eckersley
+390
+
+Trevor Hoffman
+580
+
+
+Joe Nathan
+377
+
+Bruce Sutter
+557
+
+
+Jonathan Papelbon
+368
+
+Tug McGraw
+521
+
+
+Jeff Reardon
+367
+
+Jeff Reardon
+520
+
+
+Troy Percival
+358
+
+Sparky Lyle
+520
+
+
+Randy Myers
+347
+
+Kent Tekulve
+517
+
+
+Rollie Fingers
+339
+
+Lindy McDaniel
+507
+
+
+John Wetteland
+330
+
+Mike Marshall
+489
+
+
+Francisco Cordero
+329
+
+Gene Garber
+468
+
+
+Roberto Hernandez
+326
+
+Ron Perranoski
+444
+
+
+Huston Street
+324
+
+Francisco Rodriguez
+430
+
+
+Jose Mesa
+321
+
+Todd Jones
+425
+
+
+Todd Jones
+319
+
+Billy Wagner
+421
+
+
+Rick Aguilera
+318
+
+Jesse Orosco
+416
+
+
+Robb Nen
+314
+
+Doug Jones
+410
+
+
+Tom Henke
+311
+
+Stu Miller
+405
+
+
+Goose Gossage
+310
+
+Roberto Hernandez
+404
+
+
+Jeff Montgomery
+304
+
+Randy Myers
+404
+
+
+Doug Jones
+303
+
+Darold Knowles
+400
+
+
+Career leaderboards for saves and goose eggs, 1930-2016
+
+
+Plus select seasons since 1921
+Source: Retrosheet
+
+
+If managers want to squeeze every ounce of potential and talent out of their top relievers — maybe even doubling their value — it’s time to give up the save and embrace the goose.
+ 
+Bullpens are still built around the save
+While I come to bury the save, let me first sing some of its praises. The statistic, invented by the sportswriter Jerome Holtzman and officially adopted by Major League Baseball in 1969, came into the world with noble intentions. Relief pitchers were becoming more commonplace — the share of starts that ended in complete games would decline from 40 percent in 1950 to 22 percent in 1970. But these pitchers’ contributions were largely unheralded by fans, Holtzman correctly noted, because they rarely earned wins or losses and ERA did not reveal much about which relievers had been used in clutch situations.
+Furthermore, some of the intuitions behind the save rule are correct. Modern statistics such as leverage index find that late-inning situations when a team holds a narrow lead are indeed quite important. For instance, an at-bat5 in the ninth inning when the pitcher’s team leads by one run has a leverage index of 3.3. That means it has more than three times as much impact on the game’s outcome as an average at-bat.
+The problem is that there’s a fuzzy relationship between the most valuable relief situations and the ones that the save rewards. Take a look at the following chart, which shows the leverage index in different situations based on the inning and the game score:6
+
+
+
+Imagine that one evening, Pitcher A throws a scoreless eighth inning in a game where his team leads by one run — a situation that has a leverage index of 2.4 — before being pulled for his team’s closer. Meanwhile, in another ballgame on the other side of town, Pitcher B enters the game in the ninth inning when his team holds a three-run lead — a leverage index of just 0.9 — and gives up two runs but eventually records the final out. Pitcher A’s performance was quite valuable. Pitcher B’s was not — in fact, it was kind of crappy. But Pitcher B gets a save for his troubles whereas Pitcher A doesn’t. It doesn’t make a lot of sense.
+There are other problems with the save, also. It doesn’t give a pitcher any additional reward for pitching multiple innings — even though two clutch innings pitched in relief are roughly twice as valuable as one. And a pitcher doesn’t get a save for pitching in a tie game, even though it’s one of the highest-leverage situations.
+I know I’m not breaking much news here: Stat geeks have been complaining about the save for years. But don’t modern, post-“Moneyball” teams know better than this? Aren’t they using their best relievers in the highest-leverage situations, whether or not they yield a save? In a word: no. (In 11 words: Mostly not, except maybe for the Cleveland Indians and Andrew Miller.) The next table reflects how teams used their closers (as defined by closermonkey.com, a site that tracks bullpen usage obsessively) over the course of 2016,7 as measured by the number of innings the closer pitched in different situations:
+
+
+
+The typical modern closer is really just a ninth-inning specialist. In 2016, the average closer threw 66 innings, and 56 of them came in the ninth inning. This included 11 innings in games where his team led by three runs in the ninth — a save situation, but not a high-leverage one. Conversely, it included just six innings in tie games in the ninth, which is not a save situation but is one of the highest-leverage situations you can find.
+Again, this is pretty much how you’d use your bullpen if the goal was to maximize the number of saves for your closer (instead of the number of wins for your team). Managers seem so conditioned by the “only use your closer in the ninth inning with a lead” heuristic that they often use their closers in the ninth inning when their team leads by more than three runs, which is a not a save situation8 and is even more of a waste of the closer’s supposed talent.9 Baseball teams have supposedly reached a state of statistical enlightenment — but their closer usage is every bit as stubborn as NFL teams’ too-frequent refusal to go for it on 4th down.
+ 
+Defining a goose egg
+If managers were thinking about goose eggs rather than saves, they’d find plenty of better ways to use their best relievers. So let’s define a goose egg, officially. Just as for the save rule, the formal definition is a bit more complicated than the quick-and-dirty version I described above. But here goes:
+A relief pitcher10 records a goose egg for each inning in which:

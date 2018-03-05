@@ -1,0 +1,170 @@
+
+
+
+Oct. 6, 2016
+						at
+						7:00 AM
+
+
+
+							A Handful Of Cities Are Driving 2016’s Rise In Murders						
+
+
+
+By Jeff Asher
+Filed under Crime
+
+Get the data on GitHub
+GitHub data at data/murder_2016
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+Last year’s dramatic rise in the number of murders appears to be continuing in 2016 — but at least so far, this year’s increase is slower than last year’s and is more concentrated in a few big cities.
+Last month, the FBI released data showing that the estimated number of murders1 rose 10.8 percent nationwide between 2014 and 2015, the biggest increase in a quarter century. That rise has emerged as a major campaign issue, with Donald Trump citing it as evidence of a broader deterioration of law and order in the U.S. (The evidence for that claim is mixed: Other types of crime, including violent crime, haven’t seen the same increase, and murder rates are still well below 1990s levels.)
+Official figures for 2016 won’t be available for another year, but preliminary evidence suggests that the number of murders is up about 10.5 percent so far this year in big cities for which data is available; last year, the number went up 14.7 percent in that same group of cities.
+These figures come from a variety of sources: official websites, emails or phone calls to police departments, the Major Cities Chiefs Association (an organization of big-city police chiefs), or, in three cases, local media reports citing murder statistics from official sources. In all, I was able to gather data through at least midyear for 79 of America’s 83 big cities, which I’m defining as those with a population of at least 250,000.2 These cities collectively accounted for about 40 percent of U.S. murders last year. For 66 of the 83 cities, I was able to collect data through at least the end of August; those cities have seen an 11.1 percent increase in murders so far this year. (We’ve posted the full data set on our GitHub page.)
+The rise in murders in 2015 was widespread, with 64 percent of big cities seeing increases, many of them substantial. So far, the 2016 increase appears far more concentrated in just a few big cities. Chicago, in particular, has seen a dramatic rise in the number of murders; through early October, the city had seen 536 murders, up from 378 at the same time a year ago, a 42 percent increase.3 Orlando has also seen a big jump in murders, due largely to the Pulse nightclub attack that killed 49 people in June. Together, Chicago and Orlando account for close to half of the net increase in murders in cities for which data is available. (By contrast, the two cities with the biggest increase in the number of murders in 2015 accounted for a quarter of the net increase in the same group of big cities.) Excluding those two cities, murder would be up 6.3 percent this year in the remaining big cities in my data set. Meanwhile, several cities, including Milwaukee, Washington, D.C., and Baltimore, have seen substantial decreases in the number of murders so far this year after experiencing large rises in 2015.
+
+
+
+
+
+MURDERS
+
+
+
+
+CITY
+2015
+2016
+INCREASE
+PERCENT INCREASE
+
+
+
+
+Chicago
+378
+536
++158
+41.8%
+
+
+Orlando, Fla.
+19
+73
++54
+284.2
+
+
+Memphis, Tenn.
+114
+158
++44
+38.6
+
+
+Phoenix
+72
+111
++39
+54.2
+
+
+Las Vegas
+90
+125
++35
+38.9
+
+
+San Antonio
+78
+111
++33
+42.3
+
+
+Louisville, Ky.
+52
+79
++27
+51.9
+
+
+Dallas
+95
+118
++23
+24.2
+
+
+Houston
+191
+212
++21
+11.0
+
+
+Fort Wayne, Ind.
+17
+34
++17
+100.0
+
+
+Atlanta
+68
+85
++17
+25.0
+
+
+Indianapolis
+102
+117
++15
+14.7
+
+
+Austin, Texas
+13
+28
++15
+115.4
+
+
+Kansas City, Mo.
+77
+90
++13
+16.9
+
+
+Arlington, Texas
+4
+17
++13
+325.0
+
+
+Cities with the biggest increase in murders in the last year
+
+
+2016 totals are the most recent data available for that city; 2015 totals are as of the same date one year prior.
+
+
+This year’s rising murder total looks different from last year’s in other ways as well. Only four of the 15 cities that saw the biggest increase in murders last year are also among the top 15 this year, and several cities that saw big increases in 2015 have seen declines so far this year. Geographic patterns are shifting too: Seven of the 15 cities that saw the greatest rise in the number of murders in 2016 are in the Southwest.4 That’s a big switch from a year ago, when the worst big-city rises were spread relatively evenly across the country.
+The preliminary figures mean it is highly likely that the final numbers from the FBI next fall will show an increase in murders in 2016, but it’s hard to know exactly how big of an increase. There are at least three months of data still to come, and even the existing figures will likely be revised before they are sent to the FBI. Last fall, the Brennan Center projected 2015 year-end murder counts for 25 large cities using data from right around this point in the year. Their projections were off by an absolute average of 9.4 murders per city, or 12 percent, highlighting the difficulty of knowing how many murders we’ll have even after nine months of the year.
+It is also wise to be wary of using big-city tallies to judge the whole country because large urban centers tend to exaggerate national rises — especially when the rises are large — as Carl Bialik pointed out in January of this year. This was certainly true in 2015, when murders rose 14.5 percent in cities with populations over 250,000 but “only” 10 percent everywhere else. Still, if the current trend holds, total murders will likely end up rising about 5 to 10 percent nationally in 2016; that would push the murder rate to roughly the same level as in 2008, which would be just over half of what it was in the early 1990s.
+Even assuming the preliminary results hold up, it’s hard to know how much to read into the increase. Murder is the rarest major crime measured nationally by the FBI, so small changes in the number of murders can have a dramatic effect on the murder rate. There does not appear to be any easy explanation for why more people are being murdered, and these changes can also be heavily influenced by the weather or even luck — just a few inches can mean the difference between being struck or narrowly missed by a stray bullet, or between sustaining a fatal injury or a survivable one — which makes it even more difficult to understand these one-year swings.
+The rise in total murders in 2015 and 2016 is alarming, but these totals can vary widely from year to year, so it makes more sense to evaluate trends over the medium and long term instead of concentrating on short-term jumps or drops. Murder is more prevalent than it was two years ago and about as prevalent as it was seven or eight years ago, but the current decade is still safer than any other decade on record.
+

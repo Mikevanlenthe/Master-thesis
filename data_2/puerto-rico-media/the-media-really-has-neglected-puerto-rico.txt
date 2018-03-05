@@ -1,0 +1,60 @@
+
+
+
+
+							The Media Really Has Neglected Puerto Rico						
+
+
+
+By Dhrumil Mehta
+Filed under Puerto Rico
+
+Get the data on GitHub
+GitHub data at data/puerto-rico-media
+
+
+								Published Sep. 28, 2017
+
+
+
+FacebookTwitterEmail  
+
+
+
+While Puerto Rico suffers after Hurricane Maria, much of the U.S. media (FiveThirtyEight not excepted) has been occupied with other things: a health care bill that failed to pass, a primary election in Alabama, and a spat between the president and sports players, just to name a few. Last Sunday alone, after President Trump’s tweets about the NFL, the phrase “national anthem” was said in more sentences on TV news than “Puerto Rico” and “Hurricane Maria” combined.
+Those other stories are worth covering, of course. But compared to the other natural disasters of the past few weeks, Hurricane Maria has been relatively ignored. Data from Media Cloud, a database that collects news published on the internet every day, shows that the devastation in Puerto Rico is getting comparatively little attention.1
+
+
+
+
+
+
+TV news coverage reveals a similar trend. Data we collected from the TV News Archive shows that people on TV news shows spoke significantly fewer sentences about Hurricane Maria than about Hurricanes Harvey and Irma.2 The spike in conversation about Puerto Rico right as the hurricane hit was also much smaller than the spike in mentions of Texas and Florida on television as each of those states was hit by a hurricane.
+
+
+
+
+
+
+Of the cable news networks that covered Hurricane Maria, the BBC, a British network, initially mentioned Hurricane Maria on air more than the U.S. networks did. CNN seems to have aired more coverage of Maria than its competitors in the U.S. did, and the data hints that the network may again be ramping up its coverage.
+
+
+
+
+
+
+According to one analysis of five political talk shows that aired the Sunday after Maria made landfall, all five programs combined to produce less than one minute of coverage dedicated to the crisis in Puerto Rico, and three out of the five shows didn’t mention Puerto Rico at all. Many observers are speculating that Puerto Rico’s status as a territory is one reason for both the lack of news coverage and delays in the delivery of aid. The National Association of Hispanic Journalists issued a statement calling on media outlets to cover this disaster more proportionally, and its spokesperson, BA Snyder, told FiveThirtyEight that the dearth of press coverage was “unacceptable.”
+
+
+We're calling on national/local media to cover devastation in PR w/ equal attention & responsibility that would be given anywhere in U.S.
+— NAHJ (@NAHJ) September 25, 2017
+
+But it is not just the media that isn’t paying attention. A recent poll showed that less than half of Americans are even aware that Puerto Ricans are American citizens. Google searches from the rest of the U.S. show that public interest was also higher for the two storms that hit the mainland than it was for the storm that hit Puerto Rico.
+
+
+
+
+
+
+After his initial silence on the issue, President Trump has a visit to Puerto Rico planned in the coming week. Perhaps his presence will bring more media and citizen engagement from the mainland.
+
