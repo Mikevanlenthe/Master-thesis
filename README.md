@@ -9,14 +9,8 @@ Using news article data files and texts to predict it's optimal visual represent
 
 <br>
 
+<!-- 
 ## To do
-
-
-
-
-
-
-
 
 
 ## In progress
@@ -57,6 +51,8 @@ Using news article data files and texts to predict it's optimal visual represent
 
 
 *	On github I will add a folder where I will store the weekly minutes
+
+-->
 
 | To Do                                                                   | Status      | Date      | Notes                                                                                                                                                                                                                                                                                                 |
 |-------------------------------------------------------------------------|-------------|-----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
