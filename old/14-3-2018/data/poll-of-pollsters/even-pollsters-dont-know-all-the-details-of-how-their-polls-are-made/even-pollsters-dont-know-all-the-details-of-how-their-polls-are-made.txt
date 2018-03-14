@@ -1,0 +1,77 @@
+
+
+
+Oct. 31, 2014
+						at
+						12:40 PM
+
+
+
+							Even Pollsters Don’t Know All The Details Of How Their Polls Are Made						
+
+
+
+By Carl Bialik
+Filed under Poll Of Pollsters
+
+Get the data on GitHub
+GitHub data at data/poll-of-pollsters
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Illustration by Joel Plosz
+
+
+Illustration by Joel Plosz
+
+
+
+I’d bet many readers of our election forecasts and updates, even the hardcore political junkies among them, don’t know how all the polling sausage gets made. I’d make that bet because sometimes even the people behind the polls don’t know every last detail.
+Our third poll of pollsters ahead of Tuesday’s national election1 focused on the nuts and bolts of polling: who does it, how they do it, and how the raw data they collect is converted into the numbers they release showing which candidate is leading, and by how much. And once again, more than two dozen of the most prolific pollsters in our database took time to provide answers — even though we blew our forecast that it would take only 20 minutes to complete the survey. Median time for respondents who made it to the end was more than twice as long.2 (You can see our questions at SurveyMonkey and see full results, including to questions we didn’t have room to explore in our report below, on Github.)
+
+“I hung in there,” Christopher P. Borick of Muhlenberg College said after completing the survey, “but I think I’m tapped out for a while.” We understand, and we thank Borick and our other respondents. We promise not to ask them any more questions before Election Day.
+Outsourcing
+One possible reason the poll took a while to complete: It asked about parts of their operations that many pollsters don’t know well because they outsource the work.
+For instance, we asked how pollsters handle surveys taken by online panels. Outside vendors often conduct these, so some respondents didn’t know the turnover rate among panel members or how many polls they can take each month.
+The use of contractors came up again when we asked pollsters about the people who conduct telephone polls using live interviewers. Six pollsters said they couldn’t answer questions about the ages, gender, pay and training of their interviewers because they outsource the work. A few checked with their contractors and got back to us. But the pollsters aren’t completely blind about how their phone banks work: Most monitor between 10 percent and 33 percent of calls for quality, remotely from their offices.
+Here’s what we learned from the pollsters who did know about their interviewers: Phone interviewers are mostly women, most of them are under age 25 and they typically earn $8 to $27 an hour. Most are trained for between eight hours and three days.3
+For work other than interviewing, polling firms employ men and women in roughly equal measure. The 16 pollsters who shared race details about their non-interviewing staff said these employees were at least 80 percent white. (Just under 80 percent of Americans are.) Fully half of the 16 polling organizations employed only white staffers on the polling side.
+Several pollsters said the staffs of their larger businesses — which can include marketing and consulting arms — are more diverse. Andrew Smith of the University of New Hampshire, whose interviewers are 90 percent white, said, “Not too many minorities in New Hampshire.”4 And one pollster called the demographics of staff “irrelevant.”
+Another pollster, who asked to remain anonymous, said it’s important to have a diverse staff, but building one is difficult because “few minorities end up choosing quant-related fields in graduate school, so there the pool is small.”
+The pollster added: “This is a big issue in our field.”
+Deciding whom to interview
+We asked plenty about the work pollsters do before and after interviews with respondents.
+Before asking people what they think, pollsters must decide how they’ll find people. Probably the most well-known method for phone polling is random-digit dialing (RDD): Call a random phone number in the region covered by the poll. But 4 in 5 of our respondents use a different method at least some of the time. They randomly dial phone numbers of registered voters from lists they buy. Pollsters cited a number of advantages. One is that they can call people who are eligible to vote in local races, whereas it’s hard to tell from a random phone number if the person who will answer it lives in the right geographical area.
+Registered voters also are more likely to be interested in talking politics with a stranger or, in the case of the Columbus Dispatch, returning a mailed poll. And they’re more likely to vote, too, which makes it more efficient to build the number of likely voters in their sample, some pollsters said. The companies that sell lists of registered voters include information about their past voting that can be useful in pollsters’ models.
+Not everyone has bought into the idea of restricting polling to registered voters. “The quality of registered-voter lists is not consistent across all states,” said Barbara Carvalho of Marist College. “We also try to measure new voters.”
+We also asked whether pollsters ever ask questions in languages other than English. Nearly everyone occasionally polls in Spanish, five sometimes survey in Mandarin or another Chinese dialect, three poll in Arabic, another three in French, two each in Tagalog and German, and one in Vietnamese and Korean.
+We asked how much it costs to add another language to a survey. The responses ranged widely, from nothing to 100 percent. The median answer was 25 percent. “It depends on the language and the proportion,” one pollster said. “It doubles the cost on an individual interview.”
+Because Spanish is the most popular second language of pollsters and of Americans, we asked how Hispanics who respond in Spanish differ from those who respond in English. “They place greater value on government-provided services, like health care, education and the schools, jobs, and, more recently, the minimum wage,” Mark DiCamillo of the Field Research Corporation said. “However, we have found them to be more conservative in their views on many hot-button social issues, like same-sex marriage, marijuana legalization and abortion.” Some agreed with him, but others said there was no consistent difference.
+Interpreting the answers
+Once pollsters have completed their interviews, they must interpret the results. The two big questions: how to determine the likelihood each respondent will vote, and how to weight responses to make their data more representative of the electorate.
+The pollsters who use registered-voter lists use voter history as one factor in predicting voting likelihood. The ones who don’t instead ask about voting history. Most also ask: How likely are you to vote? Some inquire about interest in the election or in politics generally. Pollsters also differ in whether they keep asking questions once they decide someone is unlikely to vote, and whether they count all responses but weight them by likelihood to vote, or only count the likely voters.
+Predicting whether people will vote can be very simple or very complex. “We have experimented with likely-voter screens that contain as many as six questions and as few as one question,” one pollster said. “There is no simple relationship between the number of screening questions and the accuracy of the final vote estimate. In 2014, we are using a single question which offers respondents a range of options from ‘absolutely certain’ you will vote to ‘absolutely certain’ you will not vote.”
+Another said: “For new voters, we assign voting likelihood based on a number of demographic factors (age, gender, ethnic origin and 64 others).”
+Pollsters must also make tricky calls about how to weight information. For example, if they expect 20 percent of voters in one race to be Hispanic, but just 10 percent of their respondents are Hispanic, do they count each Hispanic respondent’s answers twice?
+More than half say there’s a limit to how heavily they’ll weight anyone’s responses. They differ in where to set that limit. Some say giving any one response a weight 10 percent higher than average is the max; others set it at 300 percent. Several said pollsters should make more phone calls to boost their numbers in underrepresented groups rather than using large weighting factors. “Obviously as weights increase for any subgroup, there are risks that additional survey error may be introduced, so we have opted for a cap at a weight of 2.5,” meaning increasing their importance by up to 150 percent, Muhlenberg’s Borick said.
+Both weighting and declining response rates make the familiar margin of error figure less relevant. That quantity is based purely on the sample size of the poll, so it’s sometimes called margin of sampling error. Two-thirds of our pollsters said they still consider it to be credible, though with caveats. John Anzalone of Anzalone Liszt Grove Research was in the “yes” camp but said, “That probably should be a yes-and-no answer reserved for a two-hour panel discussion.”
+Marist’s Carvalho is one of the skeptics when it comes to reporting margin of error. “It doesn’t provide very much insight into the value or quality of the research although that is often the inference,” she said.
+More sophisticated weighting, use of registered-voter lists and less expensive techniques such as online panels and automated telephone polling all have kept costs manageable. We asked pollsters about their cost to poll a typical Senate race this year compared to 2010. Of those who answered, about as many said they were spending less — and charging clients less — as the number who said they were spending and charging more. Nearly everyone whose costs have risen cited the expense of having to interview more people on cellphones, which is expensive because it is illegal to dial cellphones automatically.
+The increasing complexity and competitiveness of the industry, and the impending election, made some of our respondents stressed. (The length of our survey surely didn’t help.) We asked again for pollsters to suggest questions for one another, and one suggested asking “why the fuck they stay in this god-awful business.” When we followed up by email to confirm that was serious, the respondent said, “Hey, it is the last week of the election in a business that has to count on phone banks to get you data. You are bound to get grumpy.”
+Ah, yes, the election. It compelled us to ask the pollsters for personal predictions. We asked something we’d asked in our first survey: How many seats the pollsters expect Republicans will control in the Senate in 2015? In September, pollsters predicted an average of just under 51 seats for Republicans. This time, the 21 who answered predicted just under 52 for Republicans, on average,5 with no one expecting Democrats to control more than 50 seats. (The most common outcome in the latest run of our model — occurring in about 19.8 percent of simulations — is 52 Republican-held seats.)
+Not all of our pollsters are polling Senate races, nor paying close attention to them. In response to our question asking pollsters to explain their Senate predictions, one said, “Same reasons as before — whatever those were.”
+
