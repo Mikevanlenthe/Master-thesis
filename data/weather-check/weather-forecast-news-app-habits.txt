@@ -1,0 +1,96 @@
+
+
+
+Apr. 20, 2015
+						at
+						9:18 AM
+
+
+
+							Where People Go To Check The Weather						
+
+
+
+By Walt Hickey
+Filed under Weather
+
+Get the data on GitHub
+GitHub data at data/weather-check
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+				A large storm cloud covers Sydney, Australia, in March 2014.									Cassie Trotter / Getty Images
+
+
+
+How do you check the weather?
+Inspired by this Wall Street Journal piece about the financial difficulties faced by The Weather Channel — Verizon FiOS dropped the station because of “customers’ growing use of online sources and apps to look up weather information” — I wondered how many people get their weather from the station. Is it true that customers are flocking to apps and the Web?1
+Because I’m 24, I either don’t bother checking the weather or just use the default app on my phone. I assumed everyone else was like me in this regard. I was wrong.
+I couldn’t find data on this, so I asked SurveyMonkey Audience to run a simple survey. It ran April 6-10 and had 938 respondents. It asked two main questions: How do you check the weather? And, do you check a weather report every day?
+Here’s where people go for weather forecasts:
+
+
+
+METHOD
+PERCENTAGE
+
+
+
+
+Phone’s default weather app
+23.2%
+
+
+Local TV news
+20.6
+
+
+A specific website or app
+19.1
+
+
+The Weather Channel
+15.2
+
+
+Internet search
+14.2
+
+
+Newspaper
+3.5
+
+
+Radio weather
+3.4
+
+
+Newsletter
+0.9
+
+
+
+The Weather Channel actually doesn’t do half bad here! It had 15.2 percent penetration overall, and that was pretty consistent regardless of how old the respondent was.
+About 4 in 5 respondents said they check a weather report daily. And there were a couple of interesting differences in how people looked up the weather, depending on whether they were a daily checker or not. People who said they checked the weather every day were more likely to go to a specific website or app (21 percent of daily checkers versus 10 percent of non-daily checkers) or The Weather Channel (16 percent of dailies versus 10 percent of non-dailies). Non-dailies were much more likely to just do an Internet search (23 percent versus 12 percent for daily checkers).
+And while The Weather Channel performed relatively equally across age groups, weather-checking in general isn’t a young person’s game. The probability that a respondent checked the weather on a daily basis climbed with his or her age bracket: 68 percent of people 18 to 29 years old checked the weather daily, while 87 percent of people 60 and older did. (Not super shocking either: The older a respondent was, the more likely he or she was to get weather from radio, local TV and newspapers.)2
+Among respondents from New England, home to a lot of harsh weather, 94 percent checked the weather every day. On the other end of the spectrum, 70 percent of respondents in the Pacific region — those smug jerks in California, Oregon and Washington who were Snapchatting east-coasters like me all winter with their stupid temperate and predictable climate — felt the need to check a daily report.
+But the really interesting finding from this isn’t about newspapers or even The Weather Channel. It’s about local television news.
+So 36 percent of 18- to 29-year-olds got their weather from their phone’s default weather app, compared with 14 percent of people aged 60 and older. That’s a 22 percentage point difference. Where were those 22 points being taken away from?
+It’s not The Weather Channel: Slightly more young people got their news from the network than the 60-and-over crowd. No, the weather app on your phone is sucking eyeballs away from local television news. For people 60 and up, 29 percent got their weather from local news. Only 8 percent of the 18- to 29-year-old crowd did. That’s a 21 percentage point difference.
+Sure, The Weather Channel has some financial difficulties ahead when it comes to getting carriage fees where they’d liked them. But the network’s problems don’t really seem to be generational, at least not according to this data. Local news weather’s may very well be.
+All the data from this survey is up at GitHub. One thing I didn’t look at that might be interesting is the “a specific website or app” category, where we asked respondents to volunteer which particular website or app they use. Dig into the data, and let me know if you find anything.
+
