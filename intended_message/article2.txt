@@ -1,0 +1,17 @@
+Minutes 14-3-2018 (week 11)
+
+My progress from week 10 
+-  Make an overview of data, images
+  - Count amount of columns in images for every article
+
+- Read articles
+  - Burns, R., Carberry, S., Elzer, S., & Chester, D. (2012, July). Automatically recognizing intended messages in grouped bar charts. In International Conference on Theory and Application of Diagrams (pp. 8-22). Springer, Berlin, Heidelberg.
+  - Wu, P., Carberry, S., Elzer, S., & Chester, D. (2010). Recognizing the intended message of line graphs. In Diagrammatic Representation and Inference (pp. 220-234). Springer, Berlin, Heidelberg.
+
+To do week 11:
+-  Search for bar and line chart definitions
+-  Split article texts
+
+- Read article
+  - Elzer, S., Carberry, S., & Zukerman, I. (2011). The automated understanding of simple bar charts. Artificial Intelligence, 175(2), 526-555.
+ 

@@ -1,0 +1,19 @@
+Minutes 14-3-2018 (week 13)
+
+My progress from week 11 
+-  Search for bar and line chart definitions
+-  Split article texts
+
+- Read article
+  - Elzer, S., Carberry, S., & Zukerman, I. (2011). The automated understanding of simple bar charts. Artificial Intelligence, 175(2), 526-555.
+
+
+to do week 13
+- make vocabulary of intended messages based on Elzer's articles 
+-- make 3 lists
+	1: based on intended message indicators based on Elzer's articles (indicators)
+	2: based on used words in articles (word count, lemmatized, stemmer)
+	3: compare two lists and keep overlapping indicators
+
+- read sections from book: 
+  - Beeldtaal (visual language), Jos van den Broek
