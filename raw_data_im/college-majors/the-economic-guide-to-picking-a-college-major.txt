@@ -1,0 +1,81 @@
+
+
+
+Sep. 12, 2014
+						at
+						7:37 AM
+
+
+
+							The Economic Guide To Picking A College Major						
+
+
+
+By Ben Casselman
+Filed under Higher Education
+
+Get the data on GitHub
+GitHub data at data/college-majors
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Students walk across the campus of UCLA in Los Angeles.							Kevork Djansezian / Getty Images
+
+
+				A student registers at the Barnard College Career Fair on Sept. 7, 2012 in New York City.									John Moore / Getty Images
+
+
+
+The millions of American college students heading back to campus this month face a grim reality: A college degree is no guarantee of economic success. But through their choice of major, they can take at least some steps toward boosting their odds.
+The link between education and earnings is notoriously fraught, with cause and effect often difficult to disentangle. But a look at detailed data on college graduates by major reveals some clear messages: Don’t be pre-med if you aren’t planning to go to medical school; don’t assume that all “STEM” — science, technology, engineering and math — majors are the same; and if you study drama, be prepared to wait tables.
+Those lessons might seem obvious, but there’s evidence that many students aren’t learning them. By far the most popular major in recent years, psychology, is also one of the lowest-paying and leaves more than half its graduates working in jobs that don’t require a college degree. Many of those students no doubt would have chosen to study psychology even if they had known about their uncertain career prospects. But research has consistently shown that many colleges and universities do little to push their students to make informed choices about what to study.
+For all the recent skepticism about the value of a college education, a bachelor’s degree is still “worth it” on average. In fact, according to a recent analysis by economists at the Federal Reserve Bank of New York, the average value of a college degree is near an all-time high, even factoring in rising tuitions.
+But the key word there is “average.” The same Fed researchers also found that the lowest-earning 25 percent of college graduates earn less than about half of high school graduates — and the high school grads also had four years to make money while the college students were taking on debt. And those figures don’t include the shockingly high percentage of college students who don’t graduate, many of whom end up with the worst of both worlds: saddled with debt, but with no degree to help their job prospects.
+Today’s college students, then, need to choose a major that maximizes their chances of graduating, and minimizes their chances of ending up in that bottom 25 percent, where they would have been better off skipping college, at least financially.
+To understand how big a financial difference choice of major can make, look at the table below. The typical recent college graduate with a full-time job earns about $36,000 a year, according to the American Community Survey. But graduates with a degree in petroleum engineering, the highest-paying major, earned a whopping $110,000. That’s five times the $22,000 median salary at the bottom end of the spectrum, library science. And that’s just for graduates lucky enough to land full-time jobs.1
+
+Of course, it’s a safe bet that not many freshmen are struggling to decide between becoming librarians or becoming petroleum engineers. But even in more closely related fields, there are clear differences in earnings between majors. Actuarial science majors earn more than accounting majors; public policy majors out-earn history majors; and court reporting is a better earnings bet than criminology.
+These figures don’t necessarily mean that switching majors will bring a big financial boost. Economics majors, for example, earn $7,000 — 18 percent — more on average than “general business” majors, but economics is also generally considered a harder and more prestigious major, and therefore tends to draw more top students; it’s unlikely all those business majors could have gotten themselves a $7,000 raise just by switching to econ. Similarly, majoring in astrophysics won’t net a $62,000 salary for someone who flunks Calculus 101. And of course, if a huge surge of students really did decide to follow the dollar signs into petroleum engineering, the glut of supply would likely drive down wages.
+Below is a deeper dive into the trends in the data. But don’t stop there: At the end of the article is the full table of all 173 majors broken down by income. We’ve posted even more data and code on our GitHub account. Let us know what you find.
+Engineering pays
+Petroleum engineering is a crazy outlier — its $110,000 median salary is nearly 50 percent higher than the runner-up, mining and mineral engineering. The premium reflects the tremendous demand for oilfield engineers in the midst of the recent drilling boom, as well as the tough conditions and remote working environments that many petroleum engineers must endure, especially early in their careers. There may also be a built-in risk premium: The energy industry is notorious for its boom-bust volatility, so there’s no guarantee that those newly minted petroleum engineers will still be pulling down six-figure salaries if oil prices suddenly crater.
+But engineering pays even for those not cut out for life in the oilfield. A remarkable 17 of the 20 highest-paying majors for young graduates fall under the broad “engineering” category.2 The lowest-paying engineering majors — “mechanical engineering related technologies” and “miscellaneous engineering technologies” — still pay a median wage of $40,000, which puts them well into the top half of all majors in terms of earnings, and better than all but the very best-paying social sciences.
+Even engineering, though, isn’t a guarantee of a good job. At least not all kinds of engineering. To get a sense of the range of outcomes, it helps to look not just at the median but at the 25th and 75th percentiles. Petroleum engineers come out on top yet again — even the 25th percentile of petroleum engineers earn $95,000. Engineers specializing in mining, metals, chemicals and some other in-demand fields have similarly good odds of earning a good living straight out of school. But not everyone is so lucky. A quarter of biomedical engineers, for example, make $36,000 or less. The median biomedical engineer makes $60,000, and the best-paid ones — those in the 75th percentile — make $70,000.
+All STEM fields aren’t the same
+Politicians love to tout the importance of science, technology, engineering and math majors. But when it comes to earnings, the “S” majors don’t really belong with the “TEM” ones. Engineering majors are nearly all high-paying. So are most computer and math majors, and math-heavy sciences like astrophysics.3 But many sciences, particularly the life sciences, pay below the overall median for recent college graduates. Students who major in neuroscience, meteorology, biology and ecology all stand to make $35,000 or less — and that’s if they can get a full-time job, which many can’t. Zoology ranks as one of the lowest-paying majors of any category, with a median full-time wage of $26,000 a year.
+Non-math types can make money, too
+Considering how much more money there is in engineering and other technical fields, you might expect students to flock to those majors. In fact, there’s almost no correlation between how popular a major is and how lucrative it is. Psychology is far and away the most popular major despite paying a below-average median wage of $31,500. Highly paid engineering fields, meanwhile, are among the least popular fields of study.
+The simple explanation is that technical majors are hard. Not everyone is cut out to be an engineer or a computer scientist. Economic research bears out that interpretation: In a working paper published last year, a group of researchers found that math and science majors were initially popular at a private liberal arts college in Kentucky — until students got their first round of grades.
+Fortunately, there are well-paying majors even for the non-technically inclined, although some comfort with math still helps. Actuarial science majors are the best paid of the non-engineering, non-hard-science majors, with median earnings of $62,000. Court reporting, food science and even public policy all have median earnings at or above $50,000.
+Avoiding unemployment
+Petroleum engineers have one other big advantage over other graduates: They’re much more likely to find jobs. Their unemployment rate was 1.8 percent, and of those with jobs, 87 percent worked at least 35 hours per week. Library science graduates, on the other hand, had a 10.5 percent unemployment rate, and just 71 percent worked full-time.
+On the whole, though, the correlation between earnings and unemployment is surprisingly weak. Actuarial scientists are among the best-paid graduates, but also have an unusually high unemployment rate of nearly 10 percent. Teachers of all stripes may not make much, but they generally find employment.
+The weak correlation likely reflects the fact that college graduates have a significant edge when it comes to finding jobs, regardless of what they major in. A new report from Burning Glass Technologies, an employment data company, finds that employers increasingly prefer applicants with bachelor’s degrees even for jobs that don’t traditionally require them. Nearly two-thirds of job postings for executive assistants now demand a bachelor’s degree, even though only about one-fifth of people currently employed in the field have one. As a result, the unemployment rate for young college graduates is 5.8 percent, compared to 9.8 percent for those with a high school diploma but no bachelor’s degree.4
+Not just a job, a career
+But while a degree may help graduates in the job market, most people don’t go to college so that they can wait tables. The New York Fed researchers found that while unemployment rates are falling among recent graduates, underemployment — having a job that doesn’t require a college degree — is rising.
+The underemployment issue is closely tied to earnings, but it isn’t exactly the same. Teachers are poorly paid on average, but the jobs require a college degree and most teachers, presumably, knew they wouldn’t make much money when they chose their career. As a result, ranking the majors by underemployment yields a somewhat different list than ranking them by earnings.
+Engineering majors, unsurprisingly, are among the least likely to be underemployed, but they are joined by majors in the education and natural science fields. Nurses earn a bit more than average ($48,000) but are among the least likely to be stuck in jobs that don’t require a college degree. Meanwhile, graduates of professionally oriented programs like cosmetology, hospitality management and human resources often find themselves in non-college jobs.5
+“Underemployment” is a relative term. Some construction and manufacturing jobs, for example, pay well even though they don’t traditionally require a degree. More worrisome are college graduates who end up severely underemployed, stuck in low-paying service jobs such as waiters, janitors and retail clerks.
+By that narrower definition, students majoring in “cosmetology services and culinary arts” are the most underemployed, with more than a third working in low-wage service jobs.6 Drama and theater arts majors are nearly as bad, with more than 30 percent in such jobs; other artists and performers are also near the top of the list. The stereotype of starving artists working in coffee shops has more than a bit of truth to it.
+Beyond the bachelor’s
+After cosmetology and drama, the majors who are the most likely to end up stuck in very low-wage jobs are graduates in clinical psychology. About 30 percent of them work in such jobs; overall, the median wage for recent psychology graduates is just $25,000, making them among the lowest paid of any major.
+But that figure is misleading. More than three-quarters of clinical psychology majors go on to graduate school, and those that do enjoy a substantial earnings premium. Among clinical psychology majors ages 25 and up, those with graduate degrees earned a median wage of $70,000, 52 percent more than the $46,000 earned by those without an advanced degree.7
+In some fields, the graduate-school premium is even higher. Pre-med students (technically, “health and medical preparatory programs”) earn a median salary of $135,000 if they successfully go on to medical school or other graduate programs, but just $51,000 if they don’t. Other biology and science majors also enjoy huge premiums, likely because many of them, too, go on to medical school.
+Here, the standard rules of economic incentives are in full force: In fields where graduates get a big financial boost by going to graduate school, more of them do so. The biggest exceptions are in the education field: School counselors and administrators are among the most likely to go to graduate school, but get only a modest boost in pay by doing so.
+
+
+
