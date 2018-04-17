@@ -1,0 +1,13 @@
+POS tags:
+('JJ', 'pm,,datasteaksurvey,,facebooktwitteremail,,prime,,baked,,green,,bean,,ninaâs,,dandy,,riskaverse,,likely,,â,,full,,personal,,rare,,surveymonkey,,fresh,,actual,,frivolous,,moral,,proper,,i,,foodborne,,different,,interpret,,evaluate,,simple,,insignificant,,laughable,,small,,hereâs,,following,,hypothetical,,likely,,much,,thereâs,,vast,,many,,solid,,iâm,,good')
+('NNS', 'americans,,data,,people,,steaks,,polls,,data,,experiments,,arguments,,i,,scouts,,wounds,,steaks,,midteens,,people,,steaks,,people,,airplanes,,people,,â,,results,,regressions,,relationships,,thresholds,,respondents,,situations,,people,,respondents,,people,,people,,steaks,,ideas,,comments')
+('VBP', 'like,,get,,are,,have,,â,,itâs,,have,,prefer,,look,,do,,prefer,,jump,,do,,go,,prefer,,prefer,,i,,are,,like,,have,,have,,have,,â,,have,,know,,hereâs,,find')
+('NN', 'steak,,walt,,hickey,,fivethirtyate,,data,,github,,github,,rib,,potato,,almondine,,cruise,,ship,,scott,,washington,,post,,order,,steak,,i,,idea,,commitment,,disclosure,,quest,,opportunity,,superiority,,story,,datalab,,audience,,sense,,satisfaction,,definition,,midwest,,superiority,,girl,,america,,i,,steak,,bed,,rest,,time,,life,,i,,mediumrare,,i,,sense,,commitment,,order,,reason,,side,,medium,,reason,,juicy,,steaks,,threat,,illness,,everyone,,threshold,,risk,,speed,,limit,,survey,,risk,,traffic,,smoke,,lottery,,â,,steak,,data,,i,,crosstabs,,place,,nothing,,i,,relationship,,behavior,,steak,,rareness,,gender,,age,,income,,effect,,itâs,,survey,,relationship,,peopleâs,,risk,,steak,,example,,lottery,,percent,,chance,,success,,payout,,lottery,,b,,percent,,chance,,success,,payout,,lottery,,â,,i,,â,,lottery,,steak,,rare,,anything,,futility,,itâs,,chart,,steak,,majority,,percent,,â,,ballpark,,medium,,mediumrare,,anyone,,hypothesis,,data,,anything')
+('VBN', 'filed,,done,,been,,cooked,,excited,,gained,,scorched,,desiccated')
+('VBD', 'suchman,,tried,,got,,ordered,,lacked,,incinerated,,ran,,asked,,was,,checked,,was,,ran,,checked,,had,,were,,cooked,,asked,,thought,,picked,,preferred')
+('VB', 'find,,miss,,discuss,,have,,work,,thereâs,,recover,,realize,,exceed,,speed,,see,,start,,try,,tease,,i,,see,,appear,,be,,âœconsider,,bet,,play,,lottery,,be,,prefer,,be,,mediumwell,,taste,,let,,know,,download,,let,,know')
+('VBG', 'reinforcing,,playing,,running,,settling,,testing,,skydiving,,getting,,risktaking,,assuming,,indicating,,preferring')
+('VBZ', 'has,,comes,,stands,,is,,has,,does')
+('JJR', 'tougher,,less,,riskier,,riskier')
+('JJS', 'least')
+

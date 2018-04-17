@@ -1,0 +1,12 @@
+POS tags:
+('NNS', 'media,,data,,weeks,,media,,locations,,hurricanes,,sources,,things,,maria,,days,,media,,levels,,hurricanes,,got2,,outlets,,efforts,,efforts,,statements,,rico,,workers,,weeks,,headlines,,data,,headlines,,headlines,,weeks,,headlines,,statements,,polls,,people,,events,,networks,,times,,media,,months,,organizations,,decisions,,people')
+('VBD', 'started,,did,,found,,had,,had,,went,,had,,started,,started,,wasnât,,went,,made,,suggested,,blasted,,said,,set,,mentioned,,mentioned,,mentioned,,mentioned,,visited,,mentioned,,mentioned,,saw,,visited,,was,,was,,highlighted,,had,,struck,,mentioned')
+('VBG', 'paying,,following,,talking,,covering,,following,,being,,ticking')
+('NN', 'attention,,rico,,trump,,dhrumil,,mehta,,puerto,,rico,,data,,github,,github,,datapuertoricomedia,,facebooktwitteremail,,analysis,,puerto,,rico,,coverage,,hurricane,,maria,,week,,data,,landfall,,puerto,,rico,,morning,,monday,,island,,burst,,attention,,presidentâs,,twitter,,account,,coverage,,puerto,,rico,,coverage,,hurricaneâs,,devastation,,mediaâs,,president,,trump,,puerto,,debt,,feud,,mayor,,juan,,recovery,,effort,,coverage,,fake,,thatâs,,twitter,,hurricane,,average,,quarter,,news,,puerto,,rico,,trump,,percent,,texas,,trump,,aftermath,,hurricane,,harvey,,percent,,florida,,trump,,hurricane,,irma,,president,,island,,week,,half,,territory,,day,,proportion,,trump,,texas,,florida,,coverage,,criticism,,presidentâs,,behavior,,criticism,,response,,way,,administration,,puerto,,rico,,crisis,,presidentâs,,approval,,rating,,hurricane,,tv,,story,,news,,president,,coverage,,rico,,cnn,,msnbc,,did3,,puerto,,ricoâs,,recovery,,attention,,news,,making,,coverage,,president,,trump,,puerto,,rico')
+('VB', 'puerto,,see,,get,,recover,,help,,be,,give,,continue,,merit,,have,,keep,,be,,be')
+('VBN', 'filed,,published,,received,,hit,,gotten,,changed1,,hurricane,,made,,referenced,,engaged,,handled,,been,,influenced,,covered,,dedicated,,devoted')
+('VBP', 'get,,have,,reach,,trump,,werenât,,show,,have')
+('JJ', 'fivethirtyeight,,other,,powerful,,same,,wednesday,,full,,sustained,,other,,controversial,,puerto,,ricoâs,,san,,puerto,,rican,,willing,,unfavorable,,online,,immediate,,last,,positive,,federal,,slow,,several,,recent,,downward,,other,,fox,,favorable,,puerto,,many,,much,,much')
+('VBZ', 'wasnât,,didnât,,has,,tends')
+('JJR', 'higher,,fewer')
+

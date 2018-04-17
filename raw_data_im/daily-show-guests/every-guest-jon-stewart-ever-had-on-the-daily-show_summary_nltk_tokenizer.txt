@@ -1,0 +1,13 @@
+POS tags:
+('VBP', 'am,,get,,tour,,are,,stewart,,have,,caught,,â€,,represent,,â€')
+('NN', 'guest,,jon,,stewart,,showâ€™,,walt,,hickey,,tv,,data,,github,,github,,facebooktwitteremail,,president,,obama,,jon,,stewart,,host,,show,,july,,york,,era,,show,,jon,,stewartâ€,,episode,,tonight,,show,,tv,,i,,stewartâ€™s,,alma,,mater,,graduation,,walk,,school,,wouldnâ€™t,,i,,taping,,show,,audience,,member,,elizabeth,,i,,washington,,metro,,record,,â€,,”,,way,,sanityâ€,,stewart,,part,,hell,,run,,showâ€,,look,,i,,guest,,list1,,guests2,,profile,,googleâ€™s,,knowledge,,graph3,,sat,,chair,,thereâ€™s,,mind,,fusion,,heâ€™s,,everyone,,show,,itâ€™s,,way,,today,,formula,,talk,,show,,list,,stewartâ€™s,,shot,,arm,,sometime,,figure,,program,,presence,,dole,,show,,presence,,politicos,,gap,,presence,,show,,weâ€™ve,,war,,time,,show,,showâ€™s,,emphasis,,head,,fifth,,percent,,â€,,government,,percent,,actor,,movie,,year,,couple,,plurality,,showâ€™s,,count,,zakaria,,showâ€,,”,,denis,,williams,,boss,,appearance,,march,,jon,,stewart,,tonight')
+('VBD', 'had,,ap,,was,,went,,shut,,attended,,jammed,,was,,was,,started,,pulled,,meld,,talked,,changed,,started,,dominated,,had,,was,,appeared,,were,,started,,was,,came,,were,,were,,began')
+('JJ', 'â€˜the,,daily,,data/daily-show-guests,,â€œthe,,daily,,new,,vucci,,â€œthe,,daily,,last,,new,,old,,prospective,,late,,”,,other,,big,,â€œthe,,daily,,interesting,,show-by-show,,cross-checked,,1,600-odd,,unique,,whoâ€™s,,other,,standard,,first,,first,,political,,bob,,other,,first,,several,,subdued,,military,,consistent,,whole,,important,,left,,military,,last,,â€œdaily,,leary,,brian,,iâ€™m,,last,,mic,,comedy,,central')
+('VBN', 'filed,,been,,changed,,interviewed,,been,,run,,relegated,,been,,been,,outsized,,affiliated,,sucked,,fareed,,had,,followed,,been')
+('NNS', 'data,,years,,students,,edwards,,friends,,roommates,,people,,ways,,guests,,years,,friends,,muppets,,actors,,comedians,,years,,people,,visits,,comedians,,performers,,years,,media,,figures,,authors,,figures,,politicians,,politics,,guests,,politics,,media,,figures,,years,,actors,,musicians,,comedians,,guests,,appearances,,times,,edt')
+('NNP', 'â€,,/,,mary,,â€,,”,,â€,,”,,â€,,”,,â€,,”,,”,,â€')
+('VBG', 'taping,,ending,,featuring,,helping,,growing,,leaving,,hosting,,happening,,filling,,showing,,promoting,,kicking,,begging')
+('VBZ', 'is,,airs,,has,,â€,,heâ€™s,,has,,has,,feels,,is,,has,,has,,drops')
+('VB', 'i,,william,,set,,restore,,find,,monarchs,,grace,,have,,be,,appear,,come')
+('JJS', 'guest')
+

@@ -1,0 +1,14 @@
+POS tags:
+('NN', 'pm,,weâ€™ve,,south,,midwest,,walt,,hickey,,remix,,facebooktwitteremail,,lot,,interest,,tuesday,,audienceâ,,south,,midwest.,,weâ€™re,,availableâ,,github.,,github,,page,,,youâ€™ll,,responsesâ,,csv,,format.,,file,,data.,,information,,iâ,,didnâ€™t,,use,,â€”,,respondent,,zip,,code,,,income,,,gender,,region,,approaches.,,thereâ€™s,,column,,interest,,language,,analysis:,,words.,,iâ€™m,,zip,,code,,data:,,expatriates?,,inability,,core,,states?â,,split,,missouri,,virginia,,,identity?,,please,,data,,rossâ,,bechdel,,testâ,,remixesâ,,â€”,,research,,kickoff,,point.,,point,,endeavor')
+('VBN', 'published,,filed,,excited')
+('NNS', 'data,,posts,,results,,polls,,states,,data,,surveys,,heads,,tails,,folks,,people,,respondents,,approaches,,definitions,,regions,,residents,,states,,,data,,remixes,,articles,,things,,questions,,findings,,regions,')
+('VBD', 'was,,wrote,,asked,,posted,,resulted,,was')
+('VBP', 'i,,â€”,,makeâ,,find,,mean,,,do,,â€”,,want,,live,,,use,,are,,do,,explain,,are,,bob,,use,,toâ')
+('JJ', 'wednesday,,twoâ,,surveymonkey,,theâ,,south,,what.,,such,,someâ,,own,,interested,,southern,,midwestern,,local,,midwestern,,difficult-to-categorize,,such,,asâ,,own,,fantasticâ,,interesting,,new,,whole,,nebulous,,appreciated.')
+('NNP', 'â€”')
+('VBG', 'using,,making,,explaining,,interesting')
+('VB', 'theâ,,make,,thereâ€™s,,see,,make,,be,,do,,say,,agree,,send,,me.,,post,,send,,learn,,be')
+('JJS', 'midwest')
+('VBZ', 'is,,thereâ€™s')
+('JJR', 'more')
+

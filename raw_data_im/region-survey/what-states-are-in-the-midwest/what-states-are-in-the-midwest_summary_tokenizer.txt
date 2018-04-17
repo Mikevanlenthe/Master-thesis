@@ -1,0 +1,14 @@
+POS tags:
+('VBP', 'am,,are,,get,,facebooktwitteremail,,get,,make,,â,,southwest,,are,,are,,consider,,consider,,make,,consider,,are,,arenât,,contrast,,make,,i,,spoke,,have,,say,,think,,appear,,michigan,,refer,,are,,acknowledge,,see')
+('NNS', 'states,,data,,states,,regions,,regions,,states,,â,,regions,,midwesterners,,opinions,,midwesterners,,midwesterners,,states,,respondents,,respondents,,states,,things,,people,,respondents,,people,,states,,sources,,hoosiers,,canât,,spans,,respondents,,missouri,,oklahoma,,people,,populations,,states,,people,,swaths,,americans,,tribes,,subdivisions,,groupings')
+('NN', 'midwest,,walt,,hickey,,regionalism,,data,,github,,github,,dataregionsurvey,,cornfield,,illinois,,ap,,argument,,i,,west,,coast,,mountain,,northeast,,south,,midwest,,iâm,,york,,i,,anything,,west,,philadelphia,,midwest,,designation,,boss,,territory,,view,,audience,,cut,,survey,,midwest,,march,,lotâ,,âœsomeâ,,midwesterner,,group,,part,,lot,,core,,midwest,,state,,question,,home,,city,,chicago,,â,,midwestern,,percent,,survey,,group,,albeit,,source,,definition,,state,,state,,bordering,,midwest,,way,,midwest,,half,,quarter,,midwest,,i,,arkansas,,region,,yankee,,error,,indiana,,iowa,,illinois,,core,,percent,,vote,,wisconsin,,percent,,vote,,midwest,,fuss,,ohio,,missouri,,half,,rest,,theyâre,,midwest,,anything,,midwest,,iâd,,territory,,region,,itâs,,â,,diversity,,south,,south,,south')
+('VBN', 'filed,,criticized,,identified,,selected,,identified,,thought,,thought,,thought,,thought,,asked,,pulled,,expected')
+('JJ', 'savoy,,perlman,,regular,,united,,defined,,other,,nebulous,,new,,unsophisticated,,selfavowed,,many,,broadbased,,surveymonkey,,selfidentified,,national,,âœa,,worth,,first,,many,,sure,,everybody,,illinois,,preeminent,,midwestern,,soontobereleased,,southern,,adamant,,potential,,anecdotal,,several,,midwestern,,limited,,true,,potential,,south,,substantial,,much,,unclear,,true,,nebulous,,vast,,american,,solid,,easy,,such,,âœmidwestern,,sure,,youâll')
+('VBD', 'seth,,hereâs,,decided,,asked,,ran,,targeted,,asked,,was,,were,,selfproclaimed,,made,,thought,,did,,second,,were,,got')
+('VBZ', 'states,,is,,has,,falls,,states,,is,,minnesotans,,expands,,regrets,,seems,,is,,comes,,is,,is')
+('NNP', 'michigan,,â')
+('JJS', 'midwest,,midwest,,least,,midwest,,midwest,,least')
+('VB', 'find,,be,,get,,ask,,march,,identify,,i,,i,,have,,pinpoint,,be,,be,,minnesota,,put,,kansas,,break')
+('VBG', 'looking,,pulling')
+('JJR', 'more,,more,,more')
+

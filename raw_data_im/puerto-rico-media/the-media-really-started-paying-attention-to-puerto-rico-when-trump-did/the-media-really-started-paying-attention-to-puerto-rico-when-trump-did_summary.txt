@@ -1,0 +1,13 @@
+POS tags:
+('NNS', 'media,,data,,weeks,,media,,locations,,hurricanes,,sources,,things,,maria,,days,,media,,levels,,hurricanes,,got.2,,outlets,,efforts,,efforts,,statements,,workers,,weeks,,headlines,,data,,trump.,,headlines,,headlines,,weeks,,headlines,,statements,,polls,,people,,events,,networks,,times,,media,,organizations,,decisions,,people')
+('VBD', 'started,,did,,found,,had,,had,,went,,had,,made,,started,,started,,however,,,wasn’t,,went,,made,,referenced,,suggested,,blasted,,said,,set,,mentioned,,mentioned,,mentioned,,mentioned,,visited,,mentioned,,mentioned,,saw,,visited,,was,,was,,highlighted,,had,,mentioned')
+('VBG', 'paying,,talking,,covering,,following,,being,,ticking')
+('NN', 'attention,,rico,,trump,,dhrumil,,mehta,,puerto,,rico,,data,,github,,github,,data/puerto-rico-media,,facebooktwitteremail,,analysis,,puerto,,rico,,coverage,,hurricane,,maria,,week,,,data,,hurricane,,landfall,,puerto,,rico,,morning,,,monday,,,island,,burst,,attention,,president’s,,twitter,,coverage,,puerto,,rico,,,coverage,,hurricane’s,,devastation,,media’s,,president,,trump,,rico.,,trump,,rico’s,,debt,,,feud,,mayor,,juan,,,recovery,,effort,,,coverage,,that’s,,twitter.),,hurricane,,,average,,quarter,,news,,puerto,,rico,,percent,,texas,,trump,,aftermath,,hurricane,,harvey,,,percent,,florida,,trump,,hurricane,,irma.,,president,,island,,week,,,half,,territory,,day,,proportion,,trump,,texas,,florida.,,coverage,,criticism,,president’s,,behavior,,,criticism,,response,,way,,administration,,puerto,,rico,,crisis,,president’s,,approval,,rating,,hurricane,,struck,,,well.,,tv,,story,,equally.,,fox,,news,,,president,,coverage,,,rico,,cnn,,msnbc,,did.3,,puerto,,rico’s,,recovery,,attention,,news,,making,,coverage,,president,,trump,,puerto,,rico.')
+('VB', 'puerto,,see,,get,,recover,,help,,be,,give,,continue,,merit,,have,,keep,,be,,be')
+('VBN', 'filed,,published,,received,,hit,,gotten.,,changed.1,,engaged,,handled,,been,,influenced,,covered,,dedicated,,devoted')
+('VBP', 'get,,ago,,,have.,,later,,,(and,,reach,,weren’t,,show,,have')
+('JJ', 'fivethirtyeight,,other,,u.s.,,powerful,,same,,wednesday,,following,,full,,sustained,,other,,it.,,controversial,,puerto,,puerto,,san,,puerto,,rican,,willing,,unfavorable,,fake.,,online,,immediate,,last,,positive.,,federal,,slow.,,several,,recent,,downward,,other,,favorable,,puerto,,many,,months.,,much,,much')
+('VBZ', 'wasn’t,,didn’t,,has,,tends')
+('NNP', '(and')
+('JJR', 'higher,,fewer')
+

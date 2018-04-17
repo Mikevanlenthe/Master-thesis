@@ -1,0 +1,13 @@
+POS tags:
+('NNS', 'media,,data,,suffers,,media,,things,,sports,,players,,tweets,,sentences,,stories,,disasters,,weeks,,data,,media,,people,,shows,,sentences,,maria,,hurricanes,,harvey,,mentions,,states,,networks,,networks,,maria,,competitors,,hints,,programs,,shows,,observers,,delays,,journalists,,media,,outlets,,media,,media,,americans,,ricans,,citizens,,searches,,storms,,puerto,,media')
+('VBZ', 'has,,has,,has,,collects,,shows,,is,,reveals,,shows,,seems,,shows,,is,,is,,has')
+('VBN', 'neglected,,filed,,published,,excepted,,been,,occupied,,compared,,been,,ignored,,published,,hit,,aired,,combined,,dedicated,,âœunacceptableâ,,given,,planned')
+('NN', 'rico,,dhrumil,,mehta,,puerto,,rico,,data,,github,,github,,datapuertoricomedia,,facebooktwitteremail,,rico,,hurricane,,health,,care,,bill,,election,,alabama,,spat,,president,,sunday,,president,,nfl,,phrase,,anthemâ,,tv,,news,,ricoâ,,mariaâ,,course,,hurricane,,maria,,database,,news,,internet,,day,,devastation,,puerto,,rico,,tv,,news,,coverage,,trend,,data,,tv,,news,,archive,,tv,,news,,hurricane,,spike,,conversation,,puerto,,rico,,hurricane,,hit,,spike,,texas,,florida,,television,,hurricane,,cable,,news,,hurricane,,maria,,bbc,,network,,hurricane,,maria,,air,,coverage,,data,,network,,coverage,,analysis,,talk,,sunday,,maria,,landfall,,minute,,coverage,,crisis,,puerto,,rico,,mention,,puerto,,rico,,puerto,,ricoâs,,status,,territory,,reason,,lack,,news,,coverage,,delivery,,aid,,association,,statement,,disaster,,spokesperson,,ba,,snyder,,fivethirtyeight,,dearth,,press,,coverage,,devastation,,w,,attention,,responsibility,,september,,attention,,poll,,half,,puerto,,rest,,interest,,mainland,,storm,,rico,,silence,,issue,,president,,trump,,visit,,rico,,week,,presence,,engagement,,mainland')
+('VBP', 'get,,are,,cloud,,didnât,,are,,re,,â,,isnât,,are,,are,,google,,show')
+('JJ', 'puerto,,other,,primary,,few,,last,,trumpâs,,âœnational,,âœpuerto,,other,,worth,,other,,natural,,past,,few,,little,,attention1,,similar,,british,,political,,many,,national,,hispanic,,nationallocal,,pr,,equal,,nahj,,nahj,,recent,,aware,,american,,public,,initial,,citizen')
+('VBD', 'fivethirtyeight,,failed,,was,,said,,combined,,collected,,spoke,,was,,was,,covered,,mentioned,,did,,did,,aired,,made,,issued,,told,,was,,showed,,was,,hit,,was,,hit')
+('VB', 'pass,,name,,irma2,,cnn,,have,,be,,produce,,cover,,cover,,be,,puerto,,bring')
+('NNP', 'âœhurricane')
+('VBG', 'covering,,getting,,ramping,,according,,speculating,,calling,,calling,,paying,,coming')
+('JJR', 'fewer,,smaller,,more,,less,,less,,higher,,more')
+

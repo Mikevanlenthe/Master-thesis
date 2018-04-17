@@ -1,0 +1,14 @@
+POS tags:
+('NN', 'jun,,rock,,oneâ,,walt,,hickey,,data,,github,,github,,facebooktwitteremail,,dwayne,,johnson,,premiere,,andreasâ,,theatre,,hollywood,,charbonneau,,ap,,film,,dwayne,,johnson,,earthquake,,california,,box,,office,,weekend,,andreasâ,,disaster,,movie,,formula,,world,,manâs,,family,,idea,,film,,time,,span,,californiaâs,,situation,,stuff,,way,,itâs,,fault,,yellowstone,,supervolcano,,story,,left,,coast,,thatâs,,time,,survey,,probability,,earthquake,,magnitude,,california,,percent,,card,,deck,,jack,,california,,âœbig,,oneâ,,oneâ,,earthquake,,audience,,poll,,â,,percent,,think,,itâs,,lifetime,,census,,region,,west,,coast,,deal,,anxiety,,percent,,region,,percent,,oneâ,,percent,,quake,,lifetime,,kind,,disaster,,thing,,oneâ,,disaster,,kit,,evacuation,,plan,,survey,,risk,,â,,builtin,,audience,,thing,,survey,,fault,,yellowstone,,supervolcano,,treat,,oneâ,,sense,,gosh,,magma,,yellowstone,,anything,,west,,mississippi,,data,,github')
+('VBP', 'am,,are,,get,,are,,think,,draw,,think,,are,,zero,,think,,are,,think,,are,,overestimate,,play,,andreas,,have,,know,,donât,,are,,are')
+('VB', 'isnât,,break,,end,,come,,go,,occur,,argue,,need,,be,,happen,,have,,hereâs,,know,,be,,settle,,check')
+('JJ', 'alone,,worried,,âthe,,big,,datasanandreas,,tcl,,chinese,,eric,,catastrophic,,past,,âœsan,,pretty,,basic,,legitimate,,sound,,long,,geological,,tectonic,,big,,immediate,,little,,san,,andreas,,geological,,geological,,next,,random,,itâs,,âœthe,,big,,massive,,catastrophic,,surveymonkey,,third,,worried,,âœthe,,big,,pacific,,active,,noncontiguous,,â,,good,,pacific,,worried,,overall,,big,,worried,,bad,,big,,likely,,such,,survival,,big,,favorite,,san,,andreas,,last,,major,,likely,,big,,much,,full')
+('NNS', 'lots,,people,,movies,,data,,expectations,,abides,,itâs,,fears,,risks,,people,,eons,,years,,lots,,people,,â,,lifetimes,,americans,,respondents,,earthquakes,,people,,people,,lifetimes,,times,,precautions,,people,,movies,,fears,,â')
+('VBN', 'filed,,destroyed,,rebuilt,,ok,,worried,,taken,,worried')
+('VBZ', 'attends,,â,,is,,is,,is,,is,,is,,is,,states,,thatâs,,turns,,makes,,is')
+('NNP', 'âsan,,âœsan,,â,,âœthe,,âœthe,,âœthe,,âœsan,,â,,âœthe')
+('VBG', 'starring,,destroying,,beating,,pulling,,playing,,going,,coming,,according,,rocking,,according,,going,,buying,,making,,according')
+('VBD', 'crushed,,â,,commissioned,,said,,were,,were,,â,,did')
+('JJR', 'more,,lower,,larger,,more')
+('JJS', 'most')
+

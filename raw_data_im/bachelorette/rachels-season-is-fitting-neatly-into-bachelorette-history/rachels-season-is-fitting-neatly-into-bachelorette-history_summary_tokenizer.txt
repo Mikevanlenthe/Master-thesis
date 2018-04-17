@@ -1,0 +1,13 @@
+POS tags:
+('NN', 'rachel,,s,,season,,history,,walt,,hickey,,ella,,koeze,,tv,,data,,github,,github,,databachelorette,,facebooktwitteremail,,home,,stretch,,season,,bachelorette,,time,,preseason,,bachelor,,bachelorette,,analysis,,attorney,,texas,,field,,challenge,,s,,season,,elimination,,demario,,girl,,television,,roseceremony,,eliminations1,,season,,power,,firstimpression,,contestant,,move,,day,,recipient,,bryan,,sight,,anything,,dean,,oneonone,,date,,rachel,,bit,,anything,,season,,proof,,twoonone,,one,,half,,twoonone,,date,,twoonone,,date,,percent,,contestant,,competition,,doom,,kenny,,head,,serpentine,,lee,,date,,proper,,rachel,,wasn,,week,,history,,season,,time,,contender,,bachelor,,bachelorette,,point,,value,,value,,oneonone,,smallgroup,,largegroup,,oneonone,,date,,twoonone,,date,,threeonone,,onethird,,date,,peter,,dean,,neck,,neck,,time,,rachel,,bryan,,s,,break,,oneonone,,week,,adam,,matt,,everyone,,time,,rachel,,week,,chance,,thing,,chart,,reality,,rachel,,point,,bestcase,,scenario,,total,,man,,love,,thing')
+('VBZ', 'is,,means,,s,,has,,has,,seems,,reinforces,,makes,,is,,is,,s,,has,,comes,,has,,has,,is,,is,,has,,gets,,s')
+('VBG', 'fitting,,going,,breaking,,going,,remaining,,considering,,assigning,,speaking,,going,,counting,,coming,,getting,,getting')
+('JJ', 'bachelorette,,perfect,,rigorous,,previous,,unscheduled,,nice,,aggregate,,historical,,final,,hometown,,first,,real,,peter,,early,,tend,,further,,next,,lee,,kenny,,following,,next,,much,,exclusive,,final,,eric,,late,,top,,poor,,first,,last,,shocking,,harsh,,finale,,crazy')
+('VBN', 'filed,,published,,narrowed,,seen,,eliminated,,broken,,given,,doomed,,gone,,won,,gone,,eliminated,,bounced,,eliminated,,proceeded,,had,,based,,spent,,rejected,,been,,gone,,engaged')
+('VBP', 'get,,re,,handle,,rachel,,love,,have,,go,,are,,are,,are,,spell,,s,,re,,ve,,are,,are,,are,,are,,stand,,are,,ve')
+('NNS', 'data,,gentlemen,,contestants,,men,,dates,,men,,dates,,predecessors,,dates,,folks,,people,,dates,,dates,,years,,survivors,,weeks,,weeks,,participants,,cases,,twoonones,,dates,,dates,,dates,,dates,,dates,,dates,,men,,terms,,numbers,,dates,,men,,families,,dates')
+('VB', 'check,,rachel,,lindsay,,have,,favor,,be,,bryan,,mean,,head,,guy,,go,,hometowns,,say,,spend,,s,,move,,meet,,have')
+('VBD', 's,,held,,did,,rose,,rose,,learned,,had,,wrote,,won,,went,,were,,was,,decided,,t,,looked,,was,,met,,were,,had,,s')
+('JJS', 'strongest,,most')
+('JJR', 'more,,higher,,better,,better,,better,,more')
+

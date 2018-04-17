@@ -1,0 +1,14 @@
+POS tags:
+('NN', 'apr,,mona,,chalabi,,data,,github,,github,,barbara,,bush,,branch,,library,,spring,,texas,,david,,j.,,phillip,,ap,,year,,state,,funding,,state,,rookie,,public,,death,,library,,country,,bureau,,labor,,picture,,number,,percent,,mexico,,percent,,michigan,,percent,,drop,,number,,top,,list,,percent,,increase,,didn’t,,place,,change,,time,,worth,,level,,detail,,area,,bls,,quotient,,number,,population,,basis,,ky.,,valley,,owensboro,,accuracy,,estimate,,number,,job,,quotient,,list,,duh,,concentration,,pay,,fresno,,calif.,,wage,,year,,degree,,information,,thing,,past,,library,,association,,age,,librarian')
+('VBP', 'am,,are,,get,,facebooktwitteremail,,can’t,,are,,are,,are,,are,,are,,are,,have,,have,,are')
+('JJ', 'america’s,,andrew,,last,,constant,,u.s.,,average,,blame,,“the,,“a,,occupational,,mixed,,new,,idaho,,many,,first,,it’s,,metropolitan,,“job,,relative,,silicon,,real,,total,,low,,helpful,,u.s.,,metropolitan,,owensboro,,average,,annual,,library,,average,,librarian,,master’s,,you’re,,interested,,american,,median,,credentialed')
+('NNS', 'librarians,,flowers,,jobs,,data,,data/librarians,,libraries,,salaries,,directors,,librarians,,libraries,,people,,libraries.�,,libraries,,species,,librarians,,data,,statistics,,librarians,,librarians,,states,,librarians,,librarians,,places,,librarians,,librarians,,librarians,,people,,librarians,,librarians,,data,,librarians,,concentrations,,librarians,,areas,,colleges,,librarians,,workers,,libraries,,librarians,,men,,women,,men,,women')
+('VBN', 'filed,,endangered,,risen,,seen,,found,,risen')
+('NNP', '/,,�,,�,,�')
+('VBD', 'was,,cut,,held,,fell,,were,,fell,,were,,was,,had,,were,,tested,,noticed,,were,,was,,had')
+('JJR', 'fewer,,fewer,,more,,finer,,older')
+('VBG', 'proclaiming,,foreseeing,,looking,,zooming,,looking,,trying,,getting,,according')
+('VB', 'read,,weep�,,look,,find,,it’s,,be,,be,,be,,use,,judge,,become,,be,,know')
+('VBZ', 'has,,is,,calculates,,measures,,is,,is,,is,,is,,earns,,has')
+('JJS', 'most,,biggest,,highest,,best')
+

@@ -1,0 +1,14 @@
+POS tags:
+('NNS', 'people,,carl,,bialik,,data,,data,,databirths,,thousands,,babies,,parents,,doctors,,newborns,,births,,deliveries,,lots,,parents,,fears,,fridays,,births,,fridays,,falls,,wards,,months,,lots,,births,,children,,t,,years,,reasons,,forums,,births,,obstetrics,,cesareans,,inductions,,looks,,effects,,patterns,,trends,,attempts,,dates,,findings,,births,,data,,researchers,,effects,,authors,,data,,births,,data,,parents,,say,,dates,,births,,results,,ours,,holidays,,births,,days,,flowers')
+('VBP', 'are,,are,,d,,deliver,,are,,are,,d,,are,,have,,are,,forum,,think,,are,,cowrote,,reran,,d,,s,,do')
+('JJ', 'superstitious,,facebooktwitteremail,,friday,,other,,many,,induced,,cesarean,,double,,superstitious,,bad,,longstanding,,i,,few,,feb,,vague,,bad,,i,,superstitious,,obstetrician,,cesarean,,t,,13th,,bad,,luck,,universal,,good,,second,,such,,medical,,planned,,full,,computational,,statistician,,complex,,monthly,,longterm,,certain,,previous,,other,,valentine,,s,,several,,other,,bayesian,,third,,recent,,recent,,other,,key,,high,,expect,,consistent,,whole,,other,,suppress,,leap')
+('VB', 'have,,get,,expect,,take,,expect,,tend,,schedule,,avoid,,change,,i,,superstitious,,bugs,,be,,avoid,,land,,gelman')
+('NN', 'baby,,friday,,github,,github,,month,,day,,section,,choice,,chance,,date,,whammy,,luck,,number,,month,,effect,,weekend,,delivery,,births1,,parentstobe,,try,,birthday,,parent,,mom,,pregnancy,,office,,lady,,yea,,sorry,,luck,,day,,i,,site,,i,,section,,belief,,isn,,t,,day,,household,,mom,,parent,,forum,,birth,,friday,,birthday,,family,,neel,,shah,,assistant,,professor,,gynecology,,school,,email,,schedule,,labor,,friday,,scientist,,aki,,vehtari,,andrew,,gelman,,method,,calendar,,birth,,extension,,analysis,,birth,,day,,halloween,,cover,,textbook,,analysis,,edition,,i,,vehtari,,analysis,,generation,,birth,,effect,,analysis,,friday,,finding,,calendar,,notice,,christmas,,month,,analysis')
+('VBN', 'filed,,born,,scheduled,,given,,staffed,,given,,been,,booked,,become,,given,,planned,,based,,been,,scheduled')
+('VBG', 'parenting,,tying,,avoiding,,bugging,,saying,,scheduling,,teasing,,separating,,covering')
+('VBZ', 'falls,,delivers,,is,,s,,friday,,friday,,has')
+('JJR', 'fewer,,lower,,fewer,,more')
+('VBD', 'treated,,wrote,,won,,wrote,,said,,s,,said,,isn,,wrote,,asked,,laughed,,said,,didn,,said,,had,,had,,said,,developed,,made,,sent,,found,,had,,gave,,was,,had,,were,,ran,,found,,contributed')
+('JJS', 'smallest')
+('NNP', 'harvard')
+

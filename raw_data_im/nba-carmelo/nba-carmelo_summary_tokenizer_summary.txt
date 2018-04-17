@@ -1,0 +1,14 @@
+POS tags:
+('NN', "pos tags: elo simple elo elo nba wilt jerry don awhile nov. former') franchise strength game season rate nba team play method measure strength game history game credit houston conference los elo rating expansion rating team zoom history surprise chicago elo rating state game chicago championship end season peak playoff record chicago slump title game season los elo rating part competition expansion league span baylor chamberlain west team end era perception baylor retirement season streak jan. elo rating team peak rating season franchise s t respect boston dominance elo doesn t care playoff elo rating hung era team elo rating antonio team lot time season york basketball elo rating history york season time franchise s rating team march moment linsanity johnson play glory') walt — elgin get — reed meant raising') explore take greatness put ('jjs', ’ ’')")
+('NNP', "('jj', 'complete “ — ('nn', 'history ’ — ” ’ ’ — — ('vbz', ’ ('vbd', ('vbg', ('jjr', ('vb', ’ ’ ’ ’ ’")
+('JJ', "s relative nba 2017-18 simple game-by-game total final upset zero-sum final western 2014-15 average league 1995-96 regular-season golden fourth nba few 108-86 seattle 3-0 14-1. next double 1971-72 rapid several old consecutive first nba modern weak lackluster regular relative good much above-average 1980s-era current san common similar long 1969-70 great new 23-1 nov. little new regular other active feb. 4-point franchise score semifinal average league nba elo lead s title sixth franchise aba has') ('nns', ('vbp', begin select surpassed anchored unparalleled daylight') stomped lived') less') win close larry') highest') ('nnp',")
+('VBD', "s hit 'based watered led 'calculated was was were went had was was was did was were were went was had were")
+('NNS', "elo angeles angeles celtics knocks 'predictions warriors championships decades results ratings ratings ratings inputs teams points victories margins ratings rockets points games clippers points teams bulls warriors finals bulls games supersonics finals games lakers games lakers lakers franchises years veterans years games lakers wins points lakers celtics celtics titles sports rings celtics opponents seasons achievements celtics years lakers celtics streaks knicks best_knicks knicks things games playoffs knicks bucks nets 'do get ’ ('vbn',")
+('VBZ', "elo 'works is is has has wins digits")
+('VBP', "elo s playoffs bulls spurs willis knicks') have are are have dave")
+('VBG', "middling 'winning winning winning depending losing clinching going aging approaching")
+('VB', 'peak improve be')
+('JJS', "closest 'best best least")
+('VBN', "s s gain are') played expanded gone supposed strengthened taken been gained lost had picked had reeled maintained peaked hit won ’ go")
+('JJR', 'larger higher lower')
+

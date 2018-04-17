@@ -1,0 +1,14 @@
+POS tags:
+('NN', 'dallas,,shooting,,police,,history,,carl,,bialik,,ritchie,,king,,law,,enforcement,,police,,police,,officer,,night,,lm,,otero,,ap,,number,,job,,cause,,death,,night,,demonstration,,dallas,,police,,president,,attack,,law,,enforcementâ,,bialikflowerskingpolicedeaths1,,officer,,policing,,death,,horrific,,massacre,,thatâs,,decline,,number,,police,,line,,duty,,number,,number,,police,,percent,,bureau,,justice,,period,,number,,percent,,share,,officer,,car,,officer,,officer,,page,,college,,student,,police,,officer,,database,,bureau,,investigationâs,,way,,york,,state,,afternoon,,number,,police,,rate,,police,,population,,patrol,,job,,country,,police,,sheriffâs,,patrol,,death,,rate,,bureau,,labor,,rate,,rate,,truck,,number,,incident,,history,,incident,,police,,sept,,terrorist,,law,,enforcement,,fund,,number,,shooting,,incident,,puerto,,rico,,revolt,,shooting,,police,,dallas,,arrest,,missouri,,farm,,car,,shot')
+('VBD', 'was,,shootingsprotest,,were,,declined,,held,,was,,grew,,were,,was,,called,,calculated,,had,,started,,were,,hadnât,,was,,died,,died,,died,,were,,was,,was,,suspected')
+('JJS', 'deadliest,,most,,deadliest,,largest,,deadliest,,largest')
+('JJ', 'andrew,,aptopix,,dallas,,thursday,,last,,police,,grim,,statistic,,steady,,common,,gun,,thursday,,recent,,other,,vicious,,despicable,,recent,,overall,,singular,,fulltime,,sworn,,local,,same,,accidental,,deliberate,,onduty,,police,,memorial,,federal,,new,,friday,,national,,available,,overall,,todayâs,,dangerous,,officersâ,,fulltime,,other,,single,,national,,memorial,,such,,single,,political,,last,,attempted')
+('NNS', 'flowers,,grieves,,colleagues,,years,,officers,,numbers,,police,,officers,,killings,,officers,,states,,years,,counts,,dallas,,deaths,,officers,,officers,,officers,,statistics,,officers,,deaths,,collisions,,data,,deaths,,data,,officers,,dallas,,shootings,,data,,officers,,officers,,years,,cops,,ones,,workers,,statistics,,times,,workers,,dozens,,professions,,pilots,,drivers,,police,,officers,,dallas,,officers,,attacks,,officers,,officers,,dallas,,territories,,police,,officers,,officers,,thieves,,officers')
+('VBN', 'filed,,shot,,killed,,shot,,killed,,become,,occurred,,risen,,increased,,killed,,declined,,killed,,been,,updated,,declined,,killed,,killed,,killed,,killed')
+('VBP', 'die,,suggest,,are,,â,,isnât,,bialikflowerskingpolicedeaths2,,have,,â,,are,,are')
+('VBG', 'protesting,,shooting,,according,,growing,,happening,,according,,including,,policing,,according')
+('NNP', 'âœa')
+('VBZ', 'makes,,has,,has,,comes,,is,,continues,,extends,,has,,loggers,,itâs')
+('JJR', 'more,,deadlier')
+('VB', 'maintain')
+

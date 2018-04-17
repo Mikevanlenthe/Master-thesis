@@ -1,0 +1,14 @@
+POS tags:
+('NN', 'pm,,part,,america,,thanksgiving,,walt,,hickey,,food,,data,,github,,github,,datathanksgiving2015,,turkey,,bird,,farm,,sonoma,,california,,year,,justin,,sullivan,,getty,,â,,tale,,welcoming,,itâs,,day,,mass,,consumption,,parade,,day,,midst,,weâve,,point,,santa,,claus,,float,,end,,macyâs,,day,,start,,week,,christmas,,music,,radio,,right,,thanksgiving,,food,,spirit,,holiday,,nation,,bird,,audience,,poll,,pork,,roast,,beef,,thanksgiving,,turkey,,percent,,meat,,centerpiece,,meal,,poultry,,side,,dish,,region,,southeast,,home,,cranberry,,sauce,,region,,percent,,variety,,side,,â,,percent,,region,,percent,,texas,,rest,,country,,percent,,dinner,,percent,,nation,,southeast,,form,,mac,,percent,,region,,dish,,thanksgiving,,menu,,percent,,country,,england,,mind,,squash,,percent,,table,,percent,,nation,,whole,,finding,,pursuit,,endorse,,squash,,something,,dessert,,region,,pie,,america,,apple,,pie,,england,,america,,pie,,potato,,south,,america,,midwest,,west,,nation,,shit,,variation,,percent,,day,,way,,family,,way,,party,,dinner,,school,,percent,,theyâve,,time,,see,,bar,,card,,data,,yourself')
+('VBD', 'hereâs,,hit,,had,,got,,did,,pie,,said,,said,,were')
+('NNS', 'eats,,data,,images,,thanks,,refugees,,shores,,media,,nfl,,games,,others,,canadians,,plans,,turkeys,,things,,factions,,traditions,,respondents,,shoutouts,,dishes,,rules,,respondents,,distinctions,,respondents,,states,,states,,respondents,,regions,,prefers,,carbs,,â,,respondents,,traditions,,regions,,respondents,,sales,,friends,,respondents,,associates,,kids')
+('VBN', 'filed,,kim,,chicken,,come,,cauliflower,,compared,,compared,,assorted,,done')
+('VBP', 'get,,facebooktwitteremail,,give,,itâs,,donât,,have,,are,,bring,,get,,hereâs,,are,,have,,see,,include,,are,,leave,,donât,,have,,i,,know')
+('JJ', 'willie,,last,,foreign,,american,,secret,,sure,,third,,cheap,,letâs,,bargainbin,,surveymonday,,cursory,,main,,other,,other,,white,,regional,,consumed,,side,,definitive,,canned,,likely,,homemade,,middle,,atlantic,,nationwide,,central,,southern,,cornbread,,necessary,,cheese,,overall,,new,,confusing,,whole,,gronk,,pumpkin,,new,,middle,,pecan,,sweet,,cherry,,american,,little,,solid,,black,,friday,,great,,little,,early,,early,,high,,thirtyseven,,worth,,facebook,,old')
+('VBG', 'thanksgiving,,finding,,thanksgiving,,thanksgiving,,saying,,going,,having,,losing,,demanding,,buying,,thanksgiving,,checking,,doing')
+('VB', 'celebrate,,identify,,parade,,thatâs,,peel,,carve,,check,,pick,,dessert,,shop,,leave,,ditch,,hang,,be,,see,,be,,iâll,,download')
+('VBZ', 'is,,commemorates,,is,,eats,,is,,dishes,,is,,is,,is,,enjoys,,has,,atlantic,,has,,consumes,,unites,,didnât')
+('JJS', 'least')
+('NNP', 'â')
+('JJR', 'more')
+

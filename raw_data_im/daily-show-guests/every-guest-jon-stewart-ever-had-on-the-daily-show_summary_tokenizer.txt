@@ -1,0 +1,12 @@
+POS tags:
+('VBP', 'am,,get,,facebooktwitteremail,,tour,,walk,,are,,i,,stewart,,s,,s,,have,,ve,,caught,,represent')
+('NN', 'guest,,jon,,stewart,,show,,walt,,hickey,,tv,,data,,github,,github,,president,,obama,,stewart,,host,,show,,july,,york,,evan,,vucci,,era,,show,,stewart,,episode,,tonight,,show,,tv,,i,,stewart,,s,,alma,,mater,,graduation,,school,,wouldn,,t,,taping,,show,,audience,,member,,elizabeth,,washington,,record,,way,,rally,,sanity,,stewart,,part,,hell,,run,,show,,look,,showbyshow,,list1,,guests2,,profile,,google,,s,,knowledge,,graph3,,chair,,mind,,fusion,,everyone,,show,,way,,today,,formula,,talk,,show,,list,,stewart,,s,,shot,,arm,,sometime,,figure,,program,,presence,,dole,,show,,presence,,politicos,,gap,,presence,,show,,war,,time,,show,,show,,emphasis,,head,,fifth,,percent,,government,,military,,percent,,actor,,movie,,year,,couple,,plurality,,show,,count,,fareed,,zakaria,,show,,denis,,boss,,m,,appearance,,march,,jon,,stewart,,tonight,,comedy')
+('VBD', 'had,,was,,went,,shut,,attended,,was,,was,,started,,pulled,,crosschecked,,meld,,talked,,s,,s,,started,,dominated,,had,,was,,appeared,,were,,started,,was,,left,,came,,were,,were,,began')
+('JJ', 'daily,,jon,,daily,,new,,daily,,jon,,last,,new,,old,,i,,mary,,prospective,,late,,other,,big,,daily,,interesting,,unique,,other,,standard,,first,,first,,political,,bob,,other,,first,,several,,subdued,,military,,consistent,,whole,,important,,last,,s,,daily,,leary,,brian,,i,,last,,mic,,central')
+('VBN', 'filed,,been,,jammed,,changed,,interviewed,,sat,,been,,changed,,relegated,,been,,been,,outsized,,affiliated,,sucked,,had,,followed,,been')
+('NNS', 'data,,datadailyshowguests,,years,,students,,edwards,,friends,,roommates,,people,,ways,,guests,,i,,years,,friends,,muppets,,actors,,comedians,,years,,people,,visits,,comedians,,performers,,years,,media,,figures,,authors,,figures,,politicians,,politics,,guests,,politics,,media,,figures,,years,,actors,,musicians,,comedians,,guests,,williams,,times,,edt')
+('VBG', 'taping,,ending,,featuring,,helping,,growing,,leaving,,hosting,,happening,,filling,,showing,,promoting,,kicking,,begging')
+('VBZ', 'is,,airs,,has,,metro,,s,,has,,has,,s,,feels,,is,,s,,has,,appearances,,has,,drops')
+('VB', 'william,,i,,set,,restore,,find,,monarchs,,run,,grace,,have,,be,,appear,,come')
+('JJS', 'guest,,guest')
+
