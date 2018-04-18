@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 960
+Raw number of types: 399
+Raw Type token ratio: 0.415625
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 434
+Number of types: 282
+Type token ratio: 0.6497695852534562
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rate team measure strength gamebygame game league history team rating average league expansion rating methodology game bowl bowl football league football professional football association allamerica football conference football history team zoom history professional football franciscos history england bowl season calculate count rating stretch league history average peak rating time start season childhood brady bill project history dallas team football record season reason trade bowl herschel walker minnesota exchange bevy emmitt smith safety tackle russell walker history payoff wasnt season rating bowl season rating championship game gain time history anyone team bowl merger teams existence reminder longevity football chance wisconsin chicago super bowl peak season team success peak brett championship season bowl figure aaron start history didnt wait success year bowl perfect record team history year miami peak title game team resurgence bowl curve team creation rating week season championship game revival decade')
+
+('NNS', 'decades results ratings ratings teams results championships titles winners games patriots stretches seasons playoffs times games times championships 49ers cowboys cowboys fans cowboys players darren contributors yards seasons vikings deals cowboys theyd playoffs years titles cowboys points years packers packers theres bears titles packers rodgers dolphins dolphins fans dolphins dolphins seasons championships heights losses ways jaguars jaguars years')
+
+('VBP', 'play start profootballreferencecom include super super answer patriots picks woodson maryland dallas make super championships slate team peak miami lesser title')
+
+('JJ', 'simple total average league read super league national american league american defunct choose favorite entire incredible last become dynasty patriots average belong franciscos born nfls entire arent werent much optimistic defensive huge full lopsided immediate january green good long green dominated super nfls green franchise modern january squad green early super next super complete high miamis historical comparable jacksonville florida peaked lose brief')
+
+('VBN', 'based selected matched returned')
+
+('VBD', 'calculated expanded played tried made racked sent became surpassed finished cared came captured emerged came favreled joined made reached went')
+
+('JJR', 'higher lower super')
+
+('VBG', 'depending including excluding seasonending rebuilding coming giving running drafting running bottoming following living reaching edging winning winning hitting thrashing hitting')
+
+('VBZ', 'wins franchises depends cowboys carries')
+
+('JJS', 'least greatest best best highest best least worst')
+
+('VB', 'belichick gotten')
+

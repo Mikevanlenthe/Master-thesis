@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2152
+Raw number of types: 691
+Raw Type token ratio: 0.32109665427509293
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 915
+Number of types: 515
+Type token ratio: 0.5628415300546448
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'pollsters details polls bialik pollsters data datapollofpollsters readers updates junkies people polls pollsters nuts bolts data numbers pollsters answers minutes respondents questions results questions respondents questions parts operations pollsters pollsters surveys panels vendors respondents members polls contractors pollsters people polls interviewers pollsters questions ages interviewers contractors pollsters banks offices pollsters interviewers interviewers women hours firms women pollsters details employees americans organizations staffers pollsters staffs businesses arms interviewers minorities demographics minorities fields pollsters respondents people pollsters people respondents numbers voters pollsters advantages people races lives voters politics voters pollsters companies lists voters pollsters models voters lists states voters pollsters questions languages costs responses doubles pollsters hispanics services schools jobs views issues others answers pollsters interviews results questions responses data pollsters lists ones politics pollsters questions responses voters people screens questions questions offers respondents options voters factors others pollsters calls voters respondents answers responses others pollsters calls numbers groups factors weights risks rates twothirds pollsters caveats skeptics techniques panels costs pollsters clients costs people cellphones cellphones respondents pollsters questions banks pollsters predictions seats pollsters republicans pollsters seats republicans democrats simulations seats pollsters races pollsters predictions reasons')
+
+('VBP', 'know data illustration know release database surveymonkey explore promise know handle conduct know take conduct gender outsource work know earn employ include percent hampshire irrelevant remain interviews think wellknown call tell answer sample sell include english dialect respond differ hotbutton determine make registeredvoter voter inquire differ decide vote contain question accuracy range assign gender expect differ make make john provide online cost risen suggest data expect control republicans average5 control republicanheld explain')
+
+('VBD', 'made filed plosz focused took said took asked asked came said learned trained shared said said said asked said added asked covered registered cited registered mailed said registered bought registered said asked asked ranged said governmentprovided said agreed said completed weight said said weight weight said boost introduced said called said grove said reserved said kept asked answered said said made asked suggested followed said compelled asked predicted predicted said')
+
+('JJ', 'carl many political know last third tuesday national much blew complete median long2 full tapped possible complete many outsource online many asked live monitor percent days3 polling equal percent white half white side several diverse white many anonymous important diverse difficult quantrelated graduate small plenty randomdigit call different randomly dial eligible vote local geographical interested likely efficient build likely useful quality consistent barbara carvalho spanish chinese french tagalog german vietnamese much median individual spanish popular second asked spanish english minimum dicamillo conservative many social consistent likelihood respondent representative likely unlikely likelihood likely simple complex many simple final single certain certain demographic ethnic tricky weight hispanic hispanic hispanic limit average percent several underrepresented large additional opted familiar relevant sample credible anzalone yesandno twohour insight sophisticated expensive manageable typical many expense expensive illegal stressed godawful email serious last grumpy personal first many senate average seats common percent close senate')
+
+('NN', 'poll github github joel plosz illustration joel election sausage make detail poll election1 collect candidate dozen prolific time provide forecast survey time room report github hung christopher borick muhlenberg college survey understand thank borick election reason poll work instance rate panel month telephone work phone percent quality phone hour work measure race staff percent andrew smith university hampshire pollster staff pollster staff school pool pollster issue field interview work phone random phone number region poll method time phone number phone number person area stranger case columbus dispatch poll vote number information voting everyone idea polling registeredvoter marist college measure everyone survey poll language survey nothing percent answer percent language proportion pollster interview language respond place value health care education wage mark field research corporation samesex marriage marijuana legalization abortion difference vote weight electorate history factor likelihood history vote interest election keep someone vote count vote count likelyvoter pollster relationship number vote estimate question vote vote likelihood number origin information example percent race percent count respondent anyone limit response percent phone subgroup survey error weight importance percent muhlenberg borick response margin error figure quantity size poll margin error liszt research camp answer panel discussion marist carvalho margin error value quality research inference weighting registeredvoter telephone polling senate race year spending number spending everyone interview dial complexity competitiveness industry election length survey fuck stay business confirm respondent week election business count phone bound election something survey september time outcome model senate attention response question')
+
+('VBZ', 'forecasts gets calls lists makes polls mandarin arabic depends americans comes lists')
+
+('VBG', 'polling polling showing leading including completing outsourcing using training interviewing noninterviewing polling polling marketing consulting building choosing deciding asking polling dialing talking returning restricting interpreting predicting voting voting asking predicting screening using voting giving using weighting meaning increasing weighting declining sampling reporting charging charging increasing impending asking expecting occurring polling paying asking')
+
+('VBN', 'made converted made taken checked employed called cost found experimented based based automated compared cited asked answered')
+
+('VB', 'take think decide random korean interpret make increase consider help')
+
+('JJR', 'answer larger greater higher')
+
+('JJS', 'least least latest')
+

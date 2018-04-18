@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1731
+Raw number of types: 619
+Raw Type token ratio: 0.35759676487579434
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 755
+Number of types: 421
+Type token ratio: 0.5576158940397351
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'save relief silver github github hall fame relief gossage moneyball revolution think baseball target gossage leader mariano rivera value game efficiency benefit ballclub gossage knock rivera lead everybody bullpen pitcher credit inning team threerun today gossage heyday part number number stat baseball result solution building work baseball prospectus carleton2 honor troll gossage idea clutch scoreless relief credit inning game team game clutch scoreless innings inning gossage time game playbyplay retrosheet gossage league history leader goose pitcher rivera gossage trevor hoffman wilhelm francisco rodriguez mariano rivera john franco smith franco dennis eckersley trevor hoffman nathan jonathan papelbon mcgraw jeff reardon jeff reardon troy percival randy john wetteland marshall francisco cordero gene street rodriguez aguilera jesse orosco robb doug miller gossage roberto hernandez jeff montgomery randy source retrosheet squeeze ounce talent value time embrace goose bury sing jerome holtzman league baseball world relief commonplace share percent percent clutch rule leverage index team instance inning pitcher team leverage index game atbat problem fuzzy relationship relief look chart index game imagine pitcher game team situation leverage index team closer ballgame side town pitcher game team leverage index pitcher performance pitcher fact kind pitcher sense reward clutch relief pitcher game news stat post moneyball yield word cleveland miller site usage course number specialist average inning situation highleverage situation highestleverage goal number number team team baseball state enlightenment closer usage refusal goose goose rule definition version pitcher10')
+
+('VBN', 'ruined filed published used compared threerun designed named designed tied pitched situations3 calculated based built come noted based pitched pitched conditioned situation8 supposed')
+
+('VBG', 'pitching ruining including arguing utilizing inning inning handling trying managing playing inning throwing inning pitching doubling becoming following evening inning inning pitching pitching breaking complaining using ninthinning inning inning defining thinking inning')
+
+('JJ', 'goose nate goose right stupid bleep statistic modern alltime right finish seventh eighth ninth maximum later1 many threerun bleep lead right much much final relief valuable large opposed statistic goose basic additional inherited goose scoreless seventh goose much properly goose select major lifetime modern goose goose hoyt john sparky lyle rollie mcdaniel hernandez huston francisco jose todd rick goose darold select potential save save first statistic sportswriter major noble complete unheralded earned much save modern lateinning narrow lead important atbat5 ninth much impact outcome average valuable different inning score6 scoreless ninth threerun lead final valuable crappy additional multiple valuable highestleverage much modern next table closermonkeycom bullpen different typical modern threw ninth ninth ninth much bullpen ninth lead heuristic ninth talent9 statistical stubborn plenty goose formal quickanddirty relief')
+
+('NNS', 'data data tirades nerds fastballs closers saves situations saves closers pitchers guys jams situations innings guys saves leagues pitchers managers saves wins provisions runners times rewards contributions firemen innings runners games eggs seasons seasons data saves eggs eggs fingers myers fingers mesa jones jones jones myers jones knowles leaderboards saves eggs seasons managers relievers bullpens praises intentions pitchers games pitchers contributions fans wins losses relievers situations intuitions statistics situations times situations ones rewards shows situations enters records troubles problems innings innings situations geeks years teams relievers situations words indians teams closers tracks innings situations innings innings games runs innings games situations saves wins managers closers runs teams teams managers eggs saves ways relievers records')
+
+('JJS', 'biggest best best')
+
+('VBD', 'fivethirtyeight expletivelaced found lashed earned said continued goose made threw came invented adopted came ended used pulled used defined measured came included included reached complicated described')
+
+('VBP', 'point save exaggerate think know lead team russell detail base save rivera mariano smith bruce kent lindy todd wagner henke doug career goose want save holtzman furthermore correct save leverage save whereas make save give save know save know highestleverage save andrew team save save find seem save toofrequent find define save goose')
+
+('VB', 'like come save gossage maximize tekulve give decline find take maximize')
+
+('JJR', 'tighter worse closer sutter pitcher better')
+
+('VBZ', 'gets gets leads runs counts ranks saves rollie wagner roberto starts holds leads means throws leads holds gives runs gets reflects leads goes')
+
+('NNP', 'garber')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 521
+Raw number of types: 247
+Raw Type token ratio: 0.4740882917466411
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 237
+Number of types: 160
+Type token ratio: 0.6751054852320675
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'months temperatures data feels states temperatures temperatures times months temperatures cities charts temperatures dots days temperatures waves days carolina days highs days chicago temperatures digits days temperatures cities temperatures charts months cities waves snaps records others parts')
+
+('VBG', 'recordsetting saying recordsetting recordsetting setting beginning setting recordsetting studying')
+
+('VBZ', 'looks angeles highs consequences')
+
+('NN', 'randy olson data github github datausweatherhistory year administration report half june record world year janjune period record globe stateofclimate http tcodjwfrfmmjp pictwittercomxpj8rfr8bs july fact period july june detail york chart show range year city record blue year city story tell2 chart expand yearround justright heat year record temperature june year record seattle winter record spectrum houston part spike november houston aggregate hottest record city heat climate change country climate view')
+
+('VBD', 'filed experienced looked experienced soared experienced cold reached examined experienced')
+
+('JJR', 'weather')
+
+('VBN', 'published released recorded updated returned expected')
+
+('VBP', 'hotter weather show indicate march make cold houston take')
+
+('JJ', 'normal national oceanic atmospheric january western united high noaanceiclimate noaa curious famous past handful large record average high normal actual high previous unique click famous several particular charlotte north uncomfortable upper warm high february single average cold consistent clear last last many general affect different lasting single cold broad')
+
+('JJS', 'warmest warmest warmest best')
+
+('VB', 'feel')
+

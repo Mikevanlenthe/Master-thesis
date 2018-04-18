@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1361
+Raw number of types: 516
+Raw Type token ratio: 0.37913299044819987
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 550
+Number of types: 328
+Type token ratio: 0.5963636363636363
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'ending wrapping working following making including wing leading supporting meaning supporting looking breaking counting wing wing coming wing wing ending')
+
+('JJ', 'next premiere getty sunday acclaimed emmy right cast january john screen solid great good large ensemble half primetime emmy outstanding true zeroed defunct encompassed postshow median major third overemphasize median lead worth multiple prestige gunn leading first dexter good peryear busy true detective true good right metric productive ritter opposite large good ensemble crown high successful busy performer show annual total lowe timothy friday legal wyle adrian byrne adrianne friday aimee teegarden friday postprestigetv launched major comedy west romantic')
+
+('NN', 'cast walt hickey github github dollar capitan theatre hollywood california frazer harrison spent slattery show doubt continue show guarantee matter work conclusion actor look cable award drama series television order house detective show program show career received2 point season show point time role film role film sense baseline github look actor score role film market performer score year television season role film television show deadwood role show role fellow career stint prestige television look basis tier year michelle monaghan ryan blood siobhan downton abbey year mean board right anything work show postshow joan arcadia allison janney lowe problem time stuff joan arcadia news winner combination track record work period productivity rate bunch group jennifer morrison house amanda scott porter connie britton friday night score show score score jason ritter joan arcadia allison janney west olyphant deadwood mantegna joan arcadia john deadwood scott porter night amanda siobhan downton abbey julie bowen jennifer morrison house connie britton friday night milo ventimiglia ginnifer goodwin love harold perrineau hayden pasdar kiefer sutherland palicki night friday night chloë sevigny love aaron paul breaking bill taylor kitsch night daniel emilie ravin answer career stardom drama john show find')
+
+('VBN', 'filed seen varied built nominated given posted annualized seen done dominated seyfried annualized seyfried paxton oscarnominated seyfried excited')
+
+('NNS', 'data data datamadmen images seasons nominations years members jones others careers data answers networks shows casts people careers data actors episodes shows likes cards shows actors performers points data actors actors roles films performers points years people times folks feet people feet people candidates actors people people points folks careers people actors shows casts prospects metrics people metrics performers lights scores actors hawkes lights lights heroes heroes damages lights lights lights roles ways movies biopics')
+
+('VBP', 'hamm hamm sopranos show score want look want hall believe tend leave jason older think rank dear lovelace')
+
+('VBZ', 'attends comes prestige means shows gives breaks comes anna puts leads ends gives longterm includes heroes miserables')
+
+('VBD', 'scooped left cast appeared took started relied appeared concluded left appeared appeared appeared catapulted wrapped finneran accumulated deadwood stayed left finneran lost rose lost lost seyfried')
+
+('JJS', 'least least best best best west west best west')
+
+('VB', 'take show kwanten')
+
+('JJR', 'higher')
+

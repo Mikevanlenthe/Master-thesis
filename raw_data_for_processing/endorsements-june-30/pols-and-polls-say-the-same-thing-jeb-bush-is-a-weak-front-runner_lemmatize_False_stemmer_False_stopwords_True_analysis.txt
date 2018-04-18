@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1431
+Raw number of types: 492
+Raw Type token ratio: 0.3438155136268344
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 616
+Number of types: 332
+Type token ratio: 0.538961038961039
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'pols polls campaigns florida stories matters officials governors senators members endorsements pols republicans endorsements endorsements endorsements members governors besides endorsements members echoes polls polls endorsements points points points points bigwigs officials words endorsements data decides endorsements candidates primaries candidates leads points leaders campaigns times points points times points points freeforalls endorsements endorsements candidates endorsers options republicans elections citizens analyses elections sizes studies elections effects candidates endorsements times words tells endorsements races data giuliani fields candidates years leaders endorsements fights candidates fields frontrunners points endorsements nominees officials groups differs donations individuals donors matters endorsements endorsements polls candidates candidates')
+
+('NN', 'thing bush frontrunner harry kickoff florida bush joel plosz florida bush joel money everything thing bush campaign today talk goal month money cash attention house bush week bush raft state house delegation marco rubio race house anyone field pick home state endorsement race bush hampshire tier iowa bush frontrunner position point representative bush endorsement choice field homestate process party action relationship percentage vote nomination bush problem lead thirteen endorsement mitt romney frontrunner number endorsement john mccain summer percentage share brother george number endorsement percentage share point race comparison endorsement race contest dick gephardt house house caucus fare problem race minority leader house bush anything money bush election court decision explosion spending sample judge spending vote campaign endorsement percentage money raised3 money something campaign check github endorsement piece phil crane race robertson phil gramm rudy giuliani money point race crane race crane robertson gramm giuliani money race nomination point race money june year michael dukakis percent money point endorsement john percent money percent point money money support money super race grabs money help course money power money candidate super pacs form development money support bush year something pacs raise money something strength bush super edge information candidate bush percentage chance nomination years5 pacs candidate percent money field bush percentage chance thing bush thing bush envision')
+
+('JJ', 'weak former former presidential former presidential super fundraising plenty particular last homestate fellow floridian meaningful bush current republican paul national second weak governor senator percent great republican early endorsements determinative early important eric applemandemocracy clear early eventual national primary nonincumbent large endorsement primary large percent endorsement impressive early primary weak endorsement bush endorsement democratic democratic gephardt early potential open true presidential supreme united presidential small true united hard explain eventual primary give predictive third republican selffunding4 clear sixth republican previous democratic half eventual last democratic endorsement primary percent large eventual extra clear super independent predictive current recent sure predictive future likely mean super early organizational additional past super large reasonable safest endorsement primary shot shot easy')
+
+('VBD', 'filed unveiled weight began split wrapped plagued weight went endorsement weighted declared combined')
+
+('VB', 'plosz hold bush foretell result candidate dismiss percent impressive percent')
+
+('VBZ', 'enters leads seems leads says seems')
+
+('VBG', 'going backing including polling running using struggling chairing voting serving keeping gobbling making trying using fundraising fundraising fundraising counting fundraising counting raising taking winning counting winning telling winning losing')
+
+('VBP', 'ignore bush florida forma senators candidate rand congress speck account hold bush bush super triply postcitizens tell look kerry bush know foretell')
+
+('JJS', 'least closest weakest')
+
+('VBN', 'made considered given earned used taken raised raised raised elected raised raised based raised based')
+
+('JJR', 'less easier')
+

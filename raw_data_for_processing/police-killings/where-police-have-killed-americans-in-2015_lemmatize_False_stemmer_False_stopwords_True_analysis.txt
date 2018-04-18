@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 841
+Raw number of types: 347
+Raw Type token ratio: 0.4126040428061831
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 369
+Number of types: 232
+Type token ratio: 0.6287262872628726
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'police casselman scene freddie gray goldman makeshift scene freddie gray goldman monday database start year database building coverage reader information race1 place colleague reuben fischerbaum census look information download chance build work information income census thing place blacker percent place census percent quarter population database percent percent inequality rate them5 missouri freddie police cause anger example vincent cordaro home rockland county york york city suburb household income database cordaro news family shotgun standoff police news shot police happen example shot census houston household income police traffic stop example jail fairfax virginia census country datacollection github census census')
+
+('VBD', 'killed arrested arrested flawed opensourced verified killed took converted occurred took killed died died occurred limited took cited armed died threatened killed unarmed said died died')
+
+('NNS', 'americans killings data github data datapolicekillings americans police entries plans statistics killings data media submissions efforts encounters verifies incidents calls data details incidents data addresses killings addresses neighborhoods deaths data researchers journalists data police killings neighborhoods killings terms police tracts populations tracts americans neighborhoods africanamericans police tracts africanamericans areas numbers deaths neighborhoods jobs opportunities protesters streets deaths conditions tactics killings people reports incidents ones numbers people cases results tracts words numbers thanks groups efforts relies numbers data github data codes statistics')
+
+('VBN', 'filed launched counted killed written killed found crowdsourced killed killed killed emerged fled based posted')
+
+('JJ', 'police memorial david memorial david guardian impressive interactive tuesday guardian official police guardian fatal reliable guardian possible demographic basic guardian demographic economic guardian full available public large table basic tract3 clear whole bottom income4 percent majorityblack black likely guardian overall racial lowincome live ferguson gray poor black educational economic discriminatory underlying police february white shot median guardian sevenhour black frank shephard tract median table lived strange natasha mckenna county interpret guardian easy link')
+
+('VBP', 'github makeshift tend poorer household majorityblack narrative pattern look yield caution work love know find')
+
+('VBG', 'going combining reporting making policing according')
+
+('VBZ', 'includes includes tracts allows gives gives race2 tracts lives means happens includes tracts makes')
+
+('VB', 'take michael take')
+
+('JJR', 'poorer')
+
+('JJS', 'poorest richest least')
+

@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 542
+Raw number of types: 267
+Raw Type token ratio: 0.492619926199262
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 220
+Number of types: 170
+Type token ratio: 0.7727272727272727
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'rachel charts data data suitors vineyards years weeks shudders impressions others rachel suitors dates dates suitors destinations dates contributions')
+
+('VBP', 'lindsay lindsay rioja matt worst peter europe wild walt')
+
+('NN', 'bachelorette season ella koeze wezerek github github databachelorette conclusion season bachelorette rachel love choice peter home abasolo proposal doll peter bryan season appreciation everything rachel endure whaboom ticklemonster jack stone dream lock door rachel rachel rachel time date season picking week example rachel oneonone group peter chart rachel attention number strategy find husband everyone bachelorette bracket pool dean bryan drama rachel globe journey find love travel season slice choosing hometown rachel bachelor nation move story bachelor update article season reporting hickey')
+
+('VBG', 'messing accepting lastmanstanding looking looking trying roaming watching viking fighting going')
+
+('VBN', 'filed published eliminated persevered made given gone')
+
+('JJ', 'finale threehour live typical eric bryan hopeful limo love eric fresh strong first much final selective available adam dean bryan oneonones limited predictable fivethirtyeight final metaphorical actual international western boring rachel substantial good diverse final ride ready next finale additional')
+
+('JJS', 'quest')
+
+('VB', 'come remember remember dates worth')
+
+('VBD', 'sent stepped passed happened eliminated focused gave went spent concentrated made updated')
+
+('VBZ', 'amongst seems roses shows')
+

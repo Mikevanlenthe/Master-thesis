@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 617
+Raw number of types: 329
+Raw Type token ratio: 0.5332252836304701
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 265
+Number of types: 220
+Type token ratio: 0.8301886792452831
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'phrases repeats data data words politics words debates campaigns points sales primaries eyes echoes nightmares knows feels times candidates repeats transcripts karen jones words times phrases phrases candidates classics arms reveals tics possibilities victories shoots betrays points chris people times numbers phrases cheers')
+
+('VBP', 'candidate milo draft electorate marco debate spärck keep candidate cruz cruz christie change confirm')
+
+('NN', 'beckman election github github datarepeatedphrasesgop team home brand candidate fiction plan prototype roboprez time momentum consolidate antitrump coalition barb donald trump debate repeat houston crowd time wannabe debates1 tfidf linguist candidate number score everyone phrase measure importance score mean anything score analysis president rubio string fourthplace president trump league past john record ohio rubio gauche replay rubio script debate season example rubio line reach dream entirety harder notice backtoback candidate minnesota puerto rico3 nothing analysis game debate')
+
+('VBN', 'filed published chosen televised needed used used elected nailed used')
+
+('VBG', 'talking dying tossing debating highlighting repeating talking sticking scoring drinking')
+
+('JJ', 'good opponent bush different ambitious floridian overprepped dispelled early ready prime frantic wild tonight miami presidential first republican metric computational phrases2 high particular oftrepeated high tfidf relative stonecold right bear quintessential trumpisms verbal daydreams fresh third glorious future lengthy verbatim crown instant reference american rubio narrative checked rubio rigorous tonight')
+
+('VBD', 'hammer looked shattered responded parried went used called pioneered said found')
+
+('VBZ', 'works predicts talks takes lives gives')
+
+('VB', 'lowenergy fill rubio underslept identify note seem')
+
+('JJR', 'higher')
+
+('NNP', 'kasich')
+

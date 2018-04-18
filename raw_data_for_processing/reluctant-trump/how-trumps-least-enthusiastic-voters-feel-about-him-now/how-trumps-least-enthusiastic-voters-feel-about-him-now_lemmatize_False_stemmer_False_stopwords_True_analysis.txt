@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 838
+Raw number of types: 342
+Raw Type token ratio: 0.4081145584725537
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 383
+Number of types: 227
+Type token ratio: 0.5926892950391645
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'trump malone administration github datareluctanttrump trump month diego diaz icon sportswire getty presidency president trump president april group trump president election call trump group trump trump level education president base group year check surveymonkey survey june presidency period washington april health care bill house russia investigation prominence director appointment counsel attention support president variety support president time capital percent trump president performance number percent president base approve change trump approval part house passage health care bill something house perception russia story attention press percent trump health care percent april percent group attention russia story story percent reluctant distraction group appointment robert counsel look campaign russia collusion percent trump percent trump director trump percent trump move percent trump trump comey testify congress thursday affair something obstruct justice halt investigation security advisor michael flynn question impeachment trump president offense survey panel support presidency pack fascinating point president choice donald trump mike pence john trump core president percent thirty percent pence')
+
+('JJS', 'least')
+
+('JJ', 'enthusiastic clare trump skeptical first reluctant white reluctant likely identify republican mostenthusiastic reluctant last first reluctant active special backchannel russian reluctant tight tepid topsyturvy spring seventyfour reluctant overall right comparison significant marginal white undue fiftyeight reluctant little seventynine much april special reluctant move reluctant comey reluctant central russe next reluctant comey former national right reluctant strong percent impeachable trump reluctant steady reluctant choose seventyseven percent reluctant donald mike')
+
+('NNS', 'voters data data supporters images months voters ones voters hearts voters voters voters supporters trumpers midterms days days trumpers meetings officials trumpers voters people voters voters receives voters media trumpers allegations voters voters trumpers james voters voters voters months trumpers accusations voters supporters surprises results voters trumpers respondents republicans voters trumpers')
+
+('VBP', 'feel github attend watch approach approve sixtythree watch feel trump percent think serve')
+
+('VBD', 'filed wrote helped wanted swelled jared moved enthused promoted continued approved said felt approved approved turned stood asked showed departed asked said answered said chose')
+
+('VBG', 'sticking partnering feeling firing sitting unchanging handling giving approving firing firing unspooling holding')
+
+('JJR', 'older higher kushner')
+
+('VBN', 'conducted passed viewed approved compared attempted committed given')
+
+('VBZ', 'shows remains')
+
+('NNP', 'mueller trump')
+
+('VB', 'kasich vote vote')
+

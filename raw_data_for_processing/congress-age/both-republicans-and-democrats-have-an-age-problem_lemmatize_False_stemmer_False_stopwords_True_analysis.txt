@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1475
+Raw number of types: 503
+Raw Type token ratio: 0.3410169491525424
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 659
+Number of types: 356
+Type token ratio: 0.5402124430955993
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNPS', 'republicans democrats democrats democrats republicans')
+
+('NN', 'problem nate silver dhrumil mehta github github datacongressage committee orrin hatch chuck grassley patrick leahy dianne feinstein listen testimony chip somodevilla getty committee chuck grassley patrick leahy dianne feinstein listen testimony hearing mark wilson feature month election president barack obama inspire office article reporting cite evidence question congress trend congress obama variety govtrackus foundation york congress compilation population member congress term congress office obama contrast average bill clinton office ronald reagan term congress office contract election youth number time congress average measure time evidence party obama percentage random president vote party time activity news volunteer anything marriage office definition deeply partisan order survey view survey number disposition democrat identify percent frequency percent tendency slope curve contrast number frame average democrat approximation pool survey president time survey bucket pattern george bush nixon gerald ford average survey president george interest survey deal emphasize paul campaigns street marriage role record term obama approval youth banner street instance group party obama office question cycle congress')
+
+('VBN', 'filed done collected subset counted collected given identified aged identified decreased presented used compared grown identified left seen')
+
+('NNS', 'data data members images members images times people years data sources times members data people years years years democrats republicans congresses republicans years seats members incumbents years years members members democrats democrats congresses years terms republicans democrats voters preferences years voters democrats voters points democrats voters americans partisans independents parties partisans years campaigns issues rights candidates parties people politics supporters parties nominations views leanings data republicans respondents ways independents turns americans partisans democrats partisans americans parties data candidates data years groups respondents tables voters years versions democrats years years partisans politics americans politics democrats politics years years results people affairs movements people voters parties rates highs ratings americans parties interests years people activities americans participants people interests americans')
+
+('VBP', 'senate senate york represent start older older america wave obama congress correct congress older start older electorate congress closet engage vote follow contrast seek need agendas take congress label drawn older estimate steadier obama identify take average disapproval congress remain george feel partisan become')
+
+('JJ', 'judiciary right judiciary right getty long little young strong much statistical simple recent sunlight congress whole average current close alltime high january congress average congressional current previous relative huge first congress average average previous first past average counterintuitive preferred young partisan varied young representative many label soft narrow political evennumbered political unlikely donate interested underlying federal immersed strong heterodox general social nuanced partisan partisan strong strong republican much likely strong strong sample strong republican little flatter soft affiliated major strong strong republican congressional different general social general social actuarial nonagenarian follow richard strong republican strong bush average increased strong active general social informed strong knew great strong important young uninterested political political wall push full young skeptical major bush unpopular second major presidential late young interested rest political wall major active vicious full')
+
+('VBD', 'left left posted achieved came took came widened served favored affiliated conducted began aged increased increased vshaped became asked described said said played increased made took')
+
+('VBZ', 'charles charles republicans reflects comes provides americans republicans americans democrats')
+
+('JJR', 'schumer schumer younger older better worse older younger less younger older older better younger older older younger younger younger')
+
+('VBG', 'hearing claiming getting including serving taking serving serving voting dating topping dating aggregating serving ranging ranging serving organizing')
+
+('VB', 'gotten think replace seem mistake think scope identify reagan imply vote become serve')
+
