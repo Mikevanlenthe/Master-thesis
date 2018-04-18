@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 678
+Raw number of types: 296
+Raw Type token ratio: 0.4365781710914454
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 270
+Number of types: 172
+Type token ratio: 0.6370370370370371
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rachel season fit bachelorett histori walt hickey ella koez file github github home stretch season bachelorett time preseason bachelor bachelorett analysi rachel attorney texa field gentleman handl challeng previou contest rachel season date elimin demario girl roseceremoni eliminations1 favor break date aggreg predecessor season reinforc histor power firstimpress move recipi bryan date love folk learn dean bryan earli oneonon date rachel histor mean anyth season proof peopl twoonon date doom date year half twoonon date survivor week week twoonon date percent particip elimin case contest competit twoonon spell doom swiftli head bounc swiftli serpentin elimin date rachel decid kenni week histori look season time bachelor bachelorett assign point valu date base exclus date gener speak oneonon date smallgroup date largegroup date date stand count oneonon date twoonon half date onethird date peter dean neck term time break get week move time reject rachel week chanc shock thing number chart realiti rachel date meet point bestcas scenario date get love crazi thing')
+
+('JJ', 'neatli publish perfect rigor narrow elimin unschedul broken nice televis final hometown real peter next kenni head hometown next much spend valu final threeonon bryan eric late oneonon enough poor first gentli last harsh famili total engag final')
+
+('NNS', 'data data contest adam')
+
+('VB', 'mean check contend get')
+
+('VBN', 'held seen given gone gone spent come le gone')
+
+('VBP', 'lindsay go seem make go tend remain follow come go matt')
+
+('VBZ', 'probabl')
+
+('VBD', 'rose rose sight wrote went proceed realli')
+
+('JJS', 'strongest')
+
+('JJR', 'higher')
+

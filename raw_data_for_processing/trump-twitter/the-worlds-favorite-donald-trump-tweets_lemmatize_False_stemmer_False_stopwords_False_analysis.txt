@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1007
+Raw number of types: 411
+Raw Type token ratio: 0.40814299900695133
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 496
+Number of types: 293
+Type token ratio: 0.5907258064516129
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'world favorite donald trump election photo robyn beckafpgetty campaign trump world news feature campaign tour kennedy donald trump twitter account trump twitter effect time capsule campaign take look nomination june trump majority methodology footnotes2 analysis someone tweet platform policy nomination policy share topic policy clinton twitter june count category source twitter policy quarter trump retweets3 trump tweet mayo cincodemayo taco bowls trump tower grill pictwittercomk01mc6cudi donald trump realdonaldtrump tweet news coverage4 well news bias make america clinton hypocrite control service protection twitter story line attack twitter feuds course campaign trump pique trump fire rubio flurry antijohn hour john kasich race waste money donald realdonaldtrump november discussion response news cycle trump cruz clinton trump president trump june cruz june clinton june source exclamation point cruz percent clinton bernie trump exclamation order magnitude trump exclamation mehta david nield reporting')
+
+('NNS', 'tweets images thousands tweets cycles opponents supporters tweets debates primaries tweets people attacks tweets excludes times tweets tweets enmities proposals rivals tweets others candidates polls media candidates women talks tweets excludes tweets followers people tweets tweets expressions media rivals categories policies enemies hispanics hispanics supporters tweets protesters tweets protesters brussels attacks opponents media opponents questions sobriquets attacks opponents bursts others caucuses rivals contests sprees tweets policies tweetstorms others candidates tweets points sanders tweets sanders twothirds tweets sanders tweets tweets points candidates opponents thoughts points')
+
+('VBP', 'leah candidate trump retweets least seem trump love tweet enthusiasm rest terrorist trump analyze have florida cruz want want trump twitter exclamation none punchy suspect have')
+
+('VBN', 'filed riled been used dominated read collected tweeted tweeted mostfavorited mostretweeted called mostfavorited used gone concentrated streaky written')
+
+('JJ', 'original presidential donald unorthodox truman whistlestop such great useful recent trump third defined republican trump republican democratic tweet interested scorn mostretweeted cinco happy https tcoufoteqd8ya heavy other great hillary secret jibes scattershot come strategic like iowa primary important marco kasich negative irrelevant different spontaneous streak excited other trump excited june trump punctuation5 other dhrumil')
+
+('VBD', 'started sent consumed antagonized decided said wrapped downloaded categorized talked suffered reacted were retweeted made were trump prompted made propelled castigated declared called armed were prompted forced tended went defeated dared contributed')
+
+('VBG', 'defining tweeting divining attacking attacking excluding sharing offering sharing favoring enjoying making looking tweeting running')
+
+('JJR', 'more more less more less onethird less more more more')
+
+('JJS', 'most most best least')
+
+('VBZ', 'includes retweets includes didn seems tends includes')
+
+('VB', 'love answer tweet merit')
+

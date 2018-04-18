@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1913
+Raw number of types: 636
+Raw Type token ratio: 0.3324621014113957
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1029
+Number of types: 482
+Type token ratio: 0.4684159378036929
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'pollster standard peer carl bialik poll pollster github github image illustration image illustration poll pollster pollster anonymity principle campaign result doubt peer medium ability parse poll poll pollster database1 time question pollster rating senate answer reveal dozen poll horserace coverage election work factor vote senate control poll download result poll github year colleague harry evidence pollster number fall line peer pollster epicmra pollster john anzalone anzalone liszt research distinction number match result pas poll time anzalone firm field cost check poll poll wasn result question anonymity anyone pollster didn question pollster respondent copying pollster number match result article reason belief year organization number release poll number julia clark ipsos question result kind practice attention matter focus clark york time article example pollster cue marketplace form take clark peer result question question backlash help client plan clark market publication speaking majority check university hampshire method number pollster shot care poll poll campaign campaign factor result client brad coker research pollster relationship campaign campaign assumption voter result pollster scenario consumption campaign result pollster model campaign push selzer company campaign poll picture portray reserve comment name pollster industry poll shouldn model firm model berwood yost marshall college concern poll race pollster forecast election poll poll group disclosure average poll election forecast pollster poll poll yost anzalone publishing poll poll quality darrel rowland columbus dispatch reporter question order influence pollster share information reporter work result poll organization poll faulty pollster question poll emphasis speed day error clark form recall domain everyone actor midst work pollster lot nomination name organization work research center nonelection work anzalone vote policy york time street journal ciruli pollster stanley greenberg michael vote peer company rating reaction pollster rating reservation pollster question rating organization fair chose pollster rating participate survey question pollster concern rating poll campaign poll credit allocate candidate prediction vote margin polling number database pollster method result credit weight poll patrick murray monmouth university said4 selzer rating company contact date anything reason rating company rating organization grade everyone disagreed anything pollster survey suggestion question suggestion cbialik fivethirtyeightcom comment')
+
+('VBP', 'follow aren follow work dictate conduct help result provide bernie smell suspect think want have fluctuation follow counter work work dictate need know want affect want insist result believe think think believe franklin have hope affect fear shouldn porn respond shouldn hear have acknowledge think error become make have want leave')
+
+('JJ', 'ethical sure getty getty second political ethic basic ethical such many good lousy first active political ethic fivethirtyeight many major primary november full porn wrong live optimal poor error statistic brandnew same respondent meaningful same other inclined suspect poll enten certain good obvious different bayesian statistic recent inevitable many sensible anticipate potential narrow smith other respondent other affect hear several little complicated want different such poll long alternative internal publish selzer hypothetical publish accurate right several standard polling poll average many mysterious financed straight side other swayed partisan credulous stop shitty partisan bias undermine reporter publish much creep important didn recall practical poll public focused many good innovative other gold standard selzer public newsnew newswall associate democratic bocian ciruli typical positive wasn other possible likely particular conduct private pollster voter different final official improved full recent arbitrary selzer polling lower5 open pollster email')
+
+('VBN', 'filed asked asked asked pointed granted named asked thought published noticed wild discredited renewed answered answered come reflected partyaffiliated released recalled done named heard answered changed agreed datadriven agreed')
+
+('NNS', 'data data datapollofpollsters others people others others others others people others pollster others others partisan people gallup data grade')
+
+('VBG', 'leading copying letting thinking driving forecasting suggesting copying revising finding being revising rejecting polling conducting changing finding going saying adjusting paying consulting weighting polling including producing trying averaging being being putting reporting wording polling recalling being polling doing citing polling polling including grading finding sending')
+
+('VBD', 'answered said held contacted responded forecast reported found were answered said paid influenced said said grove drew said happened convinced said were answered adjusted cited said published answered added cited agreed said said said said added asked said masondixon said described said considered tried wanted said asked said said said biased reported said said said responded said said unpublished emphasized provided asked said received said said raised undecided gotten cut said found published were scored asked')
+
+('VBZ', 'ethic partisan answer')
+
+('JJS', 'dishonest dishonest best best suggest')
+
+('VB', 'inform result margin back face become begin take vary crazy look trust take want tell clarify take included fail think skewed unduly poll publish appropriate take suggest go close monkey like get')
+
+('JJR', 'more more more')
+

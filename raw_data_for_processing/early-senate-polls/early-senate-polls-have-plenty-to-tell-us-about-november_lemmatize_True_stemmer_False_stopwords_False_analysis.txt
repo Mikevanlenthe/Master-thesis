@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1221
+Raw number of types: 434
+Raw Type token ratio: 0.35544635544635544
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 653
+Number of types: 309
+Type token ratio: 0.47320061255742724
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'early stop stop dennee republican political senate democratic lundergan grime democratic political political political leaning republican likely republican percent other possible alaska north mitt last presidential midterm current past indicative come robust metric much useless early doesn kentucky realclearpoliticsstyle average comparison first good final average early final final average overall early percent ultimate scattered other other perfect presidential plenty presidential median average presidential right louisiana high probabilistic polls11 table democratic current favor republican close nate democratic mary current lose north carolina high doesn much gary likely overall simple democratic fivethirtyeight other total important early ohio republican early close obama early same republican obama midterm predictive metric smart political')
+
+('NN', 'senate poll november harry midterm github github mcconnell wait speak campaign badgett supply madisonville stephen lance dennee mitch mcconnell speak campaign badgett supply madisonville stephen lance kentucky senator mitch mcconnell life minority leader poll opponent alison president obama approval brand unpopular mcconnell time vote indicator prediction analyst report rate race tossup report column sabato crystal ball step colleague nate silver forecast chance state disparity poll state opinion democrat senate pickup opportunity poll georgia state treat poll arkansas romney success election month election polling precedent trust measure november number time election president approval rating help poll accurate year factor look louisiana analysis polls1 race president approval rating state half year3 place chart poll forecasting vote margin error poll result points5 comparison senate race poll month election error points6 president party candidate percent time poll average time president approval rating result link point chart chart above7 race sample president statewide approval rating le percent obama president party candidate percent hand president approval rating percent president party candidate percent race word president approval rating predictor senate race poll predictor approval latter information offer horserace poll approval error earlycycle prediction points8 point poll error point point fact approval rating matter addition horserace polling democrat estimate obama approval rating percent percent alaska arkansas estimate idea candidate projections10 model obama approval rating poll show candidate chance state poll poll approval rating race alaska instance model mcconnell percent chance estimate louisiana obama rating senate candidate landrieu polling average year obama approval rating democrat peter michigan president model loss senate seat senate forecast seat account factor candidate ideology number twenty race model point approval poll portman point poll approval year blunt missouri mitch mcconnell race kentucky year poll obama approval rating approval rating remember forecast incorporate')
+
+('VBP', 'have tell mitch wait have say turn poll make arkansas show early4 give look have kentucky give take have go statewide poll')
+
+('VBN', 'plenty filed myriad collected taken lost trailed tied compared lost lost combined hurt taken estimated hurt projected error')
+
+('NNS', 'data data dataearlysenatepolls obama carolina democrat data data arkansas georgia emphasize')
+
+('VBG', 'fighting suggesting competing telling according competing remaining promising matching using going winning using including fundraising talking controlling holding')
+
+('VBD', 'tied kentucky cast put kentucky louisiana analyzed took produced dropped dropped pulled included helped put beat were wasn')
+
+('VB', 'fine cook rothenberg go sparse refine turn worry hurt obama democrat')
+
+('VBZ', 'dems didn suggests look franken')
+
+('JJR', 'more weaker greater lower greater')
+
+('JJS', 'least')
+

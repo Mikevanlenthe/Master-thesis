@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 642
+Raw number of types: 313
+Raw Type token ratio: 0.48753894080996885
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 311
+Number of types: 217
+Type token ratio: 0.6977491961414791
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'everi stewart show hickey file presid stewart host daili show dure tape juli york evan end daili show air episod thi show year stewart mater student tour graduat school wouldn shut tape show member featur friend jam washington metro inadvert help record peopl restor saniti stewart part leav hell show interest way start host stewart interview pull showbyshow list1 guests2 profil googl knowledg graph3 chair year mind fusion talk monarch muppet everyon show today chang standard formula talk show actor domin list year stewart shot sometim polit grace program peopl visit perform year presenc medium figur author politico fill show presenc show time politician show import show polit head percent percent figur actor promot movi year year actor comedian show count fare show deni leari william bo time march stewart drop')
+
+('JJS', 'guest datadailyshowguest guest guest guest guest guest')
+
+('VBZ', 'daili roommat daili chang appar repres zakaria')
+
+('JJ', 'walt obama vucci last sinc mari prospect attend late other sinc uniqu other happen friend start comedian first figur presenc dole comedian other sever subdu consist much whole onc outsiz emphasi fifth govern medium last coupl musician frequent plural daili follow brian beg last comedi central')
+
+('NNS', 'data github data elizabeth ralli militari')
+
+('VBP', 'github alma walk find feel appear show have realli polit onc appear')
+
+('NNP', 'stewart militari')
+
+('VBD', 'tonight went meld significantli were figur caught left came were were began tonight')
+
+('VBN', 'been been been been suck been come')
+
+('VB', 'pretti grow look crosscheck start have kick')
+

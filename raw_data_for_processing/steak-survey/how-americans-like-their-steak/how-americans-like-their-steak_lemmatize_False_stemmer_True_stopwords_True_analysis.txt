@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 653
+Raw number of types: 299
+Raw Type token ratio: 0.45788667687595713
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 264
+Number of types: 185
+Type token ratio: 0.7007575757575758
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'american steak prime green nina suchman absolut reinforc full opportun superior rare surveymonkey nice fresh satisfact actual moral superior peopl ill skydiv lotteri excit usual simpl regress rare small lotteri lotteri lotteri peopl steak rare anyth futil indic vast major peopl mediumrar solid good')
+
+('NN', 'walt hickey file fivethirty github github datasteaksurvey bake potato bean almondin cruis ship dandi scott washington post order steak idea tri commit disclosur person discuss steak stori datalab play audienc poll work experi particularli settl frivol argument definit girl scout america steak cook wound rest look time life order steak mediumrar midteen lack order steak inciner reason side medium reason peopl juici steak threat everyon differ threshold risk jump airplan speed limit survey test peopl interpret evalu risk speed traffic prefer ask steak get result check crosstab place relationship behavior steak gender effect relationship statist insignific laughabl survey relationship peopl risk steak cook exampl respond consid hypothet situat percent chanc success percent chanc success assum lotteri pick lotteri lotteri gain chart respond steak percent ballpark medium mediumwel anyon hypothesi peopl steak scorch desicc besid idea comment download find anyth')
+
+('NNS', 'data data riskavers data sens sens data teas incom data')
+
+('VBP', 'peopl find miss run come prefer realiz commit stand prefer exceed prefer risktak check appear threshold follow prefer prefer know know know')
+
+('VBN', 'done foodborn')
+
+('JJS', 'quest midwest least')
+
+('VB', 'recov start ask play like prefer')
+
+('JJR', 'tougher less riskier riskier somewher')
+
+('VBD', 'smoke thought')
+

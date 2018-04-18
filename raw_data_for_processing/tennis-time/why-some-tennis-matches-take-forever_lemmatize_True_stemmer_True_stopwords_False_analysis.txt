@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2209
+Raw number of types: 681
+Raw Type token ratio: 0.30828429153463105
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 1145
+Number of types: 494
+Type token ratio: 0.4314410480349345
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'tenni forev nadal djokov french open nadal djokov french open ninetim french open last averag novak gotten andi other basebal especi urgent french open roof dark match fourth local final much finish finish gael second nadal other minut second second fast1 everi nadal usual ritual clean other right short ear rub forth same second short forth second serf grand threshold first tactic sever match schedul enough slow long ralli other tenni last nearli long last basebal upload side other serf averag equal much extra australian open final nadal next strictli second roughli wimbledon clay requir other much brown second much stat affect much much such monfil nadal ralli littl long serv french open high larg slow good nadal fellow slow essenti great averag analysi same compar actual expect nadal such press know last french tour tour nadal umpir enforc thi upcom grant slow much suppos spend second other yeah slow nadal tire australian mix american annoy return popular good such first monday nadal slowpac outlier retir great joint senior analysi ivanisev recal fast fast defend open cilic wish french open nadal nadal rafa young taught slow protract wrong ralli')
+
+('NNS', 'match data data minut requir tap ralli data hundr data all4 teas point5 els typic dustin data analysi points8 mcenro becom respons open tactic chang forc didn fivesett michael spectat')
+
+('VBP', 'take feder go take lack slightli suspend play feder take shoe reject offer exceed call lose run tour crack take point have tour factor have affect take find pete agassi doesn encourag have remain surfac differ onli offici correl show averag fairli suggest play rel win play maintain find mine have have ask know think know push throw speed spin differ have like wait get have want server take take blame end think take have')
+
+('NN', 'carl bialik file tick tock github github datatennistim rafael break towel play thibault camu rafael break towel play thibault camu champ rafael nadal player year roger djokov murray hand talk foot speed speed ball racket talk play point tenni tenni bound clock doe time match player win player start finish topic thi year floodlight play rain djokov murray play semifin friday becaus immin storm time winner match day illustr pace matter consid match monday pari speedi roger rel hour point rafael defeat jack sock hand point point befor serv part baselin foot racket knock clay ball racket hand dri face area hand shirt rock serv miss thing serv includ pick rock player slams2 serv player stretch shrink time rest throw game play throw televis test patienc fan matter play year enforc rule creat break slowdown sign sport question length match befor use littl stopwatch time correl length factor access analyst jeff post github match stat year match stat woman aren available3 year match effect match take year game regress match build block part github earli sampra servedandvolley success andr rush court game play shift baselin battl point amount minut point number match fiveset djokov hour minut rais cri game speed year answer call time appear work year play point level sinc tournament grass encourag ralli sport le time le recoveri clay player matter year surfac player match nicola massu point differ year tournaments7 post pace estim player event github thi analysi time player point break number player pace time point mainli serv time play point player fast point engag epic ralli show meanwhil slow point use trusti smartphon stopwatch function time player time serv time point quantiti correl player time match part ad time put player compani player time djokov murray join multipleslamwinn jimmi connor courier ivan lendl john albeit cohort time player margin correl career percentag rel speed play9 player feder wimbledon champ goran ivanisev assum player pace career anyon chang pace play pace match10 vex time topic veri interest talk time year question news confer year year think quicker peev time rule year remov match request murray mean time befor serv head thing serv sometim sinc murray time question today player pace style bernard tomic play fast deliber pace point ball everyon play tomic weapon day rosol czech player rhythm serv point break wait figur spectat sport one pace play player post game ball toss matter errant dure match sock caught news confer promot tournament explay pace gener squar time wimbledon champ play play player fivesett hour match hour minut ivanisev watch day champ marin player half time chang champ correctli guess somewher ivanisev pace doesn sweat profus chang cash wimbledon champ player histori game point need time baselin nonetheless use rush player slowest player rel cash sport baselin ralli today player break breath')
+
+('VB', 'take take slow take keep squeez have forc disadvantag pick thrill good start slow sound take take play take take dure check captur talk know take count go play ask pretti move towel walk slow')
+
+('JJS', 'slowest most biggest fastest fastest slowest fastest fastest least slowest slowest fastest fastest least greatest fastest sweatiest least')
+
+('JJR', 'faster slower fewer more slower longer bigger slower faster')
+
+('VBN', 'set been finish set easi bestoffiveset grass been been been pretti catch')
+
+('VBD', 'fourset took went tour sped took took sped were were play went took took were said were said grew said said told said luka said said told sped said took coach said said said said')
+
+('VBZ', 'serv studi determin sackmann violat querrey sens agassi')
+
+('NNP', 'querrey')
+

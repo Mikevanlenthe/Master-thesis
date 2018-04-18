@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 653
+Raw number of types: 299
+Raw Type token ratio: 0.45788667687595713
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 264
+Number of types: 191
+Type token ratio: 0.7234848484848485
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'american steak fivethirtyate prime green bean nina dandy likely full personal rare steak surveymonkey nice fresh actual frivolous moral steak lacked foodborne different interpret steak simple place behavior gender insignificant laughable small respondent hypothetical lottery thought rare gained steak vast ballpark many solid good')
+
+('NN', 'walt hickey github github datasteaksurvey potato almondine cruise ship scott suchman post riskaverse order steak idea commitment disclosure quest opportunity discus superiority story datalab audience poll work sense satisfaction experiment argument definition superiority girl scout america steak proper rest look time life mediumrare sense commitment order steak reason side medium reason le juicy steak threat illness everyone threshold risk jump airplane speed limit survey evaluate risk speed traffic prefer lottery result start nothing regression tease relationship steak rareness nada income effect relationship survey relationship steak example consider situation lottery percent chance success percent chance success lottery steak anything futility chart respondent majority percent medium mediumrare anyone hypothesis steak taste idea comment download anything')
+
+('VBN', 'filed baked done tried come cooked incinerated checked cooked scorched')
+
+('NNS', 'data data people data midteens people people people data crosstabs people people people people besides data')
+
+('VBZ', 'washington')
+
+('VBP', 'find miss prefer realize stand prefer exceed prefer appear risk threshold know know know')
+
+('VBG', 'reinforcing playing running settling testing skydiving getting risktaking following assuming indicating preferring')
+
+('JJS', 'midwest least')
+
+('VB', 'recover play prefer')
+
+('JJR', 'wound tougher riskier riskier')
+
+('VBD', 'ordered smoke asked excited checked asked picked preferred desiccated')
+

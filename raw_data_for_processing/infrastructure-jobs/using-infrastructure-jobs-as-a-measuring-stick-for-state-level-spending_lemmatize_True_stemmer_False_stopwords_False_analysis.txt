@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 460
+Raw number of types: 219
+Raw Type token ratio: 0.47608695652173916
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 243
+Number of types: 158
+Type token ratio: 0.6502057613168725
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'using measuring wyoming constructionspending being looking mining analyzing')
+
+('NN', 'infrastructure job statelevel spending infrastructure github github datainfrastructurejobs overpass mead gruver article infrastructure investment state census bureau report bureau construction spending year information create infrastructure spending albeit employment employment industry construction industry whole engineering construction subsector infrastructure job description job activity construction engineering project highway number infrastructure job sector government percent april april percent drop construction employment period trough infrastructure job percent worker job peak recession employment subsector state state worker wyoming energy industry prominence example statebystate change infrastructure job peak trough variation dakota oklahoma state reiterate mean reflection realtime infrastructure spending anything measure job state energy industry energy industry infrastructure job')
+
+('JJ', 'stick cheyenne lackluster useful monthly statelevel private nonresidential available proxy organizes heavy civil primary entire dam nationwide private peak overall april little other representative such wide boom north gasheavy ideal proxy actual')
+
+('VBD', 'andrew came stripped')
+
+('JJR', 'flower better more fewer le')
+
+('VBN', 'filed built been realtime fallen risen employed recovered')
+
+('NNS', 'data data data doesn data subsectors data sample data data reveals')
+
+('VB', 'have')
+
+('VBP', 'have provide imperfect call have collect have have have stand affect have')
+
+('VBZ', 'publishes overstates appears')
+
+('JJS', 'latest')
+

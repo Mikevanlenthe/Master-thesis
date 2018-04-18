@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1514
+Raw number of types: 570
+Raw Type token ratio: 0.3764861294583884
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 654
+Number of types: 364
+Type token ratio: 0.5565749235474006
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'pollster bialik file elect github github datapollofpollst hank schwab campaign year gather support david perdu atlanta jason getz getti vote cast elect loser campaign pollster reput accord pollster ask work nation poll outfit pollster imag improv declin sinc answer none imag improv twothird dozen question prolif promin polit pollsters1 shape percept elect twitter account posit work pollster respond footnotes2 use polit mani pollster blame strand critic moment industri poll result badli cover moment year greec poll combin sin pollster badli badli filter poll poll report claim carson egypt pyramid use store grain believ thing pollster poll interest stori poll barbara carvalho marist colleg lump method pollster nail result sever highprofil calam year opinion savvi field pollster succumb natur everyon agre pollster imag declin kyle dropp consult point sever posit scrutini improv work recruit scientist comput scientist drive innov pollster poll shape year respond question shape innov voter technolog balanc effect declin rate harder reach peopl reach gourevitch strategi group rate dip year pollster poll miss result failur rate threat materi borick muhlenberg colleg howev rel elector margin rate group continu declin reason elector pollster poll reason predict result sever point studi respond poll result badli factor matter clark ipso team overse work expertis methodolog poll concern yorker poll jill scientist roger content poll monstros pollster polici maker emphasi poll poll blueprint polici selzer compani moin iowa poll firm help stand imagin world poll test month caucus ask pollster name state toughest poll state vote system iowa primari calendar vote state vote colleagu harri note telephon pollster interview consist number trump pollster record voic panel pollster liveinterview poll poll question trump support type poll consult experi question trump poll trump support reluct acknowledg person republican bush nation primari poll peopl vote nation primari seri state vote pollster disagre critiqu help tell mood countri michelin blum blum weprin associ surveyusa disagre nation primari poll meaningless year pollster poll hypothet generalelect matchup clinton donald trump stage race pollster race control number control exactli pollster hold forecast pollster republican race name hillari clinton marco rubio name cruz name chri christi name gilmor poll coverag poll poll pollster')
+
+('VBD', 'reput said said found said said said said said said said said said said found said wrote said said found said said said said said said read')
+
+('JJ', 'carl imag peopl public elect public declin measur public trump much everyon questionnair list classic tactic first much elect last israel second organ aggreg good tarnish aggreg third uncrit outlandish lead mani american outlandish quantifi wrong distort acknowledg obvious matthew toweri morn indic increas miss industri neg tri nick global surpris recent final chri dramat cite surpris peopl skew therefor julia accuraci institut accuraci recent lepor sympathet polit majoritarian blame overst major undu selzer major notabl poll immedi next iowa primari iowa next third enten onlin trust interact voic much open narrow studi candid fivethirtyeight advis ignor slim major unsur major unsur voter attent elect tight senat predict seat republican major hous predict seat presidenti anyon nomine trump guid elect')
+
+('NNS', 'data data els respons media media media media accuraci media data data respons respons respons respons media media certainti nevada hampshir respons wors candid wors media')
+
+('VBP', 'atlanta pose think find github make miss blame poll stori elect evolv select industri know elect think buffer remain elect differ elect depend critiqu lindsay poll find want find know find caucu follow live onlin remain suggest liveinterview prefer affect leve pay hillari expect expect')
+
+('VBN', 'worn meant morn taken thought')
+
+('VB', 'feel kentucki respond know predict hold republican')
+
+('VBZ', 'togeth peopl articl stori democrat')
+
+('JJR', 'better older higher older lower')
+
+('VBG', 'harbing')
+
+('JJS', 'least least')
+

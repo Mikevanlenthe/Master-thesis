@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 327
+Raw number of types: 174
+Raw Type token ratio: 0.5321100917431193
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 156
+Number of types: 117
+Type token ratio: 0.75
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBN', 'published filed')
+
+('NNS', 'data posts results polls states data responses surveys heads folks data approaches people respondents words approaches data definitions regions states residents states missouri data remixes data articles remixes things questions findings regions')
+
+('JJS', 'midwest midwest midwest')
+
+('NN', 'walt hickey remix interest audience github page information didn code income gender region column interest language analysis midwestern inability core identity test research kickoff point point endeavor insight')
+
+('VBD', 'wrote excited asked split posted resulted')
+
+('JJ', 'tuesday wednesday surveymonkey south available github such respondent interesting interested southern local midwestern such bechdel fantastic interesting fivethirtyeightcom whole nebulous')
+
+('VBG', 'using making explaining')
+
+('VBP', 'make find format make mean want live code explain agree virginia ross send walterhickey')
+
+('VB', 'tails make difficulttocategorize please send post learn appreciated')
+
+('VBZ', 'expatriates')
+
+('JJR', 'more')
+

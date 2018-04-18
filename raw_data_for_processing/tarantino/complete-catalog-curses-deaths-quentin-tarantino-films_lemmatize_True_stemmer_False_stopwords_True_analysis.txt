@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1516
+Raw number of types: 573
+Raw Type token ratio: 0.3779683377308707
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 568
+Number of types: 350
+Type token ratio: 0.6161971830985915
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'complete first ignited occasional strong frequent brutal next repetitive maintain eighth hateful civil good frozen ready couch blue venomous note second essential mild necessary medical numerous direct sword die2 foreign chinese japanese french inglourious theatrical difficult profane fuck full inglourious total language4 equal dog onscreen unchained much want half reservoir hateful shit fuck appear salad remarkable regular eclectic healthy carnal scatological fond expletive fuck fantastic single useful english transitive intransitive noun adjective adjective different vulgar varietal favorite fucking fuck fuckup fuckhead total table next last fucked evergreen yogic typical dangerous hateful proud script search theatrical consistent script hateful fuckless hateful significant last early nostalgic early played first first many dick blue white exact full')
+
+('NN', 'catalog time someone quentin tarantino movie roeder word count github github datatarantino quentin tarantino john travolta samuel jackson pulp fiction minute multiplex curtain feature director quentin tarantino interest critic film language violence york time film reservoir dog film pulp fiction time something film reliance shock value badboy attention tarantino feature film story bounty hunter refuge spent week tarantino streak someone snake someone motherfucker cocksucker event time hardwon tempo tarantino film time1 assumption project doctor someone limb blade torso samurai battle person profanity language bill film subtitles3 language eyeball example understood word horror count curse mild hell damn ass potent github film curse death cursedeath ratio jackie pulp fiction reservoir dog bill django bill tarantino film feature plenty death tarantino trading death feature death profanity django hand profanity part film budget drop dozen drop dozen samurai jolt audience budget slice dog today dollar imdb django budget cost word count curse goddamn motherfucker bitch hell measure tarantino day dog pulp fiction kill bill stretch death profanity place pimp brothel prostitute curse filmography tarantino profaner dos word variety tarantino fuck word word word language verb verb interjection intensifier gerund6 fuck tarantino type fuck count motherfucker motherfucker fucker fuckface fucker fuck paragraph break inflection fuck tarantino film utterance reservoir dog time django fucking flexibility tarantino deployment word courtesy vincent vega seat pulp fiction race race tradition movie magazine paltry script version word release guarantee tarantino film kill bill version fbomb count script version shit bitch hell damn profanity gauge film day dog pulp fiction jackie tarantino obscenity tarantino day dick dick dick dick dick dick dick dick character tarantino coffee scene tarantino feature reservoir dick tarantino catalog')
+
+('VBD', 'cursed pulled wrote killed called made resulted showed changed assumed took relied plucked screamed shit unchained rrated created fuck cheap made unchained chilled scarred fucked fuck fuck uttered fucked unchained brainandskullspattered leaked fuck revealed leaked leaked eased dog')
+
+('VBN', 'bled filed called come hundred fucked done given hyperpottymouthed')
+
+('NNS', 'data data angeles christmas people data basterds nwords data basterds matures fbombs people stuff nwords deadpans')
+
+('VBG', 'wearing posturing seeking wyoming watching getting remaining growing swearing fucking motherfucking talking driving using fucking meaning motherfucking fucking saying fucking fucking according feeling')
+
+('VBP', 'come meet swear make find reservoir deaths5 celluloid want take give give continue esquire say')
+
+('JJR', 'bloodier cheaper')
+
+('VB', 'bleed kill kill kill reservoir best downtick reservoir forgiven dick')
+
+('JJS', 'best least quietest earliest')
+
+('VBZ', 'earns contains explains')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 627
+Raw number of types: 277
+Raw Type token ratio: 0.44178628389154706
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 303
+Number of types: 193
+Type token ratio: 0.636963696369637
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rock lot walt hickey movie github github johnson charbonneau film dwayne johnson earthquake california office weekend expectation disaster movie formula world family rebuilt fear idea film time span california situation stuff risk supervolcano eon story coast time survey probability earthquake magnitude california percent year draw card deck jack california earthquake lifetime audience poll percent think lifetime zero pacific census region coast state deal anxiety percent region respondent earthquake percent percent quake lifetime kind disaster thing lifetime time precaution disaster buying survival evacuation plan survey risk movie audience thing survey fault yellowstone supervolcano treat sense gosh magma yellowstone settle anything mississippi data github')
+
+('NNS', 'people data data datasanandreas attends theatre andreas abides people andreas people people people people andreas')
+
+('VBD', 'worried hollywood destroyed commissioned worried said were were')
+
+('VBN', 'filed crushed worried taken builtin worried')
+
+('VBP', 'dwayne think fault random lot think think need think have overestimate play fear have know make check')
+
+('JJ', 'premiere chinese eric catastrophic past andreas basic legitimate sound geological tectonic immediate little coming geological geological next massive catastrophic surveymonkey third american active noncontiguous good pacific worried overall worried such favorite know andreas last major likely much west full')
+
+('VBG', 'starring destroying beating pulling playing going according rocking according going making according')
+
+('JJR', 'more lower larger more')
+
+('VB', 'break left come occur argue happen')
+
+('JJS', 'most west')
+
+('VBZ', 'turn')
+

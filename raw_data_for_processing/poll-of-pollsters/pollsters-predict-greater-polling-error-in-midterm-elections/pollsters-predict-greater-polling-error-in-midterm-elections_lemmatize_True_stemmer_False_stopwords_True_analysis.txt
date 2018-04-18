@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2666
+Raw number of types: 823
+Raw Type token ratio: 0.30870217554388596
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1216
+Number of types: 589
+Type token ratio: 0.484375
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'pollster election carl bialik polling github github student university california davis line vote place autumn payne image baby voting booth mother vote march christian union church illinois emmert image poll election month rate pollster accuracy work inform election model senate forecast polling pollster pollster work election industry pollster country response pollster senate margin poll year error difference preelection poll vote margin election le error result encourage speak choice quote result github anonymity senate margin pollster business voter voter question seat hold senate majority seat predicting margin slim outcome model simulation seat reason victory election party power brad coker research president approval christopher borick muhlenberg college advantage year seat state pollster huffington post guess everyone poll fifteen pollster response rate election year response rate year percent percentage point sound poll room drop decline percent pollster decline result pollster year phone talk stranger pollster show response rate year everyone response rate response rate number poll number respond association opinion research website calculator response rate definition count respondent answer poll question numerator count household denominator definition response numerator poll none pollster definition pollster definition definition definition matter pollster response rate interview number poll response rate percent denominator number definition pollster response rate percent error pollster error election poll difference preelection poll vote margin year year error error response rate reason poll error maintain nationalelection record response rate reason difficulty election race bring voter poll midterm state race senate year pollster experience pollster pennsylvania florida world polling increase technique survey methodology determine voter rowland columbus affair editor conduct newspaper dispatch poll pioneer pollster echoed lament quality poll something pollster error time turnout vote show election gregg durham america pollster gotten response interview view pollster error forecast industry chicken head pollster respondent life course speed pollster silver poll colleague nate silver poll time state washington name region england state state state population size state number mention york hawaii reason nonlower state hardtoreach population anzalone anzalone liszt research hawaii makeup model database ancestry voter ancestry voter voting pattern bloc database merriman river group tend mislabel filipino voting block hawaii pollster york response rate city california florida washington vote selzer selzer company move state phone number area code pollster answer poll vote policy polling work schedule track pollster opinion pollster pick nobody election strategy response rate instance respondent respondent account response rate group poll issue medium company pollster year number poll poll reason respondent question rest emergence forecast cost poll reason medium company budget newspaper television station election poll medium consolidation sponsor respondent story polling frequency couple time year proportion pollster revenue client percentage proportion percent revenue medium client cost dial cellphone hand antitelemarketing ban cellphone pollster household internet cost cost cellphone poll response percent increase cost election poll couple pollster poll permanent andrew smith university hampshire poll policy polling interest board midterm transparency pollster rating model factor member council poll association opinion research transparency release roper center evidence methodology matter participation participate release roper member participate aapor transparency initiative holdout client confidentiality roper requirement timeconsuming member organization kind firm firm join number firm transparency initiative confidentiality client comment research protect integrity profession poll response rate cost poll online overtake phone election date answer election transition plan muhlenberg college cost result transition think phone phone internet side poll complement everyone function reliability phone poll reliability phone poll cost pollster line cross anything pollster survey suggestion question email suggestion cbialik fivethirtyeightcom comment')
+
+('VBP', 'predict metamora predict expect show expect show think expect think think forecast harder respond denominator expect show expect place arkansas dispatch make respond expect continue turn resident tend make cellphone reach include include think roper believe expect borick continue think want leave')
+
+('JJR', 'greater fewer greater answer fewer fewer fewer looser higher lower lower lower easier higher pollster lower fewer fewer higher smaller consider')
+
+('VBG', 'polling polling responding polling upcoming making protecting asking predicting occurring expecting polling responding speaking estimating polling declining forecasting polling attempting saying weighting polling barging tying using voting identifying making challenging saying handling covering belttightening hitting declining rising shrinking declining rising reaching polling polling polling declining rising falling funding moving polling polling polling beginning polling polling decreasing increasing sending')
+
+('JJ', 'error midterm getty peek getty write next lean republican democratic prolific political active political survey1 republican narrow many actual little pollster agree granted anonymous republican narrow many republican next republican average seat republican common percent republican second midterm congressional poor structural average much consistent increase consistent likely want specific vary american public downloadable different partial downward many eligible nonaapor qualified typical le senate actual average strong midterm presidential crucial kansa louisiana public ohio many internet likely darrel public predict represent dead realize dead torment respondent unannounced present nate pollster hard alaska hard hardest several broad urban southern small alaska common john ethnic particular hard national japanese chinese different seth rosenthal important hispanic unresponsive multiple difficult resident hard nevada nevadan hispanic black counterpart public many vega resident unusual hard much radar various black hispanic overweight black hispanic oversample black hispanic racial political premise upshot many potential several monthly newsmedia decline expensive landline much median many cellphone political cyclical jensen public le standard firm national public participant american public initiative archive nate persuasive pollster initiative ncpp cite formatting expensive nonncpp commercial small several stuart important online many respondent primary median happen next presidential acceptable accurate imminent side open pollster')
+
+('VBD', 'filed fivethirtyeight wanted headed reached took attributed answered predicted republicanheld masondixon contested said told responded reported reached asked put reached said divided dialed asked said predicted cited cited said cited untested said made predicted said said severed obsoleted wrote asked mentioned cited said grove differentiated said said mentioned named said added said said said asked disagreed cited said sponsor left shared asked answered said said said said attributed said dialed asked said mentioned said wrote asked said said geared heard signed cited signed responded expected said remained measured said asked')
+
+('NNS', 'data data datapollofpollsters people twothirds others people people people people people adjusts people others people alaska people people jensen happens people data data others data data method others')
+
+('VBN', 'compared posted requested predicted given reported reported fallen divided contacted contacted used used used used defined completed contacted yielded expected expected managed used given expected found named pollbased used compared asked asked headed asked internetbased used overtaken used sanctioned')
+
+('JJS', 'latest latest strictest loosest strictest least latest highest biggest suggest')
+
+('VB', 'reach specify percent grim result blame make database take find keep get come call decline aberration roper')
+
+('VBZ', 'defines provides includes happens arrives add')
+

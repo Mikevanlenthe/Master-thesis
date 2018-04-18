@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1276
+Raw number of types: 479
+Raw Type token ratio: 0.37539184952978055
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 681
+Number of types: 355
+Type token ratio: 0.5212922173274597
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dear mona melvin dear mona mani anonym organ luci onscreen high offscreen anonym live someon sleep couch sleep worth detail thi american civil signific other half onc everi respond togeth sleep apart first like percent percent stori percentag coupl legal other le final affect everi togeth togeth anonym luci sleep separ couch worth larg peopl hous sever half decid sleep first unsurprisingli high check sleep ill thi sleep euphem sleep dedic sleep overal sleep sacrosanct improv sleep percent sleep evolut social norwich sleep uniqu human modern mere sleep other separ locat human same becaus close privaci inextric sleep other marit separ coupl dearmona')
+
+('NN', 'coupl sleep separ chalabi file hope number help github github dougla movi censor requir twin wife sleep differ coupl dear anonym motion pictur associ america issu care item care section list woman scene thought vulgar separ bed luci despit time journalist work chanc share realiti harder gaug bedroom mani peopl sleep arrang exist nation sleep foundat percent respond sleep america poll separ didn survey conduct topic earli month ask surveymonkey audienc help adult partnership union cohabit find github page respond partner coupl percent partner home night curiou conform stereotyp marri year factor respond compar respond possibl reason marit statu point separ rate cohabit partner coupl sleep separ factor sleep arrang surpris becaus mention wife doe number year chanc sleep togeth coupl year le percent night compar percent coupl year result vice idea wife turn setup room pretti outdat percent apart share bedroom peopl specifi percent bedroom percent space rememb point paul rosenblatt professor emeritu wealth class play role sleep arrang rosenblatt research sleep pattern rosenblatt share challeng quit differ master bedroom mayb sever question doe coupl apart place tri offer peopl reason possibl option tick box list percent percent argument percent bedroom behavior anonym realiz question wife use interchang link overst accord cofound bedtim network onlin commun share tip cindi bressler lisa mercurio coupl sometim relationship sextim schedul andor priorit test respond statement life result separ respond respond agre percent bedtim network optimist effect apart comfort norm accord stanley doctor manag sleep laboratori norfolk link trend thoroughli phenomenon thi sleep arrang caus lack space lead idea bedroom sleep activ carri differ time reason mind time bedroom shameembarrass sleep bedroom door place adult bedroom becam link plenti coupl sleep arrang anim kingdom number help question answer fivethirtyeightcom datalab538')
+
+('VBD', 'bed bed bed were tuck found were were thought were said said were bed said slept bed said slept slept said said were said found bizarr held bed said were were')
+
+('NNS', 'data data datasleepingalonedata merl ricki doesn data coupl data coupl data respons data cours versa choic univers comprehens respons togeth respons univers sens statu mona')
+
+('VBP', 'oberon decad have have have come plu have do sleep coupl have look individu sleep differ have have love have constrain minnesota refer list think differ sleep achiev agre strongli disagre suggest hospit england connect entir becam link therefor have hope have send')
+
+('VBZ', 'togeth happen altogeth appli theori link')
+
+('VB', 'risk be take get gather regularli girlfriend function respond find pose ask slightli result differ start build develop like')
+
+('JJS', 'suggest best domest least most best least')
+
+('VBN', 'shown marri chang seen told marri slept been spent been been been separ bed made similarli')
+
+('JJR', 'more older older better')
+
+('VBG', 'wing')
+

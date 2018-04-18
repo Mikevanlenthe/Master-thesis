@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1096
+Raw number of types: 369
+Raw Type token ratio: 0.33667883211678834
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 515
+Number of types: 223
+Type token ratio: 0.4330097087378641
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'polic live nate polic offic raedl ferguson polic offic civilian black polic forc racial type ferguson racial mani polic live common major american polic major polic statist polic forc black offic polic white polic high racial percent black polic offic live true white equal commiss provid racial govern larg american racial polic polic offic live citi polic polic offic vari polic offic citi polic live offic citi major racial polic citi black polic offic citi white polic larg black black polic offic live white major black racial polic offic vari polic live offic citi boundari requir polic half polic offic live florida polic offic citi unusu high metro small polic forc live polic allow white polic live wherea black small strict polic nearli everi impos regard asterisk offic github includ sheriff other citi polic offic polic sinc estim previou philadelphia polic current citi')
+
+('NN', 'citi serv silver file ferguson github github datapoliceloc charg group arrest tuesday ferguson missouri protest continu shoot teenag month twothird popul percent dispar troubl misrepresent offic outsid citi limit ferguson citi twothird forc offic commut work town intim tie hispan consider resid york exampl percent forc resid compar figur divid york citi percent percent offic employ opportun eeoc censu bureau detail composit worker citi alert washington post demograph forc censu detail mani citi forc percent resid outsid citi limit figur exclud honolulu detail resid avail share radic citi citi chicago percent live boundari philadelphia percent percent angel percent washington district percent miami limit differ combin factor composit resid requir percent percent hispan live limit percent offic dispar citi popul detroit exampl percent citi percent memphi tennesse baltimor birmingham alabama jackson mississippi likewis gap live citi resid requir exampl angel citi philadelphia use requir live furthermor regul enforc vari degre boston exampl routin flout censu bureau boston outsid citi geographi role jacksonvil percent live limit reflect sprawl boundari share area popul contrast citi compar metro atlanta popul percent town citi loui ferguson resid requir claus move outsid citi year offic take advantag percent outsid loui percent detail avail ferguson popul requir detail report effort spotcheck censu discov mani commun resid requir activ debat relax requir town argu ferguson event shape debat year detail citi includ searchabl tabl mean categori note reader censu bureau number use potenti differ count reason censu categori polic offic transit polic depart censu categori includ privat secur censu estim forc chang size margin error censu number complet count version articl offic requir live limit')
+
+('NNS', 'data data getti divers data data data serv data geographi ostens data data data data')
+
+('VBD', 'demonstr missouri hispan play found said')
+
+('VBP', 'make imag follow suggest citi stark come analysi includ averag live reflect citi averag offic resid suggest citi come go correct')
+
+('VBN', 'given seventyseven')
+
+('VB', 'someth jurisdict')
+
+('JJS', 'largest largest starkest')
+
+('VBZ', 'togeth citi larg requir eeoc')
+
+('JJR', 'fewer')
+

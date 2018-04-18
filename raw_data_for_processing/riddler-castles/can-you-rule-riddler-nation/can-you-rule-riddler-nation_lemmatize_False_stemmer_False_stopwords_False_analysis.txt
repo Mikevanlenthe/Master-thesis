@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 849
+Raw number of types: 342
+Raw Type token ratio: 0.4028268551236749
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 392
+Number of types: 246
+Type token ratio: 0.6275510204081632
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rule riddler nation riddler github github illustration guillaume riddler week math probability riddler express something riddler movement submit either1 shoutout week column hint riddler express participatory gametheory problem submit number submission number mean number riddler joel baker riddler nation battle royale land castle value conqueror victory enemy fight send number distribution enemy plan battle oneonone battle royale riddler nation plan solution week riddler express carrier berkeley california winner week game tetris board form block illustration number number twobysix forth space fibonacci discussion pattern document tetris addict samuel wirajaya math solution week riddler lewisburg pennsylvania winner week puzzle time microorganism member probability multiplication chance probability call probability probability microorganism probability equation q2\\end equation probability probability extinction lessard probability extinction microorganism luck submit email oliverroeder fivethirtyeightcom')
+
+('VBD', 'edited submitted suggested split crowned placed noticed twobyeight squared welldefined')
+
+('JJR', 'roeder more')
+
+('VBN', 'filed bitesized given chosen given')
+
+('NNS', 'data data datariddlercastles problems things numbers numbers wins warlords points soldiers castles soldiers conquers points troops points forces battles points soldiers castles plans matchups wars congratulations pieces arrangements pieces squares arrangements solvers ways pieces numbers congratulations copies species children solutions probabilities')
+
+('JJ', 'kurkdjian welcome related dear logic classic slowpuzzle next twitter classic whole average classic special distant wartorn archenemy strategic castle victory same submit possible queen last last puzzle lucky clear first many tetris solid high wide vivek intrepid pattern twobyfour empty tetris equal fantastic solver former cool last classic szatmary last classic single extinct sure extinct original conditional \\begin former know laurent different single good little want riddle')
+
+('VBP', 'offer hold want need take find submit have distribute castle begin receive adjudicate stephen fill alex extinct')
+
+('VBZ', 'types submits castles castles sends wins wins wins wins wins squares tetris species splits dies chances species goes species goes dies multiplies')
+
+('VBG', 'asking distributing king knowing beginning fighting solving multiplying')
+
+('JJS', 'closest most most')
+
+('VB', 'know submit twobytwo check extinct extinct')
+

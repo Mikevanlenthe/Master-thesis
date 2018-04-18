@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1521
+Raw number of types: 508
+Raw Type token ratio: 0.3339907955292571
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 626
+Number of types: 328
+Type token ratio: 0.5239616613418531
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'bathroom riddler illustration guillaume riddler week offer problem thing hold math probability riddler something riddler movement submit either1 shoutout week column hint riddler express chris thornett game potato class child playing game teacher thing coin potato game progress teacher toss coin pass head tail game end child potato hasn chance change word child probability answer riddler classic dave moran puzzle work break office building sign door slide sign vacant bathroom user notice sign sign visit thing visit user notice sign vacant sign bathroom time question workplace situation bathroom door probability sign probability credit percentage bathroom user change answer solution week riddler express congratulation massachusetts winner week inductee order riddler nation week integer person number number mitchell choice number fact number submitter logic submission nation induction process spammer arthur louisville number solution week riddler congratulation england winner week start integer want chain building chain number number chain factor example chain number place chain length chain build number path problem path find number repeat number number factor isar bhattacharjee illustration problem mean algorithm trial chain length approach guess chain method path chain example submitter argument chain none argument example chain program language problem program sagemath matlab credit chain number chain number insight riddler submit email oliverroeder fivethirtyeightcom')
+
+('VBD', 'occupied left declared occupied occupied read occupied read occupied read were explained ended worked broke excluded connected sent called solve topped found took existed were were found created claimed found found')
+
+('VBN', 'edited filed bitesized favorite held stuck read occupied asked submitted submitted bored left finished known offered submitted written found called built cautioned')
+
+('VB', 'roeder perfect bathroom toilet door handle read make submit make think riddler organize adjacent build solver turn')
+
+('JJ', 'kurkdjian welcome related logic type classic slowpuzzle next attic twitter special potato coin come come child other next small outside vacant inside slide slide same sure slide user conscientious sure vacant half sign occupied vacant vacant extra conscientious last last puzzle inaugural ordinal last positive unique submission high popular round certain other avoid small single last classic last classic puzzle inclusive multiple tough other multiple general doe clever educated computational other convincing small clingo combinatorial optimal extra specific long mathematical tricky riddle')
+
+('VBP', 'dear express want correct need have find stand hold circle submit forget forget assume say enter forget exit make enter slide exit assume mitchell cambridge birmingham have appear kaseorg know want')
+
+('JJR', 'answer winner longer longer')
+
+('NNS', 'puzzle circle people le james others james anders anders others anders')
+
+('VBG', 'collecting holding winning depending entering exiting entering exiting entering remaining winning zooming including getting leaving trying taking using using')
+
+('VBZ', 'coin bathroom bathroom happens wouldn rule seems winner solver')
+
+('JJS', 'lowest longest longest biggest')
+

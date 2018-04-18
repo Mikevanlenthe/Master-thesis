@@ -225,7 +225,7 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, use_stemmer, 
     print()
 
     # write general overview
-    with open("general_analysis.txt", "w") as outfile:
+    with open(filter_name+"_general_analysis.txt", "w") as outfile:
         outfile.write("NOTE: All tokens converted to lowercase!\n")
         outfile.write("Filters:\n")
         outfile.write("Using stopwords filter = "+str(remove_stopwords)+"\n")

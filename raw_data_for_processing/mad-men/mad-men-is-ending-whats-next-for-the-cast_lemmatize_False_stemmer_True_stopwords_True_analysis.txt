@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1361
+Raw number of types: 516
+Raw Type token ratio: 0.37913299044819987
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 550
+Number of types: 299
+Type token ratio: 0.5436363636363636
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'end cast walt hickey file github github dollar capitan theatr hollywood california frazer harrison acclaim season scoop emmi nomin year member particularli hamm januari jone john slatteri screen show doubt continu probabl career work show matter work conclus actor typic prestig soprano cabl network show ensembl peopl show career actor show award outstand drama televis show order card detect show conclud actor show program encompass career received2 point season regularli show point time role film point support role film post github look actor score actor role film actor score support role film perform market perform score point year gener break televis season role film year look peopl time folk televis show deadwood catapult role break hall role fellow peopl career stint prestig televis look actor basi tier domin peopl wrap show year michel monaghan detect blood siobhan downton abbey year mean board right believ work right leav simpli count point accumul folk product postshow career jason ritter joan janney west opposit problem peopl time stuff sinc actor show cast deadwood joan arcadia probabl news person winner combin peopl rank highli track record work period product rate success bunch group jennif morrison amanda seyfri scott porter conni britton night light stay score actor percentil score score perform show score score jason ritter joan arcadia allison janney west wing timothi deadwood mantegna joan arcadia john hawk deadwood scott porter night light amanda seyfri love siobhan downton abbey juli boston jennif morrison britton friday night light noah milo ventimiglia hero ginnif goodwin love harold perrineau hayden panettier hero pasdar hero kiefer sutherland byrn damag adriann palicki night light friday night light chloë sevigni love aaron paul break bill taylor kitsch night light daniel emili ravin answer career probabl seyfri launch stardom role oscarnomin drama miser comedi way movi dear john biopic lovelac amanda seyfri end realli excit')
+
+('JJ', 'next sunday critic right spent cast other solid great guarante follow answer good reli larg mean half episod primetim emmi sinc give hous true defunct show postshow lead median major third mean annual overemphas median lead worth multipl lead peopl dexter good candid peryear past true ryan true good lead peopl end metric allison low interestingli give come good ensembl crown metric metric high hous friday annual show annual total low friday legal hous conni wyle adrian friday aime teegarden friday postprestigetv major west romant final')
+
+('NNS', 'data data datamadmen getti pretti data data sens data gunn feet feet pretti longterm')
+
+('VBP', 'hamm attend imag appear look appear appear baselin want look want appear appear tend show prospect think perform love show find')
+
+('JJR', 'premier score older higher')
+
+('VBN', 'come seen built given come seen done kwanten paxton')
+
+('VB', 'wrap make perform take show')
+
+('VBD', 'left cast took cast seri left put finneran busi left olyph finneran lost rose lost lost')
+
+('JJS', 'least least west best best best west best west')
+
+('VBZ', 'includ anna realli includ')
+
+('VBG', 'wing wing wing wing')
+

@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 737
+Raw number of types: 337
+Raw Type token ratio: 0.45725915875169604
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 442
+Number of types: 260
+Type token ratio: 0.5882352941176471
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'obama clemency president history smart justice github github clemency sentence president obama thursday sentence prisoner clemency president harry truman1 announcement obama approach clemency predecessor obama clemency prison sentence release tuesday week office obama clemency inmate chelsea intelligence analyst information commutation obama number commutation president history house obama pardon week dozen pardon commutation month december clemency record inmate record pardon year release gesture forgiveness restoration voting felon commutation prison sentence release president commutation pardon bill clinton sentence member faln group independence puerto rico responsibility bomb state letter protest order police enforcement group trump commutation create risk prisoner year office obama freeing sentence oscar lópez rivera faln member commutation part administration push justice reform justice department grant clemency meet criterion sentence consistent administration drug sentence number petition commutation year number petition analysis justice department record percent obama commutation tuesday drug offense commutation conspiracy law activist group liberty union argue law drug dealer crime distributor office friday commutation applicant response history trump president commutation time correction version article obama clemency president truman analysis mass pardon jimmy carter')
+
+('VBD', 'granted announced granted differed granted convicted made granted gave broke preceded were commuted wanted claimed received suggested appeared hundred announced tripled rose were were allowed said granted issued')
+
+('JJ', 'other criminal endofpresidency long offense thursday typical commuted federal army sensitive tuesday thursday total other white august federal single thursday formal such free original slated recent obama united fraternal other last optic commuted general significant criminal initiative certain obama harsh mandatory minimum fiscal many percent american civil lowlevel serious obama oval uncertain guide other recent unlikely many previous gerald ford')
+
+('VBP', 'charlie tend presidentelect have face leave future include')
+
+('VBN', 'filed aimed drugrelated given left issued granted convicted ended concerned been been been convicted convicted charged charged')
+
+('NNS', 'data data dataobamacommutations people people people le wikileaks people people prisoner prepares people')
+
+('VBG', 'serving commuting freeing pardoning including manning disclosing manning according manning freeing manning including rethinking according waiting granting')
+
+('JJR', 'more rarer riskier shorter')
+
+('VB', 'serve have reoffend inmate have freedom')
+
+('VBZ', 'donald obama remains follows')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2101
+Raw number of types: 620
+Raw Type token ratio: 0.2950975725844836
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 893
+Number of types: 404
+Type token ratio: 0.45240761478163494
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'travel avoid fli airlin crash silver file airlin safeti github github dataairlinesafeti memori candl silent churchgoer pray victim malaysia airlin flight mh17 amsterdam kuala church kuala lumpur candl glow churchgoer pray victim malaysia airlin flight mh17 amsterdam kuala church kuala lumpur getti flight ukrain disappear flight march mysteri incid involv year incid prevent peopl academ studi crash shift demand disast ration realli le inclin crash crash fault crash essenti event occur rate airlin accid involv malaysia year carrier sinc studi look safeti record commerci airlin year base aviat safeti network databas method rel period half look correl crash rate half correl impli crash risk extent base airlin coupl simplifi assumpt crash airlin clearli culpabl case tenerif flight caus mani disast malaysia flight controversi poorli understood blame crash rate number seat number seat number flies1 figur implicitli number ask airlin sinc airlin shrunk track howev account merger data combin delta forth region flagship carrier eagl group airlin instanc defin crash way base rate list databas result base rate rate fatal crew airlin airlin decemb continu sinc airlin sort base rate number consist nation colombia seri crash problem sinc accid sinc incid kind sinc contrast accid sinc rank airlin sinc base number carrier china airlin confus beij china4 problem half case rule correl rate period produc massiv number compar accid kind howev accid list databas compar basi number incid result effect size injuri use hazard associ number region period time use predict likelihood catastroph view correl period next6 chart pakistan airlin airlin rate russia aeroflot number report incid mani attempt hijack time breakup union averag number year rate airlin slightli preliminari track record tell futur crash look look rate danger kind number accid period period crash time rule insist minim crash risk airlin countri combin measur crash rate accid singl measur call airlin safeti score calcul categori subtract crash rate airlin sinc give safer airlin posit score le airlin neg score multipli result root number seat credit airlin achiev safeti record flight standard score calcul deviat airlin averag score categori score track record instanc famou crash safeti score contrast pakistan airlin score chart product airlin home countri middl period correl countri wealth crash rate airlin quit strong8 year safeti score airlin unit state airlin unit unit canada australia hong kong netherland contrast score airlin colombia indonesia kenya morocco pakistan philippin russia fact predict airlin futur rate crash look home countri track record9 perhap surpris commerci airlin stringent standard appli airlin region countri travel plan form price countri airlin travel extraordinarili transit avoid period union none list blacklist airlin past airlin risk involv crash risk disast correct juli tabl version post use denomin calcul accid percent seat fill passeng accord standard industri load factor howev definit seat use elsewher articl base number seat mani fill number tabl chang definit addit doublecheck number airlin number significantli affect rel order conclus articl juli number reader number describ list number accid seat number import instanc unit time unit consider howev insert tabl peopl number github')
+
+('JJ', 'nate glow unseen friday asfouri memori mh17 silent unseen friday asfouri airlin thursday follow second relat follow highprofil passeng airlin involv behavior fatal random long fatal major break 30year first predict includ caus other assign next avail ask defin multipli airlin decemb constant obvious true other necessari simplif airlin major incid american american first incid fatal next fatal final passeng global fatal fatal avianca major fatal fatalityfre major fatal taiwan overal fatal accid fatal rare fatal fatal incid airlin fatal nonfat provid evid overal earthquak one5 modest major intern ethiopian persist high third high soviet recent exclud howev significant7 other airlin probabl right particular airlin fatal fatal nearmiss consist deadli next follow incid fatal fatal safe squar flown give strong sampl categori standard posit indic safe qanta intern list percapita gross belong airlin singapor germani ethiopia larg ignor subject extrem standard countri public safeti develop commerci safe mean overal airlin blacklist european current pakistan intern recent malaysia much recent previou incorrect incid fatal fatal assum percent avail statist avail proper small previous chang overal updat confus tabl incid fatal fatal avail ask flown distinct fli mile royal accid overal unadjust articl')
+
+('NNS', 'data data getti data data data data data data data repres increas nearmiss incid correl airlin modestli togeth mani expens miss typo maroc data')
+
+('VBD', 'read lumpur read lumpur found simpl disast kilomet fli kilomet safeti otherwis kilomet found kilomet')
+
+('VBP', 'imag imag appear insist appear identifi persist make go exclud subsidiari onequart sampl produc posit statist safer incid avoid follow avoid egypt taiwan want aspect regul airlin airlin reflect accid coupl correct follow use')
+
+('VBN', 'malaysia kilomet taken given')
+
+('VB', 'take kenya result develop mean silli prefer')
+
+('JJR', 'older smaller outlier outlier larger richer higher fewer')
+
+('JJS', 'northwest worst domest southwest worst')
+
+('VBZ', 'includ someth australia afford')
+
+('NNP', 'kingdom')
+

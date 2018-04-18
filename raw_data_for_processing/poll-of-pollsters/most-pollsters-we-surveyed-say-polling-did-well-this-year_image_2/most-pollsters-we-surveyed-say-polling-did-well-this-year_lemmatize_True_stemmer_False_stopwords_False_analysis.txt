@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1760
+Raw number of types: 589
+Raw Type token ratio: 0.3346590909090909
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 938
+Number of types: 453
+Type token ratio: 0.48294243070362475
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJS', 'most west west most most least most most least thirdlowest best')
+
+('JJ', 'pollster neibergall senelect republican tuesday many second consecutive national republican ethical first tuesday electorate seventeen prolific political partial early mississippi senate other same pollster full valid else close many right wrong general good magnitude republican evaluate many wrong call gubernatorial carvalho independent republican possible many close close several previous good matt towery unusual other same good such fivethirtyeight republican mute good correct correct pessimistic predicted neverending anonymous many good presidential such unskewing right tighten good willing successful selzer iowa worthy lead other weighted leading last le assessed wednesday average other active senate previous thirdhighest previous average above average brad specific good little universe irresponsible online online wish online unreleased next many reliable colorful doesn surprise variable whole turbulent little beat related different')
+
+('VBN', 'surveyed filed credited credited skewed skewed checked answered answered deviated pleased done focused embarrassed underestimated made worried asked taken requested balanced named balanced work tied stumbled named named published assessed encountered asked done yielded conducted stuck elaborated been thought enjoyed')
+
+('VBG', 'polling polling calling polling calling depicting answering answering counting moving spotting spotting headscratching going polling giving trailing polling digging polling polling ccadvertising ignoring testing going')
+
+('NN', 'year carl bialik poll pollster github github joni ernst supporter tuesday firm company race joni ernst supporter tuesday firm company race neibergall senate house statehouse election decisive rout colleague nate preelection poll democrat election poll party pollster poll campaign pollster election work principle industry heading1 performance poll question brief postelection poll result election poll year view nation pollster surprise result poll wednesday defense poll performance poll result election response night poll direction pollster felt poll poll performance question surveymonkey result github poll reason poll pollster night time study everyone performance respondent poll didn result home geography poll detail poll predicting winner loser tuesday victory christopher borick muhlenberg college case return way forecast case poll race barbara marist college poll trend voter job economy washington president woman poll time poll race organization movement poll election carvalho towery insideradvantage trend wave willingness poll night pollster didn answer anonymity request carvalho poll model pollster edge iowa kansa colorado model difference trend part average carvalho science challenge time pollster trend trend implication year result industry pollster didn thing third struggle determine pressure speed cost respondent pollster method determining problem electorate pollster respondent pollster handle vote election year electorate pollster thought electorate battle pollster election john anzalone anzalone liszt research year procedure methodology conduct polling money time time organization vote organization pollster didn work company firm rating joni iowa senate race poll database point le ernst point count pollster reticent name pollster everyone public policy news zogby river senate poll performance article website yougov poll twoparty vote share percentage point le race average bias year river mean absolute error2 jensen poll respond mention firm yougov error polling firm jensen coker masondixon research majority didn name winner everyone year year consensus method result phone polling cellphone night everyone gabriel joseph cellphone respondent pollster poll poll pollster right target turn senate race time seat control number joseph anzalone provider quote poll fuck matter business cycle mean month iowa colorado change equation language emotion night pollster carvalho election night lot number analysis sleep anzalone experience enema')
+
+('NNS', 'data data datapollofpollsters moines moines others didn geography others people douglas data')
+
+('VBP', 'senelect iowa iowa make learn know hadn appear have correct want poll decide have come have have have know know have love')
+
+('VBZ', 'speaks charlie speaks charlie result yougov')
+
+('VBD', 'selzer selzer silver said were zagged prompted thought conducted followed wanted assessed light responded said reported closed onesided suggested were spoke said were said polled said were answered said came made argued were dissatisfied were showed thought were voted were showed were showed said captured said made said drowned combined pointed spotted tended were said muted asked were were foresaw anticipated predicted said said said grove said asked were went looked showed were asked answered concluded overstated wrote answered pointed found assessed were said said said included said said underperformed said were said went asked gave said said said said said said said')
+
+('VB', 'call need identify pollster have vote need finetune vote priori look look ensue work improve spend have republican play take')
+
+('JJR', 'better closer cheaper better easier larger')
+
+('NNP', 'yougov democrat')
+

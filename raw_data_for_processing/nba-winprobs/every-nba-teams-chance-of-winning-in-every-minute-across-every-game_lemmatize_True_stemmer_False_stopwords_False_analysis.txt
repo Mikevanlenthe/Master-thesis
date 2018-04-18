@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 289
+Raw number of types: 163
+Raw Type token ratio: 0.5640138408304498
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 142
+Number of types: 108
+Type token ratio: 0.7605633802816901
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'team chance minute game mike beuoy allison mccann basketball github github datanbawinprobs summarize season chart game possession play season probability game team probability time score situation shot chart team ingame probability minute regulation time winloss record time probability model foundation chart season model simulation game finding state atlanta hawk share winloss record path point dominance game lead hawk contrast quarter comment')
+
+('VBG', 'winning winning remaining shooting watching building')
+
+('VBN', 'filed given based made based lost taken shown')
+
+('NNS', 'data data warrior')
+
+('JJR', 'more more')
+
+('VBD', 'summarized averaged played')
+
+('JJ', 'point foul real doe reflect favorite golden warrior similar different early insurmountable fourth discovery')
+
+('VB', 'develop pull')
+
+('VBZ', 'provides')
+
+('VBP', 'data have know')
+
+('JJS', 'best')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1110
+Raw number of types: 400
+Raw Type token ratio: 0.36036036036036034
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 590
+Number of types: 287
+Type token ratio: 0.4864406779661017
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'everi team fan polit jonesrooy file presid trump player decis dure nation rais kind import issu sport unit state posit base sport leagu risk anger side mishandl situat uniqu stretch line use trend measur interest market unit calcul percentag search traffic previou year region profession sport leagu colleg basketbal nascar2 trump vote share year market traffic base correlation3 area search comparison nascar base team offici protest meanwhil follow player coach matter team base area area person team market team base market quantifi polit team base commiss surveymonkey audienc poll fan september5 favorit team parti size rang respond packer jacksonvil jaguar margin error6 percentag point base parti affili accord poll mind selfidentifi democrat poll team base point look team base compar averag surprisingli team market trump tend place compar democrat exampl team base area jacksonvil florida nashvil tennesse base term percentag fan minu percentag identifi democrat averag thi tennesse player field dure week play nation interest bill friction edg team base area clinton york chicago area oakland raider activ kneel dure patriot despit bastion base team reason fan massachusett overwhelmingli democrat patriot fan outsid massachusett base reloc ram outsid california fan team antitrump angel market split team poll dalla cowboy packer unlik packer base area trump carri dalla medium market percentag point carri medium market point accord poll cowboy base packer base cowboy owner jerri jone tri grace democrat packer base tie fact area televis market franchis thi becom team packer pick fan outsid onli percent packer fan base wisconsin therefor shouldn surpris packer base nation averag team base arguabl takeaway poll everi team base matter team choos dure troubl portion base fight eye sidelin game')
+
+('JJ', 'lean harri enten andrea racial injustic popular major difficult bipartisan other major other footbal partisan googl medium states1 major footbal last elect sport search partisan basic democrat republican nflrelat veri republican larg leftlean especi critic difficult other republican actual televis american earli sampl green averag american republican percentag republican republican republicanlean republicanlean identifi republican decis last especi same buffalo intern other major metropolitan especi surpris base democrat republican averag england live live republican likewis much recent republican veri major partisan popular green cowboy trumpfriendli green republican trump good lean green such welllik green partisan breakdown overal trump')
+
+('VBP', 'pain github showdown find consid explain have have make everi have extend identifi averag have tend hold have england have averag angel help remain mean democrat republican probabl')
+
+('NNS', 'data github data data github leagu respons trump4 cours democrat respons democrat data massachusett')
+
+('VB', 'kneel list keep go be explain expect play go keep continu')
+
+('JJS', 'protest most least best biggest best smallest biggest')
+
+('VBD', 'leagu made made were')
+
+('VBZ', 'fandom relat colleg compar resid footbal ask polit locat pittsburgh slightli')
+
+('VBN', 'given made been outspoken been been given')
+
+('NNP', 'democrat')
+
+('JJR', 'more more steeler more more closer')
+

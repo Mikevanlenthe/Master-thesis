@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1000
+Raw number of types: 386
+Raw Type token ratio: 0.386
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 496
+Number of types: 277
+Type token ratio: 0.5584677419354839
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBP', 'go york odell attend online take come patriot come have have travel denver fan want')
+
+('JJ', 'meaningless second half east argument walt only matter dumb logical statistical submit typical pick schadenfreude expense last couple regular many frigid meaningless obvious secondary divisional average total divisional divisional average other average average other expensive lifelong kevinhavas namath many casual sunday wrong full patriot many local professional much gillette good christmas present last many nearby front stubhub green perfect many live pittsburgh increase fifth western vast large contingent patriot massive massachusetts full')
+
+('NN', 'game walt hickey fight walt github github jet fan cheer game england patriot rutherford jersey bill shopping friend drink column question argument life culture barroom rant research conclusion question conundrum corner author haunt fight york giant makeshift shrine philadelphia eagle fan week season team playoff pack stadium temperature promise mediocre football argument question game season reason game ticket stubhub ticket market average ticket price game year home game ticket price team year game game home team playoff contention match host price game price discount ticket rest season motivation price jet host patriot week game york season average fight muse jet kevin havas pictwittercomrk4dhi2sue walter hickey walthickey december mark fugger season ticket holder year day fugger season look metlife stadium jet faithful thing christmas shopping result year football game event party wasn game place jet fan party group fan jet spectacle fan york work team stadium patriot game deal ticket kid game time game spit mcgarr season ticket holder team base jet home game fan team pittsburgh town data location ticket jet home game season percentage ticket buyer york jersey home turf gang standin bronco region dip game england mcgarr yorknew jersey share home game jet york buffalo bill majority ticket game matter fugger hometown fan budget fan metlife festivity case game contingent fan plate tank')
+
+('VBN', 'filed done fight devoted hashed haven found eliminated eliminated compared been canada moved come patriot sold come')
+
+('NNS', 'data data datanflticketprices data people data fan towards partiers people frenchcanadians steelers steelers data steelers')
+
+('VB', 'kostroun take argument go play play')
+
+('JJS', 'best')
+
+('VBG', 'solving erecting soaking interesting recurring parking seeing seeing visiting hosting')
+
+('VBD', 'developed super were appeared prompted sent were eliminated went explained said were said spoke asked brought said spoke said said came were said came said played asked bought sold said hosted')
+
+('JJR', 'cheaper higher lower cheaper younger')
+

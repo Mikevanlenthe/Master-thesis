@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 863
+Raw number of types: 332
+Raw Type token ratio: 0.3847045191193511
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 441
+Number of types: 214
+Type token ratio: 0.4852607709750567
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'percent flier seat walt hickey file etiquett github github dataflyingetiquettesurvey passeng plane june vincenzo pinto getti imag coupl week confront travel seat thi surpris fli becom cramp pressur room cranki peopl recip quibbl contract fli nebul potenti strife sky consid rude consid rude audienc poll passeng respond question reclin seat respond percent percent percent reclin time percent onli onc percent remark respond reclin half time respond onc impass percent respond seat dure flight percent option seat flight percent passeng passeng oblig person peopl behavior flight determin action rude wake passeng seat interpret veri realli intent onli percent respond wake neighbor bathroom leg disturb someon consid impolit impolit seat peopl move rel mani folk child flight rude whop percent passeng babi interestingli peopl kid parent child plane rude compar percent peopl kid passeng child time consid bring babi plane veri peopl kid control rest window question person seat person control screw question america percent flier seat person seat percent respond fascist rest sadist peopl aisl window seat percent socialist share percent respond child percent respond acknowledg person seat percent percent respond use person dure land flight attend settl question smoke bathroom respond admit break github')
+
+('VBP', 'think have find peopl flown rude rude need question depend child think rest think illeg smoke')
+
+('JJ', 'rude spate reclin much stress undertak full anyth social involv sourc actual surveymonkey first tackl reclin usual half thi half half onli peopl peopl common aggrav veri rude rude rude tri consid super buddi surpris unruli charit percent unruli veri rude middl obviou correct middl realli percent other such fortytwo shade statu full electron direct ageold peopl actual opportun')
+
+('VB', 'reclin peopl disagre ask reclin elimin reclin ask rest ask leav stretch switch have get get control have take find')
+
+('NNS', 'data data veri knowingli respons respons violat respons data')
+
+('VBN', 'seen shade')
+
+('VBD', 'shouldn split thought said said said were thought thought were thought were shade shade said middl said put wrote thought')
+
+('VBZ', 'cool reclin window')
+
+('JJR', 'flier more more younger')
+
+('NNP', 'slumber')
+
+('VBG', 'bring bring')
+
+('JJS', 'rest largest youngest')
+

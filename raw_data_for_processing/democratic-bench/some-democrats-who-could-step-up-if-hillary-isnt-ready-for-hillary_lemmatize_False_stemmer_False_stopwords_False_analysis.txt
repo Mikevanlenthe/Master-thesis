@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 904
+Raw number of types: 439
+Raw Type token ratio: 0.4856194690265487
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 451
+Number of types: 293
+Type token ratio: 0.6496674057649667
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'democrats data data elizabeth things problems sanders powerhouses warren warren numbers factors variables governors leaders candidates expectations ones contenders data expectations polls fundraisers performers bases senators campaigns journalists terms democrats democrats baldwin expectations bids democrats people chances races')
+
+('VB', 'step step need raise raise have make raise future')
+
+('JJ', 'hillary ready hillary brown assistant special hillary democratic likely major light malley such political democratic weak late decent proxy such powerful democratic senate clear simple whole such federal incumbent democratic last expected democratic such former democratic menendez democratic schumer many fundraising full actual franken brown menendez shaheen tammy john cuomo deval unlikely prolific wealthy surprising brown progressive democratic crucial subject presidential blue tough first actorturnedpolitician white list young such tammy cory chris fundraising last full subject little white overall several first national particular young')
+
+('NN', 'harry election github github datademocraticbench president adviser treasury secretary williams call clinton president nominee clinton scandal health bernie possibility question bench look question entrant money ability money appeal strength part reason force party case story candidate office competitiveness election1 size homestate donor base2 campaign cycles3 fundraising totals4 party senatorial campaign committee chair minority leader harry reid vice chairman caucus amount amount difference elizabeth andrew cuomo harry reid chuck schumer deval patrick jeanne claire mccaskill baldwin chris murphy hirono patty murray gillibrand jeff merkley cory booker tomblin tester mike beebe brian schatz warren patrick cuomo patrick east coast donor minnesota money clinton fact doesn wing party swing state speculation reelection minnesota state year house number booker murphy office booker term money house talk line step stage baldwin booker gillibrand murphy')
+
+('VBN', 'filed expected been been raised expected franken expected wondered seen been wellknown kirsten been given')
+
+('VBP', 'sherrod warren roll webb come tell affect mind senators senate senate talk presidency beat candidate steve have warren sherrod have ohio wouldn gillibrand gillibrand have have bench happen')
+
+('VBG', 'going going preparing fundraising organizing fundraising running fundraising keeping controlling running darling going having')
+
+('VBZ', 'falters comes elizabeth democrats casey')
+
+('VBD', 'thought raised looked raised outperformed chuck outperformed raised raised warren sherrod kirsten andrew included were popped were raised managed franken exceeded')
+
+('NNP', 'earl kitzhaber')
+
+('JJR', 'more more more less')
+
+('JJS', 'least')
+

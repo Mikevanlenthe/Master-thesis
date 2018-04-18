@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1126
+Raw number of types: 434
+Raw Type token ratio: 0.38543516873889877
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 635
+Number of types: 331
+Type token ratio: 0.521259842519685
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'reluctant oval white past alive rebellious visual crowds enthusiastic loyal white small willing give percent presidential unfavorable hillary nears supreme republican useful reluctant unstable political successful unenthusiastic surveymonkey american first trump different reluctant trump white fortythree reluctant percent other level reluctant other trump bettereducated special georgia congressional republican georgia educational attainment democratic strong reluctant loyal republican other republican right reluctant same other reluctant enthusiastic general trump reluctant other moved traditional republican important reluctant second standard republican obama need repeal other important fourth reluctant republican particular happy other reluctant trump enthusiastic reluctant other reluctant pleased gorsuch supreme other threefourths reluctant other percent enthusiastic outline white reluctant finish worrying percent reluctant democratic other same aware many')
+
+('NN', 'trump election clare malone trump administration github datareluctanttrump president trump office house washington tuesday kaster group streak trump voter trope number rippling donald trump voter core base trump house part group chance election view clinton exit group percent percent difference trump presidency approval court victory health care bill check trump group watch barometer climate support difference trump presidency house ballot trump1 survey week april vote president excitement percent trump cast ballot group policy rest trump cohort trump percent middle percent trump difference percent college degree percent college degree enthusiasm trump trump president election today district price seat country race tight showing party brand party identification percent percent trump trump trump president percent trump approval rating harmony trump party president campaign plurality trump economy issue trump health care priority trump health care list terrorism immigration interest health care trump health care bill interest trump process president majority percent trump role health care process percent trump trump line rest trump base thing trump placement court nomination percent trump investigation collusion trump campaign russia distraction percent trump trump budget proposal house half trump budget administration sign group line board trump district congress today percent trump president reputation')
+
+('NNS', 'voters data data months brains hats flags thanks voters voters polls ratings voters midterms voters adults voters respondents levels voters priorities voters supporters trumpers voters groups trumpers supporters voters republicans levels newcomer polls trumpers voters voters levels voters trumpers voters voters trumpers issues voters issues promises voters voters points years voters priorities voters reactions supporters voters voters voters issues voters voters voters voters signs voters priorities voters parts voters elections voters months midterms republicans missteps skeptics')
+
+('VBP', 'swung think github carolyn stadium didn trump trump loom monitor find enthusiastic choose weren education postgraduate republican approve percent seem consider slim seem think danger trump trump lose')
+
+('VBG', 'doing chanting according holding losing keeping making fundraising republicanleaning republicanleaning whopping talking')
+
+('VBN', 'filed known partnered been excited excited excited lawandorderbuildthewallfocused given compared held')
+
+('VBD', 'made clingwrapped made were made marked failed failed cast fivethirtyeight asked gave said were were said called approved approved prioritized said rated hammered came failed were handled approved percent approved approved said approved approved pushed said were said')
+
+('VBZ', 'first100days seems differs explains comes serves')
+
+('VB', 'mean replace worry vote candidate')
+
+('JJS', 'most biggest least highest')
+
+('JJR', 'older older more less')
+

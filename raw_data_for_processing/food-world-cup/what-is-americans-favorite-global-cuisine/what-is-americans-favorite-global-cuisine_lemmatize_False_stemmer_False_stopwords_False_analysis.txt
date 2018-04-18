@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1942
+Raw number of types: 618
+Raw Type token ratio: 0.31822863027806386
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1005
+Number of types: 462
+Type token ratio: 0.4597014925373134
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBZ', 'americans favorites tries beats involves respondents seems retains makes americans goes')
+
+('JJ', 'favorite global national fivethirtyeight international such good tournament such belong full general familiar united fresh surveymonkey sixpoint much international experienced likely make round total likely mexico percent percent percent united percent percent italy percent percent percent unweighted percent culinary national third able choose underwhelming undefeated italy percent ionian routed percent laughable belgian wellknown available belgian pour wrong fairness likely clear italy percent italy favorite such dominant allyoucaneat likely wide japan happy japanese learning adventurous likely mexico united percent french freedom likely percent percent likely outcome china nuanced detail likely significant likely tiny undecided statistical plausible able available such famous general regional undefeated other semifinal north american likely italy many south korea culinary peninsular strong culinary decisive percent dangerous other much united percent crush fine gross dive eater large experienced overcome next likely mexico good semifinal bronze final likely italy united percent undecided italian likely definitive tournament average unlimited')
+
+('NN', 'cuisine nate silver walt hickey fivethirtyate illustration buysse illustration buysse world soccer glory food association fifa world group phase competition soccer soccer world uruguay luis suarez playing mexico chance soccer soccer world discussion world competition bracket pantheon cuisine competition threat group stage belgium round soccer world play tournament series audience country head phase world two1 addition food scale interest experience cuisine group phase difference knockoutphase matchup percent percent japan percent percent france percent percent percent percent spain percent percent percent percent china percent percent thailand percent percent nothing round soccer world closest contest thailand germany thailand percent margin experience germany soccer team spain brazil equivocation margin spain group stage result chance ethiopia vote battle italy greece belgium vote belgium percent matchup cuisine breakfast food waffle spirit buffet nothing mayonnaise civilization food something belgium soccer game epic matchups round menu winner percent percent competition didn performance mozzarella sixpoint eater scale margin percent percent mexico percent percent percent mexico evidence food curve mexico percent percent eater scale percent japan percent percent percent defense survey population eater scale percent percent france percent thailand percent percent contest eater adjustment swung vote count percent percent thailand story vote china thailand eater scale number contest look eater scale sample size fluke experience sort food country york california spicy venture chicken anything thailand record tournament italy mexico battle culinary supremacy percent percent percent moment appreciate thailand miracle wildcard squad thailand belgium algeria russia division germany everyone juggernaut china battle percent scale competition cuisine food food result percent percent belgium france result injustice arjen mexico ground tick scale percent percent lead hopeful knowledge time thirdplace match percent percent percent soccer world reason consolation game thailand skillet percent percent homeplate advantage food voter percent percent2 result margin percent percent everyone margin celebrate consuming mozzarella')
+
+('VBN', 'filed wondered launched done confused based skated allowed rated called round used been content gone cook crushed onesided come rated rated rated included fried rated rated crushed dominated rated prevailed rated been conducted known continued rated identified outset gained built conducted conducted boosted')
+
+('NNS', 'countries teams cuisines frontrunners italy italians others countries disappointments ringers china cuisines americans cuisines americans states surveys respondents respondents preferences respondents results voters voters eaters respondents eaters beats beats beats states beats beats beats beats beats responses respondents people quarterfinals belgians limitations airlines fries quarterfinals titans quarterfinals respondents eaters matches beats americans sticks respondents eaters states beats people potatoes fries years voters respondents beats eaters voters undecideds voters votes voters votes superfoodies parts places foods sorts delights advances semifinals semifinals respondents eaters beats things nations traditions pulls results eaters respondents snobs states beats voters eaters americans respondents eaters beats plays losers mexicans respondents eaters beats states turns americans italians tallies italians matches americans sticks fridays')
+
+('VB', 'fare wasn have take bite have qualify tougher face knockout have have consider have thailand engage take agree improve help mexico')
+
+('VBG', 'playing surveying remaining having revealing depending speaking shocking winning weighting having having taking racking going gorging advancing talking seeding going downing beating beating winning weighting')
+
+('VBD', 'identified decided introduced undefeated were were claimed weighted turned went weighted undecided undecided undecided undecided undecided undecided undecided undecided increased assembled produced proved breakfast weighted undecided undecided undecided called edged undecided favored were weighted happened china chinese weighted undecided started shock were undecided were robben rated weighted undecided decided weighted favored played came lost planned')
+
+('VBP', 'avenge didn rest head couldn choose have june ethiopia vietnam argentina belgium brazil greece cuba germany couldn choose spain have have mexico force july spain expect italy france have china look lowest thailand vote have tasty take thailand soccer italy italy mexico think mexico burrito thailand thirdplace redemption margin')
+
+('JJS', 'best least best least likeliest likeliest quest')
+
+('JJR', 'more worse more closer closer')
+
+('NNP', 'knock')
+

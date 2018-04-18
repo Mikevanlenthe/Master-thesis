@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2640
+Raw number of types: 816
+Raw Type token ratio: 0.3090909090909091
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1392
+Number of types: 670
+Type token ratio: 0.4813218390804598
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'comic comic international getty sainz annual comic superman strong comic underrepresent comic major comic first female recent comic close comic discouraging historian august outnumbered white strong male comic male femaleled comic demographic appeal same male white comic young white male attract vast comic many demographic difficult marvel comic available difficult comic comichron comic many comprehensive comic diverse traditional comic online digital digital huge great digital longstanding willow muslim pakistani jersey unlikely unlikely girl wilson creative lucky solid ninth femaleled female universe standard good mainstream unique unique list different good neutral alive able pull interested female in11 percent same times consistent female percent universe universe percent similar possible slight marvel willing create batwoman derivative marvel female financial spiderwoman unceremonious single marvel modern aggregate male female sexual universe gender difficulttoovercome annual public female ratios reflect negative longtime female particular call obvious longtime pick same female disappointing digital unfortunate passive page likely universe universe secret perfect likely superheroes normal unpowered universe marvel neutral likely universe outnumbered other female lesbian bisexual longstanding lgbt recent gender blip whole recent change wilson major leap vocal harassment comic several comfortable enough last open past comic other female acknowledgment excellent femaleled comic monthly comic great universe')
+
+('NNS', 'books books data data datacomiccharacters cosplayers images characters images skew books women people books publishers artists characters characters publishers comics marvel1 offerings comics advancements women books women characters comiccreators numbers comics analyzes writers artists editors pencilers women scenes people comics towards characters writers publishers years fans fans years books newsstands shops fans shops data buyers readers monitors sales data attempts readers women breaks genders efforts readers readers comics sales sales stars characters characters characters issues numbers expectations characters data sites data people sites resources universes characters characters characters data categories characters guys guys identities appearances books databases counts characters data characters characters women characters characters females bears characters counts characters data characters characters characters stars data changes characters data appearances characters characters counterparts heroes characters versions heroes reasons attempts trademarks characters issues publishers women comics characters minorities universes characters attempts characters characters women fans characters folks aaron titles weeks characters women women women males females males females villains characters women women women words villains houses characters stories cases years characters data shows characters women comics women comics years decades women communities points women comics people characters years attitudes women people fans women conventions years comics scandals writers women people events attitudes creators forums discussions panelists women comics issues women charts things titles comics')
+
+('VBD', 'made left slight introduced praised found estimated were aaron explained painted said moved catered happened said lost spent owned said detailed said believed said created were said went developed posted said fanmaintained pulled left pulled were were changed appeared were avoided said were were said declared established existed changed introduced changed introduced introduced shifted wrote went veered alienated said stopped straight were were were badaligned combined became were harassment said said said ruled were spoke said said')
+
+('NN', 'walt hickey github github comiccon july diego california mark davis bersain gutierrez portray superman diego comiccon july diego california kirkpatrick getty book industry kind film industry year note disparity marvel issue series thor science fiction blog batgirl costume damn superheroine fact parity females2 book hanley researcher month batch hanley percent year part skew book audience jason thor series book business corner time dwindling heart group grocery store audience industry majority market book information diamond distributors3 book industry john jackson miller site book industry number book convention attendance evidence audience industry book shop aaron book marvel book audience distribution system marvel wilson industry girl city series success creation character death wilson character female minority minority rest book team project book online issue trade paperback collection title marvel wilson marvel arrive number marvel wikia databases4 nature caveat kind information list characters6 publisher7 marvel interest wikia8 sexuality hair color color dead9 wikias number character appearance marvel characters10 representation time month year character firstappearance marvel appearance data12 character list percent marvel roster trend look appearance zero marvel gender view page percent marvel universe13 focus gender female percent marvel miller reason advantage character female marvel start example shehulk miller stake cancellation miller line text series story page spiderwoman universe everyone relationship year year marvel number year publisher number gender characters15 gender year figure state gender parity time parity imbalance rate percentage year female diversity marvel rate gender parity publisher reality16 half population reaction industry letter story change thor recall moment perception creator oscar nunez thor gimmick course diehard character hammer random dude think backlash think fact character backlash hasn book picture evidence identity marvel percent percent identity percent standin side allegiance rate fact something paucity transgender character number sexualminority chart introduction lgbt time work page today thor marvel industry community wilson credit change forward industry book series fact report wilson wilson decade misogyny pornography creator gender compare weekend york wilson dozen onstage goal book title book wilson correction version article name continuity')
+
+('VBN', 'filed taken published been ignored perceived been started been aaron specialized been collected been been been intimidated been been named devoted exceeded assumed pulled pulled underrepresented gender made eyed neglected pasted awesome released come been published secret sought categorized been introduced been looked portrayed been rocked called come spiked misstated analyzed')
+
+('VBP', 'attend belinda phoenix fuel write draw have outfit make have bring make have have find have count have find think tend tend tend newcomer marvel secret count comic have have appear make show marvel crowd wellknown supergirl mainstream spiderwoman marvel have start14 have pivot make move include marvel think have percent infer have marvel have have scholarship have appear feel aaron have feel talk tall have least exist think know earth')
+
+('VBG', 'saying trying introducing upgrading counting working writing heading adding dwindling working booming becoming doing reaching reaching changing living discussing thinking following coming coming bestselling updating appearing creating ending speaking looking counting nonconforming introducing approaching beating criticizing going going being topselling publishing creating going thriving discussing surprising talking happening unwelcoming bestselling')
+
+('VB', 'diversify track exist talk superhero become radar take issue forget know have look earthtwo')
+
+('JJS', 'best least least least least')
+
+('VBZ', 'releases does runs comes becomes trifecta gives says counts faces kinds emerges fans charts')
+
+('NNP', 'marvel kamala khan midoctober')
+
+('JJR', 'broader higher more more higher more more')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 889
+Raw number of types: 370
+Raw Type token ratio: 0.4161979752530934
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 416
+Number of types: 276
+Type token ratio: 0.6634615384615384
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'elitist oxford comma walt hickey grammar github github datacommasurvey dictionary university press birthplace oxford comma caleb comma comma list thing blight stalin dancer expert think audience poll june wouldn split respondent opinion person kind person kind latter oxford comma none result prooxford partisan vote opponent tyranny comma percent number cantor victory mcintyre longtime editor language blog editor merrill adjunct professor columbia school journalism veteran york time owner editorial company perlman suspect grammar rule sentence mouth loyalty rule blunt passion oxford comma effect passionate majority oxford comma trouble heart rival think comma kind survey grammar excellent type perlman grammar sentence conjunction preposition knowing rule explanation thing reference part speech goal matter peace comma writing preference mcintyre edit baltimore press stylebook point omit perlman middleoftheroad view rabid comma series follower journalism year rule grammar matter clarity note interest fivethirtyeight particular term majority respondent think singular crowd percentagepoint margin respondent percent usage survey issue')
+
+('JJ', 'superfluous popular american english oxford grammatical unnecessary insufferable ahistoric comic exotic grammatical doe average american surveymonkey american correct important loyal important loyal former much middle percent extra eric clear controversial asked author perlman graduate email learned ungrammatical deep comic oxford zealous humble many good good rule good hear coherent latinate such deep unambiguous oxford pure personal associated serial simple formative matter final relevant preferred singular plural plural vast percent half respondent prior')
+
+('VBN', 'polled filed published been spilled seen dressed weighed asked taught feigned performed thought used thought')
+
+('NNS', 'data data jones oxfordians people rap partisan people people people linguistics doe people data noun data data data')
+
+('VBP', 'go have camp believe sentence say know have tend prefer tend think think think start le exist involve have believe exist prefer conclusive')
+
+('JJR', 'more answer')
+
+('VBD', 'fivethirtyeight fell said were accompanied escaped wondered found said lost said took drummed asked')
+
+('VBG', 'asking commanding grabbing consulting posturing winning following parsing following knowing using liking preferring pressing')
+
+('VBZ', 'comma didn follows seems')
+
+('JJS', 'honest honest')
+
+('VB', 'defeat come knuckle instill mind tell data')
+

@@ -1,0 +1,37 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 978
+Raw number of types: 327
+Raw Type token ratio: 0.3343558282208589
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 364
+Number of types: 158
+Type token ratio: 0.4340659340659341
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', '\ufeffclub updat global united65 real leaguelogo munich madrid bayern teamlogo north uanl21 young super rapid teamlogo bundesliga qualiti')
+
+('NN', 'soccer forecast soccer power index rate leagu match club soccer rank match leaguelogo premier season england teamlogo city81 teamlogo teamlogo liverpool60 premier leagu leaguelogo season spain teamlogo barcelona72 teamlogo atlético madrid64 teamlogo madrid57 liga champion season teamlogo barcelona teamlogo bayern teamlogo citi champion leagu leaguelogo season teamlogo atlético teamlogo arsen teamlogo marseil europa leagu leaguelogo bundesliga season germani teamlogo munich66 teamlogo schalk teamlogo dortmund45 bundesliga leaguelogo season itali teamlogo juventus71 teamlogo napoli70 teamlogo roma56 seri leaguelogo season franc teamlogo psg77 teamlogo monaco63 teamlogo marseille59 ligu leaguelogo season teamlogo toronto teamlogo seattle0 teamlogo atlanta3 leaguelogo nwsl season teamlogo portland0 carolina0 teamlogo orlando0 nwsl leaguelogo clausura season mexico teamlogo tigr teamlogo santo laguna23 teamlogo club américa21 liga leaguelogo superliga season argentina teamlogo boca juniors46 teamlogo talleres38 teamlogo independiente35 superliga leaguelogo primeira season portug teamlogo porto67 teamlogo benfica65 teamlogo sporting62 primeira liga leaguelogo season netherland teamlogo psv68 teamlogo ajax61 teamlogo alkmaar56 eredivisi leaguelogo premier season russia teamlogo lokomotiv49 teamlogo spartak moscow41 teamlogo cska moscow41 premier leagu season turkey teamlogo galatasaray53 teamlogo beşiktaş50 teamlogo başakşehir50 süper leaguelogo season switzerland teamlogo boys58 teamlogo basel41 teamlogo gallen39 leagu leaguelogo bundesliga season austria teamlogo salzburg59 teamlogo sturm graz51 teamlogo vienna40 bundesliga leaguelogo allsvenskan season sweden teamlogo malmö0 teamlogo aik0 teamlogo allsvenskan leaguelogo eliteserien season rosenborg0 teamlogo molde3 teamlogo sarpsborg3 eliteserien premiership season scotland teamlogo celtic67 teamlogo rangers58 teamlogo aberdeen53 premiership championship season england tier teamlogo wolverhampton76 teamlogo cardiff city73 aston villa69 championship season spain tier teamlogo huesca57 teamlogo rayo vallecano54 teamlogo sport gijón49 liga leaguelogo bundesliga season germani tier teamlogo fortuna50 teamlogo nürnberg45 teamlogo holstein leaguelogo season itali tier teamlogo empoli54 teamlogo frosinone53 teamlogo palermo50 seri leaguelogo season franc tier teamlogo reims66 teamlogo nîmes55 teamlogo lorient50 ligu methodolog forecast rate import match boic reuben fischerbaum julia wolf')
+
+('VBP', 'predict stand europa')
+
+('VBD', 'leagu liga leagu seri ligu liga liga eredivisi leagu super leaguelogo leaguelogo leaguelogo kiel41 seri ligu read')
+
+('VBZ', 'leaguelogo')
+
+('JJR', 'süper')
+
+('NNP', 'östersund0')
+

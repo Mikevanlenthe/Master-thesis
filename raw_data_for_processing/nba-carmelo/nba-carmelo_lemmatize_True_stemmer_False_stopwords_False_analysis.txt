@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 799
+Raw number of types: 366
+Raw Type token ratio: 0.45807259073842305
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 420
+Number of types: 269
+Type token ratio: 0.6404761904761904
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'complete relative warrior simple simple final upset final western average league select golden warrior final fourth lead final next double title nbas rapid several consecutive celtic celtic celtic modern weak lackluster regular relative celtic good much current common similar long great little le regular other active long next march former')
+
+('NN', 'history franchise strength game work prediction season championship rate team decade play method measure strength gamebygame result rating franchise game history rating total rating formula score game team point credit victory margin rating zerosum houston rocket point game conference semifinal playoff clipper point rating average league expansion team begin rating team zoom history bull surprise bull regularseason rating state game chicago championship season peak game playoff record chicago slump game digit game game greatness season rating part competition expansion league franchise span year veteran elgin baylor year wilt chamberlain jerry team perception retirement game season streak win rating point team peak rating season title franchise sixth dont respect boston title dominance sport doesnt care opponent season playoff achievement rating hung team aboveaverage rating year antonio spur team streak time season york basketball reed walt frazier rating franchise history thing smooth york close season game time rating team peak closest net moment linsanity johnson play glory')
+
+('JJR', 'more larger higher lower')
+
+('VBN', 'based played surpassed gone reeled taken fallen been buck')
+
+('VBD', 'calculated input gained meant lost expanded were picked stomped went watered anchored supposed strengthened unparalleled maintained peaked were were went were daylight lived')
+
+('VBP', 'have win bull take celtic have willis dave franchise larry')
+
+('VB', 'gain bulls5 improve title')
+
+('VBG', 'winning winning winning depending losing clinching going middling aging approaching raising ring')
+
+('NNS', 'angeles chicago supersonics seattle lakers lakers angeles lakers baylors lakers lakers lakers celtic knicks bestknicks knicks knicks knicks')
+
+('JJS', 'best best west highest')
+
+('NNP', 'knock')
+

@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 737
+Raw number of types: 337
+Raw Type token ratio: 0.45725915875169604
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 442
+Number of types: 247
+Type token ratio: 0.5588235294117647
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'obama grant clemenc presid file crimin github github clemenc aim prison serv drugrel announc thursday commut sentenc prison grant peopl presid sinc harri truman1 thursday typic obama approach clemenc differ predecessor obama clemenc peopl prison sentenc pardon peopl week obama grant clemenc feder inmat includ chelsea man analyst convict disclos sensit inform wikileak man commut obama number commut histori accord obama week obama grant dozen pardon commut month sinc august decemb clemenc record feder inmat singl record pardon typic grant peopl year serv gestur forgiv restor right vote convict felon commut peopl prison man sentenc end presid commut becaus bill member faln group rico claim bomb unit state letter protest order polic group presidentelect suggest creat risk prison year obama concern hundr prison man obama commut sentenc oscar lópez rivera member gener part obama administr push crimin reform depart announc initi grant clemenc meet criterion includ sentenc consist administr rethink drug sentenc number petit commut nearli tripl year befor number petit accord depart record percent obama commut tuesday drug percent commut conspiraci law activist group liberti union argu law drug dealer charg crime distributor prepar leav friday commut applic guid trump presid grant rel commut unlik time version thi articl mistakenli grant clemenc peopl presid sinc truman mass pardon issu gerald ford jimmi carter')
+
+('JJ', 'other smart justic endofpresid sentenc obama free commut offic intellig tuesday thursday total other presid white hous issu onc thursday releas formal such actual free origin slate recent commut sentenc puerto receiv fratern other enforc trump free last offic overli optic free faln signific justic justic inmat certain thi obama harsh mandatori minimum fiscal justic prison convict american civil lowlevel unjustli seriou obama oval offic roughli wait uncertain histori other recent correct previou obama includ')
+
+('NNS', 'histori data data offens releas le pardon releas polit respons commut offens respons')
+
+('VBP', 'charli presid tuesday thi tend want independ appear have convict mani allow face remain follow')
+
+('VBD', 'clemenc left made gave broke preced were rose were were futur said')
+
+('JJR', 'more more rarer pardon riskier shorter more')
+
+('VBN', 'given been been been charg')
+
+('VBZ', 'armi clinton donald commut analysi mani analysi')
+
+('VB', 'have reoffend have freedom')
+

@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 960
+Raw number of types: 399
+Raw Type token ratio: 0.415625
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 434
+Number of types: 261
+Type token ratio: 0.6013824884792627
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rate team decad play method simpl measur strength base gamebygam result calcul rate game rate team rate averag slightli leagu expand start rate read methodolog game result profootballreferencecom championship bowl titl super bowl winner nation footbal profession associ exclud allamerica confer franchis footbal histori play game choos favorit team zoom explor entir profession francisco bowl season becom dynasti depend count patriot seasonend rate stretch leagu histori stretch belong francisco averag season playoff time game time championship patriot peak rate time start season entir childhood bradi bill arent quit cowboy rebuild project cowboy histori dalla team footbal record come season cowboy werent fan reason trade cowboy bowl walker minnesota exchang bevi player pick draft smith safeti russel maryland becam contributor dalla walker yard season deal immedi cowboy season rate playoff year bowl follow season titl cowboy rate championship game januari gain point year time packer histori anyon care domin packer championship team bowl captur merger team remind longev footbal emerg chanc wisconsin chicago bear bowl reach peak season edg team packer success peak januari brett favrel squad championship season bowl match figur aaron rodger team start peak dolphin histori earli fan miami join didnt wait success dolphin year season bowl perfect record team histori year miami backtoback championship titl game team resurg bowl loss complet thrash miami histor way compar jacksonvil jaguar lesser florida team jaguar year creation rate week season championship game despit brief reviv decad')
+
+('JJ', 'everi histori total averag leagu recent team includ super leagu includ footbal leagu american leagu american footbal footbal defunct select histori footbal patriot super last calcul alway averag born nfl belichick much optimist herschel emmitt tackl huge carri full lopsid wasnt finish bottom super good long green super live nfl green franchis slate modern green nearli earli super peak height super high curv peak lose')
+
+('VBD', 'leagu incred tri made sent surpass came came made hit hit went')
+
+('JJR', 'higher lower super super')
+
+('VBP', 'depend win england woodson make win reach')
+
+('VBZ', 'expans answer histori dolphin')
+
+('JJS', 'least greatest best best highest best least worst')
+
+('NNS', 'histori darren defens theyd titl')
+
+('VB', 'rack give run run exist gotten return')
+

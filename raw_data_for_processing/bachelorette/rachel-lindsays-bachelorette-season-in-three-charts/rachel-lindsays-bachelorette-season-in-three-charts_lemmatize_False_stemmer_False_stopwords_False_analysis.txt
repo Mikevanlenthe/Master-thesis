@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 542
+Raw number of types: 267
+Raw Type token ratio: 0.492619926199262
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 260
+Number of types: 194
+Type token ratio: 0.7461538461538462
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'rachel charts data github data suitors vineyards years weeks shudders impressions others suitors dates dates dates bryan suitors destinations dates contributions')
+
+('VBP', 'lindsay github lindsay come eric rioja hopeful have didn didn matt peter worst bryan walt')
+
+('NN', 'bachelorette season ella koeze wezerek databachelorette conclusion season bachelorette rachel love didn choice sent peter home abasolo proposal doll limo peter season appreciation everything rachel endure whaboom ticklemonster weren jack stone dream door rachel rachel rachel time date rachel season picking week example rachel oneonone group dean chart rachel attention number strategy find husband everyone bachelorette bracket pool dean drama rachel globe journey find love travel season europe slice choosing hometown ride rachel bachelor nation move story bachelor article season reporting hickey')
+
+('VBD', 'wasn finale stepped bryan happened eliminated persevered focused gave went spent concentrated made were were updated')
+
+('VBG', 'messing accepting lastmanstanding looking looking trying roaming watching viking fighting going')
+
+('VBN', 'filed published passed eliminated made given been gone been')
+
+('JJ', 'threehour live typical bryan eric other fresh lock strong first much final selective available oneonones limited predictable fivethirtyeight final metaphorical actual international western boring rachel substantial good diverse final wild ready next update finale additional')
+
+('JJS', 'quest')
+
+('VBZ', 'amongst seems roses shows')
+
+('VB', 'remember remember have worth')
+
+('JJR', 'peter')
+

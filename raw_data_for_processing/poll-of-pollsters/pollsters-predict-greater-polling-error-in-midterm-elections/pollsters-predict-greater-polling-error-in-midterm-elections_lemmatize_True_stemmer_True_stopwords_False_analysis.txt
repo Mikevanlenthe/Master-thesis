@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2666
+Raw number of types: 823
+Raw Type token ratio: 0.30870217554388596
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 1479
+Number of types: 597
+Type token ratio: 0.40365111561866124
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'pollster poll error midterm carl bialik file poll github github datapollofpollst student line vote poll place autumn payn getti imag babi vote booth mother vote march christian union church illinoi emmert getti imag poll regularli especi month rate accuraci work inform model poll pollster polit pollster work industri head polit pollster countri republican margin mani respond poll year compar poll error preelect poll vote margin elect error result pollster agre answer anonym quot post result github protect anonym request predict senat margin pollster busi ask voter voter question seat twothird republican seat predict margin slim outcom model occur percent simul seat reason congression elect typic favor parti power brad coker poll research presid christoph borick muhlenberg colleg structur year seat state pollster huffington post guess everyon respond poll pollster rate poll year rate year percent point sound respond poll room drop declin percent consist report report pollster year peopl harder phone talk stranger show rate year everyon rate gener rate number respond poll number peopl respond specif vari opinion research websit provid download calcul differ rate definit count respond answer everi poll question numer count contact denomin definit includ estim mani peopl reach weren elig poll none pollster contact definit pollster use definit specifi use definit definit use matter pollster rate complet interview number peopl success contact qualifi poll rate percent denomin number dial definit rate percent poll error ask pollster error senat poll differ preelect poll vote margin year year error error rate reason poll error perhap pollster nationalelect record despit rate reason difficulti forecast elect race bring voter poll midterm state race senat battleground year alaska arkansa kansa louisiana pollster pollster pennsylvania florida world poll poll techniqu pollster mani attempt internet survey methodolog determin voter rowland columbu affair editor conduct dispatch poll pioneer result pollster lament poll pollster error time turnout vote gregg durham america pollster interview respond pollster error poll chicken head continu torment respond barg life pollster themselv befor nate silver turn pollster poll silver poll ask pollster time collect state washington name plu sever region england state state state size state tie number mention hawaii reason state hardtoreach popul john anzalon anzalon liszt research hawaii makeup model use nation databas voter voter vote pattern bloc differenti databas merriman river group mislabel filipino import vote block hawaii hispan pollster york rate york citi resid particularli washington vote pollster selzer selzer compani becaus resid move state phone number area code pollster answer poll vote poll mani vega resid work schedul ad radar opinion pollster pick nobodi nevada pollster variou strategi rate hispan instanc respond respond account rate group hispan poll medium compani belttighten pollster year number polit poll declin thi poll reason respond disagre question rest onli name pollbas forecast rise cost poll reason medium compani budget newspap televis station sponsor mani poll consolid potenti sponsor sever respond share poll declin monthli coupl time year separ proport pollster client percentag proport revenu medium client rise cost reach cellphon hand antitelemarket ban call cellphon pollster household landlin internet cost separ cost includ cellphon poll percent cost poll pollster polit poll perman mention spike poll polici poll interest board transpar poll pollster rate model factor poll firm member nation poll opinion research transpar roper center archiv reason persuas evid pollster particip initi onli member aapor transpar holdout client confidenti roper hasn ask roper requir member gear kind poll commerci firm firm join number firm sign transpar initi client comment research believ import profess poll head onlin rate rise cost fall fund mani poll move onlin ask respond poll phone poll primari method use poll respond date answer presidenti begin transit plan muhlenberg colleg sinc cost result veri transit poll phone poll phone internet side poll function phone poll measur sanction phone poll cost pollster line anyth pollster survey suggest pollster question anoth cbialik fivethirtyeightcom comment')
+
+('VBP', 'predict elect california metamora elect pollster lean want elect differ show expect show encourag think predict expect think think have predict expect have reli forecast elect consist have reach want reach have adjust use yield expect elect show expect expect becaus have maintain have place have use dispatch say predict make show have peopl view expect have realiz dead speed arriv hardest mention ancestri ancestri have differ tend california make find say tend polici make track get typic oversampl shrink elect use revenu declin peopl dial automat reach add includ cellphon coupl think hampshir compar initi releas didn releas heard have protect expect expect borick have immin think think reliabl reliabl plu cross want ask suggest suggest')
+
+('JJR', 'greater fewer more greater fewer fewer fewer looser more more higher lower lower lower easier better higher lower fewer fewer answer higher more more matter smaller')
+
+('NNS', 'data data univers respons aren els respons respons percentag result le respons respons respons associ respons respons respons respons respons predict respons respons increas respons repres cours popul japanes chines respons unrespons challeng conserv jensen respons respons expens cellphon respons increas univers midterm associ data data roper data data respons consid els decreas increas')
+
+('JJ', 'davi peek next republican elect forecast prolif activ pollster predict narrow peopl thi expect actual le littl freeli republican narrow mani republican next senat major averag seat republican common republicanheld republican second midterm poor approv contest other peopl fifteen thi averag peopl much pollster pollster quickli onli defin same speak divid ask greatli american public onli household partial downward strictest other other didn nonaapor defin divid typic pollster le actual averag cite strong declin cite midterm presidenti crucial usual close public ohio cite unproven untest darrel public newspap grim thi predict elect weight peopl forecast industri expect dead pollster respond unannounc present themselv hard colleagu nate recent hard broad urban southern small york cite alaska common nonlow ethnic particular hard vote seth rosenth databas extrem identifi florida multipl mention difficult hard nevada nevadan hispan black counterpart public unusu hard pollster much elect right handl black overweight black same hispan black racial issu thi premis emerg such upshot cite medium stori frequenc newsmedia same attribut dial other median elect declin cyclic smith aberr jensen public le standard public particip american public nate ask particip particip roper cite other timeconsum nonncpp organ wasn small ask aapor cite confidenti stuart integr declin internetbas elect median happen next elect accept overtaken other use side complement other everyon versu open email')
+
+('VBD', 'fivethirtyeight senat took fairli said told declin were put everi said were were said said said said said wrote were said grove said said were said said said said specif hit said left said said said said said said andrew said wrote said said were said said leav')
+
+('VB', 'democrat reach senat speak grant choic make answer hold have percent expect someth have have make take keep happen ask ask percent ask have be continu send')
+
+('JJS', 'most most latest latest most strictest loosest least latest highest biggest most')
+
+('VBN', 'given thi report fallen manag experi made given gotten been sever obsolet blame veri found come mani been been sign believ remain')
+
+('NNP', 'masondixon')
+
+('VBZ', 'happen alaska council methodolog initi format expens haven')
+

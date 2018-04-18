@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1389
+Raw number of types: 450
+Raw Type token ratio: 0.32397408207343414
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 577
+Number of types: 272
+Type token ratio: 0.4714038128249567
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dear chainreact getti live other normal ashevil north much much iowa good involv sole involv fatal nhtsa fatal fatal total focu fatal collis north everi fatal distract fatal involv fatal worth thoughtday north dakota fatal compar pretti fatal bear driver fatal exampl crash high idaho figur fatal fatal total fatal fatal percent good fatal alcoholimpair fatal utah figur probabl provid indic fatal insur compani overal figur insur countri insur good american uninsur oklahoma look vast collis fatal unequ insur percentag good expens easi fatal north carolinian')
+
+('NN', 'mona state driver mona chalabi file number help pileup accid pennsylvania turnpik feastervil pennsylvania william thoma cain imag dear mona state region realli heard peopl bemoan drive neighbor state tricki question use type histor driver number crash state especi driver insur compani insur compani charg driver measur vari countri state consist bottom driver driver indiana vermont board motor vehicl crash unit state properti damag person result accord nation highway traffic safeti administr texa account crash state washington anywher state crash necessarili state driver state driver state condit need factor mile travel state characterist driver dakota number driver travel travel state avail driver involv crash produc figur driver collis everi mile travel nation interest behavior individu driver time driver road accid record distract time bear mind case record driver distract detail distract driver distract cellphon eat driver simpli dream percent driver accid record distract percent nation treat caution impress none driver accid record distract time base driver mind crash state percent databas driver involv previou crash percent driver nation figur vari state percent driver involv previou collis jersey percent crash perspect driver speed time avail speedingrel nhtsa record traffic percent occur driver speed percent traffic occur driver speed pennsylvania share speed indic driver drive thirtyon percent traffic percent traffic year involv driver alcoholimpair percent number news insur base price multitud includ driver behavior averag premium state assess cost futur accord nation commission highrisk driver jersey insur nation combin premium collis logic idahoan averag half driver countri driver driver premium accord research council percent road fraction motorist insur insur vehicl term question drive price loss incur insur provid state insur compani figur distribut state number insur comparison fairer divid insur compani loss state number regist driver estim use number driver insur idahoan america driver cost insur averag collis jerseyan cost insur apiec collis state answer lisa number crash clearcut understand driver insur provid deserv price compar nation perhap insur driver cost collis loss hope number help question send dearmona fivethirtyeightcom datalab538')
+
+('VBD', 'worst lisa lost ohio found sum')
+
+('VBP', 'hope driver want drive involv involv know drink involv need involv york show behavior drunken occur affect make think come sorri think')
+
+('VB', 'scene indic contrast simpli sound inform reflect make mona like')
+
+('NNS', 'wors carolina data els wors cours data plenti licens data irrespons montana certainli irrespons naic data louisiana')
+
+('JJR', 'answer fewer higher answer')
+
+('JJS', 'worst highest latest latest latest best highest')
+
+('VBZ', 'collis injuri exampl determin expens comprehens le insur licens')
+
+('VBN', 'known given paid come')
+

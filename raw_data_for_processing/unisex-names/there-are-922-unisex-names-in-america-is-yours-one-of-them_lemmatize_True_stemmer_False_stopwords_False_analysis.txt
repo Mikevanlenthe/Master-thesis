@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 632
+Raw number of types: 271
+Raw Type token ratio: 0.4287974683544304
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 315
+Number of types: 188
+Type token ratio: 0.5968253968253968
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJS', 'most least least most least most')
+
+('JJ', 'common getty much unisex riley living american riley recent adorable golden warrior riley wide percent american onethird newborn male onethird female hard unisex common total social androgynous minimum threshold sure enough unisex actuarial approximate similar previous searchable female minimum likely able identify unknown unnamed ambiguous full searchable table likely unknown unnamed infant')
+
+('NN', 'unisex name america flower name github github curry riley cooper riley casey riley jessie jackie peyton jody woman name example maletofemale ratio percent percent split bell video riley curry daughter stephen curry state postgame press conference cooper receiver philadelphia eagle thing riley name woman name name name chart list unisex name number name building work colleague mona chalabi year security administration create list name name name prevalent determine table name number name method colleague allison mccann nate silver story name name table column show difference male share number name sex value maximum doe edit list name result record number placeholder name infant infantof data baby child code analysis github clarification june version unisex name article placeholder name infantof explanation')
+
+('VBZ', 'yours')
+
+('VBN', 'filed named unisex given done used given adjusted used balanced notnamed thought excluded taken')
+
+('NNS', 'data data dataunisexnames people data data people people data people people america people others data data')
+
+('VBP', 'riley riley turn have mean make make alive have have')
+
+('VB', 'kerry take explore have')
+
+('VBD', 'balanced were were ranked were removed were left excluded notnamed added')
+
+('VBG', 'ring thinking using living')
+
+('JJR', 'more')
+

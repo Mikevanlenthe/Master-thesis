@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2262
+Raw number of types: 786
+Raw Type token ratio: 0.34748010610079577
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 990
+Number of types: 586
+Type token ratio: 0.591919191919192
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBD', 'straight straight left straight revolutionized made deemed spotlight found maledominated found worstrepresented looked biopic cast played played categorized included found classified told controlled made said celebrated rattled made said said thought made outnumbered came noticed struck made said featured singer propelled put decided featured said included made starred made said said came')
+
+('NN', 'compton biopic dude hannah fingerhut movie github github drama compton profile group invision rapper laylaw front cube yella photo compton tour kemper arena city missouri raymond boyd michael image theater compton story hiphop group rapper compton california place mainstream music industry film count member cube producer mainstream hollywood biopic release couple dozen color decade interview dramatization reallife event life hollywood statement significance figure filmmaker matter ignore funding feature woman fare biopic woman theater quarter biopic woman analysis imdb film life century percent biopicture race ethnicity percent subject genre improvement presence woman hollywood story corner society friend fusion result hollywood space report medium diversity change university california representation race gender lgbt status film character movie woman color group biopic subject analysis woman color person color actress play cleopatra film woman color actress time actor color emiliano zapata viva zapata film mighty heart angelina jolie journalist mariane pearl descent mother side number feature film biography genre state canada audience film subject sample character film person name information mean list film drama something example belle story drama drama romance number film sample result analysis place start information methodology footnotes5 gender imbalance product industry structure value film biopic figure life century structure time word context film sense production culture society industry filmmaker france negrónmuntaner professor columbia university extent hero world contest woman film time physicist marie curie madame curie woman norm latter film status woman field bingham english professor director film study indiana university indianapolis amount dialogue fact woman bread mother leadership role field film pointing film woman midcentury leader world figure lincoln thomas edison model actress boxer muhammad number film decade person color digit decade time subject color subject color factor ratio female decade sweden queen christina film studio transition culture trend film divulge hairy detail life bingham research woman woman trouble life life movie ideology bingham percent woman actress dancer woman life ciao manhattan sedgwick artist warhol experience peril fame fame line roth subject tomorrow spiral face relationship drug addiction business perspective cost moment history life story drama entertainment value seat industry power structure bingham glass ceiling budget film woman studio subject film reach viewer studio reticent spending money color athlete activist fall category race ethnicity woman film activist america malcolm martin percent entertainer richard pryor film industry vision history professor york university hollywood executive hero bright scientist artist musician world leader president nelson mandela subject latina latino latino sample spaniard descent madonna perón evita genre improvement diversity woman produce hollywood discrepancy bingham belief trend film television film color mass audience netflix opportunity audience scale latifah singer bessie smith bessie join film liberace temple grandin animalhusbandry expert autism film diversity gender lgbt status feature film end filmmaker television work television project hollywood look bingham correction version article woman theater summer testament youth june year')
+
+('JJ', 'rare white outta pizzello eazye pose straight archive getty friday outta young original exceptional wide summer1 documentary footage actual interpretation important profitable subject historical cultural much genre one2 summer3 subject biographical important white 20th subject able determine white vast degree white similar white social initiative southern white male demographic white subject egyptian queen white white brando mexican revolutionary recent afrochinesecuban imdb united profile total actual real subject demographic comprehensive many biographical genre musical norma true imdb biographical racial societal several historian early subject prominent public great white early 20th social political economic separate important great great modern much subject famous oakley social particular clear subject exceptional dennis university–purdue bake male exceptional shifted modern cultural sedgwick single many white subject white subject male subject female subject biographical subject popular subject personal common right serious much successful interesting twentythree sample showgirl many public stardom andy shame actress lillian catastrophic high recreate subject enough theater successful past particular multiple demographic musician particular half sample subject sample black african africanamerican subject black king africanamerican subject athlete comedian believe instrumental stigmatized black jeffrey promote strong forceful confident black statesman black sample former south african hispanic selena quintanillaperez usborn hispanic hispanic latin american many european white direct write stark additional queen madefortv biographical candelabra pianist racial sample interesting many theatrical last')
+
+('VBN', 'filed based released seen acclaimed named made played searched released based based classified imbalanced devoted emerged released given produced considered shown given made featured known marginalized seen made pitched released')
+
+('NNS', 'data data databiopics people people biopics people biopics people data people people biopics biopics threequarters biopics people biopics people biopics macro biopics people people anomaly people people people biopics biopics biopics biopics people people biopics sammons people people people people biopics')
+
+('VBZ', 'chris reflects biopics abraham result')
+
+('VBG', 'performing according shocking analyzing highgrossing speaking highestgrossing looking featuring missing marveling portraying portraying depicting suffering failing depending going including promoting starring emerging going going')
+
+('NNP', 'kansa')
+
+('VBP', 'ochs tell color include offer make color color tend reproduce know marlon hollywood overlap think color annie color genre edie wart approach entertainer come chosen fill think color entertainer want latina refer remainder color remain reach reflect')
+
+('JJR', 'greater larger farther smaller earlier')
+
+('JJS', 'latest least')
+
+('VB', 'chose show keep succeed determine work offer appear')
+

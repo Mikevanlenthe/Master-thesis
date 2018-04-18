@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 993
+Raw number of types: 475
+Raw Type token ratio: 0.4783484390735146
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 485
+Number of types: 325
+Type token ratio: 0.6701030927835051
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rise terror inspir religion franc carl bialik file terror github github dataterror gather front carillon saturday tribut attack previou thibault attack site author claim act terror combin quarter centuri franc accord terror databas victim countri score rock concert eat dinner restaur sister tunisia celebr birthday accord presid françoi holland blame state seri religi act afflict franc month decemb attack use knife reportedli yell akbar incid month attack pari satir supermarket kill claim boss link islam state august islam state sympath cutter rifl appar plan train passeng polit violenc religi inspir act accord union incid continu inspir separat includ franc alon year attack commit separatist attack gener target properti peopl attack accord half number pari attack2 rise religi motiv attack franc terror expert point disproportion number resid fight islam state franc oneeighth popul resid travel state number peopl travel state climb franc april januari august state fighter franc carri attack suspect attack arrest belgium passport attack author number michael jenkin terror research advisor presid corp email interview number number number prepar plu possibl activ servic resourc surveil choic danger potenti contribut factor preval gun franc rest accord arm survey avail countri firearm peopl switzerland finland cypru franc austria germani greec croatia ireland latvia belgium czech republ luxembourg slovenia denmark itali malta ireland portug slovakia hungari scotland netherland lithuania poland romania larg avail weapon certainli aid number plot sajjan gohel director thinktank interview yugoslavia surplu weapon variou crimin network end hand plot attack incid death europ attack deadliest europ sinc madrid train bomb kill deadli event europ year includ hostag school beslan russia kill london tube bomb kill bomb shoot plane shot ukrain year board offici plane crash egypt week board bomb islam state claim crash andrew flower contribut coverag democrat debat')
+
+('NNS', 'data data respons visit anyon repres necessarili syria data collaps respons')
+
+('JJ', 'parisian cafe terrorist camu terrorist pari friday french kill peopl injur live previou global cambodian french islam inspir terrorist last last tour great tie terrorist organ next branch qaeda behead american kill separatist compil european polic organ europol last french terrorist corsican recent separatist terrorist peopl die terrorist die friday terrorist french syria onethird onefourth islam islam unclear islam friday syrian french brian senior includ franc suspect other surveil involv terrorist intellig difficult predict small sweden northern estonia wale unrestrict terrorist intern secur foundat email former terrorist outsid western recent crisi oslo last russian last live second')
+
+('NNP', 'kill peopl kill')
+
+('VBD', 'said came mani fight fight found said said made asiapacif said kill brought')
+
+('JJS', 'least latest latest')
+
+('VBP', 'attend appear june attack thwart wave estim remain link rand return spain england follow occur suspect plane')
+
+('VBZ', 'figaro dijon peopl stat arson europol articl')
+
+('JJR', 'larger kosher fewer higher')
+
+('VB', 'shift kill keep trade check')
+
+('VBN', 'gone gone come')
+

@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1913
+Raw number of types: 636
+Raw Type token ratio: 0.3324621014113957
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 1029
+Number of types: 442
+Type token ratio: 0.4295432458697765
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'pollster standard peer carl bialik file poll pollster github github datapollofpollst getti imag illustr getti imag poll lead polit pollster ask pollster answer principl copi work let campaign result doubt peer medium abil poll lousi poll contact polit pollster database1 time question pollster rate answer reveal dozen peopl conduct mani poll horserac coverag work primari factor drive model forecast vote control poll download result poll github year colleagu harri report evid pollster result number fall line peer ask pollster answer provid find influenc berni epicmra pollster john anzalon anzalon liszt research number match poll result pa test point poll time firm sometim field cost conduct brandnew poll chang poll respond wasn convinc result question anonym thi honestli pollster didn name ask question pollster respond suspect copi answer pollster number poll result peopl cite reason belief year number poll number julia clark ipso question adjust result kind practic veri quickli discredit howev ad attent work matter focu statist clark cite york time exampl inevit pollster cue form thi pollster mani pollster agre clark peer result sensibl question anticip question backlash help client plan clark market speak check work method number ad shot realli care poll respond poll campaign campaign weight factor result answer client brad coker poll research relationship campaign sometim campaign differ assumpt voter result pollster scenario consumpt campaign result pollster model campaign push selzer compani consid campaign poll portray comment clarifi name poll suppos pollster industri poll shouldn includ model believ partyaffili poll firm model berwood yost franklin marshal colleg concern poll averag race pollster forecast averag poll becaus mysteri poll group disclosur averag side poll forecast pollster medium credul report poll poll report yost anzalon publish poll darrel rowland columbu dispatch report question word order influenc peopl respond pollster share report work sometim report result poll poll poll pollster respond question poll sometim appropri speed day error inevit creep clark import howev didn onc poll domain everyon focus actor midst mani innov work pollster provid lot name poll name research center cite work standard poll anzalon vote polici poll time street journal ciruli democrat pollster stanley greenberg michael vote peer receiv rate typic gener posit reaction pollster rate reserv pollster question rate fair chose possibl pollster rate particip survey question pollster rais concern rate campaign conduct privat poll credit alloc voter predict vote margin poll number databas pollster method gotten credit weight poll pollster murray monmouth selzer rate date publish find reason rate pollster agre rate poll nearli everyon disagre score anyth pollster survey suggest pollster question anoth cbialik fivethirtyeightcom comment')
+
+('VBP', 'follow aren anonym follow forecast think help elect revis smell optim statist suspect happen find think go want adjust have fluctuat follow counter say pay differ consult thi thi hampshir want need know want want affect onli want insist result believ think reflect accur want take think ask have poll hope affect elect fear bias shouldn hear have think error do poll make suggest go have result said4 contact get want ask suggest suggest')
+
+('JJ', 'ethic sure illustr second ethic basic ethic such other good first activ thi ethic fivethirtyeight major other novemb full thi enten copi other other porn anoth wrong live dishonest distinct revis other reject poor error same grant answer same other inclin publish enten articl notic certain recent publish good obviou other renew bayesian thi recent articl marketplac sometim potenti public narrow major other smith pollster other dictat other affect hear littl complic such poll long altern intern publish selzer tri publish right other standard increasingli tri elect simpli financ partisan straight simpli other partisan simpli stop partisan bia undermin porn inform publish publish recal recal much form recal recal practic public unpublish good ask other specif nonelect gold selzer public york newswal associ bocian ciruli compani organ wasn other thi particular otherwis pollster undecid final offici recent full recent heavili close arbitrari patrick agre selzer nearli grade lower5 open email')
+
+('NNS', 'data data ask mani pars senat anzalon organ releas univers publicli produc organ faulti gallup includ candid togeth univers compani data grade compani')
+
+('VBD', 'said held senat found were said paid said said grove drew said said were thought said said said said andrew said said said said reserv said said said put said said said shitti qualiti said shouldn said said acknowledg said heard said said grade said found were leav')
+
+('VB', 'dictat respond inform be result margin back check match face becom begin take take vari enorm crazi look trust take tell describ includ fail be think be skew unduli poll take be work answer differ monkey complet like send')
+
+('VBZ', 'ethic befor ask hypothet partisan mani organ answer improv')
+
+('JJS', 'dishonest suggest best best')
+
+('JJR', 'more more answer pollster more more emphasi better')
+
+('VBG', 'meaning')
+
+('VBN', 'wild come releas done chang cut')
+
+('NNP', 'masondixon')
+

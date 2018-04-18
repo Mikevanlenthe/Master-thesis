@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1431
+Raw number of types: 492
+Raw Type token ratio: 0.3438155136268344
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 753
+Number of types: 362
+Type token ratio: 0.4807436918990704
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'pol poll thing bush frontrunner harry kickoff florida bush joel plosz florida bush joel money everything thing campaign bush campaign today talk goal month story money matter bush cash attention governor senator house member backing bush week bush endorsement pol state house delegation endorsement forma marco rubio race endorsement bush house member governor senator anyone field pick endorsement member congress home state race echo poll speck hampshire poll tier iowa bush frontrunner weight position point governor point senator point representative bush point account endorsement point bigwig haven choice field official word none process endorsement party action relationship endorsement percentage vote candidate nonincumbent primary candidate endorsement primary bush problem thirteen point percent endorsement aren leader primary campaign mitt romney frontrunner time number point bush john mccain summer percentage point share bush doe brother george time number point percentage point share point race comparison endorsement race contest dick gephardt house endorsement house caucus didn fare problem race minority leader house endorsement endorser option bush hasn anything money election election court citizen decision explosion spending analysis election sample size study election judge effect spending vote candidate campaign endorsement percentage time money raised3 word money tell something endorsement race campaign hasn check github endorsement piece race robertson phil gramm rudy giuliani money point race crane field candidate year leader endorsement race crane robertson gramm giuliani le endorsement money race nomination fight candidate point field race money year michael dukakis percent money point point john money percent endorsement point money lead nominee money support official money super race grab money course money group power money candidate super form development money predictive donation foretell support haul year mean something pac raise money matter something strength edge information candidate percentage endorsement percent chance nomination years5 pac candidate percent money field bush percentage endorsement percent chance thing bush thing poll bush shot candidate candidate shot envision')
+
+('JJ', 'same weak former former presidential former presidential super fundraising plenty official particular last raft florida republican homestate fellow floridian meaningful endorsement current else republican paul endorsement bush lead national second weak endorsement percent great republican early endorsement other determinative early important eric applemandemocracy clear early eventual national primary large lead large lead early endorsement weak endorsement endorsement endorsement endorsement democratic democratic gephardt same early candidate potential open same true republican presidential supreme united presidential small true united hard outside explain eventual primary endorsement give weight other predictive crane third republican selffunding4 clear sixth weighted republican previous democratic half eventual last democratic endorsement candidate june primary percent endorsement percent large eventual extra clear other independent current recent sure individual future likely super donor early organizational additional bush past super large reasonable endorsement primary same other other doe easy')
+
+('VBN', 'filed homestate considered given split earned been used taken look declared raised bush elected raised raised based raised based combined')
+
+('VB', 'plosz ignore have candidate hold hold bush tell foretell result kerry dismiss over have impressive have')
+
+('NNS', 'florida besides data decides freeforalls postcitizens data giuliani frontrunners differs')
+
+('VBZ', 'enters doesn seems bush triply phil help bush bush seems')
+
+('VBG', 'going including polling running using struggling chairing voting serving keeping gobbling making trying using fundraising fundraising fundraising counting fundraising counting raising taking winning counting winning telling winning losing')
+
+('JJR', 'more super more more super super better easier')
+
+('VBD', 'unveiled made began were were were were wrapped plagued were raised went were hadn were raised were were were')
+
+('VBP', 'rand have nomination impressive bush have predictive pac know say have')
+
+('JJS', 'least closest weakest most safest most')
+

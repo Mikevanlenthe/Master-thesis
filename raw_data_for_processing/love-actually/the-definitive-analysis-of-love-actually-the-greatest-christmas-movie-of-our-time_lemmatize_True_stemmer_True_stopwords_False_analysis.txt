@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1821
+Raw number of types: 677
+Raw Type token ratio: 0.37177375068643603
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 916
+Number of types: 490
+Type token ratio: 0.5349344978165939
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'definit christma movi time walt wezerek file movi colin firth bill hugh grant alan rickman liam neeson thompson colin firth bill hugh grant alan rickman liam neeson thompson film launch gener interconnect relationship week unit kingdom unit relationship airport space bookend film use lowli tourist minist alik plotlin moment relationship crush grave holiday season stapl christma school pageant holiday song plu perform time credit roll emotion1 bottom thi structur christma watch film ruthlessli code scene pull pile offic attract actor movi use network analysi strategi hamlet misérabl literari find charact core film pixi dream bean play film launch career thoma brodiesangst play fall girl name charact game throne lead ongo maze runner franchis play stepfath post movi money liam parent movi question child sprint secur airplan post911 fatherhood neeson parent result child parent outstand lucr franchis number film neeson alan bill emma thompson martin thoma brodiesangst chiwetel keira knightley rodrigo santoro colin firth thornton adam godley laura linney ivana milicev margeri mason movi love money sourc imdb pair actor crappiest relationship end veri film emma thompson alan doubt role half harri potter cinema accord rate film love averag imdb score film number film rickman wynn owen martin chiwetel ejiofor januari jone keira knightley thoma brodiesangst liam neeson julia davi kri marshal laura linney bill rodrigo santoro movi love perform stay power monster screenwrit juggl differ plot thompson hugh grant colin firth knightley martin freeman blist brit movi plot network scene pivot charact shared2 linchpin axi world turn card play dumbwait thi downstair parti network analysi littl le littl le pretti tale citi mirror side romant narr plot rememb watch knightley charact husband pine afar file restrain order call milieu london crack life thompson lead husband play rickman vamp thing tale boymeetsandoglesgirlwhoworksforhim london play minist thompson thing start rail fall chubbi staff stomach plot relentless joke none london version knightleyweddingattende firth meet countrysid movi onli scene watch camera firth strip underwear jump lake zani london cater staff knightley kri marshal onli describ randi derp sampl dialogu side rowan atkinson play screwbal depart store end amount curtain call summon charact gate heathrow shini christma comedi damn testimoni leav asid serendip inclin believ attent absent airport epilogu count scene charact share silentbuttreacli card linchpin measur activ count mani actor linney absente star emot glue rise charact actor time cast primari plot sarah laura linney tryst mark card karen harri alan colin frissel kri marshal jami colin firth franc aurelia lúcia moniz franc keira card heik makatsch peter chiwetel card daniel drummer natali martin sali brodiesangst drummer john freeman standin judi joanna page rodrigo santoro tryst rufu rowan atkinson presid thornton billi mack bill joanna olivia olson drummer gregor fisher song jeanni januari jone brother michael tryst charact obsess problem linney beacon good mopey need shoulder parti reassur thompson watch husband fall woman brother incess phone call derail longawait night mistleto santoro linney charact london movi stuf redund plot permut stereotyp quit grinch view thi holiday season treasur laura linney bona fide christma miracl network analysi github page ella koez contribut report')
+
+('JJ', 'analysi actual hickey publish mccutcheon linney mccutcheon linney actual stori christma heathrow third prime everi first parti great actual much titular intric classic nice thi recent appli actual equal import manic atkinson same recent appear regular actor sammo actual neeson good attempt aw offic liam rickman nighi freeman ejiofor actual late good icon british heap imdb actual alan thompson freeman john sharian actual endur dead abli other social mani actual lincoln upstair reveal young young rich rich white other white thi other probabl stalk spous london bourgeoi charact whisper classic grant elect prime charact maid cute french slowmot befor enough includ other london atkinson rickman charact movi arriv ultim ginnedup major charact mani lincoln actual other social charact screen offic lincoln thompson necklac hugh juliet neckalc ejiofor neeson abdul thoma offic song offic other everyon rogu other ask mental rodrigo straddl same charact forc actual')
+
+('VB', 'love love happen diagram be keira cheat happen take call find')
+
+('JJS', 'greatest most most most best best best')
+
+('VBN', 'left left stori learn gone made taken admir been spoken')
+
+('VBD', 'keira keira cast were spoke were made came made andrew wed andrew andrew standin spoke wed')
+
+('NNP', 'knightley knightley qualiti knightley martin karl')
+
+('VBZ', 'nighi laura nighi laura rowan rickman averag emma nighi schmuck rowan movi emma liam nighi sarah knightley christma truli')
+
+('NNS', 'univers univers cinemat data deceas wors london portugues convers els data')
+
+('VBP', 'pictur pictur take solid have figur wrap make know love precoci mother love have oftentim make buoy franchis sell thi emot have movi find love love echo learn appear find secretari housekeep love love differ rickman grant mccutcheon fitzgerald charact run stand love')
+
+('JJR', 'brother fewer laura london')
+

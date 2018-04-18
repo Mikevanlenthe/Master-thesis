@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1121
+Raw number of types: 443
+Raw Type token ratio: 0.3951828724353256
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 586
+Number of types: 318
+Type token ratio: 0.5426621160409556
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'buster posey pitch frame potenti arthur file github github databusterposeymvp francisco giant buster posey ball ross franklin fangraph replac leaderboard candid player mike bryce harper despit lack francisco giant catcher buster posey poss secret skill leagu pitch framer posey sole basi percent average1 percent percent respect onli begin consid player version account frame catcher care pitch call strike framer pitch outsid zone strike pitch zone ball thi abil batter pitch impact frame framer year thi season posey rack valu frame total catcher consist strike call ball clearli manipul umpir mysteri framer understand doe pitch come catcher veteran coach frame consid thi pitch start pitcher chri heston posey motionless posey bodi impact pitch notic posey zone pitch cross plate valuabl team becaus backup framer number pitch posey susac cost pitcher strike word hardli effect pitch2 pitch posey receiv call strike susac ball techniqu susac tri maneuv posey pull glove zone doe manner watch move pitch lift ball level journeyman catcher jason argu thing pitch frame chalk call strike catcher reput disprov argument previou studi catcher frame gif opportun becaus framer look reason term techniqu recept posey susac locat strike criterion limit number catch remov mani factors4 code amount movement frame pitch caught5 contrast catcher frame place pitch agre posey motionless frame simpl catch susac momentum ball paus note video abov motion acceler pitcher posey stiller everi stage catch posey smoothli trap ball paus paus return throw jag comparison ball suddenli return susac fall posey thi method catchers6 forc frame contrast posey motion posey rel tranquil help strike posey factor frame posey becom contend fangraph plu posey harper respect care frame techniqu account posey player basebal right')
+
+('VBP', 'make catch win contend happen turn keep turn make run earn want posey have remain drag make leagueaverag differ stand stay kendal differ have reli confirm know posey calcul sampl have receiv posey toss hold snatch suggest skill unnot')
+
+('JJ', 'basebal abov lead valuabl compar deserv detect candid harper averag onc current receiv such caus umpir import talent good call incorrectli scare oppos lessoptim good signific good win worth ump usual good good call other qualiti exampl giant notic absorb appear posey especi susac half overal other receiv similar same exagger le same former famous such difficult anecdot bia creep quantifi posey great actual nearli exact same strict total complic total second small good good quiet dampen tenth second befor path quiet briefli motionless short extend good pattern susac extra onc legitim')
+
+('NNS', 'data data look defens posey subtli perhap essenti posey univers becaus defens')
+
+('VB', 'find begin be be glove kendal grade throw consider drive explain take best')
+
+('JJS', 'most best best most least')
+
+('VBZ', 'doesn defens posey posey doe susac potenti catcher transit')
+
+('VBD', 'hit put andrew slightli found took wrote susac befor')
+
+('JJR', 'better leagu better more higher more more better more more')
+
+('VBG', 'swing')
+
+('VBN', 'describ taken abil stolen')
+

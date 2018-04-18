@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1411
+Raw number of types: 475
+Raw Type token ratio: 0.33664068036853295
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 733
+Number of types: 350
+Type token ratio: 0.47748976807639837
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'woman world model work boice nate silver soccer christine sinclair hope solo state match olympic game jamie mcdonald fifa image christine sinclair hope solo state match olympic game jamie mcdonald fifa image check woman world prediction woman sport woman world gather everything database woman soccer match game woman team rating woman soccer power index projection world state germany enter team dark horse player watch colleague allison world preview methodology projection wspi rating version soccer power index system conjunction rate soccer team component team rating match player rating result club play player team roster wspi team rating component woman soccer feature component rating account score match match time shootout location game rating world match count team rating time example china wspi state world rating rating component rating goal team score match1 rating goal match strength schedule rating rating component wspi rating percentage point team roundrobin tournament team world look example team wspi rating state result rating team match match date location competition opponent score weight rating rating scotland france glasgow scotland city kansa world qualifier trinidad chester pennsylvania world qualifier france feature example team defensive rating gamebygame rating match france maximum weight match case strength schedule matter wspi rating france mexico france tougher defense team match receive rating wspi rating team location match home advantage match goal home team matchup team wspi rating team world estimate probability team team3 calculate number goal team match matrix outcome distribution match probability loss scoreline distribution score tiebreaker advance knockout stage world goal account match probability hand calculate chance team tournament knockout round simulate tournament time percent chance tournament mean simulation simulation team result simulation account possibility team tournament preworld wspi4 match knockout round time regulation shootout time simulation case time match team score rate regulation5 shootout probability wspi random evidence shootout team wspi rating percent database team shootout time example uswnt percent beat thailand game shootout reason interest weaker team play question nate article detail philosophy drop note woman tournament')
+
+('VBN', 'filed forecast based developed based derived based detailed played broken combined calculated played given expected been rated expected given given estimated scored allowed tied treated treated')
+
+('VBZ', 'canada canada reflects loses')
+
+('JJ', 'beat united getty beat united getty same rich international many used national elite mccann simplified espn international individual national available major similar final extra match friendly united final offensive defensive offensive many average competitive international defensive many such offensive defensive offensive defensive overall possible hypothetical other detailed united recent give glasgow kansa faro portugal friendly offensive weighted average march little weight friendly weight importance2 possible much uswnt offensive uncommon weak opponent poor didn much team good offensive good important competitive worth favorite other first possible poisson other possible possible important individual tournament reflect outperform extra sure extra good dominant regular favorite regular percent underdog technical wspi')
+
+('VBD', 'fivethirtyeight united wspi went interpreted received weight adjusted generated played updated tied spent shortened derived skillbased shootout occurred')
+
+('VBP', 'have sport want read take nate play account wspi colombia receive continue tend have apply hope')
+
+('NNS', 'data frontrunners data club varies olympics olympics receives olympics')
+
+('VB', 'find develop call expect concede expect get receive make beat score convert victory take advance handle')
+
+('JJS', 'wspi most')
+
+('JJR', 'more score more stronger slower better more')
+
+('VBG', 'teamrating including controlling wondering beating beating scoring using knowing winning speaking making being following')
+

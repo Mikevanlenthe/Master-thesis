@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1121
+Raw number of types: 443
+Raw Type token ratio: 0.3951828724353256
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 586
+Number of types: 346
+Type token ratio: 0.590443686006826
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'buster posey pitch framing baseball github databusterposeymvp buster posey ross franklin fangraphs replacement leaderboard player mike bryce harper lack buster posey skill league pitch framer posey candidate basis percent league average1 percent percent average value player posey contender version catcher pitch cause umpire call strike posey talent zone zone ability turn framing framer year season posey value total trout manipulating mystery understand posey pitch quality stillness example pitch pitcher chris heston posey notice motionless posey body impact pitch notice zone umpire pitch plate posey team backup framer number susac cost effect pitch2 pitch posey strike susac ball difference technique susac glove zone manner watch pitch posey level journeyman catcher jason kendall thing pitch ability reputation argument technique opportunity confirmation bias creep framer greatness technique location strike number factors4 code amount movement frame pitch caught5 sample ability contrast pitch stillness posey motionless catch susac momentum ball motion pitcher posey stiller stage catch posey ball pause pause return throw comparison ball briefly susac posey method stillness force posey motion tranquility help posey contender fangraphs harper technique account posey player baseball right')
+
+('VBZ', 'makes doesn begins happens balls scares does comes does remains posey susac does moves stays transitions holds falls catchers6')
+
+('JJ', 'potential francisco leading valuable comparative francisco secret detect harper begin defensive current such important defensive good keep lessoptimal impact good significant good entire worth umps good good other absorbs appear valuable susac leagueaverage half overall other similar same exaggerated less same former such difficult previous posey actual susac exact same strict total many total second small good good simple quiet dampen tenth second smoothly motionless short good pattern susac relative extra factor legitimate defensive careful')
+
+('NNS', 'arthur data data giants catches wins candidates giants possesses accounts framers pitches strikes pitches batters pitches estimates wins runs catchers strikes balls umpires framers calls catchers veterans coaches giants pitches pitchers words tries lifts differences strikes studies anecdotes reasons terms receptions criteria catches catchers places catchers pauses videos accelerates suggests strikes becomes skills')
+
+('VBN', 'filed called described drags taken called called relied jagged stolen')
+
+('VBP', 'github ball catcher look turn earn call posey have posey strike posey ball catcher catcher have gifs know posey posey calculate have framings receive agree posey toss posey posey posey')
+
+('VB', 'find consider consider glove disprove kendall grade throw explain take best')
+
+('VBG', 'deserving hitting framing receiving being opposing swinging making framing putting framing being starting making receiving pulling standing framing chalking framing looking complicating framing trapping snatching quieting returning extending driving framing contrasting framing framing')
+
+('JJS', 'best best most least')
+
+('JJR', 'better better more higher less more better more more')
+
+('VBD', 'racked wanted crossed andrew received argued found took limited removed wrote noted susac unnoticed')
+

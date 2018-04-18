@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2362
+Raw number of types: 624
+Raw Type token ratio: 0.26418289585097376
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 946
+Number of types: 370
+Type token ratio: 0.39112050739957716
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'statist analysi work ross walt hickey file spreadsheet github github databobross ross paint ross name trademark ross right reserv use permiss ross paint ross name trademark ross right reserv use ross consumm teacher guid fan paint happi almighti mountain cloud televis career show paint ross paint work show element scene theme therebi provid point decid import statist concept condit probabl cluster limit hair readi creat spreadsheet interview ross collabor bodi work defin person ross join station year alaska time impact tree mountain lake paint ross featur paint ross name trademark ross right reserv use episod paint continu rerun station ross paint rest featur steve ross base imag ross paint avail ross store code episodes1 use keyword describ content water mountain weather element manmad stylist choic frame paint artist tags2 analyz ross die paint decad toplin result bunch mountain lake number ross figur speech paint oak spruce paint happi favor almighti mountain paint tree paint paint friend time show probabl individu tag event instanc conifer tree paint percent paint contain percent paint contain accord percent paint contain least ross paint paint someth condit probabl condit probabl tricki percent ross paint percent contain beach percent contain beach inform thing probabl ross paint cloud beach probabl paint beach cloud divid joint probabl percent case percent want beach cloud pitfal peopl probabl probabl ross paint cloud beach mani beach paint cloud percent beach scene howev probabl ross paint beach cloud mani cloud paint beach percent paint beach figur condit probabl everi ross everi press question ross paint happi paint friend percent chanc ross paint tree paint ross paint contain mountain percent promin featur mountain percentag paint contain mountain ross paint friend mountain percent paint mountain mountain paint mountain cover paint mountain percent chanc littl hill hill percent ross paint clearli almighti mountain happi question percent ross paint promin paint cloud percent chanc distinctli cumulu percent chanc paint cloud distinctli cirru charm littl cabin percent paint featur cabin paint cabin percent chanc percent chanc ground percent cabin paint conif percent tree water time percent ross paint percent contain river stream percent contain sound beach contrari beach percent ross seasid paint percent probabl choppi percent paint paint featur cliff cloud rock paint ross steve percent paint percent steve paint use sort compar vector inform cluster tool idea cluster group point research cluster area biolog market segment popul plant peopl interest base differ subgroup rest use paint paint cluster paint possibl identifi paint featur cluster analysi paintings3 result mix look cluster intuit winner cluster paint tag winter cluster paint oval whitespac frame cluster paint scene kind cluster hope theme fall banner ross imag paint beach scene imag season scene foreground season cluster ross favorit kind paint cluster paint host ross cluster paint contain cluster paint contain cluster paint contain fenc barn cluster paint contain cluster identifi tag paint group help ross paint exampl flower focu paint time ross program cluster cluster paint tree mountain cluster paint tree mountain suprem help interest cluster tool kind hardli answer learn ross work call annett kowalski painter work4 confirm review hundr ross landscap work defin paint exclud time paint peopl kowalski peopl walk wood inde paint person time ross paint paint person ross name trademark ross right reserv use analyz structur paint ross elabor paint cabin fenc variou state disrepair barn manmad structur remark work bridg time boat mill paint dock windmil episod ross paint fan accord tell cabin chimney chimney person paint check cabin chimney immedi ad sure call tomorrow chimney hunt season winter cabin chimney cabin center column fact chimney paint realli paint paint rossbrand paint suppli belief viewer peopl watch ross interest paint calm voic')
+
+('JJ', 'happi imag imag permiss tree fluffi total reli distinct someth lesson happi consist fundament ideal daytona forc spent next signific subject cloud snow imag permiss first frequent tree structur grand total exactli paint tree classic peak basic joint probabl tree decidu tree tree probabl cloud cloud figur paint paint percent cloud assum paint essenti vast major cloud paint major cloud follow tree tree second percentag almighti amen sixti percentag footi cloud excel cloud decidu paint lake ocean much ocean ocean ocean lake appli certain sort find similar certain divid similar basic seri kmean first clear ocean clear common icon whole bridg waterfal rare main mani steve final broad appeal alreadi ross steward discov includ campfire5 ross tree campfir imag permiss simpl complex rare lighthous structur entir unnot secret notic sign featur third diminish major mostli')
+
+('NNS', 'data data data data data data data data els data determin data data data sens sens sens data data data repres kowalski')
+
+('VBZ', 'cours decidu algorithm someth')
+
+('VBP', 'teach perm seem prefer find expect tree appear know find appear know conifer find statist know contain depend know beach face contain contain answer snow appear prefer littl ross lake snow contain wave averag steve seem prefer lake consum want know make snow find ovalfram snow make make steve flower appear alreadi appear remain think show featur appear prefer peopl want go episod appear point realli')
+
+('VBD', 'found fairbank someth snow featur analysi suprem found someth said silhouett ross said found took kowalski said')
+
+('JJS', 'closest guest guest biggest least least guest least biggest')
+
+('VBN', 'born given given given given given given given given given given given given given ross len subset gone come run')
+
+('VB', 'know call probabl tell defin knew quit appear sell')
+
+('NNP', 'kowalski')
+

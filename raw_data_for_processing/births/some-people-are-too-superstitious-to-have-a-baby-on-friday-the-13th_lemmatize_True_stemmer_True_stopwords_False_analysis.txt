@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 646
+Raw number of types: 304
+Raw Type token ratio: 0.47058823529411764
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 343
+Number of types: 204
+Type token ratio: 0.5947521865889213
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'peopl carl bialik file parent github github databirth babi fall month parent doctor treat birth schedul deliveri section choic lot parent chanc date whammi luck tie togeth longstand fear number birth month effect fall weekend deliveri month lot parentstob birth child year reason parent forum avoid websit forum offic ladi luck chang site ask section laugh think book belief birth luck becom veri thi household parent forum birth assist professor gynecolog harvard school email schedul plan plan labor thi friday comput scientist vehtari andrew gelman method effect separ monthli trend attempt land date base birth research cover birth effect valentin halloween cover textbook sever author data analysi edit gelman birth gener parent birth effect date typic birth result consist find calendar holiday birth day month contribut analysi')
+
+('NNS', 'superstiti data data superstiti univers anoth famili teas data extens data')
+
+('VBP', 'have thousand deliv tend avoid have say friday neel induct look calendar previou cowrot reran expect analysi')
+
+('VBN', 'babi born given birthday given been given made been found')
+
+('JJ', 'friday whenev friday newborn other mani induc cesarean doubl superstiti friday expect especi friday thinli schedul births1 onc friday vagu pregnanc sorri bug superstiti obstetrician schedul cesarean didn friday good second friday such birthday shah obstetr medic cesarean full statistician complex birth pattern longterm avoid certain find other other bayesian third vehtari recent recent other sinc schedul specif friday whole notic other suppress leap')
+
+('JJR', 'fewer lower fewer more more flower')
+
+('VB', 'expect take sinc bug develop')
+
+('VBZ', 'deliv staf christma')
+
+('JJS', 'smallest')
+
+('VBD', 'wrote wrote said said wrote said said said sent found gave were andrew')
+

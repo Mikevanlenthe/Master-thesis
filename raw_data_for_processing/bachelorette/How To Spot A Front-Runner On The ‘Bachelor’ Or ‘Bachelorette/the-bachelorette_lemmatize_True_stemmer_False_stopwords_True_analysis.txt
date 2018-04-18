@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2056
+Raw number of types: 592
+Raw Type token ratio: 0.28793774319066145
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 864
+Number of types: 426
+Type token ratio: 0.4930555555555556
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'spot frontrunner bachelor bachelorette season ella koeze walt hickey github github databachelorette night lawyer dallas rachel start journey love season season bachelor franchise season bachelor bachelorette matter heart figure contestant edge competition firstimpression year rating bachelor franchise part fabric television week bachelor bachelorette oncamera date whittle group contestant romance add week competition information crack jump thing bachelor bachelorette speculation desire love playing reason fivethirtyeight espn disney week competition season date oneonone date twoonone date group date date protection elimination week show6 week percent contestant bachelorette bachelor leaf week competition bachelor bachelorette keep week rest date ceremony show player week bloodbath contestant ceremony carnage week piece firstimpression prize contestant bachelor bachelorette week forecasting future season contestant firstimpression recipient runnerup mean percent recipient episode rachel firstimpression season bachelor bachelor viall firstimpression rate percent contestant week roll show fall rhythm contestant date bachelorette opportunity time love bachelor bachelorette resource reason ideal date allow face time oneonone date group date winner path victory champion date opportunity season burst date obscurity position find point date date point contestant course season journey season winner lead check bachelorette lurker look bachelor season stand winner bachelor brad womack season bachelor woman growth complexity show season number week date bigpicture view type date consideration twoonone date twoonone date contestant half contestant twoonone date mortality rate bachelor competitor moment bachelor chris woman twoonone date middle desert carnage half twoonone date survivor week week twoonone date percent participant case competition doom date oneonone date heart bachelor franchise course series exception swim contestant oneonone date sign season week field contestant oneonone date week week relationship bachelor ette field season bachelor winner oneonone date week week viall gravity plane time theory date ceremony invitation contend date represent preference part bachelor bachelorette date date advantage date date thing happen contestant week competition surviving ceremony week competition outcome outcome date question zeroed week date event date mind ceremony thing date thing show week competition date percent time contestant week percent time date week percent time thing competition compare percent elimination rate elimination rate competitor date week percent time contestant week week date difference measure advantage time competitor chance elimination week week date advantage week chart probability contestant date week example person week roseless week10 percent chance week chance elimination week date bachelorette league idea favorite analysis takeaway firstimpression favorite pick winner date week oneonone date season twoonone date mean contestant someone week season bachelorette air night grace mohs research piece chow meena ganesan wezerek ella koeze wezerek')
+
+('VBD', 'learned televised rose scripted structured helped owned noted went received rose left felled rose rose dumped rose removed eliminated rose rose rose rose went went made rose made rejected rose invited accumulated rose highlighted took picked rose invited eliminated terminated left eliminated rose found reduced remained crowded went took rose rose rose rose rose rose rose eliminated awarded rose rose looked happened rose rose rose rose rose eliminated rose happened rose rose rose rose received rose eliminated contestant rose learned rose rose toast rose contributed fivethirtyeight')
+
+('VBG', 'analyzing assuming remaining going ending dating dizzying looking dating weighting remaining surviving trying playing going getting getting proceeding winning surviving keeping winning getting leaving winning looking receiving preparing going')
+
+('VBN', 'filed published named given used made owned logged rejected allocated given received considered invited charted designed rejected gone come come shared given given eliminated given eliminated given eliminated')
+
+('NNS', 'data data data data data distributes odds data ettes soules twoonones people manages')
+
+('JJ', 'monday previous unprecedented subject final solid cultural watch unknown opposite lucky contestant nut1 clear first motif contestant frequent subject contestant motivated true right second espn walt contestants3 quit7 hard ceremony ritual contestant want next particular third essential crown early favorite coveted impressed awful single final recent final half reach final overall final inspire precious maximum curious early strong assigned contestant dark pink early final evident specific worthy special statistical brutal available come mean great ondate half percent bloodthirsty hunger gamesstyle stop next contestant oneonone all8 good valuable early four9 survive show average overall extra helpful contestant last final nick vomited kiss endofepisode mere contestant receive active important give distinct many next ceremony neutral negative positive essential positive grab positive negative recipient next neutral next positive negative contestant several temporary relief subsequent subsequent next advantage maintain steady contestant next fantasy contestant essential great identify early poor contestant valuable past love third contestant final premiere monday tony rachael dottle graphic')
+
+('VBZ', 'bachelorette remains allows lauren grows happens')
+
+('VBP', 'elusive give need need make lindsay make spend tend tend length make spell sink contestant continue receive show want offer show make')
+
+('VB', 'become forget establish kick buy')
+
+('JJR', 'viewer higher smaller larger fewer winner earlier')
+
+('JJS', 'best grossest least least')
+

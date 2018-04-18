@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2209
+Raw number of types: 681
+Raw Type token ratio: 0.30828429153463105
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1145
+Number of types: 553
+Type token ratio: 0.4829694323144105
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tennis tick tock github github datatennistime rafael break towel thibault camus rafael break towel thibault camus champ rafael slowest djokovic murray hand foot speed speed ball racket play point tennis baseball tennis clock time match player start finish topic year play darkness rain murray friday match storm time winner match illustration pace speedy roger federer gael point defeat jack sock hand serve baseline foot racket knock clay racket hand face area hand shirt forth slams2 shrink time rest throw match television patience tour play create slowdown sign sport question length match time rally access tennis analyst jeff sackmann match match available3 effect year baseball match building point5 part success andre court game play point number match fiveset djokovic game speed year time year play point level surface grass grass sport time require recovery clay year surface difference player point difference tournaments7 pace analysis time number player pace time time point smartphone stopwatch function serve time serve time analysis correlation time part time company time djokovic murray join lendl john correlation career percentage speed federer wimbledon champ goran analysis player pace career anyone change pace play pace match10 time topic time response question mine news conference think quicker time year murray mean time head serve play murray nadal time today pace style bernard tomic pace throw speed everyone weapon rosol czech player rhythm wait pace play washington post game ball toss matter monday match sock caught news conference promote pace analysis time wimbledon champ play agassi player fivesetter match fivesetter watch tennis champ marin half time chang champ pace doesn rafa cash wimbledon champ history game time walk baseline nonetheless rush player slowest cash baseline today nothing break rally breath')
+
+('NNS', 'matches data data players years wins sets players floodlights days matters matches monfils hours minutes seconds points minutes seconds seconds parts shoes balls others shorts ears things shorts players seconds serves players opponents games sets minutes schedules fans matters years rules rallies breaks data points factors data stats years stats women years all4 variables factors matches games blocks findings sampras serves battles seconds amounts minutes points hours minutes cries umpires violations seconds matters tournaments rallies players dustin matches seconds years estimates players events players points stats points players points rallies monfils outliers points rallies data players quantities players matches points8 puts players players multipleslamwinners connors mcenroe cohorts times players players years open years years rules matches knows seconds tactics things questions players plays points opponents spin days points figures spectators sports ones players servers outliers greats seniors explayers didn hours hours minutes days players michael sweats players points players thinks players spectators')
+
+('VBP', 'take play consider rafael point fast1 serve exceed lose stretch slower take length have tour tour have take regression github pete doesn have matter massu github take break fast engage show nadal plays check average jimmy courier relative find have have request know serve know push ball have lukas like break have want sense take ivanisevic coach blame chang relative sport have')
+
+('VB', 'bialik keep squeeze have force disadvantage serve serve play good tease sound take play play become spend serve move towel slow')
+
+('VBN', 'filed been finished fourset required cleaned missed hundred bestoffiveset worked compared expected been been removed supposed been annoyed squared liked ended used catch')
+
+('JJ', 'nadal djokovic french open nadal djokovic french open ninetime french open nadal last average novak average gotten andy other long long urgent french open roof djokovic semifinal fourth imminent local final much monday paris fast nadal other nadal usual ritual right rubbed forth same second grand threshold first tactic several slow long little other easy github last aren enough long last long uploaded side other baseline average else equal much extra typical australian open final nadal next encouraging call wimbledon clay other much brown slowest much official affect much much epic such slow many long little trusty long french open point high large slow good nadal fellow ivan slow relative great ivanisevic average same actual such pressing know interesting last french tour nadal umpire enforcement slow much other slow tired australian tomic american querrey return popular good such first errant nadal retired joint tournament ivanisevic fast fast open cilic french open ivanisevic nadal nadal needed young taught slow protracted wrong long')
+
+('VBZ', 'takes plays takes plays takes does goes takes lacks runs determines matches affects takes appears encourages takes takes play9 maintains plays gets wishes rallies')
+
+('VBD', 'roger slowed played suspended finished finished took went tapped rejected offered bounced picked dried rocked served allowed called cracked studied posted servedandvolleyed rushed sped shifted slowed took took raised answered sped remained were were posted went timed took correlated took showed were played assumed vexed said were peeved asked granted said grew asked said said told said said said told sped slowpaced said recalled took said guessed said said least said')
+
+('JJR', 'federer faster slower fewer more longer less less bigger slower better faster more')
+
+('VBG', 'talking talking deciding taking including picking rocking throwing testing enforcing thrilling using stopwatching correlating starting serving capturing using suggesting adding playing winning talking talking upcoming taking counting thinking going mixing changing serving waiting forcing playing taking defending taking')
+
+('JJS', 'most biggest fastest fastest slowest fastest fastest least slowest fastest fastest least greatest fastest sweatiest')
+
+('NNP', 'querrey')
+

@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1038
+Raw number of types: 394
+Raw Type token ratio: 0.37957610789980734
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 393
+Number of types: 249
+Type token ratio: 0.6335877862595419
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'look clue presid harri file visibl primari github github datapotentialcandid hillari clinton react singer toni bennett introduc robert ceremoni york jason decrow figur littl figur date potenti honest intent person sit interest longterm relationship rick santorum seriou news contract start recur featur person definit consid rule run event ralli fundrais meet hampshir earli state mani nation primari poll includ look statement rel intent look event action speak louder word ground iowa hampshir earli earli end run look poll polit observ idea run1 score everi potenti includ nation poll sinc midterm side martin malley berni sander webb score highli measur explor activ visit iowa hampshir visit plan perhap importantli base decis clinton someon clinton vice presid visit earli state run nation poll clinton everyon assum visit earli state pollster hedg democrat field person clinton caution probabl hand poll subtl differ warren side pictur muddl bush mike huckabe rand paul rick perri santorum includ poll explor visit earli state especi paul perri santorum alreadi campaign trail group chri christi scott walker reportedli assembl campaign team carson cruz bobbi visit earli state rubio impact pollster lag case carli fiorina mitt romney potenti campaignrel list mani survey visit earli state consid romney washington post quickli campaign list romney scorecard statement paul ryan doubt john inact state point plan number regularli chang romney effort becam race begin dhrumil mehta contribut articl')
+
+('VBP', 'go hope go want find look look elect januari seem hillari think speak think go seem seem make take seem quot say go write run')
+
+('NNS', 'data data variabl midterm warren jindal marco cours warren')
+
+('NNP', 'kennedi kasich kasich')
+
+('VBZ', 'rippl logic elizabeth includ')
+
+('JJ', 'presid candid other lucr answer candid serious unsur lean polit iowa straightforward earlyst candid respect close candid democrat sinc biden everi peep recent warrant includ everi tuesday previous expect poll republican vast major true hard sure serious bush skeptic indic candid recent pollster certainli apparatu public much earli direct updat much articl ryan declar seriou white hous')
+
+('VBG', 'fling')
+
+('VBD', 'said held candid said said made said said said made hit said fiorina said put made said basic said')
+
+('VBN', 'run run made')
+
+('VB', 'run test go move')
+
+('JJS', 'honest least least')
+
+('JJR', 'fewer')
+

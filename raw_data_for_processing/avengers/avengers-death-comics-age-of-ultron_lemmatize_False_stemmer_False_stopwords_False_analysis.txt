@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1071
+Raw number of types: 431
+Raw Type token ratio: 0.4024276377217554
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 517
+Number of types: 332
+Type token ratio: 0.6421663442940039
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'joining jumping asking getting going avenging realitywarping talking kicking shapeshifting being destroying measuring getting jumping building avenging avenging king occurring destroying merging speaking having portraying')
+
+('NNS', 'avengers movies data github data dataavengers spoilers avengers spoilers questions avengers theaters avengers films years films actors contracts avengers fans years friends issues criteria allies friends cases fakes friends years writers adventures avengers adventures things comics avengers characters avengers people stories avengers comics avengers heroes deaths occasions richards travelers times avengers avengers android times times avengers years fans comics months months months comics throes universes universes casualties movies avengers studios rights')
+
+('NN', 'fourstory building walt hickey article anyone point universe number number thing book death fleeting health insurance coil death books3 death chill someone everyone character life model decoy robot character future character stasis tube pocket dimension onslaught someone consciousness killer alternatedimension self process marvel wikia mortality rate team analysis time team5 percent team fall chance membership card fourstory iron hulk captain thor hawkeye widow scarlet witch quicksilver vision course time fact hawkeye recovery rate death roster avenger life insurance divine avengers7 loaf ezpass comeback franklin scarlet witch side life chaos reaper colleague deal time death chance member stint afterlife chance death8 earth616 marvel janet dyne operation mortality rate member death rate annihilation couple captain avenger witch magic weird shit thing truly marvel character')
+
+('VBN', 'filed researched involved left couple learned shuffled dried considered shown implied killed hidden killed updated listed signed counted dragged based built been destroyed given named')
+
+('VBP', 'github note ultron have fear have handle character closest believe dead iron reader dead decide counterearth dead robot analyze have didn jocasta expect marvel know watch ultron performer')
+
+('VBD', 'conceived planned started signed died died killed died sent merged died happened combed joined found died joined died died made were stayed were made returned recovered recovered')
+
+('JJ', 'intentional ultron cinematic next hasn have dead comic past fantastic mortal comic dead skrull alien hulk sent follow dead weird current former percent nobody safe screen black single twice remarkable first other total unlucky meat individual good grim tempt many first percent second third universe overall current former permanent next several accompanied next civil bite scarlet tempestuous pull only')
+
+('VBZ', 'exceeds appears thinks avengers knows')
+
+('VB', 'define know didn follow keep increase remember kill')
+
+('JJS', 'least least')
+
+('JJR', 'toptier avenger')
+

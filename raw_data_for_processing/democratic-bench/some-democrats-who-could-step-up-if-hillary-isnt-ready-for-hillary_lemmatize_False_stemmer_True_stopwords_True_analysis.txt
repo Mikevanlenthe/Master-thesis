@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 904
+Raw number of types: 439
+Raw Type token ratio: 0.4856194690265487
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 390
+Number of types: 252
+Type token ratio: 0.6461538461538462
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'democrat readi hillari harri elect github github datademocraticbench advis treasuri secretari william roll call clinton probabl presid probabl thing clinton falter scandal health problem berni sander webb prepar possibl exactli question democrat bench look question fundrais money quickli money decent proxi appeal strength part reason power forc democrat parti case simpl fundrais number stori factor run statewid feder competit election1 size donor base2 variabl mind campaign rais cycles3 outperform fundrais totals4 besid democrat leader senat democrat senatori campaign committe chair menendez leader harri reid vice chairman chuck schumer mani greatli outperform fundrais talk presid democrat beat amount amount rais differ andrew cuomo reid chuck schumer deval patrick jeann clair mccaskil casey tammi baldwin chri murphi donnelli hirono patti murray gillibrand jeff merkley cori booker tomblin tester mike beeb john kitzhab schatz warren patrick unlik includ poll prolif fundrais rais cuomo patrick coast donor base name pop senat rais money campaign respect clinton journalist fact darl progress democrat parti term state specul easili minnesota overwhelmingli blue state year democrat nation number democrat tammi baldwin cori booker gillibrand chri murphi bid booker gillibrand despit term money subject talk democrat sever peopl bench line step nation stage chanc baldwin booker gillibrand murphi race')
+
+('VB', 'step step need rais rais keep perform control expect run wonder rais happen futur')
+
+('JJ', 'hillari file brown elizabeth presid special nomine major light malley powerhous weak entrant organ senat clear tell whole candid incumb fundrais much senat last parti former minor caucu candid normal full actual harri brown menendez shaheen brian cuomo deval wealthi east surpris brown minnesota manag crucial subject presidenti tough actorturnedpolitician white hous list rel young last offic full littl white hous overal particular young')
+
+('NNS', 'data data warren warren warren democrat data candid franken go fundrais')
+
+('VBP', 'sherrod assist go go polit come realli abil affect look governor expect expect contend expect expect rais steve expect franken reelect make exceed expect')
+
+('VBZ', 'hillari elizabeth elizabeth')
+
+('VBN', 'come franken seen wellknown given')
+
+('VBD', 'thought senat sherrod kirsten andrew sherrod kirsten')
+
+('JJS', 'homest least')
+
+('NNP', 'democrat earl')
+
+('VBG', 'wing swing')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1683
+Raw number of types: 549
+Raw Type token ratio: 0.32620320855614976
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 739
+Number of types: 368
+Type token ratio: 0.4979702300405954
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'blatter reign fifa help silver file world soccer github github dataeloblatt nation soccer team game stagnat tenur fifa presid sepp blatter bradley kanari getti nation soccer team game australia januari stagnat sepp blatter bradley imag defend sepp blatter fifa presid announc resign week wake soccer depart brave soul tri branko milanović development economist citi graduat center regrett decentr power blatter game rest world soccer power fifa structur corrupt clearli relat countri vote principl alloc fund fairli countri comoro brunei money china blatter command loyalti fifa member world popul soccer soccer revenu stream problem despit earmark soccer fund blatter soccer play field success pitch play countri domin littl progress asia perhap regress poorer countri becom competit soccer rel anyth dispar blatter becam presid rest analysi compar rate countri nation team june blatter presid day world background rate rate team github look region countri divid accord continent confeder fifa3 confeder list rate countri descend order popul confeder average4 europ uefa south conmebol soccer contin europ germani improv nation team sinc declin slightli itali russia contin chang blatter averag rate popul rate blatter howev improv brazil rate chang conmebol countri argentina chile colombia improv rate point interest conmebol poorli vote member percent world audienc rest world thing success confeder concacaf improv rate point sinc partli continu nation team sinc unit state mexico concacaf popul member confeder improv averag news soccer fan argument help wealth concacaf caput confeder confeder contrast littl improv soccerwis world countri draw losses6 world ghana advanc knockout stage rate inde slightli year team averag rate blatter world team doubl number particip contin host world time japan nation mostli member field nation team rate world china team stagnat world histori woman team rival unit state germani regress india meanwhil world mani year descript countri indonesia pakistan oceania confeder improv perform sinc poorer member confeder declin count asia check world record team rest world concacaf match europ world cup contest blatter rest world loss europ south point match8 slightli world cup blatter predecessor joão havelang progress steadili point match rest world world perform blatter world cup nation improv perform rel chart divid countri base caput track rate chang sinc caput averag chang pattern gain ground quintil percent countri rate point bottom percent point number highpopul countri rank percentil china india indonesia soccer program result play10 question gain ground desir outcom alloc development fund regard popul dollar countri peopl evid countri popul averag rate unchang perhap fifa fund differ perhap money earmark soccer use plutocrat soccer program')
+
+('VB', 'soccer seem develop develop find consider develop blatter spread richest expect develop develop')
+
+('JJ', 'poor nate januari asian australia imag asian hard last global corrupt investig justic fifa corrupt contribut spread tradit european south american govern polici evenli much major minor audienc fifa evid level measur intern european south american evid sinc simpl fifa articl first perform population5 america domin individu countri turkey other whole littl overal uefa ident america much uruguay countri percent fifa north american averag mexican good north american africa african entrant overal asian continent asian first korea howev asian perform declin countri qualifi major global qualifi poor popul asian final defect saniti list america7 draw america accumul final next quintil gdp9 much countri declin particular improv judg intern last countri highpopul clear fifa much peopl virtual small corrupt organ enrich local countri')
+
+('NNS', 'data data chines chines kanarisgetti univers repres data repres africa wors expans includ wors improv incom nigeria')
+
+('VBN', 'shown shown made grown seen seen given shown seen seen seen given given')
+
+('VBP', 'york brazil pretti averag use remain reflect threequart help combin win combin seem mostpopul come hold averag win increas fail make')
+
+('VBD', 'wrote becom took weight weight took stori populationweight held took south havelang weight populationweight somewher caput lowpopul rel')
+
+('JJS', 'least least largest closest highest poorest best poorest least')
+
+('VBZ', 'repres repres repres expens')
+
+('JJR', 'wealthier higher better better lower poorer wealthier wealthier blatter')
+
+('NNP', 'zealand')
+

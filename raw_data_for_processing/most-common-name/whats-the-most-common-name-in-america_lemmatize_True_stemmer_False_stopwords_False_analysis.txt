@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2080
+Raw number of types: 612
+Raw Type token ratio: 0.29423076923076924
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1079
+Number of types: 463
+Type token ratio: 0.42910101946246526
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dear common america common first lastname united common north real want last name american separate name able third common full sophisticated different common first first social alive actuarial many bos similar typical american various brittany considerable percent hispanic half foreignborn common common hispanic methodological able make sure hispanic popular first american first diffuse le statistical imaginative whole american first diverse percent american list next straightforward american last present american past ethnic ethnic individual able racialethnic name4 percent white surname garcia hispanic white same overall white percent hispanic overall hispanic major hispanic white proportional garcias many first common american surname name total surname smith adjustment last independent variable other american particular first lastname dice related other illustrate common first last probability neat little first important wrong basic demographic certain first last surname american breakdown racial ethnic percent american surname white surname hispanic first american last spanish southern simple first lastname white simple basic mark hartman little different strong racial ethnic first last name independent american american hartman basic much simple underestimate particular hartman click other american simple le bold such unpopular extend notice other improbable couldn name unlikely lott american surname simple double huge clichéd last statistical certain first independent certain last simple likely likely basic likely second dramatic independent common full hartman mean common probability united reckon unique dearmona')
+
+('VBN', 'mona filed mona stitched named named born needed adjusted calculated based reflected unadjusted labeled given published changed named come called called multiplied called miller captured named called adjusted expected used answered')
+
+('JJS', 'most most least most most')
+
+('NN', 'name mona chalabi hope number help github github datamostcommonname illustration joel plosz illustration joel plosz combination state john name george yorkshire dear kieron headscratcher list better time money work description piece database surname john name america reality colleague technique conclusion name america name security administration database date problem none baby minnie today death account number baby year life expectancy figure nate silver methodology name life expectancy popularity time instance woman chunk population wasn name database baby name count immigrant latino country population mostcommon name data state correction factor name state population detail footnotes1 latino immigrant result name calculation number name2 name male name distribution female name jargon parent baby girl name name surname census bureau database number surname3 problem nomenclature year account population number instance surname growth group example surname smith percent number smith rate population ditto garcia share garcia rate surname population percent population period share population share smith calculation name fashion surname change rate surname mile smith johnson tricky number surname probability number country chance michael chance figure probability michael smith something column methodology crap death rate immigration population growth treat person name name nothing number combination name point name country chart reason fact name census bureau group show percent rezendiz fact name year hartman associate professor illinois university test intuition hartman idea look combination page website probability reality probability didn choose name table census record look doe show factor name thomas name example chance thomas rodriguez percent thomas rodriguez number name percent probability probability prevalence name matrix expand gem chart reveal idea order number john johnson david davis thomas thomas william probability alliteration mark martin daniel davis parent name list name combination computer factor ethnicity detect matter plan daughter mine event surname offense john smith percent phone book probability blow figure history placeholder name byname blandness step account fact chance name john chance name estimate name combination account hartman research combination probability result michael smith name place change example probability name maria smith percent skyrocket name combination analysis github page number help george name state move mona question fivethirtyeightcom datalab538')
+
+('VBD', 'andrew set doesn andrew tried reached christened looked tried used looked included started took found were were were moved looked were assumed grew grew caused grew turned showed distributed were were tried found were rodriguez likelihood found called were wired andrew rose were wouldn took dropped bypassed were posted were')
+
+('JJR', 'flower answer flower younger higher easier more slower more lower lower flower fewer more')
+
+('NNS', 'data data data james data people data maria data data surname people aren publishes surname heimerl maria maria people williams james maria data maria maria data people andrew')
+
+('VBP', 'dear smith have explain smith think smith ethel live make tend name adjust go go clear tend have hear have look know affect think emeritus phonebook appear suffer become smith garcia garcia correlate expect garcia hope suggest have send')
+
+('NNP', 'kieron')
+
+('VBG', 'going using factoring varying focusing according having reshuffling dividing being having being guessing rolling misleading using having being searching using picking calling being having having taking according according')
+
+('VB', 'make take have have crap take suggest name suggest change suggest suggest rank kieron like')
+
+('VBZ', 'corrects tends appears assumes appears')
+

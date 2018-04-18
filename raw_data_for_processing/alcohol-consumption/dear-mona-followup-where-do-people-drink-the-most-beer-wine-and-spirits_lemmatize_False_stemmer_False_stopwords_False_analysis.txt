@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1117
+Raw number of types: 441
+Raw Type token ratio: 0.39480752014324083
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 585
+Number of types: 344
+Type token ratio: 0.588034188034188
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dear nepalese rice nepal niranjan know many islamic likely international interested national type other used consumed comprehensible last liter average content average standard sizes many drunk full lengthy table french wine other namibia germany average fluid normal hard average grenada other average tequila storm wwii vodka simple green opposed such caribbean available popular email such national early american previous firm national other alcoholic take popular 20th perishable technological different international other other muslim dearmona')
+
+('NN', 'mona followup beer chalabi dataalcoholconsumption wheat beer field chunnikhel katmandu june shrestha friday question reader alcohol percentage lifetime world world health organization abstain alcohol consumption health organization drinking data average alcohol consumption country consumption beverage wine beer break consumption beverage government alcohol industry nation food agriculture organization database alcohol time pure alcohol alcohol size beverage beer person country drink percapita bottom article country person year drinking consideration wine consumption population france world country beer person measure liquor shotglass worth person year country russia ritchie king euromonitor detail country russia spirit vodka brand smirnoff vodka popularity marketing moscow mule cock bull ginger beer explanation availability state university professor scott martin grain food distillation wwii liquor scotch scarce push hurricane idea popularity institute alcohol alcoholism overall prohibition alcohol consumption person year year data wine consumption century beer favorite beer beverage availability price government regulation technology martin example beer martin century refrigeration beer transport beer alcohol alcohol consumption find table github question fivethirtyeightcom datalab538')
+
+('NNS', 'people spirits drinks data github data farmers people trends abstainers countries data people countries assumptions trends glasses data records statistics data liters comparisons numbers results glasses cans shots spirits countries terms results data conforms stereotypes people glasses glasses figures abstainers cans cans cans ounces drinks measures measures quartz data spirits mexicans sales numbers americans tastes spirits studies drugs bars drinks orleans spirits data shows gallons gallons tastes years spirits fluctuations factors innovations cans bars days choices ones countries people servings spirits countries countries populations data')
+
+('VBP', 'drink wine mona github drink work drink alcohol capita describes pure make show wine drink find consume wine remember capita take assume spirit colleague choose favorite phenomenon alcohol have alcohol briefly home american wine have have send')
+
+('VBN', 'filed compared taken compared used made needed imported been been consumed answered')
+
+('VBD', 'responded wanted conformed united ordered converted were consumed purchased took said created rose fell caught consumed said explained became looked followed recorded')
+
+('VBG', 'looking using being being knocking serving serving drinking beerdrinking including working according capitalizing changing according bowling going peaking rising changing bottling purchasing')
+
+('VB', 'mine know higher look vodka produce sell drank like')
+
+('JJS', 'least most biggest highest least most')
+
+('VBZ', 'wants spirits presents does demonstrates')
+
+('JJR', 'more more more more less easier more')
+

@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 618
+Raw number of types: 276
+Raw Type token ratio: 0.44660194174757284
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 245
+Number of types: 161
+Type token ratio: 0.6571428571428571
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'state walt hickey regionalism github github illinois argument state region state region west coast mountain state northeast region york anything philadelphia designation opinion midwest state territory view audience state survey march march respondent respondent midwesterner group identify state part thing worth core midwest everybody state question home preeminent city chicago percent respondent contrast survey state make group source source definition state state bordering minnesotan hoosier midwest span half respondent quarter pinpoint region error indiana iowa illinois core midwest vote population minnesota vote fuss missouri kansa half rest state anything territory region tribe subdivision diversity south south')
+
+('JJS', 'midwest midwest west midwest midwest midwest least midwest midwest midwest least midwest midwest')
+
+('VBD', 'filed cornfield seth southwest decided asked selfidentified targeted identified asked selected identified soontobereleased selfproclaimed spoke thought thought south thought thought asked pulled')
+
+('NNS', 'data data dataregionsurvey midwesterners midwesterners midwesterners people people people expands people')
+
+('JJ', 'savoy perlman regular united defined nebulous unsophisticated many fall find surveymonkey national first many sure midwestern midwestern southern adamant potential anecdotal several midwestern limited true second potential thought missouri arkansas south regret percent substantial percent much unclear true nebulous vast swath american solid easy break american midwestern south sure')
+
+('VBP', 'make bos consider make think yankee appear refer acknowledge')
+
+('VB', 'consider consider')
+
+('VBN', 'criticized selfavowed broadbased made expected come')
+
+('VBG', 'looking pulling grouping')
+
+('VBZ', 'illinois wisconsin seems')
+

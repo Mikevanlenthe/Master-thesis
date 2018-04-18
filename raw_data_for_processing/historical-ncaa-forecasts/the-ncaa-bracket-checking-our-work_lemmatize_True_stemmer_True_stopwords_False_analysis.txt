@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 993
+Raw number of types: 370
+Raw Type token ratio: 0.3726082578046324
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 491
+Number of types: 249
+Type token ratio: 0.5071283095723014
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'ncaa bracket check work silver file march mad github github datahistoricalncaaforecast mercer duke rashe sulaimon dure ncaa tournament lanc tournament forecast probabilist state defeat virginia call model michigan state percent chanc percent chanc intent purpos time duke percent favorit mercer week mercer time question probabilist forecast term thi calibr truth advertis time team percent favorit realli percent time tournament project year sinc formula chang veri littl period chang ad fifth comput power rate espn power index thi season reason baselin evalu game count play year includ playin game file contain predict import york time version game predict hindcast fivethirtyeight favorit percent time suppos accord model percent time level forecast percent percent confid result time tell everyth favorit game mercer favorit state virginia evalu thi break game bin bin base favorit probabl exampl contain game probabl somewher percent percent favorit databas ohio state percent chanc beat favorit percent game fact percent time year missouri state despit number work anoth probabl anywher percent team percent time fact game percent time team perform game contrast team probabl percent percent game percent favorit perform team probabl get cocki model probabl random chanc thi follow graphic result game confid result respect confid interv calibr deviat encourag check work judg result tournament result reason fivethirtyeight probabl buddi duke win year check work reader discov list kentucki winner nation semifin chart tabl text reflect result assist apolog error')
+
+('JJ', 'nate hallic shot basketbal imag ncaa michigan much give virginia other much edg last underdog technic long fivethirtyeight ncaa publish substant basketbal total thi total publish espn actual overal favorit macro calibr simul duke slim michigan intuit digit practic antonio favorit exactli thi norfolk percent favorit howev percent probabl favorit wrong visual perfect perfect signific overal true thi speak incorrectli connecticut chang correct appreci')
+
+('NNS', 'data data getti suppos le predict univers duke favorit wors wors rang calibr')
+
+('VBP', 'defend win win win have give find emphas have interv import favorit texa expect contain have differ explain statist know think have correct have')
+
+('VBG', 'king')
+
+('VBD', 'fivethirtyeight onli were fivethirtyeight were lost were were')
+
+('VB', 'call happen expect think be expect expect go result tell')
+
+('VBZ', 'cours doesn littl someth portray databas')
+
+('JJR', 'clearer more heavier better heavier heavier easier better')
+
+('VBN', 'upset been been been pretti drawn suppos been been')
+
+('JJS', 'heaviest')
+

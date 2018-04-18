@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1555
+Raw number of types: 643
+Raw Type token ratio: 0.4135048231511254
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 747
+Number of types: 476
+Type token ratio: 0.6372155287817939
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'rams questions data github data days parents sports fans colts supersonics closes rams years loves loves parents licenses siblings decades times seasons rams rams words fans fans options angeles watches dudes kansas supporters factors players crimes women data patriots standings firms benefits ourselves factors ideas podcasts matchups relations permutations rankings weights factors criteria suspensions players crimes women players players wins seasons years titleswins dollars fans uses miles miles tickets concessions terms promotions terms criteria players imperfections thanks packers data packers fans marks steelers chiefs patriots bills predictions rankings categories suspensions wins teams criteria rankings criteria data fans congratulations rams data rams')
+
+('JJ', 'dead answered sweet handmade early louis hometown next much ready personal immersed weak atrocious last louis last stan fellow lite real equivalent nice different high appealing live fivethirtyeight clear ideal terrible unlikely full other such violent possible neil full deep espn ultimate similar calculated component uniforms website able blythe embed margin20px http headtohead different voted sample extra next previous entire spent fanfriendliness uniform perfect benign behavior aggregate green surprising unique high team green buffalo dead last weight overall green indianapolis overall list green good many neil')
+
+('VBP', 'find github rams have oilers expos shop sport bruce stuck california rams give cheer fantasy chiefs leave have neil surveys listen espn find honesty team team reach onfield perfect manner kroenke camp include winner kansas england england blythe find spoken hope have')
+
+('NN', 'team blythe terrell datanflfavoriteteam sign hometeam spirit team question team road year question nothing football college basketball board cash seat game comfort1 football jerome bettis isaac time kurt warner marshall faulk show turf town boom football nextgeneration toddler game season2 hometown villain kroenke3 plug choice puzzle support version person team loyalty husband team crossstate city midwestern school york team city like game turn math problem editor choice search analysis hand colleague paine team support team ownership city fool team matter team board support team season breath analysis team magazine opinion research attempt franchise team identity ownership club fanfriendliness tradition form weight category importance fandom podcast discuss team blythe terrell apple code iframe frameborder width style auto maxwidth600px fivethirtyeightcomplayerwtp17496919 iframe factor case example choose player behavior versus ownership exercise times4 point amount influence process version ownership loyalty core community effort field likability team championshipsdivision history courtesy technology distance team stadium york team stadium louis price size market population quality venue frequency strength leadership stylishness watch paul lukas size market population blythe team instance dust analysis team football memory didn anger team chance cheer appearance ownership structure player likability future tradition aboveaverage pittsburgh city tennessee check team team team rating team player ownership player effort likability pittsburgh kansas city buffalo carolina seattle arizona baltimore exercise team rating category github trading blue gold gold experience sorry paine analysis video team')
+
+('VBN', 'filed been rolled left based known suspected committed graded taken conducted embed generated selected followed weighted listed excited attached')
+
+('VBG', 'holding eating learning ensuing making leaving fuming showing feeling longrunning rooting including winning plugging scrolling selecting teampicking parking according having')
+
+('VBD', 'showed rolled knew shelled took domed introduced went pulled hauled left were were knew went went pledged dictated seahawks were reflected created discovered height went mattered repeated personalized sorted weight weight projected settled unveiled scored offfield titans5 were gave projected came contributed spurned found')
+
+('VBZ', 'goes hits rams tickets bars categories canada uniforms wins suspends helps wins includes')
+
+('JJR', 'more more smaller better bigger')
+
+('JJS', 'greatest least most most')
+
+('VB', 'figure pick quantify turn have wash deal mind')
+

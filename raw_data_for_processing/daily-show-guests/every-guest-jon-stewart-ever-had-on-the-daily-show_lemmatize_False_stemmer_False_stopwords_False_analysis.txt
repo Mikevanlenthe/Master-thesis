@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 642
+Raw number of types: 313
+Raw Type token ratio: 0.48753894080996885
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 311
+Number of types: 230
+Type token ratio: 0.7395498392282959
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'guest stewart hickey president host show july york evan show episode show stewart mater graduation school wouldn shut show audience member washington metro record sanity stewart part show list1 guests2 google knowledge graph3 chair mind fusion everyone show today formula talk show list figure grace program presence presence presence show time show emphasis head percent government percent movie year couple plurality show show brian appearance march stewart')
+
+('VB', 'show look have')
+
+('JJ', 'walt stewart daily daily stewart last mary prospective tour late jammed other pretty hell daily interesting unique profile other monarchs standard first political dole other first several subdued military consistent much whole important outsized fifth military last represent daily denis leary last comedy central')
+
+('VBN', 'filed been started interviewed been changed relegated been been affiliated sucked fareed been come')
+
+('NNS', 'data github data datadailyshowguests airs years students elizabeth edwards friends people ways guests years friends muppets feels actors comedians years people visits performers years media figures authors figures politicians politics guests politics media figures years actors musicians comedians zakaria appearances williams times drops')
+
+('VBP', 'github alma walk restore stewart find show politicos have caught show count boss')
+
+('VBG', 'taping ending taping featuring helping growing leaving hosting happening filling showing promoting kicking begging')
+
+('VBD', 'tonight went attended changed pulled crosschecked meld talked started dominated shot appeared were started left came were were began followed tonight')
+
+('VBZ', 'roommates comedians guests')
+
+('JJS', 'guest guest')
+
+('JJR', 'more')
+

@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3659
+Raw number of types: 1112
+Raw Type token ratio: 0.30390817163159334
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1264
+Number of types: 858
+Type token ratio: 0.6787974683544303
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'kenley jansen model reliever nate silver baseball github kenley jansen highleverage year gossage baseball postseason spring statistic goose gossage halloffame reliever record goose clutch scoreless relief article definition goose correlation probability companion year leader goose league leader seattle rundown year goose situation result corey knebel goose pitcher▲▼ team▲▼ eggs▲▼ mehs▲▼ gwar▲▼ corey knebel kenley jansen diaz colome brad hand felipe rivero addison brandon kintzler minwas rodney raisel craig kimbrel archie bradley hector brad brach roberto osuna davis tommy hunter bryan shaw cody colphi vincent david robertson chwnyy arodys vizcaino greg holland kelvin herrera dyson sftex claudio hunter strickland michael jacob ryan tepera trevor doolittle oakwas anthony swarzak chwmil ryan madson oakwas chcdet dellin blake parker tony watson ladpit ramos mianym seunghwan matt belisle phipit carl treinen oakwas shane greene ramirez smith cletor strop aroldis chapman johnson brandon maurer britton mychal jerry joaquin benoit phipit casilla garcia tommy kahnle chwnyy david dunn david hernandez arilaa matt brett cecil jake mcgee mark melancon buchter kcsd koji mike montgomery danny farquhar chwtb enny romero tazawa pedro baez darren chris rusin adam ottavino wilson cory gearrin brad hader brandon morrow jorge rosa george sewald derek tyler tyler duffey marc peter moylan minaya cishek seatb middleton kela adam warren neftali feliz kcmil ross tyler clippard chwhou castro adam trevor hildenberger leone jose hansel edubray ramos siegrist phistl koda glover jeurys familia josh smoker scott alexander tony zych daniel hudson fernando salas laanym danny erasmo ramirez scott brandon workman jeanmar gomez cingrani cinlad jose leclerc tony barnette maton jake diekman blaine boyer jonathan holder perez wittgren chasen mcfarland krol shawn kelley hoover sergio romo ladtb chase whitley carlos diaz josh randall delgado fernando abad jarlin garcia robby scott jacob turner josh edgin aaron loup ellington jose verrett austin brice nate dustin mcgowan doug fister pruitt sammy solis josh bruce rondon altavilla wood blanton albert suarez jason grilli textor brad boxberger drake tuivailala aaron bummer daniel coulombe carlos estevez matt dermody jimmy yacabonis alan morris chasen bradford jenho tseng wood alec koehler chris rowley verhagen buddy baumann john brebbia greg infante jhan marinez milpit casey fien phisea travis wood rodriguez otero tyler olson carson smith austin maddox dario jake junis trevor cahill zach putnam schugel blach jamie callahan brock stewart kyle ryan kittredge eduardo flaherty jason motte grace victor arano robert gsellman jacob rhame ricardo rodriguez jake petricka castro francisco liriano stephenson ryan sherriff matt strahm leblanc daniel stumpf jeremy jeffress miltex boone tyler anderson taylor price robbie ross tanner kevin dillon gabriel moya jimmie sherfy morin yovani gallardo brad peacock jackson jackson cole matt cain miguel mcgrath kyle crick felix pena dillon despaigne chris tyler chatwood caleb smith jeff beliveau tyler wilson justin haley warwick frankie feliz sipp scahill winkler minter hoby milner zach duke grant dayton javy guerra josh ravin zach mcallister alburquerque chwkc jesse chavez john axford kevin shackelford ricardo goeddel jonathan broxton blaine hardy rafael montero akeel morris brent suter gabriel ynoa justin nicolino lucas harrell pelfrey parker bridwell brad goldberg ariel hernandez reymin troy scribner mayza mike clevinger goody frieri bryan mitchell giovanny gallegos ronald herrera howell jayson aquino stefan chrichton vidal craig clemin hector rosa chase jong bergman diego moreno ryne stanek cedeno moll jandel johnny barbato tyler mark leiter miguel diaz ramirez tyler pill vance worley buddy lawrence seator jimenez adam beck evan scribner ramirez shae collmenter garton seatb source seamheadscom efficiency standpoint season knebel diaz record goose mostever coincide replacement gwar season kenley jansen season singleseason goose replacement gwar year goose miller gossage mariano rivera perranoski troy percival willie hernandez kenley jansen doug corbett sparky baseball gauge jansen exception rule value pitch jansen season knebel gwar model usage pattern postseason jansen season relief goose instance lead cubs nlcs pace season hybrid jansen season postseason help usage season rest world series time percent season postseason increase median resume hunt year download')
+
+('JJ', 'modern many getty didn goose honor pitcher goose original formal major american diaz complete final goose broken golden final goose eggs▲▼ alex bosnym fernando miller iglesias neris joakim neshek nick minor alex devenski rosenthal sean wilson petit juan nicasio jose pedro bowman matt bush luis mike peralta ryan uehara junichi bedrosian alex freeman hendriks paul rondon juan kenyan hembree gregerson dominic alvarado ladoak kevin ramirez guerra tony okert nick dull brian avilan jumbo rodriguez dovydas neverauskas brian jose chafin logan grimm austin storen osich bryan alex green pagan francisco alvarez barrett wojciechowski jordan santos smith eric simon logan david chris young mccarthy jean luke socolovich kyle grady wilhelmsen michael tony garrett erik quackenbush romine runzler guduan bibensdirkx nick ernesto nuno rubby christian bastardo glasnow conley domingo german chris josh ryan perfect broken highleverage much goose regular total alltime goosetoric eggs rich abernathy lyle much mostvaluable relief gossagelike full regular marshalllike total didn perfect streak alive broken close chicago goose goose regular regular different extra creative regular extra notveryclutch sharp same regular threefold happy knebel eggs')
+
+('VBN', 'filed used called named paired finished broken blown broken steven antonio finished broken pitched tied broken finished used extrapolated been overused detailed')
+
+('NNS', 'data data situations situations closers images eggs eggs relievers saves eggs brewers knebel mariners stats stats stats soria barnes giles betances edwards givens blevins rogers barnes albers yates james kontos lyons craig hughes robles barnes torres fields torres jones martes brothers qualls lyles paredes jennings scheppers pounders machi maples montas james boshers simmons angeles dodgers jansen eggs eggs eggs dodgers jansen innings situations appearances runners times games things closers years wins wins eggs mehs sources relievers nowadays seasons jansen dodgers games innings innings playoffs eggs eggs situations eggs pitchers offdays playoffs patterns days situations nlds dodgers innings innings congratulations eggs data eggs pitchers')
+
+('VBP', 'github datagoose save harry find have milwaukee corey edwin find table save edwin lorenzen chris justin yusmeiro blake taylor norris wandy laasd pazos pitsf hector rzepczynski steve stammen heath chris carlos shreve ryan luis hector francis justin donnie emilio jake luis josh robert chwtb heller odrisamer hoyt gustave casey adleman kenley goose base weren gwar retrosheet provide pitch want need look playoff jansen wouldn provide have nlcs percent jansen goose broken')
+
+('VBG', 'searching pitching inning stripling duensing multiinning doing pitching advocating throwing')
+
+('VBD', 'glimpse justconcluded introduced added reed andrew wade kyle kcsd matt drew jared andrew drew drew chad chad andrew wade saupold kevin andrew chad santiago kolarek came used lined made entered pitched generated came appeared threw allowed used used used went')
+
+('VB', 'look goose harris kirby musgrove blake work keep recommend extrapolate enable viable result')
+
+('VBZ', 'gets doesn gets allen matthew phelps josh liam luke deolis ryan busenitz brooks stephens amir peralta adam proves innings ranks postseason')
+
+('JJR', 'better steckenrider bleier bolsinger further')
+
+('NNP', 'zach ziegler xavier')
+
+('JJS', 'best highest best')
+

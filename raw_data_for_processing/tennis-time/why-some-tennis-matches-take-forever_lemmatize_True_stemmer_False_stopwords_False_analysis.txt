@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2209
+Raw number of types: 681
+Raw Type token ratio: 0.30828429153463105
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1145
+Number of types: 530
+Type token ratio: 0.462882096069869
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tennis tick tock github github datatennistime rafael break towel play thibault camus rafael break towel play thibault camus champ rafael nadal player year roger djokovic murray hand foot speed speed ball racket play point tennis baseball tennis clock doe time match player win player start finish topic year floodlight play darkness rain murray friday match storm time winner match day illustration pace matter match speedy roger federer gael hour minute point rafael defeat jack sock hand point point fast1 serve part baseline foot shoe racket knock clay ball racket hand area hand shirt thing serve rocking player slams2 player stretch shrink time rest throw opponent game minute match television schedule patience fan matter play year rule create break slowdown sign sport question length match time point rally factor access tennis analyst jeff sackmann match year match woman aren available3 year match tease factor effect match take year baseball game regression match building block affect point5 part success andre court game play battle point amount minute point number match fiveset djokovic hour minute cry game speed year umpire call time violation year play point level surface matter tournament grass rally sport le time recovery clay player matter year surface difference player match point difference year tournaments7 pace estimate player event github analysis time player point official number player pace time point time play point player fast point engage point smartphone stopwatch function player serve time serve time analysis quantity correlation player time match part time put player company player time djokovic murray join lendl john cohort time player correlation career percentage speed play9 player federer wimbledon champ goran analysis player pace career anyone change pace play pace match10 time topic time year response question mine news conference year year think quicker enforcement time rule year match request murray mean time head thing serve play murray nadal time question today player pace style bernard tomic play pace point opponent speed everyone play weapon day rosol czech player rhythm point break wait figure spectator sport one pace play player post game ball toss matter monday match sock caught news conference promote tournament pace analysis time wimbledon champ play agassi player fivesetter hour match fivesetter hour minute watch tennis day champ marin player half time chang champ pace doesn sweat cash wimbledon champ player history game point time walk baseline nonetheless rush player slowest player cash sport baseline rally today nothing wrong player break rally spectator breath')
+
+('VBP', 'match federer go take lack play consider exceed lose run tour take length have tour have take pete doesn have massu break show average jimmy courier relative find have have know serve know push ball have like get have want sense take blame think have')
+
+('VB', 'take bialik take take take keep squeeze have force disadvantage serve serve play good sound take require take play take take check become serve server move towel slow')
+
+('VBN', 'filed set been finished fourset required cleaned missed set hundred bestoffiveset worked grass compared expected been been removed supposed been annoyed squared liked ended needed used catch')
+
+('NNS', 'data data monfils others data data stats stats all4 sampras dustin nicolas stats monfils data points8 multipleslamwinners connors mcenroe open know spin explayers didn michael')
+
+('JJ', 'nadal djokovic french open nadal djokovic french open ninetime french open last average novak average gotten andy other urgent french open roof djokovic semifinal fourth imminent local final much paris fast second nadal other minute second second nadal usual ritual right short face ear rubbed forth same second short forth second serf grand threshold first tactic several enough slow long little other easy github last variable long last uploaded early side other serf baseline average else equal much extra typical australian open final nadal next encouraging second wimbledon clay le other much brown second much affect much much such nadal slow many little trusty long french open point high large slow good nadal fellow ivan slow relative great ivanisevic average same actual such pressing know interesting last french tour tour nadal umpire slow much spend second tactic other slow tired australian throw american return popular good such first errant nadal outlier retired great joint senior ivanisevic fast fast ivanisevic open cilic wish french open ivanisevic nadal nadal rafa young taught slow relative protracted long')
+
+('JJS', 'slowest most biggest fastest fastest slowest fastest fastest least slowest slowest fastest fastest least greatest fastest sweatiest')
+
+('JJR', 'faster slower fewer more slower more longer bigger outlier slower better faster')
+
+('VBD', 'slowed played suspended finished finished took went tapped rejected offered bounced picked dried rocked served allowed called cracked studied posted tour github servedandvolleyed rushed sped shifted slowed took took raised answered sped remained were were posted epic play went timed took correlated took showed were played assumed vexed said were peeved asked granted said grew asked said said told said lukas said said told sped slowpaced said recalled took coach said guessed chang said said least said')
+
+('VBG', 'talking talking deciding taking including picking throwing testing enforcing thrilling using stopwatching correlating finding starting serving capturing using suggesting adding playing winning talking talking upcoming taking counting thinking going mixing changing serving waiting forcing playing taking defending taking')
+
+('VBZ', 'determines appears encourages maintains tomic querrey')
+
+('NNP', 'querrey')
+

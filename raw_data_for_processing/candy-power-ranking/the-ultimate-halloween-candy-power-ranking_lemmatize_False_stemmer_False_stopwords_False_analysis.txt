@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1822
+Raw number of types: 771
+Raw Type token ratio: 0.42316136114160263
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 792
+Number of types: 472
+Type token ratio: 0.5959595959595959
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'ultimate popular published social halloween simple adequate prepared latenight type good candy devised different scientific good type rest reese reese reese reese starburst grand caramel original milky sour hershey special junior haribo berry swedish fish sour sour tootsie tootsie sour payday twin original lemonhead nestle stix lemonhead happy daddy bubble good reese huge synonymous platonic halloween snacksized desirable pulled fatsecret myfitnesspal hardtofind nearby bulk spooooky truly hellish evident quality child mild internet descriptive peanuts crisped other biscuitesque full powerful statistical available general half great awful halloween ingredient sure desirable full beat percent percent crispy nougat hard table coef hypothetical caramel table hard little major percent obvious ridiculous scientific other exact ethical average same crispiness average contender average nougat sure major qualitative overall fruitiness fine near mutual sole frankencandy reese castle eastern european twix prometheus contemporary prediabetic next available interested')
+
+('NN', 'halloween candy power house neighborhood walt hickey halloween github github video christine laskowski tony contract provide offer help vengeance help weekend figure experiment candy wisdom crowd decide matchups2 survey anything sample candy field candy percentage peanut butter stuffed peanut crunch rolo milky patch dark ruth hershey milk chocolate hershey milk goodbar life patch roll snack mike quarter roll fruit roll caramel laffy taffy chew candy corn fruit caramel apple cola sugar cent coin sugar root beer plenty peanut butter ideal candy brand candy market research candy halloween price content portion sugar content series drugstore candy warehouse regression link price sugar price sugar something fervency stayathome peanut allergy ingredient rice component milk ball fruit candy lollipop strawberry thing typology hand access software market information regression variance quality work candy none matchup percent time data quarter dime chocolaty fruity caramel quarter candy type share value chocolate fruit caramel multipiece candy candy adjacent paragraph column candy chocolate percentage rise fruity rise percentage rise rice candy lollipop jawbreaker percentage form bunch difference note peanut caramel nougat candy rate fact percent rate question build perfect frankencandy information hand oversimplification process abomination hand dilemma stop frankenstein season percentage chocolate contender nuttiness crispy rice caramel rate taste percentage exclusivity fruity tootsie exception3 chocolate hershey baby ruth caramel milky peanut butter twix looming village home smush payday roll rice frankenstein idea halloween candy wonka consult abomination business')
+
+('VBG', 'ranking datacandypowerranking ring ring taking appearing bestselling dieting according rising being containing being trying trying entering')
+
+('NNS', 'treats data data treats masses tricks decisions people dozens varietals addresses people matchups miniatures snickers pieces pieces musketeers skittles krackel kids snickers mints goldbears nerds skittles duds savers gummies tricksters heads goldbears whoppers mounds bites cents smarties midgees twizzlers snacks chews juniors runts dots snakes rocks warheads smarties vines sixlets bons pops babies barrels busters chiclets beans spinoffs spots times candies others websites cases candies prices data candies data almonds nougat questions properties components giggles peanuts wafers competitors nuts points nuts wafers nougat points candies things snickers contenders points points contenders entrants peanuts almonds percentages points ones wafers points positives components candies pieces things points flavors pops snickers crispies')
+
+('VB', 'make avoid make coin come sugar take baseline have make modern')
+
+('VBN', 'filed scherer dissatisfied funsized voted generated funsized given baked funsized rsquared malted made answered explained expected ballpark based chocolate chocolate')
+
+('VBP', 'chow supermarket prefer best1 know know twix milky peanut crisper baby wild haribo almond trolli gobstopper tootsie welch fruit tootsie haribo werther dums charleston pixy chewy strawberry tootsie haribo dime super boston cups make chocolate contain nougat know have clue candy dime cetera expect expect expect bring chocolate expect have have have puffed throw form want fruity chocolate nougat wafer take call think have')
+
+('VBD', 'costumed wanted voted said midnight showed made went pulled perceived learned scoured were flavored were observed were beat crisped were assembled')
+
+('VBZ', 'halloween candy kisses bars candies nougat damn says bears peanuts simplifies knocks makes candy does brings result goes')
+
+('JJR', 'butterfinger better worse higher higher higher higher higher lower')
+
+('JJS', 'best')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2362
+Raw number of types: 624
+Raw Type token ratio: 0.26418289585097376
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1141
+Number of types: 473
+Type token ratio: 0.4145486415425066
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'statistical happy happy total distinct important statistical conditional lesson ready happy personal next alaska significant preferred nationwide available episodes1 stylistic grand total know classic didn happy basic individual joint deciduous coniferous same deciduous tree coniferous statistic conditional conditional clouds cloud cloud joint percent cloud same cloud many vast clouds cloud many cloud beach vast conditional other happy percent second tree several amenable percent snow percent footy little appear almighty happy little clouds excellent cloud percent little percent percent snow same deciduous lake ocean much contrary percent choppy ocean ocean likely average steve only useful certain other interesting similar different certain divide entire similar possible basic mixed first intuitive clear oval clear common iconic snow favorite paintings helpful main many final broad helpful interesting steward painted campfire5 painted ross ross preferred simple various complex rare boats unnoticed secret sign sure third paintings diminish calming')
+
+('NN', 'analysis work ross walt hickey github github databobross ross painting ross name permission ross painting ross name permission ross consummate teacher course television career show ross something probability analysis interview ross closest work consistency ideal ross daytona force time impact ross ross name permission ross rest ross ross store content water tags2 ross decade topline paint bunch paint almighty tree didn paint friend instance tree painting percent percent tree percent probability ross something something probability probability tricky percent ross percent contain beach percent contain beach information figure probability ross beach probability beach probability percent case probability percent want probability beach cloud pitfall probability ross beach majority beach probability ross beach percent majority probability ross answer probability ross tree friend tree chance percentage ross percent percentage almighty mountain percentage ross mountain chance percent ross question percent ross cloud chance percent chance percent ross cabin chance chance ground percent percent water time percent ross percent contain river stream percent contain beach beach percent ross seaside percent feature ross steve percent percent sort information tool idea determine analysis biology consumer marketing population rest identify series analysis paintings3 look sense winter cluster whitespace frame cluster theme banner ross beach scene image season foreground season sense sense tell ross kind painting cluster host ross cluster bridge cluster fence barn cluster waterfall ross example focus ross program cluster mountain cluster analysis tool kind ross work annette kowalski ross painter work4 something review person silhouette tree campfire time person ross name permission analyze elaborate manmade work ross dock lighthouse windmill something kowalski notice chimneys person call tomorrow chimney season episode winter cabin cabin center column fact chimney doesn point company painting majority ross interest painting voice')
+
+('VBN', 'filed reserved used reserved used painted born reserved used featured based analyzed painted given given given given given given given given figured given given covered given given painted given lake based used featured tagged painted ovalframed called discovered defined reserved used painted gone represented featured')
+
+('NNS', 'spreadsheets data trademarks rights trademarks rights fans trees mountains clouds works elements scenes themes thousands data points data concepts limitations data perm spreadsheets data collaborators fairbanks years subjects trees mountains lakes paintings trademarks rights episodes reruns stations images paintings keywords trees elements structures choices paintings artists data results trees lakes numbers figures oaks spruces trees mountains times episodes probabilities tags probabilities events paintings paintings data paintings paintings things people probabilities paintings clouds scenes paintings paintings beaches questions paints paintings paintings mountains friends mountains paintings mountains paintings hills paintings mountains paintings cloud cabins paintings cabins conifers trees paintings sounds didn paintings waves paintings cliffs rocks paintings paintings data vectors groups points data researchers sorts areas plants people subsets data subgroups paintings clusters paintings paintings results clusters winners paintings paintings paintings scenes kinds clusterings images scenes clusters paintings paintings paintings flowers paintings paintings clusters tags groupings flowers times clusters paintings trees paintings mountains data answers data hundreds landscapes paintings times people people woods data shows paintings trademarks rights structures cabins fences states barns structures bridges times mills episodes structures fans cabins people paintings cabins chimneys kowalski runs supplies viewers people')
+
+('VBP', 'data almighty fluffy show teach hair body have clouds snow steve ross find ross speech peaks know find tree appear know contain contain contain find know contain clouds know beach face beach have percent contain contain cloud have contain mountain contain ross sixty have mountain feature cirrus feature lake paint contain have ross clouds have steve apply allows know make cluster snow ocean make whole guest steve cluster identify appear steve least trees learn ross work think kowalski ross disrepair appear ross chimneys didn want check have aren watch have')
+
+('VBZ', 'images images seems images continues mountains mountains ross snow hills paintings ocean lakes kmeans falls makes remains images appears chimney comes sells believes')
+
+('VBD', 'guided painted decided found defined joined stationed spent featured painted coded manmade died painted expected painted favored painted appeared showed painted painted called painted painted painted painted painted painted painted painted painted painted painted painted preferred painted painted were seemed data wanted were were were painted were knew appeared were knew founded confirmed included excluded said featured painted painted painted said added found took appeared rossbranded said')
+
+('VBG', 'painting relying providing clustering painting painting using describing framing according depending assuming following pressing painting charming painting painting comparing clustering clustering clustering segmenting painting clustering hoping containing containing containing containing defining painting clustering appealing walking painting according going hunting painting painting')
+
+('VB', 'create mountain cabin find find tell kowalski')
+
+('JJS', 'guest guest least biggest least least biggest most')
+
+('JJR', 'weather more more more prefer more more')
+

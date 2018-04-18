@@ -1,0 +1,39 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 560
+Raw number of types: 247
+Raw Type token ratio: 0.44107142857142856
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 243
+Number of types: 146
+Type token ratio: 0.6008230452674898
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'state walt hickey file region github github dataregionsurvey skylin dusk marc perrella result audienc poll state peopl compos answer essenti nobodi keep argu subsequ poll determin state despit debat question baltimor accord selfidentifi survey isol respond identifi ask state sampl audienc poll half nation state consid region south accord censu bureau florida georgia virginia virginia alabama kentucki tennesse arkansa louisiana percent respond state sever consider state state bare pull percent vote percent respond identifi georgia alabama percent place mississippi louisiana south carolina tennesse carolina garner percent remark content mess texa percent support virginia arkansa kentucki hover percent state accord pull pathet percent vote mexico walter maryland maryland wellappoint consist tradit feder govern censu design addit maryland oklahoma virginia pull le percent support despit fact learn judg feedback tuesday peopl place certainli passion mostli exclud geograph equival pick dodgebal')
+
+('JJ', 'south tuesday publish surveymonkey selfavow midwestern surveymonkey south conclus south mile north southern wrong southern south surveymonkey individu half north south carolina delawar texa identifi southern first southern certain nearli southern south florida north southern southern actual southern white southern welcom north stop skeptic south disagre south south govern post exactli missouri south appear last')
+
+('NNS', 'data data carolina wors censu')
+
+('VBP', 'atlanta think seem think start maryland seem give arizona say take know know go')
+
+('JJS', 'midwest west midwest west midwest')
+
+('VB', 'know truli allow rest')
+
+('VBZ', 'ask')
+
+('VBD', 'sampl love blog')
+

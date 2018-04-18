@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 702
+Raw number of types: 330
+Raw Type token ratio: 0.4700854700854701
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 368
+Number of types: 249
+Type token ratio: 0.6766304347826086
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'part america walt hickey food github github datathanksgiving2015 turkey bird farm sonoma california year justin sullivan getty tale mass consumption point santa claus float macy parade week christmas music radio food spirit holiday nation bird audience poll pork roast beef cursory percent meat meal poultry side region southeast home sauce region percent pick variety side percent region percent country dinner percent nation southeast percent region thanksgiving menu country england mind squash percent table percent nation finding pursuit gronk endorse squash something dessert region americas america apple england america sweet potato nation shit variation percent family ditch party dinner hang school percent time card')
+
+('VBZ', 'eats eats enjoys consumes unites didn')
+
+('VBG', 'thanksgiving thanksgiving welcoming finding thanksgiving thanksgiving thanksgiving thanksgiving saying going having losing demanding buying thanksgiving checking doing')
+
+('VBN', 'filed chicken come compared compared done download')
+
+('NNS', 'data data images thanks refugees shores media games others canadians plans commemorates turkeys things factions traditions respondents shoutouts dishes rules respondents dishes distinctions respondents states states respondents regions prefers carbs respondents traditions regions respondents sales friends respondents associates kids data')
+
+('JJ', 'last give foreign american parade secret sure third peel bargainbin surveymonday main turkey other other white past regional consumed side dish definitive cranberry likely atlantic texas central southern necessary percent only cheese percent overall only confusing whole pumpkin pecan america cherry dessert american little solid black friday great little early early high thirtyseven facebook')
+
+('VBP', 'celebrate identify midst have start bring centerpiece have cornbread include leave leave have know')
+
+('JJS', 'least rest west')
+
+('VB', 'carve check form dish shop worth')
+
+('JJR', 'deeper homemade cauliflower more')
+
+('VBD', 'canned assorted said said were')
+
+('NNP', 'middle atlantic')
+

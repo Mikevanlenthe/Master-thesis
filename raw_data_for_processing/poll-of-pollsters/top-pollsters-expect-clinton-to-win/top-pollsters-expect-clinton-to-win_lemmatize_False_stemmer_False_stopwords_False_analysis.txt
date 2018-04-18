@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1284
+Raw number of types: 503
+Raw Type token ratio: 0.3917445482866044
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 683
+Number of types: 384
+Type token ratio: 0.5622254758418741
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'pollsters pollsters highlights people firms people firms people polls forecasts pollsters questions people pollsters pollsters models pollsters voters pollsters points weeks things pollsters republicans seats pollsters seats pollsters democrats seats pollsters hands seats predictions chunk pollsters polls polls preferences totals polls days points pollsters polls polls reasons pessimists voters supporters candidates misses primaries supporters polls candidates accusations women women insights pollsters states demographics models patterns groups models pollsters aren states polls pollsters pollsters presents demographics groups matters mounts votes results findings respondents polls media polls opinions angeles times voters choices variables pollsters tables ratings pollsters')
+
+('VBP', 'expect anticipate conduct poll responded1 weren support believe start think predict have collective control think come average think thirdparty bias desire trump catch florida want comeback alaska need dornsifelos poll wish')
+
+('NN', 'clinton carl bialik election election belief clinton president control house senate polling election result poll polling country database portion campaign state industry questionnaire list winner election clinton forecast chance clinton chance pollsplus pollster poll clinton clinton vote percentage pollster donald trump frank orlando saint university collapse party place president senate margin average prediction party prediction clinton house prediction majority party uncertainty look today vote election period tuesday differ result percentage year average think think chris borick college number methodology quality difficulty choice number effect desirability trump respond state candidate preference reason stream news campaign news poll series boast video poll episode drama diverge indicator side capture nature election voting election orlando poll check ohio morning state poll trump chance trump race spencer kimball emerson college status variation senate race state selzer hampshire pennsylvania georgia arizona race editor chief list vote gourevitch strategy group stuff state poll check gourevitch polling online coverage online year approach election status chance turn rate pollster video trump chance')
+
+('VBN', 'filed asked sent asked named expected made expected needed conducted acted released based given polled counted named thought given')
+
+('JJ', 'public unanimous hillary sure sure next many usual late fivethirtyeight prominent polled active large presidential senate open github footnotes2 predict presidential certain average percent percent average black likely popular lose offensive current republican good likely next democratic razorthin true senate republican lose clear large voter different actual final final same good variable ultimate large undecided potential social steady open bush next robert domine critical accurate chose unique demographic traditional certain demographic demographic blank presidential tuesday ohio important mustwin pivotal several different regional important close selzer trump multiple close high wish nick global hard blank full other critical much same popular demographic religiosity marital average grade last')
+
+('VB', 'next retain control find percent keep hold need stay cancel electorate respond prove better take pollsters ohio florida indicator')
+
+('NNPS', 'republicans')
+
+('JJR', 'bigger more more more larger smaller greater')
+
+('JJS', 'latest most least least most most')
+
+('VBG', 'working polling giving winning talking working predicting declining polling assaulting polling polling saying altering determining leading polling going commissioning tracking')
+
+('VBZ', 'responses seems estimates knows challenges languages ranks seems')
+
+('VBD', 'responded agreed chose predicted said asked said said offered expected predicted cited cited unexpected included said asked asked chose said named said cited complicated said said caught were felt miscalibrated thought acquired were gave')
+
+('NNP', 'muhlenberg')
+

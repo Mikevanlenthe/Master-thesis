@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1117
+Raw number of types: 441
+Raw Type token ratio: 0.39480752014324083
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 585
+Number of types: 333
+Type token ratio: 0.5692307692307692
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dear nepalese rice nepal niranjan know many islamic likely international interested national type other used statistic present comprehensible last liter average content average standard many drunk percapita full table french wine other namibia germany fluid normal hard average grenada other average russia mexican american favorite storm wwii vodka simple green study opposed such caribbean available popular email such national overall early gallon american previous firm national spirit other alcoholic fluctuation take le popular 20th perishable technological american different international other spirit other muslim dearmona')
+
+('NN', 'mona followup beer spirit mona chalabi drink github github dataalcoholconsumption farmer drink wheat beer field chunnikhel katmandu june shrestha friday question reader alcohol trend percentage lifetime abstainer country world world health organization country assumption mine least abstain alcohol trend alcohol consumption health organization drinking glass data average alcohol consumption country consumption beverage wine beer spirit break consumption beverage government record alcohol industry nation food agriculture organization database liter pure alcohol make comparison time pure alcohol alcohol size beverage number size result glass wine beer spirit person country country drink term result bottom article consume country glass person year glass drinking figure caput consideration wine consumption population france world country beer person average ounce measure liquor shotglass worth person drink measure spirit year country russia measure colleague ritchie euromonitor detail spirit country doe vodka choose tequila sale number spirit vodka brand smirnoff vodka popularity marketing moscow mule cock bull ginger beer explanation taste spirit availability state university professor scott martin drug alcohol grain food distillation wwii liquor scotch scarce bar push drink hurricane spirit idea popularity institute alcohol alcoholism show prohibition alcohol consumption person gallon year year data taste wine consumption year century beer favorite briefly beer beverage factor availability price government regulation technology martin example beer martin le century innovation refrigeration bottling beer transport bar home day purchasing choice country beer alcohol country country population alcohol consumption find table github question fivethirtyeightcom datalab538')
+
+('NNS', 'people data data people data people data data data conforms people abstainer quartz data orleans data people data')
+
+('VBP', 'drink wine work drink want describes show find stereotype take phenomenon have alcohol have have send')
+
+('VBN', 'filed compared taken compared consumed used made imported been been answered')
+
+('VBD', 'responded wanted conformed caput united consumed ordered converted were purchased took needed said created rose fell caught consumed said explained consumed became looked followed recorded')
+
+('VBG', 'looking using being being knocking serving serving drinking beerdrinking including king working according capitalizing changing according bowling going peaking rising changing serving')
+
+('JJS', 'most biggest highest least most')
+
+('VB', 'know shot remember higher assume look produce sell drank like')
+
+('VBZ', 'drink demonstrates wine')
+
+('JJR', 'more more more easier')
+

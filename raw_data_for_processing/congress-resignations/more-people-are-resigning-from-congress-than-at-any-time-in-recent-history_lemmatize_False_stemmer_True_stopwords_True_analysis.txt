@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1701
+Raw number of types: 657
+Raw Type token ratio: 0.3862433862433862
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 730
+Number of types: 461
+Type token ratio: 0.6315068493150685
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBN', 'seen franken sinc shown chang risen')
+
+('NN', 'congression resign rakich file congress datacongressresign brandon tiberi member congress resign feel peopl resign congress point session year march congress member congress resign remov canvass hazel abel ryan rash resign histor reason member congress step polit includ congress histor turnov event abnorm presidenti member resign session1 job trump administr member resign join obama member left join bill clinton member resign congress accus advanc john conyer trent frank ruben meehan announc reason howev retir congress term midsess resign look misconduct alleg month mani peopl conclud midst moment polit world misconduct alleg caus fallout number resign overtur month match number year phenomenon member resign reason packwood admittedli skew reli news report member reason misconduct exactli topic fact scandal start publicli cost job member congress resign extramarit affair virginia congression salari exchang mistress case circumst adulteri scandal livingston someon resign simpl affair resign immedi controversi mani democrat protest clinton thick monica scandal quit congressman mark souder resign includ anthoni weiner sext scandal murphi pressur mistress abort involv pictur misbehavior consensu reason resign percent congression departur sinc accord report mostli innocu reason domin reason member congress vote senat governor appoint posit cabinet judici post6 sinc explain percent departur reason tend domin account departur contrast sinc percent departur pursuit chang seat congress valu reason becom caus turnov day travel politician offic neverend dozen member becom york court join state percent depart member alreadi retir offic simpli resign point gener term despit line spike reason year pension law member resign term expir januari fact alon explain congress outlier senat resign day order give successor addit percent resign privat sector lobbyist head personality7 type resign sinc perhap realiz cash congression increasingli congress career blame categor resign report statement examin respect date suspect exampl euphem sin come scandal percent departur nonsexrel scandal scandal jack abramoff scandal illegalsubst possess alcohol john langley cocain trey radel fraud truman newberri richard tonri percent earli exit person reason health member geoff davi move home pretti time famili member reason hide someth scandal report congress member challeng disput result return qualif member percent dataset resign remov reason none sinc contest elect result congress busi count vote percent departur stem circumst categori resign protest cantanker bailey roosevelth jame beck switch parti watson phil gramm polit embarrass newt midterm backfir cantor loss john boehner power struggl parti percent peopl countri differ militari augustu gardner resign join month enter world world member career fight countri reason sinc')
+
+('JJ', 'nathaniel publish former alex offic 57th offic fivethirtyeight current context give confluenc normal first presid unusu similar administration2 recent unwant sexual franken farenthold schedul sexual cultur sexual much public nonconsensu sexual last nearli recent first partli sexual public recent natur politician first modern hay former extenu straightforward republican sinc cheat salaci sexual common politician graphic history5 common resign offic govern offic domin stabil lessprestigi local resign suprem justic reelect littl earli elect graphic huge advantag wait common practic senior nonprofit notic politician polar appeal longterm bia merci public thorough critic reveal next abscam truli udal ill famili spous polic spend categori possibl uncommon elect hous elect offic nowaday technic hous uniqu major gingrich spectacular eric primari exhaust congress serv armi polit congress')
+
+('NNS', 'data github data kihuen data data media centuri miss media media data media children ostens constitut')
+
+('VBP', 'github zink occur owe blake reelect regularli bear concentr seem coverag show reckon elect explain prefer slog earli head frequenc make categori elect seem fail live larri resign say senat rang')
+
+('VBD', 'becam addit unpreced preced paid made preced simpl someth easi legislatur lost left made resign earli left anoth left left quit')
+
+('VB', 'tell start quit start take judg interced')
+
+('VBG', 'string')
+
+('JJS', 'least least combest')
+
+('VBZ', 'divin lewinski politician corrupt rigor')
+
+('JJR', 'less less older loser')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 627
+Raw number of types: 277
+Raw Type token ratio: 0.44178628389154706
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 234
+Number of types: 156
+Type token ratio: 0.6666666666666666
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rock alon lot walt hickey file movi github github datasanandrea dwayn johnson charbonneau andrea film star dwayn johnson catastroph earthquak destroy california crush offic weekend beat pull abid disast movi formula world destroy famili rebuilt fear idea film time span tecton situat probabl break stuff risk probabl peopl andrea fault eon stori coast geolog time accord geolog survey probabl earthquak magnitud rock california percent year draw card deck jack california catastroph lifetim accord surveymonkey poll worri percent pacif region geolog activ coast state deal percent pacif region respond worri percent worri percent lifetim worri kind disast thing peopl time precaut buy plan survey peopl overestim risk andrea builtin audienc thing survey fault yellowston supervolcano treat magma yellowston settl anyth check github')
+
+('JJ', 'worri andrea eric andrea basic legitim geolog immedi peopl massiv commiss third american lifetim censu noncontigu good anxieti extrem earthquak overal quak peopl realli disast evacu favorit know last major much mississippi full')
+
+('NNS', 'data data chines pretti scientif necessarili surviv worri sens data')
+
+('VBP', 'attend expect play sound california go think random lot think audienc think think occur need think make accord movi play fear turn know make')
+
+('JJR', 'premier lower larger lifetim')
+
+('VBD', 'hollywood littl left said')
+
+('JJS', 'domest west west')
+
+('NNP', 'yellowston')
+
+('VBZ', 'supervolcano earthquak')
+
+('VBN', 'come come taken')
+
+('VB', 'go argu happen gosh')
+

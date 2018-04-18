@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 542
+Raw number of types: 267
+Raw Type token ratio: 0.492619926199262
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 220
+Number of types: 164
+Type token ratio: 0.7454545454545455
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'rachel data data rachel pretti divers')
+
+('VBP', 'lindsay wezerek lindsay seem hope exampl peter find go')
+
+('NN', 'bachelorett season chart mess ella koez file github github threehour conclus season bachelorett rachel love come typic choic suitor peter home earli lastmanstand bryan abasolo propos amongst rioja spain year step look week pass peter bryan look season appreci everyth rachel endur rememb whaboom rememb jack stone dream lock door rachel shudder despit rachel persev rachel focus impress time date season suitor similarli select pick date week rachel avail oneonon date matt adam group date peter alreadi chart show limit number suitor strategi tri find husband bachelorett bracket pool dean bryan drama rachel globe metaphor journey love travel season destin europ fight rachel slice choos geograph hometown date ride rachel bachelor nation readi move love stori bachelor articl updat season addit report contribut hickey')
+
+('JJ', 'publish final live eric vineyard limo eric fresh elimin immedi strong first much other final dean bryan oneonon concentr attent predict everyon fivethirtyeight final actual intern western vike substanti good final wild next updat final')
+
+('JJS', 'quest worst')
+
+('VBD', 'sent made rose gave went spent made bore')
+
+('VB', 'happen worth watch')
+
+('VBZ', 'elimin rachel roam walt')
+
+('VBN', 'given gone')
+

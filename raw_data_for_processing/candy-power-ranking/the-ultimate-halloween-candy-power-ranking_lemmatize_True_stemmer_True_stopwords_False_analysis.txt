@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1822
+Raw number of types: 771
+Raw Type token ratio: 0.42316136114160263
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 792
+Number of types: 438
+Type token ratio: 0.553030303030303
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'ultim popular hous halloween publish laskowski emili social halloween good devis anoth exactli address good funsiz type rest twix milki starburst grand sour special dark junior nerd wild dud swedish gummi sour sour goldbear sour payday lemonhead lemonhead appl bean good huge halloween candi halloween other realli seri diet nearbi warehous spooooki truli hellish evid qualiti recent mild scour peanut other biscuitesqu hard full statist softwar thi half great thu enough halloween ingredi sure thi dime full percent percent nougat hard caramel hard lollipop actual major obviou perfect frankencandi scientif other exact ethic percentag averag same crispi peanut averag nearli averag nougat sure major overal piec fruiti fine tast mutual tootsi sole twix eastern european thi twix next wonka')
+
+('NN', 'halloween candi power rank treat neighborhood walt hickey file github github datacandypowerrank video christin toni chow scherer contract simpl provid adequ treat costum mass prepar trick offer help type vengeanc help decis supermarket weekend figur dozen funsiz candi variet wisdom crowd decid vote thi differ vote randomli gener survey sampl peopl matchup field candi percentag butter snicker piec peanut butter peanut musket crunch rolo milki simpli caramel skittl origin krackel milki patch kid snicker crisper hershey mint haribo ruth hershey milk chocol hershey skittl berri milk fish goodbar life saver patch trickster head almond tootsi roll snack bar tootsi mound bite gobstopp mike quarter cent coin smarti tootsi roll midge twizzler welch fruit snack fruit tootsi roll junior runt dot haribo origin caramel laffi taffi rock dum charleston chew corn nestl smarti pixi stix vine chewi fruit sixlet strawberri bon tootsi caramel pop haribo happi cola sugar babi dime cent coin sugar daddi root beer barrel buster super bubbl chiclet boston plenti spinoff spot platon ideal candi brand bestsel candi market research show time price mayb sugar content pull funsiz portion sugar content websit fatsecret myfitnessp case particularli hardtofind candi drugstor pull bulk price candi regress rsquar link price sugar perceiv price sugar candi fervenc stayathom learn child peanut internet descript ingredi candi almond crisp rice malt milk ball fruit flavor candi lollipop strawberri thing typolog hand access power avail market question gener inform accord regress varianc observ qualiti properti candi work none compon baselin matchup percent time bear giggl quarter desir dime chocolati caramel peanut cetera beat competitor quarter candi type share chocol fruit peanut nut crispi caramel multipiec candi candi tabl adjac thi paragraph simplifi column hypothet candi chocol percentag rise point rise nut wafer crisp rice rise bring tabl candi jawbreak knock point percentag form bunch differ note thing snicker chocol peanut caramel nougat candi percent rate doe fact percent rate question build base thi inform hand process result hand dilemma stop frankenstein season contend contain chocol point point almond percentag point crispi wafer puf rice point caramel posit qualit compon candi form gener rate thing percentag point exclus chocol pop exception3 frankencandi chocol hershey babi ruth caramel milki peanut butter assembl castl loom villag home smush payday roll snicker rice crispi call prometheu contemporari prediabet frankenstein idea halloween avail consult interest enter busi')
+
+('VB', 'make avoid make haribo come someth take expect rise be contend go contend throw be modern candi tri')
+
+('NNS', 'data data dissatisfi peopl candi rees rees rees rees twin rees pretti candi desir wors data data compon nougat candi data fruiti percentag candi nutti fruiti rees tri mayb')
+
+('VBD', 'latenight said midnight made went were made were were beat were fruiti')
+
+('VBP', 'thi want prefer best1 know know peanut miniatur piec stuf goldbear kiss chew snake warhead candi bake peanut cup take appear synonym make chocol contain nougat know have clue say explain aw wafer expect expect expect littl make expect have have bring onli have contend have entrant want thi flavor nougat wafer make take think have abomin')
+
+('VBZ', 'halloween candi snacksiz nougat damn fruiti coef candi ridicul')
+
+('VBN', 'candi given remot ballpark chocol chocol')
+
+('VBG', 'butterfing ring ring')
+
+('JJR', 'werther better answer higher higher higher higher higher lower')
+
+('JJS', 'best')
+

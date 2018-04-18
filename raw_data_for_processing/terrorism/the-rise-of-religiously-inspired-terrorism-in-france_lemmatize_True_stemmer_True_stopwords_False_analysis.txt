@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 993
+Raw number of types: 475
+Raw Type token ratio: 0.4783484390735146
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 558
+Number of types: 352
+Type token ratio: 0.6308243727598566
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rise terror inspir religion franc carl bialik file terror github github dataterror gather front carillon saturday attack previou thibault attack site pari friday author injur claim life terror combin quarter centuri franc accord terror databas victim countri score rock concert dinner restaur tunisia birthday accord figaro attack presid françoi holland blame state onli seri religi act franc month decemb attack use knife reportedli yell akbar incid month attack pari satir supermarket kill claim bo link islam state august islam state sympath cutter rifl appar plan train passeng polit violenc religi inspir act accord union continu inspir separat includ franc alon year attack separatist attack gener target properti arson peopl attack accord number pari attack2 rise religi motiv attack franc terror point disproportion number resid fight state franc oneeighth popul onefourth fight state number peopl travel fight state climb franc april thi januari august state fighter franc carri attack suspect attack arrest belgium passport attack author number michael jenkin terror research advisor presid corp email interview number number franc syria number prepar possibl activ surveil choic danger potenti contribut factor preval gun franc accord arm survey avail countri firearm peopl switzerland finland cypru franc austria germani greec croatia ireland latvia belgium czech republ luxembourg slovenia denmark itali malta ireland portug slovakia hungari scotland netherland lithuania poland romania larg avail weapon certainli aid number plot sajjan gohel director thinktank interview yugoslavia variou crimin network hand attack incid death europ attack deadliest europ sinc madrid train bomb kill event europ year includ hostag school beslan kill london tube bomb kill bomb shoot plane year board offici plane crash week board bomb state claim crash andrew flower contribut thi check coverag democrat debat')
+
+('NNS', 'data data respons visit anyon repres veri resid necessarili servic data collaps respons')
+
+('JJ', 'parisian cafe kill terrorist camu terrorist french kill peopl other act previou global attend eat cambodian celebr french islam inspir terrorist last last tour great tie terrorist organ next branch qaeda behead american kill separatist compil european polic incid last french terrorist commit corsican recent separatist terrorist die terrorist half die friday terrorist expert french syria islam onethird islam islam unclear islam friday syrian french overwhelm brian senior includ suspect other surveil involv terrorist intellig difficult predict small sweden northern estonia wale unrestrict terrorist intern secur foundat email former end plot terrorist outsid western other deadli recent crisi oslo ukrain last russian last islam articl live second')
+
+('VBD', 'tribut said came were were were were mani were found said said asiapacif said shot kill egypt brought')
+
+('JJR', 'more larger kosher fewer higher')
+
+('JJS', 'least latest most latest most')
+
+('VBP', 'have appear june attack thwart wave organ have have have have estim remain link rand have have have have spain england follow occur russia suspect plane')
+
+('VBN', 'afflict kill gone travel gone return come resourc made been surplu')
+
+('VBZ', 'dijon peopl stat europol europol')
+
+('VB', 'shift peopl be keep rest trade')
+
+('NNP', 'peopl kill')
+

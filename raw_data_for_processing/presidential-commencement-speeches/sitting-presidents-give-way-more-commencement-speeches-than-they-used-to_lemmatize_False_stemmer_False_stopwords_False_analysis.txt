@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 541
+Raw number of types: 252
+Raw Type token ratio: 0.4658040665434381
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 305
+Number of types: 187
+Type token ratio: 0.6131147540983607
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'sitting giving giving making seeking choosing speaking giving')
+
+('NNS', 'presidents speeches rutgers data data datapresidentialcommencementspeeches images speeches presidents speeches presidents speeches records presidents graduations academies schools times schools times counts colleges universities schools times addresses presidents speeches schools states addresses times travels speeches presidents times speeches places states students factors schools speeches schedules speeches chances graduates years graduates data')
+
+('VB', 'give give carl take')
+
+('NN', 'commencement university bialik education github president speech howard university commencement convocation cheriss nurphoto president address presidency sunday university force howard university commencement year pace bill clinton office george bush predecessor pace term office commencement year year circuit academy institution school harry truman office start commencementspeech presidency project school johnson richard jimmy carter chart page president college university jimmy carter cheyney state college hbcus league state york imbalance diversity commencement trip washington maryland virginia reach range account number size school location house spokeswoman president commencement year bill clinton example commencement loyola marymount university university school service download story github')
+
+('VBD', 'used academy took upped took gave took graced spoke chose said spoke used')
+
+('VBP', 'sunday github obama saturday have include capitol obama have obama have come')
+
+('VBN', 'filed spoken given spoken combined scheduled')
+
+('JJR', 'higher more more')
+
+('VBZ', 'gives rutgers takes times includes takes')
+
+('JJ', 'commencement getty commencement last june usual fouryear final military public private complete american archive military other public private high page lyndon capitol speech howard ninth black commencement commencement historical geographical presidential busy short wide commencement such biden white obama many address last saturday speak sunday eponymous clinton public')
+

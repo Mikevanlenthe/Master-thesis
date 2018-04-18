@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 460
+Raw number of types: 219
+Raw Type token ratio: 0.47608695652173916
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 193
+Number of types: 127
+Type token ratio: 0.6580310880829016
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'use job flower file infrastructur github github datainfrastructurejob overpass south wyom mead gruver articl infrastructur invest realtim state censu bureau report bureau statelevel privat construct year inform avail creat proxi look industri construct industri subsector call engin construct subsector job job construct entir engin project highway dam number job privat sector percent april roughli peak april percent drop construct employ period job percent worker employ job recess employ subsector state state worker wyom mine energi industri promin maryland exampl statebyst chang job variat stand boom oklahoma gasheavi state reiter ideal reflect realtim spend proxi anyth measur job state energi industri strip energi industri infrastructur job recov le')
+
+('JJ', 'infrastructur statelevel andrew recent cheyenn lacklust unfortun constructionspend breakdown publish annual nonresidenti infrastructur albeit imperfect organ employ whole civil infrastructur descript nationwid infrastructur govern overal trough april infrastructur littl peak sampl infrastructur peak reveal wide north dakota mean infrastructur mere overst actual probabl')
+
+('NNS', 'measur data data data data primari data data data')
+
+('VBP', 'stick spend spend employ heavi activ collect analyz affect appear')
+
+('VBN', 'built fallen risen')
+
+('VB', 'use spend')
+
+('VBD', 'monthli provid sinc came')
+
+('JJS', 'latest')
+
+('JJR', 'fewer')
+
+('VBZ', 'repres')
+

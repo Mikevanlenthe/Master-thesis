@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1535
+Raw number of types: 576
+Raw Type token ratio: 0.3752442996742671
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 820
+Number of types: 440
+Type token ratio: 0.5365853658536586
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'project player draft class neil pain zach bradshaw file github github datanbadraft2015 town game dame ncaa tournament andi lyon getti karlanthoni town game dame ncaa tournament andi lyon buzzer sound state championship victori cleveland cavali time world attent draft june year crop hasn arriv anywher vaunt class exampl town duke jahlil okafor pick help sort town prospect inform group rank ford prospect statist plusminu dure season career time frame year player team control belowmarket salari player rooki number team statist draft project system model player colleg demograph weight rank scout model method strongli leftcensor becaus veri chanc play le stick meaning play time import becaus method perform colleg predictor alreadi assumpt player poss whatev attribut move leagu playingtim gatekeep assumpt import distinct success prospects4 specif model ass probabl player earlycar categori superstar talk player anthoni davi class starter thi bucket includ player shane battier lowri class role player world class bust hello michael beasley thi bucket consist everyon includ replacementlevel player factor import determin player fall categori case forecast quarterback success prospect scout variabl futur project base opinion scout alon asid player scout rank predict factor base program weight scheduleadjust rate school individu statist attempt percentag rate shoot effici floor effect field goal steal percentag word snag athlet test color ideal look player creat shot themselv particularli insid skill rebound rebound talent team role board effici shooter gift ball hawks5 factor mind ass colleg entri year class draft project year draft case duel freshman debat draft probabl timberwolv town clearli town chanc becom superstar percent probabl becom role player bust nono accord model town defend passer combin today draft model justis stanley johnson fascin project model wing year draft jabari parker ceil likelihood wiggin parker percent bust probabl percent perhap becaus glare flag profil thi draft class whole superstar avail year crop year aboveaverag player account star power year model project year class contain percent player grade futur starter kind player look shop draft bargain kentucki center dakari johnson accord scout use version ford model bare chanc becom superstar percent rank model becaus percent probabl startingcalib player percent chanc becom stori kansa cliff ronda hollisjefferson scout grade becaus model murray state cameron payn dame grant pair point guard rank model chanc turn player percent probabl bust flag state shoot guard hunter scout rank stagger percent probabl becom role player bust turn draft instanc thi model directli account work leadership bunch factor shape career thing demograph method tradit correl success start front offic separ prospect')
+
+('JJ', 'basketbal dure notr basketbal imag dure notr basketbal close golden warrior brooklyn thi fanfar plenti overal process okafor good espn stat player2 chad accord encompass penal young poor other numbers3 such height draft actual much sampl distinct regress unsuccess solid toni allen actual import signific demograph defens import shot follow usag percentag other young prospect pa fli valu underr other indic actual thi okafor pretti great mere height superior good small duke arizona winslow particular overal last wiggin much winslow statist winslow futur rooki solid superior thi rank 30th same late sixth overal onli similar overal pair johnson third ninth such lowrisk notr jerian scout littl aboveaverag total georgia beli algorithm perfect scienc ethic other hardertomeasur statist overfit good unenvi strong weak')
+
+('NNS', 'data data univers univers getti decis timberwolv kentucki model1 data data github data draft draft jarrett minut offens measur model arizona propositions6 cours')
+
+('VBP', 'karlanthoni kentucki kentucki imag turn prospect make predict avoid think unlik acknowledg prospect prospect jack appear predict nois colleg assist prospect say okafor think give roughli take use turn alexand defi view watch see becom advanc prospect look')
+
+('VB', 'held minnesota take karlanthoni perform check allow mask land kyle rank rebound rebound sort take be succeed bust symbol banner place')
+
+('JJR', 'deeper answer more lower heavier fewer more')
+
+('VBD', 'built put proxi made came thi andrew exampl outright rais')
+
+('VBZ', 'thi simpli offens offens defens model overrid sens figur measur')
+
+('JJS', 'most most least')
+
+('VBN', 'battl')
+

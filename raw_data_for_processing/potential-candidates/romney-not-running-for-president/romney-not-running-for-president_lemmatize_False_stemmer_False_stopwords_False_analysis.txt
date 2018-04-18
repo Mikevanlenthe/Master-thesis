@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 858
+Raw number of types: 354
+Raw Type token ratio: 0.4125874125874126
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 433
+Number of types: 267
+Type token ratio: 0.6166281755196305
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'president harry github github romney dinner committee winter meeting midway diego huffaker getty romney inchoate campaign president house romney friday president benefactor bush romney campaign romney announcement news divine inclusion statement president give candidacy list look side number plan hampshire fact hampshire list carson event chris christie event cruz event huckabee event rick walker chance santorum infrastructure support huckabee walker sign money romney hadn decision bobby jindal hampshire absent king iowa freedom summit month measure wisdom stock lack hampshire jindal side story person committee clinton fact hampshire checkedin biden hasn mind infrastructure president card hasn hampshire candidate clinton clinton campaign support bloomberg view jonathan bernstein primary clinton belief announce campaign summer campaign')
+
+('VB', 'romney third announce take clearest stay ground have tell')
+
+('VBN', 'filed greeted been been busy1 announced planned been included taken given given settled')
+
+('JJ', 'visible primary fellow republican national annual sandy dead republican white main likely former right fullborne last tried serious potential hampshire other possible huckabee recent alive good likely lindsey presidential primary republican possible attend iowa potential iowa last updated rick scott serious much early build eager early additional early iowa steve recent national politician conventional likely true early recent iowa democratic static bernie exploratory likely hillary iowa last doesn earlystate martin malley wild iowa surprising upstart retail early invisible primary strong different unsettled')
+
+('NNS', 'data data datapotentialcandidates images insiders staffers candidates statements visits polls contenders graham contenders events candidates events weeks events events events events events states events states candidates events states visits lines events polls polls polls ones sidelines events sanders sanders candidates sanders events events politics waits primaries stories democrats')
+
+('VBP', 'mitt mitt iowa have continue have include rand perry santorum fiorina doesn stand perry seem haven include think take seem have continue look')
+
+('NNPS', 'republicans')
+
+('VBG', 'learning running scooping moving compiling going tracking focusing trying interesting raising holding building holding doing evolving')
+
+('VBD', 'supported announced left added announced made jindal formed announced said made touched locked said')
+
+('JJS', 'biggest')
+
+('VBZ', 'suggests jindal suggests visits looks makes looks republicans')
+
+('JJR', 'more more more more more more more more')
+

@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 863
+Raw number of types: 332
+Raw Type token ratio: 0.3847045191193511
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 353
+Number of types: 189
+Type token ratio: 0.5354107648725213
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'percent flier seat walt hickey etiquette github github plane june vincenzo pinto image couple week confrontation seat surprise undertaking room cranky anything contract source strife sky audience poll passenger cool respondent question seat percent percent recline half time percent recline half time respondent percent respondent seat flight percent option seat flight percent passenger recline flier rest obligation person flight determine action passenger seat intent percent respondent wake neighbor bathroom stretch leg someone slumber switch seat buddy folk flight rude percent passenger baby response question kid child younger percent parent plane rude passenger time consider baby plane control rest window question person seat person control question america percent flier seat person rest percent respondent fascist sadist seat rest percent socialist percent response child fortytwo percent respondent person seat control percent everyone shade status percent respondent violation direction flight attendant question respondent opportunity break response data github')
+
+('VBP', 'think passenger recipe disagree find consider recline rude rude leave need kid think aisle think take find')
+
+('JJ', 'rude recline getty past spate traveler much stressful pressurized full social nebulous potential rude rude surveymonkey tackle respondent percent percent half respondent half impasse rude recline recline asks common behavior rude rude rude super impolite relative many unruly child much charitable unruly child percent kid child likely rude middle obvious correct middle rest middle first percent window window full personal ageold bathroom')
+
+('VBN', 'filed seen involved considered flown asked interpreted considered considered compared asked screwed shared used admitted smoked')
+
+('NNS', 'data data people people people people people people people people people people people electronics people')
+
+('VBG', 'reclining flying quibbling flying reclining aggravating waking trying disturbing moving bringing whopping bringing bringing landing settling')
+
+('VB', 'come become recline eliminate get get')
+
+('VBD', 'cramped asked split thought said said said thought surprised thought depended thought shade shade said seated said put responded wrote acknowledged shade thought smoke')
+
+('JJR', 'passenger answer')
+
+('JJS', 'rest largest youngest')
+

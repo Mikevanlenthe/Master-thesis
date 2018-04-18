@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1573
+Raw number of types: 535
+Raw Type token ratio: 0.34011443102352196
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 930
+Number of types: 441
+Type token ratio: 0.47419354838709676
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'college emma pierson github github illustration illustration appeal drug focus attention span article draft mania repeat deadline drug world speed proportion adderall study ritalin vyvanse percent analysis pharmacy diagnosis percent prevention analysis prescription doctor example drug enforcement administration drug category cocaine abuse addictive evidence cognition take risk coverage college rise study college year clinton foundation college college college study gpas study emphasis study drug college part government report college college data survey drug health government survey difference difference college percent difference food percent ritalin study drug college nonprescription research drug adult college student college percent trend divin professor illinois university prescription drug behavior college study college study percent fraternity adhd evidence environment usage study question nichecom information help collegebycollege college data college location selectivity example study ritalin college mountain study campus versus percent example school drug campus niche study test point school horizontal axis percentile score axis share study campus correlation score drug research pattern study college school frequency study advance night assistance adderall divin struggle research ritalin nsduh college adderall mean depression causality school order factor blame abuse alcohol marijuana example gpas adderall performance part stress analysis nsduh time data support example college summer study adderall adderall adderall nsduh family family consider student employee deadline adderall everyone support idea prescription code analysis github adhd')
+
+('NNS', 'students ones drugs data data datastudydrugs kelsey kelsey months weeks people americans drugs medications prescriptions rates adolescents centers people drugs ways doses adhd medications media students drugs drugs students drugs adults students drugs patterns drugs students schools students drugs highachievers students data students ages people americans times times families stamps times noncollegestudents students shows matters students counterparts studies students drugs members stimulants rates drugs types colleges data people neighborhoods schools surveys students drugs data drugs schools students schools drugs students differences regions surveys trends data drugs colleges scores students shows students drugs colleges admissions standards highachievers studies students drugs factors classes hours students students students ways students data backs students levels correlations causes students students students schools students students studies students drugs data students stimulants months sources searches towns months months tweets periods adults adults hours jobs data adults incomes rates incomes adults levels steroids data individuals stimulants benefits adults drugs')
+
+('VBP', 'aren dake dake adhd facebook agree have disease adderall adderall believe epidemic study study push stems have times1 receive percent range choose total england4 england imply look study chart find nonprescription have tend procrastinate stay nonprescription depression have adderall make study adderall struggle depression athlete suggest experience take')
+
+('VBG', 'abusing increasing listening using increasing according snorting interesting falling using being being using controlling skipping studying lowerachieving attempting studying struggling using highachieving finding mentioning working confronting confronting using')
+
+('JJ', 'adderall understand adderall several last reptilia overwhelming many other adhd adhd many similar high behavior risky adderall schedule same potential treat similar effective unlikely addictive mixed willing nonmedical last adhd young paradoxical competitive nonmedical likely same weren recent national nsduh annual white black percent common likely engage study young likely nonstudent western nonmedical acceptable nonmedical social affect nonmedical popular certain popular other such popular percent rocky popular single important popular selective incoming vertical popular positive study significant previous popular competitive multiple such high cram focused likely other previous likely depressed likely significant adderall gpas other third likely likely likely stressed academic many clear academic recent likely first exam other conventional latter google exam exam long likely wrong nonmedical likely suicide exam tempting divin clear nonadhd available many')
+
+('VBN', 'filed taken loomed tempted increased used prescribed described used used considered thought highincome')
+
+('VBZ', 'treats runs classifies includes comes drives amanda campuses provides represents shows seems')
+
+('VB', 'finish make keep control improve obtain expect stay adderall feel take because take seem')
+
+('VBD', 'wrote caffeinefueled increased found recommended used discussed used used used said were looked turned were looked were said cited reported sought gave named connected found were reported were showed were were said were found spent said found used reported were depressed found were found spiked dropped found peaked showed were were used reported were read')
+
+('JJR', 'easier more more closer smaller easier more more higher more lower higher less older greater higher')
+
+('JJS', 'most highest lowest')
+

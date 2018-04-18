@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 964
+Raw number of types: 365
+Raw Type token ratio: 0.37863070539419086
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 485
+Number of types: 260
+Type token ratio: 0.5360824742268041
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', '\ufeffthe veri alreadi respons request data potenti')
+
+('JJ', 'tail hurrican oliv someon dial nonemerg hurrican midatlant nearli thi govern such citi hurrican dead untold long hurrican first normal open call arriv directli relat stori unfold texa florida2 relat next come leftpoint approv approv nearli beach hous larg public hous brooklyn hous larg public hous brooklyn ask storm landfal consid disast citi consid unsaf larg sandyrel signific novemb major busi relat such direct mental mental servic affect hurrican')
+
+('NN', 'recoveri julia wolf roeder york citi citi hotlin inform sandi disast relief program thi year sinc storm devast caus death citi damag day call continu year sandyrel call color caller hall detail call sandi arriv yorksandi arriv yorknearli power restorednearli power restor harvey irma florida devast dozen dollar road recoveri recoveri linger month work power restor home rebuilt head school life befor storm reach york citi websit download log place day fall today storm tragedi recoveri citi stori york sandi york date citi receiv call explicitli storm week receiv call zoom scale abov arrowfew call weekend call congress congress path train servic manhattan jersey fulli restor path train servic manhattan jersey fulli restor rockaway beach boardwalk boardwalk return roof develop start replac roof develop start replac emerg manag citi line receiv sandyrel call volunt relief effort month sandi citi hall august total call purview hall includ request help car storm inform citi plan recoveri fund water bill septemb total call purview depart environment protect custom sever damag destroy properti exampl water sewer bill order vacat sandi place sticker build enter april call properti owner request info statu vacat order stormrel financ june citi receiv stormrel call half purview depart financ properti relief structur damag call request inspect reinspect structur storm damag commun restor call owner commun member request inform sandyrel grant loan fraud report call report fraud storm month sandi year june juli linger effect thi august yorker call depart health hygien health child')
+
+('VBD', 'sept were were left left lost kid fulli sandi were kept were made were made came were fell were were fell were came were were were were were were')
+
+('VB', 'ask inform steep veri begin return find request have review call call')
+
+('VBP', 'fluke have nearli tell help connect connect hook hook citi spend have start')
+
+('VBN', 'been been made been made come')
+
+('VBZ', 'repres continu onli')
+
+('JJR', 'more more yorker sewer lower')
+

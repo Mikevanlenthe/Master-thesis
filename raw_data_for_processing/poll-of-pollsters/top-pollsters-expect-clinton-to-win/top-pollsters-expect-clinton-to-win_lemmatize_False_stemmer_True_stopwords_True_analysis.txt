@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1284
+Raw number of types: 503
+Raw Type token ratio: 0.3917445482866044
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 562
+Number of types: 313
+Type token ratio: 0.5569395017793595
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'pollster clinton carl bialik file elect pollster belief clinton presid retain control control senat mani poll result highlight poll peopl work promin poll firm countri intermitt sinc poll peopl firm poll conduct portion poll presidenti poll ask pollster question campaign state industri peopl responded1 pollster respond footnotes2 pollster predict winner presidenti clinton howev forecast percent chanc clinton chanc win pollsonli pollsplu model sinc pollster poll pollster predict clinton voter support overwhelmingli pollster clinton vote point ask pollster ask name believ donald trump talk week thing saint parti place start pollster presid work democrat senat margin averag hold seat pollster predict seat pollster clinton seat control pollster hand predict collect parti chunk pollster look poll today voter prefer vote averag poll conduct day period tuesday result percentag point pollster year chri borick muhlenberg colleg number poll cancel variabl methodolog poll reason pessimist cite difficulti choic rel number support thirdparti candid poll primari potenti effect desir bia support respond poll state candid prefer commonli reason stream news candid campaign news includ poll seri accus act billi bush video assault drama elector respond ask robert critic insight state poll demograph diverg indic surprisingli poll natur demograph model base tradit vote pattern alter demograph group demograph model catch orlando poll check pollster lightli poll state count presidenti poll florida ohio pollster state poll mainli import trump chanc mustwin trump race essenti spencer kimbal emerson colleg pollster name cite pivot statu languag sever demograph group region import race state matter selzer hampshir trump mount comeback pennsylvania georgia arizona vote race rank editor chief poll list vote gourevitch strategi group stuff state poll gourevitch poll result respond onlin poll poll year opinion time poll approach track voter choic demograph variabl pollster acquir routin chanc turn rate pollster rate pollster grade video trump chanc')
+
+('VBP', 'expect elect find github agre elect collect averag lose seem collect think predict offer expect collect need senat think expect expect need predict poll differ think think think predict predict miss trump poll know ask say elect elect want differ seem go need coverag marit')
+
+('JJ', 'elect public unanim hillari pretti sure republican hous sure next usual late activ peopl larg forecast open questionnair list chose certain averag percent black popular percentag frank orlando current republican good next razorthin republican parti predict true hous republican lose major clear seat larg uncertainti actual total final elect final good qualiti ultim declin undecid voter social trump cite steadi unexpect open boast sexual next episod pollster accur side chose uniqu certain blank florida tuesday name ohio florida challeng present senat complic selzer indic multipl high wish nick global hard blank plenti full caught critic commiss onlin much angel elect popular wish tabl averag last')
+
+('JJR', 'less bigger larger smaller greater')
+
+('VBD', 'fivethirtyeight senat sent said said said made desir said chose said morn determin said said said felt gave')
+
+('JJS', 'latest least least')
+
+('VBZ', 'databas racistmisogynistichorr larg')
+
+('NNS', 'respons offens univers collaps democrat stay women releas women surprisingli media religios')
+
+('VB', 'give percent keep differ prove captur take pollster ohio lead check find statu')
+
+('VBN', 'come given thought given')
+
+('NNP', 'domin')
+
