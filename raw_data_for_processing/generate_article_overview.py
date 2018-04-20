@@ -9,7 +9,7 @@ import nltk
 from nltk import FreqDist
 from collections import defaultdict
 import argparse
-
+import errno
 
 def find_files(directory):
     paths = []
@@ -17,7 +17,7 @@ def find_files(directory):
         for filename in files:
             filepath = os.path.join(root, filename)
             paths.append(filepath)
-    return [path for path in paths if path.endswith(".txt") and not path.endswith("analysis.txt")]
+    return [path for path in paths if path.endswith(".txt") and not path.endswith("analysis.txt") and not path.endswith("amount.txt")]
 
 
 def remove_article_words(tokens):
@@ -28,6 +28,14 @@ def remove_article_words(tokens):
                 clean_tokens.append(token)
 
         return clean_tokens, word_filter
+
+
+def make_sure_path_exists(path):
+    try:
+        os.makedirs(path)
+    except OSError as exception:
+        if exception.errno != errno.EEXIST:
+            raise
 
 
 def remove_punctuation(tokens):
@@ -53,7 +61,6 @@ def minimum_length(tokens, length):
     tokens = [token for token in tokens if len(token) >= length]
     return tokens
 
-
 def create_args_filter_name(args):
     args = str(args)
     args = args[10:-1]
@@ -67,17 +74,15 @@ def create_args_filter_name(args):
     return filter_name
 
 
-def generate_overview(read_path, remove_stopwords, use_lemmatizer, use_stemmer, args):
-    print("Running in following order:")
+def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token_length, use_stemmer, use_bigrams, use_trigrams, args):
+    print("Running pre-processing in following order:")
     print("Lowercase text")
-    print("Tokenize by NLTK")
+    print("Tokenize by nltk.word_tokenize")
     print("Remove punctuation")
-    print("Removing stopwords = ", remove_stopwords)
-    print("Use lemmatizer = ", use_lemmatizer)
-    print("Use stemmer = ", use_stemmer)
-    print()
 
     filter_name = create_args_filter_name(args)  # create variable to name file as used filters for identification
+    print("Filters in use:",filter_name)
+    print()
 
     # Collect article text files
     txt_files = find_files(read_path)
@@ -104,7 +109,7 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, use_stemmer, 
     # scrape tokens from articles in txt format
     for txt_file in txt_files:
         filename = txt_file.split(".")  #  save filename
-        print(filename)
+        print("Read file:", filename[1])
 
         ########### open txt file from article:
         infile = open(txt_file, 'r', encoding="utf8", errors='ignore')
@@ -125,7 +130,19 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, use_stemmer, 
         ########### apply pre-processing:
         tokens, removed_punctuation = remove_punctuation(tokens)
         tokens, removed_article_words = remove_article_words(tokens)
-        tokens = minimum_length(tokens, 4)  # filter out tokens if less then 4 characters
+        tokens = minimum_length(tokens, minimum_token_length)  # filter out tokens if less then 4 characters
+
+        ########### apply n-grams processing by NLTK
+        bigrams = [" ".join(token) for token in nltk.bigrams(tokens)]
+        trigrams = [" ".join(token) for token in nltk.trigrams(tokens)]
+
+        ### bigrams option
+        if use_bigrams:
+            tokens = tokens + bigrams
+
+        ### trigrams option
+        if use_trigrams:
+            tokens = tokens + trigrams
 
         ########### apply processing:
         # remove stopwords
@@ -182,6 +199,7 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, use_stemmer, 
         #     c_article1[stemmed] += 1
 
         ######################################################
+
         # write article summaries
         with open("."+filename[1]+"_"+filter_name+"_analysis.txt", "w") as outfile:
             outfile.write("Tokenized by nltk.word_tokenize \n")
@@ -192,6 +210,7 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, use_stemmer, 
 
             outfile.write("Applied pre-processing:\n")
             outfile.write("Lowercased all tokens \n")
+            outfile.write("Tokens below minimum length: "+str(minimum_token_length)+" filtered out\n\n")
             outfile.write("Punctuation filtered out "+str(removed_punctuation)+"\n")
             outfile.write("Words filtered out: "+str(removed_article_words)+"\n\n")
 
@@ -207,13 +226,11 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, use_stemmer, 
             outfile.write("\n")
 
             outfile.write("Used nouns, verbs and adjectives in article: \n")
-            outfile.write("(tokens separated by whitespace) \n")
+            outfile.write("(tokens separated by , ) \n")
             for tag, tokens in pos_dict.items():
                 if tag.startswith("NN") or tag.startswith("V") or tag.startswith("J"):
-                    line = tag,' '.join(tokens)
+                    line = tag,', '.join(tokens)
                     outfile.write(str(line)+'\n\n')
-
-
 
     ####### print results in terminal
     print()
@@ -245,9 +262,12 @@ def main():
     parser.add_argument('--stopwords', action='store_true', help='Filter stop words')
     parser.add_argument('--lemmatize', action='store_true', help='Use lemmatizer')
     parser.add_argument('--stemmer', action='store_true', help='Use stemmer')
+    parser.add_argument('--tokenlength', '--tl', type=int, default=3, help='Set minimum token length')
+    parser.add_argument('--bigrams', action='store_true', help='Use bigrams')
+    parser.add_argument('--trigrams', action='store_true', help='Use trigrams')
     args = parser.parse_args()
 
-    generate_overview("./", remove_stopwords = args.stopwords, use_lemmatizer = args.lemmatize, use_stemmer = args.stemmer, args = args)
+    generate_overview("./", remove_stopwords = args.stopwords, use_lemmatizer = args.lemmatize, use_stemmer = args.stemmer, minimum_token_length = args.tokenlength, use_bigrams = args.bigrams, use_trigrams = args.trigrams, args = args)
     print("Done.")
 
 if __name__ == '__main__':

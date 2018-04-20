@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 128
+Raw number of types: 98
+Raw Type token ratio: 0.765625
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 252
+Number of types: 237
+Type token ratio: 0.9404761904761905
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'dec, campaign, handy, gif, matthew, conlen, election, postelection, clinton, campaign, campaigning, donald, trump, clinton, campaign, clinton, dayaftertheelection, concession, york, news, hillaryspeechescom1, campaign, the last, last weeks, handy gif, gif matthew, matthew conlen, election get, get the, the data, data github, github github, github data, data datapresidentialcampaigntrail, datapresidentialcampaigntrail one, one the, the main, main postelection, hillary clinton, clinton campaign, campaign has, has been, she didn, donald trump, than clinton, inperson media, through nov, nov clinton, her dayaftertheelection, dayaftertheelection concession, concession speech, york according, according data, collected from, from the, news and, and hillaryspeechescom1, hillaryspeechescom1 you, can see, their campaign, campaign stops one, stops one handy, handy gif matthew, gif matthew conlen, under 2016 election, election get the, get the data, the data github, data github github, github github data, github data datapresidentialcampaigntrail, data datapresidentialcampaigntrail one, datapresidentialcampaigntrail one the, one the main, the main postelection, the hillary clinton, hillary clinton campaign, clinton campaign has, campaign has been, that she didn, she didn enough, campaigning donald trump, certainly did more, traveling than clinton, than clinton made, clinton made 106, made 106 campaign, and inperson media, through nov clinton, her dayaftertheelection concession, dayaftertheelection concession speech, concession speech new, speech new york, you can see, how their campaign')
+
+('JJ', 'last, main, hillary, enough, stops, inperson, nov, new, conservative, daily, one handy, under 2016, criticisms the, the hillary, that she, campaigning donald, traveling than, campaign stops, and inperson, from sept, sept through, including her, new york, the conservative, you can, how their, compared the, last weeks 2016, weeks 2016 campaign, filed under 2016, postelection criticisms the, criticisms the hillary, enough campaigning donald, more traveling than, fundraisers and inperson, from sept through, sept through nov, including her dayaftertheelection, collected from the, from the conservative, and hillaryspeechescom1 you, hillaryspeechescom1 you can, see how their, schedules compared the')
+
+('NNS', 'weeks, data, github, data, criticisms, fundraisers, media, appearances, data, schedules, maps, campaign stops, stops rallies, rallies fundraisers, media appearances, campaign schedules, the maps, the last weeks, campaign stops rallies, stops rallies fundraisers, inperson media appearances, york according data, conservative daily news, their campaign schedules, compared the maps')
+
+('VBZ', 'stops, rallies, daily news, been that she')
+
+('VBD', 'filed, made, sept, made, speech, dec 2016, weeks 2016, conlen filed, certainly did, clinton made, clinton made, speech new, data collected, schedules compared, matthew conlen filed, main postelection criticisms, trump certainly did, nov clinton made, campaign schedules compared')
+
+('VB', 'get, maps above, the maps above')
+
+('VBP', 'github, datapresidentialcampaigntrail, see, fundraisers and, appearances from, see how, rallies fundraisers and, media appearances from, daily news and, can see how')
+
+('VBG', 'traveling, including, according, enough campaigning, more traveling, only including, didn enough campaigning, did more traveling, made only including, new york according')
+
+('VBN', 'collected, compared, according data collected')
+
+('JJR', 'filed under, conlen filed under')
+

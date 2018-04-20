@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 327
+Raw number of types: 174
+Raw Type token ratio: 0.5321100917431193
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 570
+Number of types: 527
+Type token ratio: 0.9245614035087719
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'apr, walt, hickey, remix, lot, interest, audience, github, page, see, information, use, respondent, zip, code, income, gender, region, interest, language, analysis, code, inability, core, identity, please, ross, bechdel, test, research, kickoff, point, point, endeavor, published our, our data, data the, the south, south and, midwest walt, walt hickey, under remix, remix there, there was, was lot, interest the, tuesday and, and wednesday, surveymonkey audience, the south, making the, the data, github our, our github, github page, page you, south and, csv format, can make, the data, some information, information didn, didn use, such respondent, respondent zip, zip code, code income, income gender, gender and, and region, also column, column that, that may, interest people, people who, some language, language analysis, their own, the zip, zip code, code data, southern and, midwestern inability, agree the, the core, split are, missouri and, own identity, identity please, send any, any data, ross and, and the, the bechdel, bechdel test, our research, research kickoff, kickoff point, point you, can also, whole point, point our, our endeavor, endeavor was, was learn, learn more, the south and, and midwest walt, midwest walt hickey, filed under remix, there was lot, lot interest the, wrote tuesday and, tuesday and wednesday, wednesday using the, two surveymonkey audience, make the south, south and the, and the midwest, midwest making the, making the data, data available github, available github our, github our github, our github page, github page you, the south and, surveys csv format, csv format you, you can make, what excited see, with the data, there some information, some information didn, information didn use, such respondent zip, respondent zip code, zip code income, code income gender, income gender and, gender and region, there also column, may interest people, interest people who, want some language, some language analysis, the zip code, zip code data, the southern and, the midwestern inability, inability agree the, agree the core, states and how, and how split, how split are, such missouri and, their own identity, own identity please, please send any, send any data, remixes the data, bob ross and, ross and the, and the bechdel, the bechdel test, remixes and might, and might post, might post interesting, use our research, our research kickoff, research kickoff point, kickoff point you, you can also, the whole point, whole point our, point our endeavor, our endeavor was, endeavor was learn, was learn more')
+
+('VBN', 'published, filed, data posted, will appreciated, the data posted, insight will appreciated')
+
+('NNS', 'data, posts, results, polls, states, data, responses, surveys, heads, tails, folks, approaches, people, respondents, words, approaches, data, definitions, regions, states, residents, states, data, remixes, data, articles, remixes, things, questions, findings, regions, the posts, the results, audience polls, which states, the responses, midwest surveys, make heads, interesting approaches, asked respondents, own words, interested approaches, local definitions, definitions regions, core states, are residents, difficulttocategorize states, data remixes, the data, from articles, fantastic remixes, interesting things, any questions, new findings, nebulous regions, published our data, interest the posts, using the results, surveymonkey audience polls, about which states, find the responses, and midwest surveys, can make heads, for interesting approaches, analysis asked respondents, their own words, especially interested approaches, expatriates local definitions, local definitions regions, the core states, split are residents, residents difficulttocategorize states, any data remixes, posted from articles, resulted fantastic remixes, post interesting things, send any questions, questions new findings, particularly nebulous regions')
+
+('JJS', 'midwest, midwest, midwest, and midwest, lot interest, the midwest, and midwest, may interest, south and midwest, was lot interest, south and midwest, that may interest')
+
+('VBD', 'wrote, asked, split, posted, resulted, appreciated, hickey filed, what excited, that could, analysis asked, especially interested, test resulted, regions insight, walt hickey filed, what what excited, language analysis asked, words especially interested, missouri and virginia, bechdel test resulted')
+
+('JJ', 'tuesday, wednesday, surveymonkey, south, available, github, format, excited, interesting, live, interested, zip, southern, midwestern, local, midwestern, virginia, fantastic, interesting, new, fivethirtyeightcom, whole, nebulous, apr 2014, wrote tuesday, using the, two surveymonkey, about which, make the, data available, available github, find the, the south, format you, you can, what they, there file, with the, there some, use such, make for, want some, where they, live their, use the, are the, the southern, and midwestern, expatriates local, explain the, the midwestern, how split, states such, such missouri, their own, resulted fantastic, post interesting, use our, you can, send any, findings walterhickey, fivethirtyeightcom the, the whole, about these, particularly nebulous, data the south, posts wrote tuesday, results two surveymonkey, polls about which, states make the, the data available, you find the, responses the south, format you can, tails what they, mean there file, folks with the, data there some, didn use such, use such respondent, could make for, who want some, say where they, they live their, live their own, that use the, use the zip, where are the, are the southern, southern and midwestern, midwestern expatriates local, regions explain the, explain the midwestern, difficulttocategorize states such, states such missouri, and virginia their, virginia their own, test resulted fantastic, that use our, point you can, also send any, new findings walterhickey, walterhickey fivethirtyeightcom the, fivethirtyeightcom the whole, more about these, these particularly nebulous')
+
+('VBG', 'using, making, explaining, wednesday using, midwest making, file explaining, for interesting, and wednesday using, the midwest making, there file explaining, make for interesting')
+
+('VBP', 'make, find, csv, make, mean, data, column, want, say, use, explain, agree, missouri, use, send, walterhickey, learn, posts wrote, results two, states make, south and, you find, responses the, surveys csv, they mean, excited see, what folks, folks with, there also, who want, they live, that use, regions explain, inability agree, states and, and virginia, please send, remixes the, articles bob, remixes and, that use, also send, questions new, walterhickey fivethirtyeightcom, the posts wrote, the results two, which states make, the south and, the responses the, midwest surveys csv, what they mean, what folks with, approaches there also, people who want, asked respondents say, where they live, approaches that use, definitions regions explain, midwestern inability agree, core states and, identity please send, data remixes the, from articles bob, fantastic remixes and, things that use, can also send, any questions new, findings walterhickey fivethirtyeightcom')
+
+('VB', 'make, difficulttocategorize, send, bob, post, could make, respondents say, residents difficulttocategorize, that could make, are residents difficulttocategorize, regions insight will')
+
+('VBZ', 'expatriates, heads tails, where are, midwestern expatriates, remix there was, make heads tails, see what folks, region that could, column that may, data where are, and midwestern expatriates')
+
+('JJR', 'filed under, hickey filed under')
+
