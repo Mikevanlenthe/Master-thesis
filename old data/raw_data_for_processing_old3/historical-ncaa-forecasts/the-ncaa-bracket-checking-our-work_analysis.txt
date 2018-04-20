@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 993
+Raw number of types: 370
+Raw Type token ratio: 0.3726082578046324
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 677
+Number of types: 324
+Type token ratio: 0.47858197932053176
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'mar ncaa bracket work march madness github github hallice sulaimon ncaa basketball lance state defeat virginia friday model state percent chance winning percent chance course team edge duke favorite mercer week mercer time question forecast term calibration truth advertising run team percent favorite percent time tournament year formula period change computer power rating espn basketball power index season baseline evaluation year york game favorite percent time favorite model percent time level percent percent confidence drawn everything duke game mercer state virginia evaluate way use win probability example bin favorite probability percent percent practice database ohio state percent chance university texas san antonio win percent fact time year missouri state percent favorite bin percent percent percent time fact percent time percent percent percent cocky something model chance bin confidence result confidence interval calibration calibration encourage work way judge tournament tell buddy year correction work reader database winner semifinal chart table text result assistance error')
+
+('VBG', 'checking king calling evaluating winning winning adding counting containing according simulating beating being going performing getting following winning speaking checking')
+
+('VBN', 'filed supposed expected been published changed been played published been based supposed expected won expected been duke listed been changed')
+
+('VBP', 'get mercer rasheed are tossup are are say have include emphasize espn are have tell win win expect work contrast have are are are are check think have have reflect')
+
+('NNS', 'data data datahistoricalncaaforecasts defends duke images forecasts intents purposes times upsets underdogs times projections games totals games predictions predictions times versions predictions hindcasts forecasts results times favorites favorites games bins bins games games exceptions norfolk numbers favorites probabilities teams win games teams games teams probabilities games favorites probabilities teams probabilities 50s favorites differences ranges results games intervals deviations results results probabilities')
+
+('JJ', 'shot tournament getty ncaa tournament probabilistic fivethirtyeight michigan isn michigan other percent last probabilistic technical long fivethirtyeight ncaa little only substantive fifth reasonable total playin file past important new actual overall fivethirtyeight win macro calibrated interval important slim michigan intuitive first favorite favorite favorite favorite win win win win wrong random graphic respective perfect perfect significant overall true fivethirtyeight national correct appreciate')
+
+('VB', 'say call happen think find break percent result explain let know don apologize')
+
+('VBZ', 'gives has has has gives doesn digit contains contains bit portrays')
+
+('JJR', 'clearer more more heavier better worse heavier worse heavier easier better')
+
+('VBD', 'was won were fivethirtyeight won was supposed was had won were lost were won performed were had discovered connecticut')
+
+('JJS', 'heaviest')
+

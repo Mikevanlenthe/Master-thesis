@@ -1,0 +1,45 @@
+Article: sleeping-alone-data
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1276
+Raw number of types: 479
+Raw Type token ratio: 0.37539184952978055
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 587
+Number of types: 341
+Type token ratio: 0.5809199318568995
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, bed, mona, chalabi, hope, number, help, movie, censor, wife, motion, picture, association, america, item, section, list, man, woman, organization, thought, vulgarity, decade, bed, lucy, well, time, journalist, work, chance, bed, reality, harder, gauge, arrangement, sleep, foundation, respondent, sleep, america, poll, someone, bed, couple, survey, month, audience, help, response, adult, partnership, union, find, github, page, respondent, partner, percent, partner, home, night, respondent, conform, stereotype, couple, year, age, respondent, percent, percent, respondent, get, reason, status, story, percentage, point, rate, couple, couple, sleep, bed, factor, arrangement, le, surprising, wife, number, year, chance, couple, year, le, percent, night, couple, year, course, result, age, vice, versa, idea, wife, turn, room, percent, apart, share, bedroom, percent, bedroom, percent, way, space, choice, point, paul, rosenblatt, professor, emeritus, university, wealth, class, role, arrangement, rosenblatt, research, sleep, pattern, rosenblatt, challenge, house, master, bedroom, couple, half, apart, place, offer, list, reason, option, tick, box, list, percent, percent, argument, percent, bedroom, behavior, response, question, wife, sex, sleep, euphemism, sex, sleep, cofounder, bedtime, network, community, tip, cindy, bressler, lisa, mercurio, couple, relationship, sleeping, sextime, theory, respondent, statement, sex, life, result, bed, percent, respondent, percent, bedtime, network, effect, comfort, response, result, evolution, norm, stanley, doctor, laboratory, norfolk, university, hospital, england, sex, sleep, trend, phenomenon, arrangement, space, lead, idea, sex, bedroom, somehow, connection, sex, activity, time, location, reason, mind, time, building, bedroom, sense, shameembarrassment, sex, bedroom, door, place, adult, bedroom, sex, couple, status, sleeping, arrangement, couple, kingdom, number, help, question, send, dearmona, fivethirtyeightcom, datalab538')
+
+('JJ', 'dear, many, couple, sleep, separate, melvin, bed, dear, mona, sleep, different, many, anonymous, anonymous, carefuls, careful, scene, ricky, separate, married, offscreen, couple, onscreen, high, offscreen, anonymous, many, national, percent, sleep, separate, couch, ask, conducted, new, early, surveymonkey, american, domestic, civil, significant, slept, couple, regularly, curious, married, likely, sleep, first, likely, sleep, possible, marital, different, separate, partnered, separate, anonymous, girlfriend, affect, slept, percent, anonymous, setup, outdated, respondent, sleep, separate, slept, slept, separate, couch, large, different, several, several, question, decide, sleep, tried, comprehensive, possible, high, checked, sleep, illness, anonymous, different, bizarre, overall, sacrosanct, separate, optimistic, social, neil, sleep, norwich, human, modern, lack, animal, sleep, separate, different, different, human, sleep, closed, privacy, sleep, plenty, regardless, marital, separate, animal, answered')
+
+('VBN', 'filed, required, issued, shown, seen, detailed, gathered, compared, spent, compared, specified, made, applied, realized, posed, used, dedicated, scheduled, prioritized, tested, disagreed, linked, carried, linked, linked')
+
+('VB', 'get, risk, take, let, look, factor, function, find, play, sleep, overstated, get, mona, like')
+
+('NNS', 'data, github, data, datasleepingalonedata, douglas, couple, data, people, data, data, topic, data, people, people, people')
+
+('VBP', 'github, merle, dear, come, sleep, love, minnesota, afford, link, online, say, link, sleep, hope')
+
+('VBD', 'bed, bed, changed, tucked, told, found, married, thought, asked, married, said, said, mentioned, said, bed, said, bed, said, said, constrained, said, found, held, agreed, improved, responded, agreed, said, managed, caused, became, started, became')
+
+('VBZ', 'lucy, suggests')
+
+('VBG', 'sharing, happening, sleeping, existing, living, sleeping, getting, cohabiting, cohabiting, sleeping, sleeping, remembering, sleeping, referring, sharing, wing, snoring, thinking, according, sharing, sleeping, asking, sleeping, sleeping, according, sleeping, developing')
+
+('JJS', 'best, least, best, least')
+
+('JJR', 'older')
+

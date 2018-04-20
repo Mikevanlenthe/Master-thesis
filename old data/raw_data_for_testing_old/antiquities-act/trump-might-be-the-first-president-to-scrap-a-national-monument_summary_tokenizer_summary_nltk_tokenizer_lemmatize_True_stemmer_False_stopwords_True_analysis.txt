@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 928
+Raw number of types: 269
+Raw Type token ratio: 0.28987068965517243
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag president monument ella koeze administration president executive order department monuments1 trump willingness monument status monument president site month administration creation government overreach approval president protection site president site status conservation association group conservation land monument status congress president monument status fact power monument status point monument designation ground share government executive order government land responsibility country giant park pristine state survey database state land land designation monument kind protection land government designation government reign land order power nation trump office administration order rule protection water trump resolution coal land order indication trump administration conservation poll percent land percent amount percent land home land popularity conservation fact secretary zinke president scrap review damage address rescind operate trump executive freer support ear president activity park kind site case antiquity president monument antiquity monument administration acre agency monument agency agency area activity bullet body company policy activity bear cover offer land github make teddy park hatch land half half executive conservationist monument review abolish dataantiquitiesact site joint mean park park fall roosevelt drilling review cover reshape disagree site site lure land mean zinke')
+
+('JJ', 'trump monument subject public recreational tag trump predecessor bear conservative monument antiquity monument monument respondent conservative conservative receive scholar wednesday utah threshold monument trump lead interior designate first national interior national recent national national former final large utah federal national congressional national national national nonprofit public national many national national national legal national national small federal states3 national national several overall several federal national different western natural geological national regional local national much special public federal public recent symbolic american national popular newssurveymonkey february national many first national first land4 protected protected acre ear')
+
+('VB', 'trump remove')
+
+('VBG', 'fishing logging hunting fishing instructing signaling including preventing according testing including depending determining including grazing using making rejecting')
+
+('NNP', 'montana')
+
+('VBD', 'roosevelt roosevelt revoke repealed took took said said said created managed protected called used')
+
+('NNS', 'data github thanks data others others data people promotes cattle kept extends maintains')
+
+('VBP', 'trump park acre ear aggregate ryan')
+
+('VBZ', 'describes appears owns evaluates')
+
+('VBN', 'filed signed signed raised published signed collected revoked redesignated protected owned designated established owned allowed owned conducted designated issued established')
+
+('JJS', 'west west largest latest')
+
+('JJR', 'easier')
+
+Token analysis after pre-processing 
+Number of tokens: 365
+Number of types: 199
+Type token ratio: 0.5452054794520548
+

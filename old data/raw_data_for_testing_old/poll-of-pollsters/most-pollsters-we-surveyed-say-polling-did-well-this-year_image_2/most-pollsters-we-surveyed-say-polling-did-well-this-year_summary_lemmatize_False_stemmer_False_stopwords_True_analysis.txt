@@ -1,0 +1,43 @@
+Token analysis before pre-processing 
+Raw number of tokens: 2073
+Raw number of types: 554
+Raw Type token ratio: 0.2672455378678244
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags moines moines charlie pollsters pollsters datapollofpollsters supporters supporters elections others polls polls pollsters polls pollsters principles polls pollsters results defenses results polls pollsters pollsters questions results polls respondents polls results geographies others polls polls winners losers ways polls polls voters jobs women independents polls people polls races organizations polls trends polls pollsters polls ones models pollsters models differences pollsters pollsters trends implications results pollsters pollsters methods polls pollsters years pollsters pollsters procedures organizations votes ratings polls points points pollsters pollsters rivers polls pollsters races rivers firms winners years methods cellphones respondents pollsters polls polls purposes seats surprises months emotions lots data polls results views polls performances polls reasons polls geographies details victories races republicans kansas things struggle elections douglas points years polls years results cellphones polls knows pollsters democrats numbers speaks speaks needs knows republicans republicans')
+
+('VBN', 'surveyed assessed taken zagged assessed checked reported embarrassed answered made captured made spotted predicted thought tied assessed overstated pointed found yielded included asked thought enjoyed done filed credited skewed conducted deviated polled requested balanced muted named anticipated balanced named named published done conducted onesided answered weighted')
+
+('VBP', 'charlie data routs github returns data quotes bialik question electorate poll christopher barbara edge colorado electorate john yougov absolute consensus carvalho twoparty mean play know evaluate need look change better')
+
+('VBD', 'responded voted stumbled wrote asked said prompted followed wanted said said said said came showed showed showed said said pointed asked said asked went showed concluded asked said said said said said said went gave said said said said said said heading1 said fivethirtyeight said predicted said said said answered said said skewed suggested made drowned asked encountered answered said elaborated')
+
+('JJ', 'felt want yougov ernst argued combined tended looked answered firm firm light seventeen wednesday surveymonkey tuesday magnitude borick carvalho plus many respondent handle right anzalone lead yougov public wednesday average average bias error2 average brad universe wish fuck variable sleep credited focused underestimated worried dissatisfied successful stuck related senelect senate decisive many second consecutive national ethical first prolific political partial early pleased full valid many wrong good republican correct many wrong gubernatorial possible many close several previous good unusual good good correct pessimistic third anonymous good presidential good willing last active previous previous masondixon specific good little irresponsible underperformed next many reliable colorful whole turbulent little different closed general ernst iowa determine finetune vote methodology right nnps')
+
+('NN', 'performance decide thought election spoke thought grove year carl poll github github joni ernst tuesday selzer company race ernst tuesday selzer company race house statehouse colleague nate silver preelection election party campaign election work industry performance poll election year nation surprise poll result mississippi senate response night direction poll performance night time everyone college case case college economy president time movement election carvalho towery wave towery willingness request carvalho part average carvalho science challenge time industry speed respondent problem pollster election electorate electorate pollster battle pollster liszt research year harder money time time organization pollster work firm iowa senate race database count policy news zogby poll performance article website yougov vote share percentage jensen mention firm yougov error jensen coker research majority name everyone phone night everyone joseph pollster online target race time control joseph anzalone provider matter business cycle mean iowa colorado equation language night election analysis experience enema beat west senelect brief postelection tuesday muhlenberg marist washington matt insideradvantage night iowa correct year headscratching iowa ernst reticent everyone senate senate thirdhighest average gabriel online online number night iowa learn study home mute identify vote cost vote look ensue work work conduct selzer company name respond')
+
+('JJS', 'least best west least thirdlowest')
+
+('VBZ', 'calls calls trends trends trends pressures joni republicans forecasts republicans joni losers makes comes takes')
+
+('VBG', 'polling calling calling depicting answering answering predicting counting moving spotting spotting determining going polling giving leading digging polling ccadvertising ignoring testing going polling polling polling trailing polling polling polling polling neverending unskewing')
+
+('NNPS', 'democrats')
+
+('JJR', 'cheaper less better less larger')
+
+('NNP', 'yougov')
+
+('VB', 'senate improve spend turn love answer')
+
+Token analysis after pre-processing 
+Number of tokens: 679
+Number of types: 386
+Type token ratio: 0.5684830633284241
+

@@ -1,0 +1,67 @@
+
+
+
+Apr. 28, 2014
+						at
+						12:16 PM
+
+
+
+							Both Republicans And Democrats Have an Age Problem						
+
+
+
+By Nate Silver and Dhrumil Mehta
+Filed under Age
+
+Get the data on GitHub
+GitHub data at data/congress-age
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Senate Judiciary Committee members (left to right) Orrin Hatch, Chuck Grassley, Patrick Leahy, Dianne Feinstein and Charles Schumer listen to testimony during a 2013 hearing.							Chip Somodevilla / Getty Images
+
+
+				Senate Judiciary Committee members (left to right) Chuck Grassley, Patrick Leahy, Dianne Feinstein and Charles Schumer listen to testimony during a 2013 hearing.									Mark Wilson / Getty Images
+
+
+
+The New York Times ran a long feature earlier this month claiming that the election of President Barack Obama in 2008 has done little to inspire young people to run for office. The article had some strong reporting but did not cite much statistical evidence. So here’s a simple question: Is the U.S. Congress getting younger?
+No. The trend in recent years has been toward an older Congress. It’s gotten no better — and maybe a bit worse — under Obama.
+We collected data from a variety of sources, including GovTrack.us, the Sunlight Foundation and The New York Times’ Congress API, on members of Congress since 1947. (We’ve posted our data compilation here.) The people who represent us are considerably older than the population as a whole. The average member of the current 113th Congress was 57.6 years old as of the start of the term on Jan. 3, 2013. This is close to the all-time high of 57.8 years, which was achieved in the 111th Congress, which came into office with Obama in 2009. By contrast, the average age was 53.0 in January 1993, when Bill Clinton took office, and 49.5 when Ronald Reagan did in 1981.
+
+Democrats in Congress average 59.6 years old — older than Republicans, who are 55.8. Democrats have been older in each congressional term since the 104th Congress, which came into office after the Republicans’ “Contract With America” wave election of 1994. But the gap has widened in the current and previous Congresses, under Obama.
+One might think that Republicans’ relative youth reflects years like 1994 and 2010, when the GOP won a huge number of seats. New members of Congress are typically younger than the incumbents they replace. Those serving for the first time in the 113th Congress were an average of 50.5 years old on Jan. 3, 2013, less than the average of 59.2 years for those members who also served in the previous Congress.
+We can correct for this by taking the average age only among new members of Congress. Democrats are still older by this measure. Those Democrats serving for the first time in the past two Congresses were an average of 51.7 years old at the start of their terms, older than newly serving Republicans, who were 49.0.
+
+This evidence might seem counterintuitive: Aren’t Democrats the party preferred by young voters? Partisan preferences of the electorate by age have varied over the years, but young voters have favored Democrats recently. In 2012, Obama won voters under the age 30 by 23 percentage points.
+However, it would be a mistake to think of Democrats who run for Congress as representative of a random subset of Obama voters. When it comes to voting for president, many Americans are “closet partisans” — they may label themselves as independents, or say they are only weakly affiliated with one of the parties, but they can be counted on to vote for the same party most of the time.
+These soft partisans may engage in a relatively narrow scope of political activity. Usually they vote in even-numbered years, and sometimes they follow political news. But they’re unlikely to donate to campaigns or to volunteer for them. They may be more interested in the underlying issues — anything from gay marriage to gun rights — than in the candidates and parties themselves.
+By contrast, those people who seek federal office are by definition deeply immersed in partisan politics. They’ll need to be strong supporters of their parties’ agendas in order to win their nominations, rather than to take more heterodox views.
+The General Social Survey, which has been conducted periodically since 1972, provides for a more nuanced view of Americans’ partisan leanings. We collected data from it dating back to 1994, which is roughly when Republicans began to be younger than Democrats in Congress.
+In that survey, respondents are given a number of ways to label themselves, from independents without any partisan disposition to “strong Democrat” and “strong Republican.” It turns out that older Americans are much more likely to identify as strong partisans. Just 10 percent of those aged 18 to 29 identified themselves as strong Democrats in the sample. But the frequency increased with age, topping out at 23 percent for those aged 80 and older. The tendency to identify oneself as a “strong Republican” also increased with age, although the slope of the curve is a little flatter. By contrast, the number of soft partisans — Americans who identified themselves as weakly affiliated with one of the major parties — decreased with age.
+
+We can frame this data another way: How old is the average “strong Democrat” or “strong Republican”? This is a better approximation of the pool from which congressional candidates may be drawn.
+We’ve presented this data below, dating back to 1972, and aggregating different years of the General Social Survey under the president who was serving at the time. (Since the General Social Survey groups all respondents 89 or older into the same bucket, we used actuarial tables to estimate how old nonagenarian voters actually were.)
+
+Republicans follow a v-shaped pattern: They became significantly younger under Reagan and George H.W. Bush as compared to under Richard Nixon and Gerald Ford. But they have grown older again since. The average “strong Republican” was 52.3 years old in the 2010 and 2012 versions of the survey.
+The age of “strong Democrats” has been steadier, ranging between 48.6 and 49.9 years under each president from Nixon to George W. Bush. However, their average age has actually increased, to 50.7 years, under Obama.
+The Americans who identify as strong partisans and who take the most active interest in politics are older still. In 2012, the General Social Survey asked Americans how informed they were about politics. Those who described themselves as strong Democrats and said they knew “quite a bit” or a “great deal” about politics were 52.7 years old, on average. The strong Republicans who said the same were 53.6 years old.
+It’s very important to emphasize that these results do not imply that young people are uninterested in political affairs. Political movements ranging from Ron Paul’s campaigns in 2008 and 2012 to Occupy Wall Street to the push for gay marriage have been full of young people. However, these younger voters may be skeptical of the role played by the major parties. Disapproval rates of Congress remain near record highs. George W. Bush was unpopular for most of his second term, and Obama’s approval ratings have been underwater more often than not since 2010. These Americans may feel as though the major parties aren’t serving their interests very well.
+They’ll often still vote. Youth turnout in presidential years has increased of late. But young people may not be interested in organizing the rest of their political activities under a partisan banner. Occupy Wall Street, for instance, was made up of a group of Americans who generally identified with the left, but not necessarily as Democrats.
+Neither major party has seen its most politically active participants become younger since Obama took office. The question is whether this might become a vicious cycle; a Congress full of old people might serve the interests of younger Americans even less well.
+

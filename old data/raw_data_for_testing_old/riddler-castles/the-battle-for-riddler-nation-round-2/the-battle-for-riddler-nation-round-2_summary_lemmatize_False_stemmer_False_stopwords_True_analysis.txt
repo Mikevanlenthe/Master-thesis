@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 968
+Raw number of types: 311
+Raw Type token ratio: 0.3212809917355372
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags meyers rules castles points points castles points points plans matchups chosen types tickets licenses problems things weeks coworkers drivers drivers days drivers soldiers soldiers conquers forces points soldiers plans distributions soldiers wars congratulations pieces puzzles squares congratulations drives sends wins wins wins wins')
+
+('VBP', 'offer want start want correct drive riddler land archenemy enemy enemy adjudicate royal solution slowpuzzle castles find know')
+
+('NN', 'hold need split remove battle riddler nation riddler illustration riddler week math probability riddler express something riddler movement submit either1 shoutout column riddler vacation hint puzzle dust twitter riddler express jerry commute carpool driver drive home foot chance driver percent chance ticket time driver percent chance driver percent chance driver percent state license driver ticket driver carpool license police officer carpool ticket morning carpool answer riddler demand battle reign cyrus battle time value conqueror victory number distribution submit plan game battle battle battle oneonone battle riddler nation conquer plan riddler express hekhuis barbara california winner week express shape square puzzle submitter solution book math approach problem figure rest shape rectangle strip side solution riddler bambury winner puzzle week video solution riddle email oliverroeder fivethirtyeightcom round chance dear benevolent wartorn victory wouldbe time rule week tahna santa strange side eightbynine week haydon london week work work expect submit distribute fight submit form deconstruct submit')
+
+('JJ', 'castle send receive welcome logic classic attic maximum hettle february queen castle victory intel github chart queen adapt early hard square length strip bottom crowned guillaume kurkdjian next favorite lead third revoked many last classic popular inaugural distant strategic worth valuable theoretic first possible last last particular systematic individual easy last classic last classic stop collect reassemble route')
+
+('VB', 'begin')
+
+('JJR', 'roeder answer')
+
+('VBG', 'speeding driving evening king following collecting careening getting assuming competing distributing king')
+
+('VBZ', 'troops castles squares battles wins shows')
+
+('VBD', 'diarmuid posted crowned revoke')
+
+('VBN', 'provided edited filed related headed selected ticketed issued lost given handed formed bitesized coauthored')
+
+Token analysis after pre-processing 
+Number of tokens: 320
+Number of types: 219
+Type token ratio: 0.684375
+

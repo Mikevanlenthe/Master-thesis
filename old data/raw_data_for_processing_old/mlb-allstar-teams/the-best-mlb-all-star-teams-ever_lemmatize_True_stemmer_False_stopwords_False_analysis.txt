@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1232
+Raw number of types: 506
+Raw Type token ratio: 0.4107142857142857
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 690
+Number of types: 400
+Type token ratio: 0.5797101449275363
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJS', 'best best best most')
+
+('NN', 'allstar team paine baseball league outfielder mike trophy team victory league baseball game cincinnati ohio paul league allstar mike game ball park cincinnati ohio carr image occasion week league allstar game baseball abundance talent display hello mike question worth team term group allstar game answer talent league allstar game baseballreference replacement build projection system term complexity fall pecota projection year effect regress player performance mean projection estimate player talent season projection season progression basis talent rating player allstar game team rating proportion playing time player game itself2 talent rating season run contest help expectation differential win percentage allstar roster rate win team slate opponent season question squad competition team context league play average allstar team talent schedule team marinersesque game season expectation mariner team amount allstar team talent rating bill formula construct probability matchup allstar squad game assortment allstar team past check github allstar team method roster league sandy koufax game mound marichal bunning gaylord perry hall outfield willie aaron roberto clemente santo willie mccovey corner baseman fame catcher torre3 link masher dick willie stargell simulation collection allstar squad history year team hall famerladen predecessor allstar squad tweak study methodology allstar team paul goldschmidt bryce harper zack greinke year team alltime project game squad meanwhile team lag record trout posse talent rating player rest roster standard allstar team fare attempt talent baseball sport time baseball number silver phenomenon baseball adjustment sport league timeline adjustment player percent average player today year competition fact adjustment allstar team talent rating4 powerhouse drop third squad place team pitching higuera peak lineup hall henderson league allstar roster question deal crossera comparison change talent quality time exhibition allstar contest adjustment talent rating team game')
+
+('VBN', 'filed used runbased expected given formed runbased generated expected forced allen forced considered fivethirtyeight benefitted winfield settled combined')
+
+('JJ', 'american national tuesday sancya american allstar great american getty past major young full gifted first handle available components1 simple intricate crucially multiple true much average little pythagorean winning face typical allstar loose regular normal seattle mean true tremendous historical other aforementioned pythagorean log5 play random other mantle national hard juan outrageous infield second nearhall weak lineup fearsome hart bench random fellow same other tuesday national talented mccutchen other allstar individual impressive historical athletic other editorinchief nate timeline major present nate good weak timeline national aforementioned second great roger rickey national talented relative absolute tuesday talentladen timeline allstar')
+
+('NNS', 'angeles angeles celebrates win marcel data data belongs famers allstars leaguers implies allstars leaguers clemens famers boggs puckett')
+
+('VBP', 'angel angel adjust appear convert represent simulate level adjust slope average mean emerge teddy ripken dave think rank')
+
+('VB', 'hold allstar stand surprise post demolish remember play fare hank take apply kirby appreciate')
+
+('VBG', 'scoring asking aging taking following subtracting using using standing according starting starting losing according starting ranking rising beginning facing ranking sliding accounting')
+
+('VBZ', 'absurd james lefebvre pertains represents')
+
+('VBD', 'assembled held used compiled logged expected were turned possessed played were benefitted luck represented started relieved manned came andrew rank attempted arrived talented were powered included wade rank staged')
+

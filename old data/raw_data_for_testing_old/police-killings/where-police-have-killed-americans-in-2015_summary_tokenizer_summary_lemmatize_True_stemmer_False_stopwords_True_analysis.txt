@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 578
+Raw number of types: 279
+Raw Type token ratio: 0.4826989619377163
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag tag police github github makeshift scene scene freddie monday database year police coverage reader police information race1 place census information chance work information income census thing police place percent place census percent household quarter police percent population database percent percent inequality rate police cause anger police example cordaro home county york york city income database cordaro news family police news police example census tract income traffic stop table example county jail fairfax census country caution datacollection github github census census look shot david colleague reuben majorityblack michael shephard yield work link blacker virginia police police them5 entry plan medium submission effort encounter detail incident address tract death researcher journalist neighborhood term population neighborhood area number death neighborhood job opportunity street condition report number case result tract word number group effort number code tract call life household goldman goldman download public table income4 ferguson missouri pattern standoff mckenna live shot death police official fischerbaum bottom majorityblack lowincome vincent frank start rockland database reporting find look mean give poorest')
+
+('VBP', 'freddie know incident police protester incident household make')
+
+('JJ', 'gray makeshift gray tuesday guardian gray suburb guardian houston shot guardian demographic discriminatory sevenhour verified american statistic address neighborhood tract tract tract american tract tactic shotgun fled died casselman memorial memorial guardian guardian guardian tract3 whole guardian impressive interactive fatal reliable guardian possible basic guardian demographic economic full available large basic clear black overall racial narrative poor black educational economic february white median black median strange easy build happen interpret statistic freddie tend died unarmed lived race2 give nnps american')
+
+('VBD', 'crowdsourced found took took took said occurred posted opensourced limited occurred died died died')
+
+('NNS', 'data data data data datapolicekillings data verifies data africanamericans africanamericans people people thanks data data relies happens data')
+
+('VB', 'love take take')
+
+('VBG', 'building killing killing killing killing killing killing according underlying going combining making policing')
+
+('JJS', 'least richest')
+
+('VBZ', 'allows includes includes includes')
+
+('VBN', 'killed killed killed based filed arrested arrested killed written flawed killed converted killed killed killed killed armed launched counted emerged cited threatened')
+
+('JJR', 'poorer')
+
+Token analysis after pre-processing 
+Number of tokens: 338
+Number of types: 209
+Type token ratio: 0.6183431952662722
+

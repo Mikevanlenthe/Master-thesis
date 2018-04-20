@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1573
+Raw number of types: 535
+Raw Type token ratio: 0.34011443102352196
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 930
+Number of types: 401
+Type token ratio: 0.4311827956989247
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'colleg abus adderal illustr easili understand appeal adderal increas focu finish last reptilia tempt evid american adderal other studi medic increas partial adhd prevent adderal similar prescript high riski classifi adderal schedul same adhd adderal similar addict improv believ studi last adhd studi young broadli colleg studi paradox pattern studi competit gpa studi studi govern like same adderal recent nsduh annual american white black colleg anoth common studi colleg nonprescript use2 come studi young colleg colleg nonstud counterpart western nonmed prescript studi social studi fratern adhd social affect usag studi popular certain thi choos neighborhood colleg popular thi other such studi adderal popular studi popular onli singl studi nich studi popular select incom vertic studi popular campu studi signific thi popular competit admiss highachiev nonprescript studi such high skip studi lowerachiev assist adderal stay other adderal adderal nonmed like suicid signific adderal other struggl adderal third blame student exampl highachiev adderal adderal stress clear studi recent first exam other le googl adderal spike exam adderal dure exam struggl adderal wrong nsduh famili nonmed adderal famili deadlin adderal tempt steroid divin clear nonadhd actual analysi mani adhd')
+
+('NN', 'student aren emma pierson file drug github github datastudydrug illustr drug treat attent span month thi articl sever week draft caffeinefuel mania repeat deadlin loom wouldn drug world speed mani peopl agre proport use drug ritalin rapidli adhd percent accord analysi pharmaci prescript becaus diagnosi rate percent adolesc center analysi mani peopl drug way doctor exampl snort veri drug enforc administr drug categori cocain becaus potenti abus use prescrib treat medic effect unlik addict use improperli howev evid cognit mix risk medium coverag colleg student discuss rise drug colleg year clinton foundat describ misus drug epidem onli colleg student drug adult student drug interest drug use student school student drug use highachiev push fall emphasi drug colleg student stem part report use colleg student age peopl weren colleg look data nation survey drug health govern survey differ time times1 differ time percent percent differ famili receiv food stamp time percent percent look drug noncollegestud rang student engag research show drug adult matter student student percent adderal drive thi trend amanda divin professor illinoi drug behavior colleg student drug colleg campu percent member report use stimul evid environ dramat rate drug type colleg question nichecom inform help school collegebycolleg survey student name drug colleg locat select drug school england4 percent colleg student rocki mountain school report drug campu versu percent student england region impli survey school import trend drug campu drug colleg test chart point school horizont axi percentil score student axi show share student drug posit correl score drug previou research pattern colleg standard use multipl studi student drug colleg control factor school class hour student student procrastin studi advanc attempt cram studi night focus divin student way research student ritalin depress nsduh colleg student report level depress importantli mean caus gpa depress causal student depress school order factor adderal abus alcohol marijuana student school student gpa student academ perform mani student drug part becaus academ stress analysi nsduh student stimul time dure month convent support thi latter exampl search colleg town dure month drop dure summer month studi tweet mention period adult adderal initi adult work hour highincom job adult incom rate incom adult use adderal report level depress consid student confront exam employe confront athlet particularli everyon support idea individu prescript experi benefit code avail github adult drug')
+
+('NNS', 'data data kelsey kelsey vyvans diseas data nonmed univers data nich campus3 data data ritalin data highli data correl thi studi data data data els data')
+
+('VBP', 'dake dake facebook listen run increas thi have control recommend do highli significantli colleg use have studi cite connect differ look miss show show statist find have frequenc tend thi have make find peak show seem suggest stimul')
+
+('VBZ', 'adhd includ ritalin provid total exampl repres')
+
+('VBN', 'taken increas nonmed nonmed nonmed use nonmed consid nonmed nonmed')
+
+('VBD', 'wrote found nonmed said were were were nonmed said nonmed sought gave found were were were were said were found spent said found were nonmed found were sourc found found thought were were nonmed were read')
+
+('VB', 'make keep thi behavior take be be obtain peopl expect stay use feel take becaus take like seem take')
+
+('JJR', 'easier more closer smaller more easier answer more more more higher more lower higher more more older greater higher')
+
+('JJS', 'most highest lowest')
+

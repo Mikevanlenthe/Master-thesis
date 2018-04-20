@@ -1,0 +1,29 @@
+Token analysis before pre-processing 
+Raw number of tokens: 799
+Raw number of types: 366
+Raw Type token ratio: 0.45807259073842305
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('JJ', 'complete##relative##warrior##simple##total##simple##final##upset##final##western##semifinal##average##league##select##golden##warrior##final##fourth##lead##final##slump##next##double##title##nbas##rapid##several##consecutive##celtic##celtic##celtic##modern##celtic##weak##lackluster##regular##relative##celtic##good##much##current##celtic##common##similar##long##great##little##le##regular##first##active##long##next##march##former')
+('NN', 'history##franchise##strength##game##work##prediction##season##championship##rate##team##decade##play##method##measure##strength##gamebygame##result##rating##franchise##game##history##rating##rating##formula##score##game##team##point##credit##victory##margin##rating##zerosum##rocket##point##game##conference##playoff##meant##point##rating##average##league##expansion##team##begin##rating##team##zoom##history##bull##surprise##chicago##bull##regularseason##rating##state##game##chicago##championship##season##bull##peak##game##playoff##record##chicago##game##digit##game##game##greatness##season##rating##part##competition##expansion##league##franchise##span##year##veteran##elgin##baylor##year##wilt##chamberlain##jerry##team##perception##retirement##game##season##streak##win##rating##point##team##peak##rating##season##title##franchise##sixth##dont##respect##boston##title##dominance##sport##doesnt##care##opponent##season##playoff##achievement##rating##hung##team##aboveaverage##rating##year##antonio##spur##team##streak##time##season##york##basketball##reed##walt##frazier##rating##franchise##history##thing##smooth##york##close##season##game##time##title##rating##team##peak##closest##net##moment##linsanity##johnson##play##glory')
+('VBN', 'based##lost##gone##taken##fallen##buck')
+('VBD', 'calculated##input##played##gained##expanded##explore##surpassed##picked##stomped##went##watered##anchored##supposed##strengthened##reeled##unparalleled##maintained##peaked##went##daylight##lived')
+('VB', 'gain##bulls5##improve')
+('VBG', 'winning##winning##winning##depending##losing##clinching##going##middling##aging##approaching##raising##ring')
+('JJR', 'larger##clipper##higher##lower')
+('VBZ', 'houston##angeles')
+('VBP', 'win##take##willis##dave##franchise##larry')
+('JJS', 'best##west##least##highest')
+('NNS', 'supersonics##seattle##lakers##lakers##angeles##lakers##baylors##lakers##lakers##lakers##knicks##bestknicks##knicks##knicks##knicks')
+('NNP', 'knock')
+
+Token analysis after pre-processing 
+Number of tokens: 350
+Number of types: 237
+Type token ratio: 0.6771428571428572
+

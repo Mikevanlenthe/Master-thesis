@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1101
+Raw number of types: 388
+Raw Type token ratio: 0.35240690281562215
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 558
+Number of types: 283
+Type token ratio: 0.507168458781362
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'extra sterling tackle junior many tie safe extra different fivethirtyeight competitive international late define competitive vast extra probability possible conservative extra conservative espn gathered fifa golden important continental such favorite determine easy other favorite extra huge unlikely statistical extratime random important sound logical likely extra minute germany favorite such final lead favorite favorite much logistic favorite italy italy favorite extra extra percent favorite edge such extra small favorite likely much practical percent previous extratime random united favorite main tournament brazilian')
+
+('NN', 'time crapshoot knockout round penalty nate silver world england jump costa rica diaz group world soccer match belo horizonte brazil matt soccer tune world knockout stage begin saturday guarantee team game match regulation time penalty kick game match treatment soccer power index match predictor power world forecast match predictor result match match game team match majority one time match predictor loss team knockout round match predictor proportion game assumption game team equivalent result time case assumption conjunction list extratime match suddendeath goal silver goal rule competition knockout stage world confederation championship match favorite rating rating sample rating rating translate system prematch match percent time penalty sample size fluke game percent chance prematch favorite time attempt reason prematch prevail time germany draw burkina faso wise side team minute play edge fact opportunity play minute regular football game penalty world spain spain goal minute avoid penalty percent time percent game penalty course feature regression model estimate probability difference team rating line chart knockoutstage game team difference instance ivory coast preworld rating favorite case start percent chance game regulation play chance time penalty percent edge time penalty chance prevailing point estimate difference team argentina algeria example difference argentina percent chance game time game penalty matchup knockout stage world regulation adjustment doesn difference rating favorite method percent system game match belgium state belgium percent percent effect brazil percent chance percent chance penalty paraguay')
+
+('VBN', 'filed tied based ranked made discontinued used correlated given come decided based based tied drawn based argentina gone')
+
+('VBP', 'raheem dunham think knockout require need resolve info go assume favorite match have occur favorite make have lose')
+
+('NNS', 'people draw stats netherlands others result maintains argentinaalgeria')
+
+('VBG', 'going using going saying having featuring elorating winning winning elorating winning having winning')
+
+('VB', 'minute decide match random result happen take have quite play')
+
+('VBD', 'tied calibrated were split identified looked were managed were were scored held were reflected reduced went went lopsided calibrated treated')
+
+('VBZ', 'draw calculates')
+
+('JJS', 'best')
+
+('JJR', 'more heavier smaller larger')
+

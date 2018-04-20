@@ -1,0 +1,45 @@
+Article: world-cup-predictions/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1101
+Raw number of types: 388
+Raw Type token ratio: 0.35240690281562215
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 493
+Number of types: 265
+Type token ratio: 0.537525354969574
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, time, crapshoot, knockout, round, penalty, nate, silver, world, cup, england, jump, tackle, costa, rica, diaz, group, world, cup, soccer, match, belo, horizonte, brazil, matt, soccer, tune, world, cup, knockout, stage, begin, guarantee, team, game, match, regulation, minute, time, penalty, kick, decide, game, knockout, match, treatment, soccer, power, index, match, predictor, power, world, cup, forecast, match, predictor, result, match, match, game, team, match, majority, end, draw, time, match, predictor, draw, loss, team, knockout, round, match, predictor, way, proportion, game, assumption, split, game, team, equivalent, result, time, case, assumption, conjunction, espn, list, extratime, match, fifa, goal, silver, goal, rule, competition, knockout, stage, world, cup, confederation, cup, championship, match, favorite, elo, rating, rating, elo, sample, spi, rating, elo, rating, system, match, percent, time, penalty, sample, size, result, fluke, game, percent, chance, prematch, favorite, time, attempt, sound, reason, prematch, favorite, prevail, time, germany, burkina, side, bet, team, minute, play, edge, fact, opportunity, play, minute, regular, football, game, penalty, world, cup, spain, goal, minute, avoid, penalty, percent, time, percent, game, penalty, course, match, feature, regression, model, estimate, win, probability, difference, team, elo, rating, result, line, chart, knockoutstage, game, team, difference, instance, ivory, coast, cup, elo, rating, case, start, percent, chance, game, end, regulation, play, chance, time, penalty, percent, edge, time, way, penalty, percent, chance, point, estimate, difference, team, example, difference, argentina, chance, game, time, game, penalty, matchup, knockout, stage, world, cup, win, regulation, difference, spi, rating, argentina, percent, method, percent, system, game, match, belgium, state, belgium, percent, percent, effect, brazil, chance, percent, chance, penalty, paraguay')
+
+('JJ', 'extra, sterling, junior, many, tie, safe, saturday, win, end, extra, different, fivethirtyeight, competitive, international, late, define, competitive, spi, top, vast, extra, probability, win, possible, spi, conservative, extra, random, conservative, gathered, suddendeath, golden, important, continental, favorite, determine, spi, correlated, easy, favorite, extra, huge, unlikely, statistical, extratime, random, important, logical, likely, extra, draw, wise, germany, favorite, final, scored, lead, favorite, favorite, favorite, logistic, favorite, red, italy, preworld, favorite, italy, favorite, extra, extra, favorite, algeria, extra, small, favorite, favorite, likely, adjustment, much, practical, elo, favorite, new, previous, extratime, random, united, favorite, main, percent, tournament, brazilian')
+
+('VBN', 'filed, tied, tied, based, discontinued, used, given, come, based, based, tied, drawn, based, gone')
+
+('VBP', 'raheem, think, require, match, need, info, go, minute, take, spain, win, edge, occur, make, lose')
+
+('VBZ', 'dunham, calculates')
+
+('NNS', 'people, stats, see, faso, netherlands, others, maintains, argentinaalgeria')
+
+('VBG', 'going, using, going, saying, featuring, elorating, winning, winning, prevailing, elorating, winning, winning')
+
+('VBD', 'spi, calibrated, ranked, made, identified, looked, managed, held, decided, ran, reflected, reduced, went, went, lopsided, calibrated, treated')
+
+('VB', 'resolve, translate, prematch, happen, win, assume, percent, quite, play')
+
+('JJS', 'best')
+
+('JJR', 'heavier, smaller, larger')
+

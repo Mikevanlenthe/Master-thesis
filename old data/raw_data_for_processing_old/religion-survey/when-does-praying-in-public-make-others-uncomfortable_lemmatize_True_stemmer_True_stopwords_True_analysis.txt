@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1066
+Raw number of types: 423
+Raw Type token ratio: 0.3968105065666041
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 418
+Number of types: 263
+Type token ratio: 0.6291866028708134
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'pray public other believ leah coastal nun sake ultim franc littl secular deputi nice privat practic faith public catholic religi public usual much other guess offend practic nonreligi audienc individu pray act nativ courthous christian wrong christian underestim other resembl presid american christian pray silverman religi pray legitim ideal eastern orthodox christian anticip privat christian atheist neglect christian christian public much forthcom christian believ give christian other percent christian nearli threequart unboth right subway assum sixtytwo extrem christian good grace implicit nearli extrem uncomfort tricki public alien abl tabl public preparatori')
+
+('VBP', 'make expect make commiss religi make ordinari github seem anyth religi say feel follow spark look say feel say make wind think affect want make want explain want make need friend')
+
+('NN', 'uncomfort libresco file religion github github datareligionsurvey patrick getti imag cours week franc town ban burkini beach consid habit consist burkini ban court controversi commit laïcité mayor explain franc religion affair home church street unit state burkini ban religi freedom mean freedom worship church freedom convert atheism side discomfort decid kind visibl faith base experi atheist use guess feel kind statist sensibl poll uncomfort ask surveymonkey panel question act prayer believ pray rosari feel acquaint carri group scene protest worri action action rais hackl discomfort invit prayer david silverman atheist invit intoler hear differ pray person silverman corner thank religion silverman prefer religi peopl pray respect dreher author crunchi con cautiou offer pray reaction silverman pray friend care mani prayer part someon treat friend badli pray dreher experi mani hold show fear reject fear caus interview book benedict option tri exampl benedict creat thicker strength engag rest world mani profession reluct religi sign discomfort overestim uncomfort see marker thought observ spot religi cloth jewelri atheist feel pray york citi thing someon percent atheist agnost nationwid comfort circumst half percent pray guess observ comfort wit prayer mix group invit prayer half atheist agnost survey grace meal prayer invis cross tabl kitchen head anyon visibl way display tricki friend stranger uncomfort reach listen church home fork lift grace prayer feel')
+
+('NNS', 'data data intens sens cours data respons offens respons convers religios navig someon tri religios someth participatori convers')
+
+('VBD', 'struck sprang govern chang said spoke tie spoke faith agnost felt found')
+
+('VBZ', 'someth clash faith offens rosari')
+
+('JJS', 'best oddest')
+
+('JJR', 'answer fewer')
+
+('VB', 'perform caus love untroubl feel feel')
+

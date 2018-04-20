@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1281
+Raw number of types: 520
+Raw Type token ratio: 0.4059328649492584
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 675
+Number of types: 433
+Type token ratio: 0.6414814814814814
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBN', 'defined filed amassed been tarnished shown fought transformed selected played subjected sullied clocked been disqualified given protect expected discussed retired made contributed')
+
+('JJ', 'next welterweight undefeated victory getty great welterweight next undefeated huge perfect central louis undefeated professional draws modern minimumweight draw flyweight final real potential saturday rocky title final numerous close heavyweight limited weight many public mike primary forbes athlete marketable marquee mayweather professional main draw pretty floyd mayweather willing boring defensive central perfect public appealing potential lose accomplished second calibrated narcissistic american halfhug left right fourth fair mcgregor such fight cynical same modern unsatisfied other historical residual citizen undefeated')
+
+('NN', 'name champion record brinjonathan butler mayweather mcgregor github github floyd mayweather john gurzinski boxer saturday blockbuster fight champion conor mcgregor career case number record role career brand basis everyone history case status sugar robinson muhammad henry imperfect perspective mayweather record history career boxer list defeat boxer ricardo lopez class century jimmy chart fight prize mayweather vegas addition ninefigure payday legacy marciano archie moore fight yankee stadium marciano perfect record crude style stature expert marciano chance hell dozen class retirement career history basis pristine record game boxing demise george foreman frazier larry tyson lennox klitschko mayweather function zero record history marketing angle career payperview star history list world mayweather wasn today year oscar hoya successor tyson payperview attraction career night attraction history booed money transformation heel showman today turn spectacle substance watch style status villain record marciano fight chance character money pitch payperview cheer mayweather anything round shane mosley struck blow career canvas moment business model crowd possibility caricature dream humiliation record loss mayweather mosley blow round remainder fight close shave fight opponent victor ortiz penalty defenseless ortiz mayweather round mayweather loss square fight boxing analyst planet fight threat mayweather record showtime event mayweather business model exploitation hollywood host legacy marciano excitement sport argument kane money truth fighter decade career fighter decade discussion poundforpound boxer floyd mayweather claim debt immaculate record substance forget mayweather opponent conor mcgregor boxer zero draws zero research')
+
+('VBD', 'turned published played declared undefeated assembled maintained fought retired knocked heavyweight scraped benefited emerged stayed witnessed leveraged highestpaid fought fought cheered cared became became were dismissed beat made fell recovered headbutted gave suggested argued said told constructed included argument voted were lost stepped')
+
+('VBG', 'marketing according boxing beginning suffering heartstopping timing boxing boxing boxing branding appearing boxing being grinding selfaggrandizing fighting boxing holding luring thinking watching ring reacting witnessing having incurring trying knocking ring selling sizzling creating careerdefining being being')
+
+('JJR', 'roeder more mayweather less mayweather better more')
+
+('NNS', 'data data dataundefeatedboxers images wins draws losses willie records metrics records careers boxers wins records wins losses calls fighters glistens others boxers years decisions fights fans opponents sales buyers pleasures distills others times poses fans expectations recycles trailers audiences consumers greats fights fans jones fighters primes jones losses')
+
+('VB', '5000 enter find give apologize have')
+
+('VBP', 'floyd have list have have zero barry wladimir know shrewd have make hook mayweather floyd dhrumil')
+
+('JJS', 'best simplest wealthiest quest loudest biggest best best lest')
+
+('VBZ', 'holmes lewis mayweather thinks franchises avengers wins')
+

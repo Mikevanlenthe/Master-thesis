@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 858
+Raw number of types: 354
+Raw Type token ratio: 0.4125874125874126
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 362
+Number of types: 229
+Type token ratio: 0.6325966850828729
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'president romney harry github github romney dinner committee winter meeting midway diego huffaker image mitt romney inchoate campaign president insider house romney president benefactor bush romney staffer campaign romney announcement news divine candidate statement visit iowa hampshire inclusion poll contender mike huckabee statement president candidacy list look side number contender attend plan event hampshire fact candidate tracking event iowa hampshire list week event chris event cruz event event mike huckabee event rand paul event rick event rick santorum event scott walker event chance santorum state infrastructure support huckabee walker sign event state candidate event state bush money romney visit line decision bobby jindal event iowa hampshire iowa freedom summit month poll poll measure wisdom stock iowa hampshire look jindal stay side story person event bernie sander sander webb committee candidate clinton sander fact event iowa hampshire checkedin biden mind infrastructure president event martin malley card iowa hampshire candidate clinton campaign support bloomberg view jonathan bernstein primary belief campaign summer wait campaign look story')
+
+('VBD', 'filed supported announced left added announced announced fiorina jindal formed announced said ground locked said')
+
+('JJ', 'visible primary fellow republican republican national annual sandy getty dead learning republican white friday main likely former right fullborne last tried serious potential possible recent alive good lindsey presidential primary republican possible iowa potential last updated carson christie serious much early build eager early interesting additional early planned absent recent national politician conventional true recent visit sideline democratic static exploratory likely hillary last seem earlystate wild touched surprising upstart retail early invisible clinton primary strong primary different republican unsettled')
+
+('NNS', 'data data datapotentialcandidates suggests graham jindal politics democrat')
+
+('VBP', 'mitt continue include perry stand perry seem steve include think poll make clinton continue look')
+
+('VBN', 'greeted made included taken made given given settled')
+
+('VB', 'third give announce take clearest take announce tell')
+
+('VBG', 'running scooping moving compiling going focusing trying raising king holding building holding evolving')
+
+('JJS', 'biggest')
+
+('VBZ', 'busy1 suggests')
+

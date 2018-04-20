@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1007
+Raw number of types: 411
+Raw Type token ratio: 0.40814299900695133
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 407
+Number of types: 242
+Type token ratio: 0.5945945945945946
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'world favorit donald trump tweet libresco file elect origin photo robyn beckafpgetti imag sinc presidenti campaign start donald trump tweet world consum news cycl antagon support campaign tour kennedi donald trump twitter account trump use twitter effect tweet use time capsul campaign look domin debat primari wrap download categor tweet june trump talk peopl suffer attack twitter tweet methodolog tweet trump exclud time retweet someon tweet tweet divin platform tweet defin enmiti polici propos trump tweet nomin tweet share topic tweet retweet candid poll attack democrat attack trump talk twitter includ tweet june retweet tweet count categori twitter interestingli polici tweet quarter trump retweets3 tweet interest share trump offer share mostfavorit mostretweet tweet polici enemi hispan tweet cinco mayo happi cincodemayo taco bowl trump tower grill hispan http tcoufoteqd8ya pictwittercomk01mc6cudi donald trump realdonaldtrump tweet news coverage4 enthusiasm mostretweet tweet news bia castig protest simpli make america call hillari clinton hypocrit favor control arm secret servic rest mostfavorit tweet brussel attack trump use twitter line attack twitter feud forc question jibe sobriquet campaign attack look piqu iowa caucus florida primari trump concentr fire import contest cruz marco rubio respect howev flurri antijohn tweet hour neg john race money donald realdonaldtrump novemb discuss differ polici twitter similarli streaki tweetstorm news whatev tweet trump excit tweet point tweet trump cruz clinton sander none trump realli excit presid tweet june trump june cruz june clinton june sander sourc twitter twothird tweet point cruz clinton berni sander tweet trump tweet point order defeat oppon point dare twitter dhrumil mehta nield contribut report')
+
+('JJ', 'leah rile featur unorthodox truman whistlestop great nomin recent major react includ entir trump third collect candid rival republican much trump other polici republican candid clinton exclud prompt peopl tweet express scorn rival trump categori heavi call declar great protest terrorist stori prompt scattershot tend other rival spree kasich wast other seemingli spontan streak much candid exclam includ trump exclam onethird percent punchi punctuation5 exclam trump exclam david')
+
+('VBD', 'sent said read made made went magnitud thought')
+
+('VBZ', 'defin strateg irrelev cycl')
+
+('NNS', 'decid footnotes2 els polici media women media oppon media cours respons candid')
+
+('VBP', 'take analysi exclud sourc follow seem enjoy protect make analyz seem trump come want want trump tend suspect')
+
+('JJR', 'less answer')
+
+('JJS', 'least best least')
+
+('VB', 'love propel support run merit')
+
+('VBN', 'gone written')
+
+('NNP', 'kasich')
+

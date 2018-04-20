@@ -1,0 +1,28 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1389
+Raw number of types: 450
+Raw Type token ratio: 0.32397408207343414
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('JJ', 'dear##getty##dear##mona##heard##north##tricky##type##negligent##much##much##vary##good##first##involved##personal##national##fatal##fatal##total##characteristic##fatal##north##dakota##available##involved##fatal##national##interested##behavior##fatal##fatal##distracted##worth##thoughtday##ohio##north##dakota##fatal##plenty##impressive##fatal##driver##fatal##previous##first##high##idaho##previous##fatal##available##mississippi##irresponsible##good##thirtyone##alcoholimpaired##utah##behavior##fatal##average##premium##overall##future##national##expensive##average##combined##premium##comprehensive##logic##average##le##good##american##uninsured##oklahoma##irresponsible##vast##fatal##insured##idahoan##insurer##average##good##expensive##easy##lisa##fatal##north##carolinian##national##insured##answered')
+('NN', 'mona##state##driver##mona##chalabi##hope##number##chainreaction##pileup##accident##pennsylvania##feasterville##pennsylvania##william##thomas##cain##image##state##region##driver##ability##state##question##historic##driver##number##crash##state##insurance##company##insurance##company##charge##driver##measure##country##state##driver##contrast##driver##indiana##vermont##board##collision##motor##vehicle##crash##state##property##damage##injury##fatality##highway##traffic##safety##administration##texas##crash##state##washington##state##crash##state##driver##state##driver##state##condition##need##factor##mile##state##focus##driver##collision##number##driver##mile##course##mile##state##crash##produce##figure##collision##mile##average##individual##example##driver##time##accident##driver##road##accident##time##mind##case##driver##detail##distraction##driver##cellphone##driver##percent##driver##accident##percent##percentage##need##caution##none##driver##accident##time##driver##information##bear##mind##crash##state##york##example##percent##database##driver##crash##percent##driver##crash##figure##state##percent##driver##collision##jersey##figure##percent##crash##perspective##determine##driver##speeding##time##fatality##nhtsa##total##traffic##fatality##percent##percent##traffic##fatality##pennsylvania##share##percent##behavior##indicator##driver##percent##traffic##fatality##driver##percent##traffic##fatality##year##figure##percent##number##news##insurance##provider##base##price##multitude##indicator##driver##accident##state##insurance##company##assessment##cost##figure##association##insurance##commissioner##highrisk##driver##jersey##insurance##country##collision##idahoan##insurance##half##driver##country##driver##driver##premium##insurance##research##council##percent##road##fraction##motorist##insurance##vehicle##term##question##price##loss##insurance##provider##state##collision##insurance##company##figure##state##number##comparison##fairer##insurance##company##loss##state##number##number##percentage##driver##come##america##driver##collision##costing##insurer##collision##state##louisiana##sorry##answer##number##crash##clearcut##understand##driver##insurance##provider##deserve##price##average##driver##cost##collision##loss##hope##number##help##question##send##dearmona##fivethirtyeightcom##datalab538')
+('VBD', 'worst##lived##bottom##united##resulted##accounted##worse##traveled##traveled##traveled##traveled##distracted##recorded##recorded##distracted##lost##recorded##treated##distracted##licensed##recorded##occurred##occurred##occurred##alcoholimpaired##found##sum##paid##divided##registered##insured')
+('VBN', 'filed##involved##involved##involved##involved##known##distracted##involved##distracted##compared##involved##recorded##based##given##involved##involved##speedingrelated##involved##incurred##distributed##insured##estimated##licensed##compared')
+('VB', 'help##scene##indicate##sound##drunken##reflect##mona##like')
+('JJR', 'worse##answer##fewer##higher')
+('NNS', 'people##others##lisa##carolina##data##america##data##data##montana##naic##data##jerseyans')
+('VBP', 'bemoan##asheville##want##iowa##know##show##affect##make##think##make##come##think')
+('VBG', 'driving##neighboring##using##according##driving##bearing##eating##drinking##dreaming##speeding##speeding##speeding##driving##including##according##according##insuring##driving##looking##using##costing')
+('JJS', 'worst##highest##latest##latest##latest##best##highest')
+('VBZ', 'varies')
+
+Token analysis after pre-processing 
+Number of tokens: 577
+Number of types: 285
+Type token ratio: 0.49393414211438474
+

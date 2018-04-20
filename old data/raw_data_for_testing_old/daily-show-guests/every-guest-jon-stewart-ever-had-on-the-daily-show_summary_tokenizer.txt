@@ -1,0 +1,27 @@
+Token analysis before pre-processing 
+Raw number of tokens: 642
+Raw number of types: 313
+Raw Type token ratio: 0.48753894080996885
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('NN', 'guest##stewart##hickey##github##github##president##host##show##july##york##evan##show##air##episode##show##year##stewart##alma##student##tour##graduation##school##shut##show##audience##member##washington##metro##record##sanity##stewart##part##show##way##look##stewart##showbyshow##list1##guests2##profile##google##knowledge##graph3##year##friend##fusion##everyone##today##formula##talk##show##actor##list##year##stewart##shot##figure##grace##program##presence##performer##year##presence##medium##figure##author##politico##figure##presence##show##time##caught##show##show##emphasis##head##percent##government##percent##medium##figure##actor##movie##year##year##actor##comedian##plurality##show##count##appearance##brian##time##appearance##march##stewart##drop')
+('VB', 'show##roommate##sucked')
+('JJ', 'walt##stewart##daily##daily##last##mary##prospective##late##pretty##hell##daily##interesting##pulled##unique##chair##meld##monarch##standard##comedian##first##political##dole##comedian##several##military##consistent##much##whole##politician##important##outsized##fifth##affiliated##military##last##couple##musician##appear##daily##denis##leary##last##comedy##central')
+('VBN', 'filed##started##started##dominated##show##subdued##come')
+('NNS', 'data##data##datadailyshowguests##elizabeth##jammed##people##muppets##people##politics##politics##zakaria##williams')
+('VBG', 'taping##ending##taping##featuring##helping##growing##leaving##hosting##happening##filling##showing##promoting##kicking##begging')
+('VBZ', 'stewart')
+('VBD', 'tonight##went##attended##changed##interviewed##crosschecked##talked##changed##appeared##relegated##started##left##came##began##fareed##followed##tonight')
+('VBP', 'walk##friend##restore##find##show##feel##represent##show##bos')
+('JJS', 'guest##guest##guest##guest')
+
+Token analysis after pre-processing 
+Number of tokens: 260
+Number of types: 195
+Type token ratio: 0.75
+

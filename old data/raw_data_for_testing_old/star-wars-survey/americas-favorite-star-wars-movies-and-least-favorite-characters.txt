@@ -1,0 +1,55 @@
+
+
+
+Jul. 22, 2014
+						at
+						4:58 PM
+
+
+
+							America’s Favorite ‘Star Wars’ Movies (And Least Favorite Characters)						
+
+
+
+By Walt Hickey
+Filed under Movies
+
+Get the data on GitHub
+GitHub data at data/star-wars-survey
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Yoda’s costume from the “Star Wars” series is displayed during an exhibition at the Cite du Cinema in Saint-Denis, France.									Chesnot / Getty Images
+
+
+
+This week, I caught a sneak peek of the X-Wing fighter from the new “Star Wars” films in production. The forthcoming movies — and the middling response to the most recent trilogy — provide a perfect excuse to examine some questions I’ve long wanted answers to: How many people are “Star Wars” fans? Does the rest of America realize that “The Empire Strikes Back” is clearly the best of the bunch? Which characters are most well-liked and most hated? And who shot first, Han Solo or Greedo? 
+We ran a poll through SurveyMonkey Audience, surveying 1,186 respondents from June 3 to 6 (the data is available on GitHub). Seventy-nine percent of those respondents said they had watched at least one of the “Star Wars” films. This question, incidentally, had a substantial difference by gender: 85 percent of men have seen at least one “Star Wars” film compared to 72 percent of women. Of people who have seen a film, men were also more likely to consider themselves a fan of the franchise: 72 percent of men compared to 60 percent of women.
+We then asked respondents which of the films they had seen. With 835 people responding, here’s the probability that someone has seen a given “Star Wars” film given that they have seen any Star Wars film:
+
+So we can see that “Star Wars: Episode V — The Empire Strikes Back” is the film seen by the most number of people, followed by “Star Wars: Episode VI — Return of the Jedi.” Appallingly, more people reported seeing “Star Wars: Episode I — The Phantom Menace” than the original “Star Wars” (renamed “Star Wars: Episode IV — A New Hope”).
+So, which movie is the best? We asked the subset of 471 respondents who indicated they have seen every “Star Wars” film to rank them from best to worst. From that question, we calculated the share of respondents who rated each film as their favorite.
+
+We can also drill down and find out, generally, how people rate the films. Overall, fans broke into two camps: those who preferred the original three movies and those who preferred the three prequels. People who said “The Empire Strikes Back” was their favorite were also likely to rate “A New Hope” and “Return of the Jedi” higher as well. Those who rated “The Phantom Menace” as the best film were more likely to rate prequels higher.
+This chart shows how often each film was rated in the top third (best or second best), the middle third (third or fourth) or the bottom third (second worst or worst). It’s a more nuanced take on the series:
+
+Finally, we took a boilerplate format used by political favorability polls — “Please state whether you view the following characters favorably, unfavorably, or are unfamiliar with him/her” — and asked respondents to rate characters in the series.
+
+You read that correctly. Jar Jar Binks has a lower favorability rating than the actual personification of evil in the galaxy.
+And for those of you who want to know the impact that historical revisionism can have on a society:
+
+

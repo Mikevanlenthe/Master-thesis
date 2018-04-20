@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1332
+Raw number of types: 531
+Raw Type token ratio: 0.39864864864864863
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 743
+Number of types: 418
+Type token ratio: 0.5625841184387618
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rating method team era weve history rating measure team strength score location date team game year baseball history rating total work prediction team rating league average expansion team rating rating season detail methodology game result retrosheetorg result league history association association championship world series league title world series team history history atlanta boston inauguration association franchise world series dominance century association title league pennant franchise rating team boston beat city bring record percentage rating association league history association part official history baseball record committee association league league begin league decision league franchise brave chicago cub franchise association calculation association history cub rating record season world series mariner history seattle game player center fielder griffey shortstop alex fastballer randy johnson season game star season schedule mariner tying record win season cub transplant ichiro rookie year slugger boone season jamie moyer freddie garcia win team seattle rating peak franchise twin tiger mariner wasnt capitalize season game mariner havent playoff franchise world series cleveland baseball season spider history cleveland spider baseball franchise percentage manager patsy tebeau spider pitcher win team franchise league title manage secondplace beating firstplace postseason exhibition series season disaster spider owner franchise tebeau star player cleveland spider sideshow home attendance revenue cleveland team travel spider game road season history league team season spider expo history franchise montreal expo year existence making appearance everything marquis grissom larry walker cordero game staff butch henry hill jeff fassero pedro league expo pace season day baseball strike world series season grissom hill season expo franchise playoff expo team bomber yankee history york yankee baseball team league fan didnt stay losing season year team percentage season schedule time world series rating season arent sport team stretch bill montantayoung title career yankee babe ruth career yankee year debut dimaggio season mickey mantle rookie year')
+
+('NNS', 'fivethirtyeights astros belongs yankee')
+
+('JJ', 'favorite different simple final average actual mean espn franchise national american defunct league american national national 19th national national interactive haven national dominant major doesnt national decree special national first professional major national controversial inaugural national current national national peak white late1990s electrifying several good great seattle right japanese other current white seattle able outstanding regular alcs national current star young first national finish temple oriole louis brown cardinal shipped young other final national expo first postseason offense alou young martinez national high next washington national unstoppable seventh american franchise next difficult dominant equivalent additional pennant franchisehigh professional dominant celtic stacked covered streak multigenerational final')
+
+('VBG', 'comparing stocking winning including being including starting dropping winning going playing joining coming pitching winning peaking')
+
+('VBD', 'used were read included played came picked boast credited created originated mariner were began went suzuki improved made were were captured captured held purchased declared were were refused ended finished were struggled scored improved reached went started departed shortened went left were went finished didnt were posted snagged ended')
+
+('VBN', 'based calculated calibrated added reverted milwaukee played known chosen upset gone combined compared touched appeared contracted kicked been canceled become disappointed come')
+
+('VBP', 'weve pick start include win brave brave have peak weve include exclude come rodriguez have washington have spider title have russell')
+
+('JJR', 'more more higher more walker')
+
+('VBZ', 'depends squad depends continues thats league moises dimaggio')
+
+('JJS', 'greatest highest highest best worst worst best')
+
+('VB', 'count consider have become have run reach overstate')
+

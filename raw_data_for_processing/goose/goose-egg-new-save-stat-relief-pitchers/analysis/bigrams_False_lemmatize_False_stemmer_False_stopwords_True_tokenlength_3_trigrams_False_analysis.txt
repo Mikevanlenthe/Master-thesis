@@ -1,0 +1,48 @@
+Article: goose/goose-egg-new-save-stat-relief-pitchers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1731
+Raw number of types: 619
+Raw Type token ratio: 0.35759676487579434
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 876
+Number of types: 500
+Type token ratio: 0.5707762557077626
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'save, relief, egg, fix, nate, silver, get, github, github, apr, hall, fame, relief, gossage, fan, revolution, think, baseball, way, point, bleep, gossage, leader, mariano, rivera, value, day, game, efficiency, benefit, ballclub, gossage, knock, rivera, lead, everybody, gossage, pitcher, credit, inning, team, threerun, relief, today, gossage, part, number, number, stat, baseball, result, solution, building, work, baseball, prospectus, carleton2, egg, honor, troll, gossage, idea, egg, clutch, scoreless, relief, credit, inning, game, team, goose, egg, game, clutch, scoreless, innings, gossage, time, game, playbyplay, retrosheet, gossage, league, history, leader, goose, rivera, pitcher, rivera, gossage, trevor, hoffman, rollie, hoyt, francisco, rodriguez, mariano, rivera, john, franco, lee, john, franco, dennis, eckersley, trevor, hoffman, joe, bruce, sutter, jonathan, papelbon, tug, mcgraw, jeff, reardon, jeff, reardon, troy, percival, tekulve, rollie, mcdaniel, john, wetteland, mike, marshall, francisco, cordero, gene, roberto, hernandez, ron, perranoski, huston, street, francisco, rodriguez, rick, aguilera, jesse, orosco, robb, doug, henke, stu, miller, gossage, roberto, hernandez, jeff, montgomery, randy, doug, career, source, retrosheet, squeeze, ounce, talent, value, time, embrace, goose, bury, sing, jerome, holtzman, league, baseball, world, relief, commonplace, share, percent, percent, clutch, rule, leverage, index, team, instance, inning, pitcher, team, run, leverage, index, game, atbat, problem, fuzzy, relationship, relief, look, chart, index, game, score6, pitcher, game, team, run, situation, leverage, index, team, closer, ballgame, side, town, pitcher, game, team, leverage, index, pitcher, performance, pitcher, fact, kind, pitcher, lot, sense, reward, clutch, relief, pitcher, get, tie, game, highestleverage, news, stat, post, moneyball, yield, word, cleveland, miller, site, usage, course, number, specialist, average, inning, team, situation, highleverage, situation, highestleverage, use, goal, number, number, team, team, baseball, state, enlightenment, closer, usage, bit, refusal, egg, goose, egg, rule, definition, bit, version, pitcher10, egg, inning')
+
+('VBN', 'ruined, filed, published, used, compared, threerun, designed, named, designed, tied, pitched, situations3, calculated, based, built, come, let, noted, based, pitched, pitched, conditioned, situation8, supposed')
+
+('VBG', 'pitching, ruining, ing, including, arguing, utilizing, inning, ing, inning, handling, trying, managing, playing, inning, throwing, inning, pitching, inning, doubling, becoming, following, evening, inning, inning, pitching, pitching, breaking, complaining, using, ninthinning, inning, inning, defining, thinking')
+
+('JJ', 'goose, mlb, goose, moneyball, right, stupid, statistic, modern, alltime, right, guys, finish, seventh, eighth, ninth, maximum, later1, many, threerun, bleep, bullpen, lead, big, much, much, final, top, valuable, large, opposed, statistic, goose, basic, additional, inherited, goose, scoreless, seventh, goose, tie, goose, select, major, lifetime, modern, goose, goose, wagner, sparky, lyle, randy, kent, lindy, jose, todd, todd, tom, goose, darold, goose, select, potential, top, save, save, first, statistic, sportswriter, major, noble, complete, unheralded, earned, much, save, modern, lateinning, narrow, lead, important, atbat5, ninth, much, impact, outcome, average, valuable, different, inning, scoreless, ninth, threerun, lead, final, valuable, crappy, additional, multiple, valuable, much, modern, next, table, closermonkeycom, bullpen, different, typical, modern, threw, ninth, ninth, tie, ninth, much, bullpen, ninth, lead, heuristic, ninth, talent9, statistical, stubborn, nfl, goose, plenty, goose, save, formal, quickanddirty, relief')
+
+('NNS', 'data, data, tirades, nerds, closers, saves, situations, saves, closers, pitchers, jams, situations, innings, guys, saves, leagues, pitchers, managers, saves, wins, provisions, runners, runs, times, egg, rewards, contributions, firemen, innings, runners, games, eggs, seasons, seasons, data, saves, eggs, eggs, fingers, lee, myers, fingers, mesa, jones, jones, jones, myers, jones, knowles, leaderboards, eggs, seasons, managers, relievers, bullpens, praises, intentions, pitchers, games, pitchers, contributions, fans, wins, losses, relievers, situations, intuitions, statistics, situations, times, situations, ones, rewards, shows, situations, enters, runs, records, troubles, problems, innings, innings, situations, geeks, years, teams, relievers, situations, words, indians, teams, closers, tracks, innings, situations, innings, innings, games, runs, innings, games, situations, saves, wins, managers, closers, runs, teams, teams, managers, eggs, saves, ways, relievers, records')
+
+('JJS', 'biggest, best, best')
+
+('VBD', 'fivethirtyeight, expletivelaced, found, lashed, earned, said, continued, heyday, made, threw, came, smith, wilhelm, smith, garber, invented, adopted, came, ended, used, pulled, used, defined, measured, came, included, led, included, reached, complicated, described')
+
+('VB', 'target, like, see, come, save, get, maximize, give, save, decline, find, take, make, maximize, define')
+
+('VBZ', 'fastballs, gets, gets, leads, counts, ranks, saves, saves, starts, holds, leads, means, throws, leads, holds, gives, gets, reflects, leads, goes')
+
+('VBP', 'save, exaggerate, think, know, lead, team, russell, detail, get, era, base, save, mariano, want, holtzman, era, furthermore, correct, save, leverage, imagine, save, whereas, save, give, save, know, save, know, highestleverage, save, andrew, save, save, find, seem, use, save, toofrequent, find, use, let, goose')
+
+('JJR', 'tighter, worse, closer, wagner, pitcher, closer, better')
+

@@ -1,0 +1,14 @@
+POS tags:
+('NN', 'jul.,,order,,steak,,walt,,hickey,,dottle,,food,,facebooktwitteremail,,question,,nation,,“steak,,beef,,negotiation;,,measure,,diner;,,i’m,,btus,,gas,,amount,,catastrophe.,,investigation,,—,,which,,,admission,,,campaign,,well-done,,beef,,steak,,preferences,,,medium-rare,,,medium,,that’s,,living,,society,,meat,,doneness,,preference,,cudgel,,holder,,office,,u.s.,,tender,,,meat,,issue.,,steakhouse,,here,,,share,,steak.,,worth,,orders1,,locations,,,steak.,,steak,,lot,,order,,cuts,,,steak,,fiber,�,,executive,,chef,,steak,,,tenderloin.,,steak,,it’s,,fiber,,rib,,rarer,,side.,,it’s,,temperatures,,,order,,rib,,bloodiness,,people.,,temperature,,,steaks,,,ribeye,,,porterhouse,,dahlmann,,said.,,bone,,middle,,,bone,,moisture,,flavor.�,,david,,berson,,,director,,peter,,luger,,steak,,house,,brooklyn,,,ribeye,,rare,,,i,,it’s,,lot,,way,,leg,,thicker,,beef,,,margin,,error,,home,,quality,,said.,,protein,,fish,,,beef,,meat,,buying,,part,,job,,look,,distribution,,marbling,�,,berson,,said.,,“that’ll,,indication,,juicy,,home,,meat,,thermometer,,doneness,,time.,,steak,,temperature,,anything,,and,,,culture,,writer,,elitist,,walt,,anything')
+('VBP', 'am,,are,,prefer,,americans,,consume,,self-reported,,say,,like.,,have,,prefer,,ordered,,claim,,do!2,,are,,dahlmann,,,look,,go,,sell.,,it’s,,can,�,,don’t,,want,,invest,,fahrenheit')
+('NNS', 'americans,,people,,steaks,,pounds,,steakhouses,,parties,,elitists,,steaks,,people,,medium-well.,,people,,data,,americans,,americans,,cuts,,americans,,differences,,people,,jens,,flavors,,steaks,,“steaks,,operations,,people,,cooks,,cuts,,cuts,,supermarkets,,cooks,,steaks,,suggests,,cooks,,degrees,,degrees,,degrees')
+('VB', 'rachael,,wrong?,,reconsider,,guess,,smear,,get,,like,,know,,it.,,come,,handle,,perform,,be,,recommend,,get,,buy,,get,,cut,,be,,be.�,,nail')
+('VBN', 'filed,,done,,divided,,united,,given,,spent,,done,,followed,,been,,used,,aggregated,,longhorn,,marbled')
+('VBZ', 'has,,is,,is,,makes,,causes,,has,,turns,,has,,it’s,,that’s,,lends,,works,,works,,turns,,is,,retains,,is,,gives,,is,,is,,is,,is')
+('JJ', 'great�,,large,,effete,,good,,rare,,environmental,,website,,own,,we’re,,political,,longhorn,,year’s,,steak,,u.s.,,different,,serious,,different,,why.,,different,,longhorn.,,tender,,it.,,soft,,sweet,,great,,rare,,medium-rare.�,,prime,,great,,low,,rare,,prime,,many,,rare-averse,,other,,heat.,,medium-well,,t-bone,�,,agreed.,,“some,,little,,longer.,,fat.�,,thin,,“for,,important,,berson,,corners.�,,big,,luger’s.,,“we,,fat,,good,,dahlmann,,high-quality,,perfect,,internal,,rare,,,medium-rare,,fivethirtyeight,,cantankerous,,ruined.')
+('VBG', 'ordering,,going,,taking,,agreeing,,revealing,,cooking,,running,,cooking,,according')
+('VBD', 'began,,enjoyed,,found,,said,,marbled,,hooked,,shared,,wanted,,said,,got,,cooked,,got,,hickey,')
+('NNP', '—,,“every,,“if,,“there,,“with,,—,,—')
+('JJS', 'highest,,highest')
+('JJR', 'rarer,,more,,more')
+

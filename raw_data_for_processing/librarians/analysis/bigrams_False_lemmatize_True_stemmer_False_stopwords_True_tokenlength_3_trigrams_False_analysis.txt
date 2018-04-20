@@ -1,0 +1,45 @@
+Article: librarians
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 532
+Raw number of types: 255
+Raw Type token ratio: 0.4793233082706767
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 226
+Number of types: 162
+Type token ratio: 0.7168141592920354
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'apr, america, mona, chalabi, job, get, github, github, branch, spring, texas, david, phillip, year, state, funding, state, salary, director, rookie, library, blame, death, library, country, library, specie, bureau, labor, find, picture, number, mexico, percent, percent, drop, state, number, list, idaho, percent, place, place, idaho, change, time, level, detail, area, bls, job, measure, number, population, basis, valley, owensboro, accuracy, estimate, number, job, quotient, list, concentration, librarian, area, college, concentration, pay, wage, worker, year, master, degree, use, information, judge, thing, library, association, age, woman, risen, woman')
+
+('JJ', 'librarian, bush, library, last, constant, library, average, librarian, public, weep, foreseeing, library, librarian, occupational, statistic, mixed, librarian, percent, new, librarian, michigan, librarian, top, librarian, many, librarian, first, worth, finer, metropolitan, quotient, librarian, relative, librarian, silicon, librarian, librarian, real, librarian, total, helpful, metropolitan, duh, librarian, fresno, calif, average, annual, library, average, librarian, library, become, past, know, librarian, american, median, librarian')
+
+('VBD', 'andrew, cut, fell, read, fell, tested, noticed, found, credentialed')
+
+('JJR', 'flower, fewer, fewer, older')
+
+('VBN', 'filed, held, endangered, risen, seen')
+
+('NNS', 'data, data, datalibrarians, people, data, calculates, people, data, men, men')
+
+('VBP', 'barbara, look, owensboro')
+
+('VBG', 'proclaiming, looking, zooming, looking, trying, getting, according')
+
+('VB', 'increase, low, owensboro, interested')
+
+('JJS', 'biggest, highest, best')
+
+('VBZ', 'earns')
+

@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 846
+Raw number of types: 360
+Raw Type token ratio: 0.425531914893617
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dear many right major male available american useless female interested used different male overall male minnesota prior available steady likely overall median past white black hispanic civil important homogenous white peculiar public male clear unusual hard unusual minnesota similar male administrative percent male female dental kindergarten extreme titled full male bottom many male mental male breed american answered')
+
+('NN', 'flight hope data pilot flight attendant airline passenger choice flight chicago april dear flight jack lincolnwood illinois jack history aviation male flight thousand kind question number flight fallen guess percentage flight look story percent flight figure percent gender split employment percent census bureau population center multitude share flight today flight cabin crew time percentage flight change university flight group share airline recruitment reason change race emergency percent flight airline sector look transportation flight attendant transport kind grasp percent sector male gender split population center database category flight split support male list phrase percent percent list share piece jack flight number worker hope question send dearmona fivethirtyeightcom datalab538')
+
+('NNS', 'attendants chalabi numbers data github datamaleflightattendants offers beverages attendants personnel numbers attendants times numbers attendants attendants emerges attendants workers decades data figures years reasons attendants attendants ones attendants years attendants employees rights laws companies preferences changes people exits attendants women industries attendants inspectors races demographics standards comparisons occupations resembles attendants terms interviewers enumerators surveyors roles teachers jobs dressmakers roles means jobs hygienists teachers boilermakers drillers occupations attendants hairdressers typists data shows numbers')
+
+('VB', 'mona siefer entered closer keep mona like')
+
+('VBN', 'filed furloughed used risen fallen stayed listed')
+
+('VBP', 'help github john dear show risen change texas become expand gender category percent gender percent percent want percent percent earth help')
+
+('VBG', 'working answering according making pointing making')
+
+('VBZ', 'depends percentages looks sociologists makes seamstresses receptionists')
+
+('JJS', 'latest')
+
+('JJR', 'fewer greater younger older bigger broader better rarer')
+
+('VBD', 'compiled increased rose occurred pointed cited forced looked percent dominated intrigued')
+
+Token analysis after pre-processing 
+Number of tokens: 360
+Number of types: 239
+Type token ratio: 0.6638888888888889
+

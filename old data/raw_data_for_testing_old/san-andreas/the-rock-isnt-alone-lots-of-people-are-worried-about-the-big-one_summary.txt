@@ -1,0 +1,14 @@
+POS tags:
+('NN', 'jun.,,rock,,isn’t,,one’,,walt,,hickey,,data,,github,,github,,facebooktwitteremail,,dwayne,,johnson,,premiere,,andreas’,,theatre,,hollywood.,,charbonneau,,film,,dwayne,,johnson,,earthquake,,california,,,box,,office,,weekend,,,domestically.,,andreas�,,disaster,,movie,,world,,man’s,,family,,it’s,,fears.,,idea,,film,,time,,california’s,,situation,,stuff,,way,,,it’s,,fault,,yellowstone,,supervolcano,,,story,,coast.,,that’s,,time,,,though.,,survey,,,probability,,earthquake,,magnitude,,california,,percent,,years.,,card,,deck,,,jack,,,california,,“big,,one�,,massive,,,earthquake,,lifetimes,,,audience,,poll,,one,�,,percent,,think,,it’s,,lifetime.,,census,,region,,west,,coast,,deal,,percent,,region,,percent,,one.�,,percent,,quake,,lifetime.,,kind,,disaster,,,thing.,,one�,,disaster,,,kit,,evacuation,,plan,,,survey.,,risk,,one,�,,audience.,,still,,,here’s,,thing,,survey.,,fault,,yellowstone,,supervolcano,,one,,,treat,,one.�,,sense,,,gosh,,magma,,yellowstone,,anything,,west,,mississippi?,,check,,data,,github.')
+('VBP', 'am,,are,,get,,are,,think.,,think,,commissioned.,,are,,zero,,—,,think,,are,,think,,are,,overestimate,,play,,have,,know,,don’t,,are,,are')
+('JJ', 'alone:,,worried,,‘the,,big,,data/san-andreas,,tcl,,chinese,,eric,,catastrophic,,past,,pretty,,basic,,formula:,,destroyed,,,rebuilt.,,legitimate,,sound,,long,,geological,,span,,,tectonic,,big,,immediate,,little,,san,,andreas,,left,,geological,,u.s.,,geological,,next,,random,,it’s,,ok,,still,,,“the,,big,,catastrophic,,surveymonkey,,third,,worried,,“the,,big,,pacific,,active,,noncontiguous,,u.s.,,good,,pacific,,somewhat,,,worried,,big,,worried,,bad,,big,,likely,,such,,survival,,big,,built-in,,favorite,,san,,andreas,,last,,major,,likely,,big,,oh,,much,,full')
+('NNS', 'lots,,people,,movies,,data,,expectations,,abides,,risks,,people,,eons,,lots,,people,,—,,americans,,states,,anxiety.,,respondents,,earthquakes,,overall,,,people,,people,,lifetimes,,times,,precautions,,people,,movies,,fears,,,andreas,�')
+('VBN', 'filed,,worried,,taken,,worried')
+('VBZ', 'attends,,ap,,andreas,�,,is,,is,,is,,is,,is,,is,,one.�,,—,,that’s,,turns,,makes,,is')
+('NNP', '‘san,,/,,“san,,“san,,—,,“the,,“the,,“the,,“san,,—,,“the')
+('VBG', 'starring,,destroying,,beating,,pulling,,playing,,going,,coming,,according,,rocking,,according,,going,,buying,,making,,according')
+('VBD', 'crushed,,said,,were,,were,,—,,did')
+('JJR', 'more,,lower,,larger,,more')
+('VB', 'break,,end,,draw,,come,,go,,occur,,argue,,need,,be,,happen,,have,,know,,be,,settle')
+('JJS', 'most')
+

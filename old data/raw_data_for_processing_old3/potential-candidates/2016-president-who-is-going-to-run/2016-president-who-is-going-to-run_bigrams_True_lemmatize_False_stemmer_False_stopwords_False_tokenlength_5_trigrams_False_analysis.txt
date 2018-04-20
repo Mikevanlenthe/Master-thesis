@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1038
+Raw number of types: 394
+Raw Type token ratio: 0.37957610789980734
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 671
+Number of types: 539
+Type token ratio: 0.8032786885245902
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'looking going figuring going sitting fling starting recurring running running exploring considering leaning running running exploring looking basing running hedging testing going running going exploring hitting assembling making lagging visiting considering saying putting going writing running beginning clues,going introduced,during decrow,figuring figuring,going little,figuring person,sitting relationship,fling answers,starting starting,recurring about,running definitely,running running,exploring seriously,considering ruled,leaning toward,running ended,running measures,exploring actively,looking three,basing whether,running national,speaking pollsters,hedging their,testing tuesday,going previously,running between,going polls,exploring already,hitting reportedly,assembling jindal,making pollsters,lagging fiorina,visiting states,considering washington,saying quickly,putting statement,going course,writing weren,running house,beginning')
+
+('NNS', 'clues reacts candidates intentions others answers variables candidates events fundraisers meetings states polls statements candidates intentions events actions words candidates polls pollsters observers sanders measures elections states states pollsters warren warren polls polls visits states teams visits states pollsters cases candidates moves pollsters surveys states points numbers changes warren weren efforts looking,clues clinton,reacts kennedy,ripple potential,candidates their,intentions intentions,others contract,answers three,variables running,candidates running,events rallies,fundraisers political,meetings primary,polls straightforward,statements their,intentions earlystate,events because,actions louder,words almost,candidates assumption,pollsters political,observers bernie,sanders these,measures midterm,elections january,perhaps recently,pollsters going,warren expect,warren fewer,polls majority,polls exploring,visits campaign,teams making,visits early,states skeptical,pollsters indicator,cases potential,candidates campaignrelated,moves though,pollsters listed,surveys states,points these,numbers regularly,changes article,warren declared,weren romney,efforts')
+
+('NN', 'president harry github github clinton bennett ripple award ceremony jason decrow president person longterm relationship santorum contract feature person haven straightforward louder assumption candidate midterm martin malley bernie hampshire decision clinton someone clinton doesn president biden speaking clinton everyone field clinton caution tuesday difference picture huckabee perry santorum majority santorum campaign trail group chris christie scott walker campaign jindal impact indicator romney washington campaign romney statement kasich inaction direction course article romney house mehta article going,president president,harry filed,under primary,github github,github hillary,clinton singer,bennett robert,kennedy award,ceremony ceremony,jason jason,decrow president,little sitting,across longterm,relationship lucrative,contract recurring,feature considering,unsure logic,straightforward honest,about about,their speak,louder polls,under under,assumption potential,candidate national,since since,midterm midterm,elections2 democratic,martin martin,malley malley,bernie highly,least visited,hampshire hampshire,since basing,their their,decision hillary,clinton clinton,someone think,clinton clinton,doesn doesn,president president,biden included,every speaking,clinton clinton,everyone hedging,their democratic,field field,without think,clinton though,caution elizabeth,warren included,every every,tuesday subtle,difference difference,between included,fewer republican,picture muddled,huckabee huckabee,perry perry,santorum included,majority perry,santorum hitting,campaign campaign,trail below,group group,chris chris,christie christie,scott scott,walker carson,bobby bobby,jindal marco,rubio rubio,impact lagging,indicator considering,romney quoted,washington saying,almost campaign,apparatus apparatus,romney public,statement their,inaction points,direction writing,article running,romney serious,white white,house dhrumil,mehta contributed,article')
+
+('VBP', 'enten singer honest hampshire honest earlystate speak ground score elections2 score visit think think carson fiorina fiorina reacts,singer ripple,award candidates,honest others,person variables,person meetings,hampshire statements,because intentions,earlystate events,because words,almost candidates,ground ground,hampshire pollsters,close likely,score sanders,score elections,visit importantly,three someone,think personally,think teams,carson states,should carly,fiorina surveys,fiorina direction,update changes,course efforts,became')
+
+('VBN', 'filed introduced ended visited planned included quoted early,ended looking,visited visit,planned other,visited romney,quoted')
+
+('JJ', 'visible primary hillary robert little figuring potential interested serious lucrative unsure political early national primary logic political potential national democratic midterm january hillary early national other early democratic other elizabeth warren subtle expect republican perry bobby rubio skeptical romney potential early apparatus public doubtful serious white dhrumil enten,filed under,visible visible,primary datapotentialcandidates,hillary during,robert going,president figuring,potential about,their interested,longterm santorum,serious serious,lucrative feature,three fundraisers,political states,national national,primary included,logic relatively,honest actions,speak close,political score,every every,potential included,least least,national elections2,democratic score,highly least,these since,midterm before,january decision,hillary running,included every,national testing,democratic likely,though other,elizabeth there,subtle going,expect polls,republican especially,perry santorum,already about,those those,below assembling,campaign seriously,marco impact,though though,skeptical fiorina,romney romney,potential together,campaign because,public going,doubtful doubtful,kasich basically,their update,these became,serious beginning,dhrumil')
+
+('VBZ', 'datapotentialcandidates rallies assumes states github,datapotentialcandidates events,rallies early,states because,candidates respectively,polls early,states everyone,assumes early,states early,states early,states early,states')
+
+('NNP', 'kennedy')
+
+('VBD', 'ruled included included visited visited warranted included included muddled included campaignrelated listed kasich declared became contributed bennett,introduced across,interested haven,ruled polls,included candidate,included biden,visited probably,warranted warren,included warren,included picture,muddled santorum,included recently,campaignrelated haven,listed warren,declared mehta,contributed')
+
+('JJS', 'least least')
+
+('JJR', 'fewer warranted,other')
+
+('VB', 'marco harry,enten scorecard,because')
+

@@ -1,0 +1,27 @@
+Token analysis before pre-processing 
+Raw number of tokens: 46
+Raw number of types: 45
+Raw Type token ratio: 0.9782608695652174
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'pollster poll question number respond phone percent vote interview respon list cost survey count senat complet panel race staff')
+
+('VBD', 'said weight said made')
+
+('JJ', 'call peopl includ')
+
+('VBP', 'make know elect')
+
+('NNS', 'data')
+
+Token analysis after pre-processing 
+Number of tokens: 31
+Number of types: 30
+Type token ratio: 0.967741935483871
+

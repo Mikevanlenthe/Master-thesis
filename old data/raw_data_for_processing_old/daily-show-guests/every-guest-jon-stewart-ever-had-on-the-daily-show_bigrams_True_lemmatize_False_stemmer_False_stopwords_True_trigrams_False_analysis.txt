@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1283
+Raw number of types: 890
+Raw Type token ratio: 0.6936866718628215
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 857
+Number of types: 733
+Type token ratio: 0.8553092182030338
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'guest stewart hickey github github president host show july york evan show stewart episode show stewart alma graduation school shut show audience member elizabeth washington metro record sanity stewart part show look list1 guests2 profile google knowledge graph3 chair fusion everyone show today formula talk show list figure grace program presence presence presence show time show show emphasis head percent government percent actor movie year couple plurality show brian appearance march stewart am every jon stewart stewart ever by walt walt hickey tv get get the the data data on on github github github github data data at president obama obama and jon stewart stewart  host of during a new york york  an era era is jon stewart stewart  new episode tonight  this show show has has been been on tv since since i i was i went went to to william william  mary  alma mater mater   and the graduation graduation walk the school school wouldn wouldn  t shut shut up him  attended one taping of of the the show an audience audience member member  may 20 the late late elizabeth still my the washington washington metro metro  helping to to set set a a record record  with 800000 people on the  to restore restore sanity stewart was was a big part part of growing up for me  and leaving  but it it was was a hell of of a run  some interesting ways since since he hosting in in 1999 just look look at at the stewart has interviewed  the showbyshow guest list1 list1 and and then crosschecked each each of profile on on google google  s knowledge knowledge graph3 graph3 to to find find out out who sat in in the the other other chair chair all some mind mind meld at fusion fusion  between  the show the way way it it is today  formula talk talk show guest list stewart  s run run  shot in in the the arm arm sometime sometime around political figure to grace grace the the program program with with his his presence presence was bob dole dole  people  and 2000 the show relegated to to a subdued presence presence  with media the gap gap  showing up in 2005 and have have been been a consistent presence presence on the show show as long as as we at war war  much the the whole whole time time   once caught on the show show was important  the show show  outsized emphasis emphasis on to a a head head in in 2008  when when a fifth of of all all the percent  the government government  military or were media must have to be be an an actor a movie the last last couple couple of though  and they now once once again represent a a plurality the show my count count  zakaria has the most by denis leary and brian williams williams  my boss boss has has been been on and i for not to come come along his last last appearance in march march 2014 jon stewart mic tonight tonight at central ')
+
+('VB', 'show sucked the way')
+
+('JJ', 'walt stewart daily daily last mary prospective tour late jammed pretty hell daily interesting guest unique meld monarchs standard first political dole first several military consistent much whole important outsized fifth affiliated military last fareed denis leary last comedy central at 1123 guest jon had on ‘ the show  under tv facebooktwitteremail president show  july 21 in new ap an  the show with with jon its last last new on tv years old old   mary s alma from the the prospective to the  the about him show as as an featuring the  with are still onto the other people to the in 2010 pretty big up for show  changed in in some pulled the the 1600odd unique guests2 their profile s sat all these apparently some happening with with our friends at talked to everyone in in between like it been the is today started as standard formula show  dominated the for the of stewart had a a shot the first first political figure to was bob of all all people in 1999 most often on the show in first several filling the  military up in a consistent as long ve been been at pretty much that the was important left  came to a fifth with the the military percent were  must sucked to promoting a in the began to frequently  again represent show  by my had the show  followed by denis leary and brian on three times  myself for begging to on his drops the the mic edt on on comedy comedy central')
+
+('VBN', 'filed started interviewed started show subdued come i jammed has changed has interviewed s changed soon relegated more subdued s outsized were affiliated have sucked  followed')
+
+('NNS', 'data data datadailyshowguests years students edwards friends people ways guests years friends muppets feels actors comedians years people visits comedians performers years media authors figures politicians politics guests politics media figures years actors musicians comedians zakaria appearances williams times drops aug 6 at datadailyshowguests airs its prospective students elizabeth edwards with friends my roommates  has interesting ways the guests guests2 against these years our friends to monarchs and muppets show feels s always  actors and comedians four years the comedians other performers in its several years media figures  authors military figures once politicians on politics the guests or politics media figures  actors  musicians and comedians s guests fareed zakaria most   appearances three times')
+
+('VBG', 'taping ending taping featuring helping growing leaving hosting happening filling showing promoting kicking begging  during a taping is ending one taping  featuring inadvertently helping of growing s leaving started hosting meld happening politicos filling started showing actor promoting m kicking not begging')
+
+('VBD', 'tonight went attended changed pulled crosschecked talked changed dominated shot appeared relegated started caught left came began followed tonight ever had hickey filed episode tonight i attended  2009 he started i pulled then crosschecked s talked originally started comedians dominated list for  had around 20034 who appeared figures started politicians caught  fareed has had at 11')
+
+('VBP', 'walk restore stewart find mind politicos represent count show boss  2015 daily show datadailyshowguests facebooktwitteremail daily show students tour edwards  friends who who are roommates  sanity  and now a hell a run guests stewart of the against their who  years  monarchs and muppets and feels like always been significantly  actors and first four years of comedians and performers who often on figures  authors and really left politics came guests  politics   and figures  that year year  actors  musicians and comedians began they now plurality of guests  daily show appearances ')
+
+('VBZ', 'roommates figures guests daily show evan vucci  airs stewart  rally to and  daily show but it with visits of years stewart drops')
+
+('JJS', 'guest every guest showbyshow guest the guest')
+
+('JJR', 'filed under')
+
+('NNP', ' host  the  evan  this  stewart  may  with  but  and  the  the  but  with  with  pretty  they  the  the  though  and  and')
+

@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1402
+Raw number of types: 327
+Raw Type token ratio: 0.2332382310984308
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag dear mona state scene chainreaction pileup accident pennsylvania feasterville pennsylvania william thomas cain mona state region ability state question number state driver insurance insurance country state bottom texas contrast iowa board motor vehicle property damage injury fatality highway traffic safety administration texas state washington state state state state state focus dakota number course state figure example driver time road time mind driver detail percent percent caution none time information bear mind state york example percent database percent crash figure state percent jersey figure percent perspective driver time traffic percent driver percent traffic driver pennsylvania share behavior indicator driver percent traffic driver percent traffic year driver figure percent news insurance multitude driver behavior state insurance company assessment future association insurance naic jersey insurance country collision insurance country driver insurance research council percent fraction oklahoma insurance vehicle question insurance state insurance figure number fairer insurance company state number number percentage state louisiana answer number driver insurance collision question fivethirtyeightcom datalab538 show driver number image driver crash company company driver measure driver driver collision crash state crash crash driver driver condition driver collision driver mile mile driver crash driver collision driver accident case distraction driver cellphone driver percentage driver accident driver driver crash driver crash driver collision crash fatality fatality fatality fatality fatality number provider price indicator figure commissioner driver idahoan driver driver premium driver road term price loss provider sum collision company state driver comparison loss driver driver driver idahoan driver insurer collision collision crash provider price driver loss number mona heard negligent help bemoan charge need deserve hope help factor determine reflect cost understand send dearmona historic nhtsa north worth fatal fatal drunken thirtyone average highrisk fatal sorry clearcut le base paid cost')
+
+('NNS', 'mona data people others data data varies data jerseyans')
+
+('VBP', 'chalabi hope indiana produce make type driver insurer want know think make')
+
+('JJ', 'getty asheville carolina average behavior accident dakota plenty idaho total percent average premium logic average half america average utah characteristic individual accident accident premium motorist carolinian lived traveled uninsured insured vary north indicate sound affect come north tricky good united personal national fatal fatal total fatal available fatal national interested fatal fatal thoughtday north fatal impressive fatal previous high previous available irresponsible good alcoholimpaired fatal overall likely national expensive comprehensive good american irresponsible naic vast insured licensed average good expensive easy fatal national insured ohio traveled occurred')
+
+('VBD', 'lisa filed traveled traveled distracted licensed answered alcoholimpaired insured registered resulted accounted occurred occurred')
+
+('VBG', 'driving bearing drinking dreaming speeding driving neighboring using according eating speeding speeding speeding driving including according according insuring driving looking using costing costing')
+
+('JJS', 'worst worst highest latest latest latest highest best')
+
+('VBN', 'involved involved involved involved distracted involved recorded distracted known recorded distracted involved recorded distracted compared treated involved recorded distracted based given involved involved involved found incurred distributed compared speedingrelated combined involved recorded divided estimated')
+
+('VB', 'dear think come answer')
+
+('JJR', 'worse fewer worse higher')
+
+Token analysis after pre-processing 
+Number of tokens: 499
+Number of types: 235
+Type token ratio: 0.4709418837675351
+

@@ -1,0 +1,35 @@
+Token analysis before pre-processing 
+Raw number of tokens: 852
+Raw number of types: 296
+Raw Type token ratio: 0.3474178403755869
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags data others respondents dishes rules data friends eats data images thanks refugees shores media canadians plans things factions traditions respondents distinctions respondents states states respondents regions prefers respondents respondents sales respondents associates kids games traditions eats consumes unites')
+
+('NN', 'part walt hickey food github github bird farm sonoma california year justin sullivan tale mass consumption point santa claus float macy week christmas music radio right food spirit peel holiday nation bird audience poll pork roast beef meat centerpiece meal poultry side region home cranberry region percent percent region percent texas rest country nation percent region dish country england mind percent percent nation finding pursuit squash dessert region america apple england america potato south midwest west nation variation percent family party dinner school percent time card datathanksgiving2015 bargainbin cursory cornbread cheese gronk pumpkin sweet facebook celebrate identify carve check pick something shop ditch hang download')
+
+('VBG', 'thanksgiving welcoming thanksgiving thanksgiving thanksgiving buying confusing thanksgiving finding thanksgiving thanksgiving saying going losing demanding thanksgiving checking')
+
+('JJ', 'turkey getty midst dish sauce side percent form menu percent squash whole endorse america shit early table give know last foreign american secret sure third cheap surveymonday main turkey white regional definitive likely middle atlantic nationwide central southern necessary whole middle pecan cherry american little solid black friday great little high worth dessert overall atlantic')
+
+('VBD', 'parade southeast homemade percent southeast said said filed willie parade')
+
+('VBP', 'start chicken percent turkeys shoutouts dinner carbs bring include leave leave least')
+
+('VBZ', 'dishes commemorates enjoys')
+
+('VBN', 'assorted compared compared done come consumed canned')
+
+('JJR', 'cauliflower')
+
+Token analysis after pre-processing 
+Number of tokens: 257
+Number of types: 193
+Type token ratio: 0.7509727626459144
+

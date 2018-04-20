@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2686
+Raw number of types: 912
+Raw Type token ratio: 0.33953834698436336
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 1433
+Number of types: 704
+Type token ratio: 0.49127704117236565
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dissect rabid publish runcensorednew name first aclu govern ethic former unbridl fifthmostpopular presid arguabl epicent grown elect especi activ larg great bombard socialmediareadi candid meme such other involv emerg imag especi coopt white unoffici donald offic overwhelm front such influenc rthedonald trump american vocal dedic influenti former reson anyth celebr nude strike pizzag involv north sever employe safe white much same same vile fake natur quick scan object simpli solicit machin subreddits2 allow similar base similar third analysi main dedic rnba dedic compon same unrel question similar trump focu hillari subreddit start white exist popular user rthedonald other subreddit onefifth percent everi realli popular such subtl overlap subreddit super popular surpris unlik common whole weight averag subreddit explicitli constitu filter subtract rthedonald close nowban ridicul peopl sexual enthusiast black similar subtract rthedonald actual similar exactli doe trump rfatpeopleh alicia rosi sidebar sexual increasingli describ modern uncuck populist whitenationalist other rcoontown previous central final dedic screenshot user particular bent other footbal racist commentari european fanpag such someth ugli reuropean frequent rkotakuinact main specif common catholic rcia christian other latin christian jewish biblic other relat christian other doe candid analysi subreddit trumpish clintonish select dedic polit sandersclinton slightli basic liber slightli rthedonald thi semant natur thi determin relat basic similar similar relat allow similar other same such relat valu other compar numer technic similar visual multidimension huge semant queen subtl expos equal veri cooccurr uncov')
+
+('NN', 'trump onlin trevor martin yesyesno file donald trump github github datasubredditalgebra rthe donald rconspiraci rfatpeopleh rhillaryforprison rcfb editor note stori contain slur subreddit link reddit presid donald trump administr turbul month drawn fire right includ account group bush administr offici group enthusiasm presid action thu member rthedonald comment board reddit websit subreddit poster trump emperor daddi trump fervor internet membership steadili sinc presidenti member dure campaign hack democrat nation committe publish wikileak play role spread theori wage meme effort trump internet content promot trump bash democrat hillari clinton clinton campaign gaff phrase basket deplor protrump iconographi center pepe frog cartoon charact convolut promin nationalist sort mascot member trump regardless flood meme swung page reddit extent site rush deploy chang reddit algorithm singl anim forc support vote member rthedonald percent subreddit membership strain trump booster accord staffer trump campaign team monitor subreddit messag trump rthedonald juli sinc subreddit continu serv conduit conspiraci site freewheel imagebas board creat meme post birth hacker anonym enter onlin idea pizza parlor washington center childtraffick clinton campaign manag john podesta selfinvestig shop fire time rthedonald repeatedli harbor racist nationalist congreg view trump campaign group inde rthedonald home comment thread subreddit moder declin talk commun accus news rthedonald rigor comment certainli opinion group fan detractor adapt techniqu research call latent semant analysi character activ base comment post quantifi essenc subreddit heart comment overlap subreddit mani comment subreddit algebra ad subreddit result subreddit subtract compon subreddit charact detail explan work bottom articl exampl use techniqu primari subreddit talk rnba subreddit state minnesota rminnesota result rtimberwolv subreddit minnesota basketbal team subtract rsport result rsneaker subreddit sneaker cultur fandom thi algebra appli break rthedonald subgroup use subreddit subtract subreddit rthedonald befor look subreddit rthedonald accord conserv philosophi support anticlinton commentari subreddit rthedonald moder rconserv rasktrumpsupport list rhillaryforprison subreddit clinton pronoun note sidebar bar nationalist moder rnew subreddit doe thi comment comment percent rthedonald user comment rconserv size rthedonald comment comment rthedonald number share comment veri inform becaus subreddit subreddit raskreddit member analysi weight comment accord essenc user base overlap chanc alon sinc essenti everi subreddit heavili group raskreddit result weight rise result characterist specif subreddit reddit look comment rank thousand subreddit subreddit comment specif subreddit reveal list protrump anticlinton polit conserv subreddit algebra dissect rthedonald part comment gener interest polit rpolit result match rfatpeopleh subreddit bulli peopl rthedonald share insult aim ban misogynist subreddit nomin strategi subreddit form dure moder schism racism peopl ban post subreddit algebra quit anyth rpolit list everi subreddit analysi rank order result subtract show support support racism presenc list presid trump behavior includ refer miss machado miss piggi insult donnel weight result rtheredpil describ place discuss strategi cultur lack posit ident name scene matrix group belief woman world oppress class belief spring ideolog heart misogyni rmrtrump selfdescrib subreddit movement increasingli allpurpos insult masculin home unrepent racism come r4chan subreddit post thread mani support trump presid board dissect rthedonald bunch way subreddit algebra interest result rconspiraci colleg discuss discuss subreddit trump support minnesota rthedonald reurop subreddit antisemit affair subreddit discuss world affair discuss conflict syria rthedonald rgame gamerg discuss reddit gener game internet person ad innocu subreddit reurop rgame result hatebas host antisemit racism reddit home misogynist gamerg movement question trump support reddit polit activ reddit user gener question subtract rpolit rconserv rconserv devote biblic mean rite initi adult discuss ak47 space cathol redditor pray redditor name fire discuss relationship theolog thi result subreddit dedic glorif subreddit similarli focus rak47 famou presidenti trump reddit compar clinton democrat primari berni sander rsandersforpresid subreddit member thi sandersish subreddit plot spectrum rthedonald rsandersforpresid rhillaryclinton subreddit news smack middl side spectrum clinton rthebluepil feminist parodi rtheredpil rbasicincom subreddit advoc incom side sander corner doe work latent analysi techniqu languag process book articl speech idea document use word frequenc probabl word themselv ass word look word show word show word nearbi thi work word book assign base cooccurr word book result vector word veri level determin word look vector guid concept vector interest becaus thing amount inform machinelearn research googl tri ad word vector subtract meaning relationships4 vector king subtract vector vector woman result vector relationship rome plu berlin turn power analyz languag natur differ relationship anoth')
+
+('JJS', 'most best closest most most least secondclosest most closest')
+
+('VBP', 'follow appear contain materi mobil comb email elect play gain rthedonald shitpost elect limit find particip elect start collect exampl prompt offer express have embolden think do use learn deem have make see thi take seem abstract rthedonald take view follow refer mean have have surpris overlap overlap help abov figur devot pretti echo winner refer name racist rthedonald hate link convert find follow rfemin subreddit decidedli use exampl have angl enorm contain gradeschool togeth discov take germani use subreddit')
+
+('NNS', 'data data offens email broadli histori univers theori fals carolina pretti thi similarli pretti farrightw convers rconserv els pretti univers appallingli strongli commun consid univers hatebas deem exampl')
+
+('VBD', 'rpolit were subreddit1 trump said fivethirtyeight left happen bold put runcensorednew found overweight rpolit overweight theori motiv altright meant found host subreddit totalbiscuit rpolit mari rifl candid were')
+
+('VBN', 'left shown known stolen been been mobil post overlap built been')
+
+('VB', 'refer inform rifl threaten be possibl call resembl see happen have expect base get captur defin subset rifl let take rare')
+
+('JJR', 'more le larger more more more more lower closer more closer closer')
+
+('VBZ', 'repres discours analysi simpl promin analysis3 rconserv exampl happen dedic rthedonald simpl denigr reddit rthedonald rais mari dedic hillari adapt everi')
+
+('VBG', 'fring ring')
+
+('NNP', 'messag liber')
+

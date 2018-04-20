@@ -1,0 +1,43 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1979
+Raw number of types: 670
+Raw Type token ratio: 0.33855482566953005
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'hellbent health care bill bacon health care github github president trump hellbent bill care repeal obamacare policy power congress part health care bill plurality time thing health care bill bill year determine anything health care promise view science agenda research conclusive house campaign trump repeal obamacare bill coverage legislation congress congress obamacare thenpresident obama bill obamacare house senate control party legislation party veto repeal oval office repeal plan figure house freedom caucus statement fivethirtyeight school party party support influence party labor side rifle association majority health care repeal effort kaiser poll example percent view house version obamacare legislation percent bill percent opinion survey monkey poll fivethirtyeight percent core trump president health care percent trump supporters1 feel college play role percent trump health care repeal partyasorganization club growth prosperity effort sense push health care bill party money promise repeal obamacare rally scientist america tank core feel point drutman repeal obamacare impeach trump ideology rhetoric obamacare bill legislation coverage trump party paint obamacare insurance obamacare administration bill nothing obamacare enrollment medicaid program health care bill health care obamacare health care medicaid health effect coverage income bill insurance charge middleclass help radio talk show host york something radio show commentator msnbc antitrump leery president view today party core organizing trump highprofile house house ahca climate change agreement event trump climate think policy today party care list repeal example reason bill health care legislation payroll investment year analysis health care reform argument something place majority route obamacare life party washington senate bill party alaska murkowski leave expansion place mike favor repeal obamacare kind conservativemoderate divide health care trump senate majority leader mitch mcconnell trump health care bill bill party goal fallout contrast health policy bill obamacare dhrumil mehta research')
+
+('VBG', 'passing pushing interesting according pushing keeping emerging repealing backing satisfying consisting meaning including handling determining knocking giving going going voting going collapsing reforming rescuing misleading collapsing saying abandoning giving making opposing reversing holding withdrawing making reversing casting including rolling allowing rolling appealing competing making happening trying getting')
+
+('JJ', 'unpopular congressional affordable promising tend assume political stay several major unpopular pass popular next impossible politician primary likely hard common wrong political american implement academic politifact ideas outlandish republican much republican january obama republican obamacare everyday ohio congressman confident elected main political political powerful democratic national republican universal recent favorable repeal give recent reluctant reluctant electoral major push obamacare invested republican democratic political unpopular public loyal deliver hard drutman political think republican understand current many eager weight main sure trump ahca many obamacare ineffective effective obamacare many conservative available poorest republican poor free obamacare consume medical young high republican percent much financial annoying conservative ideas right anguish conservative recent titled right regular negative obama white garden paris latter liberal sure obama paris hard democratic affordable exhaustive obamacare touch stealthy wealthy good advantageous congress conservative obamacare keep major much conservative repeal much possible difficult large right write divide moderate utah comprehensive common many clear mean political specific enough')
+
+('VBP', 'perry seem want control approve seem know give prove make follow show congress congress premiums jordan defines partyasorganization suggest support trump provide spend oppose need turn oppose medicaid help tend charge hate republican predecessor pittsburgh want argue make mean provide adopt repeal annoy lisa want prefer repeal')
+
+('VBN', 'filed passed elected promised offered passed signed told elected handled charged left charged compared associated medicaid defined')
+
+('NNS', 'data data dataahcapolls parts things parties goals republicans democrats voters polls republicans elections actions reasons motives reasons republicans politicians promises studies presidents members republicans proposals votes times pledges members chambers officials constituents lowers americans constituents activists donors scientists parts voters officials groups unions groups polls voters republicans supporters voters fortunes voters groups groups volunteers supporters causes tens millions dollars candidates ones races volunteers doors donors republicans supporters troops voters republicans democrats markets states republicans americans others companies reasons marketplaces steps republicans cuts republicans ways conservatives activists politicians americans people ways dollars people limits plans people people premiums people services insurers people customers credits americans liberals politics accomplishments enemies charles sykes times liberals trump sykes principles times policies celebrations elites policies people reasons experts taxes cuts people reasons ones reasons republicans voters promises liberals accomplishments voters ahca activists purists sections incentives members republicans bills people views goals feels')
+
+('NNPS', 'republicans')
+
+('VB', 'replace hurt identify replace repeal obamacare elected replace disapprove make enact take support subsidize allow obamacare emphasize revolt want accomplish minimize')
+
+('VBZ', 'republicans republicans drives americans republicans americans keeps includes marketplaces covers redistributes helps helps allows provides december conservatives republicans includes increases leaves republicans')
+
+('VBD', 'adopted pushed determined campaigned campaigned brought made invested promised said added found viewed conducted showed jazzed said dcbased added medicaid boomed spent wrote oped ended basked rose passed announced knocked cared meant adopted took discussed reflected contributed')
+
+('JJR', 'older younger younger older cheaper younger older')
+
+('JJS', 'suggest')
+
+('NNP', 'chamber')
+
+Token analysis after pre-processing 
+Number of tokens: 895
+Number of types: 509
+Type token ratio: 0.5687150837988827
+

@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1475
+Raw number of types: 503
+Raw Type token ratio: 0.3410169491525424
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1064
+Number of types: 449
+Type token ratio: 0.42199248120300753
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'apr age problem nate silver dhrumil mehta age github github datacongressage committee orrin hatch chuck grassley patrick leahy dianne feinstein testimony chip somodevilla getty committee chuck grassley patrick leahy dianne feinstein testimony mark wilson getty york feature month election president barack obama inspire office article reporting evidence question congress trend congress obama variety govtrackus sunlight foundation york compilation population member congress start term jan close alltime congress office obama contrast age bill office ronald reagan term congress office contract election gap obama youth gop number congress time congress jan congress age measure time start evidence party electorate age obama age percentage congress random obama president vote party time activity news volunteer anything marriage gun office definition order survey view survey number disposition democrat republican identify sample frequency age percent tendency age slope curve flatter number age data way average democrat republican approximation pool data survey president time survey bucket pattern reagan george bush richard nixon gerald ford average republican survey age democrats president george bush age interest survey deal emphasize ron paul campaigns occupy wall street push gay marriage role record bush term obama approval youth banner street instance group left party obama office question cycle congress')
+
+('NNS', 'republicans democrats data data members charles images members charles times people years data sources times members data people years years years republicans democrats republicans congresses years seats members incumbents years years members members democrats democrats congresses years terms republicans aren voters preferences years voters democrats voters points democrats voters americans partisans independents parties partisans years campaigns issues rights candidates parties people politics supporters parties nominations views leanings data republicans democrats respondents ways independents americans partisans partisans americans parties candidates years groups respondents tables voters republicans years versions years years americans partisans politics americans politics democrats politics years republicans years results people affairs movements people voters parties rates highs ratings americans parties interests years people activities americans participants people interests americans')
+
+('VBP', 'have get senate schumer senate schumer ran run represent are clinton are have wave are are have have run are say are vote follow donate contrast seek are need win congress are label are percent older estimate follow have identify take are average are have disapproval congress remain george have aren become')
+
+('VBN', 'filed done been collected achieved been widened varied favored subset closet affiliated been conducted collected given aged identified aged increased decreased presented used compared grown been steadier increased been been increased made identified seen')
+
+('JJ', 'judiciary right listen judiciary right listen new long little young strong much statistical simple recent bit worse new congress average current old high average january congress average old congressional america current previous relative huge new first average old average previous average new congress first past average old counterintuitive preferred young partisan young representative many same soft narrow political evennumbered political interested underlying gay federal immersed partisan strong heterodox general social nuanced partisan partisan strong strong likely strong strong strong republican little soft major old strong strong congressional different general social general social same actuarial old nonagenarian strong old strong nixon average strong active general social informed strong great old strong same old important young uninterested political political full young major unpopular second major presidential young interested political partisan wall major active vicious full old')
+
+('VBD', 'left left had did posted whole was was came was took did came won were served were were won began increased contrast identified affiliated was were vshaped became was asked were described said knew were said were played was was took')
+
+('VBG', 'hearing hearing claiming getting including serving taking serving serving voting dating topping dating aggregating serving ranging ranging serving organizing')
+
+('VBZ', 'images has has has republicans reflects democrats comes has provides americans turns has has has democrats has')
+
+('VB', 'cite gotten think replace correct seem mistake think label counted engage scope take identify frame drawn imply skeptical feel vote become serve')
+
+('JJR', 'younger older better older older older younger less older older more younger older older better younger older older younger younger younger')
+
+('NNPS', 'democrats democrats')
+
+('JJS', 'most rest')
+

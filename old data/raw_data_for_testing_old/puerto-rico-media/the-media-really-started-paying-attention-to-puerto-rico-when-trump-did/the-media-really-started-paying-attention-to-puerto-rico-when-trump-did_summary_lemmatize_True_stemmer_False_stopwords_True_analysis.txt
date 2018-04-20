@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 665
+Raw number of types: 209
+Raw Type token ratio: 0.3142857142857143
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag medium week medium location hurricane source thing day level hurricane outlet effort effort statement worker week headline headline headline week statement poll event network time medium organization decision attention trump dhrumil mehta puerto rico github github datapuertoricomedia analysis puerto rico coverage hurricane maria week hurricane landfall puerto rico morning monday attention president twitter coverage puerto rico coverage hurricane devastation medium president trump trump rico debt feud mayor recovery effort coverage twitter hurricane quarter news puerto rico percent texas trump aftermath hurricane harvey percent florida trump hurricane irma president island week half proportion trump texas florida coverage criticism president criticism response administration puerto crisis president approval rating hurricane story news president coverage rico msnbc did3 puerto rico recovery attention news coverage president trump puerto rico puerto help continue merit show wednesday puerto puerto fake online immediate month')
+
+('NNS', 'data maria data people people data data changed1 puerto')
+
+('VBP', 'medium trump island rico rico')
+
+('JJ', 'got2 headline suggested burst juan average territory gotten influenced fivethirtyeight powerful full controversial puerto rican willing unfavorable last positive federal slow several recent downward favorable many much')
+
+('VBD', 'started went started went said mentioned mentioned struck received engaged')
+
+('VBN', 'found made started made referenced blasted mentioned mentioned mentioned mentioned visited mentioned visited highlighted filed published handled covered dedicated devoted sustained')
+
+('VBG', 'paying talking covering following ticking making following')
+
+('VB', 'recover give keep reach')
+
+('VBZ', 'tends')
+
+('JJR', 'higher fewer')
+
+Token analysis after pre-processing 
+Number of tokens: 230
+Number of types: 136
+Type token ratio: 0.591304347826087
+

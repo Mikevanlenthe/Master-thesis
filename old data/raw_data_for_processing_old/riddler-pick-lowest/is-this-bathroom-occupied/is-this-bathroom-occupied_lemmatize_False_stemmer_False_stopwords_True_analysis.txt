@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1521
+Raw number of types: 508
+Raw Type token ratio: 0.3339907955292571
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 489
+Number of types: 299
+Type token ratio: 0.6114519427402862
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'bathroom riddler illustration guillaume riddler week math probability express something riddler movement submit either1 shoutout week column hint puzzle find twitter riddler express chris game potato class game circle game teacher potato coin coin game child potato winner child change circle probability submit riddler dave moran puzzle work break bathroom office building toilet sign door slide door sign slide exiting assume bathroom sign visit thing visit sign enter slide exit sign enter slide exit bathroom time situation bathroom sign door probability bathroom probability bathroom credit percentage bathroom solution week riddler express massachusetts winner week inductee order riddler nation week integer person number number mitchell choice number fact number logic riddler nation induction process arthur number solution week riddler england winner week start organize chain chain number number chain example chain place chain length chain build path problem path number repeat factor isar bhattacharjee illustration chain length clever approach winner chain example solver none chain program language program sagemath matlab credit chain insight riddler submit email oliverroeder fivethirtyeightcom')
+
+('VBD', 'occupied left occupied occupied occupied occupied occupied asked explained worked broke excluded left sent topped found took offered existed found created claimed found found')
+
+('VBN', 'edited filed bitesized held declared stuck submitted ended submitted bored finished connected called submitted written found called built cautioned')
+
+('VB', 'roeder handle forget make forget think adjacent build solver turn')
+
+('JJ', 'kurkdjian welcome related dear logic classic slowpuzzle next favorite dust attic special teacher potato right tails classic perfect next small outside vacant else unfortunately slide vacant sign sure occupied vacant conscientious sure occupied vacant assume half sign vacant vacant extra conscientious last last puzzle inaugural ordinal last positive unique high popular round certain avoid arbiter small single last classic last classic puzzle want tough find multiple general known educated long computational path small clingo solve combinatorial optimal extra specific alight mathematical tricky riddle')
+
+('VBP', 'offer hold riddler want correct need thornett stand coin coin child forget notice notice make workplace submit mitchell cambridge birmingham inclusive solve appear kaseorg know want')
+
+('NNS', 'problems things types children things tosses passes heads chances words people users reads users users questions reads reads happens users changes congratulations submissions submitters submissions spammers congratulations james integers rules factors numbers numbers numbers numbers problems algorithms trials guesses chains others methods james anders submitters arguments chains arguments examples anders problems others chains numbers anders numbers')
+
+('JJR', 'answer answer')
+
+('VBG', 'collecting playing holding winning depending entering entering exiting entering remaining winning zooming including getting building leaving trying taking convincing using using')
+
+('VBZ', 'progresses holds comes comes ends reads says reads makes multiples seems means')
+
+('JJS', 'lowest longest longest biggest')
+

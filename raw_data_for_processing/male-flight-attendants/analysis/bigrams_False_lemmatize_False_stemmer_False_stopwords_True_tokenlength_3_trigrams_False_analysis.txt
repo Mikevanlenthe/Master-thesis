@@ -1,0 +1,48 @@
+Article: male-flight-attendants
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 846
+Raw number of types: 360
+Raw Type token ratio: 0.425531914893617
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 394
+Number of types: 261
+Type token ratio: 0.6624365482233503
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'oct, flight, hope, data, pilot, flight, attendant, airline, passenger, choice, flight, chicago, april, dear, flight, jack, lincolnwood, illinois, jack, history, aviation, male, flight, thousand, kind, question, number, flight, fallen, guess, percentage, flight, look, story, percent, flight, figure, percent, gender, employment, percent, census, bureau, population, center, multitude, share, flight, today, age, flight, cabin, crew, time, percentage, age, flight, change, university, flight, group, share, airline, recruitment, reason, change, age, race, emergency, percent, flight, airline, sector, look, job, transportation, percent, male, flight, attendant, transport, kind, grasp, percent, sector, male, gender, split, population, center, database, job, category, flight, split, percent, percent, male, support, percent, male, percent, male, list, phrase, percent, percent, percent, list, share, piece, jack, flight, number, worker, hope, question, send, dearmona, fivethirtyeightcom, datalab538')
+
+('JJ', 'dear, many, right, major, male, back, available, american, raw, useless, female, interested, different, male, overall, male, minnesota, prior, available, steady, likely, overall, median, past, white, black, hispanic, civil, important, homogenous, white, peculiar, category, public, clear, unusual, hard, unusual, minnesota, similar, administrative, top, female, dental, kindergarten, titled, full, male, bottom, many, male, mental, male, breed, american, answered')
+
+('NNS', 'attendants, men, chalabi, numbers, data, github, datamaleflightattendants, offers, beverages, attendants, personnel, numbers, attendants, times, numbers, attendants, attendants, men, attendants, workers, decades, data, figures, years, reasons, attendants, men, attendants, men, ones, men, attendants, years, attendants, employees, rights, laws, companies, preferences, changes, people, exits, attendants, women, industries, attendants, inspectors, races, demographics, standards, comparisons, occupations, resembles, attendants, terms, interviewers, surveyors, men, roles, teachers, jobs, dressmakers, roles, jobs, hygienists, teachers, men, boilermakers, drillers, men, occupations, attendants, hairdressers, typists, data, shows, numbers')
+
+('VBP', 'mona, help, github, john, dear, see, show, risen, change, texas, become, expand, gender, gender, enumerators, want, percent, extreme, earth, see, help')
+
+('VBN', 'filed, furloughed, used, used, risen, fallen, stayed, listed, dominated')
+
+('VB', 'get, siefer, closer, see, keep, mona, like')
+
+('VBG', 'working, answering, according, making, pointing, making')
+
+('VBZ', 'depends, percentages, emerges, looks, sociologists, makes, seamstresses, means, receptionists')
+
+('JJS', 'latest')
+
+('JJR', 'fewer, greater, younger, older, bigger, broader, better, rarer')
+
+('VBD', 'split, compiled, entered, increased, rose, occurred, pointed, cited, forced, looked, intrigued')
+

@@ -1,0 +1,48 @@
+Article: twitter-ratio
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1528
+Raw number of types: 581
+Raw Type token ratio: 0.38023560209424084
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 707
+Number of types: 455
+Type token ratio: 0.6435643564356436
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'tweeter, dhrumil, mehta, gus, wezerek, administration, world, get, get, food, pellet, universe, proof, someone, attention, food, problem, tweet, conversation, post, surer, someone, phenomenon, ratio, david, roth, deadspin, ratio, baseball, stat, line, tweet, example, adam, dunn, batting, home, huffington, post, ashley, feinberg, time, capacity, twitter, podium, president, blend, response, figure, way, senate, illustrate, blend, plot, measure, example, mixture, clay, sand, soil, copper, alloy, jewelry, use, measure, top, share, bottom, right, share, bottom, danger, zone, share, summer, shape, silhouette, bomber, corner, response, tweet, retweet, reply, ratio, fact, trump, set, trump, account, magnet, tweet, tweet, share, pair, show, morning, joe, cohost, brzezinski, direction, plan, repeal, obamacare, tweet, morning, trump, conversation, myeshia, johnson, widow, army, sargeant, david, johnson, month, proportion, year, trump, realdonaldtrump, june, trump, tweet, share, ratio, policy, trip, ideology, look, trump, realdonaldtrump, june, tweet, share, candidate, sixfigure, romney, congratulate, win, donald, trump, realdonaldtrump, trump, percent, president, tweet, barackobama, twitter, oeuvre, direction, retweet, metaanalysis, research, message, andor, originator, stat, line, balance, trump, line, obama, reply, trump, retweet, reply, trump, user, service, nation, tweeterinchief, senator, senator, chart, mass, pattern, trend, texas, kamala, harris, democrat, california, example, retweet, sector, distribution, lindsey, graham, example, blob, replyretweet, bill, cassidy, distribution, action, response, ratio, tweet, pennsylvania, mitch, mcconnell, cory, gardner, colorado, toomey, mcconnell, race, home, prize, response, way, comparison, percent, retweet, mike, lee, part, trend, twitter, gravity, axis, everyone, twitter, ratio, gauge, twitter, concept, chris, cillizza, cillizzacnn, september, twitter, ratio, ratio, course, tweet')
+
+('NNS', 'politics, data, github, data, datatwitterratio, things, nice, pellets, pebbles, replies, retweets, likes, replies, retweets, replies, retweets, replies, tweets, states, people, tweets, colleagues, actions, plots, proportions, media, presences, people, states, tweets, replies, tweets, likes, tweets, flops, tweets, replies, likes, averages, retweets, replies, exceptions, tweets, msnbc, replies, nights, retweets, retweets, replies, leaders, replies, tweets, replies, followers, looks, ratios, tweeters, papers, tends, likes, replies, tweets, tweets, retweets, likes, tweets, tweets, tweets, likes, tentacles, retweets, replies, senators, others, distributions, likes, tweets, replies, warren, others, ratios, senators, senators, replies, actions, tweets, reactions, tweets, replies, winners, james, outliers, members, republicans, replies, democrats, tweets')
+
+('VBP', 'trump, github, send, stack, likes, favs, compare, react, gold, spark, data, trump, …to, row, mitt, trump, obama, twitter, indicate, trump, run, get, type, appear, corner, echo, buck, massachusetts, appear, demonstrate, furthest, corner, replies5, trump, gop, corner, ratio')
+
+('JJR', 'roeder, lengthier, higher, higher, higher, lower, less, outlier, worse, heavier, worse, larger')
+
+('VBD', 'filed, sparked, messed, wrote, put, left, map, got, came, failed, posted, killed, generated, insisted, said, middle, pointed, got, tweeted, shifted, mapped, inverted, focused, replied, pointed')
+
+('JJ', 'trump, happen, replied, little, digital, universe, bad, luke, neil, esquire, bad, bad, average, rbis, facto, public, trump1, powerful, public, united, powerful, friendly, rival, ternary, silver, social, powerful, united, ratio, last, right, straight, common, easy, public, expressive, thought, trump, firestorms, sure, feinberg, metric, close, second, shot, reply, senate, monday, high, maralago, new, donald, good, concerned, foreign, recent, funding, radical, qatar, donald, former, republican, presidential, nice, first, times3, compare, current, former, first, quadrant, academic, level, endorsement, obama, average, ratio, engagement, average, obama, stat, visible, above4, form, shapeless, certain, individual, broad, cruz, republican, resemble, average, heavy, democrat, tweet, carolina, republican, fellow, republican, louisiana, uniform, triangle, specific, average, pat, toomey, republican, republican, kentucky, republican, first, dubious, percent, big, utah, republican, oklahoma, republican, inhofe, pull, retweetlike, concept, bad, lefty, feel, free, angry')
+
+('VB', 'get, get, tweet, say, become, goodwill, take, buy')
+
+('VBN', 'published, retweeted, liked, known, compared, fucked, given, used, silt, called, rated, facelift, stated, called, stretched, ted, tied, taken, clustered')
+
+('VBG', 'paying, giving, flinging, outpacing, writing, governing, using, sitting, zooming, according, taking, joining, bleeding, writing, according, retweeting, microblogging, reaching, reaching, favoring, denying')
+
+('VBZ', 'tweets, runs, likes, characterizes, retweets, likes, requires, likes, replies, addresses, likes, likes, retweets, retweets, gets, likes, gets, looks, appears, buys, makes')
+
+('JJS', 'least, highest, highest, highest')
+

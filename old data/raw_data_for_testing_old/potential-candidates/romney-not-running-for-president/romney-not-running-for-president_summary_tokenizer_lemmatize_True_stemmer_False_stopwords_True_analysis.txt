@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1046
+Raw number of types: 247
+Raw Type token ratio: 0.2361376673040153
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token token ratio true true verb adjective separated list side rick jindal stay biden primary announced visible primary fellow republican republican national annual sandy dead learning republican white main likely former last serious possible recent alive good presidential primary republican possible last updated serious early eager early interesting additional early absent recent national politician conventional true recent democratic static hillary last seem surprising upstart retail early invisible strong primary different mitt perry settled third give token token')
+
+('NN', 'analysis number number type type filter lemmatizer stemmer article president romney harry github github romney dinner committee winter meeting midway diego huffaker image mitt romney inchoate campaign president insider house romney president benefactor bush romney campaign romney announcement news divine candidate statement visit iowa hampshire inclusion poll contender mike huckabee statement president candidacy look number contender attend plan event hampshire fact candidate event iowa hampshire list week event chris event cruz event event mike huckabee event rand paul event event rick santorum event scott walker event chance santorum state infrastructure support huckabee walker sign event state candidate event state bush money romney visit line decision bobby jindal event iowa hampshire iowa freedom summit month poll poll measure wisdom stock iowa hampshire look story person event bernie sander sander webb committee clinton sander fact event iowa hampshire checkedin mind infrastructure president event martin card iowa hampshire candidate clinton campaign support bloomberg view jonathan bernstein belief campaign summer campaign look story left jindal ground friday right fullborne potential lindsey iowa potential carson build visit sideline exploratory earlystate clinton primary republican jindal perry clinton continue look announce announce tell busy1 analysis number number type type ratio')
+
+('VBG', 'preprocessing using using using tracking running scooping moving compiling going focusing trying raising king holding building holding evolving preprocessing')
+
+('VBD', 'token supported added announced formed said said tried touched unsettled greeted token')
+
+('NNS', 'stopwords false getty wild data data datapotentialcandidates politics poll')
+
+('VBN', 'used token filed announced announced locked planned made included taken made given given')
+
+('VBP', 'staffer candidate wait christie graham democrat continue include stand seem steve include think make')
+
+('VBZ', 'suggests suggests')
+
+('VB', 'take take')
+
+('JJS', 'clearest biggest')
+
+Token analysis after pre-processing 
+Number of tokens: 352
+Number of types: 213
+Type token ratio: 0.6051136363636364
+

@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1149
+Raw number of types: 416
+Raw Type token ratio: 0.36205395996518713
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 430
+Number of types: 248
+Type token ratio: 0.5767441860465117
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', '\ufeffpick oliv kurkdjian relat classic slowpuzzl next attic uniqu submiss ordin classic leav extra last certain fine atlarg reduc legal exclud elect candid select choos select candid candid candid candid equal last classic north dakota classic victori worth castl victori archenemi armi castl worth total victori solut much equal poor perfect everi spent victori enough converg good')
+
+('NN', 'number number edit roeder file riddler riddler4x3default illustr guillaum welcom riddler everi week offer problem thing hold math logic probabl type riddler express someth movement submit either1 shoutout week column hint favorit puzzl collect dust find twitter riddler express abijith krishnan simpl intrigu participatori problem submit posit person submit number winner induct order riddler nation submit number riddler itay bavli number problem start integ inclus organ chain rule build chain number number chain factor exampl chain number place finish chain length chain credit start number submit answer solut week riddler express congratul mat cooper snowmass villag colorado winner previou express puzzl town folk run seat citi commiss voter vote field mani differ way voter ballot mani tie advanc novemb gener start separ number voter capabl vote vote zero vote way vote way vote way choos vote ad give possibl ballot advanc novemb gener slot outcom solut week riddler congratul josiah jenkin winner previou puzzl warlord archenemi compet conquer castl point castl strateg valu wouldb conqueror specif castl point distribut castl point number troop point point win send castl news suffer loss previou battl mani need order matter distribut need point point solver jack markley provid excel descript intuit sinc knowledg battl need effect strategi enemi need case everyth peopl thing rule enemi point cost possibl make everi castl number point requir conquer luckili desir deal number number soldier enemi castl requir point distribut distribut conquer castl distribut point solver daniel eriksson zack segel approach problem use techniqu call simul anneal kind share code graph imag daniel jack mathemat argument enemi troop distribut program attempt distribut combat eventu arriv iter band bar distribut describ')
+
+('VBP', 'dear want riddler correct need integ chainlink want build elect differ elect collect send conquer win send end know mean realli involv want econom want want want give find')
+
+('NNS', 'bites candid candid choos castl figur els repres')
+
+('JJR', 'answer soldier soldier soldier longer soldier soldier soldier soldier soldier soldier soldier soldier')
+
+('JJS', 'lowest longest least worst best')
+
+('VB', 'adjac build choos mani make')
+
+('VBD', 'multipl left primari candid cast rugbi split simul')
+
+('VBN', 'given set')
+
+('VBZ', 'mani soldier exactli')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 530
+Raw number of types: 237
+Raw Type token ratio: 0.44716981132075473
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 435
+Number of types: 333
+Type token ratio: 0.7655172413793103
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'media,weeks,media,locations,hurricanes,sources,things,media,levels,hurricanes,outlets,efforts,media,efforts,statements,trump,puerto,workers,weeks,headlines,headlines,headlines,weeks,headlines,statements,polls,people,events,networks,times,media,months,organizations,decisions,people,published weeks,other locations,powerful hurricanes,gotten sources,sources things,reach levels,other hurricanes,hurricanes outlets,media efforts,controversial statements,referenced puerto,rican workers,online headlines,mentioned puerto,texas headlines,percent headlines,island headlines,president statements,recent polls,other events,events networks,which tends,fewer times,months organizations,making decisions')
+
+('VBD', 'started,found,started,referenced,suggested,blasted,mentioned,mentioned,mentioned,visited,mentioned,mentioned,visited,handled,struck,covered,mentioned,mehta filed,datapuertoricomedia published,puerto received,hurricanes gotten,really started,outlets started,repeatedly referenced,effort blasted,headlines mentioned,headlines mentioned,trump visited,headlines mentioned,trump visited,behavior highlighted,administration handled,hurricane struck,could influenced,networks covered,coverage mentioned,should dedicated,should devoted')
+
+('VBG', 'paying,following,talking,covering,following,being,ticking,making,started paying,wednesday morning,until following,started talking,toward covering,weren willing,weeks following,response being,approval rating,rating ticking,organizations making')
+
+('NN', 'attention,trump,dhrumil,mehta,puerto,github,github,analysis,coverage,hurricane,maria,hurricane,maria,landfall,puerto,morning,monday,attention,president,twitter,account,coverage,puerto,coverage,hurricane,devastation,president,mayor,recovery,effort,coverage,twitter,hurricane,quarter,online,puerto,trump,percent,texas,aftermath,hurricane,harvey,percent,florida,hurricane,president,trump,island,territory,trump,proportion,trump,florida,coverage,criticism,president,criticism,response,administration,crisis,president,approval,rating,hurricane,story,president,coverage,recovery,continue,merit,attention,coverage,president,trump,paying attention,attention puerto,puerto trump,trump dhrumil,dhrumil mehta,puerto github,github github,github datapuertoricomedia,fivethirtyeight analysis,analysis found,found puerto,media coverage,after hurricane,hurricane maria,maria other,changed1 hurricane,hurricane maria,maria landfall,landfall puerto,puerto wednesday,morning until,monday later,later island,burst attention,attention media,media president,president twitter,twitter account,though still,still reach,talking about,about puerto,puerto however,however coverage,coverage about,about hurricane,hurricane devastation,president trump,trump about,puerto trump,willing recovery,recovery effort,coverage twitter,twitter weeks,hurricane average,quarter online,mentioned trump,trump about,about percent,percent texas,trump immediate,immediate aftermath,aftermath hurricane,hurricane harvey,harvey about,about percent,mentioned trump,trump weeks,weeks after,after hurricane,hurricane president,president trump,visited island,mentioned territory,mentioned trump,trump higher,higher proportion,proportion trump,texas florida,florida coverage,positive criticism,criticism president,highlighted criticism,federal response,several recent,disapprove administration,puerto crisis,crisis president,president approval,downward since,since hurricane,though could,covered story,favorable coverage,puerto fewer,puerto recovery,recovery continue,continue merit,merit media,media attention,about coverage,coverage should,president trump,trump should,people puerto')
+
+('VBN', 'filed,published,received,gotten,started,sustained,engaged,mentioned,highlighted,devoted,really started,puerto engaged,mayor suggested,puerto mentioned,territory mentioned')
+
+('JJ', 'fivethirtyeight,other,powerful,wednesday,burst,other,controversial,puerto,puerto,rican,willing,unfavorable,average,immediate,trump,texas,positive,federal,several,recent,puerto,downward,other,favorable,puerto,under puerto,weeks fivethirtyeight,received media,immediately after,recently powerful,following monday,started sustained,sustained burst,recover media,covering controversial,statements president,about puerto,suggested puerto,puerto rican,blasted unfavorable,unfavorable coverage,following hurricane,about quarter,mentioned trump,florida mentioned,visited texas,coverage positive,criticism federal,being several,polls people,handled puerto,ticking downward,struck though,influenced other,equally which,tends president,president favorable,mentioned puerto,msnbc puerto,attention months,dedicated president,devoted people')
+
+('VBP', 'changed1,island,reach,recover,trump,weren,behavior,disapprove,msnbc,puerto,things changed1,levels coverage,workers weren,about florida,times msnbc')
+
+('JJR', 'higher,fewer,filed under,coverage other')
+
+('VB', 'influenced,dedicated')
+
+('VBZ', 'tends,devastation efforts')
+

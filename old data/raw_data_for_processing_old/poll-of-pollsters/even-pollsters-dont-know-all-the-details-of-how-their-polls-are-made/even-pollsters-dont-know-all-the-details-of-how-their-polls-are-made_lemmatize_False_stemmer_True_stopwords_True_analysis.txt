@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2152
+Raw number of types: 691
+Raw Type token ratio: 0.32109665427509293
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 915
+Number of types: 443
+Type token ratio: 0.48415300546448087
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBP', 'pollster know file elect hardcor make peopl know collect show think understand elect know take learn know typic roughli hampshir remain build think randomdigit tell answer make regist measur dialect rang depend servic make elector differ predict expect differ make subgroup make infer ask risen peopl illeg suggest elect elect predict expect predict expect question')
+
+('NN', 'detail poll poll pollster github github datapollofpollst illustr joel plosz illustr joel plosz mani reader forecast junki poll sausag get poll poll pollster nation bolt poll number lead dozen prolif pollster databas time provid forecast minut complet survey time respond question surveymonkey result question room explor report github hung christoph borick muhlenberg colleg complet survey borick respond question outsourc possibl reason poll complet part mani pollster work instanc ask pollster handl survey panel outsid vendor respond rate panel member month contractor peopl conduct telephon poll use interview pollster question age gender train interview work check contractor complet phone bank work monitor percent call qualiti remot offic pollster interview phone interview hour train hour days3 work interview poll firm measur pollster share race detail noninterview staff percent fulli half poll staffer poll side sever pollster staff busi includ market consult arm interview percent hampshir pollster call staff irrelev pollster ask import staff choos quantrel field school pool pollster ad issu field decid interview ask plenti work pollster interview respond ask peopl pollster method phone poll call random phone number region cover poll respond differ method time phone number regist list pollster number advantag call peopl vote race phone number person right geograph area regist voter interest talk stranger case dispatch return mail poll vote number voter sampl pollster compani sell list regist voter includ inform vote use pollster model everyon idea restrict poll voter qualiti list consist state barbara carvalho marist colleg voter pollster question nearli occasion poll sometim survey poll cost survey percent answer percent proport pollster cost individu interview languag pollster ask hispan respond differ respond place valu governmentprovid health care school job wage mark field research corpor howev view hotbutton issu samesex marriag abort agre differ interpret answer pollster complet interview result question determin likelihood respond vote pollster registeredvot list voter factor vote vote histori vote interest elect polit gener pollster keep ask question decid someon vote count vote count voter peopl vote simpl experi likelyvot screen contain question question pollster relationship number question vote estim use question offer respond rang option absolut vote absolut vote anoth voter assign vote number demograph factor gender origin pollster tricki call inform exampl percent voter race hispan percent respond hispan count hispan respond answer limit heavili limit percent averag percent sever phone call boost number group weight factor weight risk addit survey error introduc weight mean import percent muhlenberg borick declin rate margin error figur quantiti base pure sampl size poll sometim call margin sampl error twothird pollster caveat john anzalon anzalon liszt research camp yesandno answer panel discuss marist carvalho report margin error insight valu research weight registeredvot list techniqu onlin panel autom telephon poll cost manag pollster cost poll typic senat race year compar answer mani spend client number charg nearli everyon cost cite interview cellphon cellphon competit industri impend elect respond stress length survey help pollster question stay busi email confirm seriou respond week busi count phone bank grumpi compel pollster person ask someth ask survey seat pollster control senat septemb pollster seat time average5 democrat control seat outcom model percent simul pollster poll race pay pollster explain senat predict reason whatev')
+
+('VBD', 'made election1 took made said took came said said said andrew said said said bought said mandarin arab said said found said weight likelihood weight said said likelihood weight weight weight said said said grove said qualiti said kept said said made said republicanheld senat said')
+
+('JJ', 'carl updat polit know sometim last detail third tuesday nut convert candid much blew median long2 full includ tap thank promis outsourc onlin know turnov mani pollster live outsourc pollster percent mostli equal employe percent white american organ employ white smith white mani minor demograph difficult minor graduat small peopl wellknown dial randomli dial voter cite elig local wherea live columbu effici build registeredvot languag english everyon spanish french tagalog german korean much languag wide median languag doubl spanish popular second american spanish english educ recent minimum dicamillo mani social marijuana legal other consist histori predict inquir unlik likelihood complex mani simpl screen final singl certain certain base ethnic other half anyon give other pollster larg obvious opt increas weight familiar relev consid probabl twohour skeptic come much sophist expens charg spend dial automat complex sure ask fuck godaw follow last mani republican averag republican predict republican common occur seat close attent')
+
+('NNS', 'bialik data data data releas poll women women divers univers anonym divers probabl chines vietnames respons respons data repres respons respons respons underrepres increas respons credibl expens expens increas data respons')
+
+('VBN', 'made everi taken')
+
+('VB', 'answer take ask earn decid find random interpret make reserv ask answer')
+
+('VBZ', 'conduct employ ask')
+
+('JJR', 'answer larger greater higher less less less less')
+
+('JJS', 'least least suggest latest')
+

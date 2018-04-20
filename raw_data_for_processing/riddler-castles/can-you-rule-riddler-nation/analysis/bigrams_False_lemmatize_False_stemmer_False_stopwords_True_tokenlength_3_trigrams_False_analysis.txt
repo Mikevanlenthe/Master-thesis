@@ -1,0 +1,48 @@
+Article: riddler-castles/can-you-rule-riddler-nation
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 849
+Raw number of types: 342
+Raw Type token ratio: 0.4028268551236749
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 349
+Number of types: 233
+Type token ratio: 0.667621776504298
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'feb, rule, riddler, nation, riddler, get, github, github, illustration, guillaume, riddler, week, math, probability, express, something, riddler, movement, submit, either1, week, column, hint, riddler, express, participatory, gametheory, problem, submit, number, submission, number, mean, number, riddler, joel, baker, riddler, nation, battle, royale, land, value, conqueror, victory, way, fight, number, distribution, war, submit, plan, battle, oneonone, battle, royale, riddler, nation, submit, plan, solution, week, riddler, express, carrier, berkeley, california, winner, week, game, tetris, board, block, illustration, number, number, twobysix, forth, space, tetris, fibonacci, discussion, pattern, math, check, document, samuel, wirajaya, math, solution, week, riddler, lewisburg, pennsylvania, winner, week, puzzle, beginning, time, microorganism, day, member, probability, multiplication, chance, probability, call, probability, probability, microorganism, probability, equation, q2\\end, equation, probability, probability, extinction, chart, laurent, lessard, probability, extinction, microorganism, luck, guy, submit, email, oliverroeder, fivethirtyeightcom')
+
+('VBD', 'edited, submitted, suggested, split, crowned, placed, noticed, twobyeight, squared, got, welldefined')
+
+('JJR', 'roeder')
+
+('VBN', 'filed, bitesized, given, chosen, given')
+
+('NNS', 'data, data, datariddlercastles, problems, things, types, numbers, numbers, wins, castles, warlords, points, soldiers, castles, soldiers, conquers, wins, points, troops, points, forces, battles, points, soldiers, castles, plans, matchups, wars, congratulations, pieces, arrangements, pieces, squares, squares, arrangements, solvers, ways, pieces, numbers, tetris, congratulations, species, splits, copies, chances, species, multiplies, children, solutions, probabilities')
+
+('JJ', 'kurkdjian, welcome, related, dear, logic, classic, slowpuzzle, next, twitter, classic, whole, take, average, classic, special, distant, wartorn, archenemy, castle, strategic, distribute, castle, victory, possible, queen, last, last, puzzle, lucky, clear, many, tetris, solid, high, wide, intrepid, pattern, twobyfour, empty, equal, fantastic, tetris, former, cool, last, classic, szatmary, last, classic, single, extinct, extinct, sure, extinct, extinct, original, conditional, \\begin, former, know, different, single, good, little, riddle')
+
+('VBP', 'offer, hold, riddler, want, need, find, submit, enemy, castle, send, enemy, begin, receive, adjudicate, stephen, form, vivek, fill, addict, alex, extinct, want')
+
+('VB', 'get, try, know, twobytwo, get')
+
+('VBG', 'asking, distributing, king, knowing, fighting, solving, multiplying')
+
+('VBZ', 'submits, castles, sends, wins, wins, wins, wins, dies, species, goes, species, goes, dies')
+
+('JJS', 'closest')
+

@@ -1,0 +1,46 @@
+Article: bachelorette/rachel-lindsays-bachelorette-season-in-three-charts
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 542
+Raw number of types: 267
+Raw Type token ratio: 0.492619926199262
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 246
+Number of types: 185
+Type token ratio: 0.7520325203252033
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'rachel, charts, data, github, data, men, suitors, vineyards, years, men, weeks, men, men, shudders, rachel, men, impressions, others, rachel, suitors, dates, dates, suitors, men, destinations, dates, contributions')
+
+('VBP', 'lindsay, github, lindsay, rioja, end, matt, worst, peter, europe, wild, walt')
+
+('NN', 'bachelorette, season, ella, koeze, gus, wezerek, databachelorette, threehour, conclusion, season, bachelorette, rachel, love, choice, peter, home, abasolo, proposal, doll, love, end, eric, end, bryan, season, get, appreciation, everything, rachel, endure, whaboom, ticklemonster, jack, stone, dream, lock, door, rachel, rachel, time, date, season, picking, week, example, rachel, oneonone, group, peter, chart, rachel, attention, number, strategy, find, husband, everyone, bachelorette, bracket, pool, dean, bryan, drama, rachel, globe, journey, find, love, travel, season, rachel, slice, hometown, rachel, bachelor, nation, love, story, bachelor, update, aug, article, season, reporting, hickey')
+
+('VBG', 'messing, accepting, lastmanstanding, looking, looking, trying, roaming, watching, viking, fighting, choosing, going')
+
+('VBD', 'filed, sent, stepped, passed, happened, eliminated, eliminated, lay, focused, gave, went, spent, concentrated, made, updated')
+
+('VB', 'get, come, remember, remember, dates, worth, get, move')
+
+('VBN', 'published, bed, persevered, made, given, gone')
+
+('JJ', 'oof, finale, live, typical, eric, bryan, hopeful, limo, peter, fresh, strong, first, much, final, selective, available, adam, dean, bryan, oneonones, limited, predictable, fivethirtyeight, final, metaphorical, actual, international, western, boring, see, substantial, good, usa, diverse, final, ride, ready, new, next, finale, additional')
+
+('JJS', 'quest')
+
+('VBZ', 'amongst, seems, roses, shows')
+

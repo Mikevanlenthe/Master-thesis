@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1000
+Raw number of types: 386
+Raw Type token ratio: 0.386
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 413
+Number of types: 236
+Type token ratio: 0.5714285714285714
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'goe meaningless game walt hickey file fight walt github github york jet fan cheer half game patriot rutherford jersey bill shop friend drink fight walt column devot question matter life cultur hash barroom rant research argument conclus question conundrum corner author typic haunt fight york giant besid makeshift shrine odel beckham soak schadenfreud eagl fan week season interest mani team playoff pack stadium despit temperatur promis mediocr prompt argument question goe meaningless game season reason game ticket stubhub ticket market averag ticket price division game year home game ticket price team year division game game home team playoff content division match averag price game price averag discount ticket compar rest season price jet host patriot week game york season recur fight muse jet kevin hava kevinhava pictwittercomrk4dhi2su walter hickey walthickey decemb mark fugger season ticket holder year day fugger season look metlif stadium jet faith fan thing christma shop result year partier game event allday peopl park ask game place jet fan strictli parti group patriot fan jet steeler spectacl canada patriot fan profession move york work see team see stadium patriot game deal ticket christma kid game time game spit mcgarr season ticket holder team base travel jet home game play visit team particularli pittsburgh steeler town locat ticket jet home game season percentag ticket buyer york jersey home turf gang standin definit mani bronco steeler fan region dip game host denver pittsburgh england mcgarr yorknew jersey share home game jet host york buffalo bill ticket game matter diehard fugger fan budget fan metlif festiv case game massiv fan massachusett tank')
+
+('NNS', 'data data truli data peopl data data data')
+
+('JJ', 'datanflticketpric second east argument solv argument logic statist submit pick philadelphia last coupl regular super frigid footbal secondari total averag motiv uncov nomin lifelong sinc namath mani casual sunday footbal wrong full come frenchcanadian mani local much gillett rare good present last mani nearbi fan mostli bronco stubhub green perfect live increas fifth western vast major local come hometown patriot full')
+
+('VBP', 'england dumb erect appear attend averag explain parti come clearli want plate')
+
+('VB', 'kostroun develop take take play play ask')
+
+('NNP', 'karaok onlin')
+
+('JJS', 'best')
+
+('VBN', 'done come patriot')
+
+('VBZ', 'expens elimin expens larg')
+
+('VBD', 'found elimin sent elimin went said said spoke brought said spoke said said came said came said bought sold said sold')
+
+('JJR', 'cheaper higher cheaper younger')
+
+('VBG', 'conting conting')
+

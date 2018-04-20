@@ -1,0 +1,27 @@
+Token analysis before pre-processing 
+Raw number of tokens: 542
+Raw number of types: 267
+Raw Type token ratio: 0.492619926199262
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('NNS', 'rachel##data##data##others##rachel')
+('VBP', 'lindsay##lindsay##peter')
+('NN', 'bachelorette##season##chart##ella##koeze##wezerek##github##github##databachelorette##conclusion##season##bachelorette##rachel##love##choice##suitor##peter##home##abasolo##proposal##vineyard##rioja##spain##year##doll##love##week##peter##bryan##season##appreciation##everything##rachel##endure##whaboom##ticklemonster##jack##stone##dream##lock##door##rachel##shudder##rachel##rachel##impression##waste##time##date##season##suitor##picking##date##week##example##rachel##oneonone##date##matt##adam##group##date##peter##chart##show##rachel##attention##number##suitor##strategy##find##husband##everyone##bachelorette##bracket##pool##dean##bryan##drama##rachel##globe##journey##find##love##travel##season##destination##europe##slice##choosing##hometown##date##ride##rachel##bachelor##nation##move##story##bachelor##update##article##season##reporting##contribution##walt##hickey')
+('VBG', 'messing##accepting##lastmanstanding##looking##looking##trying##roaming##watching##viking##fighting##going')
+('VBN', 'filed##published##eliminated##persevered##made##given##gone')
+('JJ', 'finale##threehour##live##typical##eric##bryan##hopeful##limo##eric##fresh##strong##first##much##final##selective##available##dean##bryan##oneonones##limited##predictable##fivethirtyeight##final##metaphorical##actual##international##boring##rachel##substantial##good##diverse##final##wild##ready##next##finale##additional')
+('JJS', 'quest##worst')
+('VB', 'come##remember##remember##worth')
+('VBD', 'sent##stepped##passed##happened##eliminated##focused##rose##gave##went##spent##concentrated##made##updated')
+('VBZ', 'amongst##seems')
+
+Token analysis after pre-processing 
+Number of tokens: 220
+Number of types: 167
+Type token ratio: 0.759090909090909
+

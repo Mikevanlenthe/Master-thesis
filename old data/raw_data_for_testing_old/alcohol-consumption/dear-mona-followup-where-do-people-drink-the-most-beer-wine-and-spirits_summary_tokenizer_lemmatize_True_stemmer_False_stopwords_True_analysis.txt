@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1344
+Raw number of types: 306
+Raw Type token ratio: 0.22767857142857142
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token token ratio true true verb adjective dear followup nepalese nepal many islamic likely international interested much national statistic comprehensible last liter average content average many full french germany normal hard worth average grenada average vodka mexican american green available popular national overall early american previous national alcoholic popular perishable technological american different international table stereotype friday average alcohol beverage standard drinking average choose tequila vodka martin caribbean gallon martin martin conformed looked know shot assume token')
+
+('NN', 'analysis number number type type filter lemmatizer stemmer article token niranjan type present spirit drunk table bottom consume wine fluid spirit russia favorite phenomenon storm wwii vodka simple study liquor favorite spirit drank spirit wine muslim github drink show glass america alcohol beer wine spirit mona chalabi github github dataalcoholconsumption farmer wheat beer work rice field chunnikhel june shrestha question reader alcohol trend percentage lifetime abstainer country world world health organization country assumption mine trend alcohol consumption health organization glass consumption country consumption beverage wine beer spirit break consumption government record alcohol industry nation food agriculture organization database liter pure alcohol comparison time pure alcohol alcohol size beverage number size result glass wine beer person country country term result article country person year glass figure abstainer consideration wine consumption population france world country beer person ounce measure shotglass person measure year country measure ritchie quartz euromonitor detail spirit country sale number spirit brand smirnoff vodka popularity moscow mule cock bull ginger beer explanation taste spirit availability state university professor scott drug alcohol grain food distillation wwii scotch scarce push hurricane spirit idea popularity institute alcohol alcoholism show prohibition alcohol consumption person year gallon year taste wine consumption year century beer firm briefly beer beverage fluctuation factor availability price government regulation technology example beer century innovation refrigeration beer transport home purchasing choice country beer country country population alcohol consumption question send dearmona fivethirtyeightcom datalab538 caput caput marketing look drink sell analysis number number type type ratio')
+
+('VBG', 'preprocessing using using using drinking knocking bottling looking using serving serving drinking beerdrinking including king working according capitalizing changing according bowling going peaking rising changing serving preprocessing')
+
+('VBD', 'token separated answered russia used responded united took said rose fell said became followed created token')
+
+('NNS', 'stopwords false people data data people people data data data conforms people data orleans people data data data consumed drink demonstrates')
+
+('VBN', 'used filed compared used taken compared opposed imported consumed wanted consumed ordered converted purchased made needed caught explained consumed recorded')
+
+('VBP', 'know email data data drink want drink drink abstain make drink colleague find take produce token')
+
+('VB', 'take drink remember')
+
+('VBZ', 'describes liquor')
+
+('JJS', 'least biggest highest least')
+
+('JJR', 'higher easier')
+
+Token analysis after pre-processing 
+Number of tokens: 446
+Number of types: 267
+Type token ratio: 0.5986547085201793
+

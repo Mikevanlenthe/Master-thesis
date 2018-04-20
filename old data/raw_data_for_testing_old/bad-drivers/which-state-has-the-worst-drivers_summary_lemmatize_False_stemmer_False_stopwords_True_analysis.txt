@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1636
+Raw number of types: 412
+Raw Type token ratio: 0.25183374083129584
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags drivers chalabi drivers carolina collisions crashes cases cellphones crashes collisions data providers indicators companies idahoans drivers prices drivers companies drivers collisions crashes ones numbers images people others types data drivers crashes companies companies drivers drivers crashes states crashes drivers drivers conditions miles characteristics drivers drivers miles miles data drivers crashes drivers collisions miles drivers accidents distractions drivers drivers drivers accidents drivers accidents drivers drivers crashes drivers drivers varies drivers crashes fatalities fatalities fatalities fatalities numbers prices accidents figures commissioners drivers drivers drivers drivers motorists terms losses providers collisions companies losses drivers drivers drivers idahoans insurers collisions jerseyans insurers providers carolinians prices drivers losses numbers drivers collisions ones states fatalities')
+
+('VBP', 'dear mona hope detail jersey multitude assessment premiums premiums roads data sums comparisons mona want know need think think help factor make')
+
+('JJ', 'mona getty first north dakota average behavior accident dakota plenty bear percent total percent behavior average future average comprehensive average half average utah lisa worst heard involved uninsured vary base naic come north sound affect come asheville north tricky much good united personal national fatal fatal total fatal fatal national interested fatal fatal nationwide thoughtday north fatal impressive fatal previous high previous fatal available irresponsible good fatal overall likely national expensive good american irresponsible naic fatal insured licensed insured good expensive easy fatal national insured nhtsa ohio traveled recorded combined')
+
+('NN', 'state scene chainreaction pileup accident pennsylvania feasterville pennsylvania william thomas cain mona state region ability state question number state driver insurance insurance country state bottom texas contrast indiana board motor vehicle property injury fatality highway traffic safety administration texas state state state state state state number course state figure example driver time road time mind percent percent caution none time mind state york example percent database crash figure state percent figure percent perspective driver time traffic percent driver percent traffic driver pennsylvania share behavior indicator driver percent traffic driver montana percent traffic year driver figure news insurance state insurance association insurance jersey insurance country logic insurance country insurance research council percent fraction vehicle question insurance state insurance figure number insurance state number number percentage america state louisiana sorry number insurance collision question negligent information insurance percent help bemoan charge need deserve cost hope indicate determine reflect cost understand dearmona fivethirtyeightcom historic iowa damage washington worth fatal drunken thirtyone highrisk premium average clearcut collision speeding')
+
+('NNP', 'vermont')
+
+('VBG', 'driving bearing drinking dreaming speeding speeding speeding driving neighboring driving using according eating including according according insuring driving looking using costing costing')
+
+('VBD', 'focus distracted lived traveled licensed distracted alcoholimpaired insured registered resulted accounted occurred occurred occurred')
+
+('VBZ', 'produces shows makes measures percentages datalab538')
+
+('JJS', 'worst highest latest latest latest highest best')
+
+('VBN', 'filed involved traveled involved involved involved distracted involved recorded distracted known recorded distracted involved recorded compared treated involved recorded distracted based given involved involved found incurred paid distributed divided estimated compared speedingrelated answered involved')
+
+('VB', 'dear send')
+
+('JJR', 'fairer answer worse fewer worse higher less')
+
+Token analysis after pre-processing 
+Number of tokens: 504
+Number of types: 251
+Type token ratio: 0.498015873015873
+

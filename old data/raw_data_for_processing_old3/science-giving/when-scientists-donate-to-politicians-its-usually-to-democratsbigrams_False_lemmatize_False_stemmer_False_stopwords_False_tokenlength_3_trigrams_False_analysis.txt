@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1698
+Raw number of types: 578
+Raw Type token ratio: 0.3404004711425206
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1217
+Number of types: 529
+Type token ratio: 0.43467543138866066
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'apr wieder campaign finance github github rep bill democrat physicist bill clark roll call rep bill run congress money illinois accelerator laboratory fact candidate congress foster time analysis election commission pocket truth foster science mall washington world importance science field society march wake communication president trump administration government budget funding moment engagement community length begin data percent party analysis occupation science science foundation purpose analysis analysis leadership jointfundraising party donation inflation github decade community support science background house support community science engineering analysis california democrat jerry mcnerney engineer doctorate amount involvement holt eightterm member congress president association advancement science organization world holt public square scope expertise ability work pure community obama list money clinton bid year romney year community sen cruz campaign president sen russ support feingold decade cruz scott brown bid hampshire senate doctors2 bureau labor percent cycle period engagement community percent election cycle lot member degree field house house senator research service foster congress expertise guidance deal example kind knowledge component naughton pennsylvania democrat drug researcher plunge house nonprofit action goal persuade office support community naughton group strategist joe trippi board session thursday washington office group session group naughton fund support party change difference naughton side line research center survey association science community skew rest population analysis center difference percent community preference percent percent party percent decade money slant pew survey survey community activity march science issue something lot foster march nonpartisan event march trump administration antiscience aisle time caroline health researcher march event washington thing credit administration')
+
+('NNS', 'scientists politicians data data politicians friends friends scientists elections years scientists engineers data plans thousands scientists supporters streets communities policies restrictions scientists cuts scientists don politics years shows scientists engineers candidates parties candidates committees donations committees parties donors disciplines mathematics scientists donations committees groups amounts dollars data candidates candidates mathematics scientists scientists scientists concerns scientists politics politics holt contenders beneficiaries scientists candidates contests scientists engineers campaigns elections republicans engineers geologists warren democrats scientists engineers candidates warren massachusetts recipients scientists professions donations times scientists engineers doctors lawyers data statistics doctors candidates parties scientists engineers lawyers scientists engineers years scientists members scientists4 members members points politicians deliberations scientists politics decisions scientists politics naughton races scientists petitions letters politics members scientists candidates candidates platforms felt scientists politics scientists democrats members givers differences donors givers politics people politics variations disciplines engineers candidates parties democrats republicans engineers candidates groups democrats scientists candidates groups leanings scientists twothirds adults scientists findings years organizers politicians grievances policies people sides')
+
+('VBP', 'donate democrats get foster foster have deep join assert see fec have candidate have abstain avoid think worry are shouldn tell above have have barack obama mitt texas have have aren are congress have have bring face have take run provide think need look climate identify donate account think have worry worry say have speak emphasize have weinberg')
+
+('JJ', 'ben illinois former decided many former fermi national many give subsequent past selfidentified federal scientific saturday foster national protest american detrimental federal scientific unprecedented political scientific such foster arm past federal democratic political individual selfidentified national social independent political affiliated particular past scientific willingness scientific bachelor degree foster political rush former american professional political overblown dirty science scientific presidential democratic past presidential hillary unsuccessful last last scientific generous texas feingold senate past new top republican active other political selfidentified many recent political entire 10year scientific political last presidential incumbent democratic other past only doctoral scientific other engineers5 congressional scientific technical fellow iran nuclear significant technological shaughnessy former political financial scientific involved electoral veteran democratic prospective democratic separate stark pick many pew american advancement half describe liberal liberal political scientific democratic political top political responsive republican overall scientific responsible overall scientific democratic republican total past democratic political american don ideological consistent same scientific political saturday partisan shouldn invite particular long recent new much')
+
+('VBN', 'filed continued raised imposed been described given considered identified excluded candidateaffiliated adjusted shown least been favored received raised received lost been increased worked worked started called explained chosen been enacted')
+
+('VBG', 'datasciencegiving aspiring according going according funding thinking taking taking going taking according giving running giving according growing understanding signing training considering according giving giving giving according acting giving')
+
+('VBD', 'did asked were gave took joked organized proposed donated fell were excluded were received raised said said said topped received gave ted did served gave gave gave gave was skewed won said provided specialized said lost said held attended said said had found tended were showed gave accounted went were increased said said')
+
+('VBZ', 'democrat has has aren has goes thinks does includes comes wants has counts says supports hopes republicans goes')
+
+('JJR', 'more more more more more more more more more less more higher more more more more smaller less more')
+
+('VB', 'take keep engineering1 find affect perform kid donate trump wisconsinite lawyers3 find foster use see get run establish percent politicize make organizer')
+
+('JJS', 'secondlargest largest biggest')
+

@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1007
+Raw number of types: 411
+Raw Type token ratio: 0.40814299900695133
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 737
+Number of types: 581
+Type token ratio: 0.7883310719131614
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'world favorite donald trump election photo robyn beckafpgetty campaign trump world feature campaign kennedy donald trump twitter account trump twitter effect capsule campaign nomination trump majority methodology footnotes2 analysis someone tweet platform policy nomination policy share topic policy trump twitter tweet count category source twitter policy quarter trump retweets3 trump offering tweet cincodemayo trump tower grill pictwittercomk01mc6cudi donald trump realdonaldtrump tweet coverage4 clinton hypocrite control service protection twitter story attack twitter feuds course campaign trump pique trump rubio antijohn kasich waste money donald discussion response cycle trump clinton president clinton source twitter exclamation point percent clinton bernie trump order magnitude trump exclamation dhrumil mehta david nield donald,trump filed,under under,election original,photo photo,robyn robyn,beckafpgetty presidential,campaign donald,trump defining,feature campaign,truman truman,whistlestop whistlestop,kennedy donald,trump trump,twitter twitter,account because,trump trump,twitter twitter,great great,effect capsule,campaign wrapped,nomination categorized,recent through,trump which,people suffered,majority tweeting,about about,methodology methodology,footnotes2 footnotes2,analysis retweeted,someone someone,tweet divining,platform republican,nomination tweeted,about about,policy policy,share share,trump trump,topic excluding,clinton clinton,trump count,category category,source source,twitter quarter,trump trump,retweets3 about,trump mostretweeted,tweet hispanics,tweet tweet,cinco happy,cincodemayo cincodemayo,bowls bowls,trump trump,tower tower,grill tcoufoteqd8ya,pictwittercomk01mc6cudi pictwittercomk01mc6cudi,donald donald,trump trump,realdonaldtrump realdonaldtrump,tweet heavy,coverage4 america,great great,again hillary,clinton clinton,hypocrite favoring,control control,while secret,service service,protection about,either trump,twitter making,story story,about about,attack media,analyze analyze,twitter twitter,feuds scattershot,course course,campaign campaign,trump looking,pique pique,before primary,trump marco,rubio kasich,irrelevant irrelevant,waste waste,money money,donald donald,trump trump,realdonaldtrump discussion,different response,cycle spontaneous,whatever streak,trump about,other tweets,exclamation trump,clinton running,president trump,clinton source,twitter least,exclamation exclamation,point point,onethird percent,clinton clinton,bernie punchy,punctuation5 punctuation5,trump tweets,exclamation suspect,trump merit,exclamation dared,twitter twitter,dhrumil dhrumil,mehta david,nield')
+
+('NNS', 'tweets images thousands cycles opponents supporters tweets debates primaries tweets people attacks tweets excludes times tweets tweets enmities proposals rivals tweets others candidates polls media candidates women talks tweets retweets tweets followers people tweets tweets expressions media rivals categories policies enemies hispanics cinco hispanics supporters tweets protesters tweets protesters brussels attacks opponents media opponents questions sobriquets attacks opponents bursts others caucuses rivals contests tweets policies tweetstorms others tends candidates tweets points sanders tweets sanders twothirds tweets sanders tweets tweets points candidates opponents thoughts points trump,tweets trump,thousands thousands,tweets consumed,cycles antagonized,opponents riled,supporters because,tweets dominated,debates debates,primaries recent,tweets majority,attacks includes,tweets trump,excludes third,tweets platform,tweets defined,enmities policy,proposals about,rivals topic,tweets retweets,others republican,candidates candidates,polls democratic,candidates attacking,women trump,talks includes,tweets excludes,retweets policy,tweets retweets3,followers people,tweets sharing,tweets sharing,expressions media,rivals tweet,categories about,policies policies,enemies grill,hispanics coverage4,supporters mostretweeted,tweets castigated,protesters mostfavorited,tweets either,protesters protesters,brussels terrorist,attacks twitter,opponents forced,opponents answer,questions jibes,sobriquets attacks,opponents tended,bursts strategic,others before,caucuses important,rivals those,contests however,sprees kasich,tweets different,policies streaky,tweetstorms cycle,others trump,tends other,candidates their,tweets exclamation,points clinton,sanders president,includes includes,tweets clinton,sanders twitter,twothirds trump,tweets bernie,sanders trump,tweets exclamation,points three,candidates defeated,opponents opponents,thoughts exclamation,points')
+
+('VBP', 'libresco trump candidate trump least trump tweet https enthusiasm terrorist trump analyze florida marco trump twitter exclamation trump trump trump punchy exclamation suspect tweets,libresco tweets,world entirely,trump times,trump tweets,candidate enmities,policy proposals,trump others,policy talks,about followers,least rivals,trump categories,about enemies,hispanics hispanics,https supporters,enthusiasm protesters,simply brussels,terrorist attacks,trump bursts,strategic caucuses,florida rivals,those contests,marco sprees,flurry tweets,within policies,twitter tweetstorms,written candidates,about points,tweet sanders,trump tweets,trump sanders,source twothirds,trump sanders,tweets points,order candidates,suspect thoughts,would')
+
+('VBN', 'filed antagonized dominated tweeted mostfavorited mostretweeted called mostfavorited written excited defeated libresco,filed world,consumed decided,dominated trump,retweeted candidate,defined trump,tweeted nearly,tweeted trump,mostfavorited other,mostretweeted simply,declared really,excited')
+
+('JJ', 'original presidential donald unorthodox truman whistlestop great useful categorized recent little third defined republican trump republican democratic clinton interested scorn mostretweeted happy tcoufoteqd8ya heavy other great hillary secret jibes scattershot strategic primary important flurry kasich negative irrelevant realdonaldtrump november different streaky spontaneous streak other trump excited onethird punctuation5 other twitter world,favorite favorite,donald election,original since,presidential started,donald feature,unorthodox unorthodox,campaign tweets,useful useful,capsule downloaded,categorized about,which tweet,which which,little little,third rivals,republican policy,republican attacking,media media,democratic twitter,includes retweets,tweet tweet,count interestingly,policy prompted,quarter least,people expressions,scorn scorn,media mostfavorited,mostretweeted cinco,happy https,tcoufoteqd8ya propelled,heavy called,castigated declared,america called,hillary armed,secret prompted,media about,jibes about,scattershot opponents,tended florida,primary concentrated,important respectively,however flurry,antijohn antijohn,kasich within,negative negative,kasich november,discussion similarly,streaky written,response seemingly,spontaneous tweeting,streak about,their tweet,trump tweets,least onethird,percent tweets,punchy other,three would,merit mehta,david')
+
+('VBD', 'started consumed riled decided wrapped downloaded talked suffered reacted retweeted collected tweeted prompted propelled castigated declared called armed prompted forced tended concentrated dared contributed campaign,started cycles,antagonized opponents,riled campaign,decided primaries,wrapped nomination,downloaded trump,talked people,suffered twitter,reacted tweets,collected tweets,prompted tweets,interested tweet,propelled tweets,called again,called enjoying,armed protection,mostfavorited attack,prompted feuds,forced trump,concentrated tends,excited trump,defeated points,dared nield,contributed')
+
+('VBZ', 'tweets includes retweets includes excludes bowls seems sprees includes beckafpgetty,images analysis,includes tweets,retweets tweets,excludes sobriquets,seems trump,attacks')
+
+('VBG', 'defining tweeting divining attacking attacking excluding sharing sharing favoring enjoying making looking tweeting running reporting supporters,defining reacted,tweeting collected,divining polls,attacking candidates,attacking women,excluding interested,sharing trump,offering offering,sharing hypocrite,favoring while,enjoying opponents,making others,looking whatever,tweeting excited,running contributed,reporting')
+
+('VB', 'answer tweet merit opponents,answer realdonaldtrump,november')
+
+('JJS', 'least')
+
+('NNP', 'kennedy,donald')
+
+('JJR', 'magnitude,other')
+

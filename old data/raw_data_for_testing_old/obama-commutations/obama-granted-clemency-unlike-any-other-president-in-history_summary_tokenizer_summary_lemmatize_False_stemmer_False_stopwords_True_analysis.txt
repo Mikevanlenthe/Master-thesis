@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 526
+Raw number of types: 253
+Raw Type token ratio: 0.48098859315589354
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags data dataobamacommutations prisoners sentences offenses sentences prisoners people predecessors people sentences people inmates commutations pardons dozens pardons commutations inmates pardons people years rights felons commutations people presidents commutations pardons sentences members states letters groups commutations prisoners optics hundreds prisoners commutations inmates criteria sentences sentences petitions commutations petitions records commutations prisoners commutations laws groups liberties laws dealers crimes distributors applicants presidents commutations people offenses pardons data prepares')
+
+('JJ', 'tags tuesday serve initiative thursday harsh oval harry mandatory tuesday faln tuesday activist truman criminal drugrelated typical federal sensitive total white federal single free original recent united last faln general significant criminal certain consistent fiscal many american civil serious recent many previous concerned argue formal uncertain bombs minimum preceded commuted')
+
+('NN', 'clemency president history justice github github endofpresidency clemency president clemency president announcement approach clemency clemency prison release week office obama clemency chelsea intelligence analyst information commutation obama number president history house obama week month clemency record record tuesday gesture restoration prison sentence release bill group independence puerto responsibility protest order police enforcement donald trump risk year office obama sentence oscar lpez rivera member part push justice reform justice department clemency drug number year number analysis justice department percent drug percent conspiracy union drug office friday commutation response history trump time correction version article clemency president analysis mass ford jimmy carter obama lowlevel gerald create face charlie obama thursday truman1 obama army thursday obama august thursday forgiveness administration future guide fraternal presidentelect rarer rico clinton obama meet grant shorter')
+
+('VBD', 'december wanted broke commuted gave announced rose said differed appeared announced received tripled')
+
+('VB', 'release')
+
+('NNP', 'obama')
+
+('VBG', 'manning granting manning manning manning rethinking serving commuting freeing pardoning including disclosing according voting freeing freeing including according waiting')
+
+('VBN', 'suggested issued granted claimed ended granted made issued commuted allowed filed aimed granted given convicted granted granted convicted slated convicted convicted charged charged granted')
+
+('VBP', 'tend include wikileaks reoffend leave')
+
+('VBZ', 'follows remains')
+
+('JJR', 'riskier')
+
+Token analysis after pre-processing 
+Number of tokens: 316
+Number of types: 201
+Type token ratio: 0.6360759493670886
+

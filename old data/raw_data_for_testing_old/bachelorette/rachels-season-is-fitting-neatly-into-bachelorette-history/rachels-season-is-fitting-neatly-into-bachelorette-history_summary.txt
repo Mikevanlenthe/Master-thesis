@@ -1,0 +1,14 @@
+POS tags:
+('NN', 'rachel’s,,season,,history,,walt,,hickey,,ella,,koeze,,tv,,data,,github,,github,,data/bachelorette,,facebooktwitteremail,,we’re,,home,,stretch,,season,,bachelorette,�,,time,,“bachelor�,,lindsay,,attorney,,texas,,field,,challenge,,contestants?,,rachel’s,,season,,dates,,,elimination,,demario,,(who,,girl,,television),,rose-ceremony,,eliminations.1,,predecessors.,,season,,power,,first-impression,,rose,,,contestant,,move,,day,,recipient,,,bryan,,,dates.,,love,,sight,,peter,,,dean,,one-on-one,,date,,bit,,but,,,anything,,,season,,proof,,two-on-one,,one,,years.,,half,,date,,weeks.,,date,,,percent,,cases,,,contestant,,competition.,,kenny,,head,,serpentine,,lee,,date,,proper,,,rachel,,guy,,week.,,history,,we’re,,we’ve,,season,,time,,contender,,bachelor,,bachelorette,,point,,value,,value,,small-group,,dates,,,dates,,,dates.,,four,,,here’s,,one-on-one,,two-on-one,,date,,,three-on-one,,one-third,,date,,peter,,dean,,neck,,neck,,time,,spent,,rachel,,,bryan,,break,,one-on-one,,week,,six),,three.,,adam,,matt,,,everyone,,time,,rachel,,week,,,thing,,chart,,reality,,rachel,,best-case,,scenario,,,total,,man,,finale.,,love!,,thing.')
+('VBZ', 'is,,means,,has,,has,,seems,,reinforces,,makes,,is,,is,,who’s,,has,,—,,comes,,has,,has,,date,,,is,,is,,has,,gets,,it’s')
+('VBG', 'fitting,,going,,breaking,,going,,remaining,,considering,,assigning,,going,,counting,,coming,,(getting,,getting')
+('JJ', '‘bachelorette’,,perfect,,it’s,,rigorous,,pre-season,,previous,,unscheduled,,nice,,aggregate,,historical,,final,,hometown,,first,,real,,,well,,,early,,rachel.,,more.,,further,,doomed.,,two-on-one,,next,,two-on-one,,lee,,kenny,,following,,now:,,next?,,much,,exclusive,,speaking,,,one-on-one,,large-group,,final,,on.,,they’ve,,eric’s,,late,,top,,poor,,first,,last,,shocking,,harsh,,point,,,crazy')
+('VBN', 'filed,,published,,narrowed,,seen,,eliminated,,broken,,given,,gone,,won,,gone,,eliminated.,,bounced,,eliminated,,proceeded,,,had,,based,,rejected,,chance.,,been,,gone,,engaged')
+('VBP', 'get,,it’s,,analysis.,,have,,tend,,go,,are,,are,,are,,spell,,that’s,,are.,,are,,are,,are,,stand,,,are,,she’s')
+('NNS', 'data,,gentlemen,,men,,men,,dates,,folks.,,historically,,,people,,dates,,dates,,survivors,,weeks,,participants,,two-on-ones,,enough.,,dates,,dates,,men,,terms,,numbers,,dates,,men,,families,,dates')
+('NNP', '“the,,“bachelorette�')
+('VB', 'check,,rachel,,handle,,have,,favor,,be,,bryan,,mean,,doom,,,head,,,go,,hometowns!,,say,,spend,,dates,,,move,,meet.,,have')
+('VBD', 'held,,did,,rose,,learned,,had,,wrote:,,won,,went,,were,,was,,decided,,looked,,was,,met,,were,,had')
+('JJS', 'strongest')
+('JJR', 'more,,higher,,better,,better,,better,,more')
+

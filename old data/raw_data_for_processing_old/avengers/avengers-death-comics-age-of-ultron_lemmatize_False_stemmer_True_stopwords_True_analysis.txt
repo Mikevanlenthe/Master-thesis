@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1071
+Raw number of types: 431
+Raw Type token ratio: 0.4024276377217554
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 417
+Number of types: 280
+Type token ratio: 0.6714628297362111
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'join aveng jump fourstori build walt hickey file movi github github dataaveng spoiler articl conceiv research anyon involv aveng intent spoiler question aveng ultron theater point marvel1 cinemat number aveng film plan year exce number film actor contract probabl aveng thing book fan year death fleet sign health insur friend handl prematur shuffl coil issu death talk books3 consid impli kill friend sincer believ case iron death chill reader someon year writer decid charact skrull shapeshift life model robot charact hulk charact tube die aveng pocket adventur counterearth someon merg killer robot self destroy process thing comb faith marvel wikia aveng measur rate charact join team howev list aveng analysi time join percent peopl percent chanc membership card aveng roughli jump aveng screen iron hulk captain thor hawkey widow scarlet witch quicksilv vision singl die time fact hawkey die rate remark toptier aveng death hero roster aveng life insur divin death unlucki meat ezpass occas individu comeback mayb secretli scarlet witch side life chao reaper perhap colleagu deal time travel death mani time chanc member aveng return afterlif percent chanc death8 earth616 marvel base janet dyne destroy time time year rate fan member month death occur month mind rate month marvel throe destroy merg annihil watch coupl movi aveng omin name captain aveng bite rememb scarlet witch magic tempestu weird thing truli marvel studio charact portray')
+
+('JJ', 'deadli ultron ask coupl dead fear comic fantast realitywarp mortal defin normal dri comic charact dead directli alli dead everyon dead actual alien decoy die follow dead secretli stasi onslaught follow dead conscious die comic weird updat current former mortal briefly4 team5 team nobodi safe black cours aveng comic recoveri first count total basic loaf actual richard good aveng grim tempt stint recov second third jocasta android ultron aveng overal mortal comic current former everi perman next sever comic speak casualti ultron civil pull shit aveng right')
+
+('NNS', 'data data univers pretti pretti criteria adventur dimens stori microvers univers univers univers')
+
+('VBP', 'note start learn fake friend know appear think die seemingli analyz fourstori avengers7 stay drag know aveng expect everi know accompani america')
+
+('VB', 'get alreadi go kill kill happen get build recov keep kill perform')
+
+('VBD', 'left team2 sent sent found sign made made')
+
+('VBZ', 'presum kick alternatedimens')
+
+('VBN', 'shown hidden built given')
+
+('JJS', 'closest least least')
+
+('JJR', 'somewher older')
+
+('VBG', 'king')
+

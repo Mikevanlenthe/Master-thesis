@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 560
+Raw number of types: 247
+Raw Type token ratio: 0.44107142857142856
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 625
+Number of types: 503
+Type token ratio: 0.8048
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'apr hickey regionalism get github github dataregionsurvey skyline dusk marc perrella tuesday audience poll answer run subsequent poll determine lot debate question think survey lot southerner audience sample half census bureau florida georgia virginia virginia delaware mississippi oklahoma texas percent state vote alabama percent louisiana south carolina tennessee carolina mess texas percent support virginia arkansas kentucky percent state percent vote mexico walter marylander maryland rest tradition skepticism government south designation addition maryland oklahoma virginia support fact census government feedback tuesday passionate anyone kid the,south south,walt walt,hickey under,regionalism data,github github,github github,data data,dataregionsurvey atlanta,skyline skyline,dusk dusk,marc marc,perrella perrella,tuesday published,the surveymonkey,audience audience,poll poll,about people,think midwest,the the,answer that,nobody arguing,also run,subsequent subsequent,poll poll,determine determine,which the,south despite,lot lot,debate debate,about that,question question,well conclusive,although the,south the,survey some,southerner southerner,and the,south this,sample surveymonkey,audience individuals,about about,half national,sample sample,and about,half half,from the,census census,bureau bureau,florida florida,georgia georgia,maryland maryland,north carolina,south south,carolina carolina,virginia west,virginia virginia,delaware delaware,alabama kentucky,mississippi mississippi,tennessee tennessee,arkansas arkansas,louisiana louisiana,oklahoma and,texas the,percent identifying,each each,state southern,again more,certain their,own the,top top,few percent,the the,vote georgia,and and,alabama southern,and than,percent mississippi,and the,south south,south carolina,tennessee tennessee,florida carolina,all above,percent content,mess mess,with with,texas percent,support support,virginia virginia,arkansas arkansas,and and,kentucky hovered,about about,percent percent,also maryland,well well,and southern,state pathetic,percent percent,the the,vote worse,than than,arizona mexico,walter walter,white white,more than,marylander marylander,allow allow,welcome the,north north,maryland wellappointed,interstate interstate,rest consistent,with with,tradition tradition,skepticism federal,government government,the the,south south,further the,census census,designation the,south south,addition addition,maryland maryland,oklahoma oklahoma,and west,virginia virginia,both pulled,less less,than than,percent percent,support the,fact the,census big,government judging,some some,the the,feedback tuesday,blog blog,post people,don but,they passionate,about about,also going,with with,missouri the,south south,and geographic,equivalent equivalent,the the,last last,kid during,dodgeball')
+
+('NNS', 'states data data results people midwesterners states results starts miles southerners respondents states individuals states carolina respondents takeaways southerners states states respondents southerners southerners stops people which,states the,data the,results selfavowed,midwesterners these,results south,starts few,miles selfidentified,southerners 1135,respondents which,states from,states percent,respondents several,takeaways the,southerners midwest,states percent,respondents percent,southerners actual,southerners maryland,always further,disagrees census,says these,places midwest,appears')
+
+('JJ', 'south walt surveymonkey compose nobody surveymonkey south wrong south sample surveymonkey half national south north south carolina kentucky arkansas louisiana southern several first certain top percent percent georgia southern mississippi south florida north percent content southern actual pathetic arizona new white southern welcome north wellappointed interstate consistent federal census south percent south big post midwest geographic equivalent last dodgeball are,the get,the the,atlanta results,surveymonkey about,which states,people compose,the seems,know even,selfavowed asked,surveymonkey surveymonkey,run are,the south,despite well,these more,conclusive according,selfidentified wrong,the isolated,1135 identified,lot lot,some asked,them them,which are,the get,this sample,surveymonkey half,from from,national regionally,south according,the alabama,kentucky are,the state,southern there,are are,several first,the certain,which are,their while,the pulled,percent nearly,percent identified,georgia alabama,southern more,than placed,mississippi louisiana,the and,north garnered,above remarkably,content giving,percent truly,not not,southern according,actual pulled,pathetic new,mexico more,southern southern,than stops,consistent skepticism,the the,federal with,the what,the despite,the the,south that,big learned,judging feedback,tuesday post,people where,these anyone,know from,the the,geographic')
+
+('VBD', 'filed isolated asked polled pulled placed garnered hovered pulled loved pulled learned know picked hickey,filed tuesday,published think,compose also,asked survey,isolated who,identified and,asked audience,polled states,considered barely,pulled respondents,identified percent,placed south,carolina all,garnered kentucky,hovered southerners,pulled always,loved both,pulled support,despite mostly,excluded kid,picked')
+
+('VBP', 'atlanta think know south conclusive get maryland tennessee seem know states,are midwesterners,keep states,are although,think starts,few southerners,very respondents,who states,are oklahoma,and takeaways,first states,are florida,and southerners,seem also,maryland arizona,and welcome,you disagrees,with says,they they,the south,take what,have don,know places,are appears,the')
+
+('VBN', 'published selfavowed asked selfidentified identified considered identified excluded your,wellappointed have,learned')
+
+('VBZ', 'states seems alabama disagrees says blog places appears dataregionsurvey,the which,states nobody,seems which,states which,states and,louisiana rest,stops that,the also,does')
+
+('JJS', 'midwest west midwest west the,midwest virginia,west few,midwest and,west and,midwest')
+
+('VB', 'keep take regionalism,get know,not south,get here,are certainly,passionate')
+
+('VBG', 'arguing according according identifying giving according judging going keep,arguing baltimore,according south,according respondents,identifying texas,giving state,according what,going picked,during')
+
+('JJR', 'worse filed,under that,worse you,the')
+

@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 2043
+Raw number of types: 548
+Raw Type token ratio: 0.26823299069995105
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag andre andre offer judge treat pas receiver attempt hall fame receiver problem paine canton github github class football hall ceremony stadium canton jason miller class football hall ceremony stadium canton jason miller getty football hall fame thomas canton contributor bill game honor hall fault canton judge sport player countless receiver performance career example time time dawn explosion influence evidence regard effect team efficiency hall selection committee position committee carter hall number selection carter logjam time game contact output consequence example ratio league passing game season campaign dozen time yardage receiver talent team degree receiver team ball league norm effect point factor percent league course career season matter someone johnson ball percent league percent game adjustment difference receiver issue number schedule team lockstep frequency team league average johnson production percent singleseason record year detroit record pas season reason quarterback chase percent increase team frequency percent increase output increase increase passing volume player half increase production difficulty effect something position game time basketball carmelo anthony influence receiver attention benefit team football value dvoa team success player quarterback receiver performance basis baseball football baseball phenomenon opportunity receiver influence defense phenomenon evidence quality threat catch rate picture value account game play matter quality receiver team year step direction question receiver yardage question team passingefficiency season season instance moss sway wowy7 smith career committee reed play indictment reed player hall fame discussion resume hand standard postseason percent career yardage hall famer gannon jeff hostetler jeff george schroeder vince quarterback challenge history task hall solution hall receiver logjam influence player hall fame fame fame reed fame downfield greatness chase player team peropportunity fluid ingame pertarget player wowy pertinent lifetime reed pertinent player player downfield crack help induct ignore reevaluate boil forget analyze dream answer tag track score rank rank merit game come image image bill career receiver weakness teammate coach consideration number bias yard reception year election receiver induction receiver receiver product rule number year stats opportunity number bill team yard lion data attempt difference environment volume yard attempt receiver matter receiver player teammate touch player possession outsider tradition event opportunity player opportunity target receiver number receiver measure way quarterback player yard raider statistic receiver player number quarterback pass number era candidate way question qualification another3 show reed smith hall career buffalo strength play team play efficient5 lead speech august saturday dilemma washington stuart receiver production4 team dvoa receiver offense wowy fame enshrinement enshrinement onfield leaguewide reed singleseason yardagelike alltime simple player onfield efficient length deign select devalued reed wowy reed broke tend exert careers6 make teammate teammate')
+
+('VBD', 'reed onfield found signified tapped appeared inducted chucked called ranked scaled checked qualified qualified advanced agreed generated spiked became looked became took came')
+
+('JJ', 'speech candidate talent percent pas fawcett fawcett thurman individual lynn total extra discrete randy second brown reed lead download sound suspect present statistic statistician contemporary yard metric statistic incentive metric metric metric statistician andre signal saturday getty ensemble beneficiary surging2 equivalent relative brown longtime former wide former wide former wide longtime individual good good several modern wide wide tough glossy third fourth touchdown great offensive mixed actual recent last controversial much wide defensive simple true obvious major detroit average aerial historical huge last august metric true single relative simple apparent individual real ambiguous real personal obvious difficult true average metric specific curious unsuccessful positive strong offensive full successful much conventional rudimentary historical collective individual entire usual good statistical legendary true individual impressive serious clear impressive superior rich different wide inventive fundamental actual last skilled targeted noisy sixth threw correct appreciate prove entangled included reed calvin advanced advanced advanced involved retired tried stopped distinguish boast come')
+
+('VBP', 'bruce bowl theorem oakland wowy make ignore github throw era team coach quarterback question introduce involve era solve reed perfect miss know reed give')
+
+('VBN', 'reed played defenseadjusted ignored reed taken compared considered perceived given given targeted intended rooted identified rooted given associated tied adjusted associated supposed figured opened passed downgraded cited played talented filed contaminated reacted')
+
+('VBG', 'passing passblocking eyepopping passing passing passing receiving passing passing passing receiving receiving receiving receiving joining receiving ignoring disregarding going enacting using adjusting adjusting judging developing breaking receiving pinning receiving complicating competing trying passing measuring getting demonstrating stretching opening looking taking shaping adjusting quantifying computing passing using looking receiving throwing using aging interpreting receiving daunting seeking answering')
+
+('NNS', 'bayes data data footballperspectivecom generates datanflwidereceivers passcatchers stats passcatchers stats sabermetrics data data analytics stats stats data cris funnel becomes swann')
+
+('VB', 'eliminate make command catch teammate become keep take take give go')
+
+('VBZ', 'adjusts berth evans appears seems requires')
+
+('NNP', 'yard')
+
+('JJS', 'greatest')
+
+('JJR', 'easier bigger')
+
+Token analysis after pre-processing 
+Number of tokens: 777
+Number of types: 441
+Type token ratio: 0.5675675675675675
+

@@ -1,0 +1,45 @@
+Article: police-locals
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1096
+Raw number of types: 369
+Raw Type token ratio: 0.33667883211678834
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 536
+Number of types: 251
+Type token ratio: 0.46828358208955223
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'aug, city, silver, get, github, github, officer, charge, group, demonstrator, arrest, tuesday, ferguson, joe, raedle, image, ferguson, missouri, protest, continue, officer, month, population, percent, police, force, disparity, type, misrepresentation, gap, officer, city, limit, ferguson, something, city, city, police, force, majority, police, officer, commute, work, town, diversity, police, force, officer, city, police, york, example, percent, police, force, borough, figure, divide, york, officer, city, percent, percent, officer, employment, opportunity, commission, census, bureau, detail, composition, government, worker, city, washington, post, analysis, city, police, force, census, detail, officer, city, city, police, force, percent, police, officer, city, limit, figure, honolulu, residency, share, city, city, officer, city, philadelphia, percent, percent, los, district, percent, officer, miami, city, limit, difference, reflect, combination, factor, city, composition, residency, requirement, police, geography, average, city, percent, police, officer, percent, officer, city, limit, percent, officer, disparity, city, population, example, percent, officer, city, percent, memphis, tennessee, alabama, jackson, mississippi, majority, gap, officer, city, residency, requirement, example, los, city, philadelphia, officer, city, furthermore, regulation, boston, residency, police, example, census, bureau, half, boston, officer, city, geography, role, jacksonville, percent, police, officer, city, limit, city, share, area, population, contrast, city, population, percent, police, force, town, city, louis, residency, requirement, clause, police, move, city, year, force, police, officer, provision, percent, percent, data, ferguson, population, reporting, effort, spotcheck, census, community, police, residency, requirement, debate, requirement, town, ferguson, event, debate, year, detail, city, mean, officer, category, note, reader, census, bureau, number, differ, count, reason, census, category, police, officer, transit, police, city, police, department, census, category, security, officer, census, police, force, size, error, census, number, estimate, count, correction, version, article, officer, city, limit')
+
+('NNS', 'police, data, data, datapolicelocals, police, twothirds, police, twothirds, resides, data, data, data, police, data, varies, police, angeles, police, police, police, angeles, police, whereas, data, police, data, others, data, police')
+
+('JJ', 'live, nate, ferguson, police, getty, teenager, civilian, black, racial, suggestive, ferguson, racial, many, live, outside, common, major, american, statistic, black, hispanic, likely, reside, white, new, high, racial, percent, black, new, police, hispanic, true, white, equal, racial, large, american, racial, demographic, many, average, outside, available, percent, boundary, washington, major, racial, black, hispanic, white, black, detroit, black, police, white, birmingham, black, large, racial, require, boundary, degree, requirement, live, outside, florida, boundary, high, metro, small, metro, atlanta, ferguson, white, advantage, live, louis, whereas, black, available, small, detailed, eeoc, many, strict, active, relax, impose, regard, searchable, table, asterisk, github, sheriff, private, complete, previous, philadelphia, live')
+
+('VBP', 'serve, make, stark, live, come, live, serve, exclude, chicago, live, percent, live, live, live, live, live, require, live, live, atlanta, take, come, include')
+
+('VBN', 'filed, given, tied, alerted, detailed, used, compared, detailed, required, estimated, required')
+
+('VBD', 'missouri, set, enforced, flouted, play, allowed, discovered, included, found, aug, said')
+
+('VBG', 'following, shooting, troubling, varying, living, sprawling, living, arguing, using, going')
+
+('JJS', 'largest, largest, starkest')
+
+('VBZ', 'includes, suggests, includes')
+
+('VB', 'reside, vary, reflect, shape, jurisdiction, changed, margin')
+
+('JJR', 'outlier, fewer')
+

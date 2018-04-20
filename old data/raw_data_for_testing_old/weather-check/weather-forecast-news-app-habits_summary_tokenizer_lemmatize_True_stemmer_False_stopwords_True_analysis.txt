@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 990
+Raw number of types: 208
+Raw Type token ratio: 0.2101010101010101
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token token ratio true true verb adjective separated respondent respondent checked checked liked large financial many true wrong surveymonkey simple main local specific overall consistent interesting daily likely specific website likely general young daily daily local stupid predictable daily local young local local sure financial generational local specific website particular interesting come token token')
+
+('NN', 'analysis number number type type filter lemmatizer stemmer article check weather weather percent walt hickey github github storm cloud cover sydney march cassie trotter image check street piece difficulty channel verizon station customer source apps information station customer apps bother weather default phone everyone regard audience survey question check weather report method percentage phone default weather news website weather channel internet search newspaper radio weather newsletter weather channel penetration respondent check weather report couple difference checker weather checker versus percent weather channel percent percent internet search percent versus checker weather channel group person game probability basis percent year percent respondent radio newspaper england home harsh weather percent spectrum percent respondent region smug jerk california washington winter temperate climate report newspaper television news percent weather phone default weather percentage point difference point channel news network weather phone television news news percent crowd percentage point difference weather channel difficulty carriage network problem news weather survey thing look category volunteer anything weather weather dataweathercheck look check getty wall journal online weather forecast half percent respondent percent percent weather bracket respondent pacific percent weather github respondent checker analysis number number type type ratio')
+
+('VBG', 'preprocessing using using using flocking checking growing depending weatherchecking shocking snapchatting interesting finding sucking getting according preprocessing')
+
+('VBD', 'token inspired dropped asked said said climbed felt asked token')
+
+('NNS', 'stopwords false people fios people people people people nondailies nondailies people people eastcoasters people people people data data data april')
+
+('VBN', 'used token filed faced wondered assumed asked looked performed checked checked compared aged taken')
+
+('VBP', 'data data find seem crowd need')
+
+('JJR', 'older weather older older')
+
+('VB', 'know check channel')
+
+('VBZ', 'super')
+
+('JJS', 'least')
+
+Token analysis after pre-processing 
+Number of tokens: 331
+Number of types: 171
+Type token ratio: 0.5166163141993958
+

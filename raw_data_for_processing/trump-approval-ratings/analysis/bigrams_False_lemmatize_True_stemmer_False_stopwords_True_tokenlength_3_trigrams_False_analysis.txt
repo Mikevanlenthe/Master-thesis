@@ -1,0 +1,47 @@
+Article: trump-approval-ratings
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 702
+Raw number of types: 330
+Raw Type token ratio: 0.4700854700854701
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 316
+Number of types: 229
+Type token ratio: 0.7246835443037974
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'nov, last, getty, give, tale, foreign, refugee, american, nfl, secret, canadian, sure, float, third, turkey, cheap, spirit, holiday, bargainbin, surveymonday, cursory, main, dish, white, past, dish, regional, consumed, side, dish, definitive, cranberry, respondent, pick, middle, atlantic, cauliflower, texas, central, southern, necessary, rest, respondent, percent, cheese, respondent, dish, percent, overall, new, squash, table, whole, whole, dessert, pumpkin, pie, new, pecan, america, pie, dessert, american, shit, little, solid, black, friday, great, little, early, early, high, percent, facebook, old, associate, know, bar')
+
+('NN', 'part, america, walt, hickey, food, get, github, github, datathanksgiving2015, turkey, bird, farm, sonoma, california, year, justin, sullivan, image, shore, day, mass, medium, consumption, game, day, midst, plan, point, santa, claus, end, macy, day, week, christmas, music, radio, right, food, thing, bring, nation, faction, bird, audience, poll, tradition, respondent, chicken, pork, roast, beef, turkey, rule, percent, respondent, meat, centerpiece, meal, poultry, check, side, distinction, region, southeast, home, sauce, region, percent, homemade, variety, state, side, percent, region, percent, state, country, percent, region, dinner, nation, southeast, form, mac, percent, region, menu, country, england, mind, percent, percent, nation, pursuit, gronk, endorse, squash, something, region, pie, apple, england, america, pie, sweet, potato, pie, midwest, west, nation, tradition, variation, region, percent, respondent, sale, day, way, family, way, ditch, party, leave, dinner, hang, school, friend, respondent, time, kid, card, download')
+
+('VBZ', 'eats, kim, enjoys, unites')
+
+('VBG', 'thanksgiving, thanksgiving, welcoming, finding, thanksgiving, thanksgiving, thanksgiving, thanksgiving, saying, going, thanksgiving, losing, demanding, confusing, finding, buying, thanksgiving, checking')
+
+('VBN', 'filed, hit, come, compared, compared, done')
+
+('NNS', 'data, data, thanks, others, commemorates, eats, shoutouts, see, prefers, america, consumes, data')
+
+('VBP', 'celebrate, start, cornbread, carbs, include, america, cherry, leave, see')
+
+('VBD', 'parade, got, canned, assorted, said, said')
+
+('VB', 'identify, parade, let, peel, carve, get, shop, worth, see')
+
+('JJS', 'least')
+
+('JJR', 'deeper')
+
+('NNP', 'middle, atlantic')
+

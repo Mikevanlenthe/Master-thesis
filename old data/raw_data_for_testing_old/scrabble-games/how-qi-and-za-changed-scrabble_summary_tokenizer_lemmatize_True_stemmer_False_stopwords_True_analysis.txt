@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1113
+Raw number of types: 288
+Raw Type token ratio: 0.2587601078167116
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token token ratio true true verb adjective skyrocketed higherskilled spoke expanded scrabble grand dear quantitative scrabble scrabble full scrabble economic great technological effective dramatic technological scrabble dictionary scrabble scrabble dictionary full scrabble actual technological early nowindispensable scrabble dictionary valid scrabble north american additional scrabble scrabble dictionary overnight technical lexical exploit average scrabble rich scrabble scrabble complex uncover distributional scrabble weak scrabble piketty french skeptical scrabble interesting light vowel inequality average counterpart metagame average thomas know token token')
+
+('NN', 'analysis number number type type filter lemmatizer stemmer article token adapt tournament past percent exploit empty tile interaction digital second instantly1 tournament mediocre dictionary adapt clinchy benefit light fivethirtyeight roeder game github plan problem income inequality game plan question explain core concept please party favor halfcentury detail sort folk theory percent change technology emerge worker notion work gulf change weekend hotel ballroom office fastfood restaurant country player seat board place game economy economy word book technology decade revolution game training tool player learn word strategy version zyzzyva wordstudy tool quackle analysis engine partner change year march edition official tournament club word list effect edition word play word twoletter word building block juicy highpoint tile game game year crosstablescom online clearinghouse tournament result scene average score point player game score effect revolution player word score weekend income inequality increase expert reason time development everyone game change player oregon player change weaker number effect word economy evidence fact player skill level word list board shine question macroeconomy economist author capital century example technology explanation income inequality mind count game book page belief work paper anything dissertation dhrumil mehta research github github turn scratch analysis number number type type ratio')
+
+('VBG', 'preprocessing using using using holding widening higherearning governing allowing sparring scraping covering increasing pointscoring trying inequalityexacerbating scoring showing using preprocessing')
+
+('VBD', 'token separated documented lettered went took grew told seemed went contributed unanswered read bestlaid tournament filed token')
+
+('NNS', 'stopwords false economics data data datascrabblegames data data data involves data data data play improves evans')
+
+('VBN', 'used changed shed allowed happened christened created betterequipped mentioned suspected keyhole planned planned publicized released posted')
+
+('VBP', 'become think reader thousand leave find take')
+
+('VB', 'rack update')
+
+('VBZ', 'widens')
+
+('JJS', 'biggest')
+
+('JJR', 'richer stronger larger')
+
+Token analysis after pre-processing 
+Number of tokens: 369
+Number of types: 248
+Type token ratio: 0.6720867208672087
+

@@ -1,0 +1,48 @@
+Article: elo-blatter
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1683
+Raw number of types: 549
+Raw Type token ratio: 0.32620320855614976
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1157
+Number of types: 480
+Type token ratio: 0.41486603284356094
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, blatter, reign, fifa, hasn, silver, world, soccer, github, github, soccer, team, cup, tenure, fifa, president, sepp, blatter, bradley, kanaris, getty, soccer, team, cup, january, sepp, blatter, bradley, kanarisgetty, defend, sepp, president, resignation, week, wake, soccer, corruption, investigation, department, justice, milanović, economist, city, university, york, graduate, center, corruption, decentralization, power, blatter, spread, game, rest, world, soccer, structure, corruption, country, vote, principle, policy, allocating, development, money, china, blatter, loyalty, majority, minority, world, population, soccer, audience, soccer, revenue, stream, problem, soccer, development, blatter, evidence, soccer, field, success, pitch, play, africa, progress, asia, evidence, soccer, anything, disparity, blatter, president, rest, analysis, elo, rating, country, team, day, blatter, president, world, cup, background, elo, team, data, article, github, look, performance, region, fifa3, confederation, order, population, confederation, average4, europe, uefa, south, conmebol, soccer, germany, turkey, continent, whole, change, blatter, elo, rating, population, rating, blatter, elo, rating, conmebol, colombia, venezuela, uruguay, elo, rating, conmebol, country, vote, percent, percent, world, cup, audience, rest, world, thing, success, story, confederation, concacaf, elo, rating, development, represent, population, confederation, news, soccer, help, blatter, argument, wealth, concacaf, capita, gdp, confederation, contrast, africa, caf, improvement, world, cup, world, cup, knockout, stage, africa, rating, afc, elo, rating, blatter, expansion, world, cup, number, continent, world, cup, time, japan, performance, decline, field, team, elo, rating, world, china, team, world, cup, history, team, rival, germany, qualifying, world, cup, description, pakistan, oceania, confederation, zealand, performance, confederation, ofc, afc, asia, sanity, check, world, cup, record, teams, rest, world, caf, europe, south, world, cups, blatter, rest, world, europe, south, match8, world, cups, blatter, predecessor, joão, havelange, progress, havelange, match, rest, world, world, cup, performance, blatter, world, cups, performance, relative, chart, capita, gdp9, elo, gdp, capita, percentile, change, pop, pattern, anything, percent, percent, number, highpopulation, percentile, income, indonesia, soccer, question, lowpopulation, ground, highpopulation, outcome, blatter, fifa, population, country, evidence, population, elo, rating, development, difference, corruption, organization, lot, money, soccer, development, expense')
+
+('VBD', 'helped, stagnated, announced, wrote, contributed, became, was, took, weighted, weighted, took, was, populationweighted, helped, held, was, seemed, took, doubled, was, defected, counted, listed, had, was, increased, improved, weighted, gained, had')
+
+('VB', 'soccer, seem, regrettable, brunei, get, command, simple, find, mexico, good, spread, soccerwise, vietnam, tracks, improve, expect, further, fifa')
+
+('JJ', 'poor, nate, chinese, national, january, asian, chinese, national, asian, hard, fifa, last, global, few, branko, developmental, new, fifa, traditional, european, south, american, much, brazil, fifa, level, international, european, south, american, dominant, little, competitive, relative, national, june, fifa, few, average, first, continental, elo, america, dominant, individual, national, italy, little, overall, uefa, average, identical, south, america, brazil, chile, interesting, fifa, north, american, average, mexican, national, united, concacaf, other, average, north, american, little, africa, much, ghana, african, overall, asian, continental, average, asian, first, korea, asian, afc, national, mostpopulous, major, global, united, hasn, close, many, other, poor, populous, asian, such, indonesia, new, other, average, afc, ofc, final, upward, next, average, elo, much, top, elo, average, bottom, particular, capita, international, last, relative, clear, desirable, developmental, regard, few, average, unchanged, small, enrich, local')
+
+('VBN', 'filed, shown, shown, stagnated, tried, least, related, earmarked, become, measured, made, regressed, become, grown, divided, listed, improved, seen, seen, improved, changed, improved, given, represented, improved, continued, improved, shown, combined, combined, host, seen, stagnated, qualified, regressed, improved, declined, contested, poorer, based, changed, gained, seen, populationweighted, seen, failed, given, allocated, given, earmarked, used')
+
+('VBP', 'get, dataeloblatter, australia, brave, have, fifa, are, fifa, represent, are, have, compare, see, are, remain, europe, have, have, decline, russia, argentina, have, have, doesn, have, have, have, come, have, america7, america, have, have, have, have, improve, have, decline, rank, india, have, play10, have, are, make, soccer')
+
+('NNS', 'data, data, games, games, images, souls, powers, funds, countries, comoros, members, funds, countries, countries, ones, men, days, ratings, ratings, countries, confederations, ratings, countries, continents, countries, teams, others, countries, points, members, points, teams, states, threequarters, members, fans, confederations, countries, wins, draws, entrants, years, teams, teams, participants, nations, members, countries, men, women, states, years, countries, members, australia, matches, men, wins, draws, losses, points, points, nations, ones, countries, quintiles, ratings, countries, ones, countries, ratings, points, points, countries, china, nigeria, programs, results, countries, ones, funds, dollars, people, countries, people, funds, plutocrats, countries, programs')
+
+('VBZ', 'images, has, has, has, has, has, has, now2, represents, has, has, has, reflects, has, losses6, includes, has, has, holds, has, concacaf, divides, quintiles, has')
+
+('VBG', 'governing, having, playing, using, according, descending, representing, advancing, having, accumulating, judging, being')
+
+('JJR', 'more, poorer, wealthier, more, higher, more, more, better, worse, lower, poorer, worse, wealthier, wealthier, poorer, less')
+
+('JJS', 'least, largest, closest, highest, poorest, best, richest, poorest, least')
+

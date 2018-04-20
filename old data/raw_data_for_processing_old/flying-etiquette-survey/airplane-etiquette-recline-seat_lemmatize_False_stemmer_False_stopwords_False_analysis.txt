@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 863
+Raw number of types: 332
+Raw Type token ratio: 0.3847045191193511
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 441
+Number of types: 234
+Type token ratio: 0.5306122448979592
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'percent seat walt hickey etiquette github github dataflyingetiquettesurvey june vincenzo pinto getty couple surprise undertaking room cranky anything contract source strife audience poll question percent percent recline time percent percent half time impasse seat flight percent option recline percent passenger obligation person passenger seat intent neighbor bathroom someone slumber switch buddy flight percent percent baby plane control person seat person window percent person percent rest percent child fortytwo percent person seat percent everyone status percent take landing violation direction flight question opportunity break github')
+
+('NNS', 'fliers data data passengers images weeks confrontations travelers seats people skies people people passengers respondents seats respondents respondents respondents respondents people seats people passengers people behaviors flights actions respondents legs seats people folks children passengers babies people responses questions kids children parents children people kids passengers children times people kids rests answers questions rests controls questions fliers seats rests respondents fascists sadists people seats rests socialists responses respondents respondents electronics attendants people bathrooms respondents responses data')
+
+('VBP', 'think plane have recipe disagree consider cool flown flights determine rude rude need rude plane consider window shade america think aisle percent think')
+
+('JJ', 'rude past spate much stressful pressurized full social nebulous potential rude rude surveymonkey first tackle percent half half half percent rude common rude rude percent wake super impolite relative many unruly charitable percent unruly rude likely rude middle obvious correct middle middle percent window other such window shade full personal ageold')
+
+('VB', 'recline come become find recline recline recline recline eliminate recline rest leave rude stretch have shared control have find')
+
+('VBN', 'filed seen involved thought thought considered considered compared screwed seated shade')
+
+('VBG', 'reclining flying quibbling flying reclining aggravating waking trying disturbing moving bringing whopping bringing bringing settling')
+
+('VBZ', 'shouldn asks gets puts gets')
+
+('VBD', 'cramped considered asked split said said said asked were interpreted surprised thought were depended thought were asked said said responded wrote acknowledged thought used smoke admitted smoked')
+
+('JJS', 'most most largest youngest')
+
+('JJR', 'flier younger')
+

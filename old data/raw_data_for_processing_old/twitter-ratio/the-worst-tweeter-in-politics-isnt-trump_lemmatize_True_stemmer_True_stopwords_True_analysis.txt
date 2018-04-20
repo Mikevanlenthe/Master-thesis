@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1528
+Raw number of types: 581
+Raw Type token ratio: 0.38023560209424084
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 658
+Number of types: 388
+Type token ratio: 0.5896656534954408
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tweeter trump oliv roeder dhrumil mehta wezerek file trump administr github github datatwitterratio publish thing tweet world retweet food pellet digit pay attent sometim food pellet pebbl repli stack retweet problem tweet tweet post surer someon royal mess luke esquir phenomenon ratio david deadspin compar ratio stat line tweet retweet exampl adam dunn tweet bat home run huffington post ashley feinberg bluntli time capac twitter becom podium presid retweet character power figur unit state compar peopl react tweet power colleagu friendli senat illustr action tweet use ternari plot plot use measur exampl mixtur clay sand soil proport gold silver copper alloy jewelri medium presenc power peopl unit state tweet share bottom right share bottom danger zone share trump tweet sinc summer shape bomber sit corner zoom express retweet requir le tweet spark feinberg ratio flop fact tweet trump account magnet tweet plu retweet repli tweet share pair shot rate show brzezinski repli plan repeal obamacar senat tweet post monday trump address johnson widow armi sargeant david johnson kill month proport repli night year join bleed badli facelift trump realdonaldtrump june trump tweet share retweet ratio concern polici retweet repli trip middl state fund leader point qatar look trump realdonaldtrump june tweet share presidenti sixfigur repli mitt romney call congratul donald trump realdonaldtrump novemb trump tweet percent repli retweet trump tweet barackobama tweet look compar ratio tweeter obama twitter shift stretch gener retweet quadrant accord metaanalysi research paper twitter retweet level origin obama stat line retweet repli trump tweet tweet balanc trump stat line everi repli trump everi trump visibl user microblog nation tweeterinchief everi tweet map tweet chart above4 tweet form mass corner retweet repli senat pattern trend texa kamala harri democrat california exampl distribut tweet repli massachusett democrat retweet sector tweet distribut lindsey graham exampl nearli blob focus replyretweet bill distribut triangl necessarili favor action tweet senat repli corner pennsylvania mitch cori gardner colorado toomey mcconnel tie race home dubiou percent action comparison percent reaction trump tweet retweet winner mike jame member part trend twitter graviti gener corner democrat cluster axi everyon twitter tweet ratio lefti twitter concept chri cillizza cillizzacnn septemb anoth twitter user point deni ratio ratio angri takeaway tweet')
+
+('JJ', 'polit send repli littl someon outpac neil recent write basebal repli fav fuck public trump1 repli tweet public govern rival social ratio last silhouett right common easi public repli trump firestorm sure accord metric close trump repli second mika direct unusu high donald good foreign write recent east radic ideolog donald former republican candid nice presid follow times3 current former first direct indic andor obama retweet current servic senat senat type shapeless certain individu broad other buck cruz republican averag warren heavier other demonstr south carolina republican invert axi fellow republican louisiana nearli uniform specif averag toomey republican republican republican first repli replies5 repli utah republican oklahoma republican inhof pull republican repli firmli retweetlik gaug free')
+
+('NNS', 'data data nice univers univers convers respons respons data tweet msnbc convers goodwil endors afoul engag wors retweet tentacl heavi wors respons mcconnel respons concept')
+
+('VB', 'happen give repli get get take prize')
+
+('VBP', 'proof spark rbi blend blend measur call tweet repli take poorli fail myeshia insist oeuvr tend messag averag ratio averag obama repli appear reach echo reach ratio ratio look tweet appear buy ratio feel make')
+
+('VBG', 'fling')
+
+('JJR', 'lengthier higher higher higher lower outlier outlier larger')
+
+('VBD', 'wrote averag left thought came gener said senat')
+
+('VBN', 'known given silt morn taken')
+
+('VBZ', 'facto retweet repli morn resembl elizabeth cassidi cours')
+
+('JJS', 'least highest highest highest furthest')
+
+('NNP', 'kentucki')
+

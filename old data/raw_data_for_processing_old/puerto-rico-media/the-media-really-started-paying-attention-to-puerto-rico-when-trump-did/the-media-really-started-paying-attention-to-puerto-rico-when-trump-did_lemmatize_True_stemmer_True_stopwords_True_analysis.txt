@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 530
+Raw number of types: 237
+Raw Type token ratio: 0.44716981132075473
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 253
+Number of types: 148
+Type token ratio: 0.5849802371541502
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'medium pay attent puerto rico trump dhrumil mehta file puerto rico github github week puerto rico receiv le medium coverag maria locat power gotten week thing changed1 maria puerto rico wednesday monday day start sustain attent medium presid twitter account level got2 talk puerto rico howev coverag devast effort recov medium effort cover controversi statement presid trump trump repeatedli referenc puerto debt engag mayor juan worker effort blast coverag fake twitter week averag quarter news headlin mention puerto rico mention trump percent texa headlin mention trump aftermath harvey percent headlin florida mention trump week irma presid trump visit island week half mention territori mention trump proport visit texa florida coverag posit presid statement behavior feder poll show administr handl puerto rico crisi presid approv rate tick struck though event network cover news presid favor coverag mention puerto time msnbc did3 puerto rico recoveri continu merit medium attent month news coverag presid trump devot peopl puerto rico')
+
+('JJ', 'realli start publish immedi hurrican recent hurrican hurrican landfal follow full realli burst coverag hurrican start hurrican much puerto rico feud puerto rican unfavor follow hurrican onlin immedi hurrican hurrican last headlin critic critic recent disapprov sinc hurrican equal give organ decis much dedic much')
+
+('NNS', 'data data data sourc data respons')
+
+('VBD', 'fivethirtyeight went made morn went made said highlight mani')
+
+('VBN', 'found')
+
+('VBP', 'island rico suggest slow stori tend')
+
+('VB', 'reach help recoveri influenc rico keep make')
+
+('JJR', 'higher fewer')
+
+('VBZ', 'peopl')
+

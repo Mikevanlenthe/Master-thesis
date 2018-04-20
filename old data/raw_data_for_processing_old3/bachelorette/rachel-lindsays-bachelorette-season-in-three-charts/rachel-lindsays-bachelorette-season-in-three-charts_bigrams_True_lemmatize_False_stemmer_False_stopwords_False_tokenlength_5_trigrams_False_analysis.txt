@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 542
+Raw number of types: 267
+Raw Type token ratio: 0.492619926199262
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 361
+Number of types: 319
+Type token ratio: 0.8836565096952909
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'rachel charts suitors vineyards years weeks shudders impressions others suitors dates shows suitors destinations dates contributions three,charts between,suitors windswept,vineyards spain,seems rachel,shudders first,impressions waste,others season,suitors group,dates already,oneonones number,suitors international,destinations hometown,dates reporting,contributions')
+
+('VBP', 'lindsay lindsay peter rioja rachel worst bryan europe rachel hickey rachel,lindsay rachel,lindsay suitors,peter vineyards,rioja shudders,despite dates,instead suitors,worst peter,their destinations,western dates,rachel contributions,hickey')
+
+('NN', 'bachelorette season koeze wezerek github github databachelorette threehour conclusion season bachelorette rachel choice abasolo proposal spain season appreciation everything rachel endure whaboom ticklemonster weren stone dream rachel rachel rachel waste rachel season picking example rachel oneonone group peter chart attention number strategy husband everyone bachelorette bracket drama rachel globe journey travel season slice hometown bachelor nation story bachelor article season reporting bachelorette,season messing,around around,koeze koeze,wezerek github,github github,databachelorette threehour,conclusion conclusion,season season,bachelorette bachelorette,rachel typical,choice choice,between bryan,abasolo abasolo,proposal proposal,amongst rioja,spain looking,weeks passed,peter peter,bryan those,other fresh,appreciation rachel,endure endure,remember remember,whaboom whaboom,ticklemonster ticklemonster,weren remember,stone stone,dream dream,rachel despite,rachel persevered,rachel impressions,waste during,season selective,picking picking,would example,rachel rachel,could available,oneonone bryan,peter shows,rachel concentrated,attention trying,husband predictable,almost almost,everyone fivethirtyeight,bachelorette bachelorette,bracket bryan,peter final,throughout throughout,drama drama,rachel roaming,globe metaphorical,journey journey,would would,worth actual,travel travel,season western,europe substantial,slice final,hometown bachelor,nation ready,story going,bachelor bachelor,update update,article additional,reporting')
+
+('VBG', 'messing accepting lastmanstanding looking looking trying roaming watching viking fighting choosing going charts,messing before,accepting accepting,lastmanstanding stepped,looking other,looking appreciation,everything rachel,during strategy,trying rachel,roaming worth,watching pretty,boring there,viking viking,fighting slice,choosing story,going')
+
+('VBN', 'filed published passed eliminated persevered given concentrated updated rachel,persevered rachel,focused rachel,concentrated')
+
+('JJ', 'finale typical early bryan hopeful bryan other fresh strong first final selective available spent bryan predictable fivethirtyeight final metaphorical actual international western boring rachel substantial diverse final ready update finale additional lindsay,bachelorette season,three under,github published,finale finale,threehour quest,typical lastmanstanding,bryan years,hopeful happened,those eliminated,season season,fresh everything,rachel immediately,remember strong,first roses,rachel suitors,final similarly,selective dates,example given,three three,available dates,group instead,spent spent,bryan peter,already limited,number worst,strategy husband,predictable bracket,bryan their,final globe,metaphorical without,actual season,international though,there fighting,rachel rachel,substantial geographically,diverse diverse,final rachel,bachelor nation,ready updated,after after,season season,finale finale,additional')
+
+('JJS', 'quest lindsay,quest')
+
+('VBZ', 'amongst seems roses dates oneonones seems,years others,roses would,dates oneonone,dates chart,shows')
+
+('VBD', 'stepped happened eliminated focused limited wezerek,filed databachelorette,published hopeful,stepped weeks,passed bryan,happened looking,eliminated weren,eliminated attention,limited everyone,fivethirtyeight article,updated')
+
+('VB', 'remember remember dates worth')
+
+('JJR', 'peter filed,under')
+

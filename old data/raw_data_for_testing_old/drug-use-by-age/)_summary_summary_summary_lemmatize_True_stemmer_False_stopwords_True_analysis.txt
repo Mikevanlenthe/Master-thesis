@@ -1,0 +1,31 @@
+Token analysis before pre-processing 
+Raw number of tokens: 45
+Raw number of types: 43
+Raw Type token ratio: 0.9555555555555556
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'drug boomer report percent babi drink alcohol group health rate drug le share github year percentag marijuana compar survey marijuana')
+
+('JJR', 'younger older')
+
+('NNS', 'data')
+
+('VBZ', 'peopl')
+
+('VBP', 'make')
+
+('JJ', 'admiss reveal')
+
+('VBN', 'given')
+
+Token analysis after pre-processing 
+Number of tokens: 30
+Number of types: 28
+Type token ratio: 0.9333333333333333
+

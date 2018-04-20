@@ -1,0 +1,35 @@
+Token analysis before pre-processing 
+Raw number of tokens: 997
+Raw number of types: 305
+Raw Type token ratio: 0.3059177532597793
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags wins riddler dies chosen data castles points castles points points plans matchups arrangements data datariddlercastles problems things numbers numbers castles soldiers soldiers conquers forces points soldiers wars congratulations pieces arrangements pieces squares solvers ways pieces numbers congratulations species splits copies chances species species probabilities types solutions multiplies submits wins wins wins wins wins species dies children')
+
+('VBP', 'offer want need know want take know roeder castle enemy enemy adjudicate solution tetris guillaume slowpuzzle closest')
+
+('NN', 'hold split fight submit form fill submit riddler github github illustration riddler week math probability riddler express something riddler movement answer either1 shoutout week column hint twitter riddler express participatory problem submit number number number riddler joel baker riddler nation battle land value conqueror victory number distribution submit plan battle oneonone battle royale riddler plan riddler express stephen carrier berkeley california winner week game tetris board tetris block illustration number number space fibonacci discussion pattern document solver addict samuel wirajaya math solution riddler winner time microorganism member probability multiplication chance probability probability microorganism probability equation probability probability extinction chart lessard probability extinction microorganism email oliverroeder fivethirtyeightcom dear gametheory submission wartorn archenemy wouldbe nation week intrepid twobyfour twobysix forth cool week lewisburg pennsylvania week extinct submit equation')
+
+('VB', 'like begin find check call')
+
+('JJ', 'castle send receive rule submit distribute clear related welcome logic classic mean royale victory queen puzzle lucky vivek pattern tetris sure probability q2\\\\end riddle kurkdjian next classic whole average classic special distant strategic possible last last many solid high twobytwo empty tetris equal fantastic former last classic alex szatmary last classic single extinct extinct original conditional extinct former laurent different single good little noticed')
+
+('VBN', 'squared edited given given bitesized submitted')
+
+('VBD', 'filed suggested crowned twobyeight luck placed welldefined')
+
+('VBZ', 'troops castles battles squares sends goes goes')
+
+('VBG', 'beginning asking distributing king knowing fighting solving')
+
+Token analysis after pre-processing 
+Number of tokens: 307
+Number of types: 205
+Type token ratio: 0.6677524429967426
+

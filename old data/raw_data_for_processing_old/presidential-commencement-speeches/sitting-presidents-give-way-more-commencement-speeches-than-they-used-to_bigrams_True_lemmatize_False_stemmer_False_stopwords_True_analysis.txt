@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1081
+Raw number of types: 744
+Raw Type token ratio: 0.6882516188714154
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 791
+Number of types: 630
+Type token ratio: 0.7964601769911505
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'sitting giving giving seeking choosing speaking giving is giving while giving  making  seeking in choosing the speaking president giving')
+
+('NNS', 'presidents speeches rutgers data data datapresidentialcommencementspeeches images rutgers speeches presidents speeches presidents speeches records presidents graduations academies times schools times schools times counts colleges universities schools times addresses presidents speeches schools addresses times travels speeches presidents times speeches places states students factors schools speeches schedules speeches chances graduates years graduates data sitting presidents commencement speeches than they at rutgers the data at datapresidentialcommencementspeeches getty images at rutgers commencement speeches for presidents  presidents commencement speeches commencementspeech records  presidents at graduations military academies public schools private schools times  those counts include colleges  universities high schools four times page addresses  presidents commencement speeches commencement addresses three times his travels commencement speeches  presidents chose to more speeches three places 37 states of students  takes of factors choosing schools commencement speeches speaking schedules commencement speeches more chances address graduates the years the data')
+
+('JJ', 'give give commencement getty commencement sunday last june usual fouryear final military public private complete american archive spoken military public private high page lyndon johnson capitol speech howard ninth black commencement historical geographical presidential busy chose short wide commencement biden white obama many last saturday speak sunday eponymous clinton public presidents give more commencement used to to give university on on sunday under higher get the on github facebooktwitteremail president gives the university  s 148th via getty images president giving the of his university  university on on saturday  three per year the usual in 1993 upped the his fouryear fouryear term or two per year s final final year takes him a military another public in 1945  the of complete in the the american s archive spoken at of military other public  those and high  but not the graced four  the includes the the capitol was the the ninth historically black spoke at more commencement at hbcus schools  widely  more than than three in any even his travels can right the the historical imbalance in in geographical of presidential are busy take a in those those three than in combined  seeking to students  account a number of for his  such of the michelle obama said  as a giving commencement up this this year likely have to address in the to come  for for example spoke last last saturday at the scheduled to to 41 the eponymous university of of arkansas of public download the used for for this')
+
+('NN', 'commencement university bialik education github president speech howard university commencement convocation cheriss nurphoto president address presidency university force howard university commencement year pace bill clinton office george bush predecessor pace term office commencement year year circuit academy institution school harry truman office start commencementspeech presidency project school richard nixon jimmy carter chart page president college university jimmy carter cheyney state college league commencement state york imbalance diversity commencement trip washington maryland virginia making reach range number size school location house spokeswoman president commencement year bill clinton example commencement loyola marymount university university school service download story github may 11 at 1249 pm sitting give way to obama obama is is set set to give his his 23rd rutgers university sunday  by carl carl bialik higher education github github github data data at president obama the commencement commencement speech speech at at howard howard university commencement convocation convocation  cheriss may may  president obama obama is the 23rd commencement address address of his presidency presidency this this sunday rutgers university and his his 24th and last last at the air air force force academy academy on on june june 2 he spoke spoke at at howard howard university saturday  three commencement year is is the usual pace pace for presidents since clinton took took office george hw  bush bush  his predecessor predecessor  the pace pace with with 23 speeches in in his term   before before he he took took office office  gave one one or two commencement year  year on on the the circuit him to to a military academy academy  public institution institution and and a a private private school school   since since harry harry truman truman took took office the start start of complete commencementspeech american presidency presidency project project  archive  times  times and and private but not the capitol capitol page page school school  lyndon johnson johnson and and once once each by richard richard nixon nixon and and jimmy jimmy carter the chart chart above capitol page obama  s speech speech at at howard ninth by by a a president president at at a black college college or or university university since when jimmy jimmy carter at cheyney cheyney state state college college  hbcus  than at at ivy ivy league in 17 states and and dc giving commencement any one one state new york york  can  historical imbalance geographical diversity presidential commencement busy  times they a short short trip within washington washington  maryland and and virginia virginia  making more in 37 obama  to reach reach a wide range range of into account a number his commencement such as as the the size the school school  its location location and obama and and joe joe biden biden  a white white house house spokeswoman obama  s run run as a president year  have many many more come  clinton  example  the commencement commencement of of loyola loyola marymount marymount university and is to speak speak sunday graduates at eponymous university arkansas clinton clinton school public service service  this story story on on github github ')
+
+('VBD', 'used academy took upped took gave took graced spoke combined said spoke used  2016 they used bialik filed sunday at office in significantly upped office in schools 54  graced howard was since 1979 carter spoke state  t right so 36 they chose states combined schools for size of spokeswoman said  spoke sunday to  download data used')
+
+('VBP', 'sunday github obama saturday include capitol obama hbcus obama take account address come speeches than data on datapresidentialcommencementspeeches facebooktwitteremail speeches per since bill typically gave speeches per records in presidents have graduations of academies 44 schools 53 counts include colleges  universities and schools  times by carter  addresses  presidents have speeches at addresses no times in diversity of speeches  speeches in places than takes into factors in speeches  of michelle speeches is chances to graduates in years to university and')
+
+('VB', 'carl education get has spoken presidents are to take is up saturday at')
+
+('VBN', 'filed given spoken scheduled bill clinton have spoken have given is scheduled')
+
+('JJR', 'higher filed under')
+
+('VBZ', 'gives takes includes states takes obama gives obama  circuit takes above includes league schools but even  its but he bill clinton school of')
+
+('NNP', ' cheriss  nurphoto  and  his  obama  another  obama  when  than  obama  new  but  maryland  obama  obama  but  bill')
+

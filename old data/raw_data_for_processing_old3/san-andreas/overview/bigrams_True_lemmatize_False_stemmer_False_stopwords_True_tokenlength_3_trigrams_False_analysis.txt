@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 627
+Raw number of types: 277
+Raw Type token ratio: 0.44178628389154706
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 817
+Number of types: 575
+Type token ratio: 0.7037943696450428
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'jun rock walt hickey johnson charbonneau film dwayne johnson earthquake california office weekend beating disaster movie formula world man family idea film time span california situation way supervolcano story end time survey probability earthquake magnitude percent deck jack california earthquake audience poll percent think pacific census region coast deal anxiety percent region percent percent quake lifetime kind disaster thing happen kit evacuation plan survey risk builtin audience thing survey supervolcano treat sense magma yellowstone anything mississippi github jun at600 amthe therock rockisn talone ofpeople peopleare about‘ thebig bigone bywalt walthickey thedata dataon ongithub githubgithub githubdata dataat datasanandreasfacebooktwitteremail facebooktwitteremaildwayne dwaynejohnson premiereof of‘ chinesetheatre theatrein inhollywood hollywood ericcharbonneau charbonneau starringdwayne dwaynejohnson johnsonabout abouta catastrophicearthquake destroyingcalifornia california crushedit itat atthe thebox boxoffice weekend pullingin basicdisaster disastermovie movieformula formula world worldis aman man rebuilt butit salso playingoff offlegitimate thefilm filmis sound geologicaltime timespan california california tectonicsituation situationis breaksome somestuff stuffin ina way theimmediate risksare lowerthan thanmost peoplethink whetherit sthe andreasfault faultor theyellowstone yellowstonesupervolcano thecoming thisstory storywill notend endwell forthe theleft leftcoast coast geologicaltime time theus geologicalsurvey survey theprobability probabilityof ofan witha amagnitude magnitudeof orlarger rockingcalifornia californiais is7 percentover overthe thenext arandom randomcard cardfrom froma adeck deck andif ifit snot ajack jack california californiais isok through2045 bigone peoplethink bigone catastrophicearthquake earthquake duringtheir toa surveymonkeyaudience audiencepoll pollwe athird thirdof thebig bigone and43 percentthink thinkit goingto togo downin intheir theirlifetime lifetime butwhen whenwe wezero zeroin thepacific pacificcensus censusregion region westcoast coastand noncontiguousus moreanxiety anxiety percentof ofthe the206 pacificregion saidthey worriedabout and65 worriedabout thebig bigone about62 percentthink theirlifetime lifetime peopleare tobe thiskind kindof ofdisaster disaster snot thing bigone willhappen happenin intheir adisaster disaster suchas buyinga survivalkit kitor anevacuation evacuationplan plan tothe thesurvey survey peopleoverestimate overestimatethe therisk riskof bigone builtinaudience audience thissurvey survey outthe themore moreyou faultor theyellowstone yellowstonesupervolcano supervolcano aboutthe thelast lastone youare arein fora majortreat treat themore youare areto tobe thebig bigone makessense sense becauseoh ohmy mygosh isso muchmagma magmaunder underyellowstone yellowstonewhy westof ofthe themississippi check checkout thefull fulldata datafor forthis thison ongithub github')
+
+('JJ', 'lots big premiere san chinese eric san andreas catastrophic box san basic legitimate sound geological tectonic stuff big immediate little san coast geological geological california draw card big lots big massive catastrophic surveymonkey third big lifetime active noncontiguous good pacific worried overall big bad big likely survival big san andreas favorite know san last major big gosh much west full lots lotsof getthe thepremiere attcl tclchinese eric san sanandreas acatastrophic thispast pastweekend san sanandreas bya apretty prettybasic yeta isrebuilt behindthe scientificallysound longenough enoughgeological stectonic goingto tobreak bigway ifthe probablya alittle mostpeople thesan sanandreas overthe overgeological tothe usgeological earthquakewith next30 draw drawa nota big lots lotsof ofpeople amassive massive catastrophic willcome accordingto asurveymonkey abouta godown onthe geologicallyactive thenoncontiguous gooddeal overall quakewill thatpeople thanthey needto aboutthis reallya aboutthree likelyto fora asurvival makingan accordingto becausepeople intothose san sanandreas abuiltin smy myfavorite aboutthis aboutthe thesan ifyou infor amajor likelyyou thereis somuch didwe wesettle')
+
+('NNS', 'people movies data github data datasanandreas attends andreas theatre expectations andreas fears risks people andreas eons years people americans states respondents earthquakes people people times precautions people movies fears andreas data undermovies andreas andreas outexpectations andreas abides fears immediaterisks comingeons years theirlifetimes ofamericans states regionrespondents aboutearthquakes thinkthe people theirlifetimes threetimes takenprecautions movies thosefears fears andreas sanandreas youdon')
+
+('VBD', 'worried hollywood crushed left commissioned worried said worried know worried hickeyfiled sanandreas crushed morethan abig supervolcano of80 wecommissioned agood about58 respondentssaid moreworried beworried whydid')
+
+('VBN', 'filed destroyed come worried taken areworried isdestroyed destroyed commissioned areworried extremelyworried wereworried havetaken')
+
+('VBP', 'get github dwayne abides think fault think think occur think overestimate play fault check moviesget onmay afilm expectationsand abidesby ideabehind span think eonsthis anearthquake think americansare inon earthquakesoverall thequake willoccur necessarilyneed peoplewho whothink think lifetimesare timesas tohave precautionsfor thatplay havea youknow andreasfault tknow outthe')
+
+('VB', 'tcl break argue need settle intheir couldargue')
+
+('VBG', 'starring destroying pulling playing going coming according rocking according going buying making according filmstarring earthquakedestroying beating andpulling alsoplaying probablygoing according largerrocking comeduring according sgoing badthing asbuying ormaking according favoritething settleanything')
+
+('VBZ', 'rebuilt lifetimes turns makes johnsonattends familyis legitimatefears evenif usstates veryor itturns')
+
+('JJR', 'lower larger filedunder littlelower')
+
+('JJS', 'west activewest anythingwest')
+
+('NNP', '‘the ‘san')
+

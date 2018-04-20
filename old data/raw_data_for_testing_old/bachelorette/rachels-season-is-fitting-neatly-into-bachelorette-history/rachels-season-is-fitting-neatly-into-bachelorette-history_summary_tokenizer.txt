@@ -1,0 +1,28 @@
+Token analysis before pre-processing 
+Raw number of tokens: 678
+Raw number of types: 296
+Raw Type token ratio: 0.4365781710914454
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('NN', 'rachel##season##history##walt##hickey##ella##koeze##github##github##databachelorette##home##stretch##season##bachelorette##time##preseason##bachelor##bachelorette##analysis##rachel##attorney##texas##field##gentleman##handle##challenge##contestant##rachel##season##date##elimination##demario##girl##television##roseceremony##eliminations1##date##aggregate##predecessor##season##power##firstimpression##make##move##recipient##bryan##date##love##folk##anything##date##rachel##mean##anything##season##proof##date##date##year##twoonone##date##survivor##week##week##twoonone##date##percent##participant##case##competition##doom##head##date##rachel##kenny##week##history##season##time##contender##bachelor##bachelorette##point##value##date##value##date##oneonone##date##smallgroup##date##largegroup##date##date##stand##oneonone##date##twoonone##half##date##threeonone##onethird##date##peter##dean##neck##term##time##bryan##break##week##move##everyone##le##time##rachel##week##chance##thing##number##chart##reality##rachel##date##family##meet##point##bestcase##scenario##date##get##love##thing')
+('VBG', 'fitting##going##breaking##going##remaining##following##considering##assigning##speaking##going##counting##coming##getting##getting##shocking')
+('JJ', 'bachelorette##perfect##rigorous##previous##eliminated##unscheduled##broken##nice##historical##contestant##final##hometown##real##dean##tend##next##contestant##kenny##head##serpentine##hometown##next##much##exclusive##final##rachel##eric##late##oneonone##enough##poor##first##last##harsh##total##finale##crazy')
+('VBN', 'filed##published##held##seen##given##gone##gone##eliminated##based##spent##rejected##gone##engaged')
+('NNS', 'data##data##bryan##people##twoonones##adam')
+('VB', 'mean##check')
+('VBP', 'lindsay##favor##oneonone##twoonone##spell##come##spend##matt')
+('VBD', 'narrowed##rose##rose##sight##learned##doomed##wrote##eliminated##went##bounced##decided##looked##proceeded')
+('VBZ', 'seems##reinforces')
+('JJS', 'strongest')
+('JJR', 'higher')
+
+Token analysis after pre-processing 
+Number of tokens: 270
+Number of types: 180
+Type token ratio: 0.6666666666666666
+

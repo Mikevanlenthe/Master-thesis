@@ -1,0 +1,27 @@
+Token analysis before pre-processing 
+Raw number of tokens: 44
+Raw number of types: 43
+Raw Type token ratio: 0.9772727272727273
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'data')
+
+('NN', 'alcohol beer countri spirit wine glass consum person abstain serv mona work question trend world health conform alcohol country record food liter pure result show')
+
+('VBP', 'drink look want')
+
+('JJ', 'peopl capita govern')
+
+('VBD', 'beverag')
+
+Token analysis after pre-processing 
+Number of tokens: 33
+Number of types: 32
+Type token ratio: 0.9696969696969697
+

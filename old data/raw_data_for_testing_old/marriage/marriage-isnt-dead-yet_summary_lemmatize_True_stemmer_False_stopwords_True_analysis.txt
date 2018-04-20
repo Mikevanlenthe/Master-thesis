@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1715
+Raw number of types: 418
+Raw Type token ratio: 0.24373177842565596
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag getty race education hidden past week today percent today interesting fact wedlock bachelor marriagechildren race week child woman degree work education percent marriage marriage github github datamarriage edor palm beach florida raedle getty george clooney lawyer venice marriage beneath trend distinction research center week report decline marriage state percent today trend income characteristics2 divide marriage marriage fact rate generation marriage story marriage plan economy stagnation disappearance college marriage employment tend hand hand report quarter estimate extrapolation generation behavior problem marriage forecast moment time person question life majority3 marriage path decade chart marriage education rate college trend decade story decline steeper college graduate marriage generation piece evidence college half percent versus percent college range college graduate word marriage something child child marriage rate school diploma rate rate mother evidence divergence marriage school marriage versus percent college survey division line income orientation report reason marriage decline employment education marriage college job percent spouse husband requirement belief percent education percent survey half job8 education help marriage education population percent school percent college degree9 distinction divorce rate percent rate divorce rate college divorce rate bachelor degree income divorce rate picture decline marriage school marriage marriage child child job held actor reveal graduate suggest earn paint image image stripe group marriage number child child mirror trend income job trend age year trend group age group rate graduate woman woman woman woman child attitude respondent diploma result division rate job woman idea result age term rate age age decade percent family number rate wait moreover celebrate marry marry marry turn wait decide help case marriage marriage overstate poorer le le poorer survey survey survey')
+
+('JJ', 'dead british arrive important last united married broad likely different many likely likely last young fundamental impossible unmarried married reasonable general clear possible different late married young ready young high obsolete socioeconomic similar political last young likely likely nevermarried prospective steady moral religious much similar actual steady third steady steady identical likely current high young likely lesseducated similar affluent different real important high child dead casselman philogene amal sept pierre teyssot american divide wednesday percent pattern rate4 pattern degree three6 requirement american strong percent degree important regardless regardless pattern divide married married married steady broken accelerated married married smaller7 borne employed doubled married tend decide american old american american american american percent diploma american american american american american right degree different follow estimated percent')
+
+('JJS', 'west least least least least')
+
+('VBD', 'collegeeducated lesseducated married solid lesseducated collegeeducated collegeeducated married lesseducated steady10 divorced split filed married married educated laid married married divorced divorced wrote agreed said degree')
+
+('VBN', 'educated lesseducated collegeeducated married lesseducated related based given done fallen fallen married compared educated taken come released suggested ranked')
+
+('NNS', 'data data others people people people nongraduates twothirds reveals suggests')
+
+('VBP', 'figure degree link degree appear marry child show get make assume continue')
+
+('JJR', 'deeper older older fewer lower higher')
+
+('VB', 'marriage spouse child child come explain')
+
+('VBZ', 'behavior america exists exists reflects')
+
+('VBG', 'shifting getting overarching delaying skipping cutting delaying abandoning getting getting getting focusing raising becoming falling including raising finding according rising declining')
+
+Token analysis after pre-processing 
+Number of tokens: 528
+Number of types: 267
+Type token ratio: 0.5056818181818182
+

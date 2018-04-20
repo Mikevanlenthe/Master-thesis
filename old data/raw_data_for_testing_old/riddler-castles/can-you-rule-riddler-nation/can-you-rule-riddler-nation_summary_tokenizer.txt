@@ -1,0 +1,28 @@
+Token analysis before pre-processing 
+Raw number of tokens: 849
+Raw number of types: 342
+Raw Type token ratio: 0.4028268551236749
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('NN', 'rule##riddler##nation##riddler##github##github##illustration##guillaume##riddler##week##offer##problem##thing##hold##math##probability##type##riddler##express##something##riddler##movement##submit##either1##shoutout##week##column##hint##riddler##express##participatory##gametheory##problem##submit##number##number##submission##number##mean##number##submit##number##riddler##joel##baker##riddler##nation##battle##royale##land##castle##warlord##value##conqueror##victory##point##enemy##distribute##fight##castle##victory##point##number##troop##point##distribution##force##enemy##battle##begin##point##submit##plan##battle##plan##oneonone##matchup##war##battle##royale##riddler##nation##submit##plan##solution##week##riddler##express##congratulation##stephen##carrier##berkeley##california##winner##week##game##tetri##board##piece##arrangement##form##block##square##square##illustration##arrangement##vivek##number##solver##number##way##twobysix##forth##space##tetri##piece##fibonacci##number##discussion##pattern##math##check##document##samuel##wirajaya##math##solution##week##riddler##congratulation##lewisburg##pennsylvania##winner##week##puzzle##beginning##time##microorganism##member##specie##split##copy##dy##probability##multiplication##chance##specie##specie##chance##probability##call##probability##specie##probability##microorganism##dy##probability##equation##q2\\end##equation##solution##probability##probability##extinction##chart##laurent##lessard##probability##extinction##probability##microorganism##luck##submit##email##oliverroeder##fivethirtyeightcom')
+('VBD', 'edited##suggested##split##crowned##placed##noticed##twobyeight##welldefined')
+('JJR', 'roeder##soldier##soldier##soldier')
+('VBN', 'filed##bitesized##submitted##given##chosen##squared##given')
+('NNS', 'data##data##datariddlercastles##conquers##tetri##tetri##multiplies')
+('JJ', 'kurkdjian##welcome##related##logic##classic##slowpuzzle##next##twitter##classic##whole##take##average##win##classic##special##distant##wartorn##castle##strategic##castle##worth##castle##win##castle##receive##possible##win##queen##last##last##puzzle##lucky##clear##many##solid##high##wide##intrepid##pattern##fill##twobyfour##empty##equal##fantastic##tetri##former##cool##last##classic##szatmary##last##classic##single##extinct##extinct##sure##extinct##extinct##original##conditional##extinct##\\begin##former##know##different##single##good##little##want##riddle')
+('VBP', 'dear##want##need##find##castle##send##know##win##win##adjudicate##win##piece##addict##go##go##child')
+('VBG', 'asking##distributing##king##knowing##fighting##solving##multiplying')
+('VBZ', 'submits##archenemy##sends')
+('JJS', 'closest')
+('VB', 'twobytwo')
+
+Token analysis after pre-processing 
+Number of tokens: 329
+Number of types: 210
+Type token ratio: 0.6382978723404256
+

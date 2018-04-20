@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 997
+Raw number of types: 305
+Raw Type token ratio: 0.3059177532597793
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag offer split fight submit form fill dy call submit riddler github github illustration riddler week math probability riddler express something riddler movement answer either1 shoutout week column hint twitter riddler express participatory problem submit number number number riddler joel baker riddler nation battle land castle value conqueror victory point enemy victory point number troop point distribution submit plan battle plan oneonone battle royale riddler plan riddler express stephen carrier berkeley california winner week game tetri board tetri block illustration arrangement vivek number number space fibonacci discussion pattern document solver tetri addict samuel wirajaya math solution riddler winner time microorganism member probability multiplication chance probability probability microorganism probability equation probability probability extinction chart lessard probability extinction microorganism email oliverroeder fivethirtyeightcom problem thing number number battle point war congratulation piece arrangement piece square square way number congratulation specie split copy chance specie probability guillaume dear type gametheory submission wartorn archenemy wouldbe nation week intrepid twobyfour twobysix forth tetri cool week lewisburg pennsylvania week extinct solution submit win win specie child equation')
+
+('VBP', 'hold want win know want take know roeder adjudicate solution force win go')
+
+('JJ', 'need castle send receive rule submit distribute clear related welcome logic classic mean royale castle castle castle castle matchup queen puzzle lucky pattern tetri sure probability q2\\\\end riddle castle solver specie kurkdjian slowpuzzle next classic whole average classic special distant strategic possible last last many solid high twobytwo empty equal fantastic former last classic alex szatmary last classic single extinct extinct original conditional extinct former laurent different single good little noticed win')
+
+('VB', 'begin find check win go')
+
+('VBN', 'squared filed given given bitesized submitted')
+
+('NNS', 'riddler chosen data data datariddlercastles conquers multiplies submits sends')
+
+('VBD', 'edited suggested crowned twobyeight luck placed welldefined')
+
+('VBG', 'beginning asking distributing king knowing fighting solving')
+
+('JJR', 'soldier soldier soldier')
+
+('JJS', 'closest')
+
+Token analysis after pre-processing 
+Number of tokens: 307
+Number of types: 195
+Type token ratio: 0.6351791530944625
+

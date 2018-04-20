@@ -1,0 +1,47 @@
+Article: steak-survey/how-americans-order-their-steak
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 700
+Raw number of types: 322
+Raw Type token ratio: 0.46
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 324
+Number of types: 219
+Type token ratio: 0.6759259259259259
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, order, steak, walt, hickey, rachael, dottle, food, question, nation, steak, consume, pound, beef, party, negotiation, cause, elitist, reconsider, measure, diner, btu, gas, spent, rare, steak, amount, catastrophe, investigation, admission, campaign, welldone, beef, preference, mediumrare, medium, mediumwell, society, meat, doneness, preference, cudgel, holder, office, get, tender, issue, share, longhorn, year, worth, location, cut, steak, claim, steak, lot, difference, order, cut, steak, fiber, executive, chef, look, tender, steak, tenderloin, steak, sweet, flavor, work, mediumrare, rib, side, temperature, order, rib, heat, steak, temperature, steak, ribeye, tbone, dahlmann, bone, bone, flavor, david, berson, director, operation, peter, luger, steak, house, ribeye, rare, way, cook, buy, thicker, cut, beef, margin, error, cut, supermarket, home, cook, get, quality, berson, beef, cut, corner, meat, part, job, luger, distribution, berson, indication, juicy, steak, dahlmann, home, cook, highquality, meat, thermometer, nail, perfect, doneness, time, temperature, degree, fahrenheit, anything, degree, mediumrare, culture, writer, elitist, walt, hickey, anything')
+
+('JJ', 'american, wrong, united, great, front, american, large, effete, guess, good, environmental, smear, steak, political, meat, hooked, american, steak, orders1, american, different, american, serious, different, know, different, dahlmann, longhorn, soft, great, rare, prime, great, rarer, low, rare, prime, bloodiness, many, handle, middle, moisture, agreed, little, fat, leg, thin, important, protein, fish, big, fat, good, steak, internal, rare, fivethirtyeight, cantankerous')
+
+('VBD', 'filed, divided, began, found, said, followed, marbled, shared, wanted, said, got, cooked, said, brooklyn, got, said, said, ruined')
+
+('NNS', 'people, people, people, data, people, jens, people, people')
+
+('VBP', 'prefer, say, prefer, steak, turn, rarer, work, turn, rareaverse, steak, perform, mediumwell, get, sell, want, look, invest')
+
+('VBN', 'done, given, done, enjoyed, selfreported, used, longhorn, aggregated, ordered, come')
+
+('VB', 'make, steakhouse, marbled, recommend, give')
+
+('VBG', 'ordering, going, taking, living, agreeing, revealing, cooking, running, cooking, buying, marbling, according')
+
+('JJS', 'highest, highest')
+
+('VBZ', 'lends, retains, suggests, degree')
+
+('NNP', 'fiber')
+
+('JJR', 'longer')
+

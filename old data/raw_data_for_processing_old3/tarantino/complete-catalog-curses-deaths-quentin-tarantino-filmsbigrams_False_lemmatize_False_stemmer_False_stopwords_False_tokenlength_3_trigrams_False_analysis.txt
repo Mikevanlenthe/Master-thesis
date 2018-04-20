@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1516
+Raw number of types: 573
+Raw Type token ratio: 0.3779683377308707
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 894
+Number of types: 469
+Type token ratio: 0.5246085011185683
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'dec catalog time someone tarantino movie roeder word count github github datatarantino quentin tarantino john travolta samuel jackson pulp fiction minute multiplex feature director quentin tarantino interest ire language violence york film reservoir film pulp fiction los something wearing repetitive film reliance shock value posturing attention tarantino feature film story bounty refuge blizzard war spent week couch tarantino streak someone gun sword snake someone motherfucker cocksucker event time over tempos tarantino guy age project doctor someone blade torso samurai battle person die2 profanity bill subtitles3 profane language eyeball example word count damns data set github film ratio jackie pulp fiction kill bill django bill tarantino film language4 tarantino hand part drop dozen drop dozen samurais cheap budget today imdb django budget cost word count goddamn motherfucker bitch hell tarantino pulp fiction kill bill stretch death profanity place pimp brothel prostitute era filmography tarantino profaner variety tarantino fuck word word word language verb verb noun interjection fucking meaning fuck type fuck count motherfucker motherfucking fucker fuckface table paragraph tarantino utterance reservoir django flexibility spot tarantino word courtesy vincent seat car pulp fiction race car race car fucking tradition script movie magazine paltry script word release consistent script guarantee tarantino film kill bill vol fbomb script bitch hell ass damn profanity gauge downtick film cry pulp fiction jackie tarantino nostalgic tarantino dick dick dick dick dick dick character tarantino coffee scene tarantino feature catalog')
+
+('JJ', 'complete quentin first occasional strong frequent new first next eighth hateful civil good bad ugly ready oeuvre blue venomous few essential old mild necessary medical numerous direct sword foreign chinese japanese kill french inglourious theatrical difficult mild potent full reservoir inglourious total few equal dogs onscreen other deaths5 much jolt reservoir hateful salad remarkable regular scarred eclectic healthy carnal scatological fond give fantastic single useful english transitive intransitive different vulgar favorite fuckhead total uttered few last evergreen yogic top typical back red dangerous hateful proud theatrical leaked fuckless leaked hateful significant last early dick brown played first first many white exact full')
+
+('VBD', 'cursed called wrote was was was made did resulted was showed changed were assumed had cut took relied had plucked screamed did unchained was unchained was shit fuck fuck fucked unchained fucked deployment brainandskullspattered got red leaked had revealed had hyperpottymouthed')
+
+('VBN', 'bled filed pulled ignited killed called hardwon understood rrated created been unchained made chilled fucked been fucked done esquire put given eased')
+
+('VBP', 'get brutal frozen die swear note say make cursedeath plenty reservoir django celluloid want want slice half reservoir doesn tarantino fuckup fuck have search count shit reservoir dick blue lot tarantino')
+
+('NNS', 'data data critics films times dogs times christmas hunters meets people seconds data films assumptions limbs films basterds horror curses hells shits fucks nwords curses deaths dogs basterds features deaths fucks deaths matures features deaths profanities profanities films budgets fbombs audiences people dogs dollars curses measures days dogs doses words hundreds varietals fucks motherfuckers fucks fuckers fucks inflections films dogs times fucks versions versions versions nwords days dogs obscenities days dogs dicks deadpans dicks')
+
+('VBZ', 'curtains has angeles comes languages asses has has does has does comes curses expletives gives breaks earns contains has explains says')
+
+('VB', 'badboy maintain get bleed have find kill appear stuff take adjective gerund6 adjective continue hateful forgiven dick reservoir')
+
+('VBG', 'seeking wyoming watching getting remaining trading growing swearing fucking motherfucking talking driving using fucking fucking fucking saying fucking according feeling')
+
+('JJR', 'bloodier cheaper more intensifier')
+
+('JJS', 'best least quietest best earliest')
+

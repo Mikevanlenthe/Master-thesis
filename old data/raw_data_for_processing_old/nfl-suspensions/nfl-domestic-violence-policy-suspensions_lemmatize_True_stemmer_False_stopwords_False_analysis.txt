@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1649
+Raw number of types: 577
+Raw Type token ratio: 0.34990903577926014
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 840
+Number of types: 441
+Type token ratio: 0.525
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'uneven domestic raven raven open unconscious unconscious heavy national video aftermath raven personal personal espnw possible many entire other consistent other goodell short effective personal domestic sexual physical first current second average domestic offense secondtime league understand unrelated domestic entire length wrong comprehensive several unaware complete uniontribune wikipedia note missed4 good hard many suspected personal inconsistent average punishment occur firsttime receive receive little miss percent secondtime receive personal unsanctioned in–game league social first percent onegame ricky outside stripper sexual multiple adam entire numerous arrest police collective personal evident other clear handle violent second available previous guilty previous domestic clear personal average personal domestic nonspecific guideline average mean domestic previous domestic caught joint full searchable table complete possible know last updated many indefinite many lifetime')
+
+('NN', 'history violence allison mccann suspension github photo rice right wife janay news conference patrick semansky photo rice right wife janay news conference patrick semansky elevator door drop fall knee floor foot prevent door woman purse move body foot budge try body football league end altercation rice wife janay palmer round offseason film video arrest commissioner roger goodell rice star game interview rice palmer league conduct policy punishment incommensurate crime joke columnist jane mcmanus rice game player game test drug season marijuana discipline goodell press conference rice suspension consistent case case thursday goodell discipline policy letter team owner league treatment rice case conduct policy assault battery violence assault force suspension game offense consideration factor suspension circumstance warrant rice suspension offense league opportunity reinstatement year sixgame suspension time suspension violence consequence kind league repeat offense punishment offender rice incident suspension1 history violation rice steroid substance abuse abuse game kind conduct violation game game season someone body track player suspension spokeswoman darlene capiro email list colleague report espn information group information entirety incident spokesman player association george atallah union request help diego arrest database list spotrac suspension tracker2 incident process suspension news reports3 reason suspension number game player start offense game evidence punishment conduct violation le harsh drug offense note peak chart percent offender suspension game percent repeat suspension game question number game player steroid length suspension league policy substance violation violation percent firsttime game offender year league policy5 contrast variation length suspension conduct violation catchall category everything murder violence medium instance conduct violator suspension group johnson spit woman face manning denny restaurant percent player game bridge marshawn lynch percent player threegame suspension player percent game case assault arrest suspension pacman game season game altercation difference treatment drug conduct violation result league bargaining agreement doe mention conduct policy doe policy program substance abuse disparity compare document drug page league regulation bridge year guidance drug offense prescription offfield offense player violence banishment appeal process player year lifetime ban database substance abuse gambling6 comparison donte stallworth manslaughter league year inconsistency punishment violence conduct violation league number game conduct violation case violence number game baseline suspension game goodell doesn factor violence suspension record violence punishment player woman smoking entry database suspension please submit correction version story suspension substance abuse ban rice substance abuse')
+
+('VBG', 'punishing running running closing holding using picking running showing running citing cheating performanceenhancing smoking issuing regarding mitigating according following looking governing dating using making corresponding using embarrassing having covering assuming mitigating going excluding')
+
+('VBN', 'filed given been suspended given collected been issued determined suspended contacted repeated cobbled categorized been punished pointed arrested ranged been repeated issued been punished corrected repeated')
+
+('NNS', 'data data datanflsuspensions speaks speaks peds data espn data stats data data jones commits data data')
+
+('VBP', 'github thengirlfriend violation involve apply have grantland have provide perfect offender receive drink jeremy receive refer have')
+
+('VBD', 'baltimore baltimore made were prompted suspended felt wrote exclaimed said announced obtained wrote fell unprecedented went wanted were warranted warranted assumed suspended responded were selected said found verified missed outlined received assaulted received received went suspended meant were were pleaded became looked suspended suspended beat were missed sept misstated were were were were')
+
+('VB', 'try make subject affect result harshest keep forced find result wait reduce double take')
+
+('VBZ', 'video peds includes larry')
+
+('JJR', 'zapruder more greater fewer earlier')
+
+('JJS', 'least tallest longest')
+

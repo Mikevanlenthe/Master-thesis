@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2467
+Raw number of types: 728
+Raw Type token ratio: 0.29509525739764897
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1357
+Number of types: 617
+Type token ratio: 0.4546794399410464
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'economic major ucla djansezian sept getty american grim economic major difficult detailed major clear medical same wait obvious many popular major recent many uncertain many informed recent worth average recent federal average high average same half high high high many major understand financial major table typical recent fulltime american degree major median salary library lucky fulltime safe many related clear actuarial public financial average general prestigious major unlikely salary huge follow deeper full median salary mineral tremendous recent tough many early notorious remarkable young broad mechanical related miscellaneous median half social good median 75th other good good straight lucky biomedical median biomedical bestpaid aren same belong many overall median recent major many median other technical popular major lucrative popular major median popular simple technical economic last popular private liberal first actuarial median public median other other likely library other percent fulltime whole weak actuarial high percent much weak likely significant major degree onefifth young high recent underemployment doesn underemployment same average much underemployment different likely underemployed natural average likely human noncollege jobs5 underemployment relative worrisome underemployed such culinary underemployed third working such other likely stuck lowwage clinical such overall median recent major clinical substantial clinical median advanced premed medical median medical other other huge many medical standard economic full financial graduate likely modest')
+
+('NN', 'guide college casselman education github campus getty student college career fair york city john moore college campus month face reality college degree guarantee success choice education cause effect college school stem science technology engineering math study drama evidence psychology half college study psychology career research study skepticism value college education bachelor degree fact analysis reserve bank york value college degree alltime word percent college school school money college debt percentage college debt degree today college bottom percent college difference choice look college graduate year community survey petroleum engineering bottom spectrum science land jobs1 course decide petroleum science accounting policy history court criminology boost example percent business therefore business raise someone course surge dollar petroleum engineering glut supply dive stop article table income code github account engineering petroleum engineering crazy percent runnerup engineering premium demand drilling boom petroleum builtin risk premium energy industry boombust volatility guarantee petroleum sixfigure engineering life highestpaying engineering category2 engineering engineering engineering wage engineering guarantee engineering sense range petroleum percentile petroleum mining indemand living school everyone quarter example engineer stem tout importance science technology engineering math engineering computer math life college neuroscience meteorology biology ecology zoology category fulltime wage year nonmath money money engineering fact correlation psychology belowaverage wage engineering explanation everyone engineer computer research interpretation paper year group math science college kentucky round comfort math science nonhardscience court reporting food science policy unemployment petroleum advantage unemployment rate percent percent week science hand unemployment rate percent correlation unemployment bestpaid unemployment rate employment correlation fact college edge report glass employment company bachelor executive bachelor field unemployment rate college percent school diploma bachelor degree4 career degree help market college unemployment college degree issue college degree money career result list engineering science stuck college degree meanwhile cosmetology hospitality management term construction manufacturing example degree college stuck service definition cosmetology lowwage service jobs6 drama theater percent list stereotype coffee bachelor cosmetology drama psychology percent wage psychology figure psychology school premium psychology graduate wage percent degree7 health preparatory salary school graduate biology science school force boost school education field school graduate school boost')
+
+('VBG', 'picking heading boosting planning learning lowestpaying working according factoring rising lowestearning taking graduating ending skipping according highestpaying whopping struggling becoming becoming reporting switching switching majoring mining working pulling lowestpaying bestpaying specializing earning highpaying lowestpaying considering paying working wellpaying nonengineering avoiding finding burning falling having rising ranking ranking lowpaying majoring starving working making misleading going doing')
+
+('VBN', 'filed chosen shown been earned considered gotten minted paid published inclined employed result compared tied paid oriented paid')
+
+('JJR', 'higher more less more better more harder more higher better less less more more narrower more more more more higher')
+
+('NNS', 'data data datacollegemajors students angeles images registers images millions students steps odds earnings disentangle data graduates reveals messages majors tables lessons students years graduates jobs students prospects colleges universities students choices economists tuitions researchers graduates grads years students figures students worlds prospects students chances minimizes chances earns times freshmen librarians engineers fields differences earnings majors majors majors majors majors earnings figures majors economics majors majors economics students majors astrophysics flunks students signs wages trends data majors data pays engineers conditions environments engineers careers engineers salaries prices pays majors graduates majors technologies technologies majors terms earnings sciences kinds percentiles engineers engineers engineers metals chemicals fields odds engineers ones percentile fields politicians majors earnings majors ones majors majors sciences sciences sciences students ranks majors types fields students majors fields fields majors bears researchers majors arts students majors majors majors earnings earnings engineers graduates jobs jobs hours earnings scientists graduates teachers stripes graduates jobs technologies data employers applicants degrees jobs twothirds postings assistants people graduates people tables researchers rates graduates earnings teachers jobs teachers majors yields earnings majors majors fields jobs programs resources jobs graduates jobs waiters janitors clerks students services arts arts majors jobs artists performers artists shops majors jobs jobs threequarters majors earnings majors degrees fields students programs programs majors premiums rules incentives fields graduates exceptions counselors')
+
+('VBP', 'github walk kevork barnard take link look assume aren require degree doubt known push make make include graduate help need make earn outearn mean earn calculus decide broken know find remote crater fall come earn have make make love mathheavy stand make flock hard scientist have have find have make find have prefer demand have percent wait york require require wouldn education earn require find require retail work graduate enjoy ages graduateschool earn enjoy administrators')
+
+('JJS', 'least worst least least most least least most least least lowest biggest most')
+
+('VBD', 'fraught premed prepared found were saddled posted oilfield oilfield fulltime found were paid worked worked found knew chose joined earned earned')
+
+('VB', 'seem have choose have bring have drive endure look make expect require make')
+
+('VBZ', 'leaves graduates maximizes graduates graduates tends reflects puts outcomes helps makes comes graduates grades helps graduates reflects comes finds graduates nurses graduates graduates graduates')
+

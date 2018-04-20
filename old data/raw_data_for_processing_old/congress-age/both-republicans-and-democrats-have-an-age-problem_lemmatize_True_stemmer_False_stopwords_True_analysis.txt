@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1475
+Raw number of types: 503
+Raw Type token ratio: 0.3410169491525424
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 659
+Number of types: 342
+Type token ratio: 0.5189681335356601
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'republican judiciary right getty judiciary right getty long little young strong much statistical simple recent sunlight congress whole average current close high january average republican congressional america current previous republican relative huge incumbent first average average previous average first average start republican counterintuitive young partisan young democrat representative come many american partisan independent counted soft partisan narrow political follow political unlikely interested underlying right federal immersed strong heterodox general social nuanced american republican label independent partisan strong strong republican american likely strong partisan strong sample strong republican little flatter soft partisan american affiliated major frame strong strong republican congressional different general social general social actuarial table nonagenarian republican richard strong republican strong average increased obama american strong active general social american informed strong knew great strong important young uninterested political political wall push full young voter skeptical major high unpopular second american major presidential late young interested rest political partisan wall american major active vicious full american')
+
+('NN', 'democrat problem nate silver dhrumil mehta github github datacongressage committee member orrin hatch chuck grassley patrick leahy dianne feinstein listen testimony chip somodevilla image senate committee member chuck grassley patrick leahy dianne feinstein listen testimony hearing mark wilson image york time feature month election president barack obama inspire office article reporting cite evidence question congress trend year congress obama variety source govtrackus foundation york time member congress compilation population member congress year term year congress office obama contrast average bill clinton office ronald reagan democrat congress year democrat term congress office republican contract wave election congress obama youth year number seat member congress time congress year le year member congress member congress democrat measure democrat time congress year term evidence party voter preference electorate year voter obama voter percentage point congress random voting president closet label party vote party time engage activity vote year news donate campaign volunteer issue anything marriage candidate party contrast office definition deeply partisan supporter party agenda order nomination view survey view partisan democrat congress survey number way disposition democrat turn identify percent frequency percent tendency slope curve contrast number party average democrat approximation pool candidate drawn year survey president time survey group respondent bucket estimate voter follow pattern george bush nixon gerald ford average year version survey democrat year president george bush year identify interest survey democrat deal year average republican year emphasize result imply affair movement paul campaign street marriage role party disapproval rate congress record george term obama approval rating underwater feel party interest youth year activity banner street instance group party participant become obama office question cycle congress interest')
+
+('VBN', 'filed done collected subset collected given identified aged identified presented used compared grown identified left seen')
+
+('NNS', 'data data people data data people people politics data data data partisan politics politics politics people people people people')
+
+('VBP', 'senate represent start correct seek need take take remain le')
+
+('VBD', 'left left posted achieved came took came widened served preferred varied favored affiliated evennumbered conducted began respondent aged increased increased decreased vshaped became asked described said said played bush increased made took')
+
+('VBZ', 'charles charles reflects provides')
+
+('JJR', 'schumer schumer younger older better worse older older older younger older older younger older older better older younger older older younger younger younger')
+
+('VBG', 'hearing claiming getting including serving taking serving serving leaning dating topping dating aggregating serving ranging ranging serving organizing')
+
+('VB', 'gotten think replace seem mistake think scope identify reagan vote democrat become serve')
+
+('NNP', 'democrat')
+

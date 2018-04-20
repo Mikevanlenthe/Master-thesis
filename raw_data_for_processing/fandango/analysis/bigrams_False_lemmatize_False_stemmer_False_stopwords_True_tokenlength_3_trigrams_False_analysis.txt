@@ -1,0 +1,48 @@
+Article: fandango
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2656
+Raw number of types: 735
+Raw Type token ratio: 0.2767319277108434
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1116
+Number of types: 569
+Type token ratio: 0.5098566308243727
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'oct, movie, hickey, age, date, dinner, movie, date, restaurant, movie, check, movie, movie, movie, business, hollywood, something, order, office, online, money, rotten, movie, overall, rating, opening, movie, break, film, amateur, rating, metacritic2, way, film, continuum, maintain, attempt, limit, deliberate, interference, ratings6, rating, subsidiary, rating, system, movie, analysis, way, fandango, industry, interest, desire, movie, company, colleague, film, rating, fandango, look, sale, year, check, github, something, review, percent, rating, percent, rating, movie, fail, fandango, reviews9, none, rating, percent, rating, society, film, review, user, rating, critic, rating, user, score, rotten, score, rotten, fivestar, rating, scale, halfstar10, rotten, star, rating, imdb, rating, percent, time, aggregate, score, percent, time, user, score, percent, time, score, percent, time, time, site, movie, couple, life, opinion, work, shift, fandango, curve, moviegoer, version, syndrome, rating, system, offer, explanation, access, fandango, statement, star, thing, issue, methodology, film, page, user, rating, spot, film, poster, area, scale, halfstar, star, fandango, number, film, html, source, page, information, take, monday, film, information, html, backend, page, schema, score, thing, code, page, system, site, halfstar, case, rating, ratingvalue, number, page, film, sample, user, review, page, source, rating, round, app, moment, take, age, ultron, monday, film, code, page, age, ratingvalue, halfstar, kind, effect, board, breakdown, fandangocom, system, quarter, time, number, movie, average, rating, time, fandango, percent, time, fandango, way, score13, time, fandango, system, halfstar, film, rating, age, ultron, place, ratingvalue, html, code, place, occasion, film, star, rating, half, star, movie, system, practice, ver, meulen, email, half, star, example, site, company, disparity, example, bug, system, practice, software, glitch, site, star, rating, system, half, star, half, star, company, statement, fandango, fandango, logic, company, website, fandangocom, methodology, bug, example, online, movie, kind, bug, survive, ticket, seller, reason, bug, issue, site, figure, something, trade, commission, business, attention, use, nonmisleading, engle, division, advertising, comment, company, investigation, expectation, movie, vacation, purchase, see, point, walt, world, online, wisdom, crowd, https, servecastfirecoms5l8r1audio2600169whatsthepoint2015102216210964kmp3, subscribe, fivethirtyeight, movie, look, strategy, movie, playing, time, wordofmouth, country, office, analyst, office, today, weekend, opening, effect, way, idea, studio, promote, fandango, case, movie, film, ben, kenigsberg, shorthand, kind, way, rotten, nation, number, air, finality, culture, editor, voxcom, sense, answer, movie, question, math, head, reality, experience')
+
+('JJ', 'suspicious, online, walt, ultron, fantastic, excited, bought, decided, fantastic, great, good, average, decent, decent, online, serious, box, sway, poor, single, critic, professional, several, popular, tomatoes1, imdb3, different, reviews, similar, full, consistency5, perfect, sound, useful, fandango, nbcuniversal, fivethirtyeight, weird, user, connected, immediate, couple, bad, decent, fandangocom, right, impossible, user, seventyeight, good, live, charitable, imdb, metacritic, aggregate, metacritic, critic, normalized, fandango, metacritic, unsurprising, fandango, metacritic, critic, metacritic, critic, percent, devoted, favorable, rightward, clear, user, engagement, unfair, speculate, emailed, fandango, scale, wrong, fandango, average, user, fandango, average, website, aggregate, next, fivepoint, pull, website, ted, maximum, minimum, sense, ratingvalue, normal, expect, round, expect, fandango, mobile, extreme, ultron, full, sample, ratingvalue, percent, ted, halfstar, equivalent, sat, percent, clear, rounded, second, decimal, clear, first, decimal, entire, reviews, average, likely, whole, user, fandangocom, average, normal, average, fandango, public, alison, forth, general, logic, next, emailed, fix, algorithm, website, possible, mobile, apps, true, several, red, fandango, skew, high, innocent, good, skeptical, website, major, american, similar, good, federal, deceptive, anticompetitive, user, truthful, mary, ftc, specific, user, important, online, hickey, last, long, box, nash, hard, critic, early, reasonable, indicative, critic, useful, heuristic, tongueincheek, critical, metacritic, todd, vanderwerff, good, bad, personal, true, subjective')
+
+('NNS', 'ratings, movies, data, github, data, datafandango, avengers, stars, tickets, things, users, people, stars, ratings, generates, ratings, aggregators, sites, tomatoes, weekends, thousands, critics, sites, systems, reviews, criteria, systems, values, ratings, systems, uses, stars, scores, users, sites, reviews, media, tickets, consumers, months, data, films, tickets, data, films, standards, movies, films, movies, rates, films, tomatoes, uses, ratings, tomatoes, tomatoes, tomatoes, sorts, reasons, scores, fandango, competitors, people, hours, movies, stars, sites, ratings, systems, customers, ratings, intents, ratings, ratings, stars, increments, ratings, reviews, data, stars, ratings, stars, stars, stars, stars, stars, cases, avengers, data, reviews, avengers, stars, films, occasions, stars, means, occasions, stars11, occasions, stars, points, occasions, avengers, stars, times, cases, movies, movies, films, reviews, stars, relations, stars, stars, plans, films, flags, scores, ios, scores, ratings, companies, tickets, consumers, practices, ratings, endorsements, products, ratings, consumers, directs, practices, companies, ratings, nowadays, reviews, electronics, consumers, issues, reviews, matters, studios, years, operates, tracks, data, theaters, reviews, films, starts, problems, limitations, ratings, readers, movies, aggregators, tomatoes, critics, sites, looks')
+
+('VBP', 'fandango, get, github, yelp, fandango, fandango, become, aggregate, make, rotten, use, scale4, fivestar, fandangocom, see, mortdecai, imdb, ballpark, score, ask, bell, earn, fandango, profile, website, rating12, think, include, fall, require, coordinator, display, app, promote, engle, present, know, user, purport, bruce, thenumberscom, box, think, seem, online, freelance, think, think, inaccurate, feel, somehow')
+
+('VBN', 'filed, checked, reviewed, built, built, compared, paid, flawed, analyzed, found, given, pulled, see, listed, listed, gained, shown, starbased, related, used, based, taken, created, based')
+
+('VBD', 'ted, picked, got, thought, blamed, said, skewed, started, noticed, received, asked, pulled, looked, least, seemed, focused, pulled, rounded, stockholm, said, fandango, displayed, expressed, received, fandango, ted, ted, ted, rounded, rounded, pulled, found, ted, pulled, handled, presented, occurred, rounded, added, added, happened, happened, rounded, gained, asked, said, rounded, described, rounded, said, told, said, displayed, checked, raised, found, represented, unnoticed, said, said, said, release, said, focused, accused, said, said, added')
+
+('VBG', 'playing, going, increasing, aggregating, picking, combining, according, writing, finding, using, aggregaterating, according, rounding, according, meaning, rounding, rounding, rounding, rounding, including, juicing, saying, rounding, rounding, rounding, returning, rounding, using, rounding, rounding, rounding, rounding, rounding, rounding, selling, missing, using, saying, looking, releasing, building, getting, opening, hitting, looking, inventing, looking, boiling')
+
+('VB', 'hold, try, reviews, rotten, rotten, differ, round, expect, round, round, ratingvalue, fandango, show, material, extreme, act')
+
+('VBZ', 'goes, reviews, sites, gets, aggregates, sells, stars, sites, tomatoes, makes, purposes, uses, rounds, stars, provides, lists, reviews, says, makes, appears, stars, halfstar, appears, rounds, appears, knows, protects, pays, reviews, adparamszones, podcasts, comes')
+
+('JJR', 'fewer, higher, higher, higher, higher, higher, higher, less')
+
+('JJS', 'nearest, nearest, least, nearest, highest, nearest')
+

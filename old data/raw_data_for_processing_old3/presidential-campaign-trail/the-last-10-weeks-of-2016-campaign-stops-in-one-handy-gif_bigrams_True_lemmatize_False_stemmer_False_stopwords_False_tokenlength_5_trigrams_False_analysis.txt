@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 128
+Raw number of types: 98
+Raw Type token ratio: 0.765625
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 93
+Number of types: 84
+Type token ratio: 0.9032258064516129
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'weeks,matthew,criticisms,fundraisers,media,appearances,schedules,campaign stops,stops rallies,rallies fundraisers,media appearances,campaign schedules')
+
+('NN', 'campaign,election,github,github,datapresidentialcampaigntrail,postelection,clinton,campaign,campaigning,donald,trump,clinton,campaign,clinton,dayaftertheelection,concession,speech,campaign,weeks campaign,matthew conlen,under election,election github,github github,github datapresidentialcampaigntrail,datapresidentialcampaigntrail postelection,hillary clinton,clinton campaign,campaign enough,donald trump,traveling clinton,clinton campaign,through clinton,including dayaftertheelection,dayaftertheelection concession,concession speech,their campaign,compared above')
+
+('VBZ', 'stops,stops,rallies,campaign stops')
+
+('JJ', 'handy,hillary,enough,inperson,conservative,daily,handy matthew,criticisms hillary,campaigning donald,inperson media,collected conservative,hillaryspeechescom1 their')
+
+('VBN', 'conlen,filed,collected,compared')
+
+('VBG', 'traveling,including,according,enough campaigning,certainly traveling,clinton including,speech according')
+
+('VBP', 'stops handy,fundraisers inperson,daily hillaryspeechescom1')
+
+('VBD', 'conlen filed,according collected,schedules compared')
+
+('JJR', 'filed under')
+

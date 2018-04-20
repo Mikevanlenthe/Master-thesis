@@ -1,0 +1,50 @@
+Article: undefeated-boxers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1281
+Raw number of types: 520
+Raw Type token ratio: 0.4059328649492584
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 604
+Number of types: 415
+Type token ratio: 0.6870860927152318
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBN', 'defined, published, amassed, shown, fought, selected, played, subjected, sullied, clocked, disqualified, given, expected, contributed')
+
+('JJ', 'next, welterweight, undefeated, aug, getty, great, welterweight, next, ufc, undefeated, pro, huge, perfect, central, pep, perspective, undefeated, professional, beginning, boxrec, modern, minimumweight, draw, chart, flyweight, final, real, potential, saturday, rocky, title, final, numerous, close, heavyweight, limited, weight, many, public, foreman, mike, wladimir, primary, leveraged, forbes, athlete, marketable, marquee, professional, main, booed, top, boy, floyd, mayweather, spectacle, willing, boring, defensive, central, top, perfect, public, potential, lose, accomplished, second, canvas, calibrated, narcissistic, american, blow, halfhug, right, fourth, fair, protect, fight, mcgregor, fight, cynical, modern, unsatisfied, marciano, historical, residual, argument, tbe, voted, floyd, undefeated')
+
+('NN', 'name, champion, record, marketing, brinjonathan, butler, mcgregor, floyd, mayweather, victory, john, gurzinski, afp, boxer, enter, saturday, blockbuster, fight, champion, conor, mcgregor, career, case, number, record, role, career, brand, tbe, basis, everyone, history, case, tbe, status, sugar, ray, robinson, muhammad, ali, henry, joe, imperfect, mayweather, record, history, career, boxer, list, defeat, boxer, ricardo, lopez, class, century, jimmy, fight, prize, mayweather, las, vegas, addition, ninefigure, payday, legacy, marciano, archie, moore, fight, yankee, stadium, marciano, way, perfect, record, crude, style, stature, boxing, expert, marciano, chance, hell, dozen, class, retirement, career, history, basis, pristine, record, game, demise, ali, george, joe, frazier, larry, tyson, lennox, klitschko, function, zero, record, history, marketing, payperview, star, history, list, world, today, year, oscar, hoya, successor, tyson, payperview, attraction, career, night, attraction, win, history, mayweather, draw, money, mayweather, transformation, heel, showman, today, turn, substance, pay, watch, style, status, villain, record, marciano, fight, chance, character, money, pitch, payperview, cheer, mayweather, anything, round, shane, blow, career, moment, business, model, crowd, possibility, caricature, dream, humiliation, record, loss, mayweather, win, round, remainder, fight, close, shave, fight, opponent, victor, ortiz, penalty, defenseless, ortiz, mayweather, round, loss, square, boxing, analyst, planet, fight, threat, mayweather, record, showtime, event, mayweather, business, model, exploitation, way, hollywood, host, legacy, excitement, sport, bit, argument, citizen, kane, money, truth, fighter, decade, career, roy, fighter, decade, discussion, poundforpound, boxer, floyd, mayweather, claim, debt, immaculate, record, substance, forget, mayweather, opponent, conor, mcgregor, boxer, zero, draws, zero, research')
+
+('VBD', 'turned, filed, played, declared, undefeated, assembled, maintained, tarnished, fought, retired, knocked, heavyweight, scraped, benefited, emerged, stayed, witnessed, highestpaid, fought, cheered, cared, became, transformed, became, dismissed, beat, made, heard, struck, fell, recovered, headbutted, gave, left, suggested, argued, said, told, constructed, hook, included, discussed, retired, made, cruiserweight, lost, stepped, tbe')
+
+('JJR', 'roeder, mayweather, mayweather, less')
+
+('VB', 'get, find, give, apologize, era, say')
+
+('NNS', 'data, github, data, dataundefeatedboxers, images, wins, draws, losses, louis, records, metrics, records, careers, boxers, records, wins, losses, calls, fighters, glistens, others, angle, boxers, years, decisions, fights, fans, opponents, sales, buyers, pleasures, distills, others, times, poses, fans, expectations, recycles, trailers, audiences, consumers, greats, fights, fans, avengers, jones, fighters, jones, losses')
+
+('VBP', 'github, floyd, willie, triumphs, list, zero, barry, career, know, shrewd, make, mayweather, primes, dhrumil')
+
+('JJS', 'best, simplest, wealthiest, quest, loudest, biggest, best, best, lest')
+
+('VBG', 'according, boxing, suffering, heartstopping, timing, boxing, boxing, boxing, branding, appearing, boxing, grinding, selfaggrandizing, fighting, boxing, holding, luring, thinking, appealing, watching, ring, reacting, witnessing, incurring, trying, knocking, ring, selling, sizzling, creating, careerdefining')
+
+('VBZ', 'wins, holmes, lewis, thinks, franchises, wins')
+
+('NNP', 'mosley')
+

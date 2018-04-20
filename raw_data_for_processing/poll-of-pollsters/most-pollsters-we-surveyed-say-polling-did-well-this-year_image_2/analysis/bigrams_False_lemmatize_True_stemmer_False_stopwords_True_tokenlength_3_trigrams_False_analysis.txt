@@ -1,0 +1,47 @@
+Article: poll-of-pollsters/most-pollsters-we-surveyed-say-polling-did-well-this-year_image_2
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1760
+Raw number of types: 589
+Raw Type token ratio: 0.3346590909090909
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 824
+Number of types: 441
+Type token ratio: 0.5351941747572816
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'nov, tuesday, iowa, neibergall, senelect, tuesday, iowa, neibergall, republican, tuesday, many, second, consecutive, national, republican, ask, ethical, saw, first, tuesday, electorate, seventeen, prolific, political, partial, early, mississippi, senate, answered, pleased, poll, full, valid, poll, bad, else, close, many, right, wrong, general, good, underestimated, magnitude, republican, evaluate, many, wrong, call, gubernatorial, carvalho, worried, dissatisfied, independent, republican, possible, many, close, close, several, previous, good, matt, towery, unusual, bad, bad, good, republican, mute, good, correct, correct, pessimistic, bad, predicted, neverending, anonymous, many, priori, electorate, good, presidential, unskewing, right, tighten, good, willing, right, right, polling, successful, selzer, iowa, worthy, lead, leading, last, le, name, public, fox, senate, wednesday, average, active, senate, average, previous, thirdhighest, previous, average, average, brad, specific, good, bad, little, universe, irresponsible, online, wish, online, unreleased, senate, next, many, reliable, colorful, long, surprise, mean, iowa, variable, whole, raw, little, beat, related, different')
+
+('NN', 'pollster, year, carl, bialik, poll, pollster, joni, ernst, supporter, firm, company, race, joni, ernst, supporter, firm, company, race, senate, house, statehouse, election, decisive, rout, colleague, nate, preelection, poll, election, poll, party, pollster, poll, campaign, pollster, election, learn, work, principle, industry, heading1, performance, poll, question, brief, postelection, poll, result, election, poll, year, view, nation, pollster, surprise, result, poll, wednesday, defense, poll, performance, poll, result, win, election, response, night, result, poll, direction, pollster, pollster, poll, performance, question, surveymonkey, result, github, poll, reason, pollster, night, time, study, everyone, performance, respondent, poll, result, home, geography, poll, detail, poll, job, loser, tuesday, victory, christopher, borick, muhlenberg, college, case, return, correct, call, way, forecast, case, poll, race, barbara, marist, college, poll, trend, job, economy, washington, president, woman, poll, day, day, time, poll, race, organization, movement, poll, election, day, carvalho, towery, insideradvantage, trend, wave, willingness, night, pollster, anonymity, request, carvalho, poll, model, pollster, edge, iowa, kansa, colorado, model, difference, trend, part, average, carvalho, science, challenge, time, pollster, trend, pollster, trend, implication, year, result, industry, pollster, thing, foresaw, lot, third, struggle, determine, vote, pressure, speed, cost, respondent, pollster, need, method, vote, problem, poll, look, pollster, respondent, handle, vote, election, year, electorate, pollster, thought, electorate, ensue, battle, pollster, election, john, anzalone, anzalone, liszt, research, year, pollster, work, procedure, methodology, conduct, polling, money, time, time, organization, vote, organization, pollster, work, company, firm, rating, joni, iowa, senate, race, poll, database, point, le, ernst, point, count, pollster, reticent, pollster, everyone, yougov, policy, news, river, yougov, poll, performance, article, website, poll, twoparty, vote, share, percentage, point, pollster, race, yougov, bias, year, river, mean, absolute, error2, tom, jensen, ppp, poll, respond, mention, firm, ppp, error, polling, firm, jensen, see, coker, masondixon, research, inc, majority, name, winner, everyone, year, year, consensus, method, result, phone, polling, cellphone, night, everyone, gabriel, joseph, cellphone, respondent, pollster, poll, online, poll, know, pollster, right, target, turn, race, time, seat, control, number, joseph, anzalone, provider, quote, poll, fuck, business, cycle, month, colorado, change, equation, language, emotion, turbulent, night, pollster, carvalho, election, night, lot, number, analysis, sleep, anzalone, experience, enema')
+
+('VBN', 'surveyed, filed, conducted, assessed, checked, deviated, done, focused, made, thought, taken, requested, combined, pointed, spotted, balanced, named, tied, answered, named, named, published, asked, found, done, yielded, conducted, stuck, elaborated, thought, enjoyed')
+
+('VBP', 'say, github, senelect, make, see, see, appear, say, want, finetune, decide, come, know, end, love')
+
+('VBG', 'polling, polling, calling, polling, calling, depicting, answering, answering, predicting, counting, moving, spotting, spotting, headscratching, determining, going, giving, trailing, polling, digging, polling, polling, ccadvertising, ignoring, testing, going')
+
+('VB', 'get, answer, need, identify, get, get, look, work, improve, spend, republican, play, take')
+
+('NNS', 'data, github, data, datapollofpollsters, moines, moines, others, democrat, know, geography, others, yes, people, data')
+
+('VBZ', 'speaks, charlie, speaks, charlie, douglas')
+
+('JJS', 'west, west, least, thirdlowest')
+
+('VBD', 'selzer, credited, selzer, credited, silver, said, skewed, skewed, zagged, prompted, thought, followed, wanted, light, responded, said, reported, closed, onesided, answered, suggested, felt, spoke, said, said, polled, embarrassed, said, answered, said, came, made, argued, got, showed, asked, voted, showed, showed, said, captured, said, made, said, drowned, tended, said, muted, asked, anticipated, balanced, predicted, said, said, said, grove, said, got, asked, went, looked, weighted, showed, asked, stumbled, assessed, concluded, overstated, le, assessed, encountered, wrote, answered, pointed, assessed, said, said, said, included, said, said, underperformed, said, said, went, asked, gave, said, said, said, said, said, ran, said, said')
+
+('JJR', 'winner, better, closer, cheaper, better, easier, larger')
+
+('NNP', 'zogby, yougov, democrat')
+

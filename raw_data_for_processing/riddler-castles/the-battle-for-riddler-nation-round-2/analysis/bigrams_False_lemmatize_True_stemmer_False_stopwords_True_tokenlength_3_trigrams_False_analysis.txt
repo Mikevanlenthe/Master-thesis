@@ -1,0 +1,43 @@
+Article: riddler-castles/the-battle-for-riddler-nation-round-2
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 858
+Raw number of types: 358
+Raw Type token ratio: 0.4172494172494173
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 369
+Number of types: 235
+Type token ratio: 0.6368563685636857
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'battle, riddler, nation, round, riddler, illustration, guillaume, riddler, week, offer, problem, thing, hold, math, probability, type, riddler, express, something, riddler, movement, submit, either1, column, week, riddler, vacation, need, hint, puzzle, find, twitter, riddler, express, jerry, commute, problem, work, day, work, home, driver, foot, chance, driver, percent, chance, time, drive, driver, percent, chance, driver, percent, chance, driver, percent, chance, state, driver, ticket, driver, license, police, officer, carpool, route, ticket, morning, max, ticket, day, carpool, driver, submit, riddler, demand, battle, nation, benevolent, reign, cyrus, battle, time, queen, rule, distant, wartorn, land, castle, warlord, victory, point, castle, value, conqueror, victory, point, enemy, way, fight, castle, victory, point, number, troop, point, distribution, force, enemy, battle, begin, point, war, submit, plan, soldier, time, game, intel, battle, plan, show, distribution, soldier, battle, battle, plan, oneonone, matchup, war, battle, royal, riddler, nation, conquer, rule, submit, plan, solution, week, riddler, express, congratulation, tahna, hekhuis, santa, barbara, california, winner, week, shape, piece, form, square, puzzle, submitter, solution, book, math, puzzle, approach, problem, square, see, square, remove, strip, figure, deconstruct, rest, shape, rectangle, add, side, solution, week, riddler, congratulation, haydon, bambury, london, winner, week, puzzle, week, solution, submit, email, oliverroeder, fivethirtyeightcom')
+
+('VBD', 'edited, headed, selected, ticketed, revoke, revoked, lost, split, got, crowned, cut, diarmuid, appeared, coauthored')
+
+('JJR', 'roeder, answer, soldier, soldier')
+
+('VBN', 'filed, bitesized, issued, crowned, given, chosen, posted, handed, provided, formed')
+
+('JJ', 'kurkdjian, welcome, related, logic, classic, slowpuzzle, next, favorite, dust, attic, carpool, drive, drive, lead, ticket, license, third, carpool, maximum, driver, many, last, license, classic, popular, riddler, hettle, inaugural, february, new, collect, strategic, castle, worth, distribute, castle, win, castle, valuable, theoretic, receive, possible, win, queen, adapt, last, last, particular, strange, reassemble, hard, systematic, experiment, individual, easy, length, square, bottom, strip, last, classic, last, classic, video, riddle')
+
+('VBP', 'dear, want, correct, start, expect, castle, send, know, win, win, github, adjudicate, win, eightbynine, want')
+
+('VB', 'get, stop, chart, side')
+
+('VBG', 'collecting, careening, speeding, getting, driving, evening, assuming, king, competing, distributing, king, following')
+
+('NNS', 'meyers, coworkers, conquers')
+
+('VBZ', 'sends')
+

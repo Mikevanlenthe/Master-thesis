@@ -1,0 +1,50 @@
+Article: mlb-elo
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1332
+Raw number of types: 531
+Raw Type token ratio: 0.39864864864864863
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 714
+Number of types: 430
+Type token ratio: 0.6022408963585434
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'elo, favorite, different, nba, nfl, simple, final, total, average, mlb, actual, mean, onethird, methodology, espn, national, american, defunct, american, national, atlanta, milwaukee, national, 19th, national, national, interactive, red, new, national, dominant, major, ask, national, decree, special, national, first, professional, major, national, controversial, inaugural, national, current, cubs, national, elo, national, mlb, upset, white, nowhere, late1990s, seattle, griffey, enough, several, good, great, right, cubs, japanese, peak, current, red, sox, white, seattle, able, outstanding, regular, alcs, current, young, first, team, national, temple, louis, young, bad, final, mlb, national, mlb, new, first, alou, young, national, high, next, expos, washington, unstoppable, new, bad, seventh, american, disappointed, long, come, difficult, dominant, equivalent, additional, franchisehigh, arent, professional, dominant, nba, nfl, multigenerational, joe, final')
+
+('NNS', 'ratings, fivethirtyeights, teams, eras, ratings, teams, games, franchises, years, ratings, predictions, picks, teams, ratings, details, results, results, leagues, championships, titles, titles, pennants, stockings, records, franchises, braves, franchises, calculations, belongs, mariners, mariners, mariners, games, players, seasons, games, stars, mariners, wins, seattles, franchises, twins, tigers, mariners, yankees, games, mariners, playoffs, nationals, franchises, spiders, spiders, spiders, franchises, spiders, wins, finishes, orioles, seasons, spiders, owners, browns, cardinals, players, spiders, teams, spiders, games, teams, spiders, years, marquis, runs, leagues, days, playoffs, nationals, bombers, yankees, yankees, fans, franchises, years, yankees, yankees, pennants, yankees, sports, celtics, titles, yankees, yankees, years, dimaggios, mantles')
+
+('NN', 'method, history, measure, team, strength, score, location, date, baseball, history, mlb, team, rating, league, average, expansion, rating, end, season, game, retrosheetorg, league, history, association, association, world, series, league, world, series, team, history, history, boston, franchise, inauguration, association, franchise, world, series, dominance, century, association, league, franchise, elo, rating, oct, team, boston, elm, citys, bring, record, winning, percentage, elo, rating, count, association, squad, league, history, mlb, doesnt, association, part, official, history, mlb, baseball, committee, association, league, league, mlb, league, decision, league, association, association, elo, peak, history, rating, record, end, season, sox, world, series, history, center, fielder, shortstop, alex, fastballer, randy, johnson, season, schedule, tying, record, season, set, transplant, ichiro, suzuki, rookie, year, slugger, boone, mlb, season, duo, jamie, moyer, freddie, garcia, team, rating, hit, thats, sox, wasnt, capitalize, season, havent, washington, mlb, world, series, cleveland, season, history, cleveland, percentage, manager, patsy, tebeau, star, pitcher, league, title, manage, secondplace, cup, firstplace, baltimore, exhibition, series, disaster, franchise, tebeau, star, sideshow, home, attendance, revenue, cleveland, travel, road, season, elo, history, league, season, expos, history, franchise, montreal, expos, postseason, appearance, everything, offense, grissom, larry, walker, wil, cordero, game, staff, butch, henry, hill, jeff, fassero, pedro, martinez, era, aug, expos, pace, season, franchise, baseball, strike, world, series, season, grissom, hill, season, expos, franchise, team, become, history, york, baseball, team, league, season, didnt, team, percentage, season, mlb, schedule, time, world, series, elo, rating, season, team, stretch, bill, career, arc, babe, ruth, career, dimaggio, season, mickey, year')
+
+('VBG', 'comparing, including, electrifying, including, starting, dropping, winning, beating, going, playing, joining, making, coming, pitching, losing, winning, peaking')
+
+('VBP', 'weve, weve, astros, elo, start, include, peak, beat, consider, chicago, weve, include, exclude, cubs, come, rodriguez, seattle, mlb, baseballs, postseason, league, cleveland, didnt, streak, debut, rookie')
+
+('VBN', 'used, based, calculated, calibrated, reverted, played, known, chosen, ken, gone, compared, captured, held, shipped, declared, stacked')
+
+('VBZ', 'works, depends, franchises, wins, braves, braves, boasts, depends, begins, continues, wins, baseballs, moises, titles, russells')
+
+('VBD', 'added, read, included, played, came, picked, credited, created, originated, began, went, combined, improved, touched, made, appeared, led, got, captured, purchased, refused, ended, finished, contracted, kicked, struggled, led, scored, put, improved, reached, went, canceled, started, departed, shortened, went, left, went, finished, posted, snagged, montantayoung, covered, ended')
+
+('JJS', 'greatest, highest, highest, best, worst, worst, best')
+
+('VB', 'bret, become, expos, reach, overstate')
+
+('JJR', 'higher, better, walker')
+
+('NNP', 'ken')
+

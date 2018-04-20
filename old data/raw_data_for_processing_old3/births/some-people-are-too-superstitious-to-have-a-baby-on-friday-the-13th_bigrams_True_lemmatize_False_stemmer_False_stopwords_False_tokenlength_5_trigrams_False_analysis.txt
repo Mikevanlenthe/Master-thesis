@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 646
+Raw number of types: 304
+Raw Type token ratio: 0.47058823529411764
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 463
+Number of types: 389
+Type token ratio: 0.8401727861771058
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'people thousands babies parents doctors newborns births deliveries parents delivers fears fridays births falls wards months births children years reasons forums births obstetrics cesareans inductions looks effects patterns trends attempts dates findings births researchers effects authors births parents dates births results holidays births flowers github,databirths thousands,babies friday,falls expect,parents parents,doctors their,newborns induced,deliveries choice,parents chance,delivers longstanding,fears smallest,falls delivery,wards wrote,months avoid,births their,children every,years years,reasons parent,forums friday,births professor,obstetrics planned,cesareans planned,inductions labor,looks birth,effects monthly,patterns longterm,trends certain,dates their,findings based,births other,researchers birth,effects other,authors recent,births generation,parents other,dates twice,1970s since,births found,results other,holidays andrew,flowers')
+
+('JJ', 'superstitious friday github databirths other induced cesarean double superstitious longstanding fridays births1 avoid friday vague superstitious superstitious obstetrician cesarean friday universal friday household second medical friday computational statistician complex monthly longterm certain previous other halloween several other bayesian third recent recent other friday consistent finding whole other suppress people,superstitious superstitious,friday under,parenting whenever,friday fewer,expect deliver,their other,births either,induced given,choice rather,their delivers,double whammy,superstitious fridays,number number,births especially,fridays thinly,schedule fewer,births1 parentstobe,avoid children,birthday birthday,every avoiding,friday friday,vague bugging,superstitious another,superstitious asked,obstetrician scheduling,cesarean booked,belief belief,friday universal,friday friday,become given,birth another,birthday family,assistant harvard,medical looks,friday friday,computational vehtari,statistician developed,complex teasing,calendar trends,attempts attempts,avoid extension,previous valentine,halloween textbook,cowrote cowrote,several authors,bayesian vehtari,gelman found,recent parents,birth scheduled,often specifically,friday finding,whole holidays,suppress suppress,births')
+
+('NN', 'bialik github month expect section choice chance number month effect weekend delivery schedule parent pregnancy website forum office sorry change section think belief parent forum birth friday birthday family assistant professor school email schedule labor scientist vehtari andrew gelman method calendar birth analysis birth cover textbook analysis edition vehtari gelman analysis generation effect expect calendar notice christmas month friday,bialik parenting,github github,github cesarean,section their,chance tying,together births,month month,lower weekend,delivery births1,wrote given,parent vague,wrote wrote,pregnancy pregnancy,website website,forum forum,office sorry,change change,since superstitious,wrote wrote,another cesarean,section laughed,think think,would become,household household,second second,parent parent,forum birth,friday assistant,professor medical,school school,email email,schedule computational,scientist scientist,vehtari statistician,andrew andrew,gelman complex,method calendar,birth avoid,certain births,extension previous,analysis analysis,other covering,birth halloween,cover cover,textbook several,other bayesian,analysis analysis,third third,edition gelman,recent reran,analysis analysis,found recent,generation expect,since often,analysis friday,found consistent,their their,finding whole,calendar calendar,notice christmas,other births,month contributed,analysis')
+
+('VBN', 'filed treated scheduled given staffed given asked become given planned based scheduled found section,given cesareans,planned findings,based')
+
+('VBG', 'parenting tying avoiding bugging saying scheduling teasing separating covering superstitious,tying together,longstanding forums,avoiding since,bugging superstitious,saying about,scheduling method,teasing effects,separating researchers,covering')
+
+('VBZ', 'falls analysis databirths,thousands about,fridays')
+
+('JJR', 'fewer fewer filed,under about,fewer schedule,fewer')
+
+('VBP', 'deliver whammy expect gynecology avoid extension valentine cowrote birth falls,month doctors,deliver deliveries,cesarean parents,would lower,expect fridays,effect falls,weekend months,parentstobe reasons,given office,sorry obstetrics,gynecology inductions,labor dates,their effects,valentine birth,effect typically,twice results,consistent')
+
+('JJS', 'smallest effect,smallest')
+
+('VBD', 'wrote wrote wrote laughed planned developed reran found andrew contributed bialik,filed newborns,treated births,scheduled wards,staffed another,asked section,laughed would,booked schedule,planned gelman,developed births,reran births,scheduled month,andrew flowers,contributed')
+
+('VB', 'booked patterns,longterm')
+

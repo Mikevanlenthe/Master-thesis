@@ -1,0 +1,48 @@
+Article: tennis-time
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2209
+Raw number of types: 681
+Raw Type token ratio: 0.30828429153463105
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 993
+Number of types: 532
+Type token ratio: 0.5357502517623364
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, tennis, tick, tock, break, towel, thibault, camus, rafael, break, towel, thibault, camus, champ, rafael, slowest, djokovic, hand, foot, speed, speed, ball, racket, play, point, tennis, baseball, tennis, clock, keep, time, match, player, way, topic, year, play, darkness, rain, murray, friday, match, storm, time, force, winner, match, illustration, pace, fourset, speedy, roger, federer, gael, point, rafael, defeat, jack, sock, hand, point, serve, foot, knock, clay, hand, face, area, hand, shirt, forth, serve, shrink, time, rest, throw, play, television, patience, play, create, slowdown, sign, sport, question, match, time, access, tennis, analyst, jeff, sackmann, match, match, all4, effect, year, baseball, regression, match, building, point5, part, era, pete, success, andre, side, court, game, play, point, sound, number, match, fiveset, nadal, djokovic, game, speed, year, time, year, play, point, level, surface, clay, grass, time, require, recovery, clay, extreme6, year, surface, difference, dustin, player, point, difference, tournaments7, pace, time, number, player, pace, time, time, point, show, smartphone, stopwatch, function, serve, time, serve, time, analysis, point, correlation, time, part, time, company, time, djokovic, murray, join, lendl, john, mcenroe, albeit, career, percentage, speed, federer, wimbledon, champ, goran, analysis, player, pace, career, anyone, change, pace, play, pace, match10, time, lot, time, response, question, mine, news, conference, tour, umpire, enforcement, time, year, murray, mean, time, head, play, murray, nadal, time, today, pace, style, bernard, tomic, pace, way, throw, speed, everyone, rosol, czech, player, sam, querrey, get, wait, pace, play, washington, post, game, toss, matter, errant, monday, match, sock, news, conference, promote, pace, analysis, take, time, wimbledon, champ, play, agassi, player, fivesetter, fivesetter, watch, lot, tennis, champ, marin, half, time, chang, champ, pace, blame, guy, rafa, pat, cash, wimbledon, champ, sweatiest, history, game, time, walk, baseline, nonetheless, rush, player, era, cash, baseline, today, nothing, rally, breath')
+
+('NNS', 'matches, data, github, data, players, years, sets, players, lacks, floodlights, days, matters, matches, monfils, hours, minutes, seconds, points, minutes, seconds, seconds, parts, shoes, balls, others, shorts, ears, things, shorts, players, seconds, serves, slams2, players, opponents, games, sets, minutes, schedules, fans, matters, runs, men, years, rules, rallies, breaks, determines, data, points, factors, data, stats, years, men, stats, women, years, variables, factors, matches, games, blocks, findings, sampras, battles, seconds, amounts, minutes, points, hours, minutes, cries, umpires, violations, seconds, matters, tournaments, rallies, players, matches, seconds, years, estimates, players, events, players, points, stats, points, players, points, rallies, outliers, points, rallies, data, players, quantities, players, matches, puts, players, players, multipleslamwinners, connors, cohorts, times, players, players, maintains, years, years, years, rules, matches, seconds, tactics, things, questions, players, plays, points, opponents, spin, days, points, figures, spectators, sports, ones, players, servers, outliers, greats, seniors, explayers, hours, hours, minutes, days, players, michael, sweats, players, points, players, thinks, players, spectators')
+
+('VBP', 'take, github, rafael, start, roof, play, consider, add, racket, serve, exceed, stretch, match, atp, tour, take, length, tour, tour, tease, take, see, github, see, grass, sport, massu, take, break, fast, nadal, plays, check, add, jimmy, jim, find, know, think, request, know, serve, know, serve, push, ball, lukas, break, want, sense, bit, ivanisevic, coach, chang, relative, sport')
+
+('VB', 'bialik, get, squeeze, row, disadvantage, racket, add, good, take, play, play, engage, become, spend, serve, move, towel, slow')
+
+('VBN', 'filed, finished, set, required, cleaned, missed, cracked, bestoffiveset, remained, compared, expected, granted, supposed, squared, guessed, ended, used, protracted')
+
+('JJ', 'nadal, djokovic, french, open, nadal, djokovic, french, open, ninetime, french, open, last, faster, average, novak, average, gotten, andy, murray, long, long, long, finish, urgent, french, open, djokovic, semifinal, fourth, imminent, local, final, much, monday, paris, fast, nadal, fast1, usual, ritual, baseline, right, rubbed, forth, serve, second, grand, threshold, lose, first, tactic, several, slow, long, little, length, easy, big, github, last, enough, long, last, ran, long, uploaded, early, baseline, average, equal, much, extra, typical, australian, open, final, next, encouraging, call, worked, wimbledon, much, brown, github, much, official, affect, much, much, epic, slow, many, long, little, trusty, long, french, correlated, add, average, high, large, points8, slow, good, nadal, fellow, ivan, slow, relative, correlation, relative, great, ivanisevic, average, actual, vexed, topic, last, french, open, nadal, ump, upcoming, slow, much, slow, tired, australian, tomic, weapon, american, rhythm, long, querrey, annoyed, return, popular, good, ball, retired, joint, tournament, ivanisevic, fast, match, fast, open, cilic, french, open, ivanisevic, nadal, nadal, net, young, slow, wrong, break, long, catch')
+
+('VBZ', 'takes, plays, takes, plays, takes, wins, goes, takes, matches, affects, takes, serves, appears, encourages, takes, takes, monfils, play9, knows, plays, gets, wishes, rallies')
+
+('VBD', 'roger, slowed, played, suspended, finished, finished, took, went, tapped, rejected, offered, bounced, picked, dried, rocked, served, allowed, called, studied, posted, servedandvolleyed, rushed, sped, shifted, slowed, took, took, raised, answered, sped, posted, went, timed, took, took, showed, played, assumed, said, peeved, asked, removed, said, grew, asked, said, said, told, said, said, said, told, sped, hit, slowpaced, caught, said, liked, recalled, took, said, said, said, needed, taught, got, said')
+
+('JJR', 'federer, slower, fewer, slower, longer, less, less, bigger, courier, slower, quicker')
+
+('VBG', 'talking, talking, deciding, taking, including, picking, rocking, throwing, testing, enforcing, thrilling, using, stopwatching, correlating, starting, serving, capturing, using, suggesting, adding, playing, winning, pressing, interesting, talking, talking, taking, counting, thinking, going, mixing, changing, serving, waiting, forcing, playing, taking, defending, taking')
+
+('JJS', 'biggest, fastest, fastest, slowest, fastest, fastest, least, slowest, slowest, fastest, fastest, least, greatest, fastest, slowest, least')
+

@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1284
+Raw number of types: 286
+Raw Type token ratio: 0.22274143302180685
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token true true verbs \\ufeffpick kurkdjian logic classic favorite attic positive unique exclusive ordinal classic inclusive extra last previous certain fine primary many different legal many different general capable choose possible general equal last classic previous classic strategic distribute castle many previous many worth total excellent effective many possible poor perfect castle enough mathematical good riddler submit express folk candidate castle castle enemy enemy adjacent correct build choose give worst inducted cast converged token')
+
+('NN', 'analysis number number ratio lemmatizer stemmer article welcome slowpuzzle dust simple submission multiple atlarge choose select choose candidate give north conquer castle castle archenemy castle victory victory daniel troop number number riddler riddler4x3default illustration guillaume riddler week offer problem thing math probability type riddler express something movement submit either1 shoutout week column hint puzzle twitter riddler express abijith krishnan participatory problem submit integer person number winner order riddler nation submit number riddler itay number problem start integer organize chain rule chain number number chain factor example chain number place chain length chain credit number solution week riddler express congratulation snowmass village colorado puzzle town seat city commission voter vote election field candidate voter outcome advance election number candidate voter vote vote candidate vote vote vote candidate ballot candidate advance election candidate slot outcome solution week riddler congratulation josiah winner puzzle warlord archenemy victory point castle value conqueror victory point enemy victory point number troop point point news army loss battle order distribution opponent need point point solver jack markley description intuition solution knowledge battle figure strategy enemy case everything thing enemy point cost number point number number castle victory point distribution distribution distribution point solver daniel eriksson zack segel problem technique kind share code graph image simulation jack argument distribution program attempt distribution combat iteration band distribution roeder build matter deal dear winner rugby castle desire answer cooper soldier left split described analysis number number ratio')
+
+('VBG', 'preprocessing using using using intriguing voting collecting building leaving running excluding separating adding competing meaning involving requiring conquering using annealing representing preprocessing')
+
+('NNS', 'tokens types filters stopwords false nouns adjectives tokens submits arrives conquers people economics tokens types')
+
+('VBP', 'type select dakota collect castle need hold find start send make want need chainlink want send know want want want want conquer type')
+
+('VBN', 'token used related filed bitesized given required called provided ruled approached token')
+
+('VBD', 'separated spent edited finished started suffered simulated')
+
+('JJR', 'soldier soldier soldier soldier soldier soldier soldier soldier soldier soldier soldier soldier')
+
+('VB', 'reduce make find')
+
+('VBZ', 'sends jenkins')
+
+('JJS', 'lowest longest least')
+
+Token analysis after pre-processing 
+Number of tokens: 421
+Number of types: 250
+Type token ratio: 0.5938242280285035
+

@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 688
+Raw number of types: 265
+Raw Type token ratio: 0.3851744186046512
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 423
+Number of types: 341
+Type token ratio: 0.806146572104019
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'america,favorite,favorite,github,getty,sneak,recent,perfect,examine,first,surveymonkey,available,github,films,substantial,percent,likely,percent,percent,empire,episode,phantom,original,subset,favorite,overall,preferred,original,preferred,favorite,likely,phantom,likely,third,second,middle,third,third,fourth,bottom,third,second,nuanced,boilerplate,format,political,unfamiliar,actual,impact,historical,america favorite,least favorite,github github,chesnot getty,middling response,excuse examine,answers people,america realize,bunch which,wellliked hated,hated first,respondents available,available github,percent those,watched least,least films,incidentally substantial,compared percent,likely consider,compared percent,respondents which,films people,given given,strikes number,number people,followed episode,people reported,episode phantom,episode which,asked subset,every worst,calculated share,rated their,generally people,preferred original,original three,those preferred,preferred three,their favorite,those rated,often rated,second middle,middle third,fourth bottom,second worst,worst nuanced,boilerplate format,format political,unfavorably unfamiliar,rating actual,galaxy those,those impact,impact historical')
+
+('NNS', 'movies,characters,movies,images,films,movies,questions,answers,people,strikes,characters,respondents,respondents,women,people,women,respondents,people,strikes,people,people,respondents,respondents,people,camps,movies,prequels,people,strikes,prequels,shows,polls,characters,respondents,characters,favorite movies,favorite characters,under movies,costume series,getty images,fighter films,forthcoming movies,examine questions,wanted answers,empire strikes,which characters,surveying respondents,those respondents,percent women,consider themselves,percent women,asked respondents,subset respondents,share respondents,people films,broke camps,three movies,three prequels,empire strikes,chart shows,nuanced series,favorability polls,following characters,asked respondents,respondents characters,characters series,correctly binks')
+
+('JJS', 'least,least,least,worst,worst')
+
+('VBP', 'hickey,github,provide,america,bunch,consider,franchise,films,films,empire,please,movies least,characters hickey,movies github,caught sneak,people america,clearly bunch,women people,themselves franchise,which films,films overall,movies those,prequels people,strikes their,likely return,shows often,finally boilerplate,polls please,binks lower')
+
+('VBN', 'filed,caught,hated,compared,compared,given,given,rated,rated,hickey filed,images caught,percent compared,people followed,respondents indicated')
+
+('NN', 'datastarwarssurvey,costume,series,exhibition,cinema,saintdenis,france,chesnot,fighter,production,response,trilogy,excuse,empire,greedo,audience,seventynine,percent,question,difference,gender,percent,probability,someone,number,return,episode,menace,episode,movie,question,share,broke,return,menace,chart,series,favorability,state,himher,series,favorability,rating,personification,galaxy,revisionism,society,filed under,github datastarwarssurvey,datastarwarssurvey costume,during exhibition,exhibition cinema,cinema saintdenis,saintdenis france,france chesnot,xwing fighter,films production,response recent,recent trilogy,provide perfect,perfect excuse,realize empire,first greedo,greedo through,through surveymonkey,surveymonkey audience,github seventynine,seventynine percent,films question,substantial difference,difference gender,gender percent,percent least,franchise percent,responding probability,probability someone,given episode,episode empire,episode return,seeing episode,phantom menace,menace original,renamed episode,which movie,worst question,their favorite,favorite drill,people empire,rated phantom,phantom menace,higher chart,rated third,third second,third third,third fourth,bottom third,third second,political favorability,state whether,lower favorability,actual personification,personification galaxy,historical revisionism,revisionism society')
+
+('VBD', 'displayed,wanted,wellliked,watched,asked,followed,reported,renamed,asked,indicated,calculated,rated,asked,series displayed,questions wanted,characters wellliked,respondents watched,least compared,women asked,original renamed,movie asked,question calculated,respondents rated,those preferred,himher asked')
+
+('VBG', 'xwing,forthcoming,middling,surveying,responding,seeing,following,displayed during,sneak xwing,production forthcoming,movies middling,audience surveying,people responding,reported seeing,whether following,favorability rating')
+
+('VB', 'realize,drill,please state')
+
+('JJR', 'higher,lower')
+
+('VBZ', 'binks,empire strikes,likely prequels')
+

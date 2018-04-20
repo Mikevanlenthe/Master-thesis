@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 772
+Raw number of types: 254
+Raw Type token ratio: 0.3290155440414508
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VB', 'tag show')
+
+('JJ', 'tour represent hickey july stewart stewart formula list sometime dole show fifth percent military percent couple bos central started daily daily last prospective late daily unique political first several figure military consistent whole important last daily leary last affiliated guest comedian comedian politician mary monarch')
+
+('NN', 'stewart stewart show president stewart host york evan vucci episode tonight alma mater graduation school show audience member elizabeth washington metro record sanity part hell show list1 guests2 profile google knowledge graph3 chair everyone show talk show stewart shot figure program presence presence politico presence show time emphasis head government figure actor movie year actor plurality zakaria show denis time appearance march stewart tonight comedy walk shut meld showbyshow fusion today brian fareed year student friend way year friend year visit performer year medium author figure medium musician comedian appearance air feel year drop restore grace guest')
+
+('VBD', 'caught went attended pulled talked appeared came began crosschecked filed changed sucked left william')
+
+('JJS', 'guest guest guest guest')
+
+('VBZ', 'walt count')
+
+('NNS', 'data github people politics datadailyshowguests data people muppets politics')
+
+('VBP', 'github show show show roommate stewart look show show standard actor find appear')
+
+('VBG', 'taping leaving ending interesting taping featuring helping growing hosting happening filling showing promoting kicking begging')
+
+('VBN', 'jammed started changed started dominated subdued relegated outsized followed come')
+
+Token analysis after pre-processing 
+Number of tokens: 223
+Number of types: 161
+Type token ratio: 0.7219730941704036
+

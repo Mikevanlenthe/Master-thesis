@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1292
+Raw number of types: 448
+Raw Type token ratio: 0.34674922600619196
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 569
+Number of types: 258
+Type token ratio: 0.45342706502636204
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'evangel immigr recent chanc lose follow switch current futur measur pull convert present conclus american current practic american percent american religi unaffili unaffili american christian whole present present current whole gain skew small unaffili first unaffili unaffili cathol percentag larg nearli third american lose possibl nonchristian present persist normal analysi give religi modestli present christian percent present christian present current popul christian peopl evangel evangel twelv evangel increas lose fertil chang current fertil fertil black jewish orthodox christian unaffili religi current unaffili mainlin fertil fertil current strong evangel much convert odd child faith strong faith replenish lose diminish clear evangel discipl high wide correct previou second')
+
+('NN', 'protest winner peopl chang faith leah libresco file religion github github datapewreligion baptism religion unit state grow birth death mani factor report research center look detail religion gain member oldfashion recruit member look religion gain peopl chang faith use tape forward religion peopl rate model project account factor religion exert potenti today trend religi landscap survey ask respond religi tradit rais group religion gain member religi report household percent describ adulthood share drop percentag point percent birth percent highlight dramat tabl addit number help pattern tell stori denomin attract peopl loss number larg differ group gain unaffili place fact rais chanc stay percent peopl rais cathol stay percent accord half percent share adult point worth popul contrast rais cathol church half member amount group survey calcul religion includ religion settl steadi demograph distribut equilibrium logic trend emerg kind chanc zero factor drive religi chang recruit member retent exclud factor immigr doctrin shift model github today factor steadi america demograph stabl distribut unaffili gain ground percent percent denomin percent equilibrium redistribut group gain percent percent cathol half share percent percent evangel sect model tradit percent retent compar percent cathol percent mainlin protest attractor peopl leav faith accord rate percent peopl rais cathol wind percent peopl wind cathol flow mainlin evangel protest favor percent rais evangel mainlin congreg percent mainlin protest wind becom model reveal religion number effect play religion gain member member church rel share today popul chang share church tomorrow denomin substanti rate factor childbirth equilibrium state faiths3 religion portion popul equilibrium equilibrium buddhist cathol evangel protest hindu histor protest jehovah wit mainlin protest mormon muslim unaffili gain ground share popul fertil account kid rate replac child woman gain protest problem mormon factor fertil rate child woman compar model reveal tradit attractor peopl chang protest unaffili creat member member mormon muslim model cathol wind loser middl pack attractor peopl leav peopl share singl digit gainer protest unaffili nation draw rate rang faith version articl incorrectli cathol evangel thirdhighest fertil rate religion')
+
+('JJS', 'biggest protest best highest biggest biggest')
+
+('NNS', 'data data data data denomin data data data data convers convers multipli convers increas repres model convers deconvers convers data')
+
+('VBZ', 'rodrigo logic peopl extens data')
+
+('VBP', 'shrink offer churn collect start follow lose unaffili make lose come fertil faith differ differ make model churn whittl faith retain make make convert protest')
+
+('VBD', 'took lost kept studi found lost went held evangel tilt said')
+
+('VB', 'rise take take describ look check wind wind drop substanti hold benefit succeed')
+
+('NNP', 'unaffili')
+
+('VBN', 'born lost born born taken born')
+
+('VBG', 'swing')
+
+('JJR', 'easier fewer bigger stronger')
+

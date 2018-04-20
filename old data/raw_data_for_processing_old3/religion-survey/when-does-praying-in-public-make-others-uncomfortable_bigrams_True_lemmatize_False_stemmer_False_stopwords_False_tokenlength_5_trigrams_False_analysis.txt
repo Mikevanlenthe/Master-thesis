@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1066
+Raw number of types: 423
+Raw Type token ratio: 0.3968105065666041
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 763
+Number of types: 631
+Type token ratio: 0.8269986893840104
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'praying being using praying praying legitimizing anticipating loving treating showing being causing forthcoming trying creating seeing praying assuming witnessing saying making crossing thinking having being being laïcité,something around,being atheist,using ordinary,praying rosary,feeling response,anything person,praying thank,legitimizing offers,anticipating prayer,loving someone,treating christians,showing rejected,causing interviews,forthcoming christians,trying benedict,creating others,seeing about,praying subway,assuming oddest,thing comfortable,witnessing tried,making invisible,crossing kitchen,thinking strangers,having having,something table,being forks,being')
+
+('JJ', 'public uncomfortable coastal burkini france little intense church united religious freedom public religious public visible guess statistical religious nonreligious uncomfortable surveymonkey individual ordinary rosary offense wrong likely underestimate resembled david american christian different religious silverman religious dreher eastern orthodox christian cautious other atheist christian faith public offense follow spoke reluctant religious uncomfortable faith religious unbothered rosary wouldn percent nationwide comfortable navigate mixed implicit uncomfortable invisible visible tricky public tricky uncomfortable table other public participatory preparatory praying,public others,uncomfortable uncomfortable,often france,coastal ultimately,their something,little little,intense there,still whether,religious privately,church faith,public public,convert sides,awkwardness being,religious religious,public usually,decide kinds,visible offends,statistical sense,religious practices,nonreligious nonreligious,uncomfortable uncomfortable,asked asked,surveymonkey performed,individual course,ordinary praying,rosary groups,government worried,their cause,offense often,wrong about,which likely,underestimate silverman,president president,american atheists,these invitations,religious intolerance,christian hears,different change,religious praying,silverman legitimizing,their prefer,religious dreher,eastern eastern,orthodox orthodox,christian crunchy,cautious privately,friends christians,prayer treating,atheist neglected,christian faith,public forthcoming,benedict trying,follow follow,example thicker,between spoke,reluctant themselves,religious overestimated,uncomfortable faith,percent their,religious untroubled,nearly unbothered,looks praying,rosary assuming,wouldn extremely,comfortable comfortable,these fewer,percent found,navigate navigate,saying where,implicit extremely,uncomfortable uncomfortable,someone prayer,invisible under,table about,visible tricky,public affection,tricky makes,uncomfortable uncomfortable,reach explain,between between,table other,public feels,participatory participatory,preparatory')
+
+('NNS', 'others believers images weeks towns habits states sides kinds faith experiences others sensibilities practices questions groups scenes protests responses christians actions actions hackles christians others invitations feels people offers reactions cares christians friends christians interviews christians believers signs christians others markers christians clothes threequarters atheists agnostics looks atheists agnostics circumstances christians groups agnostics meals displays friends strangers forks feels conversations public,others often,believers getty,images coastal,towns considered,habits united,states still,clashes freedom,means decide,kinds visible,faith based,experiences about,others guess,offends statistical,sensibilities religious,practices answer,questions carried,groups nativity,scenes courthouse,protests protests,responses github,christians their,actions which,actions raise,hackles hackles,christians discomfort,others american,atheists these,invitations conversion,feels about,offers anticipating,reactions friends,cares atheist,friends experience,christians offense,interviews spoke,christians between,believers world,professionals religious,signs discomfort,christians uncomfortable,others seeing,markers percent,christians religious,clothes nearly,threequarters threequarters,atheists atheists,agnostics percent,atheists atheists,agnostics these,circumstances percent,christians mixed,groups atheists,agnostics before,meals public,displays friends,strangers something,makes being,forks prayer,feels preparatory,conversations conversations,friends')
+
+('VBP', 'expect august burkinis awkwardness decide atheist courthouse github raise religious prefer respect silverman prayer spark fewer prayed believers,expect images,course affair,church states,burkinis clashes,about means,freedom experiences,atheist others,guess questions,about scenes,courthouse responses,github might,cause likely,raise others,response ideally,prefer people,respect reactions,silverman cares,about believers,strength professionals,dreher religiosity,spark markers,faith agnostics,nationwide circumstances,fewer agnostics,survey')
+
+('NN', 'libresco religion github github datareligionsurvey patrick getty course france beach consistency court controversy commitment something secularism deputy mayor france religion street freedom worship church freedom practice convert catholicism atheism discomfort guess sense audience panel answer prayer believer course feeling acquaintance government nativity discomfort response anything invitation prayer silverman president intolerance silverman change person conversion corner thank religion silverman author crunchy someone dreher experience benedict option example benedict thicker strength engage world religiosity discomfort percent jewelry subway thing someone percent prayer grace invitation prayer survey someone grace prayer table kitchen anyone religiosity affection alienate something reach listen church explain grace prayer expect,libresco filed,under under,religion religion,github github,github github,datareligionsurvey datareligionsurvey,patrick patrick,getty course,weeks weeks,august august,france burkinis,beach habits,consistency their,burkini burkini,struck struck,court court,controversy controversy,sprang sprang,france france,commitment commitment,laïcité intense,secularism secularism,deputy deputy,mayor explained,france france,religion religion,affair church,street religious,freedom freedom,worship church,freedom freedom,practice practice,faith convert,catholicism catholicism,atheism awkwardness,discomfort discomfort,around using,guess guess,about commissioned,better better,sense surveymonkey,audience audience,panel panel,answer individual,believer believer,course feeling,acquaintance government,nativity offense,often wrong,about underestimate,discomfort resembled,invitation invitation,prayer prayer,david david,silverman religious,intolerance christian,silverman different,change religious,person silverman,conversion backed,corner corner,thank their,religion religion,silverman religious,people respect,dreher christian,author cautious,about loving,someone christian,dreher dreher,experience showing,their their,faith public,being causing,offense benedict,option example,benedict creating,thicker strength,engage engage,world dreher,spoke signs,religiosity spark,discomfort clothes,jewelry jewelry,would looks,right right,about rosary,subway thing,someone someone,sixtytwo sixtytwo,percent guessed,observer their,prayer saying,grace implicit,invitation invitation,prayer someone,grace grace,before making,prayer crossing,myself myself,under table,kitchen whether,anyone anyone,about visible,religiosity displays,affection tricky,alienate reach,listen throughout,church church,explain lifted,grace grace,other public,prayer')
+
+('VBN', 'filed banned struck banned based asked rejected thought spotted guessed haven lifted libresco,filed street,united burkinis,banned might,performed anything,resembled observer,spotted christians,prayed prayed,guessed')
+
+('VBD', 'considered sprang laïcité explained commissioned carried worried seemed backed neglected spoke overestimated sixtytwo found tried towns,banned beach,considered mayor,explained faith,based sensibilities,commissioned rather,carried christians,worried christians,seemed feels,backed badly,neglected being,rejected dreher,spoke christians,overestimated christians,thought would,untroubled agnostics,unbothered haven,found grace,mixed meals,tried being,lifted')
+
+('VBZ', 'clashes means faith atheists hears friends professionals atheists makes friends atheism,sides silverman,hears other,christians reluctant,themselves nearly,atheists religiosity,tricky alienate,friends')
+
+('JJR', 'better')
+
+('VB', 'performed cause untroubled comfortable silverman,still would,comfortable')
+
+('JJS', 'oddest wouldn,oddest')
+

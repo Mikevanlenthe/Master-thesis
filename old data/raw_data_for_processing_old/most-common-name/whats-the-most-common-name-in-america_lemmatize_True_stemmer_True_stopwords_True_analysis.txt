@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2080
+Raw number of types: 612
+Raw Type token ratio: 0.29423076923076924
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 847
+Number of types: 380
+Type token ratio: 0.448642266824085
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dear mona common america illustr dear common first lastnam common north yorkshir real want last name american descript piec name surnam smith third common full tri conclus common first social minni aliv born bo similar typic american popular first tend ethel live includ count start countri foreignborn name common correct much common sure popular first unadjust calcul american first name2 femal le girl whole american first percent american appear next american last publish present american past ethnic ethnic adjust surnam exampl white surnam white sinc overal white overal major percent white clear come much common american surnam first surnam total rare hear adjust last independ guess american particular first lastnam relat common first last multipli littl mislead chart first wrong basic certain first last know surnam equal american publish racial ethnic percent american white hispan first american last spanish southern first lastnam white basic littl strong racial ethnic first last exampl american rodriguez american basic simpl underestim particular togeth american le bold unpopular probabl notic wire ethnic highli unlik probabl american percent appear blow huge last statist certain first certain last adjust simpl hartman basic america second smith common full accord nearli mean common combin overal georg uniqu andrew')
+
+('NN', 'name mona chalabi file hope number help github github joel plosz illustr joel plosz mona combin unit state john smith realli name dear headscratch list time money work togeth separ databas explain stitch togeth easili john name america probabl colleagu sophist techniqu reach name america smith name secur administr databas date problem sadli none babi today death account number babi year sinc use actuari life tri figur mani nate silver use methodolog look variou name factor life name time woman name name chunk peopl percent popul name databas babi name focus immigr hispan latino half popul mostcommon state calcul factor base name state hispan methodolog detail footnotes1 hispan latino reflect result name america accord number name male name distribut name diffus statist jargon parent imagin name name name list surnam censu bureau straightforward databas number surname3 problem nomenclatur year account breakdown popul breakdown individu surnam number instanc growth racialethn group surnam smith percent garcia percent hispan number smith rate popul percent ditto garcia hispan share name garcia hispan rate caus reshuffl surnam hispan popul popul period proport share garcia popul share smith mani fashion rate america surnam mile smith johnson tricki number name probabl divid number peopl countri show chanc call michael chanc surnam smith figur call michael smith multipli someth column methodolog crap death rate immigr popul growth treat person name name variabl number combin roll dice name illustr point name probabl neat highli look import reason demograph fact name distribut censu bureau surnam group show surnam percent surnam fact name intuit probabl call year hartman associ professor illinoi test intuit hartman idea look combin page websit simpl probabl captur realiti probabl mark hartman choos name tabl use censu record look differ show factor name thoma name assum likelihood name chanc name percent call thoma rodriguez search whitepagescom hartman number peopl phonebook name percent probabl probabl preval name use hartman matrix click expand gem chart reveal idea assum name order number call john johnson david davi thoma thoma william william simpl probabl alliter mark martin daniel davi parent pick name list improb name combin factor simpli detect matter name plan daughter mine event chang lott surnam john smith phone book simpl probabl suffer figur histori name becom clichéd bynam bland step account fact chanc name john chanc name estim name account research combin probabl result michael drop name place bypass jame dramat chang exampl accord independ probabl maria garcia name maria smith hartman correl percent maria garcia skyrocket name post use analysi github page number help incident probabl peopl name unit state move reckon mona question send dearmona fivethirtyeightcom datalab538')
+
+('VBD', 'andrew georg set andrew brittani took found name4 grew grew grew countri togeth heimerl simpl found rodriguez thoma found thank comput andrew rose surnam placehold took smith')
+
+('JJR', 'flower better answer flower younger consider higher better easier slower lower lower flower fewer answer')
+
+('NNS', 'data data data data vari data abl data maria data data divers surnam maria maria univers pretti combin data maria data')
+
+('VBP', 'datamostcommonnam go realiti differ think look expect expect correct need make popul make immigr move tend tend look assum go tend turn probabl think martinez emeritu tri independ appear extend call independ take smith expect garcia expect hope suggest')
+
+('NNP', 'kieron kieron')
+
+('JJS', 'least')
+
+('VB', 'abl make jame take chang go crap take 5940 suggest suggest suggest suggest rank kieron like')
+
+('VBN', 'christen born given')
+
+('VBZ', 'instanc abl rezendiz offens doubl le')
+

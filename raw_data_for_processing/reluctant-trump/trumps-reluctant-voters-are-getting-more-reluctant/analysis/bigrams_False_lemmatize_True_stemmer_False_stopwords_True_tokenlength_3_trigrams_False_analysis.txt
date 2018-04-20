@@ -1,0 +1,47 @@
+Article: reluctant-trump/trumps-reluctant-voters-are-getting-more-reluctant
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2844
+Raw number of types: 679
+Raw Type token ratio: 0.23874824191279886
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 1194
+Number of types: 475
+Type token ratio: 0.39782244556113905
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'aug, trump, voter, fivethirtyeight, trump, administration, datareluctanttrump, week, voter, trump, transcript, micah, cohen, editor, time, today, something, trump, speech, arizona, tuesday, night, pleasing, supporter, use, talk, trump, voter, administration, speech, bannon, departure, clare, group, definition, claremalone, clare, malone, writer, le, brand, party, vote, president, cast, ballot, micah, perfect, batch, surveymonkey, group, adult, aug, aug, gon, result, talk, onebyone, direction, direction, voter, vote, trump, vote, trump, direction, direction, answer, adult, source, surveymonkey, difference, claremalone, trump, someone, avenue, number, trump, clinton, course, change, administration, accomplishment, name, problem, sense, voter, harry, harry, writer, fan, direction, direction, question, percent, sample, country, direction, mean, trump, sample, view, trump, voter, silver, editor, clare, trump, resort, state, country, direction, number, behavior, harry, hug, micah, harry, nothing, love, micah, approve, way, president, job, voter, vote, trump, vote, trump, disapprove, adult, source, surveymonkey, harry, trump, voter, time, june, percentage, trump, voter, president, job, percentage, point, percent, slide, cut, point, nothing, alienate, fact, number, bit, surface, supporter, percent, trump, percentage, percent, performance, harry, percent, june, claremalone, note, survey, charlottesville, arizona, speech, micah, trump, reelection, group, lukewarm, harry, vote, trump, candidate, voter, kick, part, lot, trump, chance, prevail, time, majority, trump, voter, percent, claremalone, candidate, yeah, question, minute, president, reelection, voter, vote, trump, vote, trump, answer, survey, adult, source, claremalone, point, question, voter, punditize, skip, vote, trump, resign, sort, mechanism, end, point, sort, consequence, trump, behavior, micah, speaking, election, today, voter, vote, trump, vote, trump, trump, vote, trump, someone, someone, adult, source, surveymonkey, claremalone, percent, something, fan, someone, opponent, look, approval, rating, harry, someone, dream, john, rubio, penny, michael, question, election, return, question, kind, democrat, joe, voter, someone, claremalone, fan, voter, sense, harry, case, vote, percentage, approval, trump, voter, voter, micah, mean, harry, trump, voter, trump, vote, point, dream, candidate, micah, question, talk, bit, president, trump, office, penny, voter, vote, trump, vote, trump, president, president, president, trump, answer, adult, source, surveymonkey, micah, question, right, harry, thing, trump, voter, respondent, penny, question, view, penny, rating, trump, voter, percent, penny, rating, percent, trump, supporter, trump, supporter, trump, micah, penny, natesilver, yeah, hell, tbh, claremalone, mike, penny, presidency, tea, partier, term, tea, party, thing, office, leader, trump, way, sort, bit, player, role, playing, scene, making, lot, change, president, penny, candidate, penny, thing, harry, reason, trump, wonder, percentage, penny, question, voter, trump, micah, bid, andor, challenge, natesilver, repeat, time, voter, clinton, trump, exit, poll, percentage, point, trump, voter, split, vote, point, college, margin, claremalone, kinda, ripe, rossperotredux, harry, run, micah, part, question, surveymonkey, poll, bannon, departure, steve, bannon, departure, administration, voter, vote, trump, vote, trump, answer, adult, source, number, harry, nothing, lack, divide, trump, voter, claremalone, bannon, shadow, president, trump, administration, guess, bannon, man, base, trump, voter, president, everything, fact, voter, le, claremalone, bannon, breitbart, base, sort, natesilver, trump, voter, poll, percent, case, trump, voter, view, impact, bannon, medium, influence, steve, bannon, administration, voter, vote, trump, vote, trump, influence, amount, influence, influence, answer, adult, source, surveymonkey, harry, trump, influence, amount, claremalone, yeahhhh, immigration, trump, someone, anyone, trump, change, behavior, micah, takeaway, trump, trump, group, month, approval, question, effect, midterm, claremalone, house, vote, place, voter, le, matter, view, trump, longterm, success')
+
+('JJ', 'reluctant, reluctant, donald, top, crucial, micah, weekly, little, different, reluctant, arizona, give, senior, political, white, welleducated, loyal, republican, new, right, wrong, trump, right, wrong, huge, fifth, mean, reluctant, trump, hillary, result, legislative, serious, organizational, unenthused, senior, political, right, wrong, interesting, overall, right, reluctant, average, voter, average, enthusiastic, nate, chief, agree, last, happy, sure, right, next, trump, last, early, reluctant, substantial, sorta, trump, worse, appear, reluctant, percent, aftermath, trump, reluctant, lukewarmness, unwillingness, democratic, trump, republican, partisan, instinct, trump, clinton, willing, dynamic, unlikely, next, conservative, percent, conservative, enthused, difficult, imagine, democratic, micah, likely, trump, likely, likely, likely, ask, gon, uptick, wishful, democrat, reluctant, republican, sort, excited, vote, reelect, huge, hypothetical, unnamed, guess, general, clare, moderate, harris, fic, particular, reluctant, trump, want, nate, bannon, trump, trump, different, reluctant, noteworthy, excited, separate, favorable, reluctant, great, comparison, favorable, nonreluctant, reluctant, generic, republican, generic, republican, generic, glad, potential, darn, conservative, long, likely, sort, generic, conventional, reluctant, shielded, right, sure, headline, presidential, bigtime, social, conservative, clear, conservative, reluctant, kasich, independent, primary, statistic, trump, worth, net, candidate, popular, point, electoral, decent, perot, last, trump, different, surveymonkey, mean, notexcited, american, narrative, sure, excited, loyal, light, outweigh, reluctant, moderate, bannonish, website, powerful, percent, reluctant, conservative, surveymonkey, le, moderate, republican, realistic, last, much, trump, trump, much, enough, interesting, nonexcited, likely, enough, right, harry, sure, enough, main, reluctant, big, conduct, white, nervous, first, focus, trump, unto, important')
+
+('VBG', 'getting, going, feeling, writing, feeling, hoping, going, voting, boring, boring, handling, talking, thinking, deciding, coping, leaning, voting, voting, matching, asking, saying, thinking, longing, seeing, according, interesting, leaving, polarizing, making, interesting')
+
+('VBD', 'filed, helped, edited, seemed, wan, middleaged, got, headed, excited, excited, interviewed, voted, worried, said, voted, excited, excited, interviewed, enthused, tested, voted, fielded, said, disliked, let, excited, excited, interviewed, surveymonkey, straight, noticed, held, excited, interviewed, bloomberg, excited, got, excited, excited, interviewed, asked, wrote, became, disliked, went, disliked, lost, excited, excited, interviewed, excited, thought, described, described, excited, excited, interviewed, trump')
+
+('VB', 'get, check, put, prove, trump, shoot, love, take, see, enten, tell, disapprove, approve, feel, approve, approve, disapprove, mean, run, translate, take, hold, lure, come, ask, call, trump, vote, vote, vote, imagine, lure, vote, kamala, approve, mike, trump, see, better, want, democrat, get, take')
+
+('NNS', 'data, github, data, politics, politics, politics, charlottesville, data, people, people, people, people, depends, people, trump, people, others, democrat, trump, republican, trumpers, people, people, trump, trump, people, people, others, data, people, people')
+
+('VBP', 'github, chat, welcome, wake, steve, throw, make, make, know, expect, agree, translate, agree, win, say, le, think, run, feel, reelect, tell, mike, manchin, think, make, reelect, wait, harry, mean, want, think, prefer, penny, want, think, leave, make, buy, think, move, steve, think, oppose, micah, seem, find, say, say, think, moderate, want, make, stand, harry, want, stay, trump')
+
+('VBN', 'aimed, devoted, excited, polled, given, demonized, removed, asked, trump, based, nuancedlayered')
+
+('NNP', 'november, kasich')
+
+('JJS', 'biggest, midwest')
+
+('VBZ', 'harry, seems, marco, resigns, becomes, couple, seems, seems')
+
+('JJR', 'higher, voter, smaller, worse, worse, bigger, worse, worse, worse')
+

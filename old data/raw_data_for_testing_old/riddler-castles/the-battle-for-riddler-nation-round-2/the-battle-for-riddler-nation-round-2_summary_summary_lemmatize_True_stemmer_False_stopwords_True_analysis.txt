@@ -1,0 +1,19 @@
+Token analysis before pre-processing 
+Raw number of tokens: 9
+Raw number of types: 7
+Raw Type token ratio: 0.7777777777777778
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'riddlerdriverbattlarebeissubmithawinexpresshavecarpoolpercentpointscastlsoldierdriveticketit castlesdistributplanweek iwantanswergetpuzzlcollectworkchanctimechance licenskingqueenvictorienemisendsolutcongratulwinnerformsquarstripamnation roundedit')
+
+Token analysis after pre-processing 
+Number of tokens: 5
+Number of types: 5
+Type token ratio: 1.0
+

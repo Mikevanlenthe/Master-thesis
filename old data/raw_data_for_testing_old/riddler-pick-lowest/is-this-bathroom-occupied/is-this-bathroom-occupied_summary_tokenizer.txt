@@ -1,0 +1,28 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1521
+Raw number of types: 508
+Raw Type token ratio: 0.3339907955292571
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('NN', 'bathroom##riddler##illustration##guillaume##riddler##week##offer##problem##thing##hold##math##probability##type##riddler##express##something##riddler##movement##submit##either1##shoutout##week##column##hint##puzzle##find##twitter##riddler##express##chris##game##potato##class##child##game##circle##thing##coin##potato##game##progress##teacher##toss##coin##pass##head##tail##game##end##child##potato##winner##child##chance##change##circle##word##child##probability##submit##riddler##dave##moran##puzzle##work##break##bathroom##office##building##toilet##sign##door##slide##door##sign##slide##exiting##assume##bathroom##user##notice##sign##sign##visit##thing##visit##user##notice##sign##enter##slide##exit##make##sign##slide##exit##bathroom##time##question##workplace##situation##bathroom##sign##door##probability##bathroom##sign##probability##bathroom##credit##percentage##bathroom##user##change##submit##answer##solution##week##riddler##express##congratulation##massachusetts##winner##week##inductee##order##riddler##nation##week##integer##person##number##number##mitchell##choice##number##fact##number##submitter##logic##submission##le##arbiter##riddler##nation##induction##process##spammer##number##solution##week##riddler##congratulation##england##winner##week##start##integer##organize##chain##rule##chain##number##number##chain##factor##example##chain##number##place##chain##length##chain##build##number##path##problem##path##number##repeat##number##number##factor##isar##bhattacharjee##illustration##problem##trial##chain##length##clever##approach##guess##chain##method##winner##chain##example##solver##submitter##argument##chain##none##argument##example##chain##program##language##problem##program##sagemath##matlab##credit##chain##number##chain##number##insight##riddler##submit##email##oliverroeder##fivethirtyeightcom')
+('VBD', 'occupied##left##occupied##occupied##read##occupied##read##read##asked##explained##worked##broke##excluded##left##sent##topped##found##took##existed##found##created##claimed##found##built##found')
+('VBN', 'edited##filed##bitesized##held##declared##stuck##submitted##ended##submitted##bored##finished##connected##called##known##offered##submitted##written##found##called##cautioned')
+('VB', 'roeder##handle##forget##say##forget##think##adjacent##build##mean##solver##turn')
+('JJ', 'kurkdjian##welcome##related##logic##classic##slowpuzzle##next##favorite##dust##attic##special##teacher##potato##coin##come##come##classic##perfect##next##small##outside##vacant##else##unfortunately##slide##vacant##read##make##sure##occupied##vacant##conscientious##sure##occupied##enter##vacant##assume##half##occupied##occupied##vacant##vacant##extra##conscientious##last##last##puzzle##inaugural##ordinal##last##positive##unique##submission##high##popular##round##certain##avoid##small##single##last##classic##last##classic##puzzle##inclusive##multiple##tough##find##multiple##general##algorithm##educated##computational##path##convincing##small##clingo##combinatorial##optimal##extra##specific##long##alight##mathematical##tricky##riddle')
+('VBP', 'dear##want##correct##need##thornett##stand##hold##forget##read##mitchell##cambridge##make##birmingham##want##appear##kaseorg##know##want')
+('JJR', 'answer')
+('VBG', 'collecting##playing##holding##winning##depending##entering##entering##exiting##entering##remaining##winning##zooming##including##getting##building##leaving##trying##taking##using##using')
+('VBZ', 'coin##seems')
+('NNS', 'people##happens##arthur##james##solve##others##james##anders##anders##others##anders')
+('JJS', 'lowest##longest##longest##biggest')
+
+Token analysis after pre-processing 
+Number of tokens: 489
+Number of types: 287
+Type token ratio: 0.5869120654396728
+

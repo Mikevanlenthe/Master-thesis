@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2431
+Raw number of types: 762
+Raw Type token ratio: 0.3134512546277252
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 1033
+Number of types: 506
+Type token ratio: 0.4898354307841239
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'classic green right classic classic ozzi classic green american classic first classic anyon listen probabl experi hear classic precis classic massiv analysi classic happen hous tricki classic deep current classic classic metropolitan clean uniqu classic certain chang live necessarili classic influenc unexpect popular frequent frequent classic pull abl releas earli vast major earli classic huge floyd dark classic hous yellow small last actual metallica last wave current classic classic popular sound bunch artist classic eric classic clear own classic releas song classic grow longev select regular major listen classic genr standard familiar whole cluster classic classic consum classic weeklong observ frequent spin classic nearli classic classic musician classic next mostplay citi zeppelin tampa special everi classic exampl hard southern common englishlanguag significantli classic citi artist classic local classic detroit classic geil histori institut nope dead cavalierli analysi worth digitaln classic own huge entail echo clear classic floyd orbit figur genr math complic mcdonald differ collect listen read read entri much legal interpret artist similar essenti artist point cluster listen histori softwar mcdonald evalu loud bounci particular minut classic classic much rare detect actual drum minor mimic human unmechan dead mcdonald clear classic chang hard next classic direct eventu come babi classic correct stori classic classic fivethirtyeight classic')
+
+('NN', 'rock use walt hickey file music zeppelin play rock radio station band music differ decad getti imag rock mötley crüe osbourn child doubt band rock shock mani idiot rock station week shock time hear band rock music period time moment colleagu gun rock station rock turn amount algorithm figur question start band intent becom rock sort figur genr band fit techno part music busi identifi rock particularli challeng constantli move target differ kind music lump togeth banner peopl choos music radio internet stream servic solv problem reveal connect music state rock unit state look monitor rock radio stations1 countri area week june2 result substanti list uniqu song artist total record code song play station rock music depend play york disproportion amount billi joel exampl antonio mötley crüe rock heavili region way exampl angel play pearl band time rest countri boston play brother time today rock timelin list year song music databas songfactscom complet coverag abl accur year percent song percent song plays3 earliest song date beatl song kink booker number song rock peak song play fair year side moon album rock stapl holi elton john goodby brick road trend period account percent song play besid trickl music onward trickl green song inspir articl year dent list larg group consid rock clearli song rock matter band factor consid rock wellman rock brand manag channel radio station program director york rock station waxq wellman year rock abil genr base consum thing fact radio station use decis wellman radio compani resourc conduct studi market consid rock consum help industri day music test auditorium music test gather sampl rate song base hook part song slew wellman station peopl music core rock rock realli simpl wellman consid rock mostplay song radio station studi period play artist roll stone togeth account half rock station percent band play station percent song show rock core cool quantifi rock compar station play rest countri demonstr definit rock chang citi list look artist find play disproportion pack move york percent song waxq stand eagl wxgl station charact inform audienc rock station massiv amount market research figur song play wellman rock come accord wellman play role hispan unit state vastli chang rock landscap convent wisdom hispan rock harder brand englishlanguag rock market influenc migrat state role billi joel york anywher disproportion play miami think rock station miami retir yorker look rock station play disproportion region rock click imag citi rock station philadelphia prefer style rock band beatl citi favor contemporari radio station knowledg decid role songpick station compani chang song fireabl wellman ruin magic6 focus radio station decad decid startup stream servic defin rock echo spotifi use gener song part work place artist genr core methodolog use differ channel pick center rock center radio station base interview music test glenn mcdonald charg algorithm echo goe use start artist math extrapol rest center mcdonald order defin genr relationship artist reli mountain user histori machin read chart review blog post news allow read input relat show music point space everi point genr point form addit webcrawl echo use sophist musicanalysi figur qualiti differ song look genr tempo energi danceabl song electr genr defin electron music finit rang paint stroke rock rock mcdonald wider rang tempo power drum machin person base imperfect tempo beat drum time giveaway agre channel wellman rock genr thing defin rock steel time waxq tomorrow econom wellman boomer advertis demograph year thing chase rock start skew juli footnot version list incorrect call number rock station monitor houston kglk kkrw mostplay rock hit song rock playlist spotifi')
+
+('VBD', 'left grew rose made someth found steadili whop spoke said said said said made said said play said said said beat said said said')
+
+('VBN', 'made heard held given listen read')
+
+('NNP', 'zeppelin zeppelin zeppelin mcdonald xer')
+
+('VBP', 'hear relat collect hear prefer appear pink make nirvana make make find make make find find make find say essenti cooler go play stay appear prefer understand listen immigr influx listen countri artist find prefer tend think tend play know collect reach recommend talk artist find echo wikipedia exampl see spare echo go listen')
+
+('JJR', 'refer wonder answer bigger larger older broader younger')
+
+('NNS', 'data data data releas releas releas releas data data data els petti els data data univers univers data articl univers mcdonald dens')
+
+('JJS', 'largest least nest nest nest nest nest nest')
+
+('VBZ', 'larg longev legaci reli offens dimens dimens')
+
+('VB', 'defin play listen show zeppelin find develop read know happen make happen advertis')
+

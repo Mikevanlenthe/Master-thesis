@@ -1,0 +1,46 @@
+Article: puerto-rico-media/the-media-really-started-paying-attention-to-puerto-rico-when-trump-did
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 530
+Raw number of types: 237
+Raw Type token ratio: 0.44716981132075473
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 400
+Number of types: 210
+Type token ratio: 0.525
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'media, data, data, weeks, media, locations, hurricanes, sources, things, maria, days, media, levels, hurricanes, got2, outlets, efforts, media, efforts, statements, rico, workers, weeks, headlines, data, headlines, headlines, weeks, headlines, statements, polls, people, events, networks, times, media, months, organizations, decisions, people')
+
+('VBD', 'started, did, fivethirtyeight, found, had, hit, had, went, had, made, started, started, wasn, went, made, suggested, blasted, said, set, mentioned, mentioned, mentioned, mentioned, visited, mentioned, mentioned, saw, visited, was, was, highlighted, had, struck, mentioned')
+
+('VBG', 'paying, following, talking, covering, following, being, ticking')
+
+('NN', 'attention, puerto, rico, trump, mehta, puerto, rico, github, github, datapuertoricomedia, analysis, puerto, rico, coverage, hurricane, maria, week, data, puerto, rico, morning, wasn, monday, island, get, attention, president, twitter, account, coverage, puerto, rico, coverage, hurricane, devastation, president, trump, puerto, rico, debt, feud, mayor, juan, help, recovery, effort, coverage, fake, twitter, hurricane, average, quarter, news, puerto, rico, trump, percent, texas, aftermath, hurricane, harvey, percent, florida, hurricane, irma, president, island, week, territory, day, trump, proportion, trump, texas, florida, coverage, criticism, president, behavior, criticism, response, way, administration, puerto, rico, crisis, president, approval, rating, hurricane, story, news, president, coverage, rico, cnn, msnbc, did3, puerto, rico, recovery, attention, news, making, coverage, president, trump, rico')
+
+('VB', 'dhrumil, didn, reach, influenced, continue, have, keep, dedicated, devoted')
+
+('VBN', 'filed, published, received, gotten, changed1, hurricane, sustained, referenced, engaged, handled, been, covered')
+
+('VBP', 'get, see, have, recover, trump, weren, show, disapprove, have, give, puerto')
+
+('JJ', 'oct, other, powerful, same, landfall, wednesday, full, burst, other, controversial, puerto, san, puerto, rican, willing, unfavorable, online, immediate, last, positive, federal, slow, several, recent, downward, other, fox, favorable, puerto, merit, many, much, much')
+
+('JJR', 'higher, fewer')
+
+('VBZ', 'has, tends')
+

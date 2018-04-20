@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1837
+Raw number of types: 535
+Raw Type token ratio: 0.29123571039738705
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags pollsters reputations pollsters media midterms things results years indicators rates rogers caucuses primaries votes panels polls votes predictions associates seats think pollsters reputations data data datapollofpollsters years losers pollsters people twothirds questions people responses pollsters pollsters strands media moments polls results moments media organizations polls pollsters aggregators polls media reports claims pyramids americans pollsters polls polls methods respondents media pollsters calamities pollsters data scientists scientists pollsters innovations data effects people people rates years pollsters polls results failures rates reasons pollsters people polls results media pollsters media makers polls polls findings pollsters states states pollsters numbers pollsters voices pollsters polls polls polls supporters people pollsters polls pollsters voters media polls matchups pollsters seats pollsters pollsters polls pollsters politics organizations pollsters factors images leads improves drives misses polls remains suggests')
+
+('VBP', 'carl atlanta israel work harder electorate contention stand vote harry vote leve senate make know think find tell expect declines interviews trump republicans republicans find believe continue know know acknowledge hold julia')
+
+('JJ', 'bialik perdue getty trump tactic good grain carvalho towery savvy recruitment midterm jill iowa test iowa nevada online experiment fivethirtyeight primary blum primary christie aggregate lindsay expect unsure marco balanced advised kentucky rubio past prominent public public prolific prominent political public positive classic many much last second third uncritical outlandish many outlandish wrong interesting barbara several several natural kyle several positive negative nick global missed recent dramatic predictive several different ipsos dependent recent political undue notable immediate next next primary third live interactive much open reluctant preferred republican national national slim helpful national hypothetical hillary presidential hillary democratic republican surprised read')
+
+('NN', 'election github github hank schwab campaign worn support david jason getz election campaign nation image election none image dozen pollsters1 perception election twitter account work everyone questionnaire github list footnotes2 criticism industry election story marist college accuracy story election opinion field selection everyone image dropp morning consult computer innovation industry shape year question industry shape voter technology response gourevitch strategy response election harbinger response rate threat borick college electorate response group election study respond matter clark election accuracy team work institution methodology concern accuracy yorker article scientist monstrosity certainty poll majority policy emphasis blueprint policy selzer selzer majority world poll month caucus system hampshire iowa calendar state vote colleague telephone trump voice response question support type poll morning consult question trump liveinterview trump candidate person candidate bush primary series state majority critique something mood country weprin meaningless majority attention generalelection clinton donald stage race story election race control number majority race anyone clinton opponent cruz chris trump gilmore election coverage polling combine overstate disagreed guide harry cast improved meant store reach reach buffer skew company imagine name poll online study control atlanta miss year egypt highprofile matthew scrutiny group chris accuracy expertise majoritarian firm helpful iowa liveinterview trump unsure micheline surveyusa tight house prior found found')
+
+('VBG', 'gathering polling quantifying polling polling polling polling polling forecasting materializing evolving declining ignoring according working measuring shaping feeling using tarnishing filtering polling lumping nailing succumbing declining trying citing overseeing polling finding polling affecting paying covering')
+
+('VBD', 'declined blum answered worsened declined dipped narrowed surprised disagreed said said said responded said said said said said increased said said said said said said wrote said said said said said said said')
+
+('VBZ', 'donald wants votes sins critiques polls outfits distorts remains follows')
+
+('NNP', 'muhlenberg')
+
+('VBN', 'filed improved used blamed blamed recorded taken named named named named hold asked posed blamed covered acknowledged agreed pointed responded pointed asked noted found trusted predicted predicted thought')
+
+('JJS', 'toughest best least least')
+
+('JJR', 'better higher older lower worse worse')
+
+Token analysis after pre-processing 
+Number of tokens: 602
+Number of types: 374
+Type token ratio: 0.6212624584717608
+

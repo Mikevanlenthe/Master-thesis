@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 993
+Raw number of types: 475
+Raw Type token ratio: 0.4783484390735146
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 558
+Number of types: 375
+Type token ratio: 0.6720430107526881
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rise terrorism religion france carl bialik terrorism github github dataterrorism carillon cafe thibault paris friday terror quarter century france terrorism database rock concert dinner restaurant tunisia birthday figaro president hollande state series france knife dijon akbar incident month newspaper kosher supermarket responsibility june state state sympathizer cutter rifle train anyone wave violence union police organization separatism france year terrorist property europol number paris attack2 rise terrorism number fight state france population onefourth fight state number state estimate france august state france attack suspect belgium passport michael advisor president corp email interview number france syria number surveillance terrorist activity intelligence surveillance dangerousness predict contributing factor prevalence france survey country finland cyprus france greece croatia ireland latvia belgium luxembourg slovenia denmark italy malta ireland portugal slovakia england romania availability number security director foundation thinktank interview collapse yugoslavia europe europe madrid hostage crisis school beslan london tube plane year board plane week board state responsibility plane crash article coverage debate')
+
+('VBN', 'inspired filed killed killed combined blamed afflicted tied claimed compiled committed targeted killed died gone traveled fight carried gone returned suspected made been killed')
+
+('NNS', 'data data attacks camus attacks authorities people lives acts victims countries scores sisters attacks acts months attackers tours organizations attacks people links passengers americans acts stats incidents attacks separatists attacks people people attacks attacks experts residents residents people fighters attacks authorities numbers jenkins numbers others thousands services resources choices guns arms data people austria wales netherlands weapons plots weapons networks hands attacks incidents deaths attacks bombings events years bombings people officials flowers')
+
+('VBZ', 'parisians sites represents europol remains comes firearms czech')
+
+('JJ', 'front saturday terrorist previous terrorist french other previous global eating cambodian french islamic inspired terrorist last last december allahu great terrorist satirical branch islamic august islamic separatist political inspired european inspired last many french terrorist corsican recent separatist arson terrorist half friday terrorist large french syria islamic oneeighth onethird islamic islamic april january unclear islamic friday arrested syrian french overwhelmed brian senior possible involvement difficult potential small available sweden germany northern republic estonia hungary lithuania unrestricted terrorist gohel international asiapacific email former surplus various criminal ended terrorist other deadly recent oslo ukraine last russian last islamic live second democratic')
+
+('VBP', 'tribute have paris continue have have france point have have travel terrorism rand include have have have have switzerland spain scotland poland sajjan occur deadliest train europe include russia suspect')
+
+('VBD', 'said injured claimed came were were were were yelled appeared killed beheaded thwarted were died motivated climbed linked found said said aided said traded killed killed shot crashed brought claimed andrew contributed')
+
+('JJR', 'more larger fewer higher')
+
+('VBG', 'according attending celebrating according using planning visiting killing according including according being preparing according following plotting bombing shooting killing killing')
+
+('JJS', 'least latest most most latest')
+
+('VB', 'françois shift keep rest check')
+

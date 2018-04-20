@@ -1,0 +1,45 @@
+Article: nfl-elo
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 960
+Raw number of types: 399
+Raw Type token ratio: 0.415625
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 497
+Number of types: 295
+Type token ratio: 0.5935613682092555
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'rate, team, decade, play, method, elo, measure, strength, gamebygame, result, elo, rating, game, league, history, rating, team, rating, average, league, expansion, team, start, rating, methodology, game, result, profootballreferencecom, championship, bowl, league, title, bowl, era, football, league, football, professional, football, association, allamerica, football, conference, franchise, football, history, game, team, zoom, history, professional, football, franciscos, run, history, england, patriot, bowl, win, season, calculate, dynasty, count, patriot, elo, rating, stretch, league, history, stretch, francisco, elo, average, season, playoff, time, game, time, patriot, elo, rating, time, start, season, childhood, tom, bill, cowboy, project, history, oct, dallas, team, football, record, season, cowboy, werent, fan, reason, trade, cowboy, bowl, herschel, walker, minnesota, exchange, bevy, player, pick, emmitt, smith, safety, tackle, russell, contributor, dallas, walker, carry, yard, season, deal, history, payoff, wasnt, cowboy, season, bottoming, elo, rating, playoff, year, bowl, season, title, cowboy, elo, rating, championship, game, gain, point, year, bay, time, packer, history, anyone, bay, packer, championship, team, bowl, era, merger, team, existence, reminder, longevity, football, chance, bay, wisconsin, bear, title, super, bowl, era, peak, elo, season, team, packer, success, peak, brett, championship, season, bowl, bay, figure, aaron, team, start, peak, history, fan, miami, dolphin, didnt, wait, success, dolphin, year, season, bowl, perfect, record, team, history, year, miami, backtoback, championship, title, game, team, resurgence, bowl, loss, curve, way, jacksonville, jaguar, lesser, florida, team, jaguar, year, creation, elo, rating, week, season, afc, championship, game, revival, decade')
+
+('JJ', 'simple, total, elo, average, nfl, league, read, super, win, pro, super, national, american, league, american, defunct, pro, choose, favorite, entire, san, incredible, new, super, last, become, nfl, average, seasonending, belong, san, san, franciscos, born, nfls, entire, brady, arent, cowboy, much, optimistic, pro, defensive, huge, full, lopsided, nfl, immediate, super, january, green, good, long, green, super, nfls, green, chicago, slate, modern, january, squad, nfc, green, early, dolphin, early, nfl, super, next, peak, height, complete, high, miami, historical, comparable, peaked, lose, brief')
+
+('VBN', 'based, set, returned')
+
+('VBD', 'calculated, expanded, played, selected, tried, made, racked, sent, led, became, surpassed, finished, cared, dominated, came, captured, emerged, came, favreled, matched, led, joined, made, reached, led, went')
+
+('JJR', 'higher, lower, winner, answer, super, super')
+
+('VBG', 'depending, including, excluding, rebuilding, coming, giving, running, drafting, running, viking, following, living, reaching, edging, winning, winning, hitting, thrashing, hitting')
+
+('VBP', 'include, woodson, maryland, make, win, pro')
+
+('JJS', 'least, greatest, best, best, highest, best, least, worst')
+
+('VBZ', 'depends')
+
+('NNS', 'championship, 49ers, darren, theyd, rodgers')
+
+('VB', 'peak, belichick, gotten, franchise, dolphin')
+

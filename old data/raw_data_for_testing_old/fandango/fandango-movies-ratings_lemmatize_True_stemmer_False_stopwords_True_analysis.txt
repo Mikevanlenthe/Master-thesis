@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 2656
+Raw number of types: 735
+Raw Type token ratio: 0.2767319277108434
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'suspicious online fandango fantastic excited restaurant fantastic great good average decent decent online serious rotten tomato aggregate overall poor single critic critic professional several popular rotten tomatoes1 different similar full consistency5 perfect enough useful fandango nbcuniversal fivethirtyeight weird fandango user connected immediate couple decent right percent impossible fandango seventyeight good live charitable imdb metacritic aggregate metacritic rotten critic rotten normalized rounded imdb metacritic ballpark unsurprising fandango metacritic critic metacritic rotten tomato rotten tomato devoted favorable rightward clear le unfair emailed star scale wrong average user average website aggregate spot next showtime increment fandango pull website maximum ratingvalue normal rounded user round expect fandango mobile extreme code ultron ratingvalue full sample ratingvalue mean percent halfstar equivalent occasion clear avenger rounded fandango second decimal clear first decimal entire likely whole fandangocom average normal average fandango public forth general logic next emailed algorithm website possible mobile apps true several high innocent good skeptical website major american similar good federal deceptive endorsement promote mary specific present important online hickey last long nash track hard critic start reasonable indicative online freelance critic useful heuristic tongueincheek critical metacritic critic inaccurate todd vanderwerff good personal true subjective')
+
+('NN', 'movie rating walt hickey movie github github datafandango avenger date dinner movie date star yelp movie ticket fandango website check thing star movie movie movie rating business hollywood something order office online rating aggregator sway money site movie review rating weekend movie break film amateur site rating system metacritic2 imdb3 film review site criterion review system value continuum rating scale4 attempt limit deliberate interference ratings6 rating system sound subsidiary rating system movie get star analysis score fandangocom aggregate user review site review medium industry fandango interest desire movie company ticket consumer month colleague film rating fandango look film fandangocom ticket sale year check github something film rating percent rating movie standard movie user reviews9 none film rating percent rating star movie society rate film review site film user rating critic rating user score tomato tomatometer score tomato user score fivestar rating scale halfstar10 rating rotten tomato star rating imdb rating percent time aggregate score percent time user score percent time critic score percent time user score percent time sort reason score site competitor movie couple hour life opinion work shift fandango curve moviegoer version syndrome rating system movie star fandango offer explanation site user rating system access customer profile engagement behavior speculate rating differ fandango statement intent purpose fandango thing rating issue methodology rating website film page user rating star film poster area star fivepoint scale halfstar beneath star rating list number review film html source page information monday film star review information html backend page rating star minimum score star sense thing code page star system site halfstar case rating star fandango ratingvalue number star page film sample review page source rating round moment case avenger ultron monday film star review page avenger star meaning halfstar kind effect board breakdown fandangocom system film occasion quarter time number star movie average rating occasion percent time fandango occasion time fandango star rating12 score13 point percent time fandango system halfstar film rating ultron star time place ratingvalue html code place occasion film star case movie review average rating movie fall half star film user review movie star system practice relation coordinator alison meulen email star half star example star site company disparity example system practice software glitch site star rating system half star half star company statement fandango plan fandango logic film flag company fandango score skew website fandangocom methodology example online movie rating company ticket kind survive ticket seller reason issue site figure something trade commission consumer anticompetitive business practice pay attention rating product user rating consumer truthful nonmisleading engle division advertising practice comment company investigation expectation company user rating movie vacation purchase consumer issue review purport point walt world online review wisdom http servecastfirecoms5l8r1audio2600169whatsthepoint2015102216210964kmp3 subscribe fivethirtyeight movie studio look year release strategy movie playing time wordofmouth country office analyst office today theater weekend opening review effect idea studio promote film fandango case problem limitation movie rating film kenigsberg shorthand reader kind movie aggregator nation number finality site culture editor voxcom sense answer movie question look math head reality experience')
+
+('VBN', 'filed reviewed built built pulled compared paid flawed round given expressed pulled listed listed gained presented shown gained found represented related used based taken created based')
+
+('NNS', 'data data fandango people generates data data fandango people data schema data stars11 directs nowadays electronics podcasts operates data rotten')
+
+('NNP', 'ultron')
+
+('VBD', 'picked checked bought decided thought blamed said skewed started noticed received asked looked seemed focused mortdecai pulled stockholm analyzed said found fandango fandango displayed received fandango rounded pulled found pulled handled occurred rounded added added happened happened rounded asked said rounded described rounded round said told said displayed checked raised starbased unnoticed said said said said focused accused said said added')
+
+('VBG', 'playing going increasing opening aggregating picking combining according writing finding using aggregaterating according rounding according rounding rounding rounding rounding including juicing saying rounding rounding rounding returning rounding using rounding rounding rounding rounding rounding rounding selling missing using saying looking releasing building getting opening hitting looking inventing looking boiling')
+
+('VBP', 'become hold go make maintain fivestar fail fandango make bell earn fandango say make expect think include require display know know review crowd matter bruce thenumberscom think seem think think come tomato feel somehow')
+
+('VB', 'thousand sell review higher take round take expect round round ratingvalue show website material extreme')
+
+('JJR', 'fewer higher higher higher higher higher')
+
+('JJS', 'least nearest nearest least nearest highest nearest')
+
+('VBZ', 'provides appears halfstar appears appears protects adparamszones')
+
+Token analysis after pre-processing 
+Number of tokens: 1040
+Number of types: 503
+Type token ratio: 0.48365384615384616
+

@@ -1,0 +1,48 @@
+Article: buster-posey-mvp
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1121
+Raw number of types: 443
+Raw Type token ratio: 0.3951828724353256
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 520
+Number of types: 331
+Type token ratio: 0.6365384615384615
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, buster, posey, pitch, framing, baseball, get, github, github, buster, posey, franklin, fangraphs, player, mike, bryce, harper, lack, war, buster, posey, mvp, war, detect, league, pitch, framer, posey, mvp, candidate, basis, percent, league, average1, percent, percent, average, value, player, posey, contender, version, war, catcher, art, pitch, way, cause, umpire, call, strike, talent, zone, zone, ability, turn, framing, framer, year, season, posey, value, win, worth, manipulating, posey, understand, posey, pitch, quality, example, pitch, pitcher, chris, heston, posey, notice, motionless, posey, body, impact, pitch, notice, zone, pitch, plate, posey, team, backup, number, susac, cost, effect, susac, pitch2, pitch, posey, strike, susac, ball, difference, technique, susac, zone, manner, watch, pitch, bit, journeyman, mlb, catcher, jason, kendall, thing, pitch, ability, reputation, argument, technique, opportunity, confirmation, creep, framer, way, greatness, technique, location, strike, zone, number, code, calculate, amount, movement, frame, pitch, caught5, sample, ability, contrast, pitch, posey, grade, motionless, susac, framing, catch, posey, susac, momentum, ball, motion, ball, posey, stiller, stage, catch, posey, ball, pause, throw, comparison, ball, briefly, susac, posey, method, stillness, force, posey, motion, susac, tranquility, factor, contender, mvp, war, war, technique, account, posey, player, baseball, right')
+
+('VBZ', 'makes, begins, happens, balls, scares, comes, remains, posey, tries, moves, stays, accelerates, transitions, holds, falls, suggests')
+
+('JJ', 'potential, san, francisco, ross, top, replacement, valuable, comparative, san, francisco, secret, skill, harper, begin, defensive, current, posey, important, defensive, good, lessoptimal, impact, good, significant, good, entire, total, good, good, stillness, absorbs, appear, umpire, valuable, susac, leagueaverage, half, overall, similar, posey, exaggerated, posey, level, former, difficult, previous, posey, actual, exact, strict, total, many, factors4, total, second, small, good, good, simple, quiet, dampen, tenth, second, videos, return, motionless, short, good, pattern, relative, extra, posey, legitimate, fangraphs, win, defensive, trout, harper, careful')
+
+('NNS', 'mvp, data, data, giants, catches, wins, candidates, giants, possesses, accounts, framers, pitches, strikes, pitches, batters, pitches, estimates, wins, runs, win, catchers, strikes, umps, balls, umpires, framers, calls, catchers, veterans, coaches, giants, pitches, pitchers, words, lifts, differences, strikes, studies, anecdotes, reasons, terms, receptions, criteria, catches, catchers, framings, places, catchers, pauses, catchers6, strikes, becomes, skills')
+
+('VBP', 'rob, databusterposeymvp, ball, find, catcher, look, turn, keep, add, earn, call, get, posey, strike, see, ball, get, catcher, catcher, gifs, know, posey, susac, receive, agree, say, posey, posey')
+
+('VBN', 'filed, called, drags, taken, called, called, jagged, stolen')
+
+('VBG', 'leading, hitting, framing, receiving, opposing, swinging, making, framing, putting, framing, starting, making, receiving, pulling, standing, framing, chalking, framing, looking, complicating, trapping, snatching, quieting, returning, extending, driving, framing, contrasting, framing, framing')
+
+('VB', 'deserving, consider, consider, glove, glove, disprove, kendall, quantify, throw, help, explain, unnoticed, take, best')
+
+('JJS', 'best, best, least')
+
+('JJR', 'better, higher, framer, less, better')
+
+('VBD', 'put, racked, wanted, described, crossed, andrew, received, argued, relied, found, took, limited, removed, wrote, noted, susac')
+

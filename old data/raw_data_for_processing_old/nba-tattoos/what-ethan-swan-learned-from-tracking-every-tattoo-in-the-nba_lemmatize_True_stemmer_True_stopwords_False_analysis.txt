@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3360
+Raw number of types: 1023
+Raw Type token ratio: 0.3044642857142857
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 1620
+Number of types: 776
+Type token ratio: 0.47901234567901235
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBD', 'ethan knew said earli swan kept said wrote heard told famili told felt were were swan befor found grew found said said were came bought comput shot stood rose everi knew wrote made were wrote took were thought said knew told thi gave wright thought left left left left left spent made said bought went told tore told said made wrote found were said were were meant made found andrew gave')
+
+('NN', 'swan learn track everi tattoo wilson file tattoo github github datanbatattoo chri swan allison michael swan couldn player tattoo section barclay center brooklyn swan wasn lebron jame chri bosh swirl music note tiger deron william basketbal tattoo swan player everi team point year net floor thi game onli livingston blank canva realli certainli season player tattoo letter bibl number roll royc logo game fanboy project rife list superl mock athlet tattoo choic swan blog protest kind judgment opinion thi way judg player thing take randi foy denver nugget tattoo leagu period game swan foy father die year mother walk birthday foy pictur tattoo chest today person life foy onc interview heart section swan ask verdict year swan encount bête piec yahoo player ball hog guy rebound passer ethan tattoo root guy ethan swan allison michael tattoo arm chest hair manner impress space call mission road angel york work depart museum contemporari art1 colleagu interest swan learn earli import empathi york child activist parent father volunt corp becam teacher mother practition educ swan punk commun empathi everyon trade tape zine friend countri urg favorit band record store work impuls share help decis catalog time watch basketbal import particip work life clearli pattern philadelphia root iverson shoulder bore cross dagger word onli surviv iverson onc bodi tattoo base player point leagu alter cover hoop iverson bodi wouldn show busi dress code player answer dress guy dress hiphop murder suit connect punk iverson tattoo person word player swan love trevor ariza getti imag tattoo databas swan stream game watch spreadsheet tattoo player throw becaus zoom swan search photo tattoo player athlet twitter tattoo museum confront search shirtless swan post complet list tattoo count player tattoo percent player year tattoo percentag year swan predict tattoo imagin tattoo import miami heat look turtleneck cover recov drug addict atlanta hawk demarr carrol portrait tattoo brother die brain tumor trevor washington wizard honor brother tajh fall hotel year team tattoo york reason tie laker player team curri wilson chandler nate robinson harrington quentin richardson heavili tattoo guy uniform year idea doe happi limit remark player wolf chest killer instinct swan justthefact approach piec call dragon tattoo list player tattoo quip author thi william peanut collag lincoln tattoo deshawn stevenson neck mostmock tat writer crack play lincoln benjamin swan disappoint tattoo method distanc player author treat line themselv player mention evid player ignor touch lincoln tattoo look dude tattoo bonker wore lebron dirk tast bare world heart world deserv pa action mani time peopl joke tattoo stori realiti onli peopl doing4 onc somebodi reddit link blog headlin tattoo percentag team somebodi research ink magazin interview dorel ghost tattoo shoulder friend stop tri swan player doesn twitter doesn team spokespeopl inform season simpli googl everi player word tattoo describ thi task unfun thi season swan count player year befor disappoint number deshawn stevenson getti imag game ask swan shirt undershirt tattoo ghost button shirt reveal rabbit wrap ribbon heart insid ala sister initi shoulder heart bear album cover punk band misfit rabbit homemad word babi fox absent insid rooster match sister year jordana year share interest histori punk rock travel month bicycl franc togeth riverbank sometim encount sketchi peopl eye jordana tattoo help franc gauloi peopl sinc revolut approach swan love talk birthday knick ticket rememb jame drop point birthday game year jordana consult name tattoo becaus peopl jordana brooklyn leav master program sociolog health issu sandi york couldn cope week storm ethan call hospit jordana overdos die month move california couldn york anymor meet mani sibl anderson swan wife year phone angel kind magic anderson sister year alcohol someon thing take person fire interest right ethan jame getti imag dure year swan tattoo googl yahoo tat stat player reveal sweat contributor yahoo voic argu player seek glori pointscor player selflessli rebound hand assist sweat claim player point game season visibl tattoo kevin durant count player cover tattoo assist rebound leader stat origin skin visibl tat serv purpos invit world attent tell ask hear swan didn simpli player tast bodi player tattoo piec sweat number bum swan couldn immedi disprov room begin yahoo piec plot lead scorer tattoo therefor tattoo player passer point scorer weren guy score help team visibl tattoo player sport score player visibl score point player piec offer evid none realli analysi ask colleagu carl bialik help player swan databas tattoo use basketballreferencecom carl career regularseason stat player separ player group center subgroup combin stat categori person threepoint shoot result none comparison differ percent tattoo player point group forward tattoo per48minut rate assist steal rate field goal attempt carl regress stat player tattoo connect stat control player posit stat relationship5 email sweat result leader season day game swan breakfast diner pancak share player tattoo point decid smile littl smile thi project randi foy trevor deshawn stevenson chri demarr carrol tattoo friend ethan swan heart jordana thi gnarli world swan whisper fist pump')
+
+('JJ', 'mike ethan ethan ink obvious imag playoff nobodi databas everi angel antidot internet articl ugliest small reflex enough thi total meaningless swan heartbreak unfold stori randi finish need dark come noir egotist selfless wrong swan belli trim quiet perform south live educ nurs revolut outrag much much consciou other fit earli live allen strong shit mean edgi larg white tattoo black institut casual guy swan basketbal obscur other drawn defiant earli subscript laptop open learn free camera follow alert anthoni first next banal document upperbodi wear freaki swan brief essay knick whatev tattoo eddi other knick last drive recent swan individu harrington great snarl text thi grantland3 publish other horribl follow screenwrit medic leagu real use spectat tattoo stevenson problemat arrest father thi whole other notic assign sixer swan hard netsheat tattoo lift belli open imag bunni warm other right right polar thi song violenc belli thi chest final sleep safe aspir togeth knick swan blog live struggl mental hurrican swan actual sibl lose becom want live first stori writer unink stat teamori categori sweat bodi draw individu visual nobodi unsettl critic other becaus plenti skeptic squareinch evid selfish clear teamori individualcent onli wrong stat foul major selfish other final statist signific mere statist netsheat swan good good ariza absent warm littl')
+
+('NNS', 'data data getti chines vers someth data argu visibl tattoo eas manag els someth respons someth mani tshirt respons expens data wors skyscrapers categori premis know tattoo offens turnov didn coffe')
+
+('VBP', 'imag orenstein shaun jersey have have have use orenstein give galleri peac angst think find look worri target archetyp know googl chri make die end starburi wear have make peanut say know go write tattoo littl show say abigail friend start tell know die want live haven have lebron collect alert think andrew pull play look seem peopl conclus wasn fouryear calcul twopoint argu stress write mean andersen tell')
+
+('VB', 'skull get probabl import attach stori move root keep defend talk come featur drive tattoo accept remind want ask swan get break gnarli make misshapen keep tattoo call search talk check requir look be stori')
+
+('JJS', 'least worst most rochest rochest easiest closest littl least')
+
+('VBG', 'wing meaning')
+
+('VBN', 'put assert spectat done known andersen written told spoken taken come believ read built')
+
+('JJR', 'more shoulder younger brother sister more more deeper more higher answer')
+
+('VBZ', 'inspir murder carmelo swan someth contact die repres lebron jordana realli exactli becaus tattoo mani thi carl')
+
+('NNP', 'examin')
+

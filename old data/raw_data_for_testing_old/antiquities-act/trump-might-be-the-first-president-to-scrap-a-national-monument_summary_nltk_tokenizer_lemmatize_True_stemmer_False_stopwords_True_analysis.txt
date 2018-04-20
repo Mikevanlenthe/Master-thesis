@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 951
+Raw number of types: 275
+Raw Type token ratio: 0.2891692954784437
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'tag github wednesday utah hatch land half threshold monument half executive trump interior conservationist monument designate abolish first national interior national recent national national former final large utah federal national congressional national national national nonprofit public national many national national national legal national national small federal states3 national national several past subject overall several federal national different western natural geological national regional local public national much special public federal joint public recent symbolic american national popular newssurveymonkey february national recreational many first national protected mean bear conservative monument scholar bear monument respondent conservative conservative bear ear teddy')
+
+('NN', 'trump president monument ella koeze trump administration president trump executive order department monuments1 trump willingness monument status monument president barack site month administration creation monument government overreach approval president protection site president site status conservation association group conservation land monument status congress president monument status fact power monument status point monument designation ground share government executive order government land responsibility country giant park pristine state survey database state land land designation monument kind protection land government designation government reign land order power nation trump office administration order rule protection water trump resolution coal land order indication trump administration conservation poll percent land percent amount percent land home land popularity conservation fact secretary zinke montana bos president scrap review alter damage address rescind cover review reshape review dataantiquitiesact site trump trump executive trump ryan teddy freer receive disagree support predecessor site president antiquity monument park activity park site kind site case antiquity president monument antiquity monument administration acre agency monument agency agency area activity bullet land body company policy park activity roosevelt roosevelt kept ear cover fall nnps land zinke')
+
+('NNS', 'data data thanks data others others data cattle people maintains evaluates')
+
+('VBP', 'github lead operate ear make teddy park acre lure park mean aggregate offer')
+
+('VBD', 'land4 roosevelt revoke repealed signed took took said said said')
+
+('JJS', 'west west largest latest')
+
+('VBG', 'drilling logging fishing hunting fishing instructing signaling including preventing according testing including depending determining including grazing using making rejecting')
+
+('VBN', 'filed published created signed revoked collected revoked redesignated protected owned designated established managed owned allowed owned signed conducted protected protected designated raised called used issued established')
+
+('VB', 'remove')
+
+('VBZ', 'appears promotes owns extends')
+
+('JJR', 'smaller easier')
+
+Token analysis after pre-processing 
+Number of tokens: 374
+Number of types: 205
+Type token ratio: 0.5481283422459893
+

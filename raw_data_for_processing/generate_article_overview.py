@@ -10,6 +10,8 @@ from nltk import FreqDist
 from collections import defaultdict
 import argparse
 import errno
+import itertools
+
 
 def find_files(directory):
     paths = []
@@ -199,9 +201,19 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
         #     c_article1[stemmed] += 1
 
         ######################################################
+        #create directory name to store analysis
+        new_filename = str(filename[1])
+        new_filename = new_filename.split("/")
+        new_filename = "".join(new_filename[1:-1])
+        if not os.path.exists(new_filename+"/analysis/"):
+            new_filename = str(filename[1])
+            new_filename = new_filename.split("/")
+            new_filename = "/".join(new_filename[1:-1])
+            os.makedirs(new_filename+"/analysis/", exist_ok=True)
 
         # write article summaries
-        with open("."+filename[1]+"_"+filter_name+"_analysis.txt", "w") as outfile:
+        with open(new_filename+"/analysis/"+filter_name+"_analysis.txt", "w") as outfile:
+            outfile.write("Article: "+new_filename+"\n\n")
             outfile.write("Tokenized by nltk.word_tokenize \n")
             outfile.write("Token analysis before pre-processing \n")
             outfile.write("Raw number of tokens: "+str(raw_total_tokens)+"\n")
@@ -210,14 +222,14 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
 
             outfile.write("Applied pre-processing:\n")
             outfile.write("Lowercased all tokens \n")
-            outfile.write("Tokens below minimum length: "+str(minimum_token_length)+" filtered out\n\n")
+            outfile.write("Tokens below minimum token length "+str(minimum_token_length)+" filtered out\n")
             outfile.write("Punctuation filtered out "+str(removed_punctuation)+"\n")
             outfile.write("Words filtered out: "+str(removed_article_words)+"\n\n")
 
-            outfile.write("Applied filters:\n")
-            outfile.write("Using stopwords filter = "+str(remove_stopwords)+"\n")
-            outfile.write("Using lemmatizer = "+str(use_lemmatizer)+"\n")
-            outfile.write("Using stemmer = "+str(use_stemmer)+"\n\n")
+            outfile.write("Applied filters: "+filter_name+"\n\n")
+            # outfile.write("Using stopwords filter = "+str(remove_stopwords)+"\n")
+            # outfile.write("Using lemmatizer = "+str(use_lemmatizer)+"\n")
+            # outfile.write("Using stemmer = "+str(use_stemmer)+"\n\n")
 
             outfile.write("Token analysis after pre-processing \n")
             outfile.write("Number of tokens: "+str(total_tokens)+"\n")
@@ -242,12 +254,9 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
     print()
 
     # write general overview
-    with open(filter_name+"_general_analysis.txt", "w") as outfile:
+    with open("general_analysis"+filter_name+".txt", "w") as outfile:
         outfile.write("NOTE: All tokens converted to lowercase!\n")
-        outfile.write("Filters:\n")
-        outfile.write("Using stopwords filter = "+str(remove_stopwords)+"\n")
-        outfile.write("Using lemmatizer = "+str(use_lemmatizer)+"\n")
-        outfile.write("Using stemmer = "+str(use_stemmer)+"\n\n")
+        outfile.write("Applied filters: "+filter_name+"\n\n")
         outfile.write("Raw 100 most freq tokens: \n"+str(c_raw.most_common(100))+"\n\n")
         outfile.write("Processed 100 most freq tokens: \n"+str(c_processed.most_common(100))+"\n")
 

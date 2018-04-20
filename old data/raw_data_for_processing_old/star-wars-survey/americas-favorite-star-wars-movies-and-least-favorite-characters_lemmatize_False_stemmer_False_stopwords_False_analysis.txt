@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 688
+Raw number of types: 265
+Raw Type token ratio: 0.3851744186046512
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 356
+Number of types: 195
+Type token ratio: 0.547752808988764
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'america favorite favorite getty sneak peek recent perfect many wellliked hated solo surveymonkey available github substantial star percent likely percent star original overall preferred original preferred likely phantom likely third second middle third third fourth bottom third second nuanced political unfamiliar actual know historical')
+
+('NN', 'star hickey costume star series exhibition cite cinema saintdenis france chesnot week fighter star production forthcoming response trilogy excuse america empire bunch shot greedo poll audience june seventynine percent star question difference gender percent film film consider percent probability someone star film star film star empire film number return jedi star phantom menace star star hope movie subset star film question share film favorite rate empire favorite rate return jedi menace film rate chart film take series boilerplate format favorability state view himher rate series favorability rating personification evil impact revisionism society')
+
+('NNS', 'wars movies characters movies data github data datastarwarssurvey wars images wars movies questions answers people wars fans strikes respondents data respondents wars wars women people women respondents people wars wars wars strikes people wars people wars wars wars respondents wars respondents people films fans camps movies prequels people strikes prequels polls characters respondents characters')
+
+('VBP', 'least walt github yoda films provide star realize films have have franchise films have episode episode episode episode have hope please read galaxy want have')
+
+('VBN', 'filed displayed seen compared seen compared seen seen given given seen seen asked seen rated rated rated used')
+
+('VBD', 'caught wanted said watched were asked followed reported renamed indicated rank calculated broke said were were took asked')
+
+('VBG', 'xwing middling surveying responding seeing following')
+
+('VB', 'examine rest drill find')
+
+('VBZ', 'does characters shows binks')
+
+('JJS', 'best least least most best best best worst')
+
+('JJR', 'higher lower')
+

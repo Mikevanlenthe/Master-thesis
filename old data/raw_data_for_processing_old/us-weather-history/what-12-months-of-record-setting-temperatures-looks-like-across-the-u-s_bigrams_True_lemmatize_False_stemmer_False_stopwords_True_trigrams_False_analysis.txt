@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1041
+Raw number of types: 719
+Raw Type token ratio: 0.6906820365033621
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 727
+Number of types: 601
+Type token ratio: 0.8266850068775791
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'months temperatures data feels states temperatures temperatures times months temperatures cities charts temperatures dots days temperatures waves days carolina days highs days chicago temperatures digits days temperatures cities temperatures charts months cities waves snaps records others parts recordsetting temperatures temperatures looks year feels united states high temperatures recordsetting temperatures of temperatures large cities these charts actual temperatures indicate days for its justright temperatures four days record highs the 90s had a five days had an single digits two days s temperatures other cities had temperatures these charts many cities heat waves cold snaps set records but others different parts has consequences climate  best to')
+
+('VBG', 'recordsetting saying recordsetting recordsetting setting beginning setting recordsetting studying of recordsetting report saying even recordsetting these recordsetting days setting the beginning december setting a recordsetting consequences lasting when studying')
+
+('VBZ', 'looks angeles highs consequences record  janjune 2015 record for day in only a los angeles heat waves record highs upper 90s with 12 end of when temperatures few of didn  differently and that ')
+
+('NN', 'randy olson data github github datausweatherhistory year administration report half june record world year janjune period record globe stateofclimate http tcodjwfrfmmjp pictwittercomxpj8rfr8bs july fact period july june detail york chart show range year city record blue year city story tell2 chart expand yearround justright heat year record temperature june year record seattle winter record spectrum houston part spike november houston aggregate hottest record city heat climate change country climate view months of across the the us by randy randy olson weather get get the the data data on on github github github github data data at at datausweatherhistory jul  facebooktwitteremail if if this normal  s not oceanic and atmospheric administration administration just a report first half half of was the the warmest january to to june june on on record of the the world the western experienced aboveaverage aboveaverage or year  such period period on on record for globe globe  noaanceiclimate  stateofclimate http http  tcodjwfrfmmjp pictwittercomxpj8rfr8bs pictwittercomxpj8rfr8bs  july 20 fact  the 12month period from from july july 2014 through june june 2015 was the the warmest warmest ever recorded  i was curious to to see like in in more more detail detail  so i famous new new york chart to to show the past past 12 months of handful of of large the us1 the record record   average high and low  normal range range  the past past year for each each day each city city  dots indicate a new new record record low low  blue  high  even if if it it was tie with with a year  each city city has has a story to to tell2 tell2  click each each chart chart to to expand expand  its yearround several heat year   march march  particular  the temperature charlotte  june this this year year  setting record the upper  seattle warm winter winter  days since since the of december a record record high high  other end the spectrum spectrum  february  to single reached a houston  the average the most most part part  for an an odd cold spike spike in however  consistent as as houston houston  in aggregate clear  these last last 12 months  or last last six hottest on on record record  in every every city in the the us as houston houston  did not general  climate change change is affect different the country lasting beyond beyond a hot or day  s why why  the broad broad view view ')
+
+('VBD', 'filed experienced looked experienced soared experienced cold reached examined experienced what 12 olson filed datausweatherhistory published  2015 just released that the of 2015 world   2015 ever recorded i updated  red  had temperature soared carolina  seattle experienced chicago had days reached average for six  cities experienced is expected or cold')
+
+('JJR', 'weather filed under the other')
+
+('VBN', 'published released recorded updated returned expected western united  experienced temperatures looked temperatures returned i examined')
+
+('VBP', 'hotter weather show indicate march make cold houston take hotter than you  states  temperatures this noaa  temperatures for cities across charts show in each days when temperatures  days with highs when highs in digits and temperatures sat odd cold in november cities i were as charts make city in waves and that set others  parts of a single to take')
+
+('JJ', 'normal national oceanic atmospheric january western united high noaanceiclimate noaa curious famous past handful large record average high normal actual high previous unique click famous several particular charlotte north uncomfortable upper warm high february single average cold consistent clear last last many general affect different lasting single cold broad us by under weather published jul this year than normal just you  the the national national oceanic and atmospheric released a the first warmest january most of particularly the recordsetting high this year warmest such in fact was curious what these updated a a famous weather chart show the for a a handful across the us1 these show the average high  normal and actual over the year for there was was a or high red  a tie a previous previous year a unique unique story  famous famous for  experienced experienced several waves this this year in particular had four with record when the into the particularly uncomfortable uncomfortable june with five in the experienced a strangely warm beginning of setting a of the unexpectedly cold cold february returned to and two recordsetting low low  around the for the except for november  the other examined had as consistent  these make clear  these  the that way way in us many experienced heat even cold  but  such such as in general expected to to affect of the ultimately has abnormally hot cold day studying climate usually best take the')
+
+('JJS', 'warmest warmest warmest best was warmest the hottest')
+
+('VB', 'feel necessarily feel records ')
+
+('NNP', ' janjune  noaanceiclimate  stateofclimate  tcodjwfrfmmjp  noaa  noaa  july  the  and  dots  blue  even  each  click  los  charlotte  north  had  with  with  chicago  when  houston  however  few  didn  did  climate  when')
+

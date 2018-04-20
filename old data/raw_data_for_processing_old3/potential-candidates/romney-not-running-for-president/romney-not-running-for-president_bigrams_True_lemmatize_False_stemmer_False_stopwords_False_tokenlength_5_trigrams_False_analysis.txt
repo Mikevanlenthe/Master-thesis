@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 858
+Raw number of types: 354
+Raw Type token ratio: 0.4125874125874126
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 607
+Number of types: 493
+Type token ratio: 0.8121911037891268
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'president romney harry github github dinner committee winter meeting midway diego huffaker getty campaign president house romney president benefactor romney campaign romney announcement divine inclusion statement president candidacy graham number hampshire carson event chris event event event walker doesn stand chance santorum infrastructure support huckabee walker money romney decision bobby jindal steve freedom summit month measure wisdom stock story person committee clinton hampshire checkedin biden building infrastructure president malley hampshire candidate clinton clinton campaign support bloomberg jonathan bernstein primary belief campaign summer campaign president,romney romney,harry filed,under primary,github github,github national,committee annual,winter aboard,midway midway,diego diego,sandy sandy,huffaker huffaker,getty romney,inchoate inchoate,campaign campaign,president president,after would,third third,white house,romney running,president president,again again,benefactor former,romney fullborne,campaign campaign,romney romney,announcement biggest,since serious,about hampshire,inclusion huckabee,recent recent,statement statement,president announce,candidacy candidacy,lindsey republican,number hampshire,since these,include include,carson carson,event event,chris christie,event event,event scott,walker stand,chance chance,santorum build,infrastructure infrastructure,support support,huckabee huckabee,walker walker,eager money,romney lines,decision clearest,nonmover nonmover,bobby bobby,jindal absent,steve steve,freedom politician,measure conventional,wisdom democratic,story static,person exploratory,committee hillary,clinton hampshire,since since,checkedin checkedin,biden though,doesn building,infrastructure infrastructure,president malley,though touched,hampshire hampshire,somewhat given,upstart upstart,candidate candidate,probably should,ground doing,retail clinton,clinton clinton,campaign early,support support,bloomberg bloomberg,jonathan jonathan,bernstein clinton,belief might,announce announce,campaign campaign,until summer,whether primary,campaign')
+
+('VBN', 'filed greeted tried updated taken given given romney,greeted romney,announced recently,added since,updated')
+
+('JJ', 'visible primary fellow republican national annual sandy inchoate republican white friday likely former fullborne serious potential other possible huckabee recent alive lindsey presidential primary republican possible attend potential christie fiorina huckabee scott serious early build eager early additional early planned absent recent national politician conventional early recent jindal democratic static bernie exploratory likely hillary doesn earlystate martin touched surprising upstart retail early invisible clinton primary strong different unsettled enten,filed under,visible visible,primary greeted,fellow during,republican republican,national committee,annual meeting,aboard images,romney learning,republican supported,would toward,fullborne tried,divine divine,serious compiling,potential other,possible busy1,huckabee dumbest,alive formally,announce going,presidential presidential,primary primary,republican number,possible continue,attend hampshire,potential tracking,announced updated,weeks weeks,these chris,christie carly,fiorina events,huckabee events,event perry,three santorum,three clearly,serious trying,build candidates,haven haven,additional jindal,planned hampshire,absent summit,month additionally,included included,recent recent,national include,politician measure,conventional likely,which generally,jindal polls,recent stock,taken looks,jindal sidelines,democratic story,static events,bernie formed,exploratory candidates,hillary holding,earlystate martin,malley surprising,given locked,early bernstein,already already,invisible invisible,primary given,clinton waits,primary looks,strong continue,different republicans,quite quite,unsettled')
+
+('VBZ', 'datapotentialcandidates images looks makes looks republicans github,datapotentialcandidates getty,images lindsey,graham early,states early,states early,states decision,perhaps recently,jindal early,polls likely,candidates stories,republicans')
+
+('NNPS', 'republicans')
+
+('VBP', 'romney hampshire busy1 continue hampshire include perry santorum fiorina perry haven hampshire include think jindal hampshire continue republicans,dinner visits,hampshire contenders,busy1 contenders,continue events,hampshire events,hampshire event,perry events,santorum events,scott events,fiorina doesn,stand santorum,perry visits,which events,hampshire freedom,summit polls,include which,think suggests,stock visits,hampshire sanders,makes events,martin probably,should politics,because primaries,continue')
+
+('VBG', 'learning running scooping moving compiling going tracking focusing trying interesting raising holding holding doing evolving dinner,during winter,meeting after,learning friday,running likely,scooping right,moving about,compiling announced,going candidates,tracking clearly,focusing states,trying states,interesting states,raising person,holding doesn,building president,holding somewhat,surprising ground,doing strong,evolving')
+
+('NNS', 'insiders staffers candidates statements visits polls contenders suggests contenders events candidates events weeks events events events events events states events states candidates events states visits lines events polls polls polls suggests visits sidelines events sanders sanders candidates sanders events events politics waits primaries stories democrats fellow,republicans republican,insiders romney,staffers potential,candidates candidates,statements statements,visits inclusion,polls possible,contenders alive,suggests possible,contenders attend,events potential,candidates announced,events fiorina,events huckabee,events three,events three,events walker,events serious,doesn eager,events interesting,candidates additional,events romney,visits which,lines planned,events national,polls whether,polls recent,suggests taken,visits hampshire,looks jindal,sidelines holding,events bernie,sanders makes,sanders clinton,sanders announced,events earlystate,events retail,politics whether,waits campaign,looks evolving,primaries different,stories unsettled,democrats')
+
+('VBD', 'supported announced added announced announced jindal included formed announced locked settled insiders,supported staffers,right since,tried sanders,formed sanders,announced though,touched campaign,locked belief,might democrats,settled')
+
+('VB', 'third announce clearest ground announce harry,enten raising,money events,hampshire')
+
+('JJS', 'biggest announcement,biggest perhaps,clearest')
+
+('JJR', 'scooping,former')
+

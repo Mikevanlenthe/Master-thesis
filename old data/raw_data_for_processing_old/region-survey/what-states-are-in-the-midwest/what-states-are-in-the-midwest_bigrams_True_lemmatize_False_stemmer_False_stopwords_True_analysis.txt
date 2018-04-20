@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1235
+Raw number of types: 822
+Raw Type token ratio: 0.665587044534413
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 815
+Number of types: 657
+Type token ratio: 0.8061349693251534
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'states data data dataregionsurvey states regions states regions states regions midwesterners opinions midwesterners midwesterners states respondents respondents states things people respondents people states sources minnesotans hoosiers spans respondents people expands regrets populations states people americans subdivisions groupings which states the data which regions united states these regions mountain states other regions nebulous  selfavowed midwesterners many opinions  falls states midwesterners selfidentified midwesterners which states the states of things people aren of respondents which states midwestern sources  minnesotans  hoosiers midwest spans our respondents yankee regrets substantial populations and kansas the states it seems vast swaths break americans more subdivisions these groupings it comes')
+
+('VBP', 'midwest make west southwest south boss consider make consider contrast make south think yankee error appear michigan refer tribes acknowledge apr  states are data on states make regions of states  regions   mountain states  regions  south and m from midwesterners  falls into be in states make they consider here worth aren  about 80 respondents  states make sources i with have t say spans further people think regrets the populations  kansas each states  seems unclear they  is as americans into subdivisions and groupings than comes to you ')
+
+('NN', 'walt hickey regionalism github github illinois argument coast mountain northeast york anything philadelphia designation territory view audience survey march march midwesterner group part core midwest everybody state question home preeminent city chicago percent survey group source definition state state bordering midwest half quarter pinpoint region illinois core midwest vote minnesota vote fuss half rest anything territory region break diversity the midwest midwest  by walt walt hickey under regionalism github github github data data at dataregionsurvey facebooktwitteremail facebooktwitteremail a in savoy savoy  illinois  seth perlman perlman  regular argument argument i i get get in make up some of the west west coast coast  southwest and and northeast defined   but the south midwest   are new york york  west of philadelphia the the midwest midwest  designation is criticized by boss  michigan  has many what  the midwest midwest  so i decided to to find find out consider to to be their territory territory  get this broadbased view view  surveymonkey audience audience to to ask the cut cut  national survey the midwest midwest from from march to march march 17 respondents  those  identified  a lot some  as a a midwesterner midwesterner  we then this group group to part of of the midwest  are a a lot looking into into  too sure sure about the core core of of the midwest is  everybody least one one state the question question  home of of the the preeminent midwestern city city  chicago  midwestern by by just just about contrast this this with with our southern survey survey  which people adamant about the group group  potential  anecdotal   source source of of this i spoke spoke with limited definition the midwest midwest  their state state and and any any state bordering it made up the true midwest  thought they they did did  can   second potential midwest than i i thought thought  if half missouri and and a a quarter thought oklahoma the midwest midwest  arkansas  to pinpoint pinpoint how the region this yankee the error error  indiana  iowa and and illinois appear to to be be the the core core of of the midwest   each more than percent of the vote vote  be because wisconsin and and minnesota minnesota each at least least 60 percent of the vote vote  can probably them in in the the midwest midwest without without too much fuss fuss  missouri and than half half  the rest rest of of the the true midwest  the midwest midwest is as i  people people refer refer to american territory territory as as a solid region region  to break such as midwestern   but and diversity diversity in acknowledge  when it the south the south south is is more more sure sure about the south south is as you ll soon soon see see ')
+
+('VBD', 'filed cornfield seth decided asked selfidentified targeted asked selected identified selfproclaimed spoke thought thought asked pulled hickey filed a cornfield admittedly unsophisticated by selfavowed i decided we asked ask selfidentified we ran that targeted march 12  1357 then asked everybody selected state for even illinois was identified our soontobereleased several selfproclaimed minnesotans thought hoosiers thought second  half of respondents thought quarter thought than 70 because of each pulled probably put each got d expected  except south ')
+
+('JJ', 'savoy perlman regular united defined nebulous unsophisticated many states surveymonkey national worth first many sure midwestern midwestern soontobereleased southern adamant potential anecdotal several midwestern limited true second potential thought arkansas south indiana iowa percent substantial wisconsin percent much missouri unclear true nebulous vast swaths american solid easy midwestern south south sure south  2014 at 926 am which in the get the on github cornfield in somewhat regular up which  some of these  the northeast are  the more nebulous from new generally consider unsophisticated designation originally of of michigan precisely  into the out which in their asked surveymonkey midwesterners which make the ran a a national targeted the of those respondents identified  some asked this identify the states they consider part there are lot of  many many people t too selected at for the illinois  preeminent midwestern identified as as midwestern percent of soontobereleased southern in which somewhat adamant about which make the one potential albeit anecdotal  several selfproclaimed midwestern very limited of the namely   their they made up the i can way  the potential south than of our thought missouri in the about arkansas only to far south south people think the expands  illinois appear of the partly be of their their substantial  michigan pulled at of the so we we can put them too much  missouri more than for the whether they in the  the as nebulous nebulous as  too too often often  to vast swaths of of american a solid s easy easy to into tribes tribes such  midwestern there are in these generally acknowledge except when to the what the')
+
+('JJS', 'midwest west midwest midwest midwest midwest least midwest midwest midwest least midwest midwest  southwest the midwest anything west the midwest the midwest true midwest the midwest true midwest')
+
+('VB', 'consider find identify regionalism get to get to identify should have re in than we')
+
+('VBN', 'criticized selfavowed broadbased identified thought made thought expected the united clearly defined frequently criticized this broadbased have a have asked')
+
+('VBZ', 'falls illinois seems comes here  which states but two and i which states with 2778 lot  first  where the this  definition of were in how far region expands that may ohio ')
+
+('VBG', 'looking pulling consider anything worth looking state bordering each pulling if anything')
+
+('JJR', 'filed under say either pulling more')
+
+('NNP', ' illinois  seth  which  and  this  has  with  first  but  home  chicago  was  albeit  the  this  indiana  iowa  ohio  the')
+

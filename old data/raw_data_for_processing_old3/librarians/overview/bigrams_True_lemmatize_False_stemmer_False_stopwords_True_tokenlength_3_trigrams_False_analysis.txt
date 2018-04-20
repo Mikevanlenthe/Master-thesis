@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 532
+Raw number of types: 255
+Raw Type token ratio: 0.4793233082706767
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 686
+Number of types: 514
+Type token ratio: 0.749271137026239
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'apr america chalabi branch spring texas david phillip year state funding state public blame death library country bureau labor picture number mexico percent drop number list idaho percent place idaho change time level detail area bls job number population basis valley accuracy estimate number job quotient list concentration pay wage year master degree use information judge thing library association age whereare areamerica america monachalabi chalabiand filedunder underjobs jobsget getthe thedata dataon ongithub githubgithub githubdata dataat facebooktwitteremailthe thebarbara barbarabush bushbranch libraryin spring texas texas david davidj jphillip phillip aplast year state statefunding fundingwas waseither orheld heldconstant constantin in34 usaverage androokie in2001 tblame blamepeople thedeath deathof read readit weep acountry countrywithout butare theyare soare canlook occupationaldata datafrom fromthe thebureau bureauof oflabor mixedpicture picture tomay may2013 thenumber percent innew percentfewer michigan therewas wasa percentdrop drop thetop topof thelist listis idaho percentmore anincrease increasedidn havemany firstplace place idaho atchange changeover time sworth zoomingin toa afiner levelof ofdetail detail foreach area thebls job jobquotient quotient numberof relativeto topopulation population basis forevery every1000 thesilicon siliconvalley valleyof thenagain librariansin inowensboro owensboro theaccuracy realnumber between88 and112 butthe thejob jobquotient quotientis isstill lookingat thelist the10 theus duh highestconcentration concentrationof bestpay canbe befound fresno calif theaverage annualwage yearand andhas hasa amaster master degree ifyou tryingto thisinformation informationto tojudge judgewhether becomea thingof thepast youmight mightbe interestedto toknow gettingolder libraryassociation association medianage ageof ofa librarianwas was39 by2005 risento to51')
+
+('VBZ', 'librarians librarians librarians earns librarians libraries librarians librarians blscalculates whichmeasures librarians only100 earns thatlibrarians')
+
+('JJ', 'mona bush library last constant average weep foreseeing occupational mixed percent new michigan percent top many first worth finer metropolitan quotient relative silicon real total helpful metropolitan fresno calif average annual library average librarian past know american median librarian at1150 bymona branchlibrary lastyear cutor acrossthe theus fellfor in2011 fewerpublic thanin youcan thelibrary library andweep anendangered andwe wecan lookat atoccupational amixed from2001 numberof are48 werein in2001 inmichigan thereare thenumber numberof atthe ofthe isidaho thereare are167 butmost haveseen seenan inthe thefirst had240 in2001 lookingat overtime finerlevel eachmetropolitan metropolitanarea calculatesa measuresthe librariansrelative thatbasis librariansfor isthe butthen testedthe ofthe thatthe thereal numberof somewherebetween thetotal low stillhelpful helpful atthe ofthe inthe thatall werein inmetropolitan duh bein inowensboro butthe paycan infresno wherethe averageannual wagefor forlibrary theaverage averagelibrarian peryear usethis willbecome past librariansare tothe theamerican americanlibrary themedian credentialedlibrarian in1980')
+
+('VBD', 'andrew cut fell read fell tested noticed found credentialed andandrew flowersfiled eithercut a36 onlyhad with21 wetested totalmight listof wenoticed librariansmight foundin beinterested acredentialed ithad')
+
+('NNS', 'flowers jobs data github data datalibrarians libraries salaries directors librarians libraries people libraries libraries species librarians data statistics librarians librarians states librarians places librarians calculates measures librarians people librarians librarians data librarians concentrations librarians areas colleges librarians workers libraries librarians men women men women slibrarians andrewflowers atdatalibrarians statelibraries averagesalaries fordirectors rookielibrarians publiclibraries withoutlibraries arelibraries endangeredspecies species arelibrarians laborstatistics oflibrarians mexico fewerlibrarians arestates oflibrarians morelibrarians mostplaces manylibrarians oflibrarians people oflibrarians thedata oflibrarians biggestconcentrations oflibrarians allof metropolitanareas withcolleges colleges oflibrarians mightbe libraryworkers librarianearns whetherlibraries formen forwomen formen forwomen women')
+
+('VBN', 'filed held endangered risen seen risen hasrisen hadrisen')
+
+('VBP', 'get github barbara rookie look find owensboro duh become apr datalibrariansfacebooktwitteremail salariesfell directorsand librariansalike librariesthan peoplefor itand reallyan ifthey statisticsto librariansfell thereare librariansthan wherethe librarianshas risen thathave thave librariansin owensboro dataand librariansis concentrationsof librariansin ofthem areaswith calif workersis sdegree librarieswill menand womenin menand')
+
+('JJR', 'fewer fewer older older')
+
+('VBG', 'proclaiming looking zooming looking trying getting according inspring forproclaiming proclaiming andforeseeing foreseeing solelylooking worthzooming looking retrying athing aregetting according')
+
+('VB', 'increase low owensboro interested ratherthan andestimate')
+
+('JJS', 'biggest highest best thehighest thebest')
+
+('NNP', 'thenumber')
+

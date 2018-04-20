@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1913
+Raw number of types: 636
+Raw Type token ratio: 0.3324621014113957
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'pollster standard peer carl bialik poll pollster github github image illustration image illustration poll pollster pollster anonymity principle copying campaign result doubt peer medium ability parse poll poll pollster database1 time question fivethirtyeight pollster rating senate forecast answer reveal dozen poll help horserace coverage election work factor vote senate control poll download result poll github year colleague harry evidence pollster copying number fall line peer epicmra pollster john anzalone anzalone liszt research drew distinction number match result pas smell test poll result margin error time anzalone firm suspect field cost check poll poll respondent result question anonymity anyone pollster want question pollster respondent copying number match result article reason belief year organization fluctuation number release poll number counter julia clark ipsos question result kind practice attention matter clark york time article example pollster cue marketplace form clark peer result question question backlash help client plan clark look market publication majority check university hampshire trust method trust number pollster take shot care poll poll campaign campaign dictate factor result client tell brad coker research pollster relationship campaign campaign assumption voter poll result pollster scenario consumption campaign result pollster insist result model campaign push selzer company campaign poll picture portray reserve comment name pollster industry poll model firm berwood yost marshall college concern poll poll race pollster forecast election poll poll think group disclosure average poll election forecast pollster medium poll poll yost anzalone publishing poll bias poll quality darrel rowland columbus dispatch reporter poll question order influence share information reporter work result poll organization poll faulty pollster question poll emphasis speed day error clark form recall poll domain everyone actor error work pollster lot nomination name organization work research center nonelection work anzalone selzer policy york time street journal ciruli pollster stanley greenberg michael vote company rating reaction pollster rating reservation pollster question rating organization fair chose pollster rating survey question pollster concern rating poll campaign poll credit pollster allocate candidate prediction vote margin official number database pollster result credit poll patrick murray monmouth university said4 selzer rating company contact date anything selzer reason rating company rating organization grade everyone disagreed anything pollster survey suggestion question email suggestion cbialik fivethirtyeightcom comment')
+
+('VB', 'follow inform face become begin take crazy clarify take fail skewed unduly go monkey like get')
+
+('JJ', 'ethical sure getty getty second political ethic follow basic ethical many ethic good lousy first active political ethic many major primary november full pollster influenced porn wrong live optimal poor statistic brandnew meaningful suspect poll enten certain wild follow good obvious different bayesian statistic recent inevitable vary many sensible answered anticipate potential narrow smith want respondent affect hear several want different affect long alternative internal publish selzer hypothetical publish accurate right suppose several standard polling partisan affect average many mysterious partisan straight side swayed partisan fear credulous stop shitty partisan undermine pollster publish reporter publish appropriate much creep important recall practical public focused many good innovative gold standard gallup vote public newsnew newswall associate democratic bocian ciruli typical positive possible likely participate particular conduct private voter different final improved full recent close arbitrary datadriven lower5 open pollster')
+
+('VBN', 'filed asked answered paid convinced granted named asked thought adjusted published noticed added renewed agreed reflected partyaffiliated released biased done named heard raised gotten cut agreed found published')
+
+('NNS', 'data data datapollofpollsters others people others others others others people others others others people acknowledge data')
+
+('VBG', 'leading letting thinking driving forecasting suggesting revising finding revising rejecting polling conducting changing finding going saying adjusting paying consulting speaking weighting polling including producing trying averaging putting reporting wording polling recalling polling citing polling polling including polling grading finding polling sending')
+
+('VBD', 'asked answered said held contacted responded reported found asked said said said grove pointed said happened said inclined answered cited said published answered discredited cited said said said said added asked answered said masondixon said described complicated said considered tried wanted said asked included said said financed said reported said said said recalled responded said said unpublished midst provided asked said received answered said said undecided changed weight said grade agreed scored asked')
+
+('VBP', 'work dictate conduct result bernie think work take pollster work need know want want come believe think think believe franklin hope porn respond hear take think become peer make want leave')
+
+('JJS', 'dishonest dishonest best best suggest suggest')
+
+('VBZ', 'answer')
+
+Token analysis after pre-processing 
+Number of tokens: 801
+Number of types: 436
+Type token ratio: 0.5443196004993758
+

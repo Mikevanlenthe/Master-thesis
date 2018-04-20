@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 889
+Raw number of types: 370
+Raw Type token ratio: 0.4161979752530934
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1106
+Number of types: 829
+Type token ratio: 0.7495479204339964
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'jun elitist comma walt hickey grammar get github github datacommasurvey dictionary university press birthplace oxford comma caleb lot oxford comma comma blight jfk stalin think audience poll june split comma opinion person kind person kind latter oxford comma none result middle prooxford percent vote comma percent cantor victory editor language blog author editor merrill perlman adjunct professor columbia school journalism york owner editorial company perlman suspect grammar sentence loyalty rule mcintyre blunt passion oxford comma effect majority oxford comma trouble comma kind survey grammar excellent type perlman grammar think sentence conjunction end preposition etc knowing explanation speech goal matter peace use comma writing preference mcintyre edit baltimore sun press stylebook point omit perlman middleoftheroad view rabid comma series follower journalism matter grammar matter clarity note relevant particular noun put majority percentagepoint margin percent percent half usage survey issue jun elitist theoxford oxfordcomma commaby bywalt walthickey grammarget getthe thedata dataon ongithub githubgithub githubdata dataat datacommasurveyfacebooktwitteremail facebooktwitteremailan byoxford oxforduniversity press thebirthplace theoxford oxfordcomma comma caleb beena alot lotof ofink onthe theoxford thecomma commathat alist listof threeor grammaticalmust mustor blight veseen seenthe insufferableand comicof ofjfk jfkand andstalin weighedin butwhat theaverage americanthink fivethirtyeightand andsurveymonkey surveymonkeyaudience apoll pollfrom fromjune june3 to5 asking1129 whichcamp campthey tyou believeit resplit spliton comma whichsentence theiropinion opinion correct simportant fora aperson tobe honest kind kindand andloyal loyal simportant fora aperson tobe honest kind kind andloyal thelatter latterhas hasan anoxford theformer formernone none theresult resultwas middle withprooxford percentof thevote voteand thetyranny tyrannyof ofthe extracomma percent todefeat ericcantor cantor clearvictory thisso johnmcintyre mcintyre thelongtime longtimeeditor language languageblog sunand andauthor authorof oldeditor perlman anadjunct adjunctprofessor thecolumbia columbiagraduate graduateschool ofjournalism journalism veteranof ofthe thenew newyork ofan company perlman perlmansaid saidin inan anemail email buti suspectit downto whatpeople taughtand andwhen mostof ofus theknuckle knucklewhen ungrammaticalsentence deeployalty loyaltyto tothe therule rule mcintyre mcintyreis ismore moreblunt blunt feignedpassion aboutthe theoxford whennot comiceffect effect theirpassionate passionatemajority majority theoxford oxfordcomma winningthe thisis andi thinki ifound answer thepeople tendto preferthe theoxford oxfordcomma commaalso tendto tobe bethe thekind kindof ofpeople peoplewho tella owngrammar grammaris butnot humbletype type asperlman goodat atgrammar grammarare aregood goodat asentence sentencewith witha aconjunction conjunction endthem themwith witha apreposition preposition theymay goodat heara coherentexplanation explanationof tdo doany tinvolve involvelatinate parsingof speechand thegoal goalis islost thethought thoughtclear doesit itmatter matter bepeace peace theoxford oxfordcomma commain personalpreference preference mcintyre mcintyresaid iedit thebaltimore baltimoresun sun pressstylebook stylebookon point iomit perlman perlmanalso alsotook tooka amiddleoftheroad middleoftheroadview view tobe bea arabid rabid‘ serialcomma commain series mein myjournalism havesince someto asnot themor amatter matterof ofgrammar grammarat atall smatter matterof ofclarity clarity finalnote note relevantto tothe fivethirtyeightin wealso pluralnoun noun tothose thosewho llput putthis thisin inyour dataare vastmajority majorityof thinkwe wonby bya percentagepointmargin margin percentof datais to21 dataare halfof thoughtto tothe theusage toour oursurvey survey pressingissue issuefor formost')
+
+('JJ', 'superfluous popular english list grammatical unnecessary insufferable ahistoric comic exotic grammatical average american surveymonkey sentence correct important loyal important loyal former much commanding extra eric clear controversial mcintyre longtime say sun old graduate veteran new email taught ungrammatical instill deep comic passionate oxford zealous humble many good good good hear coherent latinate unambiguous oxford pure personal serial simple formative bad exist final preferred singular plural plural conclusive vast singular crowd at1228 pmelitist superfluous superfluous orpopular popular onthe undergrammar oxfordenglish englishdictionary publishedby universitypress ofthe sbeen spilledon comma ina ofthree ita agrammatical anunnecessary unnecessaryblight theinsufferable andahistoric ahistoriccomic dressedas asexotic grammatical doesthe averageamerican fivethirtyeight rana americanswhich andwouldn thatcomma respondentswhich intheir grammaticallycorrect importantfor importantfor loyal comma prettymuch downthe themiddle ofthe tothe theextra grabbing43 althoughthose enoughto defeateric aclear forthe isthis socontroversial controversial askedtwo john behindthe baltimoresun andmerrill ownerof aneditorial consultingcompany isuspect weretaught learnedgrammar accompaniedby onthe anungrammatical escapedour ourmouths thatcan reallyinstill comma performedfor forcomic despitetheir hadtrouble oftheir whythis thatthey thinktheir theirown isexcellent excellent zealous zealous thehumble many aregood whatthey arethe starta lessgood whythe andi yetto tohear acoherent whyyou youcan ofthose thatdidn orsuch suchdeep ofspeech thatthe wasthe andunambiguous unambiguous everbe usethe inmy myown outof ofpure purepersonal wheni forthe associatedpress thispoint usedto noserial ina asimple intome inmy journalismformative sincesome arejust knowingthem whythey snot nota onefinal relevant offivethirtyeight inparticular particular whetherpeople asingular singularor orplural preferthe theplural plural prettyconclusive thevast thesingular crowdwon onlyhalf putany anythought usageprior snot nota')
+
+('VBN', 'polled filed published spilled seen learned found thought associated used haveweighed iasked notperformed havehad drummed hadput')
+
+('NNS', 'americans data data jones things dancers experts americans respondents opponents numbers oxfordians pros times people rules raps mouths partisans hearts minds rivals people people people rules rules things references parts linguistics years rules interests people data terms respondents data respondents data data respondents polledamericans calebjones jones morethings things exoticdancers dancers grammaticalexperts askedrespondents andopponents thosenumbers theoxfordians oxfordians twopros youdon editorsays times itcomes grammaras asrules rules byraps mouths commapartisans thehearts andminds theirrivals rivals manypeople thinkthey therules rules rules rules thosethings latinatereferences ofparts andlinguistics whichfollows simpleseries formativeyears years followingrules justas theinterests data data asa yourterms terms thedata ofrespondents weshould data datais ofrespondents data data ofrespondents itseems')
+
+('VBP', 'oxford ink camp believe tyranny john know think tend prefer tend tell think think start exist involve believe prefer data think say americanson isit expertshave think theyfell youbelieve opponentsto whyis pros tsay say professorat andowner know comesdown rapson partisanshave heartsand mindsof ithink peoplewho whotend toprefer alsotend whowill theythink peoplewho whothink theyare theythink tstart tend exist exist anyof referencesor partsof clearand follower ihave tobelieve asbad theyexist exist interestsof whoprefer respondentsthink shouldsay say singularcrowd thatit')
+
+('VBZ', 'goes partisans says comes follows seems oxfordcomma thatgoes whatdoes oxfordcomma prooxfordpartisans says whenan oxfordcomma reallythe')
+
+('VBD', 'dressed weighed fivethirtyeight ran fell asked asked said accompanied escaped feigned performed wondered said lost said took drummed fivethirtyeight asked put wepolled hickeyfiled dictionarypublished inkspilled oran stalindressed audienceran weasked sentencewas hardlya blogat theold schoolof uslearned oftenaccompanied sentenceescaped feigned vewondered foundthe perlmansaid said lost said editfor followsassociated iused alsoasked peoplepreferred thatthe a58 with79 respondentshad soit')
+
+('VBG', 'asking grabbing consulting posturing winning following parsing following knowing using liking preferring pressing partisanscommanding commagrabbing editorialconsulting mereposturing posturing troublewinning atfollowing atknowing deepparsing ownwriting writing thatfollowing notknowing preferredusing using respondentsliking liking percentpreferring preferring apressing')
+
+('JJS', 'honest honest behonest behonest')
+
+('VB', 'defeat knuckle less commanding57 mightbe instilldeep willtell thinkare knowingwhy rulesare')
+
+('JJR', 'filedunder theanswer follower')
+
+('NNP', 'merrillperlman ‘no')
+

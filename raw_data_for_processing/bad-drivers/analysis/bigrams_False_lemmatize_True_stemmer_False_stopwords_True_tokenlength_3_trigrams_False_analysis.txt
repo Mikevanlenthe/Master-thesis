@@ -1,0 +1,45 @@
+Article: bad-drivers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1389
+Raw number of types: 450
+Raw Type token ratio: 0.32397408207343414
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 623
+Number of types: 314
+Type token ratio: 0.5040128410914928
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'oct, mona, state, driver, mona, chalabi, hope, number, chainreaction, pileup, accident, pennsylvania, feb, feasterville, pennsylvania, william, thomas, cain, image, state, region, driver, ability, state, carolina, try, question, historic, driver, number, car, crash, state, way, insurance, company, insurance, company, charge, driver, measure, lot, country, state, driver, contrast, driver, indiana, vermont, board, collision, motor, vehicle, crash, state, property, damage, injury, fatality, highway, traffic, safety, administration, texas, crash, state, washington, state, car, crash, state, driver, state, driver, state, condition, need, factor, mile, state, focus, driver, collision, number, driver, mile, course, mile, state, driver, crash, produce, figure, driver, collision, mile, individual, example, driver, time, accident, driver, road, accident, time, mind, case, driver, detail, distraction, driver, cellphone, driver, percent, driver, accident, percent, percentage, need, caution, none, driver, accident, time, driver, information, bear, mind, driver, crash, state, york, example, percent, database, driver, crash, percent, driver, crash, figure, state, end, idaho, percent, driver, collision, jersey, end, figure, percent, way, crash, perspective, determine, driver, speeding, time, fatality, nhtsa, total, traffic, fatality, percent, percent, traffic, fatality, pennsylvania, share, percent, behavior, indicator, driver, percent, traffic, fatality, driver, percent, traffic, fatality, year, figure, percent, number, news, insurance, provider, base, price, multitude, indicator, driver, accident, state, insurance, company, assessment, cost, figure, association, insurance, commissioner, highrisk, driver, jersey, car, insurance, country, collision, etc, idahoan, car, insurance, average, country, driver, driver, premium, insurance, research, council, percent, driver, road, fraction, motorist, insurance, vehicle, term, question, price, use, loss, insurance, provider, state, collision, insurance, company, figure, state, number, comparison, fairer, insurance, company, loss, state, number, number, percentage, driver, come, america, driver, collision, costing, insurer, collision, state, answer, lisa, number, car, crash, clearcut, way, driver, insurance, provider, deserve, price, average, driver, cost, collision, loss, hope, number, help, question, send, dearmona, fivethirtyeightcom, datalab538')
+
+('JJ', 'dear, getty, dear, mona, heard, north, tricky, type, driver, negligent, much, much, vary, good, first, involved, personal, national, fatal, fatal, bad, total, characteristic, fatal, north, dakota, available, fatal, national, average, interested, behavior, fatal, fatal, distracted, worth, thoughtday, ohio, north, dakota, fatal, plenty, impressive, fatal, fatal, new, previous, first, high, previous, new, low, fatal, available, mississippi, irresponsible, good, bad, thirtyone, alcoholimpaired, utah, behavior, fatal, average, premium, overall, future, national, new, expensive, average, combined, premium, comprehensive, logic, half, driver, bad, good, american, uninsured, oklahoma, bad, irresponsible, naic, vast, fatal, insured, idahoan, insurer, average, new, good, apiece, expensive, sorry, easy, fatal, bad, north, carolinian, low, national, insured, answered')
+
+('VBD', 'worst, lived, bottom, united, resulted, accounted, worse, traveled, traveled, traveled, traveled, distracted, recorded, recorded, distracted, lost, recorded, treated, distracted, got, licensed, put, recorded, occurred, occurred, occurred, alcoholimpaired, found, le, sum, paid, divided, registered, louisiana')
+
+('VBN', 'filed, involved, involved, involved, involved, involved, known, distracted, involved, distracted, compared, involved, recorded, based, given, involved, involved, speedingrelated, involved, incurred, distributed, insured, estimated, licensed, insured, compared')
+
+('VB', 'help, scene, indicate, pay, sound, drunken, reflect, affect, mona, like')
+
+('JJR', 'worse, answer, fewer, higher')
+
+('NNS', 'people, others, lisa, data, america, data, data, montana, data, jerseyans')
+
+('VBP', 'bemoan, asheville, want, iowa, know, show, make, think, make, come, say, think')
+
+('VBG', 'driving, neighboring, using, according, driving, bearing, eating, drinking, dreaming, speeding, speeding, speeding, driving, including, according, according, insuring, driving, looking, using, costing')
+
+('JJS', 'worst, highest, latest, latest, latest, best, highest')
+
+('VBZ', 'varies')
+

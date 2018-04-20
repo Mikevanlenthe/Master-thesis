@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2431
+Raw number of types: 762
+Raw Type token ratio: 0.3134512546277252
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1245
+Number of types: 594
+Type token ratio: 0.4771084337349398
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'classic green right played different classic ozzy nirvana classic many hear green american classic first referred classic listens long enough classic classic massive question classic genre techno tricky classic challenging different same deep current classic monitored classic metropolitan substantial unique total classic certain live disproportionate joel crüe classic influenced unexpected popular classic wasn able complete able vast large early classic song huge floyd dark classic yellow small last actual nirvana last classic classic other classic eric classic clear classic song classic such radio major classic genre familiar whole cluster classic simple classic weeklong half spin classic classic cool essential classic rest definition classic next zeppelin petty classic massive south hard wellman hispanic southern united common conventional hispanic listen joel else played classic artist classic local regional classic detroit classic contemporary institutional nope dead fireable worth digitalnative classic huge genre echo different clear universe classic floyd genre math artist mcdonald different read read much relational artist similar musical universe other mcdonald cluster sophisticated different acoustic electric spare atmospheric particular electronic finite minute painted classic classic much drum actual minor mimic human unmechanical dead mcdonald clear wellman classic hard next classic eventual baby demographic next classic incorrect classic classic other song fivethirtyeight classic')
+
+('NN', 'rock walt hickey music zeppelin classic rock radio station band music decade getty image zeppelin rock mötley crüe child rock idiot rock station week time band rock anyone music period time moment colleague gun rock station rock amount collection analysis answer start band intention rock something band fit house part music business rock target kind music banner music radio internet service problem connection music state rock state look rock radio stations1 country area week june2 result list unique song artist record song play station rock music change amount example rock region way example time country time today rock timeline release year song music database songfactscom coverage accurate release year percent song percent song plays3 earliest song date majority exception kink booker number song rock play fairness year release side moon album rock staple house holy elton john goodbye brick road trend period account percent song play music onward trickle green song article year dent listing metallica group rock song rock popularity matter doe longevity sound factor artist rock wellman rock brand manager channel radio station director york rock station waxq wellman release year nothing rock ability genre grow consumer taste thing longevity fact radio station selection decision wellman company resource conduct regular study market rock consumer standard industry day music test auditorium music test sample rate song hook part song slew wellman station music core classic rock rock wellman consumer consider rock song radio station observation period artist stone rock station percent band station percent song play rock core rock musician station country rock change city list look artist city pack move york percent song waxq stand eagle stay heck tampa wxgl station character audience preference rock station amount market research listener figure song play wellman example listener rock come immigration play role influx state change rock landscape wisdom englishlanguage rock brand englishlanguage rock market influence migration state role york country artist miami rock station miami city rock station show preference rock click image city rock station legacy philadelphia prefer style rock city history favor radio station decide role station company change song offense wellman magic6 collection analysis radio station decade startup service rock echo generate song recommendation part work entail artist methodology channel doe pick center rock orbit center radio station figure interview music test glenn charge algorithm echo start artist math extrapolate rest center mcdonald order define genre relationship artist mountain collect user history machine read chart review blog post news article entry anything example artist point space point point point form addition history echo musicanalysis software figure quality song mcdonald look dimension genre tempo energy loudness danceability song dense bouncy genre dimension music range stroke rock rock mcdonald wider range tempo machine echo detect person drum imperfection tempo beat machine timing giveaway rock genre thing define rock steel direction time waxq tomorrow wellman boomer year thing advertiser rock correction july version story call number rock station houston kglk kkrw rock rock playlist spotify')
+
+('VBD', 'used left doubted were shocked grew related rose made lumped united found pulled appeared peaked held inspired released spoke said said said said were studied halen played made mostplayed played played said said play retired looked played play said focused decided owned said said wikipedia defined beat said powered said said monitored hit')
+
+('VBN', 'filed made been coded listed considered considered based given based mostplayed played informed been used based complicated read allowed interpreted based listed mostplayed')
+
+('VBZ', 'osbourne happens reveals antonio belongs owns appears relies happens drum')
+
+('NNS', 'band data people data data prefers angeles pearl beatles trickle data data data people quantify demonstrates yorkers geils beatles data data data genre webcrawlers agrees channel economics xers')
+
+('VBG', 'shocking hearing hearing figuring becoming figuring identifying moving streaming solving operating cleaning depending playing playing whopping programming using helping rolling saying comparing playing doing going according listening songpicking ruining reaching streaming defining placing talking developing using listening showing listening evaluating changing going advertising')
+
+('VB', 'experience sort rest wave find define find find specialize tend spotify zeppelin read read input know come happen chase start skew')
+
+('JJR', 'wonder more brother listener consider harder bigger larger longer older more broader younger earlier')
+
+('VBP', 'turn algorithm choose hear play mötley band song pink make release make make band find have make make online have find make like like account show cooler understand think find have tend think band knowledge know have find go find echo have see make footnote listen')
+
+('JJS', 'largest rest least nest nest nest nest nest nest')
+
+('NNP', 'zeppelin zeppelin mcdonald')
+

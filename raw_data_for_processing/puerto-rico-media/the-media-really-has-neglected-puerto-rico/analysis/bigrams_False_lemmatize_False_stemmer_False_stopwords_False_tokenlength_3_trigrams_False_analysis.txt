@@ -1,0 +1,46 @@
+Article: puerto-rico-media/the-media-really-has-neglected-puerto-rico
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 581
+Raw number of types: 268
+Raw Type token ratio: 0.4612736660929432
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 429
+Number of types: 233
+Type token ratio: 0.5431235431235432
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'media, data, data, suffers, media, things, sports, players, tweets, sentences, maria, stories, disasters, weeks, data, media, reveals, data, people, sentences, maria, hurricanes, harvey, mentions, states, networks, maria, networks, competitors, hints, programs, shows, observers, journalists, media, outlets, media, nahj, media, americans, ricans, citizens, searches, storms, puerto, media')
+
+('VBZ', 'has, has, has, collects, shows, shows, shows, seems, shows, delays, has')
+
+('VBN', 'neglected, filed, published, excepted, been, occupied, combined, compared, been, ignored, collected, hit, aired, issued, given, visit')
+
+('NN', 'rico, dhrumil, mehta, puerto, rico, github, github, datapuertoricomedia, rico, hurricane, health, care, bill, pass, election, alabama, spat, president, sunday, president, trump, nfl, phrase, anthem, news, puerto, rico, hurricane, course, hurricane, maria, database, news, internet, day, devastation, puerto, rico, news, coverage, trend, news, archive, news, hurricane, conversation, puerto, rico, hurricane, hit, texas, television, cable, news, hurricane, maria, bbc, network, hurricane, air, cnn, coverage, maria, data, network, coverage, analysis, talk, sunday, maria, landfall, minute, coverage, crisis, puerto, rico, mention, puerto, puerto, rico, status, territory, reason, lack, news, coverage, delivery, aid, association, statement, disaster, spokesperson, snyder, fivethirtyeight, press, coverage, devastation, attention, responsibility, attention, poll, half, puerto, rest, show, interest, mainland, storm, rico, silence, issue, president, trump, rico, week, presence, engagement, mainland')
+
+('VBP', 'get, are, spoke, have, didn, rico, are, cover, cover, september, isn, are, are, google')
+
+('JJ', 'sep, puerto, other, primary, few, last, national, other, worth, other, natural, past, few, cloud, little, attention1, similar, spike, spike, florida, british, political, many, national, hispanic, dearth, unacceptable, nationallocal, equal, nahj, recent, aware, american, public, initial, citizen')
+
+('VBD', 'fivethirtyeight, failed, was, said, published, right, was, was, covered, mentioned, did, did, aired, made, combined, dedicated, told, was, showed, was, hit, was, hit, planned')
+
+('VBG', 'covering, getting, ramping, according, speculating, calling, calling, paying, coming')
+
+('JJR', 'fewer, smaller, more, more, less, less, higher, more')
+
+('VB', 'irma2, bring')
+

@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2656
+Raw number of types: 735
+Raw Type token ratio: 0.2767319277108434
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 1040
+Number of types: 465
+Type token ratio: 0.44711538461538464
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'suspici onlin fantast great good decent someth annual offic increas rotten overal poor open movi critic critic popular tomatoes1 similar full consistency5 perfect enough fandango movi write weird user tangenti connect immedi consum notic receiv pull percent nearli fandango standard user seventyeight good live nearli critic tomatomet rotten normal tomato unsurpris fandango critic rotten tomato rotten tomato fandango deepli clear le engag unfair specul email scale wrong issu user fandango user next increment fandango sourc fandango sens accord ratingvalu normal pull user ratingvalu fandango appear fandango extrem ultron mean full handl occas ratingvalu present mean fandango occas includ fandango normal equival score13 actual percent clear happen fandango second decim clear first decim includ whole normal initi practic public email exampl forth gener practic softwar logic next email algorithm possibl app true accur high innoc good skeptic unnot major american similar figur good practic consum mari direct practic engl expect present user movi onlin issu hickey podcast last much long releas offic nash much open hard open invent critic indic movi critic tongueincheek critic tomato critic final todd good object true subject')
+
+('NN', 'movi rate especi fandango walt hickey file movi github github datafandango aveng excit date dinner movi date pick restaur star yelp movi check play ticket fandango websit decid thing peopl review averag star movi decent movi movi rate becom seriou busi hollywood gener order onlin rate aggreg sway money site tomato aggreg movi rate blame weekend singl make break film anymor mayb profession amateur togeth sever site rate system metacritic2 imdb3 aggreg film review site criterion pick combin review system valu continuum rate scale4 maintain attempt limit deliber ratings6 rate system sound use rate system get star accord score fandangocom site review medium industri fandango interest desir compani ticket directli start month colleagu film decent rate film fandangocom ticket sale year check github look film rate percent rate imposs movi focus none film rate percent rate star perhap societi rate film review site charit film pull imdb user rate metacrit rate score critic score tomato fivestar rate scale halfstar10 rate imdb metacrit typic ballpark star rate imdb rate percent time metacrit score percent time user score percent time critic score percent time user score percent time sort reason score site compar competitor peopl movi devot coupl hour life mayb favor opinion work mayb rightward shift fandango bell curv moviego version stockholm syndrom flaw rate system movi star fandango offer explan site user rate system access custom profil rate differ fandango statement intent purpos fandango use star thing rate methodolog rate websit fandango film page websit rate display spot star film poster area provid showtim star express fivepoint scale halfstar beneath star rate list number review film pull html page websit inform pull monday film star review inform html page aggregater rate maximum score star minimum score star thing code page star round system site halfstar case rate round star fandango round number star list page film sampl review list page sourc round rate round correctli mobil moment case aveng pull monday film star review accord code page aveng ultron ratingvalu star gain halfstar round kind effect board breakdown fandangocom system round film sampl quarter time number star movi averag rate round percent time round round stars11 percent time ad star rating12 juic score halfstar point time round system ad halfstar film rate happen aveng ultron star time round place ratingvalu html code place occas film round star case movi review averag rate fall half star requir round return film user review averag movi gain star round system ask fandango round relat coordin alison meulen alway display star round half star star site howev compani describ round dispar round system glitch site round star rate system half star half star compani statement fandango plan websit fandango round logic display mobil check sever film rais flag compani websit score skew websit fandangocom round exampl onlin movi rate compani sell ticket kind surviv websit ticket seller reason anoth issu site use feder trade commiss consum decept anticompetit pay attent rate product user rate truth nonmislead engl divis relat advertis comment specif compani alreadi investig compani user rate review import vacat purchas electron whatev review purport point walt world onlin review wisdom http servecastfirecoms5l8r1audio2600169whatsthepoint2015102216210964kmp3 subscrib matter movi studio look year base time perhap region build wordofmouth countri analyst bruce thenumberscom track offic today focus theater weekend think review effect look idea studio promot film accus earli start reason fandango case problem limit rate gener freelanc film kenigsberg use shorthand heurist reader kind look movi metacrit boil nation number site vanderwerff cultur editor feel creat movi realli person question ad look math head realiti base experi')
+
+('NNS', 'data data fandango nbcunivers fandango fandango data data movi mayb metacrit rotten data schema mathemat data alreadi movi repres endors accur consum movi data aggreg sens')
+
+('VBD', 'bought thought said fivethirtyeight skew mortdecai score paid said found fandango round found said round said told said found methodolog busi said said said adparamszon fivethirtyeight said hit said said')
+
+('VB', 'check review fivestar review coupl review round find higher take round take expect round round ratingvalu round show materi extrem')
+
+('VBP', 'go hold go rotten differ interfer subsidiari aggreg sell ask look someth seem fail reviews9 realli tomato fandango rotten make earn receiv backend say make expect expect halfstar occur think say fandangocom averag exampl appear accur appear fandango know miss protect promot know say look crowd strategi play get seem think think come rotten inaccur voxcom answer somehow')
+
+('VBN', 'built built given fandango shown starbas taken')
+
+('JJR', 'fewer higher higher higher higher higher higher')
+
+('JJS', 'least nearest nearest least nearest highest nearest')
+
+('VBZ', 'ratingvalu entir especi')
+

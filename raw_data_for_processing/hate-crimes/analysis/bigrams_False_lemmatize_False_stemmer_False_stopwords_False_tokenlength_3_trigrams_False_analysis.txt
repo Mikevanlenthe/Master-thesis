@@ -1,0 +1,48 @@
+Article: hate-crimes
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1696
+Raw number of types: 560
+Raw Type token ratio: 0.330188679245283
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1244
+Number of types: 510
+Type token ratio: 0.409967845659164
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jan, income, inequality, maimuna, majumder, hate, github, github, election, poverty, law, center, day, comparison, fbi, day, data, election, state, crime, poverty, law, center, factor, predictor, hate, hate, state, income, inequality, inequality, capita, election, connection, government, doesn, track, hate, poverty, law, center, situation, hate, poverty, law, center, election, navigate, crime, program, crime, law, enforcement, data, set, don, hawaii, instance, program, hate, fraction, hate, circulation, recruitment, college, hand, poverty, law, center, combination, form, hate, news, coverage, hate, election, awareness, bias, trend, health, research, hate, number, hate, splc, election, fbi, hate, question, factors1, state, education, percent, school, degree, diversity, percent, population, percent, population, heterogeneity, percent, population, health, household, income, unemployment, september, percent, poverty, income, inequality, gini, index, population, trump, github, multivariate, regression, figure, country, variety, model, type, analysis, impact, capita, method, unemployment, income, election, model, fbi, postelection, splc2, income, inequality, determinant, hate, preelection, postelection, magnitude, model, direction, correlation, income, inequality, population, school, income, inequality, determinant, neighborhood, violence, violence, general, economy, college, degree, blame, minority, motivation, situation, situation, mark, potok, journal, intelligence, report, income, inequality, anger, resentment, analysis, income, inequality, causation, hate, community, level, statelevel, hate, report, law, enforcement, report, hate, fbi, splc, report, fact, work, insight, preelection, postelection, hate, crime, victimization, survey, bureau, justice, postelection, incident, platform, collection, crisis, fbi, splc, difference, fbi, police, police, crime, victimization, survey, selfreport, survey, police, langton, chief, victimization, bureau, justice, majority, law, enforcement, survey, document, hate, project, propublica, twitter, message, addition, form, entry, approach, document, hate, officer, nat, manning, splc, election, hate, incident, wake, inauguration, day, role, trump, presidency, future, hate, hate, election, analysis, election, income, inequality, condition, hate, disparity, trump, administration, era, correction, version, article, analysis, analysis, postelection, article, version, percent, increase, gini, index, percent, increase, population, school, degree, percentage, point')
+
+('JJR', 'higher, more, more, higher, greater, more, older, better, further, broader, easier')
+
+('NNS', 'rates, crimes, crimes, data, data, days, incidents, crimes, numbers, incidents, days, trends, numbers, crimes, factors, states, rates, data, crimes, incidents, rates, incidents, crimes, agencies, media, accounts, people, selfreports, crimes, data, months, data, data, sources, biases, collects, data, agencies, data, collects, crimes, incidents, offenses, materials, data, media, accounts, entries, crimes, incidents, incidents, people, incidents, fields, data, limitations, data, sets, incidents, states, words, incidents, states, people, others, states, incidents, others, data, indicators, adults, areas, people, data, variables, determinants, incidents, indicators, incidents, determinants, shifts, determinants, data, data, variables, crimes, incidents, states, data, sets, determinants, analysis3, variables, incidents, individuals, neighbors, groups, incidents, others, people, limitations, confounders, crimes, incidents, drivers, incidents, indicators, data, incidents, states, people, incidents, states, agencies, residents, crimes, incidents, data, sets, data, sets, results, findings, data, sources, determinants, incidents, states, options, data, statistics, data, data, times, data, sets, data, records, crimes, respondents, crimes, statistics, crimes, collaborators, aims, people, incidents, users, meets, people, data, documents, days, plans, data, groups, incidents, incidents, states, incidents, factors, incidents, states, incidents, increases, economists, data, days, data, data, days, crimes')
+
+('VBP', 'hate, are, get, have, are, vary, analysis, have, hate, report, didn, are, have, have, hate, have, make, report, use, reveal, aren, see, try, are, hate, aren, see, fear, are, correlation, hate, doesn, report, are, are, are, are, are, include, hate, are, are, hate, make, report, selfreport, are, continue, expect, expect')
+
+('VBN', 'tied, filed, reported, reported, tied, given, controlled, released, data, curated, heightened, encouraged, reported, selfreported, distributed, reported, adjusted, used, populationadjusted, populationadjusted, associated, known, considered, combined, targeted, controlled, set, overrepresented, designed, based, known, recorded, reported, used, linked, linked, been, updated, associated')
+
+('VBZ', 'datahatecrimes, states, uses, means, data, includes, campuses, comes, includes, outputs, outputs, demands, makes, has, states, suggests, casts, remains, suggests, serves, has')
+
+('JJ', 'hate, southern, hate, average, tricky, collected, hate, typical, such, hate, fbi, southern, likely, true, other, relevant, federal, fbi, southern, fbi, several, southern, collect, available, easy, fbi, uniform, unclear, comprehensive, ucr, prosecutable, nonprosecutable, such, white, nationalist, other, southern, selfreported, hate, nonprosecutable, environmental, other, united, other, many, reported, key, socioeconomic, high, nonwhite, noncitizen, geographic, economic, median, white, donald, linear, significant, hate, socioeconomic, assess, much, independent, hate, essential, correlated, such, notable, preelection, significant, hate, united, other, consistent, further, significant, percent, high, degree4, special, subset, able, much, collegeeducated, misplaced, sufficient, hate, objective, angry, resentful, relative, splc, high, other, many, potential, hate, socioeconomic, likely, representative, united, possible, don, different, likely, likely, underrepresented, similar, robust, future, additional, united, annual, national, ushahidi, key, national, lynn, unreported, net, ushahidi, other, hate, text, email, traditional, splc, ushahidi, chief, first, ushahidi, useful, hate, oftied, united, uncertain, unclear, preliminary, same, hate, united, likely, economic, new, previous, worth, previous, high, hate')
+
+('VBD', 'were, were, limited, were, revealed, stood, were, was, held, won, baked, submitted, called, wellestablished, were, collected, metropolitan, measured, percent, voted, were, allowed, had, were, ran, found, was, varied, was, remained, highschooleducated, said, identified, yielded, reported, said, statistics, said, said, increased, were, were, mischaracterized, used, included, said, were, said')
+
+('VBG', 'averaging, reporting, according, including, including, controlling, conducting, doing, using, promising, crowdsourcing, asking, working, allowing, operating, collecting, catalyzing')
+
+('VB', 'tell, look, hate, have, have, answer, find, determine, provide, imply, differ, mean, hate, provide, supplement, play, serve, enable, have')
+
+('JJS', 'best, least')
+

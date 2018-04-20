@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 892
+Raw number of types: 251
+Raw Type token ratio: 0.28139013452914796
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags wars characters data wars wars fans data wars wars women women wars people wars wars films prequels wars wars movies movies data films movies questions answers people strikes characters respondents people respondents people wars people respondents respondents people fans movies people strikes prequels polls characters respondents characters binks shows wars')
+
+('VBP', 'america walt rest films franchise wars empire return seventynine strikes provide know')
+
+('NN', 'star github github yoda costume series exhibition cinema france chesnot week fighter production response trilogy excuse america empire solo greedo poll june percent question difference percent star film percent percent probability someone star film star empire film number return jedi star episode phantom menace hope movie subset star film question share film rate rate hope jedi phantom menace film rate chart film format favorability state rate series favorability rating personification galaxy impact revisionism society datastarwarssurvey saintdenis sneak perfect star surveymonkey github gender film episode favorite series audience film view displayed star star star star star star star please consider rank drill')
+
+('JJ', 'hickey cite getty peek bunch percent episode episode favorite overall third fourth second boilerplate evil favorite favorite forthcoming recent many hated available substantial likely original original likely third second middle third bottom third nuanced political unfamiliar actual historical first films camps shot want used renamed indicated preferred examine')
+
+('VBG', 'middling xwing following responding surveying seeing')
+
+('VBZ', 'wars respondents images')
+
+('JJS', 'best worst least best least least best worst worst')
+
+('VB', 'take realize find')
+
+('VBD', 'wanted wellliked read watched caught said reported asked broke said took')
+
+('JJR', 'higher higher lower')
+
+('VBN', 'filed seen compared seen compared seen seen given given seen seen followed seen rated asked calculated rated preferred rated asked')
+
+Token analysis after pre-processing 
+Number of tokens: 282
+Number of types: 162
+Type token ratio: 0.574468085106383
+

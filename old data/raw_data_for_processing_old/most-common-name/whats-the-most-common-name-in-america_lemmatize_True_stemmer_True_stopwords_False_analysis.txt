@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2080
+Raw number of types: 612
+Raw Type token ratio: 0.29423076923076924
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 1079
+Number of types: 428
+Type token ratio: 0.39666357738646896
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dear common america illustr common first lastnam common north yorkshir real last name american descript piec name surnam third common full sophist conclus common first first social minni aliv bo similar typic american variou popular first instanc name ethel live includ immigr countri foreignborn adjust common correct common methodolog abl make sure popular first unadjust calcul american first femal diffus le whole american first percent american list next straightforward american last publish present american past thi ethnic ethnic abl exampl percent white surnam white sinc same overal white percent overal major white thi come much common american surnam name total call smith call rare hear adjust last independ other guess american particular first lastnam relat other illustr common first last probabl neat littl mislead import wrong basic certain first last surnam equal american breakdown racial ethnic percent american surnam white surnam first american last spanish southern first lastnam white basic mark hartman littl strong racial ethnic first last exampl american name thoma american basic much underestim preval particular click other togeth american simpl le bold such unpopular extend probabl notic other improb wire ethnic highli unlik chang surnam american surnam simpl appear doubl onli huge last statist certain first certain last adjust like basic america second dramat common full accord nearli mean common combin overal georg reckon uniqu dearmona')
+
+('VBN', 'mona mona christen born given chang surnam miller')
+
+('JJS', 'most most least most most most most')
+
+('NN', 'name mona chalabi file hope number help github github joel plosz illustr joel plosz combin unit state john smith realli name dear kieron headscratch becaus list better time money work togeth separ databas stitch john name america probabl doesn answer colleagu tri techniqu reach name america jame smith name secur administr databas date problem none babi today death account number babi year sinc use actuari life tri figur nate silver use methodolog look name factor life name time woman name chunk peopl percent popul wasn name databas babi name hispan latino half popul mostcommon name state factor base name state hispan detail footnotes1 thi hispan latino immigr reflect result name america accord number name2 name male name name statist jargon parent imagin babi girl name name surnam thi becaus censu bureau databas number surname3 problem becaus nomenclatur year account look breakdown popul breakdown individu number instanc surnam growth racialethn group surnam smith percent hispan number smith rate popul ditto garcia hispan share name hispan rate thi caus reshuffl surnam becaus hispan popul percent popul period proport share garcia popul share smith calcul mani fashion rate surnam mile smith johnson tricki number probabl number peopl countri chanc michael chanc figur probabl michael smith thi column thi methodolog crap death rate immigr popul growth treat person name name variabl number combin roll dice name point name countri highli chart reason thi demograph fact name distribut becaus censu bureau group show percent fact name intuit probabl call martinez year hartman associ professor illinoi test intuit hartman idea look combin page websit simpl probabl captur realiti probabl didn choos name tabl use censu record look differ doe show factor name thoma name likelihood name rodriguez percent call thoma rodriguez search whitepagescom hartman number name percent probabl simpl probabl name use hartman matrix expand gem reveal idea assum name order number call john johnson david davi thoma thoma william william probabl alliter mark martin daniel davi parent pick name list name combin factor simpli couldn detect matter name plan daughter mine event probabl wouldn lott john smith percent phone book probabl suffer blow figur histori name becom clichéd bynam bland step account fact chanc name john chanc name simpl name account hartman research probabl result michael smith drop name place bypass jame smith chang exampl accord independ probabl maria garcia name maria smith hartman correl percent skyrocket name post use analysi github page number help incident probabl name unit state move mona question answer fivethirtyeightcom datalab538')
+
+('VBD', 'andrew georg set andrew mani brittani took found were were were were grew grew grew togeth were were simpl found were rodriguez found thank were comput andrew rose were placehold took smith were were')
+
+('JJR', 'flower flower younger consider higher more better more more easier more slower more lower lower flower fewer more more more')
+
+('NNS', 'data data data togeth data vari data data maria data data divers surnam surnam thi aren surnam heimerl rezendiz hispan maria maria univers peopl thi pretti combin le data maria maria data andrew')
+
+('VBP', 'datamostcommonnam dear want have go explain easili smith realiti differ think look expect expect correct need make popul move becaus tend tend name appear adjust have name4 garcia go go clear tend have turn divid show have have look know publish affect think emeritu tri have independ phonebook chart appear call have independ have take expect garcia expect garcia hope suggest have send')
+
+('NNP', 'kieron')
+
+('VB', 'abl make veri sadli take count start focus calcul have have be be crap take chanc be suggest suggest suggest be suggest rank kieron peopl like')
+
+('VBZ', 'distribut veri assum someth offens estim combin')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 978
+Raw number of types: 327
+Raw Type token ratio: 0.3343558282208589
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 671
+Number of types: 422
+Type token ratio: 0.6289120715350224
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', '\ufeffclub global united65 leaguelogo munich leaguelogo madrid teamlogo arsenal bayern ligue teamlogo north uanl21 psv68 young super rapid sweden teamlogo gijón49 bundesliga ligue quality updated,after united65,teamlogo league,201718 teamlogo,bayern bayern,munich league,leaguelogo atlético,madrid madrid,teamlogo teamlogo,arsenal teamlogo,bayern serie,201718 napoli70,teamlogo north,carolina0 tigres,uanl21 uanl21,teamlogo primeira,201718 season,portugal netherlands,teamlogo teamlogo,rapid leaguelogo,allsvenskan östersund0,allsvenskan norway,teamlogo sporting,gijón49 nürnberg45,teamlogo serie,201718 nîmes55,teamlogo behind,these')
+
+('NN', 'soccer soccer power index match soccer league season england teamlogo city81 teamlogo teamlogo liverpool60 premier league leaguelogo season spain teamlogo barcelona72 teamlogo atlético madrid64 teamlogo madrid57 season teamlogo barcelona teamlogo bayern teamlogo europa league season teamlogo atlético teamlogo marseille europa league leaguelogo bundesliga season germany teamlogo munich66 teamlogo schalke teamlogo dortmund45 bundesliga leaguelogo season italy teamlogo juventus71 teamlogo napoli70 teamlogo roma56 serie season france teamlogo psg77 teamlogo monaco63 teamlogo marseille59 ligue leaguelogo season teamlogo toronto teamlogo seattle0 teamlogo atlanta3 leaguelogo season teamlogo portland0 carolina0 teamlogo orlando0 clausura season mexico teamlogo teamlogo santos laguna23 teamlogo américa21 leaguelogo superliga season argentina teamlogo juniors46 teamlogo talleres38 teamlogo independiente35 superliga leaguelogo primeira season portugal teamlogo porto67 teamlogo benfica65 teamlogo sporting62 primeira leaguelogo season teamlogo ajax61 teamlogo alkmaar56 eredivisie leaguelogo premier league season russia teamlogo lokomotiv49 teamlogo spartak moscow41 teamlogo moscow41 premier league leaguelogo season turkey teamlogo galatasaray53 teamlogo beşiktaş50 teamlogo başakşehir50 süper leaguelogo league season switzerland teamlogo boys58 teamlogo basel41 teamlogo gallen39 league leaguelogo bundesliga season austria teamlogo salzburg59 teamlogo sturm graz51 teamlogo vienna40 bundesliga leaguelogo allsvenskan season teamlogo malmö0 teamlogo teamlogo allsvenskan leaguelogo eliteserien season rosenborg0 teamlogo molde3 teamlogo sarpsborg3 eliteserien premiership season scotland teamlogo celtic67 teamlogo rangers58 teamlogo aberdeen53 premiership championship season england teamlogo wolverhampton76 teamlogo cardiff city73 aston villa69 championship season spain teamlogo huesca57 teamlogo vallecano54 teamlogo leaguelogo bundesliga season germany teamlogo fortuna50 teamlogo nürnberg45 teamlogo holstein leaguelogo season italy teamlogo empoli54 teamlogo frosinone53 teamlogo palermo50 serie season france teamlogo reims66 teamlogo nîmes55 teamlogo lorient50 ligue methodology importance match boice reuben fischerbaum julia wolfe power,index after,match match,global global,soccer premier,league league,201718 season,england england,teamlogo teamlogo,city81 city81,teamlogo teamlogo,united65 teamlogo,liverpool60 premier,league league,leaguelogo season,spain spain,teamlogo teamlogo,barcelona72 barcelona72,teamlogo teamlogo,atlético atlético,madrid64 madrid64,teamlogo teamlogo,madrid57 madrid57,leaguelogo season,teamlogo teamlogo,barcelona barcelona,teamlogo munich,teamlogo leaguelogo,europa europa,league season,teamlogo teamlogo,atlético arsenal,teamlogo teamlogo,marseille marseille,europa europa,league league,leaguelogo season,germany germany,teamlogo bayern,munich66 munich66,teamlogo teamlogo,schalke schalke,teamlogo teamlogo,dortmund45 dortmund45,bundesliga bundesliga,leaguelogo season,italy italy,teamlogo teamlogo,juventus71 juventus71,teamlogo teamlogo,napoli70 teamlogo,roma56 roma56,serie serie,leaguelogo leaguelogo,ligue season,france france,teamlogo teamlogo,psg77 psg77,teamlogo teamlogo,monaco63 monaco63,teamlogo teamlogo,marseille59 marseille59,ligue ligue,leaguelogo leaguelogo,season season,teamlogo toronto,teamlogo teamlogo,seattle0 seattle0,teamlogo teamlogo,atlanta3 leaguelogo,season season,teamlogo teamlogo,portland0 portland0,teamlogo teamlogo,north carolina0,teamlogo teamlogo,orlando0 orlando0,leaguelogo clausura,season season,mexico mexico,teamlogo teamlogo,santos santos,laguna23 laguna23,teamlogo teamlogo,américa21 américa21,leaguelogo leaguelogo,superliga superliga,season season,argentina argentina,teamlogo teamlogo,juniors46 juniors46,teamlogo teamlogo,talleres38 talleres38,teamlogo teamlogo,independiente35 independiente35,superliga superliga,leaguelogo portugal,teamlogo teamlogo,porto67 porto67,teamlogo teamlogo,benfica65 benfica65,teamlogo teamlogo,sporting62 sporting62,primeira primeira,leaguelogo teamlogo,psv68 psv68,teamlogo teamlogo,ajax61 ajax61,teamlogo teamlogo,alkmaar56 alkmaar56,eredivisie eredivisie,leaguelogo premier,league league,201718 season,russia russia,teamlogo teamlogo,lokomotiv49 lokomotiv49,teamlogo teamlogo,spartak spartak,moscow41 moscow41,teamlogo teamlogo,moscow41 premier,league league,leaguelogo süper,201718 season,turkey turkey,teamlogo teamlogo,galatasaray53 galatasaray53,teamlogo teamlogo,beşiktaş50 beşiktaş50,teamlogo teamlogo,başakşehir50 süper,leaguelogo leaguelogo,super super,league season,switzerland switzerland,teamlogo teamlogo,young young,boys58 boys58,teamlogo teamlogo,basel41 basel41,teamlogo teamlogo,gallen39 gallen39,super super,league league,leaguelogo season,austria austria,teamlogo teamlogo,salzburg59 salzburg59,teamlogo teamlogo,sturm sturm,graz51 graz51,teamlogo rapid,vienna40 vienna40,bundesliga bundesliga,leaguelogo allsvenskan,season season,sweden sweden,teamlogo teamlogo,malmö0 malmö0,teamlogo teamlogo,teamlogo teamlogo,östersund0 allsvenskan,leaguelogo leaguelogo,eliteserien eliteserien,season season,norway teamlogo,rosenborg0 rosenborg0,teamlogo teamlogo,molde3 molde3,teamlogo teamlogo,sarpsborg3 sarpsborg3,eliteserien eliteserien,leaguelogo leaguelogo,premiership season,scotland scotland,teamlogo teamlogo,celtic67 celtic67,teamlogo teamlogo,rangers58 rangers58,teamlogo teamlogo,aberdeen53 aberdeen53,premiership premiership,leaguelogo leaguelogo,championship season,england england,teamlogo teamlogo,wolverhampton76 wolverhampton76,teamlogo teamlogo,cardiff cardiff,city73 city73,teamlogo teamlogo,aston villa69,championship championship,leaguelogo season,spain spain,teamlogo teamlogo,huesca57 huesca57,teamlogo teamlogo,vallecano54 vallecano54,teamlogo gijón49,leaguelogo leaguelogo,bundesliga season,germany germany,teamlogo teamlogo,fortuna50 fortuna50,teamlogo teamlogo,nürnberg45 teamlogo,holstein holstein,kiel41 kiel41,bundesliga bundesliga,leaguelogo season,italy italy,teamlogo teamlogo,empoli54 empoli54,teamlogo teamlogo,frosinone53 frosinone53,teamlogo teamlogo,palermo50 palermo50,serie serie,leaguelogo leaguelogo,ligue season,france france,teamlogo teamlogo,reims66 reims66,teamlogo teamlogo,nîmes55 teamlogo,lorient50 lorient50,ligue about,methodology rated,quality quality,importance importance,match match,boice boice,reuben reuben,fischerbaum fischerbaum,julia julia,wolfe')
+
+('NNS', 'predictions ratings leagues rankings standings matches champions champions netherlands forecasts soccer,predictions index,ratings ratings,leagues soccer,rankings rankings,standings standings,matches leaguelogo,champions teamlogo,champions season,netherlands these,forecasts')
+
+('VBZ', 'forecasts tigres predictions,forecasts teamlogo,tigres')
+
+('VBN', 'updated')
+
+('VBP', 'leaguelogo league league teamlogo forecasts,soccer matches,leaguelogo champions,league champions,league')
+
+('JJR', 'premier soccer,power leaguelogo,premier leaguelogo,premier moscow41,premier')
+
+('VBD', 'serie leaguelogo leaguelogo eredivisie süper super leaguelogo leaguelogo leaguelogo kiel41 serie leaguelogo rated leagues,updated leaguelogo,201718 league,201718 leaguelogo,bundesliga leaguelogo,serie ligue,201718 leaguelogo,201718 leaguelogo,primeira leaguelogo,eredivisie league,201718 leaguelogo,bundesliga premiership,201718 championship,201718 leaguelogo,201718 bundesliga,201718 leaguelogo,serie ligue,201718 forecasts,rated')
+
+('NNP', 'östersund0 \ufeffclub,soccer')
+
+('VBG', 'sporting teamlogo,sporting')
+

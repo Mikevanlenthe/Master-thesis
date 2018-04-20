@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1677
+Raw number of types: 444
+Raw Type token ratio: 0.26475849731663686
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'tag florida bush florida plenty floridian bush representative primary thirteen percent impressive endorsement gephardt bush supreme endorsement github giuliani endorsement half primary percent super sure donor pac reasonable bush primary open official endorsement republican endorsement endorsement endorsement primary mitt endorsement endorsement endorsement nominee individual endorsement weak former former presidential former presidential super particular last meaningful endorsement current republican national second weak great republican determinative important eric clear early eventual national nonincumbent large large early primary weak democratic democratic early true presidential united presidential small true united hard eventual primary predictive third republican clear republican previous democratic eventual last democratic large eventual super extra clear super independent predictive current recent likely super early organizational super additional super impressive large easy lead early bush bush dismiss mean bush super unveiled nnps republican')
+
+('NN', 'thing bush frontrunner bush joel plosz joel money everything thing campaign bush campaign today talk goal month money matter bush attention house member bush bush raft pol house delegation marco rubio race bush house member anyone field candidate rand paul congress home endorsement race speck hampshire tier position governor senator point percent choice field official none process party applemandemocracy action relationship percentage vote endorsement bush problem lead endorsement endorsement romney frontrunner number john summer percentage endorsement share bush brother george number percentage share point race comparison endorsement race dick gephardt house house caucus problem race minority leader house candidate money election court decision explosion sample size election spending vote campaign percentage money raised3 money race campaign endorsement piece crane race robertson phil gramm money point race crane giuliani race crane robertson gramm giuliani endorsement money result race nomination point endorsement race candidate money june year michael dukakis percent money halfway point percent endorsement point john money percent point money lead bush money support official money race money course money power money candidate pac form development money support year something money something strength edge information candidate percentage percent chance nomination candidate percent money field percentage percent chance thing endorsement thing bush shot candidate shot account fare tell senator endorsement forma endorsement governor senator member poll poll endorsement point point point point bigwig endorsement candidate candidate lead point leader campaign time point point time point point endorsement endorser option election citizen analysis election study effect candidate endorsement time field candidate leader candidate field group matter endorsement poll candidate story cash governor week florida state homestate fellow iowa frontrunner endorsement homestate word primary nomination endorsement bush endorsement potential noncampaign spending word something selffunding4 year sixth predictive future bush bush phil counting pick hold judge rudy foretell help raise envision le state bush safest')
+
+('VBD', 'harry florida began weight fight haul weighted weight wrapped went')
+
+('VB', 'plosz kerry tell look know')
+
+('VBG', 'polling fundraising fundraising fundraising winning going fundraising backing including running using struggling chairing voting serving keeping gobbling making trying using fundraising counting counting raising taking winning telling winning losing')
+
+('VBP', 'mccain grab pac hold give poll donation echo say explain')
+
+('VBZ', 'bush freeforalls seems seems')
+
+('JJS', 'contest least closest weakest')
+
+('VBN', 'raised filed considered given plagued earned used taken raised declared raised raised elected raised raised based based combined made')
+
+('NNS', 'data decides postcitizens data frontrunners differs enters bush')
+
+('JJR', 'easier')
+
+Token analysis after pre-processing 
+Number of tokens: 540
+Number of types: 270
+Type token ratio: 0.5
+

@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1481
+Raw number of types: 460
+Raw Type token ratio: 0.3106009453072249
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'marriage casselman marriage github github datamarriage philogene wait beach florida raedle image actor lawyer amal sept venice celebrate marriage teyssot image stripe beneath trend lie distinction group marriage research center week report decline marriage state today figure trend race education income characteristics2 number divide affluent marriage marriage fact rate generation marriage poorer story child marriage plan marriage divide mirror trend economy income disappearance job college degree trend employment tend hand hand report week quarter today age estimate extrapolation generation behavior problem marriage moment time person question life year majority3 trend marriage assume today path decade group chart show marriage rate4 education age rate college degree trend group decade story decline steeper college graduate fact marriage rate generation piece evidence pattern college graduate wait woman child woman bachelor degree three6 woman child percent versus percent college woman child range college graduate word something requirement child marriage rate mother school diploma percent rate child rate mother evidence divergence get marriage survey percent respondent school marriage versus percent college graduate survey result division line income division race orientation report week reason marriage rate employment education marriage job college degree job survey percent woman spouse case husband belief percent education percent idea percent survey result woman behavior half age job8 education help term marriage rate education population survey percent age school diploma work versus percent college job earn laid distinction come marriage divorce rate percent age rate le regardless education decade divorce rate college degree divorce rate bachelor steady10 pattern income divorce rate family poorer number picture marriage overstate decline marriage school marriage rate percent marriage')
+
+('JJ', 'dead right palm getty clooney british arrive pierre getty american married important last percent old percent1 broad reveal hidden american married close child outside unlikely lesseducated american different married many likely likely likely divorced stagnation marriage last young married wednesday fundamental impossible unmarried american later least percent american percent solid steady reasonable follow general pattern broken american lesseducated clear downward different much le possible different wedlock child half early married young close child ready lesseducated american strong young high much high obsolete socioeconomic similar political smaller7 last decline young much likely much likely important prospective steady requirement moral religious much similar child borne actual steady third steady steady much spouse identical regardless much likely likely current high young degree9 likely lesseducated american american divorced american percent american degree le similar much le affluent paint different divide real important american high child dead')
+
+('VBN', 'filed married divorced married related based given done married married married fallen educated fallen collegeeducated educated married married compared employed taken')
+
+('NNS', 'data data others people reveals people people suggests marriagechildren diploma twothirds')
+
+('VBP', 'edor marry marry older continue child tend decide link suggest help come degree')
+
+('JJS', 'west least least')
+
+('VB', 'george appear turn decide marriage explain degree make')
+
+('VBZ', 'alamuddin nongraduates exists reflects exists')
+
+('JJR', 'fewer lower higher poorer')
+
+('VBG', 'getting overarching delaying skipping cutting delaying abandoning getting getting getting focusing interesting raising shifting becoming falling including raising finding according rising declining')
+
+('VBD', 'released united collegeeducated estimated marry wrote forecast accelerated collegeeducated married collegeeducated agreed split suggested nevermarried said ranked married married lesseducated educated married doubled held lesseducated married')
+
+Token analysis after pre-processing 
+Number of tokens: 612
+Number of types: 307
+Type token ratio: 0.5016339869281046
+

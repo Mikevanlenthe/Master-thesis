@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1014
+Raw number of types: 240
+Raw Type token ratio: 0.23668639053254437
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token true true verbs rule riddler mean royale castle matchup royale solver twobysix forth fibonacci pattern specie submit email suggested noticed tetri kurkdjian logic classic next classic whole classic special distant strategic worth castle castle possible last last clear many solid high wide intrepid twobyfour empty equal fantastic former last classic szatmary last classic single extinct sure extinct extinct original conditional extinct former different single good little riddle castle piece archenemy')
+
+('NN', 'analysis number number ratio lemmatizer stemmer article riddler nation riddler github github illustration guillaume riddler week offer problem thing math probability type riddler express something movement submit either1 shoutout week column hint riddler express participatory gametheory problem submit number number submission number number submit number riddler joel baker riddler nation battle land castle warlord value conqueror victory point enemy distribute victory point number troop point distribution force enemy battle point submit plan battle plan battle riddler nation submit plan solution week riddler express congratulation stephen carrier berkeley california winner week game board piece arrangement form block square square illustration arrangement vivek number number space tetri piece number discussion math check document samuel wirajaya math solution week riddler congratulation pennsylvania winner week time microorganism member specie split copy probability multiplication chance specie chance probability probability specie probability microorganism probability equation equation solution probability probability extinction chart laurent lessard probability extinction probability microorganism oliverroeder fivethirtyeightcom split twobyeight welcome slowpuzzle twitter take average wartorn castle castle receive queen puzzle pattern tetri cool extinct dear need send addict child twobytwo token analysis number number ratio')
+
+('VBG', 'preprocessing using using using beginning asking distributing king knowing fighting solving multiplying preprocessing')
+
+('NNS', 'tokens types filters stopwords false nouns adjectives tokens chosen data data datariddlercastles conquers multiplies submits sends tokens types')
+
+('VBP', 'type hold begin oneonone call q2\\\\end tetri want want find know adjudicate type')
+
+('VBN', 'token used placed filed bitesized submitted given given related token')
+
+('VBD', 'separated fight luck edited crowned welldefined squared lucky')
+
+('NNP', 'tetri')
+
+('JJR', 'roeder soldier soldier soldier')
+
+('VB', 'fill \\\\begin know')
+
+('JJS', 'closest')
+
+Token analysis after pre-processing 
+Number of tokens: 328
+Number of types: 205
+Type token ratio: 0.625
+

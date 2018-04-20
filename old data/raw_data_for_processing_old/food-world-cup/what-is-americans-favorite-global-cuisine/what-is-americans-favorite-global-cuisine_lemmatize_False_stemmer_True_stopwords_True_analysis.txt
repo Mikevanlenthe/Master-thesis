@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1942
+Raw number of types: 618
+Raw Type token ratio: 0.31822863027806386
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 837
+Number of types: 378
+Type token ratio: 0.45161290322580644
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'american global soccer intern good italian other introduc discuss american full cuisin familiar american skate undef fresh surveymonkey audienc allow much intern knockoutphas round total ethiopia vietnam undecid argentina undecid belgium undecid brazil undecid itali greec undecid cuba undecid germani undecid speak shock unweight percent culinari spain brazil equivoc third underwhelm undef percent ionian nearli laughabl belgian belgian belgian civil wrong fair clear itali spain undecid competit domin perform american respond nearli wide japan undecid percent adventur franc undecid french fri voter respond china undecid final outcom actual voter signific undecid voter voter undecid statist plausibl chicken undef battl north american itali undecid miracl mani korea divis culinari juggernaut peninsular strong respond itali mexico undecid fine gross dive american larg experienc improv american next thirdplac undecid good consol mexican bronz final itali undecid american italian italian definit italian tournament averag margin american consum unlimit')
+
+('NN', 'favorit cuisin nate silver walt hickey file fivethirty illustr buyss illustr buyss world wonder countri team nation cuisin play launch food associ fifa world group phase competit identifi frontrunn itali soccer soccer world uruguay lui suarez appar confus tournament play bite countri mexico chanc aveng soccer disappoint china qualifi soccer world world cuisin competit base survey mostli wound bracket gener pantheon cuisin competit tougher unit state threat group stage face belgium round soccer world play tournament seri survey respond countri head head phase world respond addit reveal food respond rate sixpoint scale interest experi claim cuisin group phase result experienc voter heavili call voter eater differ matchup respond weight eater june mexico beat percent percent percent japan percent percent percent franc beat percent percent percent unit state percent percent percent spain beat percent percent percent beat percent percent percent china beat percent percent percent thailand beat percent percent percent gener round favorit round soccer world closest contest thailand germani use thailand percent margin experi germani content possibl nation soccer team produc respond choos spain peopl abl margin group stage cook result chanc itali quarterfin mexico crush vote battl itali greec onesid gratifyingli rout belgium rack percent vote belgium percent consid matchup limit cuisin forc breakfast food waffl spirit airlin breakfast buffet fri tri spice food someth belgium probabl soccer game epic matchup quarterfin round titan takeout menu quarterfin respond weight eater match winner beat percent percent percent itali favorit gorg allyoucaneat mozzarella stick rate sixpoint eater scale itali margin percent percent mexico beat percent percent percent happi mexico advanc evid food involv learn curv percent eater rate eater scale mexico percent japan percent rate unit state percent percent percent survey popul includ peopl call fri potato freedom year rate eater scale percent percent franc edg percent percent rate thailand beat percent percent percent contest eater swung vote count slightli favor china percent percent thailand eater stori slightli nuanc look vote detail china crush thailand eater scale number thailand domin rate vote weight heavili prevail contest look rate eater scale tini sampl size respond vote vote fluke superfoodi abl experi sort food part countri york california talk place spici tasti food ventur gener sort region thailand retain record tournament advanc semifin itali semifin mexico culinari supremaci semifin respond weight eater conduct juli beat thailand percent percent percent moment appreci thailand start seed wildcard squad thailand thing soccer continu belgium knock germani shock china nation culinari tradit itali pull decis result eater itali percent percent rate scale identifi danger cuisin food snob food noob agre result unit state percent percent percent crush belgium beat franc result injustic arjen mexico gain ground eater scale voter rate percent percent howev lead eater mexico hope burrito knowledg help time match respond weight eater conduct juli beat thailand percent percent percent soccer world reason play thirdplac game semifin loser decid redempt beat thailand skillet respond weight eater conduct juli beat unit state percent percent percent homepl advantag goe food margin boost voter weight talli favor percent percent2 result play match margin percent percent everyon reportedli plan mozzarella stick friday')
+
+('VB', 'fare knockout win consider happen thailand take take mexico')
+
+('VBD', 'fivethirtyeight weight went beat weight choos beat nearli china famou delight beat everi came lost')
+
+('VBN', 'done gone known built')
+
+('NNS', 'decid choos respons increas ethiopia els wors juli japanes defens chines algeria competit tick els')
+
+('VBP', 'take remain rest two1 prefer depend turn make beat spain take prove frankli come avail pour go expect adjust seem avail engag go russia everyon outset make think robben win turn celebr')
+
+('JJR', 'ringer closer less closer')
+
+('JJS', 'best least best least likeliest lowest likeliest quest')
+

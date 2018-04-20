@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 682
+Raw number of types: 226
+Raw Type token ratio: 0.3313782991202346
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags tags data williams datadailyshowguests years students people ways guests years muppets actors comedians years people visits comedians performers years media figures authors figures politicians politics media figures years actors musicians comedians guests appearances politics feels friends friends')
+
+('VBP', 'represent hell tour guests show walk show show')
+
+('VB', 'stewart talk')
+
+('NN', 'show github president host york show episode mater graduation school show audience member metro record part look guests2 profile google knowledge graph3 chair mind fusion everyone show today show figure program presence dole show presence politicos presence show time show emphasis head government percent actor movie year couple plurality show count show appearance march stewart tonight vucci brian comedy grace washington formula boss hickey july sanity stewart show showbyshow find zakaria guest tonight')
+
+('JJ', 'walt github stewart list stewart percent denis meld unique standard william stewart outsized come alma shot fifth pulled daily daily last prospective late daily political first several military consistent whole important military last leary last central mary monarchs appear talked sucked')
+
+('VBZ', 'stewart elizabeth roommates drops list1')
+
+('VBD', 'jammed fareed caught appeared followed crosschecked affiliated went came began')
+
+('JJS', 'guest guest')
+
+('VBN', 'started changed started started changed interviewed relegated dominated left filed')
+
+('VBG', 'interesting taping taping ending featuring helping growing leaving hosting happening filling showing promoting kicking begging')
+
+Token analysis after pre-processing 
+Number of tokens: 209
+Number of types: 158
+Type token ratio: 0.7559808612440191
+

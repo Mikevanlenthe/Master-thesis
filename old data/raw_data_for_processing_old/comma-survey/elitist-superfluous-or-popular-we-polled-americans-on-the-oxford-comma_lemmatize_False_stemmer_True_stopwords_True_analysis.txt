@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 889
+Raw number of types: 370
+Raw Type token ratio: 0.4161979752530934
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 343
+Number of types: 231
+Type token ratio: 0.673469387755102
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'elitist poll oxford comma walt hickey file grammar github github datacommasurvey oxford birthplac oxford comma caleb jone spill thing grammat blight insuffer ahistor stalin dress dancer grammat expert think audienc poll june ask camp comma ask respond opinion import person kind import person kind latter oxford comma none result middl prooxford command percent vote comma grab percent number cantor hardli victori controversi john mcintyr longtim editor blog baltimor author editor merril perlman adjunct professor columbia school journal veteran york time owner consult compani perlman suspect peopl taught learn grammar rule escap mouth realli loyalti rule mcintyr blunt passion oxford comma effect postur despit passion oxford comma troubl heart mind wonder comma kind peopl survey grammar excel realli humbl type perlman peopl grammar follow rule sentenc preposit know rule coher thing involv latin part linguist goal matter comma pure person mcintyr baltimor press stylebook point omit perlman view use rabid comma simpl seri journal form year sinc believ rule matter grammar matter note relev interest fivethirtyeight particular peopl use noun term respond singular crowd percentagepoint margin percent respond percent half respond survey press issu')
+
+('VBD', 'superflu fivethirtyeight fell said said lost said took conclus thought')
+
+('JJ', 'popular american english publish comma comic exot weigh averag american surveymonkey american sentenc loyal loyal former much partisan tyranni extra eric clear oxfordian ask pro languag graduat email rap ungrammat sentenc instil deep feign comic mere major partisan rival peopl oxford mani good good conjunct good explan deep clear unambigu oxford write edit associ serial drum follow final singular plural plural vast major usag prior')
+
+('NNS', 'data data dictionari univers goe grammat knuckl pars data data pretti data data data')
+
+('VBP', 'press list correct say know think tend prefer tend tell think think think start exist refer speech prefer follow follow know exist clariti prefer prefer think prefer seem')
+
+('NNP', 'oxford zealou')
+
+('VBZ', 'comma accompani ask')
+
+('VB', 'unnecessari defeat perform win')
+
+('VBN', 'seen split come found thought')
+
+('JJS', 'honest honest')
+

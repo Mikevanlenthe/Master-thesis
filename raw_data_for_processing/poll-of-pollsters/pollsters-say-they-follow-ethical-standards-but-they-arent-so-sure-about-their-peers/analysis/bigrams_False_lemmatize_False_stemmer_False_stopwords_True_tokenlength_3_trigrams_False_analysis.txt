@@ -1,0 +1,48 @@
+Article: poll-of-pollsters/pollsters-say-they-follow-ethical-standards-but-they-arent-so-sure-about-their-peers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1913
+Raw number of types: 636
+Raw Type token ratio: 0.3324621014113957
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 857
+Number of types: 493
+Type token ratio: 0.5752625437572929
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'oct, poll, poll, anonymity, ability, parse, time, pollster, forecast, dozen, horserace, coverage, factor, vote, senate, control, poll, download, year, colleague, harry, evidence, line, epicmra, pollster, john, anzalone, anzalone, liszt, research, drew, distinction, pass, test, poll, anzalone, field, cost, check, poll, poll, respondent, question, anonymity, anyone, pollster, want, question, copying, thought, article, reason, belief, release, poll, julia, clark, ipsos, question, way, face, kind, practice, attention, matter, clark, york, article, example, form, clark, question, help, clark, look, market, publication, majority, check, university, hampshire, trust, trust, pollster, take, shot, care, job, client, brad, coker, research, inc, try, voter, see, poll, consumption, model, selzer, selzer, company, campaign, poll, picture, way, reserve, comment, name, industry, model, berwood, marshall, college, concern, poll, race, pollster, forecast, disclosure, average, side, election, yost, anzalone, publishing, poll, quality, darrel, rowland, columbus, dispatch, order, influence, share, information, work, poll, faulty, car, question, emphasis, speed, clark, acknowledge, form, recall, poll, domain, everyone, work, name, organization, work, pew, research, center, nonelection, work, pew, anzalone, policy, york, street, journal, ciruli, greenberg, michael, ciruli, peer, company, reaction, question, rating, organization, survey, question, poll, credit, vote, margin, official, database, credit, murray, monmouth, university, said4, selzer, rating, company, anything, selzer, reason, company, rating, polling, everyone, disagreed, anything, ask, survey, use, email')
+
+('NNS', 'pollsters, standards, peers, bialik, pollsters, data, github, data, datapollofpollsters, images, images, pollsters, ethics, pollsters, principles, others, campaigns, results, peers, ethics, media, polls, ones, pollsters, questions, ethics, ratings, answers, people, polls, elections, others, models, results, polls, pollsters, others, results, numbers, peers, pollsters, findings, others, numbers, others, results, results, times, suspects, findings, results, pollsters, respondents, pollsters, numbers, polls, results, people, years, organizations, fluctuations, numbers, numbers, results, others, statistics, times, pollsters, cues, pollsters, peers, results, questions, clients, others, methods, numbers, polls, respondents, campaigns, campaigns, factors, results, pollsters, relationships, campaigns, assumptions, results, pollsters, scenarios, campaigns, results, pollsters, results, campaigns, pollsters, others, standards, polls, firms, models, partisans, polls, averages, elections, polls, polls, groups, polls, forecasts, partisans, pollsters, media, polls, polls, polls, reporters, polls, people, pollsters, reporters, reporters, results, polls, organizations, pollsters, polls, days, errors, actors, errors, pollsters, nominations, gallup, votes, times, pollsters, ratings, pollsters, ratings, reservations, pollsters, pollsters, ratings, pollsters, concerns, ratings, campaigns, polls, pollsters, voters, candidates, predictions, numbers, pollsters, methods, results, polls, pollsters, cuts, dates, data, findings, ratings, pollsters, organizations, pollsters, suggestions, pollsters, questions, suggestions, fivethirtyeightcom, comments')
+
+('VBP', 'say, carl, get, github, illustration, illustration, work, database1, senate, reveal, conduct, help, work, see, github, fall, provide, bernie, match, smell, get, statistics, think, wild, follow, run, work, begin, backlash, plan, work, say, poll, affect, tell, need, know, want, get, campaigns, want, say, come, believe, think, think, believe, hope, think, porn, try, question, respond, hear, appropriate, creep, think, midst, nbc, stanley, conduct, get, allocate, suggest, gotten, get, grades, suggest, cbialik, leave')
+
+('JJ', 'follow, ethical, sure, getty, getty, second, political, follow, basic, ethical, dictate, many, doubts, good, lousy, active, political, fivethirtyeight, many, major, primary, november, full, porn, live, optimal, poor, firm, brandnew, meaningful, inclined, suspect, enten, certain, good, obvious, different, bayesian, recent, new, inevitable, vary, many, sensible, answered, anticipate, potential, narrow, smith, new, want, hear, several, little, complicated, want, different, affect, long, alternative, internal, publish, insist, ann, hypothetical, publish, accurate, portray, right, suppose, several, polling, franklin, affect, many, mysterious, partisan, straight, fear, credulous, stop, shitty, partisan, bias, undermine, publish, publish, much, important, recall, practical, public, bad, many, good, innovative, lots, gold, standard, selzer, public, cbs, newsnew, newswall, democratic, bocian, vote, received, typical, positive, fair, possible, likely, participate, particular, private, undecided, different, final, full, recent, arbitrary, patrick, datadriven, lower5, want, open')
+
+('VBN', 'filed, asked, contacted, paid, granted, named, asked, published, noticed, published, added, renewed, asked, reflected, partyaffiliated, released, financed, emphasized, done, named, heard, raised, improved, agreed, published')
+
+('VBG', 'leading, copying, letting, thinking, driving, forecasting, suggesting, copying, revising, revising, rejecting, polling, conducting, changing, going, saying, adjusting, paying, consulting, speaking, weighting, polling, including, producing, trying, averaging, putting, reporting, wording, polling, recalling, polling, citing, polling, polling, including, polling, grading, sending')
+
+('VBD', 'asked, answered, said, held, responded, reported, found, asked, answered, said, influenced, said, said, grove, pointed, margin, said, happened, convinced, said, answered, adjusted, cited, said, answered, discredited, cited, agreed, said, said, said, said, added, answered, said, masondixon, said, described, said, considered, tried, wanted, said, asked, included, said, said, said, biased, reported, said, said, said, recalled, responded, said, said, unpublished, focused, provided, asked, said, got, got, got, saw, answered, said, said, chose, changed, weight, said, found, grade, agreed, scored, asked')
+
+('JJS', 'honest, dishonest, dishonest, best, best')
+
+('VB', 'inform, wrong, get, match, fly, become, take, marketplace, crazy, let, dictate, push, clarify, take, fail, skewed, swayed, see, become, make, contact, monkey, like')
+
+('JJR', 'earlier, better')
+
+('VBZ', 'takes, takes, associates, answer, goes, gets')
+

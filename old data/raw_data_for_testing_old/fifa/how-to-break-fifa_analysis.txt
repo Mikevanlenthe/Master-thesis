@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1750
+Raw number of types: 633
+Raw Type token ratio: 0.3617142857142857
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'break silver game github datafifa headquarters bozon picture organisation head office zurich september meeting committee president candidature mandate head fifa condition attribution world qatar sebastien bozon photo credit indictment bunch fifa justice department wednesday step fifa platini president football federation uefa sepp blatter president fifa world qatar world welloff football blatter threat leverage soccer future structure power brazil development country population money world plurality television licensing world televise world cup1 country market world south fifa audience world television report world fifa listing size estimate television country country percapita purchasingpower gdp4 country income nation nation world fifa world viewership population5 population percent audience world percent china percent percent brazil percent kingdom italy france percent half world audience percent audience table download share country body population world audience audience concacaf japan brazil conmebol france russia spain korea indonesia mexico concacaf turkey thailand argentina conmebol poland saudi arabia canada concacaf colombia conmebol venezuela conmebol south malaysia switzerland belgium uefa vietnam iran chile conmebol romania austria singapore portugal uefa share confederation percent fifa world percent tournament audience contrast asia south fifa measure audience measure population argue course thing representation square decision world qatar world percapita colleague carl bialik week fifa governing suit parity version wealth exchange world club football audience game world soccer talent world percent club football country club part winter world qatar interrupting club season fifa break percent world audience start break fifa world president vladimir putin derail blatter reelection competition world football federation include germany france italy spain region japan australia latin america mexico chile percent world audience percent clubteam representation world convince argentina join breakaway foundation percent world audience knockout stage year world mass whichever zealand fifa premier league division football league take advantage deal change point view6 period prosperity club football power break money motivate change')
+
+('JJ', 'fifa nate beautiful fifa getty fifa front last executive formalized meanwhile photo sebastien bozonafpgetty bozon getty first corrupt thursday michel european fifa fifa rogue african asian fifa uefa credible european united economic responsible fifa current organizational much proportion much fifa percent quadrennial reliable reasonable lucrative africa detailed wide different comprehensive fifa high disposable valuable lucrative united belowaverage relative large wealthy total represented japan germany united gdpweighted global germany uefa uefa italy uefa uefa uefa uefa south uefa uefa uefa africa uefa nigeria uefa sweden uefa uefa uefa aggregate continental fifa african africa underrepresented uefa fifa give first fifa second favorable stark official viewership responsible uefa tense international many defect fifa uefa russia particular unlikely russian european transcontinental rival oecd large european united asiapacific korea oecd brazil gdpweighted last critical pick nigeria flee bluff english first then104yearold favorable seamless meant english institutional hard')
+
+('VBN', 'filed reelected considered networks published played used based used')
+
+('NNS', 'data data shows images images officials countries nations organizations presidents federations indictments countries others states revenues funds claims rights fees estimates data countries data data audiences sponsors rights viewers data viewers states countries figures countries countries australia numbers confederations members countries members countries counterarguments procedures interests ways estimates assumptions countries differences rates figures countries players relations teams clubs players matches countries countries interests indictments nations members economies states members countries countries parallels teams masse')
+
+('VBP', 'github logo sebastien know handful brazil japan china fifa make come fifa countries2 china make github china greece fifa compare make happen plutocrats make purchasingpower furthermore reflect roster european fifa align foundation russia foothold south account colombia formation england')
+
+('NNP', 'zurich')
+
+('VBZ', 'ebastien images gives distributes comes reflects comes netherlands estimates shows compensates represents includes sometimes')
+
+('VBD', 'sepp discussed read said awarded backed reached weight reached weighted gdpweighted followed accounted represented gdpweighted gdpweighted represented gdpweighted gdpweighted wrote opposed played required gdpweighted awarded responded gdpweighted advanced reached wanted occurred resigned')
+
+('JJR', 'batter less better worse viewer wealthier')
+
+('VBG', 'beginning footballing going including bringing voting selling licensing reporting following going developing making according developing developing bringing cultivating releasing accusing trying including')
+
+('VB', 'quit give take give require need mean happen')
+
+('JJS', 'least highest')
+
+Token analysis after pre-processing 
+Number of tokens: 719
+Number of types: 412
+Type token ratio: 0.5730180806675939
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 960
+Raw number of types: 399
+Raw Type token ratio: 0.415625
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 526
+Number of types: 303
+Type token ratio: 0.5760456273764258
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rate team decade play method measure strength gamebygame result rating game history rating total team rating average league expansion team start rating methodology game result profootballreferencecom championship bowl title bowl football league football professional football association football conference franchise football history game team zoom history professional football franciscos history england patriot super bowl season calculate count patriot rating stretch league history stretch belong average season playoff time game time championship patriot peak rating time start season childhood brady bill cowboy project cowboy history dallas team football record season cowboy werent fan reason trade cowboy bowl herschel walker minnesota exchange bevy player pick emmitt smith safety tackle russell contributor walker yard season deal history payoff wasnt cowboy season rating playoff year bowl season title cowboy rating championship game gain point year time packer history anyone packer bowl aflnfl merger team reminder longevity football chance wisconsin chicago bear title bowl peak season team packer success brett championship season bowl figure aaron peak history fan miami dolphin didnt success year season bowl perfect record history year miami backtoback championship peak game team height resurgence bowl loss curve way jacksonville jaguar lesser florida team year creation rating week season championship game revival decade')
+
+('JJ', 'simple league average league super league super national american league american defunct favorite entire incredible last dynasty average franciscos born nfls entire arent optimistic defensive huge carry full lopsided immediate super january green good long green other team super nfls green franchise slate super modern peak january squad super green early dolphin early first team next title same super complete high miami historical comparable lose brief')
+
+('VBN', 'based selected been cared dominated championship captured gotten wait title returned')
+
+('VBD', 'calculated expanded read played tried francisco made racked were were sent became surpassed finished came were emerged came favreled matched joined made reached peaked went')
+
+('JJR', 'higher lower winner more more more')
+
+('VBG', 'depending including excluding seasonending rebuilding coming giving running drafting running viking bottoming following living reaching edging winning winning hitting thrashing hitting')
+
+('VBP', 'include win become answer have woodson maryland make have have team have super have have')
+
+('JJS', 'least greatest best best highest best least worst most')
+
+('VB', 'choose belichick have dolphin')
+
+('VBZ', 'depends')
+
+('NNS', '49ers 49ers darren dallas theyd rodgers jaguar')
+

@@ -1,0 +1,19 @@
+Token analysis before pre-processing 
+Raw number of tokens: 3
+Raw number of types: 3
+Raw Type token ratio: 1.0
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'scientistmorehavecandidcommunenginissciencpercentgavegivedonataccordsupportdemocratdatawerefostertakepartisaidmemberthinksaidcongresshaanalysiorganbeenpolithousreceivgithubbillfoster runpoliticianraiselectpresidgofinddoctorworriworkresearchgroupmarcham')
+
+Token analysis after pre-processing 
+Number of tokens: 2
+Number of types: 2
+Type token ratio: 1.0
+

@@ -1,0 +1,48 @@
+Article: riddler-pick-lowest/pick-a-number-any-number
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1149
+Raw number of types: 416
+Raw Type token ratio: 0.36205395996518713
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 471
+Number of types: 291
+Type token ratio: 0.6178343949044586
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', '\ufeffpick, kurkdjian, welcome, related, dear, logic, classic, slowpuzzle, next, favorite, dust, attic, simple, intriguing, positive, unique, inducted, exclusive, ordinal, classic, inclusive, extra, last, previous, certain, fine, primary, many, different, legal, many, different, general, capable, select, possible, november, general, last, classic, north, dakota, previous, classic, strategic, distribute, castle, victory, many, send, bad, previous, many, total, victory, solver, excellent, need, effective, many, win, much, possible, poor, even, perfect, victory, eriksson, enough, daniel, mathematical, troop, good')
+
+('NN', 'number, number, riddler, riddler4x3default, illustration, guillaume, riddler, week, math, probability, express, something, riddler, movement, submit, either1, week, column, hint, puzzle, find, twitter, riddler, express, abijith, krishnan, participatory, problem, submit, integer, person, number, order, riddler, nation, submit, number, riddler, itay, bavly, number, problem, start, want, organize, chain, chain, use, number, number, chain, example, chain, place, chain, length, chain, credit, submit, solution, week, riddler, express, snowmass, village, colorado, express, puzzle, town, atlarge, city, commission, voter, election, field, cast, ballot, election, number, voting, vote, zero, vote, vote, vote, candidate, way, vote, election, solution, week, riddler, winner, puzzle, conquer, victory, value, conqueror, victory, number, castle, news, battle, order, matter, distribution, opponent, need, jack, markley, description, intuition, solution, knowledge, battle, figure, strategy, enemy, case, war, everything, enemy, get, cost, castle, number, soldier, number, castle, victory, point, distribution, distribution, distribution, zack, segel, problem, technique, kind, share, code, graphs, image, jack, argument, enemy, distribution, program, distribution, combat, spy, distribution, spy')
+
+('VBN', 'edited, filed, bitesized, finished, given, required, called')
+
+('VB', 'roeder, get, adjacent, build, vote, reduce, voter, start, choose, rugby, make, make, deal')
+
+('VBP', 'offer, hold, riddler, want, correct, need, winner, chainlink, build, cooper, winner, choose, choose, select, choose, josiah, collect, enemy, castle, send, know, archenemy, need, win, need, win, need, want, want, want, want, give, desire, enemy, worst, daniel, see, find, band')
+
+('NNS', 'problems, things, types, submissions, rules, factors, numbers, numbers, congratulations, mats, folks, seats, candidates, candidates, ways, outcomes, ties, advances, candidates, candidates, ways, ways, ways, candidates, ballots, candidates, candidates, slots, equals, outcomes, congratulations, jenkins, warlords, castles, points, points, soldiers, castles, soldiers, conquers, wins, points, troops, points, points, spy, soldiers, soldiers, losses, soldiers, soldiers, soldiers, castles, points, points, soldiers, people, things, economics, points, points, conquer, numbers, soldiers, sets, soldiers, soldiers, soldiers, castles, points, solvers, simulations, attempts, iterations, bars')
+
+('JJR', 'answer, answer, longer, soldier')
+
+('VBG', 'collecting, building, leaving, running, excluding, separating, adding, competing, meaning, involving, requiring, conquering, using, annealing, representing')
+
+('VBZ', 'submits, integers, multiples, gives, castles, castles, sends, ends, wins, win, arrives')
+
+('JJS', 'lowest, longest, least, best')
+
+('VBD', 'left, started, let, split, suffered, provided, ruled, spent, approached, simulated, converged, described')
+

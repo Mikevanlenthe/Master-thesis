@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 665
+Raw number of types: 303
+Raw Type token ratio: 0.4556390977443609
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags tags patterns substances grows data data data boomers flowers data data reports rates admissions boomers years generations boomers drugs reveals boomers drugs drugs data drugs boomers groups people boomers rates contemporaries drugs groups boomers differences drugs boomers relievers purposes boomers relievers respondents tranquilizers stimulants amphetamines respondents drugs boomers groups users boomers days days days days days days groups boomers drinkers days errors people boomers respondents people drugs parents grandparents boomers boomers boomers reports painkillers people boomers painkillers boomers ones dozens drugs questions drugs boomers drinks drinks adults admissions facilities boomers generations certificates drugs deaths reasons users researchers people effects boomers problems described overdoses traits')
+
+('VBP', 'baby crowd answer make know tend')
+
+('JJR', 'barryjester older boomer lower younger smaller lower younger younger older younger older older younger older smaller older younger')
+
+('NN', 'health github github decade drug street article month mentality drug look baby percentage consume alcohol marijuana analysis alcohol marijuana availability perception change drug group time survey drug substance health samhda drug drug drug alcohol marijuana alcohol percent chart baby line prescription pain year percentage pain group ritalin year number group year week drug generation drug percent rate percent percent period difference drug painkiller category survey prescription addiction standpoint percent year drug illicit cause concern subgroup something analysis health standpoint week night puff marijuana cause concern addiction share drug treatment share population research richard miech professor university miech lack information death drug population generation loss isolation brain drug generation predilection story github alcohol anna datadrugusebyage baby wall babyboomer debilitating baby baby carry compare notice default download michigan woodstock pain maria cohort1 nonprescription babyboom percent nature illicit illicit identifying andrew drink')
+
+('JJ', 'plenty baby percent cocaine percent high potential addictive present analyze reveal hospital journal archive equivalent public previous last youthful small public different difficult able federal mental different similar overall individual next previous common frequent many previous median high median comfortable high narcotic true different additional common problematic previous high likely oxycontin public occasional hard responsible overdose different high chronic social different narrative quadruple increased hallucinogens')
+
+('VBD', 'smoke aged reported funded asked went began said said used turned')
+
+('VBG', 'mindaltering potsmoking reporting causing aging including making taking saying using including saying reporting including turning warning dropping concerning binging according getting coping aging')
+
+('VBN', 'drugrelated detailed used shared filed used reported reported given used compared given done aged opted used aged started')
+
+('VBZ', 'makes habits relates americans shows comes seems represents')
+
+('VB', 'drink remove')
+
+Token analysis after pre-processing 
+Number of tokens: 407
+Number of types: 241
+Type token ratio: 0.5921375921375921
+

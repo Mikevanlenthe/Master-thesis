@@ -1,0 +1,25 @@
+Token analysis before pre-processing 
+Raw number of tokens: 40
+Raw number of types: 35
+Raw Type token ratio: 0.875
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'percent requir limit ferguson ferguson detail vari github popul city force officer share reflect bureau year debat categori serv')
+
+('JJ', 'live')
+
+('NNS', 'data')
+
+('VBP', 'dispar differ')
+
+Token analysis after pre-processing 
+Number of tokens: 23
+Number of types: 22
+Type token ratio: 0.9565217391304348
+

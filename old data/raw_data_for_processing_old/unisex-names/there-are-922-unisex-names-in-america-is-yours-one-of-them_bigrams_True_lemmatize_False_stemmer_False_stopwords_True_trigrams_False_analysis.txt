@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1263
+Raw number of types: 818
+Raw Type token ratio: 0.6476642913697546
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 842
+Number of types: 672
+Type token ratio: 0.7980997624703088
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'common unisex andrew getty kerry hard much unisex riley living riley percent recent adorable golden press riley wide percent unisex onethird name male onethird female hard common unisex total social androgynous minimum threshold sure enough unisex actuarial data similar mccann previous searchable table male female minimum maximum likely able unknown unnamed ambiguous full searchable table likely unknown excluded infant added at 916 in america get the keough getty are these it can because these names are pretty much unisex  named riley and the it may saw a the adorable of the the golden at a perhaps you thinking of of riley thing  neither a name nor nor a s both nearly 1 in 109 unisex name name   which at least were male were female female  unisex name name is the 20 most common ranked by the total number of name  used over from the the social most androgynous  the given to least five set my my minimum to make name was was prevalent enough to actually unisex unisex  using actuarial  also from the adjusted the approximate the living with was similar allison mccann used in a previous name to currently alive nearly 3 the searchable searchable table shows the in the  the balanced the is between  with a minimum minimum value and maximum about 3333  the not edit list of and as a number number of were able identify five of these  unknown unknown  unnamed   infant notnamed  from the more ambiguous left them  you you can behind this as the an earlier the searchable searchable table in this  unknown unnamed   infant ve now added an')
+
+('NNS', 'names flowers names data github data dataunisexnames women names americans rings warriors americans newborns names people years names data names people people tables people colleagues people america people names shares sexes names records names data others data names names unisex names andrew flowers under names at dataunisexnames these men or women these names living americans riley rings state warriors philadelphia eagles it turns of americans which means unisex names years of create this androgynous names people to actuarial tables the names my colleagues had to million people female shares the sexes ssa does edit its of names result records placeholder names these   others unisex names placeholder names')
+
+('VBP', 'america github riley riley bell postgame name data create make allison make alive result identify names in names get dataunisexnames facebooktwitteremail men or women  to say example   and rings a curry  curry of warriors  receiver for eagles  americans   have that at to say what the lists the this list names  tables  data to colleagues allison to have people have shares  sexes  its list names and records a what are others  as well names in taken those')
+
+('VBD', 'filed balanced ranked balanced notnamed thought left excluded unnamed notnamed by andrew flowers filed pretty balanced a 51 woman   ranked i used at 100 i adjusted silver used least 25000 america had than 900 below  evenly balanced and notnamed and removed so left  227 article excluded and unnamed and notnamed and added')
+
+('NN', 'curry riley cooper riley casey riley jessie jackie peyton jody example maletofemale ratio percent split video riley curry daughter stephen curry state conference cooper receiver philadelphia thing riley name woman name unisex name chart number work colleague mona chalabi security administration list name prevalent determine approximate number name method nate silver story name column difference number name value edit list number placeholder infant infantof baby child explore code analysis github clarification june version unisex article placeholder infantof data explanation jun  am the the most most common common unisex america  one of of them them  filed under the data data on on github github github github data data at facebooktwitteremail riley riley curry curry  riley cooper cooper and and riley getty casey casey  riley  jessie and and jackie jackie   jody jody  pat  can be be hard hard to much unisex take riley riley  for example americans are riley  the maletofemale maletofemale ratio ratio is is pretty balanced  with a percent to to 49 percent split split  if riley may be be because because you you saw a recent recent video video of of riley riley curry daughter of of nba nba mvp mvp stephen stephen curry golden state a postgame postgame press press conference conference  you  riley cooper cooper  the wide wide receiver for the the philadelphia that  s the riley is is neither a man man  s name a woman both  percent of a unisex least onethird onethird of that name male and and at least onethird s hard hard to the   most most   unisex  but the chart chart below common unisex by the total number of people people with building off off work work done done with with my my colleague colleague mona mona chalabi chalabi  social security security administration administration to to create of the the most the ssa ssa has has data data on to at five people people  minimum threshold threshold at make sure a name to determine determine whether whether it it was the ssa ssa  number of of people with each each name this was similar to to a a method method my mccann and and nate nate silver previous story story  for a a name to make make the the top top 20 cut  at least alive in in america have one one of of the the more more than in the table below the  gap   column the difference difference in the male male and and female the lower lower the the more the name between the with a value of of zero zero and maximum of the ssa as a a result able to five of infant  infantof and removed them the data data  like baby baby and and child child  we thought ambiguous and and so them in can explore explore the the code code behind this analysis analysis  the full full data data set set  at github github   clarification clarification  june 10 earlier version of the table of of unisex this article unknown and more  infant  infantof and of the the data data  too  an explanation explanation ')
+
+('VB', 'take i set to approximate does not to identify should have')
+
+('VBN', 'named given done used given adjusted used removed taken are named have a have it are most  unnamed have excluded')
+
+('VBG', 'thinking building using living 155000 living re thinking the thing  building  using currently living')
+
+('VBZ', 'eagles turns means lists shows is yours peyton  and pat of newborns below lists that name but i that a column shows')
+
+('JJS', 'least least least least')
+
+('JJR', 'lower')
+
+('NNP', ' riley  riley  jessie  peyton  kerry kerry and  are  take  for  with  the  the  riley  but the number  this  for  the  gap the number  the  infantof  and  june  but  infantof  too  and')
+

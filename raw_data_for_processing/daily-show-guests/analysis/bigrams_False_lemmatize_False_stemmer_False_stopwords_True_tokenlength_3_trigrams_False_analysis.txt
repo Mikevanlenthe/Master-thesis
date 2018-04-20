@@ -1,0 +1,46 @@
+Article: daily-show-guests
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 642
+Raw number of types: 313
+Raw Type token ratio: 0.48753894080996885
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 285
+Number of types: 220
+Type token ratio: 0.7719298245614035
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'aug, guest, jon, hickey, president, stewart, show, york, evan, vucci, era, show, stewart, episode, tonight, show, stewart, alma, graduation, school, shut, show, audience, member, elizabeth, washington, metro, record, way, sanity, stewart, part, hell, look, list1, guests2, profile, google, knowledge, graph3, chair, fusion, everyone, show, way, today, formula, talk, show, list, arm, sometime, figure, grace, program, presence, presence, gap, presence, show, war, time, show, show, emphasis, head, percent, government, percent, actor, movie, year, couple, plurality, show, brian, appearance, march, jon, stewart, tonight, edt, comedy')
+
+('VBP', 'stewart, github, walk, stewart, find, mind, run, politicos, represent, count, show, boss')
+
+('VB', 'show, get, run, show, sucked')
+
+('JJ', 'walt, jon, daily, july, new, daily, jon, last, new, old, william, mary, prospective, tour, late, jammed, big, interesting, guest, unique, sat, meld, monarchs, standard, shot, first, political, bob, dole, first, several, military, consistent, long, much, whole, important, outsized, fifth, affiliated, military, last, fareed, denis, leary, last, mic, central')
+
+('VBN', 'filed, set, started, interviewed, started, show, subdued, come')
+
+('NNS', 'data, github, data, datadailyshowguests, airs, years, students, edwards, friends, people, ways, guests, years, friends, muppets, feels, actors, comedians, years, people, visits, comedians, performers, years, media, authors, figures, politicians, politics, guests, politics, media, figures, years, actors, musicians, comedians, zakaria, appearances, williams, times')
+
+('VBD', 'host, went, attended, changed, pulled, crosschecked, talked, changed, dominated, appeared, relegated, started, caught, left, came, began, followed')
+
+('VBG', 'taping, ending, taping, featuring, helping, growing, leaving, hosting, happening, filling, showing, promoting, kicking, begging')
+
+('VBZ', 'roommates, figures, guests, drops')
+
+('JJS', 'guest')
+

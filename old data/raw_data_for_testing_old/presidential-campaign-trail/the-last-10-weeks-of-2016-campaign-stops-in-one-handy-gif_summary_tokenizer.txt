@@ -1,0 +1,25 @@
+Token analysis before pre-processing 
+Raw number of tokens: 128
+Raw number of types: 98
+Raw Type token ratio: 0.765625
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('JJ', 'last##handy##filed##main##hillary##enough##conservative##daily')
+('NN', 'week##campaign##election##github##github##datapresidentialcampaigntrail##postelection##criticism##clinton##campaign##campaigning##donald##trump##clinton##campaign##rally##inperson##medium##appearance##clinton##dayaftertheelection##concession##speech##york##news##hillaryspeechescom1##campaign##schedule##map')
+('VB', 'stop##stop')
+('NNS', 'matthew##data##data##data')
+('VBN', 'conlen##made##collected##compared')
+('VBG', 'traveling##including##according')
+('JJR', 'fundraiser')
+('VBD', 'sept##made')
+
+Token analysis after pre-processing 
+Number of tokens: 57
+Number of types: 45
+Type token ratio: 0.7894736842105263
+

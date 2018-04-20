@@ -1,0 +1,28 @@
+Token analysis before pre-processing 
+Raw number of tokens: 646
+Raw number of types: 304
+Raw Type token ratio: 0.47058823529411764
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('NNS', 'people##data##data##databirths##delivers##obstetrics##data##data')
+('JJ', 'superstitious##friday##expect##many##induced##cesarean##double##superstitious##friday##friday##tend##births1##friday##vague##sorry##superstitious##superstitious##obstetrician##cesarean##friday##universal##friday##good##second##friday##medical##email##full##computational##statistician##complex##monthly##avoid##certain##previous##birth##cowrote##several##bayesian##third##recent##recent##birth##high##friday##consistent##whole##birth##leap')
+('NN', 'baby##carl##bialik##github##github##baby##fall##month##parent##doctor##deliver##birth##delivery##section##choice##lot##parent##chance##date##luck##fear##number##birth##month##effect##fall##weekend##delivery##ward##schedule##month##lot##parentstobe##birth##child##birthday##year##reason##parent##forum##pregnancy##website##forum##office##lady##luck##change##bug##site##section##think##belief##birth##luck##become##household##parent##forum##birth##birthday##family##neel##shah##assistant##professor##school##schedule##cesarean##induction##labor##friday##scientist##vehtari##andrew##gelman##method##calendar##birth##effect##pattern##trend##attempt##land##date##finding##birth##extension##analysis##researcher##effect##valentine##halloween##cover##textbook##author##data##analysis##edition##vehtari##gelman##birth##reran##analysis##generation##parent##effect##date##expect##birth##result##finding##calendar##notice##christmas##holiday##day##month##analysis')
+('VBD', 'friday##filed##treated##scheduled##staffed##wrote##wrote##said##said##wrote##asked##laughed##said##said##said##developed##sent##found##gave##suppress##andrew')
+('VBG', 'parenting##tying##longstanding##avoiding##bugging##saying##scheduling##teasing##separating##covering')
+('VBP', 'thousand##whammy##expect##avoid##gynecology##look')
+('VBN', 'born##given##given##given##planned##planned##longterm##based##made##scheduled##found##contributed')
+('JJR', 'fewer##fewer')
+('VB', 'take##booked')
+('JJS', 'smallest')
+('VBZ', 'analysis')
+
+Token analysis after pre-processing 
+Number of tokens: 277
+Number of types: 184
+Type token ratio: 0.6642599277978339
+

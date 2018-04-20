@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1389
+Raw number of types: 450
+Raw Type token ratio: 0.32397408207343414
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 577
+Number of types: 298
+Type token ratio: 0.5164644714038128
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dear getty mona heard north tricky historic negligent much much indiana good first involved personal national fatal fatal total fatal dakota available fatal national interested behavior fatal fatal nationwide distracted worth thoughtday ohio north dakota fatal plenty impressive fatal distracted fatal previous first high idaho previous fatal available speedingrelated mississippi irresponsible good thirtyone alcoholimpaired utah fatal average assessment likely national highrisk expensive average combined premium comprehensive logic half good american uninsured irresponsible vast fatal insured average good expensive easy lisa fatal understand north national insured answered')
+
+('NN', 'mona state hope chainreaction pileup accident pennsylvania feasterville pennsylvania william thomas cain state region ability state question number state insurance insurance country state contrast vermont board motor vehicle property damage injury fatality highway traffic safety administration texas state washington state state state state factor state focus number course state figure average example driver time accident road time mind driver detail percent percent need caution none time information bear mind state york example percent database percent crash figure state percent figure percent determine driver speeding time nhtsa total traffic percent percent traffic pennsylvania share percent behavior indicator driver percent traffic driver percent traffic year figure percent news insurance base driver behavior state insurance cost future association insurance jersey insurance country collision insurance average country insurance research council percent fraction oklahoma insurance vehicle question insurance state insurance figure number fairer insurance state number number percentage costing state louisiana sorry answer number driver insurance average collision hope question send dearmona fivethirtyeightcom datalab538')
+
+('JJS', 'worst worst highest latest latest latest best highest best')
+
+('NNS', 'drivers chalabi numbers images drivers people others lisa carolina types data america drivers crashes companies companies drivers measures drivers drivers collisions crashes states crashes crashes drivers drivers conditions miles characteristics drivers collisions drivers miles miles data drivers crashes drivers collisions miles individuals drivers accidents cases distractions drivers cellphones drivers drivers accidents drivers accidents drivers drivers crashes drivers crashes drivers drivers collisions crashes data fatalities fatalities fatalities fatalities montana fatalities numbers providers prices indicators accidents premiums companies figures commissioners drivers idahoans drivers drivers drivers premiums drivers roads motorists terms prices losses providers sums collisions ones companies states drivers comparisons companies losses drivers drivers drivers idahoans drivers insurers collisions jerseyans insurers collisions crashes ones providers carolinians prices drivers losses numbers')
+
+('VBP', 'mona help dear bemoan asheville want charge vary iowa need know jersey perspective multitude overall naic affect think data make come come apiece think deserve cost help')
+
+('VBN', 'filed united involved involved involved known distracted recorded distracted compared recorded based given involved involved incurred paid distributed insured estimated compared')
+
+('VB', 'scene indicate sound drunken reflect mona like')
+
+('JJR', 'worse answer fewer higher less')
+
+('VBD', 'lived resulted accounted traveled involved traveled traveled involved traveled distracted recorded recorded distracted lost involved treated involved licensed involved recorded occurred occurred occurred alcoholimpaired found divided registered licensed insured clearcut')
+
+('VBG', 'driving neighboring using according driving bearing eating drinking dreaming speeding speeding speeding driving including according according insuring driving looking using costing')
+
+('VBZ', 'bottom produces percentages shows varies makes')
+

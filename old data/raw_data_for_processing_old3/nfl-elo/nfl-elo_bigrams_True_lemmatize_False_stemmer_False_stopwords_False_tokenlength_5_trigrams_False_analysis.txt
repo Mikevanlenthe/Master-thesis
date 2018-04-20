@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 960
+Raw number of types: 399
+Raw Type token ratio: 0.415625
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 721
+Number of types: 577
+Type token ratio: 0.8002773925104022
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'decades results ratings ratings teams results championships titles winners franchises games patriots stretches seasons playoffs times games times championships patriots cowboys dallas cowboys cowboys players picks darren contributors yards seasons vikings deals cowboys playoffs years titles cowboys points years packers packers teams theres bears titles packers rodgers dolphins dolphins dolphins seasons championships heights losses jaguars jaguars years across,decades gamebygame,results calculated,ratings expansion,teams methodology,results profootballreferencecom,championships league,titles including,winners those,allamerica defunct,franchises least,games incredible,49ers england,patriots count,patriots 19season,stretches francisco,49ers these,seasons seasons,49ers playoffs,times racked,championships season,49ers least,1990s history,dallas trade,cowboys exchange,players players,picks safety,darren became,contributors surpassed,carries either,seasons seasons,vikings lopsided,deals immediate,cowboys theyd,playoffs playoffs,years three,titles january,points three,years green,packers dominated,packers merger,teams slate,titles edging,packers aaron,rodgers early,dolphins miami,dolphins success,dolphins winning,seasons backtoback,championships reached,heights super,losses jacksonville,jaguars while,jaguars peaked,years')
+
+('JJ', 'simple total average league profootballreferencecom super super national american league american defunct choose favorite entire incredible become dynasty count patriots average belong franciscos entire belichick optimistic minnesota emmitt defensive lopsided immediate theyd january green green dominated other super aflnfl green franchise modern january squad green matched early didnt first super super complete miamis historical comparable peaked brief decades,method method,simple ratings,total although,league include,super winners,national national,football league,american league,american american,professional excluding,those there,defunct football,history history,those above,choose entire,history history,professional franciscos,incredible depends,count stretches,belong during,these times,racked after,their childhood,brady brady,belichick there,least cowboys,history giving,their reason,optimistic woodson,defensive maryland,three dallas,while never,surpassed deals,history rating,theyd first,three championship,january points,three years,green other,those chance,green bears,slate their,before packers,modern modern,success their,january favreled,squad super,green nearly,matched dolphins,early dolphins,history joined,didnt their,first losses,complete thrashing,miamis miamis,historical curve,comparable title,peaked after,their championship,despite')
+
+('NN', 'measure strength gamebygame league history rating average league expansion rating methodology league football league football professional football association football conference football history explore history professional football franciscos history england season calculate answer rating stretch league history average rating start season childhood brady arent project history football record season reason trade herschel walker exchange smith safety tackle russell walker history payoff wasnt season rating season rating championship history anyone merger reminder longevity football chance wisconsin chicago super season success brett championship season super figure aaron history miami success winning perfect record history miami backtoback title curve jacksonville florida creation rating season championship revival decade simple,measure measure,strength based,gamebygame ratings,every league,history history,30000 total,average rating,about league,average recently,league expanded,expansion rating,about about,methodology super,league football,league american,football football,league professional,football football,association football,conference played,least choose,favorite favorite,explore explore,entire professional,football football,franciscos history,before before,england super,season tried,calculate calculate,whether whether,become greatest,dynasty dynasty,answer rating,16season stretch,league league,history history,17season belong,francisco franciscos,average rating,after their,start start,season among,entire entire,childhood belichick,arent arent,quite rebuilding,project football,record coming,season cowboys,werent their,reason optimistic,trade running,herschel herschel,walker walker,minnesota minnesota,exchange running,emmitt emmitt,smith smith,safety defensive,tackle tackle,russell three,became while,walker walker,never history,payoff payoff,wasnt wasnt,immediate finished,season following,season rating,after after,championship before,anyone cared,about about,green before,super before,aflnfl aflnfl,merger teams,existence reminder,longevity longevity,football instead,1920s theres,almost almost,chance green,wisconsin wisconsin,would gotten,franchise reaching,their during,season success,their january,brett squad,championship championship,season season,after matched,figure figure,aaron early,miami didnt,success first,winning super,perfect perfect,record record,history history,miami miami,backtoback hitting,after after,title title,never heights,again again,resurgence historical,curve comparable,jacksonville lesser,florida florida,while their,creation rating,season season,championship despite,brief brief,revival decade,later later,never')
+
+('VBN', 'based played selected tried cared captured returned those,played games,selected season,tried')
+
+('VBD', 'calculated expanded racked became surpassed finished emerged favreled joined reached strength,based results,calculated league,expanded vikings,lopsided cowboys,finished anyone,cared green,dominated super,captured football,emerged titles,eight brett,favreled dolphins,joined never,reached resurgence,1980s never,returned')
+
+('JJR', 'higher lower higher,lower yards,either captured,before living,reminder winning,super later,super')
+
+('VBG', 'depending including excluding seasonending rebuilding coming giving running drafting running bottoming following living reaching edging winning hitting thrashing hitting average,rating lower,depending start,rating super,including association,excluding average,seasonending seasonending,rating average,during highest,rating cowboys,rebuilding record,coming werent,giving cowboys,running which,drafting drafting,running season,bottoming bottoming,rating super,following cowboys,rating existence,living super,reaching their,during narrowly,edging after,winning championships,hitting complete,thrashing creation,hitting hitting,rating')
+
+('VBP', 'start include super worst werent woodson maryland dallas super championships existence slate start resurgence lesser title every,league teams,start results,profootballreferencecom championships,include titles,before franchises,football selected,above patriots,average championships,patriots worst,football picks,which darren,woodson russell,maryland contributors,dallas carries,yards titles,1990s packers,history packers,championships rodgers,start dolphins,their seasons,later jaguars,lesser years,after revival,decade')
+
+('JJS', 'least greatest highest least become,greatest patriots,highest')
+
+('VBZ', 'depends cowboys carries dolphins answer,always always,depends project,cowboys chicago,bears start,dolphins')
+
+('VB', 'gotten would,gotten')
+

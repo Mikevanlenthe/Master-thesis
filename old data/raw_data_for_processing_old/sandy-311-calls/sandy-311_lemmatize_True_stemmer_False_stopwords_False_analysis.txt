@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 964
+Raw number of types: 365
+Raw Type token ratio: 0.37863070539419086
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 485
+Number of types: 274
+Type token ratio: 0.5649484536082474
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', '\ufeffthe sandy midatlantic represent responsible such yorksandy restorednearly dead untold first normal open sandy tragedy unfold texas florida2 next ten congress boardwalk large public roof large public call storm landfall purview total environmental lowered sandy unsafe info significant structural major such mental mental')
+
+('NN', 'tail hurricane recovery julia wolfe roeder someone york city city nonemergency hotline information hurricane disaster relief program year storm death city damage day call year call color government agency information caller city hall detail call sandy power power hurricane harvey irma florida devastation dozen dollar road recovery hurricane recovery month work power home rebuilt head school life storm york city website log call day arrival fall today storm story recovery city story york sandy york evening date city call storm week call scale help arrowfewer call weekend call congress path train service manhattan jersey path train service manhattan jersey beach return return roof hook house housing development start hook house housing development start emergency management city line volunteer relief effort month sandy city hall august total call city hall request help finding car storm information city plan disaster recovery fund water bill call purview department protection customer property example water sewer bill order vacate city sticker building enter april call property owner status vacate order finance june city call half purview department finance property relief damage november call inspection reinspection structure storm damage community restoration call business owner community member information grant loan fraud report call report fraud storm month sandy year june july effect august department health hygiene health service child hurricane')
+
+('VBD', 'sept sandyrelated were were restored left left lost restored kid downloaded were received received kept were made restored replaced replaced received sandyrelated were made came were included fell were were stormrelated fell were came were were started were were called were were affected')
+
+('VBN', 'dialed asked been devastated been reached placed related related zoomed restored considered damaged destroyed reviewed placed considered made stormrelated received sandyrelated sandyrelated been made related directed')
+
+('VBZ', 'fluke arrives continues approves connects connects')
+
+('VBG', 'causing requesting beginning coming leftpointing asking requesting requesting requesting coming lingering calling')
+
+('VBP', 'continue have tell boardwalk beach spend overall have')
+
+('JJR', 'more more sewer')
+
+('NNS', 'arrives lingers data approves rockaways rockaways yorkers yorkers')
+
+('VB', 'steep september request have call')
+

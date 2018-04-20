@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1121
+Raw number of types: 443
+Raw Type token ratio: 0.3951828724353256
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 476
+Number of types: 290
+Type token ratio: 0.6092436974789915
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'buster posey pitch arthur baseball github databusterposeymvp francisco giant buster posey ball ross franklin fangraphs replacement leaderboard candidate player mike bryce harper lack francisco giant catcher buster posey posse secret skill league pitch framer posey candidate basis percent league average1 percent percent average value player posey contender version account catcher pitch cause umpire call strike talent framer pitch zone strike pitch zone ability batter pitch framing estimate framer win year season posey value total catcher ump manipulating mystery framer posey call posey pitch come coach quality example pitch giant heston posey notice motionless posey body impact pitch notice zone pitch plate posey team backup le half number pitch posey susac cost pitcher strike word effect susac pitch2 pitch posey strike susac ball difference technique try maneuver posey zone manner watch move pitch lift ball stay journeyman catcher jason kendall thing pitch difference ability strike catcher reputation argument study catcher technique opportunity confirmation creep framer reason term technique reception posey location strike zone criterion number catch code calculate amount movement frame pitch caught5 sample ability contrast catcher place pitch stillness posey grade motionless susac framing catch posey susac momentum ball pause motion ball posey stiller stage catch posey transition ball pause hold pause return path comparison ball briefly susac fall posey method catchers6 force posey motion susac tranquility help strike posey factor contender fangraphs skill posey harper technique take account posey player baseball right')
+
+('VBG', 'framing deserving hitting framing receiving opposing swinging making framing putting framing starting making receiving pulling standing framing chalking framing looking complicating framing trapping snatching quieting returning extending driving framing contrasting framing framing')
+
+('VBP', 'make github catch win find begin look turn keep turn earn call know receive throw')
+
+('JJ', 'potential leading valuable comparative harper begin defensive current posey important defensive good ball scare lessoptimal impact good significant good entire worth strike ball good umpire good understand veteran stillness chris absorbs drag appear umpire valuable susac leagueaverage overall similar susac exaggerated posey level former difficult previous anecdote gifs posey greatness actual exact strict total many factors4 total second small agree good good simple quiet dampen tenth second video susac motionless short stillness good pattern relative extra posey legitimate defensive careful unnoticed')
+
+('VBN', 'filed called run taken called called stolen')
+
+('NNS', 'data data becomes')
+
+('VB', 'detect consider consider glove glove disprove kendall throw explain best')
+
+('JJS', 'best best least')
+
+('VBZ', 'happens catcher remains posey accelerates suggests')
+
+('VBD', 'racked wanted described crossed andrew received argued relied found took susac limited removed wrote noted jagged')
+
+('JJR', 'higher framer better')
+

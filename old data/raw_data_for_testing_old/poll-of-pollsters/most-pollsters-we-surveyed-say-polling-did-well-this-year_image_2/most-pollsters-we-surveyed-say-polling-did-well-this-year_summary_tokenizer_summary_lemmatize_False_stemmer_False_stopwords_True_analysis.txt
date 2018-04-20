@@ -1,0 +1,43 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1092
+Raw number of types: 482
+Raw Type token ratio: 0.4413919413919414
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags tags polls republicans kansas democrats pollsters pollsters datapollofpollsters supporters moines supporters moines elections others polls pollsters polls pollsters principles polls results polls views pollsters results defenses performances results polls pollsters pollsters questions results polls reasons polls respondents polls results geographies others polls details polls winners losers victories ways forecasts polls races polls voters jobs women independents polls people polls races organizations polls trends polls pollsters polls ones models pollsters models differences pollsters pollsters trends implications results pollsters things pressures pollsters methods polls pollsters years pollsters elections pollsters procedures organizations votes ratings polls points points pollsters pollsters rivers polls points pollsters races years rivers firms winners losers years years methods results cellphones cellphones respondents pollsters polls polls purposes seats quotes polls surprises months emotions pollsters data matt speaks needs knows data routs polls returns lots colorado numbers checked identify geographies trends trends trends republicans republicans')
+
+('VBP', 'decide poll edge average struggle online tuesday correct twoparty look answer calls polls data douglas borick wave correct know want senelect need look spend')
+
+('VBN', 'thought related surveyed argued combined thought balanced onesided prompted conducted embarrassed answered made thought showed captured made spotted predicted tied stumbled pointed assessed yielded asked credited done taken requested muted named predicted anticipated named named published done conducted wanted reported pointed showed elaborated enjoyed filed suggested made')
+
+('VB', 'grove improve')
+
+('NN', 'carl bialik poll github github joni ernst selzer company race joni ernst selzer company race senate house statehouse preelection election party campaign election work industry performance question poll light election year surprise poll election response night direction poll performance surveymonkey github pollster night time everyone performance home magnitude college case case barbara carvalho college economy president time movement election towery insideradvantage towery willingness night anonymity request carvalho part science challenge time industry speed cost respondent problem electorate pollster respondent election electorate electorate pollster battle pollster anzalone anzalone liszt research year methodology money time time organization pollster work company lead iowa race database count policy news zogby yougov poll performance article yougov vote share percentage error2 jensen mention firm yougov error jensen brad coker research majority name consensus phone night everyone joseph pollster target senate race time control number joseph anzalone provider matter business cycle iowa colorado play language night carvalho election night analysis experience enema colleague postelection mississippi senate marist correct average online turbulent charlie vote vote vote work work conduct selzer name respond everyone charlie love nnps carvalho study firm nation wednesday obama joni senate ernst mean equation sleep beat neibergall brief valid iowa reticent thirdlowest masondixon little evaluate mute determine finetune ensue john spoke change polling fuck')
+
+('JJ', 'tuesday tuesday result iowa carvalho right firm absolute partial many republican presidential senate mean irresponsible online learn yougov senate appear overstated firm seventeen washington handle public wednesday website average average yougov average universe variable underestimated worried stuck senelect decisive many second consecutive national ethical first prolific political early pleased full wrong general good many wrong gubernatorial possible many several previous good unusual good good pessimistic third anonymous many good good willing successful last active previous previous specific good underperformed wish next many reliable colorful whole little different assessed answered dissatisfied assessed answered deviated balanced weighted tighten turn least west concluded heading1 foresaw drowned nnps')
+
+('NNP', 'muhlenberg')
+
+('VBD', 'fivethirtyeight bias tended closed included said tuesday credited encountered zagged followed answered polled showed showed asked asked answered asked focused assessed said responded said said said said said came said said said said said said said said went wrote said said said said said said said went gave said said said said said said skewed asked asked')
+
+('JJR', 'faster easier larger cheaper')
+
+('VBG', 'polling going headscratching neverending unskewing polling calling calling depicting answering answering predicting counting moving spotting spotting determining going polling giving leading digging polling ccadvertising ignoring testing polling polling polling trailing polling polling')
+
+('JJS', 'west best thirdhighest least')
+
+('VBZ', 'gabriel republicans democrats knows takes yougov calls makes comes')
+
+('NNPS', 'republicans')
+
+Token analysis after pre-processing 
+Number of tokens: 655
+Number of types: 377
+Type token ratio: 0.5755725190839694
+

@@ -1,0 +1,48 @@
+Article: congress-generic-ballot
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1475
+Raw number of types: 503
+Raw Type token ratio: 0.3410169491525424
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 730
+Number of types: 393
+Type token ratio: 0.5383561643835616
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'apr, age, problem, nate, silver, dhrumil, mehta, age, get, github, github, datacongressage, committee, orrin, hatch, chuck, grassley, patrick, leahy, dianne, feinstein, listen, testimony, chip, somodevilla, getty, committee, chuck, grassley, patrick, leahy, dianne, feinstein, listen, testimony, hearing, mark, wilson, getty, york, feature, month, election, president, barack, obama, inspire, office, article, reporting, cite, evidence, question, congress, trend, congress, obama, variety, govtrackus, york, compilation, population, member, congress, term, jan, close, congress, office, obama, contrast, age, bill, clinton, office, ronald, reagan, term, congress, office, contract, election, gap, youth, gop, number, time, congress, jan, congress, age, congress, measure, time, start, evidence, party, age, obama, age, percentage, random, president, vote, party, time, activity, news, volunteer, anything, marriage, gun, office, definition, deeply, partisan, order, survey, view, survey, number, disposition, democrat, identify, percent, frequency, age, percent, tendency, age, slope, curve, contrast, number, age, frame, way, average, democrat, approximation, pool, survey, president, time, survey, bucket, pattern, george, bush, nixon, gerald, ford, average, survey, age, president, george, age, interest, survey, deal, emphasize, ron, paul, campaigns, street, push, gay, marriage, role, record, term, obama, approval, youth, banner, street, instance, group, party, obama, office, question, cycle, congress')
+
+('NNPS', 'republicans, democrats, democrats, democrats, republicans')
+
+('VBN', 'filed, done, collected, subset, counted, collected, given, identified, aged, identified, decreased, presented, used, compared, grown, identified, left, seen')
+
+('NNS', 'data, data, members, images, members, times, people, years, data, sources, times, members, data, people, years, years, years, democrats, republicans, congresses, republicans, years, seats, members, incumbents, years, years, members, members, democrats, democrats, congresses, years, terms, republicans, democrats, voters, preferences, years, voters, democrats, voters, points, democrats, voters, americans, partisans, independents, parties, partisans, years, campaigns, issues, rights, candidates, parties, people, politics, supporters, parties, nominations, views, leanings, data, republicans, respondents, ways, independents, turns, americans, partisans, democrats, partisans, americans, parties, data, candidates, data, years, groups, respondents, tables, voters, years, versions, democrats, years, years, americans, partisans, politics, americans, politics, democrats, politics, years, years, results, people, affairs, movements, people, voters, parties, rates, highs, ratings, americans, parties, interests, years, people, activities, americans, participants, people, interests, americans')
+
+('VBP', 'senate, senate, ran, run, represent, older, america, wave, obama, congress, correct, older, older, electorate, run, closet, vote, follow, contrast, seek, need, agendas, win, take, congress, label, older, estimate, steadier, identify, take, disapproval, congress, remain, george, partisan, become')
+
+('JJ', 'judiciary, right, judiciary, right, new, long, little, young, strong, much, statistical, simple, recent, bit, worse, foundation, new, congress, whole, average, current, old, start, alltime, high, average, january, congress, average, old, congressional, current, previous, relative, huge, new, first, average, old, average, previous, average, new, first, past, average, old, counterintuitive, preferred, young, partisan, varied, young, representative, many, affiliated, soft, narrow, political, evennumbered, political, unlikely, donate, interested, gay, federal, immersed, strong, heterodox, general, social, nuanced, partisan, partisan, strong, strong, republican, much, likely, strong, strong, sample, strong, republican, little, flatter, soft, major, old, strong, strong, republican, congressional, different, general, social, general, social, actuarial, old, nonagenarian, follow, richard, strong, republican, old, strong, bush, average, obama, strong, active, general, social, informed, strong, knew, great, old, average, strong, old, important, young, uninterested, political, political, wall, full, young, skeptical, major, bush, unpopular, second, major, presidential, late, young, interested, rest, political, wall, major, active, vicious, full, old')
+
+('VBD', 'left, left, sunlight, posted, achieved, came, took, came, widened, served, favored, conducted, began, aged, increased, increased, affiliated, vshaped, became, increased, asked, described, said, said, played, increased, made, took')
+
+('VBZ', 'charles, charles, images, republicans, reflects, comes, provides, americans, republicans, democrats')
+
+('JJR', 'schumer, schumer, younger, older, better, older, older, younger, less, younger, older, older, better, younger, older, older, younger, younger, younger')
+
+('VBG', 'hearing, claiming, getting, including, serving, taking, serving, serving, voting, underlying, dating, topping, dating, aggregating, serving, ranging, ranging, serving, organizing')
+
+('VB', 'gotten, think, replace, seem, mistake, think, label, say, engage, scope, identify, drawn, reagan, imply, feel, vote, become, serve')
+

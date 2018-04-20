@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 289
+Raw number of types: 163
+Raw Type token ratio: 0.5640138408304498
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 395
+Number of types: 329
+Type token ratio: 0.8329113924050633
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'feb nba team chance minute game mike beuoy allison mccann basketball github github nba season chart season win point game team probability time score situation shot chart team ingame probability minute regulation time winloss record time probability model foundation chart model reflect won state atlanta share winloss record point dominance hawks contrast don quarter let feb,2015 every,nba nba,team team,chance every,minute minute,across across,every every,game game,mike mike,beuoy beuoy,and and,allison allison,mccann basketball,get get,the the,data data,github github,github github,data can,you the,nba nba,season season,one one,chart chart,with with,794 games,more more,than possessions,and and,some above,the the,201415 season,win any,point point,nba game,each each,team team,has has,probability the,time remaining,the the,score the,situation situation,after shooting,foul foul,etc the,chart chart,each each,team team,ingame win,probability minute,regulation regulation,time watching,winloss winloss,record real,time time,the the,win win,probability probability,model the,foundation data,from from,nba the,model model,not reflect,how how,nba played,won won,and golden,state atlanta,hawks hawks,share similar,winloss winloss,record record,but that,point point,the more,dominance dominance,throughout hawks,contrast contrast,don pull,away the,fourth fourth,quarter quarter,let')
+
+('VBG', 'winning winning remaining shooting watching building chance,winning probability,winning time,remaining shot,shooting like,watching often,building')
+
+('VBN', 'filed given based made averaged based played taken shown actually,played have,shown')
+
+('VBP', 'get see win are get have what,you you,see score,and uses,data seasons,2000 simulations,but its,best games,are findings,the warriors,and warriors,have games,often leads,the let,know discoveries,the')
+
+('NNS', 'data data datanbawinprobs games possessions plays probabilities data seasons simulations games findings warriors hawks paths warriors games discoveries comments data,datanbawinprobs win,probabilities foundation,the chart,uses nba,seasons based,simulations does,its nba,games favorite,findings state,warriors different,paths the,warriors throughout,games insurmountable,leads about,your own,discoveries the,comments')
+
+('VB', 'summarize develop pull know you,summarize see,above record,develop paths,get comments,below')
+
+('JJR', 'more more filed,under')
+
+('VBD', 'summarized lost mccann,filed than,152000 some,372000 probabilities,summarized winning,based after,made probability,averaged and,lost')
+
+('JJ', 'nba foul real win nba nba favorite golden similar different early insurmountable fourth own winning,every under,basketball datanbawinprobs,can summarize,the probably,not given,shot summarized,any nba,game based,the and,the made,shot etc,the ingame,win over,each each,minute develop,real provides,the the,chart not,based rather,does best,reflect one,our our,favorite the,golden and,atlanta share,similar they,taken taken,different early,insurmountable the,hawks don,pull until,the your,own')
+
+('VBZ', 'has provides uses does leads that,provides but,they')
+
+('JJS', 'best')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2209
+Raw number of types: 681
+Raw Type token ratio: 0.30828429153463105
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 933
+Number of types: 442
+Type token ratio: 0.4737406216505895
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'tenni forev file nadal djokov french open nadal djokov french open ninetim french open last novak averag murray slow basebal urgent french open dark semifin friday suspend fourth local forc final much speedi finish gael second nadal second second nadal usual ritual clean other right short ear rub forth serv second short forth second serv grand threshold first tactic sever schedul enough tour long studi hundr easi tenni last nearli enough long last basebal upload agassi rush serv late slow equal much extra australian open final next violat second roughli recoveri much dustin second much stat affect much much fast nadal slow ralli littl long serv french open serv averag high larg points8 good nadal fellow slow great compar actual nadal becom know last french open umpir enforc remov upcom slow know much suppos spend second tactic slow nadal tire alway australian mix weapon american point querrey annoy return popular good ball nadal slowpac retir great joint senior squar ivanisev recal fast fast open cilic wish half french open ivanisev nadal nadal rafa young slow wrong break long spectat')
+
+('NN', 'match tick tock github github datatennistim rafael break towel play thibault camu rafael break towel play thibault camu champ rafael nadal player year roger averag djokov gotten andi hand talk foot speed speed ball racket talk play point tenni tenni bound clock time match player win player goe start topic year lack roof floodlight play rain djokov murray play immin storm time winner match day illustr pace matter consid match finish monday roger feder rel hour point rafael defeat jack sock hand requir point minut point fast1 everi serv part baselin foot tap shoe racket knock clay ball racket hand dri face area hand shirt rock serv miss thing serv includ pick rock player call serv player stretch shrink time rest throw game play minut match throw televis test patienc fan matter crack slow play year enforc rule strictli thrill ralli take creat slowdown sign sport question determin length match use littl stopwatch time point correl ralli length factor access analyst jeff post github match stat year match stat available3 year match all4 variabl factor effect match take year game regress match build block part github earli pete sampra servedandvolley success andr side court game play shift baselin averag point sound amount minut point typic number match fiveset nadal djokov hour minut rais cri game speed year answer call time strictli work year play point level sinc tournament grass wimbledon clay grass encourag ralli sport time requir clay extreme6 player matter year surfac brown player match nicola massu point differ year tournaments7 post pace estim player event github time player point break number player pace time point mainli time play point player point engag epic ralli monfil show meanwhil point check captur use trusti smartphon stopwatch function time player correl time time analysi show point quantiti correl player time match part ad time play slow player compani player time djokov murray join multipleslamwinn jimmi connor courier ivan lendl john mcenro albeit rel cohort time player margin essenti correl career percentag rel speed play9 player feder wimbledon champ goran ivanisev averag analysi assum player maintain pace career anyon chang pace play pace match10 vex time press topic interest talk time year question news confer tour year year tour talk peev time rule year match request grant murray mean time serv count head thing serv play serv sometim sinc murray time question ask today player push pace style bernard tomic play fast pace point ball everyon play tomic day rosol czech player querrey rhythm break wait figur spectat sport pretti pace play player post game toss matter errant monday match sock news confer promot tournament explay pace gener time wimbledon champ play play player fivesett hour match hour minut ivanisev watch tenni day defend champ marin player mayb time chang champ correctli guess pace sweat profus chang cash wimbledon champ player histori game point need time baselin nonetheless use rush player slow player rel cash sport protract baselin ralli today player catch breath')
+
+('VB', 'take take take keep take finish squeez finish disadvantag pick break good take take play take take take get pretti coach move walk take')
+
+('NNS', 'carl data data minut slams2 data data women teas point5 els data respons chang serv analysi fivesett michael ralli')
+
+('VBP', 'bialik feder take slightli match play pari take reject offer exceed lose run tour affect take find encourag appear remain surfac differ fairli win play find expect mine think know think know go throw speed spin differ wait want take take blame end think')
+
+('JJS', 'slowest biggest fastest fastest slowest fastest fastest least slowest slowest fastest fastest suggest least greatest fastest sweatiest slowest least')
+
+('JJR', 'faster slower faster fewer slower longer less bigger faster slower faster quicker outlier')
+
+('VBN', 'set fourset set bestoffiveset')
+
+('VBD', 'took went tour sped battl took took sped play went took took put said said grew said said told said luka said said told sped caught said took said said said taught said')
+
+('VBZ', 'sackmann sens agassi')
+
+('NNP', 'deliber')
+

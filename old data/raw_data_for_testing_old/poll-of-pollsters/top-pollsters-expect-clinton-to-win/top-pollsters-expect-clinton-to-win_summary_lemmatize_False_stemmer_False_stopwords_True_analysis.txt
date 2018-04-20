@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1457
+Raw number of types: 457
+Raw Type token ratio: 0.31365820178448867
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags forecasts voters things pollsters pollsters polls polls totals points candidates supporters women insights patterns votes results polls media pollsters pollsters highlights people firms people firms people pollsters questions people responses pollsters pollsters models pollsters pollsters points weeks pollsters seats pollsters democrats pollsters seats predictions estimates preferences polls days pollsters polls reasons pessimists voters supporters misses primaries polls candidates accusations women pollsters states demographics models groups models pollsters polls pollsters pollsters challenges demographics groups mounts findings respondents polls opinions angeles times voters choices variables pollsters tables pollsters trump pollsters ratings seats states mustwin languages republicans knows presents matters ranks')
+
+('VBP', 'clinton poll support prediction look differ desire episode polls republicans seats polls expect believe think think think think want need find stay poll turn collective spencer')
+
+('JJ', 'carl bialik belief database footnotes2 forecast average percent average clinton trump prediction voter average average chris borick stream drama chief polling online dornsifelos video anticipate predict wish lose clear florida miscalibrated smart public unanimous hillary next pretty sure sure next many usual late active large presidential presidential certain pollsplus black likely popular offensive current republican likely next democratic true large different actual final final variable ultimate large undecided potential social steady unexpected next critical unique demographic traditional certain demographic demographic presidential tuesday important pivotal several different regional important leading high wish global hard full critical much popular demographic marital last nnps chose frank predicted chose alaska blank good')
+
+('NN', 'election election clinton president control house senate election result poll country portion campaign state questionnaire github list winner election chance percent chance pollster poll clinton percent vote percentage pollster donald orlando saint collapse party place president margin average prediction party clinton senate house majority party chunk uncertainty today vote election period result percentage year college number methodology quality difficulty choice number effect desirability bias trump state candidate news campaign news poll series boast video poll electorate domine indicator side capture nature voting election orlando check florida ohio state trump chance trump race kimball emerson status variation senate race state selzer hampshire indicator comeback pennsylvania georgia arizona race editor list vote gourevitch strategy stuff state gourevitch coverage year approach election religiosity status chance rate pollster trump chance morning conduct responded1 diverge college poll retain control predict start need control cancel respond bush respond take catch poll poll fivethirtyeight prominent senate industry clinton winning3 university good razorthin republican tuesday muhlenberg thirdparty reason robert accurate election blank close trump multiple nick group check online average sent clinton selzer')
+
+('VBG', 'polling polling polling polling polling commissioning working giving winning talking working predicting declining assaulting saying altering determining polling going tracking')
+
+('VBD', 'said included chose said said thought grade polled acted cited said complicated asked responded predicted said asked cited said asked counted said said felt gave')
+
+('VB', 'senate think keep hold prove')
+
+('VBZ', 'hands seems seems')
+
+('VBN', 'come cited filed named expected expected conducted released based given given needed agreed asked offered made expected asked polled named named caught thought acquired')
+
+('JJR', 'better smaller bigger larger greater')
+
+('JJS', 'latest least least')
+
+Token analysis after pre-processing 
+Number of tokens: 505
+Number of types: 315
+Type token ratio: 0.6237623762376238
+

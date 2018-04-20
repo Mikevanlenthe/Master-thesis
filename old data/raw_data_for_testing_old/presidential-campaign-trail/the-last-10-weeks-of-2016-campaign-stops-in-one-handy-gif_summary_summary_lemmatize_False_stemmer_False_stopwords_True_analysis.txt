@@ -1,0 +1,25 @@
+Token analysis before pre-processing 
+Raw number of tokens: 16
+Raw number of types: 13
+Raw Type token ratio: 0.8125
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'campaigndatastopgithubclintonmadedecpmweekgifmatthewconlenfileelectgetfacebooktwitteremailpostelectcritichabeendidn sept')
+
+('NN', 'tdocampaigningtrumpdidtravelclinton includdayaftertheelectconcessspeechyork accordicollectnewshillaryspeechescom1seeschedulcomparmapabove')
+
+('VBZ', 'rallies')
+
+('NNS', 'fundraismediaappearances')
+
+Token analysis after pre-processing 
+Number of tokens: 7
+Number of types: 7
+Type token ratio: 1.0
+

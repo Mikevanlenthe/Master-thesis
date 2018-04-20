@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1821
+Raw number of types: 677
+Raw Type token ratio: 0.37177375068643603
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 916
+Number of types: 521
+Type token ratio: 0.5687772925764192
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'definitive christmas linney universal linney universal cinematic united airport third prime first pageant cast great much titular structured classic pile nice attractive literary important manic precocious same appear regular played questionable encouraging good awful outstanding lucrative neeson rickman nighy freeman ejiofor thornton milicevic late good potter british heap average average imdb rickman freeman ejiofor january john sharian dead different thompson other blist social many pivotal lincoln upstairs young young rich little rich white other pretty white side romantic other watch london bourgeois thompson rickman classic prime maid cute french slowmotion portuguese underwear lake enough randy derp other rowan atkinson rickman call shiny ultimate ginnedup major many lincoln other social many different emotional screen spoken lincoln thompson rickman hugh colin firth lúcia juliet keira ejiofor liam neeson tony thomas judy rodrigo santoro rowan mack olson other rogue thompson incessant rodrigo straddles redundant same like')
+
+('NN', 'analysis movie time walt hickey wezerek colin firth bill martine mccutcheon hugh grant alan rickman liam neeson emma thompson colin firth bill martine mccutcheon hugh grant alan rickman liam neeson emma thompson film generation story kingdom space film moment relationship crush story season party school holiday time emotion1 bottom christmas film office movie network analysis hamlet character core film pixie dream bean rowan atkinson film name mother character game maze runner franchise sammo stepfather post money liam neeson movie child sprint security airplane post911 fatherhood neeson child franchise office number alan bill emma thompson martin thomas brodiesangster chiwetel keira knightley rodrigo santoro colin firth adam godley laura linney ivana margery mason love money source quality pair relationship alan doubt half franchise cinema imdb rating love score number emma thompson wynn owen martin chiwetel thomas brodiesangster liam neeson julia davis marshall laura linney bill rodrigo santoro love power movie monster hugh grant colin firth knightley martin freeman movie plot movie network linchpin axis world love schmuck dumbwaiter downstairs party network analysis tale plot knightley character husband afar spouse file order call milieu london life character husband secretary tale boymeetsandoglesgirlwhoworksforhim london grant minister brother thompson character chubby staff stomach plot relentless none london version knightleyweddingattendee firth countryside movie scene watch camera firth zany london staff knightley wedding marshall sample dialogue side atkinson character department store movie summoning heathrow christmas comedy testimony movie nothing aside serendipity attention character absent airport epilogue silentbuttreacly card linchpin measure activity actor conversation linney absentee glue character actor time cast primary plot sarah laura linney office tryst mark necklace harry necklace colin marshall grant jamie france aurelia moniz france knightley makatsch neckalce peter chiwetel drummer mccutcheon abdul salis brodiesangster drummer john freeman joanna page office tryst atkinson president bill nighy song joanna drummer gregor fisher song jeannie january brother michael office tryst everyone beacon good mopey party husband fall woman phone night mistletoe santoro linney character movie grinch holiday season treasure laura linney bona fide christmas miracle network analysis github page ella koeze reporting')
+
+('VB', 'love kris keira love cheat kris call kris karl knightley love')
+
+('JJS', 'greatest most most best best best')
+
+('VBN', 'filed published left left interconnected used learned diagramed launched played gone made taken admire played mirrored been elected inclined obsessed longawaited stuffed forced')
+
+('NNS', 'movies pictures pictures relationships weeks relationships tourists ministers covers staples songs performances credits scenes data actors strategies misérables equals careers falls thrones movies attempts oftentimes films movies actors films roles icons films films films jones movies performances screenwriters plots brits scenes characters cards londons cities narratives cracks likes things things rails jokes strips thames plays amounts characters arrivals scenes characters characters cards karen cards cards natalie jones characters characters problems others needs calls londons plots permutations stereotypes data')
+
+('VBD', 'keira keira launched united watched coded were spoke pulled happened wrapped applied played deceased were made ended buoyed came keira made juggled andrew echoed played described counted shared star andrew thornton spoke contributed')
+
+('NNP', 'knightley knightley knightley martin fitzgerald')
+
+('VBZ', 'laura laura takes bookends makes actor rickman nighy turns reveals leads finds plays happens falls takes includes nuts ends rises standins standins london stands truly')
+
+('VBP', 'love christmas heathrow plotline grave holiday christmas solid roll have figure know love find thomas girl lead love have liam imdb crappiest thompson harry alan sell have neeson shared2 find remember learn appear vamp start london rowan curtain gate leave believe love count emma alan frissell heike daniel martine rufus sarah linney shoulder christmas derail character find')
+
+('VBG', 'using ongoing parenting parenting resulting being parenting making according enduring staying stalking pining restraining whispering jumping catering screwballing damning downing downing downing running wedding asking reassuring watching viewing')
+
+('JJR', 'worse less fewer housekeeper laura brother')
+

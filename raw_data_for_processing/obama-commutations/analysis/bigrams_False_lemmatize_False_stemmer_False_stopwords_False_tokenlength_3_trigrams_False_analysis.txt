@@ -1,0 +1,46 @@
+Article: obama-commutations
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 737
+Raw number of types: 337
+Raw Type token ratio: 0.45725915875169604
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 537
+Number of types: 301
+Type token ratio: 0.5605214152700186
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jan, obama, clemency, president, history, smart, justice, github, github, endofpresidency, act, clemency, president, obama, thursday, clemency, president, harry, truman1, announcement, approach, clemency, clemency, prison, release, tuesday, week, office, obama, clemency, chelsea, army, intelligence, analyst, information, commutation, obama, tuesday, number, president, history, house, obama, week, obama, month, august, december, clemency, record, day, record, release, gesture, forgiveness, restoration, voting, prison, sentence, release, bill, clinton, group, independence, puerto, rico, responsibility, order, police, law, enforcement, trump, risk, year, office, obama, obama, sentence, oscar, lópez, rivera, faln, member, part, administration, push, justice, reform, justice, department, grant, clemency, consistent, administration, drug, number, year, number, analysis, justice, department, percent, obama, tuesday, drug, percent, conspiracy, union, drug, office, future, commutation, response, history, guide, trump, time, correction, jan, version, article, obama, clemency, president, truman, analysis, mass, ford, jimmy, carter')
+
+('VBN', 'granted, filed, aimed, granted, differed, given, left, convicted, issued, granted, granted, convicted, ended, slated, suggested, appeared, concerned, been, been, been, convicted, convicted, charged, charged, issued')
+
+('JJ', 'other, criminal, long, drugrelated, thursday, typical, obama, commuted, federal, sensitive, total, other, white, federal, single, thursday, formal, such, free, original, recent, obama, united, fraternal, other, donald, last, general, significant, obama, criminal, initiative, certain, obama, harsh, mandatory, minimum, new, fiscal, many, american, civil, lowlevel, serious, obama, oval, uncertain, other, recent, few, many, previous, gerald')
+
+('VBP', 'charlie, get, obama, are, serve, tend, faln, protest, presidentelect, create, have, meet, activist, argue, face, leave')
+
+('NNS', 'data, data, dataobamacommutations, prisoners, sentences, offenses, sentences, prisoners, people, predecessors, people, sentences, people, inmates, wikileaks, commutations, pardons, dozens, pardons, commutations, inmates, pardons, people, years, rights, felons, commutations, people, presidents, commutations, pardons, sentences, members, bombs, states, letters, groups, commutations, prisoners, optics, hundreds, prisoners, commutations, inmates, criteria, sentences, petitions, commutations, petitions, records, commutations, prisoners, offenses, commutations, laws, groups, liberties, laws, dealers, crimes, distributors, prepares, applicants, presidents, commutations, people, pardons')
+
+('JJR', 'more, less, more, rarer, riskier, more, shorter')
+
+('VBG', 'serving, commuting, freeing, pardoning, including, manning, disclosing, manning, thursday, according, manning, freeing, freeing, manning, including, rethinking, according, waiting, granting')
+
+('VBD', 'announced, was, granted, was, was, made, gave, broke, preceded, were, commuted, wanted, claimed, received, commuted, announced, had, tripled, rose, were, were, allowed, friday, said, granted, did')
+
+('VBZ', 'has, has, has, has, has, sentences, remains, follows')
+
+('VB', 'have, reoffend, have, see, include')
+

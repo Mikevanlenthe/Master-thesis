@@ -1,0 +1,46 @@
+Article: comma-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 889
+Raw number of types: 370
+Raw Type token ratio: 0.4161979752530934
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 365
+Number of types: 265
+Type token ratio: 0.726027397260274
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, elitist, comma, walt, hickey, grammar, get, github, github, datacommasurvey, dictionary, university, press, birthplace, oxford, comma, caleb, lot, oxford, comma, comma, blight, jfk, stalin, think, audience, poll, june, split, comma, opinion, person, kind, person, kind, latter, oxford, comma, none, result, middle, prooxford, percent, vote, comma, percent, cantor, victory, editor, language, blog, author, editor, merrill, perlman, adjunct, professor, columbia, school, journalism, york, owner, editorial, company, perlman, suspect, grammar, sentence, loyalty, rule, mcintyre, blunt, passion, oxford, comma, effect, majority, oxford, comma, trouble, comma, kind, survey, grammar, excellent, type, perlman, grammar, think, sentence, conjunction, end, preposition, etc, knowing, explanation, speech, goal, matter, peace, use, comma, writing, preference, mcintyre, edit, baltimore, sun, press, stylebook, point, omit, perlman, middleoftheroad, view, rabid, comma, series, follower, journalism, matter, grammar, matter, clarity, note, relevant, particular, noun, put, majority, percentagepoint, margin, percent, percent, half, usage, survey, issue')
+
+('JJ', 'superfluous, popular, english, list, grammatical, unnecessary, insufferable, ahistoric, comic, exotic, grammatical, average, american, surveymonkey, sentence, correct, important, loyal, important, loyal, former, much, commanding, extra, eric, clear, controversial, mcintyre, longtime, say, sun, old, graduate, veteran, new, email, taught, ungrammatical, instill, deep, comic, passionate, oxford, zealous, humble, many, good, good, good, hear, coherent, latinate, unambiguous, oxford, pure, personal, serial, simple, formative, bad, exist, final, preferred, singular, plural, plural, conclusive, vast, singular, crowd')
+
+('VBN', 'polled, filed, published, spilled, seen, learned, found, thought, associated, used')
+
+('NNS', 'americans, data, data, jones, things, dancers, experts, americans, respondents, opponents, numbers, oxfordians, pros, times, people, rules, raps, mouths, partisans, hearts, minds, rivals, people, people, people, rules, rules, things, references, parts, linguistics, years, rules, interests, people, data, terms, respondents, data, respondents, data, data, respondents')
+
+('VBP', 'oxford, ink, camp, believe, tyranny, john, know, think, tend, prefer, tend, tell, think, think, start, exist, involve, believe, prefer, data, think, say')
+
+('VBZ', 'goes, partisans, says, comes, follows, seems')
+
+('VBD', 'dressed, weighed, fivethirtyeight, ran, fell, asked, asked, said, accompanied, escaped, feigned, performed, wondered, said, lost, said, took, drummed, fivethirtyeight, asked, put')
+
+('VBG', 'asking, grabbing, consulting, posturing, winning, following, parsing, following, knowing, using, liking, preferring, pressing')
+
+('JJS', 'honest, honest')
+
+('VB', 'defeat, knuckle, less')
+

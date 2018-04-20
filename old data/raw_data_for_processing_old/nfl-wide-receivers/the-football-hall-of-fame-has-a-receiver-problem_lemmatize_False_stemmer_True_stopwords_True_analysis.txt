@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1971
+Raw number of types: 689
+Raw Type token ratio: 0.3495687468290208
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 900
+Number of types: 475
+Type token ratio: 0.5277777777777778
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'footbal former wide give footbal ceremoni fawcett saturday imag former wide give footbal ceremoni imag former wide footbal saturday longtim candid good good modern wide weak teammat wide tough rare enough distinguish agre correct glossi retir rank third fourth touchdown great ensembl reed onfield evid surprisingli actual recent select ignor cri last elect sinc includ reed signal much reevalu statist wide open elimin receiv leaguewid instantli consequ automat signifi great leagu reed total appreci true norm obviou consid major threw team detroit ball downfield leagu aerial huge perceiv statist last august metric true metric piec schedul alltim alltim appar necessarili lead receiv increas increas pin real simpl underscor complic unlik touch real exert stat extra difficult true footbal defenseadjust metric basebal discret much unsuccess open sinc strong incent metric full metric receiv receiv much truli rudimentari direct receiv pertin effici usual suspect good statist wowy7 rank second true brown receiv wowi much clear metric everi hall superior rich interpret histori present candid wide actual last')
+
+('NN', 'hall fame receiv problem neil pain canton github github receiv speech class hall fame stadium canton jason miller getti receiv speech class hall fame fawcett stadium august canton jason miller getti buffalo bill receiv induct hall fame join teammat kelli thurman thoma bruce canton contributor bill super bowl berth reed qualifi game individu honor sever hall ignor reed fault hall canton figur judg career receiv sport individu player statist contamin strength coach countless receiv perform crack number offer help passcatch especi era statistician bias reed career time time recept talent dawn pass explos moreov advanc stat influenc mix regard effect team pass effici year hall fame committe react dilemma posit disregard advanc stat committe deign induct play carter tap hall number controversi select lynn carter induct logjam ignor qualifi receiv surging2 time judg reed receiv product era pass game enact rule passblock downfield pass output spike number quickli becam devalu exampl use simpl ratio pass yard game season compar campaign dozen year time singleseason yardag receiv talent adjust team degre receiv team ball rel leagu effect stat point sound team play receiv opportun number reed factor buffalo bill percent leagu career season matter someon calvin johnson lion percent alreadi gener percent yard game histor norm treat differ receiv tri solv issu call receiv yard chase stuart footballperspectivecom download career introduc github attempt boil receiv production4 singl yardagelik number length leaguewid pass environ team pass volum initi scale player lockstep team pass rel leagu averag downgrad johnson product percent despit break singleseason record receiv year detroit record pass attempt season simpl team pass heavili reason name skill quarterback andor receiv chase look percent pass frequenc percent output percent team pass volum player half product difficulti effect ambigu receiv matter receiv player posit compet game time basketbal player use team possess influenc goe person receiv command attent obviou benefit team prove stop statistician tri commonli cite advanc receiv statist gener outsid valu averag dvoa track team pass success play player target quarterback receiv measur perform peropportun basi root tradit sabermetr event easili identifi opportun specif player fluid basebal curiou phenomenon receiv posit ingam influenc simpli stretch teammat phenomenon bay theorem coach quarterback funnel target talent receiv target pass evid player qualiti threat look catch rate pictur player onfield valu take account shape game involv success matter teammat convent number lead team year step comput score histor receiv wowi measur quarterback play efficient5 collect careers6 way question receiv forget individu yardag associ pass question perfect requir use entir team passingeffici noisi season season look wowi instanc randi moss sway quarterback legendari boast smith player career receiv longtim oakland raider receiv committe despit individu statist reed wowi receiv howev secondworst player lifetim despit impress receiv number associ merit seriou indict reed player complet hall fame use brown resum hand impress standard involv postseason percent career yardag famer number age gannon jeff hostetl jeff georg schroeder vinc quarterback certainli challeng receiv especi differ era game daunt task seek fairli hall fame solut hall receiv logjam ignor dream invent way pertin question player qualif advanc analyt attempt fundament question player onfield influenc check player hall fame')
+
+('NNS', 'data data datanflwidereceiv andr andr andr data receiv offens receiv defens judg cours data increas increas increas carmelo dvoa data data data')
+
+('VBP', 'reed reed reed smith receiv particularli take sixth beneficiari show appear go contemporari make contact becom adjust passcatch give eyepop adjust adjust frequenc tend team individu make know anthoni appear seem intend get pertarget miss play adjust essenti select come adjust evan entir answer')
+
+('VBZ', 'enshrin enshrin entangl washington redskin averag someth stat defens root offens directli offens discuss')
+
+('JJS', 'greatest best best')
+
+('VB', 'consider properli catch keep equival throw take make develop differ demonstr play')
+
+('VBD', 'reed swann another3 laughabl chuck broke found teammat took rank reed reed came suppos')
+
+('VBN', 'taken given given given come')
+
+('JJR', 'easier yard bigger')
+
+('NNP', 'kelli')
+

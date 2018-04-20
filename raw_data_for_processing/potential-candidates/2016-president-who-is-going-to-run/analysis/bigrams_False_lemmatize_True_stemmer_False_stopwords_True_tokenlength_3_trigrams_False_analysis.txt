@@ -1,0 +1,47 @@
+Article: potential-candidates/2016-president-who-is-going-to-run
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1038
+Raw number of types: 394
+Raw Type token ratio: 0.37957610789980734
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 444
+Number of types: 280
+Type token ratio: 0.6306306306306306
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jan, clue, president, harry, get, github, github, clinton, bennett, kennedy, ceremony, york, jason, decrow, president, date, candidate, intention, person, longterm, relationship, rick, fox, news, contract, find, answer, feature, look, person, candidate, event, rally, meeting, hampshire, state, poll, look, statement, candidate, intention, look, event, action, speak, louder, word, candidate, ground, assumption, pollster, observer, idea, score, candidate, poll, midterm, side, martin, malley, bernie, sander, jim, measure, run, hampshire, election, visit, decision, clinton, someone, vice, president, joe, biden, state, poll, clinton, everyone, way, state, field, caution, hand, poll, difference, warren, poll, side, picture, lot, bush, mike, huckabee, rand, paul, rick, perry, santorum, majority, poll, run, visit, state, paul, perry, santorum, campaign, group, scott, walker, run, campaign, team, ben, carson, bobby, jindal, state, rubio, impact, pollster, indicator, case, mitt, romney, candidate, move, pollster, survey, state, romney, washington, post, campaign, list, romney, statement, paul, ryan, john, kasich, inaction, state, point, direction, plan, number, change, course, article, warren, romney, effort, race, house, mehta, article')
+
+('VBG', 'looking, going, figuring, going, figuring, sitting, fling, starting, recurring, running, running, exploring, considering, leaning, running, running, exploring, looking, basing, running, speaking, hedging, testing, going, running, going, exploring, hitting, assembling, making, lagging, visiting, considering, saying, putting, going, writing, running, beginning')
+
+('VBN', 'run, ruled, run, visited, planned, run, included, made, included, run, campaignrelated, run, quoted, made, run')
+
+('VBD', 'filed, introduced, said, held, included, ended, included, webb, said, visited, said, visited, pollster, warranted, said, said, included, muddled, included, said, made, chris, ted, said, made, listed, fiorina, said, said, said, declared, became, contributed')
+
+('JJ', 'visible, primary, hillary, tony, robert, new, potential, interested, serious, lucrative, run, variable, unsure, many, political, etc, iowa, new, early, many, national, primary, logic, straightforward, honest, earlystate, new, early, early, poll, political, run1, potential, national, democratic, iowa, new, midterm, january, hillary, clinton, early, national, peep, early, democratic, likely, tuesday, run, subtle, expect, republican, jeb, vast, early, likely, true, trail, hard, sure, top, christie, likely, cruz, early, marco, bush, skeptical, fiorina, potential, many, early, apparatus, public, doubtful, much, early, update, much, ryan, serious, white, dhrumil')
+
+('NNS', 'data, data, datapotentialcandidates, reacts, ripple, others, get, get, hampshire, clinton, elizabeth, warren, visit')
+
+('VBP', 'singer, hope, dec, coy, santorum, want, say, say, say, look, end, seem, think, think, run, warren, seem, run, seem, seem, run')
+
+('VB', 'run, try, run, get, get, get, get, run, take, see')
+
+('JJS', 'honest, least, least')
+
+('VBZ', 'iowa, assumes')
+
+('JJR', 'fewer')
+
+('NNP', 'kasich')
+

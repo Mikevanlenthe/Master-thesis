@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1317
+Raw number of types: 385
+Raw Type token ratio: 0.29233105542900534
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags changes tosses passes ends reads reads reads means words multiples numbers chains james problems types spammers problems things children heads chances people users users users questions users congratulations submissions submitters submissions congratulations james integers rules factors numbers numbers numbers problems trials guesses others methods anders submitters arguments chains arguments examples anders others chains numbers anders numbers solve')
+
+('VBP', 'offer want stand make start want want reads correct child puzzle factor path slowpuzzle find think organize find turn know submit')
+
+('NN', 'hold need forget notice enter slide exit assume alight bathroom roeder riddler illustration riddler week math probability riddler express something riddler movement submit either1 shoutout week column hint puzzle dust twitter riddler express chris game class game circle potato game potato coin game child potato winner child change circle riddler dave moran puzzle work break bathroom office building toilet sign door door bathroom sign sign thing visit sign sign bathroom half time situation bathroom sign door probability bathroom sign probability bathroom credit percentage bathroom answer solution riddler express cambridge massachusetts winner week puzzle inductee order riddler nation week integer person number number choice number fact number riddler nation induction process arthur number riddler birmingham winner chain building chain number number chain example chain chain length chain path problem path number repeat bhattacharjee algorithms solver chain length approach winner chain none chain program clingo language program sagemath matlab credit specific chain riddler riddle email oliverroeder fivethirtyeightcom held guillaume dear probability week round week medhurst england week isar illustration penandpaper example convincing tricky slide slide slide vacant submit submit place build solve mitchell broke sent kaseorg')
+
+('VB', 'forget coin coin handle make')
+
+('JJ', 'assume enter long oliver welcome logic classic attic thornett coin classic perfect vacant sign workplace express arbiter solution inclusive multiple general insight related stuck occupied kurkdjian next favorite special small therefore sure conscientious sure vacant extra conscientious last last inaugural ordinal last positive unique high popular certain logic small single last classic last classic adjacent tough clever long computational small combinatorial optimal extra mathematical submit slide occupied vacant forget vacant vacant breitbart avoid build appear left')
+
+('VBZ', 'progresses holds comes comes says reads happens makes seems louisville')
+
+('VBD', 'occupied left worked edited filed declared created bored occupied occupied explained excluded topped took found')
+
+('JJR', 'answer answer less')
+
+('VBG', 'entering exiting exiting collecting playing holding winning depending entering entering remaining winning zooming including getting leaving trying taking using using')
+
+('NNP', 'mitchell')
+
+('VBN', 'asked finished connected called written called built bitesized occupied known educated submitted submitted ended submitted found offered claimed found found cautioned')
+
+('JJS', 'lowest longest longest biggest')
+
+Token analysis after pre-processing 
+Number of tokens: 441
+Number of types: 269
+Type token ratio: 0.6099773242630385
+

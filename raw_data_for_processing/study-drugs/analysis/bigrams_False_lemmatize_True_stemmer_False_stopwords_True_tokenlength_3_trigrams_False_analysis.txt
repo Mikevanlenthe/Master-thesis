@@ -1,0 +1,45 @@
+Article: study-drugs
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1573
+Raw number of types: 535
+Raw Type token ratio: 0.34011443102352196
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 802
+Number of types: 399
+Type token ratio: 0.4975062344139651
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'nov, understand, adderall, finish, several, due, last, reptilia, many, proportion, american, adderall, study, adhd, adhd, adolescent, many, adderall, similar, high, risky, adderall, schedule, treat, similar, effective, unlikely, addictive, mixed, willing, nonmedical, last, adhd, epidemic, study, young, study, paradoxical, competitive, low, nonmedical, likely, recent, national, nsduh, annual, american, white, black, percent, common, likely, young, likely, nonstudent, drive, western, nonmedical, behavior, study, acceptable, nonmedical, stimulant, social, affect, nonmedical, popular, certain, neighborhood, total, popular, study, popular, new, england4, rocky, study, popular, new, single, important, study, popular, percentile, incoming, vertical, study, popular, positive, study, significant, previous, popular, competitive, multiple, high, focused, struggle, previous, nsduh, significant, mean, low, third, likely, low, likely, stressed, academic, many, clear, academic, recent, stimulant, first, exam, le, conventional, google, exam, peaked, exam, highincome, wrong, nonmedical, likely, suicide, exam, steroid, athlete, clear, individual, benefit, available, many, adhd')
+
+('NN', 'college, student, adderall, emma, pierson, drug, get, github, github, illustration, illustration, appeal, drug, treat, focus, attention, span, month, article, week, facebook, draft, mania, repeat, deadline, drug, world, run, speed, drug, ritalin, vyvanse, use, medication, percent, analysis, pharmacy, prescription, diagnosis, rate, percent, center, disease, control, prevention, analysis, drug, prescription, way, doctor, example, dos, behavior, drug, enforcement, administration, drug, category, cocaine, potential, abuse, medication, addictive, evidence, cognition, take, risk, use, medium, coverage, college, student, cnn, rise, study, drug, college, year, clinton, foundation, drug, college, student, use, drug, adult, college, college, student, use, drug, pattern, drug, student, school, gpa, study, drug, emphasis, study, drug, use, college, student, stem, part, government, report, college, student, age, age, college, survey, drug, use, health, government, survey, difference, time, times1, difference, college, time, percent, percent, difference, family, food, stamp, time, percent, ritalin, study, drug, age, range, college, student, nonprescription, research, show, nonprescription, study, drug, use, adult, matter, college, student, college, student, percent, counterpart, use, adderall, trend, amanda, divin, professor, illinois, university, study, prescription, drug, use, college, student, drug, college, campus, use, study, percent, fraternity, member, adhd, evidence, environment, usage, rate, study, drug, type, college, question, information, help, school, niche, collegebycollege, survey, college, student, drug, campus3, college, location, selectivity, example, drug, ritalin, school, percent, college, student, mountain, school, drug, campus, versus, percent, student, england, example, difference, region, imply, survey, school, trend, study, drug, use, campus, niche, drug, college, selective, test, chart, point, school, horizontal, axis, act, score, student, axis, show, share, student, drug, campus, correlation, act, score, drug, use, research, college, admission, standard, study, student, use, nonprescription, study, drug, college, factor, school, gpa, frequency, class, hour, student, student, procrastinate, study, advance, cram, night, assistance, adderall, divin, student, way, research, student, use, nonprescription, adderall, ritalin, college, student, level, depression, correlation, adderall, cause, gpa, depression, causality, way, student, school, order, factor, student, adderall, abuse, alcohol, marijuana, example, student, school, student, gpa, adderall, adderall, performance, student, use, drug, part, stress, analysis, nsduh, student, use, time, month, source, support, example, search, college, town, month, summer, month, study, tweet, adderall, period, adult, use, adderall, adult, hour, job, nsduh, adult, family, income, rate, adderall, use, family, income, adult, level, depression, consider, student, employee, deadline, adderall, everyone, support, idea, use, prescription, stimulant, use, code, analysis, github, drug')
+
+('VBG', 'abusing, increasing, listening, overwhelming, using, increasing, according, snorting, interesting, falling, using, using, controlling, skipping, studying, lowerachieving, attempting, studying, struggling, using, highachieving, finding, mentioning, working, confronting, confronting, tempting, using')
+
+('VBN', 'filed, taken, loomed, tempted, used, prescribed, used, described, study, used, used, used, used, named, connected, used, used, considered, study, thought, used')
+
+('NNS', 'data, data, datastudydrugs, kelsey, kelsey, people, people, adhd, highachievers, data, people, data, noncollegestudents, data, people, data, data, data, highachievers, gpa, data, study, data, data, data, data, adult')
+
+('VBP', 'dake, dake, agree, use, adderall, believe, receive, choose, look, show, find, tend, stay, take, make, suggest, take')
+
+('VBD', 'wrote, caffeinefueled, increased, increased, found, recommended, discussed, student, push, said, looked, turned, looked, said, cited, reported, sought, gave, found, reported, showed, said, found, spent, said, found, depressed, reported, depressed, found, found, spiked, dropped, found, showed, reported, read')
+
+('VB', 'make, keep, improve, engage, obtain, miss, adderall, expect, stay, run, adderall, feel, blame, student, take, struggle, use, seem, divin')
+
+('JJR', 'easier, closer, smaller, easier, answer, higher, higher, older, greater, higher')
+
+('VBZ', 'classifies, includes, come, provides, represents, seems')
+
+('JJS', 'highest, lowest')
+

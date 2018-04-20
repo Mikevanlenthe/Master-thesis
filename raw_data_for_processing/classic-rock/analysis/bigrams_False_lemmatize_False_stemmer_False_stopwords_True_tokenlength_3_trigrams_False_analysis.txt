@@ -1,0 +1,50 @@
+Article: classic-rock
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2431
+Raw number of types: 762
+Raw Type token ratio: 0.3134512546277252
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1115
+Number of types: 626
+Type token ratio: 0.5614349775784754
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, rock, walt, hickey, music, zeppelin, day, rock, radio, music, rock, mötley, crüe, nirvana, child, rock, heard, day, idiot, rock, station, time, band, rock, anyone, music, period, time, moment, rem, rock, station, rock, amount, collection, analysis, algorithms, question, band, intention, rock, sort, something, house, part, music, business, rock, target, music, music, hear, radio, internet, service, problem, connection, music, state, rock, rock, radio, stations1, country, week, june2, list, record, song, rock, music, era, york, disproportionate, amount, example, rock, region, example, los, pearl, jam, band, country, today, rock, timeline, release, music, database, songfactscom, coverage, get, accurate, release, year, percent, song, plays3, date, majority, booker, number, rock, song, fairness, year, release, side, moon, album, rock, zeppelin, john, goodbye, brick, road, trend, mid, period, percent, song, trickle, music, onward, trickle, day, song, article, year, dent, metallica, wave, rock, rock, popularity, longevity, sound, rock, wellman, rock, brand, manager, channel, radio, set, director, york, rock, station, waxq, wellman, release, nothing, rock, ability, genre, grow, longevity, fact, radio, selection, wellman, radio, company, rock, consumer, industry, music, test, auditorium, music, test, gather, sample, rate, song, slew, wellman, music, core, rock, rem, rock, wellman, rock, radio, observation, period, zeppelin, van, halen, half, rock, way, percent, song, rock, core, cool, rock, station, rest, country, rock, change, city, list, city, zeppelin, pack, york, percent, zep, stand, stay, heck, tampa, wxgl, station, character, audience, rock, amount, market, research, wellman, example, rock, hard, immigration, role, influx, landscape, wisdom, rock, brand, englishlanguage, rock, migration, role, york, country, artist, miami, rock, city, rock, station, rock, click, image, philadelphia, prefer, style, rock, history, favor, set, radio, knowledge, djs, role, offense, wellman, magic6, collection, analysis, radio, startups, streaming, rock, echo, generate, song, part, work, methodology, channel, pick, center, rock, center, radio, music, charge, algorithm, echo, nest, start, set, lot, math, extrapolate, rest, center, mcdonald, order, define, genre, web, news, anything, map, example, artist, point, space, point, genre, addition, musicanalysis, software, figure, genre, tempo, energy, loudness, danceability, song, dense, bouncy, music, finite, range, minute, rock, rock, mcdonald, wider, range, tempo, machine, echo, detect, person, drum, machine, timing, giveaway, rock, genre, rock, steel, direction, air, time, waxq, tomorrow, wellman, baby, age, advertising, rock, start, skew, correction, footnote, version, story, call, rock, station, houston, kglk, kkrw, rock, rock, playlist, spotify')
+
+('JJ', 'classic, green, classic, different, getty, classic, ozzy, osbourne, classic, many, hear, green, american, classic, first, referred, classic, listens, classic, classic, massive, classic, tricky, classic, different, banner, deep, current, classic, united, monitored, classic, metropolitan, substantial, unique, unique, total, classic, certain, live, new, joel, san, antonio, crüe, classic, influenced, unexpected, popular, allman, classic, able, complete, able, vast, large, mid, early, classic, huge, floyd, dark, classic, elton, yellow, small, green, inspired, last, actual, due, last, classic, classic, bunch, classic, eric, classic, clear, new, classic, song, classic, regular, major, classic, genre, standard, familiar, whole, cluster, classic, rem, classic, simple, classic, weeklong, top, classic, percent, classic, essential, classic, definition, classic, next, mostplayed, new, waxq, petty, specialize, classic, massive, south, wellman, hispanic, southern, united, common, conventional, englishlanguage, see, new, played, classic, retired, new, artist, classic, map, local, regional, classic, detroit, classic, contemporary, institutional, nope, dead, fireable, worth, digitalnative, classic, spotify, huge, echo, different, clear, universe, classic, floyd, mcdonald, genre, math, universe, mcdonald, different, read, blog, much, read, relational, similar, map, musical, universe, point, mcdonald, sophisticated, different, acoustic, electric, spare, atmospheric, particular, electronic, classic, classic, much, drum, actual, minor, mimic, human, unmechanical, dead, mcdonald, clear, wellman, classic, hard, define, next, classic, eventual, come, key, demographic, next, classic, incorrect, classic, classic, classic')
+
+('VBN', 'used, filed, played, made, led, doubted, related, coded, found, listed, set, set, considered, released, considered, based, given, based, studied, played, played, led, informed, set, used, based, complicated, allowed, painted, set, based, listed, mostplayed')
+
+('VBD', 'led, left, right, shocked, grew, made, lumped, boston, put, pulled, percent, set, appeared, peaked, led, held, spoke, said, said, said, said, mostplayed, led, played, made, set, played, said, said, looked, played, said, focused, decided, owned, said, said, interpreted, defined, said, powered, said, said, monitored, fivethirtyeight')
+
+('VB', 'get, fly, get, define, quantify, get, zeppelin, know, form')
+
+('NNS', 'stations, bands, decades, images, bands, weeks, experiences, colleagues, guns, data, genre, fits, kinds, people, reveals, data, states, areas, data, songs, artists, plays, stations, changes, plays, prefers, ways, angeles, times, brothers, times, years, songs, songs, beatles, songs, exceptions, songs, plays, staples, houses, accounts, belongs, listings, releases, groups, matters, factors, artists, stations, data, years, consumers, things, stations, data, decisions, resources, studies, markets, listeners, days, songs, hooks, parts, data, stations, people, consumers, songs, stations, artists, likes, stones, spins, stations, bands, stations, plays, musicians, artists, finds, songs, eagles, preferences, stations, listeners, songs, listeners, plays, states, changes, hispanics, markets, states, stations, yorkers, shows, preferences, cities, stations, legacies, geils, beatles, cities, stations, stations, companies, data, stations, decades, services, uses, data, recommendations, artists, genres, orbits, stations, interviews, artists, artists, relationships, artists, relies, data, collects, users, histories, machines, charts, reviews, posts, articles, entries, inputs, artists, sees, points, webcrawlers, histories, uses, songs, dimensions, genres, dimensions, beats, strokes, imperfections, beats, agrees, channel, things, economics, boomers, xers, years, things, advertisers, numbers, hits, songs')
+
+('VBG', 'shocking, hearing, hearing, figuring, becoming, figuring, identifying, challenging, moving, streaming, solving, operating, cleaning, depending, playing, playing, whopping, programming, using, helping, rolling, saying, comparing, playing, going, according, listening, songpicking, ruining, reaching, defining, placing, talking, developing, using, listening, showing, listening, evaluating, changing, going')
+
+('VBZ', 'roses, turns, starts, happens, looks, songs, mgs, plays, makes, owns, makes, tastes, conducts, makes, finds, shows, demonstrates, looks, appears, comes, joel, entails, tests, goes, happens, qualities, looks, makes')
+
+('JJR', 'answer, harder, bigger, larger, longer, older, broader, younger, earlier')
+
+('VBP', 'band, techno, choose, see, result, mötley, rest, kinks, pink, holy, make, nirvana, make, band, find, make, find, consider, online, get, find, consider, account, cooler, move, tom, understand, figure, play, rock, listen, influence, plays, think, miami, find, see, rock, tend, think, band, tend, rely, decide, know, change, see, core, find, figure, glenn, use, find, mountain, echo, read, read, read, read, wikipedia, cluster, echo, mcdonald, say, tempo, drum, gen, happen, chase, listen')
+
+('JJS', 'largest, earliest, rest, least, nest, nest, nest, nest')
+
+('NNP', 'mcdonald')
+

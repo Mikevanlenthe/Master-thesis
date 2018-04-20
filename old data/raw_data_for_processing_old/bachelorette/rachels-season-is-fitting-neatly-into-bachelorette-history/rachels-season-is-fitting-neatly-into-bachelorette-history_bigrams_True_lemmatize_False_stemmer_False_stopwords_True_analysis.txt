@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1355
+Raw number of types: 909
+Raw Type token ratio: 0.6708487084870849
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 905
+Number of types: 757
+Type token ratio: 0.8364640883977901
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rachel season history walt hickey ella koeze github github databachelorette home stretch season bachelorette time preseason bachelor bachelorette analysis rachel attorney texas field challenge season elimination demario girl television roseceremony eliminations1 season power firstimpression move recipient bryan anything date rachel mean anything season proof half twoonone date twoonone date percent competition doom head date rachel kenny week history season time contender bachelor bachelorette point value value oneonone smallgroup largegroup stand oneonone date twoonone half date threeonone onethird date peter dean neck neck time bryan break week move everyone time rachel week chance thing reality rachel bestcase scenario love thing rachel  s season season is bachelorette   history history by by walt hickey and and ella ella koeze tv get get the the data data on on github github github github data data at at databachelorette jul  facebooktwitteremail we re in home stretch stretch of of season the bachelorette bachelorette  perfect time time to to check check in in on on how s held held up rigorous preseason preseason  bachelor  bachelorette   analysis analysis  did rachel an attorney from texas texas who the field handle her her challenge challenge like rachel  s season season has has seen  one unscheduled elimination elimination with with demario demario  broken up up with on television television  roseceremony eliminations1 eliminations1 she to favor it off so than than her her aggregate her season historical power power of the firstimpression the rose rose given the contestant contestant who the strongest strongest move move on day one one  the recipient recipient  bryan  final four love at could be be real real  folks  have we anything  peter  dean and bryan each early oneonone oneonone date date with with rachel rachel  those tend tend to mean a a bit more  this season season is is further further proof that people people who go on on twoonone dates are no one one who s gone gone on on one one of wrote  than half half of of twoonone twoonone date within the the next two weeks weeks  four weeks weeks of a twoonone twoonone date date  percent of contestant won won the the competition competition   but but most spell doom doom  or soon soon enough enough  kenny and and lee went head head to to head head  the serpentine serpentine lee lee was the date date proper proper  and rachel kenny wasn wasn  t her her guy guy the week   but all history history now to go go to can we say about next  at how how each each season season has proceeded  considering how much time time each each contender contender has to spend their bachelor bachelor or or bachelorette bachelorette by a point point value value to with a higher value based on on how exclusive the speaking   oneonone are better better than than smallgroup which are are better better than than largegroup which are are better better than than no going into final four four  here  counting a a oneonone oneonone as as one one date date  a twoonone twoonone as as half half a a date date  a threeonone as onethird onethird of of a a date date and and so so on peter and and dean dean are are neck neck and and neck neck in spent with with rachel rachel  with bryan coming up just behind behind  eric  s late late break break  a oneonone oneonone in week six six  to move move him him forward forward  though he he is is far top three three  and poor poor adam adam and and matt matt  who everyone or less first time time as as they rejected by by rachel rachel last week  a chance chance  the most this chart chart is is the harsh reality rachel has has been been on on no than 25 dates with with any she  s about to meet meet  at this this point point  bestcase scenario scenario  she will have gone gone on total of dates with with the the man man she to in the finale finale  love  a crazy thing ')
+
+('VBG', 'fitting going breaking going remaining following considering assigning speaking going counting coming getting getting shocking is fitting before going favor breaking four going learned anything if anything the remaining the following  considering by assigning generally speaking  going  counting bryan coming  getting were getting most shocking shocking thing crazy thing')
+
+('JJ', 'bachelorette perfect rigorous previous eliminated unscheduled broken nice historical contestant final hometown real dean tend next contestant kenny head serpentine next looked much exclusive final rachel eric late oneonone enough poor first last harsh point total finale crazy into ‘ walt hickey under tv published jul in the the home  which means it a perfect how it our rigorous lindsay  narrowed the field down to four  handle like previous  rachel eliminated on going on seems to more so the historical of the rose  to the makes the among the the final into hometown sight could  dean and bryan had an  those to mean doomed  of those won in we wrote more than gone within next two within four in the remaining three  the the contestant swiftly or when kenny lee went on the decided kenny following week that  s all about to what can comes next before at how much had to with their assigning a dates  how exclusive are  dates are dates  dates  dates  into the the final where all of the stand  threeonone as time they ve spent up just getting a in week enough to behind the the top more or for the the first last week had a about the on this the harsh more than of the men whose about to a total engaged to in the')
+
+('VBN', 'filed published held seen given sight gone gone eliminated based spent rejected gone engaged has narrowed seen seven one unscheduled have broken has won are eliminated swiftly  was eliminated has proceeded gently rejected')
+
+('NNS', 'data data gentlemen contestants dates dates predecessors dates folks bryan people dates dates years survivors weeks weeks participants cases twoonones hometowns dates dates dates dates dates terms adam numbers dates families dates four gentlemen previous contestants seven men on dates breaking it with men on dates aggregate predecessors season reinforces going into hometown dates those dates in years date survivors of participants three cases most twoonones to hometowns the dates the men in terms the numbers the men whose families she gets')
+
+('VBZ', 'means seems reinforces makes comes dates gets which means and  probably should that nice and 19 she seems who makes well  but  twoonone dates and when now  what comes to dates oneonone dates smallgroup dates largegroup dates no dates that rachel')
+
+('VB', 'check should have  love')
+
+('VBP', 'lindsay handle rachel favor aggregate love oneonone twoonone spell spend matt chart meet rachel lindsay who has gentlemen  contestants  dates  men on dates more predecessors  reinforces the dates  so have who go who  dates has years  survivors are participants are cases  twoonones spell hometowns  we say dates are all of men stand terms of they  far behind numbers on any of families she will have')
+
+('VBD', 'narrowed rose rose learned doomed wrote eliminated went bounced decided proceeded koeze filed databachelorette published  2017 season 13 men eliminated firstimpression rose given to first sight we learned each had historically  are doomed were bounced rachel decided ve looked has had spend with value based everyone met less for really had of 55 gets engaged')
+
+('JJS', 'strongest')
+
+('JJR', 'higher less filed under  her')
+
+('NNP', '‘ bachelorette  the  bachelor  and  bachelorette  did  who  and  the  the  bryan  folks  well  peter  but  this  and  both  the  and  with  which  which  here  peter  with  eric  was  and  who  never  the  bestcase  she  love')
+

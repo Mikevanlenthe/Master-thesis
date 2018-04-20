@@ -1,0 +1,48 @@
+Article: fifa
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1750
+Raw number of types: 633
+Raw Type token ratio: 0.3617142857142857
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 793
+Number of types: 441
+Type token ratio: 0.5561160151324086
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'break, silver, game, bozon, afp, picture, organisation, head, office, zurich, september, day, committee, president, candidature, mandate, head, fifa, condition, attribution, world, cup, qatar, photo, sebastien, bozon, photo, credit, afp, getty, indictment, bunch, fifa, justice, department, wednesday, step, fifa, end, thursday, president, football, federation, uefa, sepp, blatter, president, fifa, world, cup, qatar, world, welloff, football, blatter, threat, leverage, soccer, future, structure, power, brazil, development, country, population, money, world, cup, plurality, television, licensing, world, pay, televise, world, cup1, country, market, world, cup, south, fifa, audience, world, cup, television, world, cup, fifa, listing, size, countries2, estimate, television, country, country, percapita, purchasingpower, gdp4, country, income, nation, nation, world, cup, fifa, world, cup, viewership, population5, population, percent, audience, world, cup, percent, china, percent, percent, brazil, percent, kingdom, italy, france, percent, half, world, cup, audience, see, percent, audience, table, download, share, country, body, population, world, cup, audience, audience, concacaf, japan, china, germany, brazil, conmebol, france, russia, spain, korea, afc, indonesia, mexico, concacaf, turkey, thailand, afc, argentina, conmebol, poland, saudi, arabia, canada, concacaf, colombia, conmebol, venezuela, conmebol, south, caf, malaysia, afc, switzerland, belgium, uefa, vietnam, afc, iran, afc, chile, conmebol, romania, austria, portugal, uefa, share, confederation, percent, fifa, world, cup, tournament, audience, contrast, asia, south, fifa, measure, audience, measure, population, argue, course, thing, fifa, representation, square, decision, world, cup, qatar, world, gdp, colleague, carl, bialik, week, fifa, governing, suit, parity, ppp, gdp, version, wealth, exchange, world, cup, club, football, audience, game, world, soccer, talent, world, cup, percent, club, football, country, club, part, winter, world, cup, qatar, interrupting, club, season, fifa, break, percent, world, cup, audience, start, break, fifa, world, cup, president, vladimir, putin, derail, blatter, reelection, competition, world, cup, football, federation, include, germany, france, italy, spain, region, japan, australia, latin, america, mexico, chile, percent, world, cup, audience, percent, clubteam, representation, world, cup, convince, join, breakaway, foundation, percent, world, cup, audience, knockout, stage, year, world, cup, mass, whichever, zealand, fifa, premier, league, division, football, league, take, advantage, end, change, fan, point, view6, period, prosperity, club, football, power, break, money, motivate, change')
+
+('JJ', 'fifa, nate, beautiful, fifa, ebastien, getty, fifa, front, last, executive, formalized, meanwhile, afp, sebastien, bozonafpgetty, bozon, first, corrupt, european, fifa, fifa, rogue, african, asian, fifa, uefa, credible, european, united, lot, economic, responsible, fifa, current, organizational, much, proportion, give, fifa, percent, quadrennial, reliable, reasonable, lucrative, africa, detailed, wide, different, comprehensive, fifa, high, disposable, valuable, lucrative, gdp, united, top, belowaverage, relative, large, wealthy, total, represented, japan, germany, united, gdpweighted, global, afc, uefa, uefa, italy, uefa, uefa, uefa, uefa, south, uefa, uefa, uefa, taiwan, africa, uefa, uefa, sweden, uefa, uefa, afc, greece, uefa, aggregate, continental, fifa, african, africa, percent, underrepresented, uefa, bad, give, first, fifa, percapita, second, favorable, stark, official, viewership, responsible, uefa, tense, international, many, defect, fifa, uefa, russia, particular, unlikely, russian, european, transcontinental, rival, oecd, new, large, european, united, asiapacific, korea, oecd, argentina, gdpweighted, last, critical, pick, nigeria, new, flee, bluff, english, first, then104yearold, favorable, deal, seamless, new, english, institutional, hard')
+
+('VBN', 'filed, reelected, considered, networks, published, reached, report, used, based, used, gdpweighted')
+
+('VB', 'get, quit, take, give, require, need, mean, happen')
+
+('NNS', 'data, github, data, datafifa, headquarters, shows, images, officials, countries, nations, organizations, presidents, federations, indictments, countries, others, states, revenues, funds, claims, rights, men, fees, estimates, data, countries, data, data, audiences, sponsors, rights, viewers, data, viewers, states, countries, figures, countries, countries, nigeria, australia, numbers, confederations, members, countries, members, countries, counterarguments, estimates, procedures, interests, plutocrats, ways, estimates, assumptions, countries, differences, rates, figures, countries, players, relations, teams, clubs, players, matches, countries, countries, interests, indictments, nations, members, economies, states, members, countries, countries, parallels, teams, masse')
+
+('VBP', 'github, zurich, logo, sebastien, know, handful, brazil, japan, china, fifa, make, lot, come, fifa, china, make, github, caf, afc, fifa, compare, make, happen, run, make, purchasingpower, gdp, furthermore, reflect, european, fifa, align, foundation, russia, foothold, south, account, colombia, formation, england')
+
+('VBZ', 'images, images, gives, distributes, comes, reflects, comes, netherlands, shows, compensates, represents, includes, sometimes')
+
+('VBG', 'meeting, beginning, footballing, going, including, bringing, voting, selling, licensing, reporting, following, going, developing, making, according, developing, developing, bringing, cultivating, releasing, accusing, trying, including')
+
+('VBD', 'sepp, discussed, read, said, awarded, backed, gdp, weight, reached, weighted, gdpweighted, followed, accounted, represented, gdpweighted, gdpweighted, afc, represented, played, gdpweighted, gdpweighted, wrote, opposed, played, required, gdpweighted, awarded, responded, brazil, advanced, reached, wanted, occurred, resigned, meant')
+
+('JJR', 'batter, less, better, worse, viewer, wealthier')
+
+('JJS', 'least, highest')
+

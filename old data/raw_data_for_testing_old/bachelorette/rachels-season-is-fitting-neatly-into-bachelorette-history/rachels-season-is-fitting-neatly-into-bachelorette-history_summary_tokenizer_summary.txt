@@ -1,0 +1,14 @@
+POS tags:
+('NN', "pos tags: season history walt hickey ella tv github github data/bachelorette jul facebooktwitteremail weâ€™re home stretch season bachelorette time analysis attorney texas field challenge rachelâ€™s season elimination demario television rose-ceremony eliminations.1 season power first-impression move day love anything one-on-one date rachel bit anything season half date date percent contestant competition spell doom head serpentine lee date rachel guy week history weâ€™re weâ€™ve season time contender bachelor bachelorette point value value date two-on-one date date peter dean neck neck time break week adam everyone time rachel week chance thing chart reality rachel point best-case scenario man finale thing') means itâ€™s â€œbacheloretteâ€ hometown kenny theyâ€™ve shocking crazy') itâ€™s rachel handle go move meet most') ('jjr', better more')")
+('NNP', "('nn', ('vbz', ('jj', ” â€ ('vbn', ('vbp', ('nns', 'â€œthe â€ â€ ”') ('vb',")
+('VB', 'koeze be')
+('NNS', 'data reinforces two-on-ones â€ go gentlemen contestants men dates men dates predecessors folks people dates dates years survivors weeks weeks participants cases dates dates dates dates dates dates men terms numbers dates men families hometowns')
+('JJ', "â€œbachelorâ€ girl contestant bryan peter dean two-on-one head one-on-one three-on-one one-third bryan one-on-one total whoâ€™s getting') perfect rigorous pre-season previous unscheduled nice aggregate historical final real early two-on-one next two-on-one lee next much exclusive one-on-one small-group large-group final late top poor first last harsh broken engaged') ” stand sheâ€™s') bryan mean ericâ€™s ('vbd', had') ('jjs',")
+('VBP', "lindsay love have are are are are are are are are dates') have say spend have")
+('VBD', "recipient sight hereâ€™s 'filed doomed won bounced had did rose rose had wrote went were was looked was were")
+('VBZ', 'kenny has has seems makes is is has comes has has is is has dates')
+('VBN', "spent gets') published seen eliminated given gone gone eliminated eliminated proceeded based rejected been gone tend favor itâ€™s') learned won decided met")
+('VBG', "'fitting going breaking going remaining considering assigning speaking going counting coming getting following")
+('JJS', "'strongest")
+('JJR', 'higher better')
+

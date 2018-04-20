@@ -1,0 +1,48 @@
+Article: congress-resignations
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1701
+Raw number of types: 657
+Raw Type token ratio: 0.3862433862433862
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 792
+Number of types: 530
+Type token ratio: 0.6691919191919192
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBN', 'seen, published, sen, removed, accused, run, scheduled, made, set, shown, appointed, valued, lost, made, realized, examined, revealed, nonsexrelated, removed')
+
+('JJ', 'congressional, congress, former, franken, alex, congress, first, hazel, current, historical, context, give, political, owes, historic, normal, new, presidential, first, session1, unusual, similar, recent, unwanted, sexual, trent, ruben, farenthold, congress, extraordinary, sexual, past, many, unprecedented, cultural, political, sexual, much, public, nonconsensual, sexual, last, recent, first, sexual, big, 20th, public, modern, due, extramarital, former, congressional, salary, extenuating, straightforward, republican, simple, affair, many, precedent, lewinsky, simple, salacious, big, sexual, consensual, common, percent, congressional, graphic, innocuous, common, resign, elected, judicial, dominant, easy, lessprestigious, local, become, new, supreme, little, early, general, graphic, huge, advantageous, dec, wait, early, january, common, give, additional, take, private, nonprofit, personality7, congressional, polarized, appealing, longterm, bias, public, back, next, due, early, personal, udall, illness, rigorous, spend, possible, scandalous, uncommon, willing, unique, cantankerous, major, political, gingrich, spectacular, eric, primary, congress, serve, different, military, join, army, political')
+
+('NNS', 'resignations, data, data, datacongressresignations, feels, people, years, members, resignations, reasons, members, events, members, jobs, members, members, members, advances, conyers, franks, kihuen, allegations, months, people, data, bears, allegations, resignations, overtures, months, years, data, reports, members, media, scandals, politicians, jobs, hays, miss, circumstances, scandals, democrats, politicians, departures, media, reports, reasons, members, offices, positions, departures, tends, departures, days, politicians, offices, members, justices, members, spikes, years, laws, members, congresses, resignations, outliers, senators, days, successors, media, politicians, data, resignations, media, reports, politicians, statements, examples, sins, scandals, departures, scandals, exiters, reasons, children, members, elections, returns, qualifications, members, nowadays, losers, votes, departures, circumstances, james, parties, people, members, careers')
+
+('NN', 'nathaniel, rakich, get, github, github, jan, brandon, jan, pat, tiberi, member, congress, resign, office, lot, point, session, march, day, congress, congress, office, fivethirtyeight, abel, ryan, zinke, rash, era, congress, turnover, confluence, abnormal, administration, president, trump, administration, join, obama, join, bill, clinton, addition, congress, john, pat, meehan, reelection, reason, retirement, term, midsession, resignation, misconduct, moment, world, misconduct, fallout, number, number, phenomenon, member, resign, reason, bob, packwood, news, misconduct, topic, coverage, century, fact, sex, cost, member, congress, era, resign, affair, wayne, exchange, mistress, case, adultery, livingston, someone, resign, resignation, controversy, clinton, thick, monica, scandal, quit, congressman, mark, souder, act, anthony, weiner, scandal, tim, murphy, mistress, abortion, something, picture, reason, sex, history5, reason, governor, government, post6, percent, reason, contrast, percent, office, congress, reason, become, cause, turnover, air, travel, stability, slog, dozen, york, court, join, state, legislature, percent, office, reelection, point, election, end, term, gig, see, reason, pension, term, fact, practice, order, seniority, percent, job, sector, lobbyist, head, frequency, type, resignation, risen, cash, experience, congress, career, date, suspect, category, come, percent, corruption, scandal, jack, abramoff, scandal, illegalsubstance, possession, alcohol, john, langley, cocaine, trey, radel, election, fraud, truman, newberry, richard, tonry, percent, health, family, member, geoff, davis, move, home, live, spouse, time, family, category, reason, something, day, congress, member, election, challenger, result, constitution, house, percent, dataset, office, reason, none, election, result, senate, house, congress, intercede, business, percent, category, range, joe, bailey, watson, phil, gramm, embarrassment, newt, midterm, backfire, cantor, loss, john, boehner, power, struggle, tea, party, percent, country, way, augustus, gardner, month, world, war, world, war, country, quit, congress, reason')
+
+('VBD', 'filed, became, resigned, least, resigned, canvassed, put, occurred, resigned, left, announced, led, caused, matched, started, paid, set, protested, resigned, involved, dominated, voted, accounted, washington, resigned, left, resigned, lined, expired, resigned, left, resigned, reported, disputed, resigned, left, resigned, entered, left, fight')
+
+('VBP', 'congress, resign, administration2, resign, franken, blake, end, conclude, concentration, virginia, resign, congress, senator, cabinet, dominate, seat, resign, resign, head, start, mercy, abscam, larry, ballotbox, contest, stem, fit')
+
+('VBG', 'stepping, including, looking, string, preceding, relying, divining, reasoning, reckoning, cheating, including, sexting, pressuring, according, neverending, departing, retiring, categorizing, failing, policing, hiding, counting, resigning, roosevelthating, switching, exhausting')
+
+('VB', 'tell, start, skewed, pursuit, explain, preferred, quit, blame, euphemisms, judge, beck')
+
+('JJS', 'least, least, combest, protest')
+
+('VBZ', 'seems, shows, explains, departures, changes, changes, explains, makes, seems, says')
+
+('JJR', 'older')
+

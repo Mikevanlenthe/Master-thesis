@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 804
+Raw number of types: 376
+Raw Type token ratio: 0.46766169154228854
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1025
+Number of types: 786
+Type token ratio: 0.7668292682926829
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'mayweathermcgregor fight dhrumil mehta roeder rachael dottle mcgregor vegass arena saturday night world floyd mayweatherconor mcgregor fight roller coaster start anticipation hype held couple end punchline megafight twitter emoji percent fight broadcast aug source twitter monitoring twitter night example end emojinalysis peer review emoji fight night emojiwise thing fight majority mcgregor flag worn capestyle dress code money team money mayweather match enthusiasm camp success promayweather round couple quarter way underdog poundforpound history control man debut outcome everyone money round matter time mayweather knockout flurry ref mayweather victor mcgregor somehow damage corner spectacle chief emoji part end result outcome manny pacquiao epic mayweathervsmcgregor macaela marin macaelamarin august dhrumil mehta database journalist writer journalist mayweathermcgregorfight fight throughemojis emojiswe criedand somemore bydhrumil dhrumilmehta mehta roederand andrachael rachaeldottle mayweathervs vsmcgregor githubmaymcg4x3 lasvegass arenaon onsaturday night andthe huddledaround aroundtvs theworld world thefloyd floydmayweatherconor mayweatherconormcgregor mcgregorfight fightwas aroller rollercoaster coasterof fullof ofanticipation hype surprisedwhen whenmcgregor hisown tohold holdhis hisown coupleof thrilledwhen andthey exhaustedby bythe end howdo dowe emojis emojis biggestpunchline punchlinehow howthe themegafight outon ontwitter twitteremoji emojipercent mostusedemoji emojiin inover duringthe themayweathermcgregor broadcast from1205 amto to130 edton onaug source twitter apiwe monitoringtwitter twitteron night example inthe end collectedabout about200000 than12000 containedemojis emojis tobe enoughsample thisemojinalysis throughpeer peerreview mostusedemoji theemoji thefight fightwas wasfar face facewith joy hereshow howthe thenight emojiwise emojiwise themon rollingaverage forone thing thefight fightwas wasa partisanaffair affair themajority majorityof peoplein thearena tobe bemcgregor dublinand andan irishflag flag worncapestyle capestyle dresscode code butother tmtthe themoney moneyteam teamand andloyal loyalto tomoney moneymayweather mayweather andwent thematch withenthusiasm fromeither eithercamp matchingeach success tothe thesurprise neutraland andpromayweather firstround round nextcouple theway intothe irishunderdog mayhave havebeen asone oneof ofthe thebest bestpoundforpound historytook tookcontrol theman hispro prodebut outcomewhich whichwas predictedby everyone outcame camethe theemoji emojimoney moneybags bythe thesixth sixthround round matterof oftime oldpro thenewcomer theninth ninthit clearmayweather mayweatherwas forthe theknockout knockout itcame camesoon soonthereafter viciousflurry flurryof theref declaringmayweather mayweatherthe thevictor victorand mcgregor whowas wassomehow somehowstill hisfeet damage justover minutesafter afterit itbegan leaptup thecorner declaredit ita satisfyingspectacle spectacle mcgregorchief frustratedwith withthe theemoji tothink thinkthe thefight part asit towardthe end whilethe theresult resultmay maynever beenin inquestion question thiswas wasa welcomeoutcome formany manywho megafightagainst againstmanny mannypacquiao pacquiaoas anepic epic andthey somemore andthey somemore mayweathervsmcgregor mayweathervsmcgregormacaela macaelamarin marin macaelamarin macaelamarin august august27 dhrumilmehta mehtais adatabase databasejournalist journalistat focusingon roederis isa seniorwriter writerfor ollie ollierachael rachaeldottle dottleis visualjournalist journalistfor rachaeldottle')
+
+('VBD', 'told filed huddled emerged surprised seemed thrilled started played mostused fight fightrelated included collected contained mostused unfolded seemed loyal came went followed turned took predicted came seemed came stepped began declared heated viewed laughed fivethirtyeight fivethirtyeight fivethirtyeight welaughed andcried dottlefiled maymcg4x3for saturdaynight problemspushed finallyemerged mcgregorheld orseemed werethrilled percent1 themostused mayweathermcgregorfight onfight thatcontained wecollected emojinalysismight emojiof nightunfolded arenaappeared almostseemed wentas matchprogressed surpriseof mcgregorwon shamrocksfollowed turned preciselyeveryone itseemed prodismantled refstepped stillon itended over37 began observersdeclared itheated whoviewed theylaughed cried theylaughed theycried atfivethirtyeight forfivethirtyeight forfivethirtyeight')
+
+('VBN', 'laughed cried pushed collected contained appeared progressed scheduled ended appeared cried laughed laughed morehuddled weresurprised finallystarted wereexhausted megafightplayed containedfightrelated thatincluded included formostused thescheduled waspredicted mayweatherunleashed werefrustrated twitterappeared forthe laughed')
+
+('JJ', 'cried las anxious technical fights full mcgregor hold exhausted emojis mayweathermcgregor edt api mayweathervsmcgregor fightrelated emojis clear small sample likely emoji face joy fourminute rolling average partisan affair dublin irish like many neutral first next irish twitter pro emoji old ninth clear unleashed vicious leapt victorious frustrated finish fight welcome many last megafight cried datadhrumil senior rachael dottle associate visual rachaeldottle themayweathermcgregor cried criedsome undermayweather getthe ongithub forthe inlas tmobilearena acrossthe wasa wereanxious payperviewtechnical backthe fightsstart werefull whenthe emergedafter ofhype heldhis seemedto fora acouple theend allthis tweetscollected fightbroadcast amedt streamingapi fightnight mayweathervsmcgregor forexample theend morethan clear smallenough werethe butthe ofthe awaythe ofjoy unfolded ofthe showthem afourminute fourminuterolling average sharplypartisan ofpeople inthe appearedto fromdublin anirish worn seemedlike likethe eveningsdress fanswere cameand asthe progressed fighterssuccess ofmany many ofthe theneutral mcgregor wonthe thefirst thenext couplewere ofthe roundsthe theirish underdogmay theirish followedon twitter inhistory ofthe makinghis anoutcome seemedlike amatter untilthe theold dismantledthe bythe itwas goingfor avicious inthe the10th andthe steppedin savingmcgregor onhis furtherdamage endedjust mayweatherleapt onthe victorious chiefamong thefinish finish appearedto themost mostpart especiallyas heatedup theend havebeen awelcome lastmegafight asan theycried laughedsome criedsome isa asenior fivethirtyeight isan anassociate associatevisual fivethirtyeight')
+
+('JJR', 'mayweather oliverroeder filedunder oliverroeder')
+
+('VB', 'get make irish question mcgregorget knowall notmake chartsbelow')
+
+('NNS', 'data github people millions tvs emotions problems combatants months rounds tweets tweets hashtags tweets thats frontrunners tears heres charts people fans evenings fans members twitters loyalties fighters viewers washes rounds flags shamrocks things boxers bags feet minutes seconds observers others users mayweathers politics thedata peoplein themillions ofemotions emotions anxiousas technicalproblems thefights thecombatants aftermonths rounds pullingtweets fightrelatedhashtags fightrelatedtweets tweets thats mightnot makeit likelyfrontrunners withtears thecharts mcgregorfans hehails theevenings otherfans weremembers twitters twittersloyalties eachfighters promayweatherviewers viewers werewashes washes irishflags andshamrocks things poundforpoundboxers ofpunches feet fiveseconds cornerropes victorious500 someobservers others others emojiusers viewedmayweathers onpolitics politics')
+
+('VBP', 'maymcg4x3 payperview know show arena hails tmt mcgregor sixth mcgregor twitter think roeder dataon millionsmore aspayperview start monthsof weknow over240000 hashtagsthose ofwhich thatsa review frontrunnersfor farand tearsof fanshe hailsfrom membersof loyaltiescame anda quarterof flagsand boxersin controlof onlya punchesin mcgregor userson fightwas neverhave outcomefor datadhrumil')
+
+('VBG', 'fighting streaming pulling matching winning making going declaring saving satisfying crying focusing startedfighting fighting collectedduring twitterstreaming weremonitoring pulling onething seeminglymatching beenwinning winning manmaking wasgoing declaring andsaving asatisfying mcrying crying fivethirtyeightfocusing')
+
+('JJS', 'biggest best thebiggest')
+
+('VBZ', 'punches ropes ofrounds aug27 thatthis emoji allof debutan ropes')
+

@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 327
+Raw number of types: 174
+Raw Type token ratio: 0.5321100917431193
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 327
+Number of types: 305
+Type token ratio: 0.9327217125382263
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBN', 'published, filed, explaining excited, there explaining excited')
+
+('JJ', 'south, tuesday, wednesday, surveymonkey, available, excited, respondent, column, interested, southern, local, midwestern, fantastic, fivethirtyeightcom, whole, nebulous, published south, there interest, wrote tuesday, tuesday wednesday, using results, results surveymonkey, about which, making available, folks there, interest people, where their, where southern, southern midwestern, expatriates local, explain midwestern, states split, virginia their, resulted fantastic, findings walterhickey, walterhickey fivethirtyeightcom, fivethirtyeightcom whole, about these, particularly nebulous, insight appreciated, remix there interest, posts wrote tuesday, wrote tuesday wednesday, using results surveymonkey, polls about which, midwest making available, excited folks there, information respondent income, column interest people, interested approaches where, approaches where southern, where southern midwestern, midwestern expatriates local, regions explain midwestern, agree states split, missouri virginia their, bechdel resulted fantastic, questions findings walterhickey, findings walterhickey fivethirtyeightcom, learn about these, these particularly nebulous')
+
+('JJS', 'midwest, midwest, midwest, south midwest, south midwest, south midwest, column interest, states south midwest, responses south midwest, there column interest')
+
+('NN', 'hickey, remix, interest, audience, github, github, information, income, gender, region, interest, language, analysis, midwestern, inability, identity, please, research, kickoff, point, point, endeavor, midwest hickey, under remix, surveymonkey audience, available github, github github, there information, information respondent, respondent income, income gender, gender region, region could, people language, language analysis, midwestern inability, their identity, identity please, research kickoff, kickoff point, whole point, point endeavor, published south midwest, south midwest hickey, filed under remix, results surveymonkey audience, making available github, available github github, folks there information, there information respondent, respondent income gender, income gender region, gender region could, interest people language, people language analysis, explain midwestern inability, virginia their identity, their identity please, things research kickoff, research kickoff point, walterhickey fivethirtyeightcom whole, fivethirtyeightcom whole point, whole point endeavor, point endeavor learn')
+
+('NNS', 'posts, results, polls, states, responses, surveys, heads, tails, folks, approaches, people, respondents, words, approaches, definitions, regions, states, residents, states, remixes, articles, remixes, things, questions, findings, regions, interest posts, audience polls, which states, github responses, midwest surveys, format heads, heads tails, excited folks, interesting approaches, asked respondents, their words, interested approaches, midwestern expatriates, local definitions, definitions regions, agree states, split residents, difficulttocategorize states, please remixes, posted articles, fantastic remixes, interesting things, point questions, questions findings, nebulous regions, there interest posts, wednesday using results, surveymonkey audience polls, about which states, github github responses, south midwest surveys, surveys format heads, format heads tails, explaining excited folks, could interesting approaches, analysis asked respondents, where their words, especially interested approaches, southern midwestern expatriates, expatriates local definitions, local definitions regions, inability agree states, states split residents, residents difficulttocategorize states, identity please remixes, remixes posted articles, resulted fantastic remixes, might interesting things, kickoff point questions, point questions findings, particularly nebulous regions')
+
+('VBD', 'wrote, asked, split, posted, resulted, appreciated, hickey filed, analysis asked, especially interested, remixes posted, bechdel resulted, remixes might, regions insight, midwest hickey filed, language analysis asked, words especially interested, please remixes posted, articles bechdel resulted, fantastic remixes might, regions insight appreciated')
+
+('VBG', 'using, making, explaining, interesting, wednesday using, midwest making, there explaining, could interesting, might interesting, tuesday wednesday using, south midwest making, tails there explaining, region could interesting, remixes might interesting')
+
+('VBP', 'south, south, format, explain, agree, missouri, virginia, walterhickey, learn, posts wrote, states south, responses south, surveys format, there column, regions explain, inability agree, states missouri, things research, endeavor learn, interest posts wrote, which states south, github responses south, midwest surveys format, approaches there column, respondents where their, definitions regions explain, midwestern inability agree, difficulttocategorize states missouri, interesting things research')
+
+('VB', 'interesting, difficulttocategorize, respondents where, residents difficulttocategorize, missouri virginia, split residents difficulttocategorize, states missouri virginia')
+
+('VBZ', 'expatriates')
+
+('JJR', 'filed under, hickey filed under')
+

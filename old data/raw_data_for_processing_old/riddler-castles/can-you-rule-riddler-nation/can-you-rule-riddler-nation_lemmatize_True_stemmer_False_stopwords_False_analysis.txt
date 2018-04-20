@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 849
+Raw number of types: 342
+Raw Type token ratio: 0.4028268551236749
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 392
+Number of types: 236
+Type token ratio: 0.6020408163265306
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rule riddler nation riddler github github illustration guillaume riddler week offer problem thing hold math probability riddler something riddler movement submit either1 shoutout week column hint riddler express participatory gametheory problem submit number number submission number mean number number riddler joel baker riddler nation battle royale land castle value conqueror victory point enemy distribute fight castle victory point send number troop point distribution force enemy battle submit plan soldier battle plan oneonone matchup war battle royale riddler nation plan solution week riddler express congratulation stephen carrier berkeley california winner week game tetri board piece arrangement piece form block square illustration arrangement number solver number way twobysix forth space piece fibonacci number discussion pattern document tetri addict samuel wirajaya math solution week riddler congratulation lewisburg pennsylvania winner week puzzle time microorganism member specie split copy probability multiplication chance specie specie chance probability call probability probability microorganism dy probability extinct equation q2\\end equation solution probability probability extinction lessard probability extinction probability microorganism luck submit email oliverroeder fivethirtyeightcom')
+
+('VBD', 'edited suggested split crowned placed noticed twobyeight specie welldefined')
+
+('JJR', 'roeder soldier')
+
+('VBN', 'filed bitesized submitted given chosen squared given')
+
+('NNS', 'data data datariddlercastles conquers')
+
+('JJ', 'kurkdjian welcome related logic type classic slowpuzzle next twitter classic whole average win classic special distant wartorn archenemy strategic castle worth soldier castle win same point castle possible win queen last last puzzle lucky clear first many tetri solid high wide vivek intrepid pattern fill twobyfour empty tetri equal fantastic solver former cool last classic szatmary last classic single dy extinct sure extinct original conditional child \\begin former know laurent different single good little want riddle')
+
+('VBP', 'dear express want need take find have castle begin win win receive adjudicate square')
+
+('VBG', 'asking distributing king knowing beginning fighting solving multiplying')
+
+('VBZ', 'submits sends win tetri multiplies')
+
+('JJS', 'closest most')
+
+('VB', 'submit castle warlord know submit twobytwo check go extinct extinct go')
+

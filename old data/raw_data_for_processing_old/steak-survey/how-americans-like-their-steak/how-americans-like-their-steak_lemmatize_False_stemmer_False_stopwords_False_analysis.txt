@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 653
+Raw number of types: 299
+Raw Type token ratio: 0.45788667687595713
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 326
+Number of types: 218
+Type token ratio: 0.6687116564417178
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'americans data data datasteaksurvey people steaks polls data experiments arguments scouts wounds steaks people steaks stands people steaks airplanes people data results crosstabs regressions relationships people respondents situations people respondents people people steaks besides ideas comments data')
+
+('NN', 'steak walt hickey fivethirtyate github github potato almondine cruise ship scott suchman post riskaverse order steak idea commitment disclosure quest opportunity discuss superiority story datalab audience work satisfaction definition superiority girl steak rest look time life mediumrare sense commitment order reason side medium reason juicy threat illness everyone threshold risk speed limit survey risk traffic smoke lottery steak place start nothing relationship steak rareness income effect survey relationship steak example lottery chance success payout lottery chance success payout lottery steak rare anything futility chart steak majority percent medium mediumrare mediumwell anyone hypothesis taste anything')
+
+('VBN', 'filed done tried been incinerated cooked percent percent solid scorched')
+
+('JJ', 'prime baked green bean nina dandy likely full personal rare surveymonkey fresh sense actual frivolous moral proper lacked foodborne different interpret excited simple behavior gender insignificant laughable small hypothetical likely vast ballpark many desiccated good')
+
+('VBZ', 'washington comes midteens does')
+
+('VBP', 'have find miss have have america prefer prefer jump exceed evaluate prefer prefer tease risk like have have prefer have know know know')
+
+('VBG', 'reinforcing playing running settling testing skydiving getting risktaking following assuming indicating preferring')
+
+('JJS', 'midwest least')
+
+('VBD', 'cooked ordered speed asked checked checked were asked thought picked gained preferred')
+
+('VB', 'recover realize appear consider have play')
+
+('JJR', 'tougher less riskier riskier')
+

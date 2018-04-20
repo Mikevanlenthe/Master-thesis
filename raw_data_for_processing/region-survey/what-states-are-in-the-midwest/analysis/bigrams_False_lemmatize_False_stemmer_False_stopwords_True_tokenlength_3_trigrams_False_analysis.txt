@@ -1,0 +1,46 @@
+Article: region-survey/what-states-are-in-the-midwest
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 618
+Raw number of types: 276
+Raw Type token ratio: 0.44660194174757284
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 266
+Number of types: 182
+Type token ratio: 0.6842105263157895
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'apr, walt, hickey, regionalism, get, github, github, illinois, argument, get, coast, mountain, northeast, york, anything, philadelphia, designation, get, view, audience, ask, survey, march, march, lot, midwesterner, group, part, midwest, lot, core, midwest, everybody, state, question, home, preeminent, city, chicago, percent, survey, group, albeit, source, definition, state, state, bordering, way, midwest, half, quarter, pinpoint, region, illinois, core, midwest, vote, minnesota, vote, fuss, rest, anything, territory, region, break, diversity')
+
+('NNS', 'states, data, data, dataregionsurvey, states, regions, states, regions, states, regions, midwesterners, opinions, midwesterners, midwesterners, states, respondents, respondents, states, things, people, respondents, people, states, sources, minnesotans, hoosiers, spans, respondents, arkansas, people, expands, regrets, populations, kansas, states, people, americans, subdivisions, groupings')
+
+('VBP', 'midwest, make, west, southwest, midwest, boss, consider, make, consider, contrast, make, say, south, think, yankee, error, appear, michigan, refer, tribes, acknowledge, see')
+
+('VBD', 'filed, cornfield, seth, decided, asked, selfidentified, targeted, asked, selected, identified, selfproclaimed, spoke, thought, thought, asked, pulled, put, got')
+
+('JJ', 'savoy, perlman, regular, united, nebulous, new, unsophisticated, many, states, territory, surveymonkey, ran, national, first, many, sure, midwestern, midwestern, soontobereleased, southern, adamant, potential, anecdotal, several, midwestern, limited, true, second, potential, thought, south, indiana, iowa, percent, substantial, wisconsin, percent, much, missouri, half, unclear, true, nebulous, vast, swaths, american, solid, easy, midwestern, south, south, sure, south')
+
+('VBN', 'defined, criticized, selfavowed, broadbased, cut, identified, thought, made, thought, expected')
+
+('VB', 'consider, find, identify')
+
+('JJS', 'west, midwest, midwest, midwest, least, midwest, midwest, midwest, least, midwest, midwest')
+
+('VBZ', 'falls, illinois, seems, comes')
+
+('VBG', 'looking, pulling')
+

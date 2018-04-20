@@ -1,0 +1,46 @@
+Article: presidential-commencement-speeches
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 541
+Raw number of types: 252
+Raw Type token ratio: 0.4658040665434381
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 376
+Number of types: 213
+Type token ratio: 0.5664893617021277
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBG', 'sitting, giving, giving, making, seeking, choosing, giving')
+
+('NNS', 'presidents, speeches, rutgers, data, data, datapresidentialcommencementspeeches, images, speeches, presidents, speeches, presidents, speeches, records, presidents, graduations, academies, schools, times, schools, times, counts, colleges, universities, schools, times, presidents, speeches, schools, states, addresses, times, travels, speeches, presidents, times, speeches, places, states, students, factors, schools, speeches, schedules, speeches, chances, years, data')
+
+('JJ', 'give, commencement, getty, last, howard, usual, fouryear, final, military, public, private, complete, american, archive, military, other, public, private, high, lyndon, obama, ninth, black, commencement, ivy, commencement, new, historical, geographical, presidential, busy, short, wide, such, biden, white, obama, many, last, saturday, eponymous, clinton, public')
+
+('NN', 'way, obama, university, bialik, education, github, github, president, commencement, speech, howard, university, commencement, convocation, cheriss, president, commencement, address, presidency, sunday, university, air, force, academy, june, university, saturday, commencement, year, pace, bill, clinton, office, george, predecessor, pace, term, office, commencement, year, obama, year, circuit, academy, institution, school, harry, truman, office, start, commencementspeech, presidency, project, capitol, page, school, johnson, richard, nixon, jimmy, chart, capitol, page, speech, howard, president, college, university, jimmy, carter, cheyney, state, college, hbcus, league, obama, state, york, imbalance, diversity, commencement, trip, washington, maryland, virginia, reach, range, account, number, commencement, size, school, location, speaking, obama, joe, house, spokeswoman, run, president, commencement, year, address, bill, clinton, example, commencement, loyola, marymount, university, speak, sunday, university, school, service, story, github')
+
+('VBD', 'used, spoke, took, bush, upped, took, gave, took, graced, was, spoke, chose, said, spoke, download')
+
+('VBN', 'set, filed, spoken, given, spoken, combined, scheduled, used')
+
+('VB', 'give, carl, nurphoto, right, take')
+
+('VBP', 'sunday, get, obama, have, include, carter, have, are, michelle, have, come')
+
+('JJR', 'higher, more, more')
+
+('VBZ', 'gives, rutgers, takes, times, includes, addresses, has, takes, graduates, graduates')
+

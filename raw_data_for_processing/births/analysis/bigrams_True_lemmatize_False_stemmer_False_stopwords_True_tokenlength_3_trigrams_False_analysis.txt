@@ -1,0 +1,47 @@
+Article: births
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 646
+Raw number of types: 304
+Raw Type token ratio: 0.47058823529411764
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_True_lemmatize_False_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 760
+Number of types: 633
+Type token ratio: 0.8328947368421052
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'people, data, data, databirths, thousands, babies, parents, doctors, births, deliveries, lots, parents, delivers, fears, births, falls, wards, months, lots, births, children, years, reasons, forums, bugs, births, obstetrics, cesareans, inductions, effects, patterns, trends, attempts, dates, findings, births, data, researchers, effects, authors, data, births, data, parents, dates, births, results, births, days, flowers, github data, data databirths, databirths thousands, thousands babies, expect parents, the doctors, their newborns, many births, induced deliveries, choice lots, lots parents, that delivers, superstitious bad, longstanding fears, about fridays, number births, delivery wards, few months, ago lots, feb births, their children, four years, years reasons, parent forums, just bugs, professor obstetrics, planned cesareans, planned inductions, labor looks, birth effects, monthly patterns, longterm trends, from attempts, their findings, based births, births data, other researchers, birth effects, other authors, recent births, generation parents, the 1970s, and 1980s, since births, found results, with ours, suppress births, leap days, andrew flowers')
+
+('JJ', 'superstitious, friday, 13th, many, induced, cesarean, double, whammy, superstitious, bad, longstanding, fridays, births1, avoid, feb, friday, vague, yea, bad, luck, superstitious, superstitious, obstetrician, cesarean, friday, bad, luck, universal, friday, become, good, second, friday, medical, email, full, computational, statistician, complex, monthly, longterm, avoid, certain, previous, valentine, cowrote, several, bayesian, third, recent, recent, birth, high, ran, friday, consistent, finding, whole, suppress, leap, too superstitious, friday the, the 13th, under parenting, are born, falls the, the 13th, the month, about 800, and the, deliver their, other day, day many, either induced, given the, rather not, take their, delivers double, whammy superstitious, and the, the 13th, the month, and tend, fewer births1, wrote few, avoid feb, that their, won have, once every, the 13th, one mom, forum the, said yea, bad luck, luck day, day can, not superstitious, that just, said she, isn superstitious, another site, asked the, the obstetrician, scheduling cesarean, just laughed, said didn, booked the, friday the, the 13th, are bad, universal friday, friday the, has become, mom the, the 13th, another such, her family, harvard medical, that our, for this, and statistician, more complex, out calendar, and longterm, attempts avoid, dates their, from 1969, extension previous, covering the, valentine day, and halloween, textbook they, with several, authors bayesian, analysis third, more recent, reran the, more recent, more say, for the, the 13th, typically was, had been, scheduled less, less often, also ran, specifically for, the 13th, results consistent, over the, that christmas, holidays suppress, and the')
+
+('NN', 'baby, carl, bialik, get, github, github, month, expect, day, section, choice, chance, date, luck, number, month, effect, weekend, delivery, schedule, parent, mom, pregnancy, website, forum, office, lady, sorry, day, change, site, section, think, belief, day, household, mom, parent, forum, birth, birthday, family, neel, shah, assistant, professor, school, schedule, labor, friday, scientist, aki, vehtari, andrew, gelman, method, calendar, birth, land, extension, analysis, birth, day, cover, textbook, analysis, edition, vehtari, gelman, reran, analysis, generation, effect, key, expect, analysis, calendar, notice, christmas, month, analysis, may 2016, some people, people are, carl bialik, parenting get, get the, the data, data github, github github, born the, the whenever, whenever friday, month but, fewer than, than you, like any, births are, cesarean section, section and, the choice, their chance, chance with, with date, month are, are lower, lower than, than you, expect but, fridays the, the effect, smallest when, when the, the 13th, falls weekend, weekend when, when delivery, tend schedule, schedule fewer, births1 wrote, parentstobe try, try avoid, have birthday, every four, given parent, avoiding friday, are vague, vague one, mom wrote, wrote pregnancy, pregnancy website, the office, office lady, yea sorry, can change, change will, will since, since then, then been, superstitious all, all but, superstitious wrote, site when, cesarean section, section the, the 13th, laughed and, didn think, think the, the would, the belief, births are, bad luck, luck isn, isn universal, the 13th, become very, very good, good day, this household, household said, said one, the second, second parent, parent forum, forum who, given birth, birth friday, had another, such birthday, family neel, neel shah, shah assistant, assistant professor, medical school, said email, our schedule, schedule for, this friday, computational scientist, scientist aki, aki vehtari, vehtari and, statistician andrew, andrew gelman, complex method, method for, calendar birth, avoid land, land certain, previous analysis, analysis other, the birth, halloween made, made the, the cover, cover textbook, they cowrote, cowrote with, several other, bayesian data, data analysis, third edition, edition sent, sent vehtari, vehtari and, and gelman, gelman the, the more, data from, from 2000, and they, the analysis, analysis they, that the, the more, recent generation, say when, when they, gave birth, birth the, the effect, other key, was twice, twice high, been the, expect since, often then, then they, ran analysis, for friday, and found, consistent with, the whole, whole calendar, calendar notice, christmas and, and other, more than, than leap, the 13th, the month, contributed analysis')
+
+('VBD', 'friday, filed, wrote, wrote, said, said, wrote, asked, laughed, said, said, said, planned, developed, halloween, sent, found, gave, andrew, contributed, bialik filed, are scheduled, bad luck, births the, children won, friday the, website forum, lady said, sorry bad, who said, when asked, and said, would booked, one mom, who had, friday the, and had, school said, for planned, friday 2012, gelman developed, findings based, they reran, they found, parents had, high had, were scheduled, friday the, month andrew, flowers contributed')
+
+('VBG', 'parenting, tying, avoiding, bugging, saying, scheduling, teasing, separating, covering, luck tying, together longstanding, for avoiding, been bugging, her saying, about scheduling, for teasing, effects separating, researchers covering, their finding')
+
+('VBN', 'born, treated, scheduled, given, staffed, given, given, planned, based, made, scheduled, found, have baby, newborns treated, are staffed, had given, and planned')
+
+('VBZ', 'falls, fridays, looks, holidays, friday falls, especially fridays, that friday, certain dates, effect for, key dates, other holidays')
+
+('JJR', 'fewer, fewer, filed under, for other, far more')
+
+('VB', 'take, try, booked, not take, looks full')
+
+('VBP', 'expect, tend, parentstobe, gynecology, say, superstitious have, babies are, you expect, parents and, doctors who, who deliver, deliveries cesarean, parents would, fridays and, you expect, wards are, thinly and, lots parentstobe, reasons given, forums for, day this, obstetrics and, cesareans and, inductions labor, patterns and, data from, effects valentine, day and, they gave, they also, here their, days and')
+
+('JJS', 'smallest, effect smallest')
+
+('NNP', 'the number')
+

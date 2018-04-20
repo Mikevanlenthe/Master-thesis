@@ -1,0 +1,14 @@
+POS tags:
+('VBP', 'am,,are,,get,,get,,make,,—,,are,,are,,consider,,consider,,make,,consider,,are,,aren’t,,make,,i,,spoke,,have,,did.,,say,,think,,appear,,refer,,are,,acknowledge.')
+('NNS', 'states,,data,,states,,regions,,regions,,—,,midwesterners.,,opinions,,midwesterners,,midwesterners,,states,,respondents,,states,,things,,people,,people,,states,,sources,,minnesotans,,hoosiers,,can’t,,spans,,respondents,,missouri,,oklahoma,,people,,vote,,,people,,swaths,,americans,,tribes,,“midwestern,�,,subdivisions,,groupings')
+('NN', 'midwest?,,walt,,hickey,,regionalism,,data,,github,,github,,facebooktwitteremail,,cornfield,,illinois.,,seth,,perlman,,argument,,i,,in:,,states?,,west,,coast,,,mountain,,states,,,southwest,,northeast,,south,,midwest,,,i’m,,york,,,i,,anything,,west,,philadelphia,,midwest.,,designation,,michigan,,,what,,,precisely,,,midwest.,,territory.,,view,,,audience,,cut.,,survey,,midwest,,march,,respondents.,,lot�,,“some�,,midwesterner.,,group,,part,,midwest.,,lot,,core,,is.,,everybody,,state,,question.,,home,,preeminent,,city,,,chicago,,—,,midwestern,,percent,,respondents.,,contrast,,survey,,,group.,,potential,,,source,,definition,,midwest:,,state,,state,,bordering,,it.,,midwest;,,way.,,midwest,,half,,quarter,,midwest,,,i,,arkansas,,,region,,expands.,,yankee,,error.,,indiana,,,iowa,,illinois,,core,,midwest,,,percent,,vote,,populations).,,michigan,,,wisconsin,,percent,,midwest,,fuss.,,ohio,,,missouri,,half.,,rest,,states,,,they’re,,midwest.,,midwest,,expected.,,territory,,region.,,it’s,,diversity,,south.,,south,,is,,,you’ll')
+('VBN', 'filed,,criticized,,identified,,selected,,identified,,thought,,thought,,asked,,pulled')
+('JJ', 'data/region-survey,,savoy,,,regular,,united,,defined,,other,,nebulous.,,new,,unsophisticated,,self-avowed,,boss,,,many,,i,,broad-based,,surveymonkey,,self-identified,,national,,“a,,into.,,first,,,many,,sure,,illinois,,midwestern,,soon-to-be-released,,southern,,adamant,,anecdotal,,,this?,,several,,self-proclaimed,,midwestern,,limited,,true,,i,,potential,,thought.,,south,,substantial,,much,,unclear,,true,,nebulous,,i’d,,often,,,vast,,american,,solid,,easy,,such,,sure,,south')
+('NNP', '/,,—')
+('VBZ', 'ap,,is,,has,,falls,,states,,regrets,,seems,,is,,comes,,is')
+('VB', 'here’s,,find,,be,,get,,ask,,march,,identify,,i,,have,,pinpoint,,be,,be,,minnesota,,put,,kansas,,break')
+('VBD', 'regions,,,decided,,asked,,ran,,targeted,,asked,,was,,were,,namely,,,thought,,made,,thought,,second,,,were,,got,,see.')
+('VBG', 'looking,,pulling')
+('JJS', 'midwest,,least,,least')
+('JJR', 'more,,more,,more')
+

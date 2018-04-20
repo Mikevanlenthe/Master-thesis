@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1324
+Raw number of types: 487
+Raw Type token ratio: 0.3678247734138973
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'handful last dramatic last last estimated major mixed violent increase level official available preliminary percent available last percent official website major local statistic able midyear america last able collect august percent full widespread many substantial concentrated particular dramatic early pulse nightclub chicago close half available contrast several milwaukee substantial large texas last total recent available total different last last several decline geographic preliminary likely final next last large point absolute average many wary judge whole large urban exaggerate national large january true percent current total likely early preliminary much read major small dramatic easy luck inch mean stray fatal survivable difficult total total long shortterm prevalent current')
+
+('NN', 'city driving rise murder jeff crime github github datamurder2016 year rise number murder year increase year city month number murders1 percent increase quarter century rise campaign issue evidence deterioration order evidence claim type crime crime murder rate figure year evidence number murder year city year number group city figure variety source email phone call police department city chief association organization bigcity police chief case medium report official source gather city population city percent murder year city city increase murder year github page rise murder percent city increase city chicago rise number murder city murder time year percent increase3 orlando jump murder attack orlando account increase murder city city increase number murder quarter increase group city city murder year city city washington baltimore decrease number murder year rise murder city increase percent increase chicago memphis tenn phoenix vega antonio houston fort wayne atlanta indianapolis kansa city arlington city increase murder year city total date year year murder look year way city increase murder year year city increase year pattern city rise number murder southwest4 switch year bigcity rise spread country figure mean number fall show increase murder hard month figure fall brennan center yearend murder count city year projection murder city percent difficulty murder month year bigcity country center rise year murder city population percent trend hold murder percent murder rate level result increase murder rarest crime change number murder effect murder rate explanation change difference bullet injury rise murder vary year year sense evaluate trend medium term jump drop murder year prevalent year decade decade record')
+
+('VBD', 'filed concentrated released rose emerged went least accounted posted accounted projected pointed rose murdered struck')
+
+('NNS', 'data data data data data data data people data data data data data carl people')
+
+('VBZ', 'appears donald suggests appears dallas')
+
+('VBG', 'continuing showing citing including citing defining seeing excluding remaining including experiencing rising shifting existing using highlighting knowing using rising assuming sustaining swing alarming concentrating')
+
+('JJS', 'least biggest least least biggest biggest biggest greatest worst least')
+
+('JJR', 'slower broader')
+
+('VBN', 'seen come seen seen seen seen killed seen seen revised sent measured influenced missed')
+
+('VB', 'increase percent increase come rise push half hold make safer')
+
+('NNP', 'october louisville')
+
+('VBP', 'june know wise tend know understand make')
+
+Token analysis after pre-processing 
+Number of tokens: 562
+Number of types: 284
+Type token ratio: 0.505338078291815
+

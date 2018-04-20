@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 2429
+Raw number of types: 671
+Raw Type token ratio: 0.27624536846438863
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'tags anonymous percent know collect thank handle employ english assign answered focused checked trained mailed certain credible serious many political last detail third tuesday national much median full possible many many equal noninterviewing white several diverse many important difficult plenty wellknown different eligible local right geographical interested likely past useful spanish chinese french vietnamese much median individual spanish popular second minimum conservative many social consistent unlikely likely complex many simple final single demographic ethnic tricky hispanic hispanic percent several underrepresented large additional familiar twohour sophisticated expensive typical many expensive illegal godawful last grumpy personal many common close plosz surveymonkey white white hampshire4 call sample marist dialect tagalog german english dicamillo marijuana respondent representative vote origin percent average subgroup relevant anzalone liszt expense senate september average average5 know complete complete know remain decide call certain provide korean tapped asked ranged suggested least')
+
+('NNS', 'pollsters details polls pollsters datapollofpollsters readers forecasts junkies people polls pollsters nuts bolts numbers pollsters answers minutes respondents questions questions questions parts operations pollsters pollsters surveys vendors respondents members polls contractors pollsters people polls pollsters questions interviewers contractors pollsters banks pollsters interviewers hours firms women pollsters details employees americans organizations staffers pollsters businesses arms interviewers minorities demographics minorities fields pollsters people pollsters respondents numbers voters pollsters people voters politics voters pollsters companies voters pollsters questions languages polls pollsters hispanics services views others answers pollsters responses pollsters lists ones politics pollsters questions responses people screens questions questions respondents options factors pollsters voters respondents answers others pollsters numbers groups weights risks rates pollsters skeptics lists techniques costs pollsters clients costs people cellphones respondents pollsters questions banks pollsters pollsters pollsters seats simulations pollsters races pollsters reasons seats kept updates ages women diverse advantages others seats data data results panels interviewers offices respondents people races pollsters models voters states voters schools jobs issues interviews results questions voters voters responses factors caveats cellphones predictions republicans seats data lives costs doubles offers')
+
+('VBP', 'data staffs interviews whereas data twothirds panels republicans democrats know make think earn find include differ contain expect differ expect online live hotbutton election1 gender interviewers method random quality carvalho differ marriage likelihood question increase john senate provide include make make suggest explain limit')
+
+('VBZ', 'calls lists lists lists responses calls yesandno respondents americans republicans gets makes depends calls comes')
+
+('NN', 'release promise outsource conduct conduct outsource work think randomly sell respond respond decide count stay hispanic bound prolific understand borick answer side percent randomdigit dial efficient consistent barbara percent spanish samesex registeredvoter voter simple half muhlenberg sample error error online dial bialik poll github github illustration joel plosz illustration joel election hardcore sausage poll candidate dozen database time survey time room report github hung christopher borick college survey election reason poll work instance turnover rate panel month telephone work phone monitor percent percent quality phone hour days3 work measure race staff percent percent half marketing consulting andrew smith university hampshire pollster staff pollster staff graduate school pool pollster issue field interview work phone random phone number region poll method time phone number phone number person area stranger case columbus dispatch poll number information voting everyone idea registeredvoter college everyone survey poll language survey nothing percent answer language proportion pollster cost interview language place value health care education wage mark field research corporation legalization difference electorate history factor history inquire interest election someone pollster relationship number accuracy estimate question range number gender information example percent race percent respondent limit anyone response phone survey error importance borick response margin error figure quantity size poll margin research camp panel discussion marist carvalho margin insight value quality research inference registeredvoter telephone cost senate race year number everyone interview complexity competitiveness industry election length survey help fuck business email respondent week election business phone election something outcome model percent attention response question senate blind vote tell vote build measure abortion interpret determine vote vote vote vote count vote vote vote weight count boost poll confirm count survey control control time spending blew likelihood weight twice grove irrelevant')
+
+('VB', 'know keep make forecast take take answer make consider')
+
+('VBD', 'said filed covered bought experimented opted asked predicted made quantrelated registered registered governmentprovided republicanheld said added mandarin said likelihood said said likelihood weight weight weight said said said said registered weight took said took came said said said said said asked said said said said said said said followed answered')
+
+('VBN', 'stressed made converted taken found completed based introduced based reserved compared cited made asked asked asked learned shared employed called asked asked cited registered asked called automated asked made asked compelled asked predicted')
+
+('VBG', 'leading interviewing polling impending polling polling training polling polling polling voting weighting showing including completing outsourcing using building choosing deciding asking dialing talking returning restricting polling interpreting predicting voting asking predicting screening using voting giving using weighting meaning increasing weighting declining sampling reporting polling charging spending charging increasing asking expecting occurring polling paying asking')
+
+('NNP', 'muhlenberg')
+
+('JJR', 'answer larger greater higher')
+
+('JJS', 'least latest')
+
+Token analysis after pre-processing 
+Number of tokens: 832
+Number of types: 470
+Type token ratio: 0.5649038461538461
+

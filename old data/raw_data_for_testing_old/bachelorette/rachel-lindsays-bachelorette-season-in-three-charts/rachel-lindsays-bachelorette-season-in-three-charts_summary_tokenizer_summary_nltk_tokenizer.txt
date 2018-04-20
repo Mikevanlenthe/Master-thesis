@@ -1,0 +1,13 @@
+POS tags:
+('NN', 'pos,,season,,ella,,koeze,,gus,,tv,,github,,github,,data/bachelorette,,facebooktwitteremail,,oof,,conclusion,,season,,bachelorette�,,rachel,,lindsay’s,,love,,didn’t,,choice,,home,,abasolo’s,,proposal,,spain,,doll,,limo,,peter,,end,,season,,appreciation,,everything,,rachel,,whaboom,,ticklemonster,,jack,,dream,,door�,,bed�,,rachel,,rachel,,waste,,time,,date,,season,,week,,example,,rachel,,group,,chart,,rachel,,attention,,number,,strategy,,tv,,everyone,,“bachelorette�,,bracket,,pool,,peter,,drama,,rachel,,globe,,journey,,europe,,rachel,,slice,,it’s,,ride,,rachel,,bachelor,,nation,,story,,who’s,,bachelor,,p.m.,,article,,season,,finale,,reporting,,walt,,hickey,,end,,we’re,,peter,,bryan,,stone’s,,selective,,one-on-one,,you’re,,worth,,diverse,,wild,,endure,,didn’t,,love,,move')
+('NNS', 'tags,,data,,data,,men,,suitors,,vineyards,,years,,men,,weeks,,men,,men,,men,,impressions,,others,,suitors,,dates,,dates,,dates,,suitors,,men,,destinations,,dates,,contributions,,�,,shows')
+('VBZ', "lindsay’s,,la,,dean,,'charts,,roses,,'seems")
+('JJ', 'wezerek,,finale,,rioja,,peter,,bryan,,usa,,hometown,,update,,one-on-ones,,focused,,dean,,rachel,,didn’t,,live,,typical,,eric,,last-man-standing,,hopeful,,eric,,other,,fresh,,strong,,much,,final,,available,,limited,,predictable,,fivethirtyeight,,final,,metaphorical,,actual,,season’s,,international,,western,,substantial,,good,,final,,ready,,new,,next,,aug.,,additional,,bryan,,adam,,find,,see')
+('JJS', 'quest')
+('VBP', "love,,weren’t,,bryan,,husband,,have,,'end,,go,,have,,find")
+('NNP', "“lay,,�,,�,,�,,“the,,*shudders*,,…,,�,,“lock,,'worst")
+('VB', "rachel,,'get,,remember,,remember,,be,,be")
+('VBG', "fighting,,'messing,,accepting,,looking,,looking,,picking,,trying,,roaming,,watching,,viking,,choosing,,going,,boring")
+('VBD', "sent,,stepped,,did,,had,,gave,,went,,was,,had,,had,,were,,were,,was,,did,,was,,'filed")
+('VBN', 'happened,,eliminated,,eliminated,,persevered,,made,,had,,spent,,concentrated,,made,,published,,passed,,given,,been,,gone,,been,,updated,,come,,get,,matt,,get')
+

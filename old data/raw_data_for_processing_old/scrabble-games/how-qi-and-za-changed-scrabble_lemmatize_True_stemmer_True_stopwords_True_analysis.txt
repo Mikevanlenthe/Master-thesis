@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 860
+Raw number of types: 403
+Raw Type token ratio: 0.4686046511627907
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 376
+Number of types: 259
+Type token ratio: 0.6888297872340425
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'chang scrabbl roeder file game github plan reader plan problem incom inequ plan game webscrap tournament scrabbl bestlaid plan hold rack vowel play question explain core econom concept skyrocket halfcenturi document detail sort folk theori percent percent technolog chang technolog higherskil higherearn worker quickli adapt notion effect work dramat technolog chang scrabbl involv dictionari weekend hotel ballroom empti fastfood restaur tournament scrabbl player seat board place game letter tile scrabbl economi economi dictionari ten allow word everi book scrabbl technolog decad technolog revolut game train tool allow player learn word strategi easili version zyzzyva tool quackl scrabbl analysi partner publicli chang year march edit offici tournament club word list effect edit christen scrabbl word play addit word twolett word build block scrabbl juici highpoint tile game instantly1 creat scrape game cover year crosstablescom scrabbl tournament result scene averag score point player game averag score effect lexic revolut player effect exploit word weekend counterpart scrabbl scrabbl incom ahem pointscor inequ reason scrabbl metagam everi time dictionari everyon game chang evan clinchi player oregon definit think player betterequip exploit chang number tri inequalityexacerb distribut effect word scrabbl fact player skill level expand word list averag score board mayb scrabbl keyhol question macroeconomi thoma economist author capit centuri exampl sharpli technolog explan scrabbl mind count game mention book page belief show work paper post github interest use dissert dhrumil mehta contribut research')
+
+('JJ', 'oliv grand dear light scrabbl leav full unansw scrabbl inequ great widen exploit becom widen everi offic countri govern interact full improv actual digit earli public spar releas happen second valid north american evolv tournament clearinghous dictionari overnight technic mediocr rich spoke suspect complex updat adapt uncov weak evid benefit le equal similarli shine french twentyfirst skeptic probabl fivethirtyeight piec scratch anyth')
+
+('NNS', 'data data datascrabblegam data data pleas data parti nowindispens data data increas increas piketti data')
+
+('VBP', 'github sometim turn bear favor emerg wordstudi engin onlin averag expert seem incom read find know')
+
+('VBD', 'shed left went took grew told went light')
+
+('VB', 'go gulf take get love develop inequ')
+
+('JJR', 'thicker longer richer stronger weaker larger')
+
+('JJS', 'biggest best')
+
+('VBZ', 'economi')
+

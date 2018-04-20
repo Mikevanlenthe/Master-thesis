@@ -1,0 +1,23 @@
+Token analysis before pre-processing 
+Raw number of tokens: 8
+Raw number of types: 7
+Raw Type token ratio: 0.875
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'circuitjudgcaseareimmigrcourtvoteishavegorsuchpercentwatenthsenatsidehastudibebasetrumpgorsuch')
+
+('NN', 'recordemploycircuitdiscriminpredictsupremconfirmrecord estimgovernclaimgetdatagithubpresidnominbeentrifocusguy')
+
+('VBZ', 'lookmorecasesideologgivenrightwereanalysicases')
+
+Token analysis after pre-processing 
+Number of tokens: 4
+Number of types: 4
+Type token ratio: 1.0
+

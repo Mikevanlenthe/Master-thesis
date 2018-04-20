@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1305
+Raw number of types: 867
+Raw Type token ratio: 0.664367816091954
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 855
+Number of types: 712
+Type token ratio: 0.8327485380116959
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'americans data data people polls data experiments arguments scouts wounds steaks people steaks stands people steaks airplanes people data results regressions relationships people thresholds respondents situations people respondents people people steaks besides ideas comments data how americans nowhere  audience polls nice to fresh data actual experiments it comes frivolous arguments girl scouts from its ordered steaks my midteens their steaks it stands juicy steaks of airplanes exceed the the results the crosstabs ran regressions the relationships risk thresholds asked respondents hypothetical situations assuming you how respondents percent  their steaks  besides the comments')
+
+('NN', 'steak walt hickey github github datasteaksurvey potato almondine cruise ship scott suchman post riskaverse order steak idea commitment disclosure quest opportunity discuss superiority story datalab audience work sense satisfaction definition superiority girl steak rest look time life mediumrare sense commitment order reason side medium reason juicy threat illness everyone threshold risk jump speed limit survey evaluate risk speed traffic prefer lottery start nothing relationship steak rareness nada income effect survey relationship steak example percent chance success percent chance success lottery steak anything futility chart steak majority percent medium mediumrare anyone hypothesis taste download anything may 16 pm how their steak steak by by walt walt hickey fivethirtyate get get the the data data on on github github github github data data at datasteaksurvey facebooktwitteremail facebooktwitteremail prime prime rib rib with potato and bean almondine the cruise cruise ship dandy  scott suchman the washington washington post post are riskaverse people people more to order order their their steak done  idea  to find find out out and our commitment commitment to full disclosure disclosure  personal quest quest to to never miss an an opportunity the superiority superiority of of rare steaks  the story story  datalab has has been playing around around with surveymonkey audience always nice data to to work work with with  of satisfaction satisfaction in when it have about about the the definition the midwest midwest or moral superiority the girl america  i prefer prefer steak cooked so that it it could could very very well recover from with proper rest   and and i i look look back back at at the the time time in my life life when when i in my realize i lacked a a sense sense of of commitment commitment  why do do people order their reason  this side side of of medium medium  one reason reason people  less less juicy the threat foodborne illness illness   everyone everyone has has a a different different threshold threshold for for risk they jump jump out out of on may may 7 and 8 we ran ran a testing how interpret and and evaluate evaluate risk risk  do they traffic  skydiving   prefer prefer a a riskier riskier lottery lottery  and then them how how they their steak steak  if at at all  after getting the the data data back back  i was to see see the which are simple place to start start  to try try to to tease any relationship behavior and and steak steak rareness rareness  nada  then i to see see whether whether gender gender   age effect  insignificant  laughable  at least least in in this this small small survey survey  appear to to be be any any relationship between people people  s risk their steak cooked  s one example  consider the lottery a percent chance chance of of success success  with a a payout payout of in lottery lottery b percent chance chance of of success success  with a a payout payout of to bet bet  would you you play play lottery lottery a or lottery lottery b maybe people people who lottery a the riskier riskier lottery lottery  would be be more their steak steak rare much  to be this futility futility  this chart indicating how their steak steak  the vast vast majority like it the ballpark ballpark of of medium medium   with with about about twice many people preferring mediumrare mediumrare to to mediumwell  anyone solid hypothesis hypothesis for some people desiccated   taste taste  m out  let let me s the the data data to to download download  let me me know anything good good ')
+
+('VBN', 'filed baked done tried cooked cooked scorched have no was excited i checked have a have a have a and desiccated here ')
+
+('JJ', 'fivethirtyate prime green bean nina dandy likely full personal rare steaks surveymonkey nice fresh actual frivolous moral proper lacked foodborne different interpret steak excited crosstabs simple place behavior gender insignificant laughable small hypothetical lottery thought rare gained preferred vast ballpark many solid desiccated good at 508 like their under fivethirtyate baked potato and green green bean on the nina  s dandy are riskaverse likely to no idea tried to absolutely nowhere but  reinforcing our to full my personal never miss discuss the s the with surveymonkey s always have fresh a sense sense of running actual particularly when settling frivolous of the the moral of the of america wounds with in my steaks mediumrare mediumrare  i lacked incinerated  to reason from this tougher  is the threat of of foodborne whether they the speed limit  people interpret speed in in traffic smoke  asked them prefer their excited to checked the  which usually a a simple place to nothing  i ran out any relationship between risktaking behavior checked to or income had any any effect statistically insignificant s laughable does not not appear relationship between how they like their one example following hypothetical in lottery have  a or picked  likely to prefer their  not so much there  anything to from this s this preferred their  like in the as many a solid for why why some like their know  of ideas ideas  in the whether you')
+
+('VBZ', 'washington comes midteens and my rare steaks here  there  definition of its wounds that one there was there does here  rare  still  somewhere in know in know whether')
+
+('VBP', 'find miss america prefer prefer exceed prefer tease appear risk lottery know know know americans like steak well i have  but opportunity to polls  to have experiments  comes to arguments i i have superiority of scouts of midteens  people order stands to people prefer steaks is risk  airplanes or or exceed speed limit they prefer all  results  crosstabs  regressions to were so thresholds and situations  you have you have you have to prefer majority  anyone have besides  you know me know comments ')
+
+('VBG', 'reinforcing playing running settling testing skydiving getting risktaking following assuming indicating preferring  reinforcing been playing in running to settling survey testing go skydiving after getting was nothing between risktaking the following  assuming s anything chart indicating people preferring find anything')
+
+('JJS', 'midwest least bed rest')
+
+('VB', 'recover realize consider play prefer and realize respondents ')
+
+('VBD', 'ordered incinerated smoke asked checked checked asked picked hickey filed with baked ship nina suchman  i tried and got steak cooked proper bed i ordered steaks incinerated how 550 they speed  smoke then asked i checked age or income had steak cooked we asked  100 i thought who picked be gained respondents preferred twice as steaks scorched')
+
+('JJR', 'tougher less riskier riskier filed under  consider')
+
+('NNP', ' scott  the  and  here  datalab  and  and  why  and  there  nada  then  the  there  you  with  you  with  would  lottery  the  would  still  the  let')
+

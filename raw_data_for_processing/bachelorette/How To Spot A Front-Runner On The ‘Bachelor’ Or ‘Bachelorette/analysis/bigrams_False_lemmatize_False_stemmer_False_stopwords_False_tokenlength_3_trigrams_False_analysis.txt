@@ -1,0 +1,48 @@
+Article: bachelorette/How To Spot A Front-Runner On The ‘Bachelor’ Or ‘Bachelorette
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2056
+Raw number of types: 592
+Raw Type token ratio: 0.28793774319066145
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1386
+Number of types: 530
+Type token ratio: 0.3823953823953824
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'spot, bachelor, bachelorette, koeze, walt, hickey, github, github, databachelorette, monday, night, lawyer, dallas, rachel, lindsay, journey, season, bachelorette, season, bachelor, franchise, bachelor, bachelorette, heart, figure, competition, firstimpression, bachelor, franchise, part, fabric, television, week, bachelor, bachelorette, oncamera, group, sex, one, romance, competition, information, nut1, jump, bachelor, bachelorette, speculation, desire, love, abc, fivethirtyeight, espn, abc, walt, disney, it2, week, competition, season, oneonone, date, twoonone, date, group, date, protection, elimination, week, show6, let, week, bachelorette, bachelor, win, quit7, way, ceremony, week, competition, bachelor, bachelorette, week, rest, date, ceremony, show, week, bloodbath, ceremony, carnage, week, piece, favorite, firstimpression, prize, contestant, bachelor, bachelorette, week, future, contestant, firstimpression, win, runnerup, percent, episode, rachel, firstimpression, season, bachelor, bachelor, nick, viall, rate, percent, week, rhythm, bachelorette, time, bachelor, bachelorette, resource, reason, ideal, face, time, group, winner, path, victory, date, season, date, obscurity, end, date, contestant, course, season, winner, journey, season, see, winner, lead, check, bachelorette, lurker, look, bachelor, season, bachelor, brad, season, bachelor, growth, length, complexity, number, bigpicture, view, consideration, twoonone, half, twoonone, mortality, rate, percent, bachelor, hunger, moment, bachelor, chris, twoonone, date, desert, carnage, doesn, half, twoonone, date, twoonone, date, percent, contestant, competition, doom, heart, bachelor, franchise, course, series, oneonone, date, sign, season, field, oneonone, show, relationship, bachelor, ette, field, season, bachelor, winner, oneonone, date, week, viall, gravity, plane, kiss, time, theory, date, endofepisode, ceremony, invitation, preference, part, bachelor, bachelorette, date, advantage, date, date, week, competition, ceremony, week, competition, outcome, outcome, date, question, zeroed, grabs, date, recipient, date, mind, ceremony, thing, date, thing, show, contestant, competition, date, relief, percent, time, week, percent, time, date, week, time, thing, competition, compare, elimination, rate, elimination, rate, date, week, percent, time, week, week, date, advantage, difference, advantage, time, elimination, week, week, date, advantage, chart, probability, contestant, date, episode, example, person, week, roseless, week10, chance, week, chance, elimination, contestant, date, bachelorette, league, get, idea, contestant, analysis, firstimpression, way, favorite, way, winner, date, show, oneonone, season, twoonone, date, contestant, someone, week, premiere, season, bachelorette, night, abc, grace, mohs, research, piece, tony, chow, meena, ganesan, gus, wezerek, koeze, gus, wezerek')
+
+('VBZ', 'frontrunner, gives, has, america, uses, dates, remains, adds, dates, leaves, distributes, roses, allows, means, dates, lauren, stands, grows, dates, means, makes, gives, happens, shows, has, offers, takeaways, roses, means, airs')
+
+('VBD', 'learned, premiere, set, used, rose, scripted, helped, noted, went, received, left, rose, rejected, rose, removed, rose, rose, rose, impressed, was, rose, went, went, made, received, rose, made, rejected, considered, were, charted, highlighted, took, was, picked, rose, invited, terminated, left, won, rose, found, reduced, remained, crowded, went, did, vomited, took, rose, rose, were, rose, rose, rose, rose, rose, was, looked, happened, rose, rose, rose, rose, were, won, rose, happened, was, won, did, rose, were, rose, rose, rose, received, rose, didn, rose, learned, rose, rose, abc, contributed, did')
+
+('VBG', 'analyzing, being, assuming, playing, remaining, going, ending, dating, dizzying, forecasting, looking, dating, weighting, remaining, surviving, doing, trying, playing, going, getting, getting, being, surviving, proceeding, winning, surviving, being, being, keeping, winning, getting, leaving, winning, looking, being, receiving, preparing, doing, going')
+
+('NNS', 'seasons, data, data, seasons, data, matters, data, contestants, years, ratings, millions, contestants, contestants, weeks, things, motives, contestants, subjects, contestants, win, reasons, data, roses, dates, contestants, contestants, odds, players, contestants, data, viewers, seasons, recipients, recipients, roses, contestants, rolls, shows, contestants, dates, opportunities, dates, dates, ones, champions, opportunities, positions, points, dates, contestants, points, roses, women, shows, seasons, weeks, dates, types, dates, dates, contestants, contestants, dates, ettes, competitors, soules, women, survivors, weeks, weeks, participants, cases, twoonones, dates, dates, exceptions, contestants, weeks, contestants, dates, weeks, contestants, weeks, contestants, weeks, roses, roses, contestants, dates, dates, people, things, weeks, events, roses, weeks, contestants, competitors, contestants, competitors, chances, contestants, buys, weeks, weeks, weeks, contestants, weeks, dates, manages, contestants, graphics')
+
+('VBP', 'ella, watch, whittle, need, clear, are, are, are, are, contestants3, are, want, are, are, crown, lindsay, get, reach, make, fall, are, spend, are, allow, tend, early, tend, find, womack, evident, are, are, get, are, are, spell, oneonone, are, have, sink, don, have, survive, are, are, are, continue, receive, represent, are, receive, fantasy, want, are, make, have, ella')
+
+('VBN', 'filed, published, named, given, become, made, structured, motivated, owned, owned, felled, eliminated, allocated, given, invited, invited, accumulated, designed, eliminated, rejected, gone, eliminated, been, shared, been, given, given, eliminated, eliminated, awarded, eliminated, given, eliminated, given, over, eliminated, fun')
+
+('VB', 'get, start, have, try, edge, crack, make, get, keep, inspire, love, get, come, forget, stop, come, come, establish, kick, have, contend, regardless, happen, contestant, percent, win, measure, see, eliminated, identify, buy, see')
+
+('JJ', 'televised, previous, unprecedented, elusive, subject, final, solid, cultural, unknown, opposite, lucky, frequent, true, right, second, espn, logged, first, percent, hard, ritual, next, dumped, particular, third, first, essential, early, coveted, awful, single, final, recent, final, firstimpression, final, overall, final, precious, maximum, curious, strong, assigned, dark, pink, early, final, specific, worthy, special, statistical, brutal, available, great, ondate, half, bloodthirsty, gamesstyle, middle, next, oneonone, few, swim, all8, good, valuable, early, four9, average, overall, extra, helpful, last, final, mere, active, important, distinct, many, next, ceremony, neutral, negative, positive, essential, positive, positive, negative, next, neutral, next, positive, negative, several, temporary, subsequent, subsequent, next, percent, maintain, steady, next, percent, same, favorite, few, essential, great, early, poor, pick, valuable, past, third, final, monday, fivethirtyeight, rachael, dottle')
+
+('JJS', 'most, best, most, grossest, least, least, most')
+
+('JJR', 'higher, smaller, larger, fewer, winner, more, more, more, more, love')
+

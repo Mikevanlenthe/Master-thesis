@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1484
+Raw number of types: 329
+Raw Type token ratio: 0.22169811320754718
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token token ratio true true verb adjective many american filmmagic getty dear western united individual first second consanguineous individual first second consanguineous niece second unable individual reluctant consanguineous united human western relative much common interested indian major interested global consanguineous global rare consanguineous second consanguineous many relative stable social financial secret relative high global various aspect statutory personal first recessive genetic first maternal socioeconomic national genetic unrelated great little biological uncomfortable romantic high small hard genealogical married treated told studied introduced united developed alia brief firstcousin coefficient queen elizabeth perspective percent relative sociological stay canada coefficient related attempted stigmatized related arizona edith maintain marriage need australia australia notice keep token token')
+
+('NN', 'analysis number number type type filter lemmatizer stemmer article token dear shawkat duval mona daryn second mean second greatgrandparent coefficient coefficient plenty centre cowan relevant unaware download percent hidden inlaws second iceland spent told spoiler cousin mona chalabi mona michael cera attend development london michael cera alia shawkat cocktail party script development winter image percentage marriage percent marriage state cousin relationship cousin research cousin benchmark consanguinity intermarriage reminder daryn cousin someone share marriage relationship case consanguinity relationship number cousin anything cousin relationship estimate percent marriage cousin caution thing state marriage state restriction example firstcousin marriage reproduce relationship result relationship percent estimate study state share alan university year consanguinity paper topic relationship rise america immigration immigration consanguinity country fact research trip institute science marriage population hand question ancestry piece prevalence consanguinity number marriage consanguinity country relationship marriage country percent marriage cousin burkina marriage reason marriage part world study relationship couple relationship marriage reason health security idea stranger woman chance parent relationship prevalence reason study consanguinity percent world population cousin product union cousin state marriage mentalcapacity restriction antimiscegenation cousin marriage time part postcivil acceptance matter today practice health concern child cousin prevalence disease couple child cousin mortality rate percent research factor education birth status consanguinity health consensus health risk society counselor task force cousin health risk percent percent child parent deal stigma cousin union state basis daryn notion relationship cousin anyone country population convention figure blood interest incest database user check number help question monachalabi dearmona fivethirtyeightcom pose kevin dear america think view note child cousin risk mona analysis number number type type ratio')
+
+('VBG', 'preprocessing using using using inbreeding reading asking struggling inbreeding inbreeding undercounting researching browsing finding legislating including offspring spacing shifting finding offspring naming hooking preprocessing')
+
+('VBD', 'token separated answered pronounced became occurred became found began concluded asked changed token')
+
+('NNS', 'stopwords false konsanggwineeuh born angeles people people people people genetics bittles bittles bittles bittles people people bittles bittles')
+
+('VBN', 'used confused related filed fred favored prohibited related arrested arrested estimated known considered allowed based conducted emailed published summarized estimated estimated born born estimated controlled published estimated associated')
+
+('VBP', 'give need correlate outcome look hope know include include affect make australia daryn cousin make')
+
+('VBZ', 'america includes appears')
+
+('VB', 'send take')
+
+('JJR', 'higher higher higher')
+
+Token analysis after pre-processing 
+Number of tokens: 493
+Number of types: 288
+Type token ratio: 0.5841784989858012
+

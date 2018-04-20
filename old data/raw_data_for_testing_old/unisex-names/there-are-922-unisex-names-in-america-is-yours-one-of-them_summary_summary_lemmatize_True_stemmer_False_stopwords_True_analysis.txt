@@ -1,0 +1,23 @@
+Token analysis before pre-processing 
+Raw number of tokens: 17
+Raw number of types: 12
+Raw Type token ratio: 0.7058823529411765
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'namedatarileypeoplisarehavewereriley percentunisexlistnumberiusewagithubcurry besayamericangivencolleagussamakemoreplaceholdinfantofexcludjunamamerica jessijackiepeyton jody')
+
+('VBP', 'flowerfilegetfacebooktwitteremailcooperkeoughgetticasey')
+
+('NNS', 'kerripatmenwomen')
+
+Token analysis after pre-processing 
+Number of tokens: 7
+Number of types: 7
+Type token ratio: 1.0
+

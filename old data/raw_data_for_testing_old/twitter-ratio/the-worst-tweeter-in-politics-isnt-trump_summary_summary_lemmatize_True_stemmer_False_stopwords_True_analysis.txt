@@ -1,0 +1,25 @@
+Token analysis before pre-processing 
+Raw number of tokens: 21
+Raw number of types: 17
+Raw Type token ratio: 0.8095238095238095
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'tweettrumpisretweetareratiorepligethahavelikesharemoretwitterrepliesrepublicanbetweetexample usehigheridonaldj')
+
+('NN', 'responstrump realdonaldtrump senatappeardemocratdistributgithubfoodsomeon homerunfeinbergpresidblenddo')
+
+('NNS', 'wadatalikes comparretweets thesparkreplies')
+
+('VBP', 'average')
+
+Token analysis after pre-processing 
+Number of tokens: 10
+Number of types: 10
+Type token ratio: 1.0
+

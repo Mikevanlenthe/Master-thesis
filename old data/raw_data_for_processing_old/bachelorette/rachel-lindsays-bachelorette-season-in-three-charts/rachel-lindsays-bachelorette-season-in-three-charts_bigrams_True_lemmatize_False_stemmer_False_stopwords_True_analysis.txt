@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1083
+Raw number of types: 754
+Raw Type token ratio: 0.6962142197599261
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 723
+Number of types: 621
+Type token ratio: 0.8589211618257261
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'rachel charts data data suitors vineyards years weeks shudders impressions others rachel suitors dates dates suitors destinations dates contributions three charts two men sent suitors windswept vineyards it seems hopeful men other men the men ticklemonster weren  shudders the men first impressions the others date roses to suitors on oneonones of suitors her men international destinations hometown dates ready to reporting contributions')
+
+('VBP', 'lindsay lindsay rioja matt worst peter europe wild walt rachel lindsay charts she rachel lindsay men  eric and peter home vineyards of  spain seems like men and we end all those whaboom and weren  shudders despite men who who made impressions and others  that rachel rachel gave suitors who who didn of the oneonones  suitors  you  peter in were also were all dates  to move contributions by')
+
+('NN', 'bachelorette season ella koeze wezerek github github databachelorette conclusion season bachelorette rachel love choice peter home abasolo proposal doll peter bryan season appreciation everything rachel endure whaboom ticklemonster jack stone dream lock door rachel rachel rachel time date season picking week example rachel oneonone group peter chart rachel attention number strategy find husband everyone bachelorette bracket pool dean bryan drama rachel globe journey find love travel season slice choosing hometown rachel bachelor nation move story bachelor update article season reporting bachelorette  wasn  messing around around  by ella ella koeze koeze and and gus gus wezerek tv get get the the data data on on github github github github data data at at databachelorette aug 7 oof  finale  the threehour threehour  live conclusion conclusion to to season the bachelorette bachelorette  s quest quest for for love love didn down to to a typical choice choice between she sent bryan abasolo abasolo  s proposal the windswept la rioja rioja  one doll stepped out out of for love love  weeks have passed   how did we end up eric   peter peter and the end end  bryan  happened to to all looking back back at this season season  we get get a fresh appreciation everything rachel to endure remember how how whaboom remember jack jack stone stone  s dream dream to to just just  lock the the door door  and  lay in with rachel rachel  this   rachel didn  t waste much time time on on the the 18 gave out the season season  five went went to t end end up final four four  selective in picking who who she go on with  week 7 example  rachel could given one one of available oneonone to matt matt or or adam adam  been on on group instead  dean  bryan and and peter peter  already gone gone on the chart her attention on a worst strategy strategy if if you trying to to find a husband husband  but it it made made for predictable tv almost everyone the fivethirtyeight fivethirtyeight  bachelorette   bracket bracket pool dean  bryan and and peter final four four  throughout all all the the drama drama  rachel and roaming the the globe metaphorical journey journey to find love love would watching without actual travel travel  this season western europe europe and boring  though there but rachel rachel did to see substantial slice the good good ol choosing a final four four for been a wild ride ride for for rachel rachel and and bachelor bachelor nation nation  move on on to to a love story story  so … to be be the next bachelor bachelor  aug 7 this article article was after the the season additional reporting by walt walt hickey hickey ')
+
+('VBG', 'messing accepting lastmanstanding looking looking trying roaming watching viking fighting going t messing before accepting accepting lastmanstanding limo looking  looking for everything out during in picking re trying also roaming worth watching pretty boring some viking viking fighting by choosing s going')
+
+('VBN', 'filed published eliminated persevered made given gone have passed t eliminated have given was updated')
+
+('JJ', 'finale threehour live typical eric bryan hopeful limo love eric fresh strong first much final selective available adam dean bryan oneonones limited predictable fivethirtyeight final metaphorical actual international western boring rachel substantial good diverse final ride ready next finale additional hickey lindsay  in three she wasn under tv published aug facebooktwitteremail oof a finale  live lindsay  t come come down a typical between two  she suitors eric lastmanstanding bryan amongst the of la spain  like 11 that limo looking for how did up with with eric in the at the eliminated this a fresh had to the ticklemonster immediately  bed  all this persevered  on the made strong strong first and didn waste much of the during the only five didn  in the the final similarly selective would go dates with in week  for for example the three three available dates to only been dates   instead spent them them with with dean  bryan had already as the shows  limited number number of not the the worst find a for predictable in the had dean  bryan in their their final globe  no metaphorical be worth without actual s international all in in western there was was some fighting  get to see a a substantial of the usa by geographically diverse diverse final for hometown s been a wild re ready new love going to the next update   this updated after season finale finale   additional')
+
+('JJS', 'quest')
+
+('VB', 'come remember remember dates worth despite all focused on could have did get')
+
+('VBD', 'sent stepped passed happened eliminated focused gave went spent concentrated made updated season  wezerek filed databachelorette published  2017 season 13 doll stepped what happened men eliminated rachel had in bed rachel persevered rachel focused she was she would who had she spent who had rachel concentrated a limited everyone in pool had would be season  slice of a new  1103')
+
+('VBZ', 'amongst seems roses shows what a and rachel didn  that 31 only 11 and  endure  on dates oneonone dates group dates chart shows but we who ')
+
+('NNP', '‘ bachelorette  season  the  the  and  and  bryan  remember  remember  lock  and  lay  with  rachel  she  rachel  who  she  who  rachel  but  almost  bachelorette  rachel  this  but  usa  but … who  aug')
+
+('JJR', 'filed under those other concentrated her')
+

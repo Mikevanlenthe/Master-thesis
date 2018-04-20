@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 700
+Raw number of types: 322
+Raw Type token ratio: 0.46
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 463
+Number of types: 276
+Type token ratio: 0.5961123110151187
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'jul order steak walt hickey dottle food question nation steak negotiation measure diner guess btus gas spent rare amount catastrophe investigation admission campaign welldone beef mediumrare medium society meat doneness preference cudgel holder office tender meat issue share steak longhorn year worth orders1 steak steak lot order steak fiber executive chef steak tenderloin fiber rib rarer side order rib bloodiness heat ribeye porterhouse tbone dahlmann bone middle bone moisture flavor david berson director steak house ribeye rare way buy thicker beef margin error home quality beef cut part job look distribution berson indication juicy home highquality meat thermometer doneness time steak temperature anything mediumrare culture writer elitist walt hickey anything')
+
+('NNS', 'americans people steaks pounds steakhouses parties elitists steaks people preferences people data americans locations americans cuts differences people cuts know jens flavors temperatures people steaks steaks operations people cooks cuts cuts supermarkets cooks corners steaks suggests cooks degrees degrees degrees')
+
+('VB', 'rachael wrong mediumwell get come handle perform recommend get berson dahlmann')
+
+('VBN', 'filed done divided given done been used longhorn hooked aggregated cooked marbled')
+
+('VBP', 'are prefer consume beef reconsider smear say have prefer steak ordered claim are dahlmann look rareaverse mediumwell peter sell get don meat invest nail')
+
+('VBZ', 'has americans makes causes has turns americans has steak lends works works turns steaks retains gives')
+
+('VBD', 'united began enjoyed found selfreported said followed marbled shared wanted said got said brooklyn agreed got said said ruined')
+
+('JJ', 'great front large effete good environmental website own steak political different serious different different tender soft sweet great rare mediumrare prime great low rare prime many other little fat leg thin important protein fish want big luger fat good perfect internal rare fivethirtyeight cantankerous')
+
+('VBG', 'ordering going taking living agreeing revealing cooking running cooking buying marbling according')
+
+('JJS', 'highest highest')
+
+('JJR', 'rarer more more luger longer')
+

@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 653
+Raw number of types: 474
+Raw Type token ratio: 0.7258805513016845
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 423
+Number of types: 373
+Type token ratio: 0.8817966903073287
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBN', 'published filed re excited especially interested')
+
+('NNS', 'data posts results polls states data responses surveys heads tails folks data approaches people respondents words approaches data definitions regions states residents states data remixes data articles remixes things questions findings regions the posts the results audience polls which states the responses midwest surveys make heads or tails interesting approaches asked respondents own words in approaches midwestern expatriates local definitions of regions core states are residents difficulttocategorize states data remixes from articles fantastic remixes interesting things any questions new findings nebulous regions')
+
+('JJS', 'midwest midwest midwest and midwest of interest the midwest and midwest of interest')
+
+('NN', 'walt hickey interest audience github page information respondent code income gender region interest language analysis inability core identity please bechdel test research kickoff point point endeavor at 515 pm we our data data on the south south and midwest by by walt walt hickey remix facebooktwitteremail facebooktwitteremail there there was was a a lot lot of interest in in the tuesday and and wednesday surveymonkey audience the south midwest  making the the data available on on github github page page  you  ll find find the the south south and csv format format  can make mean  there  what is to see folks do do with with the the data data  some information information i i didn didn  t use such as as respondent respondent zip zip code code  income   gender gender and and region region  s also also a a column may be be of interest to to people people who want to to do some language language analysis analysis  live  in their their own interested in the zip zip code code data data  southern and midwestern inability the core and how how split split are such as as missouri missouri and and virginia own identity identity  send any any data the data data we bob ross ross and and the the bechdel bechdel test and we our research research as kickoff point point  can also walterhickey  whole point point of our endeavor endeavor was was to to learn learn more insight will will be appreciated ')
+
+('JJ', 'remix tuesday wednesday surveymonkey south available github excited interesting live interested southern midwestern local midwestern virginia fantastic interesting fivethirtyeightcom whole nebulous apr  published our under remix i wrote wrote tuesday using the of two two surveymonkey about which make up up the data available our github to the in csv so you you can what they they mean excited to s some use   such make for there  do some where they they live use the are the the southern and midwestern do local explain the the midwestern to agree on the  such their own posted from on bob resulted in in fantastic post interesting use our  you you can send any or new to walterhickey  the the whole about these particularly nebulous so insight')
+
+('VBD', 'wrote asked split posted resulted appreciated ve published hickey filed that could we asked we posted test resulted we might as a be appreciated')
+
+('VBG', 'using making explaining  using re making file explaining for interesting')
+
+('VBP', 'make find format make mean column want code explain agree missouri send walterhickey learn posts i results of polls  states make south and responses to surveys in heads or tails of who want to say words  that use expatriates  definitions of regions explain inability to states  residents of states  virginia  please send remixes to articles on remixes  that use also send questions or findings to of our regions ')
+
+('VB', 'make difficulttocategorize send ross post could make respondents to of difficulttocategorize')
+
+('VBZ', 'expatriates what  what folks there  that may where are fivethirtyeightcom ')
+
+('NNP', ' 2014  you  there  there  income  where  and  please  the  and  fivethirtyeightcom')
+
+('JJR', 'filed under')
+

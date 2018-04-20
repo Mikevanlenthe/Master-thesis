@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 849
+Raw number of types: 342
+Raw Type token ratio: 0.4028268551236749
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 329
+Number of types: 199
+Type token ratio: 0.6048632218844985
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rule riddler nation edit roeder file riddler github github datariddlercastl illustr guillaum welcom riddler everi week offer problem thing hold math logic probabl type riddler express someth movement submit either1 shoutout week column hint twitter riddler express participatori gametheori problem submit number number number submit number number riddler suggest joel baker riddler nation battl royal land castl warlord archenemi castl strateg valu wouldb conqueror specif castl point distribut fight castl point number troop point enemi point submit plan battl plan possibl oneonon matchup war battl crown riddler nation submit plan week riddler express congratul stephen carrier berkeley california winner week game tetri board place mani arrang tetri form block squar squar illustr arrang number solver love pattern number way twobysix space tetri fibonacci number discuss pattern math check document samuel wirajaya math cool solut week riddler congratul alex szatmari pennsylvania winner week puzzl begin time member speci split copi dy probabl multipl chanc speci speci fight chanc specif probabl call probabl speci probabl origin plu condit probabl multipli child \\begin q2\\end equat solv probabl chart laurent lessard probabl singl microorgan success multipli luck littl submit riddl email oliverroed fivethirtyeightcom')
+
+('JJ', 'oliv kurkdjian relat classic slowpuzzl next nice classic whole take averag submiss mean submit classic special distant wartorn worth castl victori forc castl royal queen last last puzzl clear piec piec solid high wide intrepid notic fill twobyfour forth empti equal fantast tetri former last classic last classic singl microorgan everi extinct extinct sure extinct extinct dy extinct therefor equat former know extinct extinct probabl good')
+
+('NNS', 'data data bites castl know receiv tetri welldefin')
+
+('VBP', 'dear want riddler need submit win send conquer win send distribut adjud win win know piec addict go go probabl differ want')
+
+('VB', 'ask find begin win twobytwo')
+
+('JJS', 'closest')
+
+('JJR', 'soldier soldier soldier')
+
+('VBN', 'given chosen solut squar given')
+
+('VBD', 'split lucki twobyeight solut')
+
+('VBZ', 'distribut lewisburg')
+
+('VBG', 'king')
+

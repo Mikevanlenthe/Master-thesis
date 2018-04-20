@@ -1,0 +1,45 @@
+Article: star-wars-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 688
+Raw number of types: 265
+Raw Type token ratio: 0.3851744186046512
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_True_lemmatize_False_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 773
+Number of types: 575
+Type token ratio: 0.7438551099611902
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, star, hickey, star, series, exhibition, cite, cinema, saintdenis, france, chesnot, week, star, production, forthcoming, response, trilogy, excuse, realize, empire, bunch, shot, greedo, poll, audience, seventynine, percent, star, question, difference, gender, percent, star, film, film, franchise, percent, probability, someone, star, film, star, film, star, empire, film, number, return, jedi, star, menace, star, star, hope, movie, star, film, rank, question, share, film, favorite, rate, empire, rate, hope, return, jedi, menace, film, rate, chart, film, take, series, boilerplate, format, favorability, state, view, himher, rate, series, jar, favorability, rating, personification, galaxy, impact, revisionism, society, jul 2014, favorite star, walt hickey, filed under, the data, data github, github github, github data, data datastarwarssurvey, datastarwarssurvey yoda, yoda costume, the star, during exhibition, cite cinema, cinema saintdenis, saintdenis france, france chesnot, week caught, caught sneak, the xwing, xwing fighter, the new, new star, films production, production the, middling response, response the, the most, most recent, recent trilogy, provide perfect, perfect excuse, many people, people are, are star, rest america, the empire, best the, the bunch, wellliked and, and most, hated and, and who, han solo, solo greedo, greedo ran, ran poll, surveymonkey audience, june the, the data, github seventynine, seventynine percent, said they, least one, one the, the star, this question, substantial difference, difference gender, gender percent, seen least, least one, one star, the franchise, franchise percent, seen with, with 835, people responding, the probability, that someone, someone has, has seen, any star, can see, the empire, back the, the film, the most, most number, the jedi, seeing star, the phantom, phantom menace, original star, new hope, the best, the subset, respondents who, seen every, every star, rank them, them from, best worst, worst from, that question, calculated the, the share, rated each, each film, film their, can also, down and, and find, find out, people rate, rate the, the films, films overall, into two, people who, the empire, their favorite, the jedi, jedi higher, higher well, those who, phantom menace, menace the, the best, best film, this chart, often each, each film, film was, top third, best second, second best, best the, third third, third fourth, bottom third, third second, boilerplate format, political favorability, state whether, whether you, unfamiliar with, with himher, himher and, lower favorability, actual personification, evil the, the galaxy, galaxy and, those you, you who, the impact, historical revisionism, can have, have society')
+
+('JJ', 'america, favorite, favorite, costume, getty, sneak, peek, fighter, new, recent, perfect, examine, many, america, hated, solo, surveymonkey, june, available, github, substantial, percent, likely, fan, percent, star, phantom, original, new, subset, drill, overall, original, likely, new, phantom, likely, top, third, second, middle, third, third, fourth, bottom, third, second, nuanced, political, unfamiliar, jar, actual, know, historical, america favorite, least favorite, get the, from the, the cite, chesnot getty, images this, this week, peek the, from the, excuse examine, examine some, how many, that the, clearly the, bunch which, first han, through surveymonkey, surveying 1186, from june, data available, available github, percent those, films this, had substantial, have seen, compared percent, have seen, seen film, likely consider, fan the, compared percent, then asked, which the, had seen, here the, have seen, seen any, film can, episode the, seen the, number people, followed star, return the, more people, episode the, than the, the original, renamed star, hope which, movie the, asked the, indicated they, have seen, film rank, their favorite, favorite can, generally how, how people, preferred the, the original, original three, those who, preferred the, the three, said the, was their, likely rate, new hope, return the, rated the, the phantom, likely rate, higher this, how often, rated the, the top, the middle, middle third, fourth the, the bottom, second worst, more nuanced, take the, took boilerplate, used political, unfavorably are, are unfamiliar, respondents rate, jar jar, than the, the actual, for those, that historical, revisionism can')
+
+('NNS', 'wars, movies, characters, movies, data, github, data, datastarwarssurvey, wars, images, wars, movies, questions, answers, people, wars, fans, characters, respondents, data, respondents, wars, men, wars, women, people, men, men, women, respondents, films, people, wars, wars, wars, strikes, people, wars, people, wars, wars, wars, respondents, wars, respondents, people, films, fans, camps, movies, prequels, people, strikes, prequels, shows, polls, characters, respondents, characters, binks, star wars, wars movies, favorite characters, under movies, star wars, star wars, forthcoming movies, some questions, wanted answers, star wars, fans does, empire strikes, which characters, 1186 respondents, those respondents, star wars, percent men, star wars, percent women, people who, film men, consider themselves, percent men, percent women, asked respondents, the films, star wars, star wars, star wars, empire strikes, star wars, star wars, star wars, star wars, star wars, share respondents, two camps, those who, three movies, three prequels, empire strikes, rate new, rate prequels, the series, favorability polls, following characters, asked respondents, rate characters, the series, jar binks')
+
+('VBP', 'least, walt, get, github, yoda, films, provide, star, rest, films, see, episode, episode, episode, episode, please, read, want, movies and, characters walt, movies get, wars films, movies and, answers how, strikes back, characters are, respondents from, wars films, men have, wars film, women people, who have, were also, themselves fan, women then, respondents which, films they, that they, they have, wars film, strikes back, wars episode, episode return, wars episode, wars episode, they have, wars film, respondents who, also drill, fans broke, camps those, movies and, prequels people, strikes back, hope and, and return, shows how, nuanced take, finally took, polls please, you view, characters the, series you, you read, correctly jar, binks has, and for, who want')
+
+('VBN', 'filed, displayed, watched, seen, compared, seen, compared, seen, seen, given, given, seen, seen, seen, rated, rated, rated, used, hickey filed, series displayed, most wellliked, had watched, film compared, seen given, drill down')
+
+('VBD', 'caught, wanted, wellliked, ran, said, asked, followed, reported, renamed, asked, indicated, calculated, broke, preferred, preferred, said, took, asked, sneak peek, long wanted, most hated, who shot, respondents said, they had, incidentally had, men compared, they had, wars film, wars episode, film seen, people followed, people reported, menace than, wars renamed, best asked, subset 471, who indicated, question calculated, who rated, who preferred, who preferred, who said, who rated, was rated, format used, and asked')
+
+('VBG', 'xwing, middling, surveying, responding, seeing, following, displayed during, the forthcoming, the middling, audience surveying, reported seeing, the following, favorability rating')
+
+('VBZ', 'strikes, han, costume from, wars series, getty images, wars fans, that star, which movie, overall fans, were also, chart shows')
+
+('JJS', 'best, least, least, best, best, worst, best, best, worst, worst, the rest, the best, from best, third best')
+
+('VB', 'consider, find, does the, america realize, well those, please state, rating than')
+
+('JJR', 'higher, lower, has lower')
+

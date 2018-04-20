@@ -1,0 +1,27 @@
+Token analysis before pre-processing 
+Raw number of tokens: 541
+Raw number of types: 252
+Raw Type token ratio: 0.4658040665434381
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('VBG', 'sitting##giving##giving##making##seeking##choosing##speaking##giving')
+('NN', 'president##commencement##speech##university##bialik##education##github##president##commencement##speech##howard##university##commencement##convocation##cheriss##nurphoto##image##president##address##presidency##university##force##howard##university##commencement##speech##year##pace##president##bill##clinton##office##george##bush##predecessor##pace##speech##term##office##president##commencement##speech##year##year##circuit##academy##institution##school##harry##truman##office##start##commencementspeech##record##presidency##project##president##graduation##academy##time##school##time##school##time##count##college##university##school##capitol##page##school##time##richard##nixon##jimmy##carter##chart##page##address##president##college##university##jimmy##carter##cheyney##state##college##president##speech##hbcus##school##obama##state##commencement##address##time##state##york##imbalance##diversity##commencement##speech##president##time##trip##washington##maryland##virginia##place##state##reach##range##student##account##number##factor##school##commencement##speech##size##school##location##schedule##obama##house##spokeswoman##president##commencement##speech##year##chance##address##graduate##year##bill##clinton##example##commencement##loyola##marymount##university##graduate##university##school##service##download##story##github')
+('VB', 'give##carl##travel##take##take')
+('VBN', 'used##filed##spoken##given##spoken##combined##scheduled')
+('JJ', 'give##give##getty##commencement##sunday##last##june##usual##fouryear##final##military##public##private##complete##american##archive##military##public##private##high##johnson##capitol##speech##howard##ninth##black##commencement##league##right##historical##geographical##presidential##busy##chose##short##speech##wide##white##obama##many##last##saturday##speak##sunday##eponymous##clinton##public')
+('NNS', 'rutgers##data##data##datapresidentialcommencementspeeches##rutgers##data')
+('VBP', 'sunday##github##saturday##take##include##come')
+('JJR', 'higher')
+('VBD', 'academy##took##upped##took##gave##took##graced##spoke##said##spoke##used')
+('VBZ', 'includes')
+
+Token analysis after pre-processing 
+Number of tokens: 275
+Number of types: 159
+Type token ratio: 0.5781818181818181
+

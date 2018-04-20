@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1375
+Raw number of types: 823
+Raw Type token ratio: 0.5985454545454545
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 934
+Number of types: 668
+Type token ratio: 0.715203426124197
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'america favorite favorite costume getty sneak peek recent perfect examine many america hated solo surveymonkey june available github substantial star percent likely percent star phantom original drill overall original likely phantom likely third second middle third third fourth bottom third second nuanced political unfamiliar actual know historical s favorite wars  least favorite get the from the wars  is displayed during an at the the cite images this this week sneak peek from the new  films in to examine examine some long wanted how many are  does the back  clearly the  which hated  shot first through surveymonkey surveying 1186 from june is available of those of the  this incidentally  a substantial have seen wars  compared to of people have seen film  likely to a fan compared to respondents which of the had seen s the given   film have seen seen any film  so we we can  episode film seen number of followed by  episode episode vi more people  episode  the the phantom the original renamed   episode is the asked the indicated they have seen wars  rank them to worst share of their favorite favorite  we can generally  how people  those preferred the the original original three those who preferred the the three  people said  likely to new hope rated  as the likely to how often in the the top the middle third  or the the bottom second worst more nuanced finally  used by by political polls  unfavorably  in the  you  jar than the the actual of evil for those that historical revisionism can')
+
+('NN', 'star hickey star series exhibition cite cinema saintdenis france chesnot week fighter star production forthcoming response trilogy excuse realize empire bunch shot greedo poll audience seventynine percent star question difference gender percent film film percent probability someone star film star film star empire film number return jedi star menace star star movie subset star film rank question share film favorite rate empire rate return jedi menace film rate chart film take series boilerplate format favorability state view himher rate series favorability rating personification galaxy impact revisionism society jul  at 458 pm america america  favorite ‘ ‘ star by walt walt hickey the data data on on github github github github data data at datastarwarssurvey facebooktwitteremail facebooktwitteremail yoda yoda  s costume the   star an exhibition cite du du cinema cinema in in saintdenis saintdenis   france france  chesnot  week  i caught caught a a sneak peek of xwing fighter fighter from the new  star in production middling response response to to the the most most recent recent trilogy trilogy  provide a a perfect perfect excuse the rest rest of of america the empire best of of the the bunch bunch  wellliked and and most and who first  han solo solo or greedo  we ran ran a a poll surveymonkey audience audience  june 3 to 6 the data data is available on on github github  seventynine percent percent of said they at least least one the   star this question question  had a substantial difference difference by by gender gender  percent of seen at least one one  to 72 percent of people who seen a a film to consider fan of of the the franchise franchise  percent of to 60 percent of we then seen  people responding responding  the probability that someone someone has has seen  star any star can see  star the empire is the the film seen by by the the most of people people   return return of of the the jedi jedi  seeing   star phantom menace menace  original   star  star new hope hope  best  the subset subset of respondents who seen every every  film to them from best to worst  that question question  calculated the the share rated each each film can also down and and find find out  how people rate rate the the films overall  into two those who people who the empire back  their favorite to rate rate  hope  return of of the the jedi jedi  higher as as well  those those who the phantom phantom menace the best best film to rate higher  this chart often each each film film was top third third  best or or second best   the middle third third or or fourth bottom third third   second worst or nuanced take take on on the we took took a a boilerplate boilerplate format political favorability please state state whether whether you or are are unfamiliar himher   and to rate jar jar lower favorability actual personification personification of evil in in the the galaxy galaxy  those of of you you who want to the impact historical revisionism can have have on a society society ')
+
+('NNS', 'wars movies characters movies data github data datastarwarssurvey wars images wars movies questions answers people wars fans characters respondents data respondents wars wars women people women respondents films people wars wars wars strikes people wars people wars wars wars respondents wars respondents people films fans camps movies prequels people strikes prequels shows polls characters respondents characters binks star wars  movies favorite characters under movies star wars  series star wars  films forthcoming movies some questions wanted answers many people star wars  fans empire strikes which characters 1186 respondents those respondents star wars  films of men of women  men consider themselves of men of women asked respondents the films star wars star wars star wars empire strikes star wars star wars star wars star wars of respondents two camps three movies three prequels empire strikes rate prequels the series favorability polls following characters asked respondents rate characters the series jar binks')
+
+('VBP', 'least walt github yoda films provide star rest films consider episode episode episode episode hope hope please read want movies  characters  movies get series is wars   and questions i answers to people are wars  fans  strikes back characters are respondents from wars  men have women  who have were also themselves a women  which of films they wars  that they they have wars film wars  strikes back wars  wars  wars  wars  they have respondents who film as also drill out  films  fans broke camps  movies and prequels  strikes back prequels higher shows how rated in fourth  series  you view favorably  characters in series  you read correctly  binks has a lower who want to know')
+
+('VBN', 'filed displayed watched seen compared seen compared seen seen given given seen seen asked seen rated rated rated used most wellliked had watched  renamed drill down was rated has a know the')
+
+('VBD', 'caught wanted wellliked said asked followed reported renamed indicated calculated broke preferred preferred said took asked  2014 hickey filed most hated who shot respondents said they had one of film compared men compared then asked they had seen a  followed people reported we asked of 471 who indicated to rank we calculated who rated who preferred who preferred who said who rated menace  worst  format used and asked')
+
+('VBG', 'xwing middling surveying responding seeing following displayed during the xwing the forthcoming the middling  surveying reported seeing the following favorability rating')
+
+('VBZ', 'strikes costume from exhibition at getty images  does star wars with 835 here  that  appallingly  than the which movie star wars  fans were also and  chart shows and for')
+
+('JJS', 'best least least best best worst best best worst worst the best the best from best second best')
+
+('VB', 'franchise find america realize that  films  respondents to rating than')
+
+('JJR', 'higher lower filed under with himher')
+
+('NNP', ' and  chesnot  getty  the  provide  star  the  and  han  the  seventynine  had  star  film  with  here  the most number  star  than  which  star  film  the  was  and  return  higher  the  this  best  third  please  and')
+

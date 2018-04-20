@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1971
+Raw number of types: 689
+Raw Type token ratio: 0.3495687468290208
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1082
+Number of types: 564
+Type token ratio: 0.5212569316081331
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'football hall fame receiver problem paine canton github github receiver speech class football hall fame enshrinement ceremony fawcett stadium canton jason miller image receiver speech class football hall fame enshrinement ceremony fawcett stadium august canton jason miller image buffalo bill receiver reed football hall fame joining teammate thomas bruce canton contributor bill super bowl berth reed game honor receiver hall reed fault hall canton hasn judge career receiver player strength weakness teammate coach countless consideration receiver performance crack number help era statistician haven bias reed career example time time yard reception talent dawn explosion influence evidence effect team passing efficiency year hall fame selection committee dilemma position committee induct carter election hall receiver number selection lynn carter induction signal receiver time reevaluate judge receiver product era game enacting rule downfield contact receiver leaguewide output number example ratio league game season campaign dozen year time singleseason yardage receiver talent team degree receiver team league norm effect sound play receiver opportunity number wasn factor buffalo bill threw percent le team league course career season doe matter someone calvin johnson lion downfield percent league percent yard game norm treat adjustment difference receiver solve issue yard stuart footballperspectivecom download career introduce piece github attempt production4 yardagelike number difference schedule length environment team passing volume player lockstep frequency team league average johnson production percent singleseason record yard year detroit record pas attempt season wasn simple team reason quarterback andor receiver chase percent increase team frequency increase output percent increase team passing volume player increase production difficulty effect something matter receiver player position teammate touch game time basketball player carmelo anthony possession influence receiver command attention benefit team receiving statistic football outsider value track team passing success play player receiver performance peropportunity basis tradition baseball event opportunity player football baseball phenomenon opportunity receiver ingame influence defense opportunity phenomenon theorem coach quarterback pas evidence player quality threat pertarget catch rate picture player onfield value aren account game play matter quality receiver number team year step direction wowy score receiver measure quarterback careers6 way question receiver yardage offense question team passingefficiency season season suspect wowy instance moss sway quarterback boast wowy7 smith player career oakland raider receiver committee receiving reed wowy receiver secondworst player lifetime number wasn play quarterback merit indictment reed player hall fame discussion resume hand standard postseason percent career yardage pass hall famer number gannon jeff hostetler jeff george schroeder vince era game history task fame candidate solution hall receiver logjam ignore way question player qualification question player onfield influence player hall fame')
+
+('VBN', 'filed inducted qualified retired played tapped taken compared been considered chucked tried called skilled given given targeted intended rooted identified talented targeted involved played given associated come tied associated')
+
+('NNS', 'data data datanflwidereceivers andre andre wasn passcatchers data stats stats cris another3 stats passcatchers data didn stats stats sabermetrics bayes funnel dvoa efficient5 data data data analytics')
+
+('JJ', 'former wide give saturday getty former wide give getty former wide saturday longtime thurman candidate individual good good several other modern wide individual statistic other wide tough enough distinguish correct glossy ranked third fourth touchdown great ensemble offensive beneficiary advanced onfield mixed regard actual recent advanced deign reed last controversial reed much tide surging2 contemporary wide eliminate defensive consequence signified greatness devalued simple equivalent total appreciate true ball relative obvious major other detroit ball average aerial historical huge last august metric true chase other metric single relative alltime tend further apparent percent individual real simple ambiguous other real exert personal extra obvious difficult true statistician advanced defenseadjusted average dvoa metric discrete specific fluid curious unsuccessful positive strong incentive offensive metric full metric shaping successful much conventional lead outcome rudimentary historical wowy collective pertinent individual efficient entire usual good randy statistical legendary second true brown longtime individual statistic wowy impressive adjusted serious clear metric brown other impressive brown superior rich different present hall wide inventive pertinent fundamental actual last')
+
+('VBP', 'reed reed andre smith offer take show reed doe make point team give take have make boil have lead make know team go have target miss teammate forget perfect noisy select come involve reed challenge dream')
+
+('JJS', 'greatest best best most most')
+
+('VBD', 'ignored figured contaminated agreed sixth entangled wasn appeared reacted were included swann qualified reed opened spiked became reed perceived scaled passed downgraded broke pas looked became found stopped cited generated rooted took were rank rank reed were came advanced checked supposed')
+
+('VB', 'sport catch keep have throw reed increase demonstrating teammate attempt')
+
+('VBG', 'receiving passing ignoring disregarding going passing passblocking passing using passing adjusting adjusting judging eyepopping developing receiving passing breaking receiving passing receiving pinning receiving complicating competing having trying measuring getting stretching opening being looking taking adjusting quantifying computing passing using looking receiving receiving throwing having using aging interpreting receiving daunting seeking answering')
+
+('VBZ', 'logjam becomes washington redskin generates adjusts appears seems requires doesn evans')
+
+('JJR', 'easier more more yard bigger more better better answer')
+

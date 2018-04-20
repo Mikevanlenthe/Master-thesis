@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1760
+Raw number of types: 589
+Raw Type token ratio: 0.3346590909090909
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 757
+Number of types: 429
+Type token ratio: 0.5667107001321003
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'pollsters pollsters data datapollofpollsters supporters moines supporters moines republicans elections routs others polls democrats polls pollsters polls pollsters principles know polls results polls views pollsters results defenses polls performances results polls pollsters pollsters questions results polls reasons polls respondents polls results geographies geographies others polls details polls winners losers victories returns ways forecasts polls calls races polls trends voters jobs women independents polls people polls races organizations polls trends pollsters polls ones models pollsters republicans models differences trends needs pollsters trends pollsters trends implications results pollsters things pressures pollsters methods polls pollsters years pollsters elections pollsters procedures organizations votes ratings polls points points pollsters pollsters rivers polls points pollsters races years rivers polls firms data winners losers years years methods results cellphones cellphones respondents pollsters polls polls purposes seats polls knows surprises months emotions pollsters lots numbers')
+
+('VBN', 'surveyed filed conducted assessed checked closed done focused made made thought taken requested made combined named tied asked named named published found done yielded stuck enjoyed')
+
+('VBG', 'polling polling calling polling calling depicting answering answering predicting counting moving spotting spotting headscratching determining going giving trailing leading polling digging polling polling ccadvertising ignoring going')
+
+('NN', 'year carl bialik poll github github joni ernst firm company race joni ernst firm company race house statehouse nate preelection election party campaign election work industry heading1 performance question brief postelection poll election year nation surprise wednesday result election response night direction poll performance github pollster night time study everyone performance home muhlenberg college case correct case marist college economy president time movement election carvalho towery insideradvantage wave willingness night anonymity request carvalho kansas colorado part average carvalho science challenge time year industry third struggle determine vote speed cost respondent vote problem look pollster respondent handle election electorate electorate ensue battle pollster liszt grove research year work conduct polling money time time organization pollster work company firm joni iowa senate race database count name everyone yougov policy news zogby douglas senate poll performance article website yougov vote share percentage bias mean absolute error2 jensen mention firm error polling jensen coker masondixon research majority name everyone consensus phone polling night everyone gabriel joseph online testing pollster right target turn race time control number joseph anzalone provider colorful business cycle colorado change equation language night election night sleep anzalone experience enema')
+
+('VBP', 'data senelect iowa iowa senate decisive learn poll poll surveymonkey tuesday christopher evaluate barbara answer edge want need decide vote john methodology yougov twoparty mean carvalho love')
+
+('VBZ', 'speaks charlie speaks charlie makes calls polls comes knows quotes takes')
+
+('JJ', 'tuesday west neibergall senelect tuesday west neibergall tuesday colleague many second consecutive national ethical first tuesday electorate seventeen prolific political partial early mississippi senate answered pleased polls full valid else many wrong general good underestimated magnitude republican borick many wrong gubernatorial carvalho right washington possible voted many close several previous good matt towery unusual good pointed iowa mute good correct correct pessimistic predicted neverending anonymous finetune many priori electorate good presidential thought unskewing right anzalone tighten good willing right polling successful selzer iowa worthy lead ernst last reticent answered public assessed wednesday average active senate average previous thirdhighest previous respond average average brad specific good little universe irresponsible online conducted wish online unreleased senate next many reliable fuck long thought iowa variable whole turbulent little beat related different')
+
+('VBD', 'selzer credited selzer credited silver said skewed skewed zagged prompted thought followed wanted light responded said reported onesided answered deviated suggested felt spoke said said polled embarrassed said answered said came argued worried dissatisfied showed showed showed said captured said said drowned spotted tended said balanced muted asked foresaw anticipated balanced predicted said said said said asked went looked weighted showed stumbled concluded overstated assessed encountered wrote answered asked pointed assessed said said said included said said underperformed said said went asked gave said said said said said elaborated said said')
+
+('NNPS', 'republicans republicans democrats')
+
+('JJS', 'least least thirdlowest best')
+
+('VB', 'appear identify look work improve spend republicans play')
+
+('JJR', 'cheaper easier larger')
+
+('NNP', 'yougov')
+

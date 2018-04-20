@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 941
+Raw number of types: 282
+Raw Type token ratio: 0.29968119022316686
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'tags memorial goldman memorial guardian guardian guardian public table tract3 whole income4 guardian ferguson missouri pattern guardian standoff mckenna guardian live deaths occurred impressive interactive guardian fatal reliable guardian possible demographic basic guardian demographic economic full available large basic clear black overall racial narrative poor black educational economic february white median black median strange natasha easy build interpret')
+
+('NN', 'police casselman police github github makeshift scene freddie gray makeshift scene freddie gray baltimore goldman monday database year tuesday police coverage reader police reporting information race1 place census information data download chance work information income census thing police place percent place census percent household quarter police percent population database percent percent inequality rate gray baltimore police cause anger police example cordaro home county york york city suburb income database cordaro news family police news police example census tract houston income traffic stop table example county jail fairfax census country caution datacollection github github census census look shot shot shot david david official colleague reuben fischerbaum bottom majorityblack majorityblack lowincome michael discriminatory vincent sevenhour shephard look take happen yield work link building blacker richest least')
+
+('NNS', 'data police data them5 americans killings data datapolicekillings americans entries plans statistics killings data media submissions efforts encounters verifies incidents data details incidents addresses killings addresses tracts neighborhoods deaths researchers journalists killings neighborhoods killings tracts terms tracts populations tracts americans neighborhoods africanamericans tracts africanamericans areas numbers deaths neighborhoods jobs opportunities protesters streets conditions tactics killings people reports incidents ones police numbers people cases results tracts words numbers thanks groups efforts numbers data data codes tracts statistics calls allows lives relies')
+
+('VBP', 'start rockland tend find data police freddie know')
+
+('VB', 'database love take')
+
+('VBD', 'crowdsourced household shotgun household verified fled launched took took died occurred took died said lived opensourced limited frank')
+
+('VBZ', 'race2 means includes includes gives gives happens includes makes')
+
+('NNP', 'virginia')
+
+('VBN', 'killed filed arrested arrested killed written flawed killed found killed converted killed killed killed killed armed killed based counted died emerged cited threatened unarmed died died posted')
+
+('VBG', 'underlying going combining making policing according')
+
+('JJR', 'poorer poorer')
+
+('JJS', 'poorest')
+
+Token analysis after pre-processing 
+Number of tokens: 343
+Number of types: 213
+Type token ratio: 0.6209912536443148
+

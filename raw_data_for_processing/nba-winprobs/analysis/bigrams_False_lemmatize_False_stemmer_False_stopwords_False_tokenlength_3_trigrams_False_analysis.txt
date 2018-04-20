@@ -1,0 +1,48 @@
+Article: nba-winprobs
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 289
+Raw number of types: 163
+Raw Type token ratio: 0.5640138408304498
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 198
+Number of types: 136
+Type token ratio: 0.6868686868686869
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'feb, nba, team, chance, minute, game, mike, beuoy, allison, mccann, basketball, github, github, nba, season, chart, season, win, point, game, team, probability, time, score, situation, shot, chart, team, ingame, probability, minute, regulation, time, winloss, record, time, probability, model, foundation, chart, model, reflect, won, state, atlanta, share, winloss, record, point, dominance, hawks, contrast, don, quarter, let')
+
+('VBG', 'winning, winning, remaining, shooting, watching, building')
+
+('VBN', 'filed, given, based, made, averaged, based, played, taken, shown')
+
+('VBP', 'get, see, win, are, get, have')
+
+('NNS', 'data, data, datanbawinprobs, games, possessions, plays, probabilities, data, seasons, simulations, games, findings, warriors, hawks, paths, warriors, games, discoveries, comments')
+
+('VB', 'summarize, develop, pull, know')
+
+('JJR', 'more, more')
+
+('VBD', 'summarized, lost')
+
+('JJ', 'nba, foul, real, win, nba, nba, favorite, golden, similar, different, early, insurmountable, fourth, own')
+
+('VBZ', 'has, provides, uses, does, leads')
+
+('JJS', 'best')
+

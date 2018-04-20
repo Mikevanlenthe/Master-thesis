@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1281
+Raw number of types: 520
+Raw Type token ratio: 0.4059328649492584
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 675
+Number of types: 405
+Type token ratio: 0.6
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'mayweath defin name champion turn record market roeder brinjonathan butler file mayweath mcgregor github github dataundefeatedbox mayweath john gurzinski getti imag mayweath boxer saturday fight champion conor mcgregor career win draw loss zero thi case number mayweath perfect record role career brand declar undef everyon case statu sugar robinson muhammad henri record accord mayweath triumph mayweath record histori box career record everi profession boxer list career sinc onli boxer list mayweath suffer defeat record draw boxer ricardo lopez class retir loss draw centuri jimmi chart flyweight fight vega saturday legaci rocki marciano knock heavyweight titl fight yanke stadium marciano scrape perfect record heartstop crude style limit statur time box expert marciano chanc hell dozen fighter emerg class career glisten box histori basi pristin record mani game box demis georg foreman holm mike tyson wladimir mayweath primari function zero record box histori brand leverag thi market angl career payperview star boxer histori regularli list world mayweath wasn remot market today year oscar hoya successor tyson box marque payperview year mayweath profession career befor night mayweath mayweath perhap fighter histori le grind decis seldom mayweath onli becam draw transform money mayweath thi transform heel selfaggrand showman today turn mayweath substanc fan fight style routin dismiss bore statu box villain record hold marciano fight lure public think care chanc beat play money sale pitch payperview buyer pleasur watch cheer mayweath becaus round shane mosley struck blow career nearli moment distil brilliantli floyd calibr busi model crowd react possibl wit dream subject humili record sulli loss mayweath recov mosley blow everi round remaind fight fight oppon victor ortiz headbut defenseless ortiz mayweath halfhug tri apolog mayweath clock knock mayweath loss squar ring time mayweath fight everi box analyst planet fight pose threat mayweath record showtim event mayweath busi model brilliantli construct exploit fan hollywood franchis trailer creat host mayweath legaci marciano histor careerdefin fight discuss residu excit retir sport twice argument argument kane becaus money truth mayweath fighter career jone vote fighter decad fighter floyd poundforpound boxer jone step mayweath claim debt immacul record substanc therein forget mayweath mcgregor boxer win draw loss dhrumil mehta contribut research')
+
+('JJ', 'next welterweight undef oliv publish floyd victori floyd great welterweight next undef huge central loui imperfect metric perspect undef win tarnish modern minimumweight win final real mayweath ninefigur payday moor final numer call heavyweight retir other stay public larri recent forb athlet main boo frequent pretti floyd spectacl utterli central perfect obnoxi appeal potenti accomplish second profoundli narcissist caricatur american shave penalti left right fourth disqualifi other argu fair mcgregor such fight nearli cynic same modern sizzl invari unsatisfi consum unlik other great includ citizen prime floyd heavili conor technic undef')
+
+('NNS', 'data data els willi potenti attract canva')
+
+('VB', '5000 enter play find begin give cheer care be watch charact round have sell recycl be be')
+
+('VBD', 'blockbust fought weight klitschko highestpaid fought fought fight were made heard fell gave said told hook made cruiserweight were lost')
+
+('JJS', 'best simplest wealthiest quest loudest biggest best best lest')
+
+('VBZ', 'basi abov lennox lewi defens fan aveng decad discuss')
+
+('VBP', 'histori have maintain have have prize benefit wit appear know shrewd select lose have incur suggest have think expect make expect')
+
+('VBN', 'amass been shown fought been given protect')
+
+('JJR', 'more frazier more better more')
+
+('VBG', 'ring')
+

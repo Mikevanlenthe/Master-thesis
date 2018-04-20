@@ -1,0 +1,50 @@
+Article: ahca-polls
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1979
+Raw number of types: 670
+Raw Type token ratio: 0.33855482566953005
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 958
+Number of types: 537
+Type token ratio: 0.5605427974947808
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, hellbent, health, care, bill, bacon, health, care, president, trump, hellbent, bill, care, act, repeal, obamacare, day, get, policy, power, congress, part, health, care, bill, plurality, time, thing, health, care, bill, aca, bill, year, determine, anything, health, care, promise, view, try, science, agenda, research, conclusive, house, set, campaign, trump, repeal, obamacare, bill, coverage, legislation, congress, congress, obamacare, thenpresident, obama, bill, obamacare, house, senate, gop, control, party, legislation, party, veto, repeal, put, office, repeal, plan, jordan, ohio, congressman, figure, house, freedom, caucus, statement, fivethirtyeight, school, party, party, support, influence, party, labor, side, rifle, association, gop, majority, health, care, repeal, effort, kaiser, poll, example, percent, view, house, version, obamacare, legislation, percent, bill, percent, opinion, survey, monkey, poll, fivethirtyeight, percent, core, trump, president, health, care, percent, trump, supporters1, way, college, play, role, gop, percent, trump, health, care, repeal, partyasorganization, club, growth, prosperity, effort, sense, push, health, care, bill, party, money, promise, repeal, obamacare, rally, scientist, america, tank, core, feel, point, drutman, repeal, obamacare, impeach, trump, ideology, gop, rhetoric, obamacare, bill, legislation, coverage, trump, party, paint, obamacare, insurance, obamacare, administration, bill, nothing, obamacare, enrollment, medicaid, program, health, care, bill, health, care, obamacare, health, care, medicaid, health, effect, coverage, income, bill, insurance, charge, tax, middleclass, help, radio, talk, show, host, york, something, radio, show, commentator, msnbc, antitrump, leery, president, view, today, party, core, trump, highprofile, house, house, ahca, climate, change, agreement, event, trump, climate, think, policy, today, party, care, act, list, repeal, example, reason, bill, health, care, way, cut, legislation, tax, payroll, investment, tax, year, analysis, health, care, reform, argument, something, obama, law, place, majority, gop, route, obamacare, life, party, washington, senate, bill, party, alaska, murkowski, leave, expansion, place, mike, lee, repeal, obamacare, kind, conservativemoderate, divide, health, care, lee, trump, senate, majority, leader, mitch, mcconnell, trump, health, care, bill, bill, party, goal, fallout, contrast, lee, health, policy, bill, obamacare, dhrumil, mehta, research')
+
+('JJ', 'gop, unpopular, congressional, affordable, promising, interesting, tend, political, stay, several, major, unpopular, pass, popular, next, impossible, politician, primary, likely, hard, common, wrong, political, american, implement, academic, politifact, ideas, outlandish, republican, much, republican, january, obama, obamacare, republican, oval, obamacare, everyday, jim, key, confident, elected, main, political, political, powerful, democratic, national, republican, universal, recent, favorable, repeal, give, recent, reluctant, reluctant, top, electoral, major, push, obamacare, invested, republican, gop, democratic, key, political, unpopular, public, loyal, deliver, hard, lee, drutman, political, new, republican, understand, current, many, eager, weight, main, sure, trump, ahca, many, obamacare, ineffective, effective, obamacare, many, conservative, available, poorest, republican, poor, free, obamacare, consume, medical, young, high, republican, percent, much, financial, annoying, conservative, ideas, right, anguish, conservative, recent, new, titled, right, regular, negative, white, garden, paris, latter, liberal, sure, obama, paris, hard, democratic, affordable, exhaustive, obamacare, touch, gop, stealthy, wealthy, good, advantageous, congress, conservative, obamacare, keep, major, much, ahca, conservative, repeal, much, possible, difficult, large, right, chamber, divide, moderate, utah, comprehensive, common, many, clear, mean, key, political, specific, enough')
+
+('VBG', 'passing, pushing, according, pushing, keeping, emerging, repealing, backing, satisfying, consisting, meaning, including, handling, determining, knocking, giving, going, going, voting, going, collapsing, reforming, rescuing, misleading, collapsing, saying, abandoning, giving, making, organizing, opposing, reversing, holding, withdrawing, making, reversing, casting, including, rolling, allowing, rolling, appealing, competing, making, happening, trying, getting')
+
+('VBP', 'perry, github, seem, say, get, want, control, approve, seem, know, give, prove, make, get, show, congress, congress, premiums, rep, defines, partyasorganization, suggest, support, provide, spend, oppose, need, turn, think, oppose, say, help, tend, charge, get, cry, hate, republican, gop, predecessor, pittsburgh, want, argue, make, mean, provide, adopt, repeal, annoy, lisa, want, favor')
+
+('VBN', 'filed, elected, promised, offered, passed, signed, told, elected, handled, dcbased, charged, medicaid, charged, compared, associated, medicaid, defined')
+
+('VB', 'get, replace, assume, hurt, identify, follow, try, replace, repeal, get, elected, replace, feel, disapprove, make, enact, left, take, support, subsidize, allow, buy, obamacare, emphasize, revolt, want, write, get, accomplish, minimize, prefer, repeal')
+
+('NNS', 'data, github, data, dataahcapolls, parts, duh, republicans, things, parties, goals, republicans, democrats, voters, polls, republicans, elections, actions, reasons, motives, reasons, republicans, politicians, promises, studies, presidents, members, republicans, proposals, votes, times, pledges, members, chambers, officials, constituents, lowers, americans, constituents, activists, donors, scientists, parts, voters, officials, groups, unions, groups, polls, voters, republicans, supporters, voters, fortunes, voters, groups, groups, volunteers, supporters, causes, tens, millions, dollars, candidates, ones, races, volunteers, doors, donors, republicans, supporters, troops, voters, republicans, democrats, markets, states, republicans, americans, others, companies, reasons, marketplaces, steps, republicans, cuts, republicans, ways, conservatives, activists, politicians, americans, people, ways, dollars, people, limits, plans, people, people, premiums, people, services, insurers, people, customers, credits, liberals, politics, accomplishments, enemies, charles, sykes, times, liberals, trump, sykes, principles, times, policies, celebrations, elites, policies, people, reasons, experts, taxes, cuts, people, reasons, ones, reasons, republicans, voters, promises, liberals, accomplishments, voters, activists, purists, sections, incentives, members, republicans, bills, people, views, goals')
+
+('NNPS', 'republicans')
+
+('VBD', 'passed, adopted, pushed, determined, campaigned, campaigned, brought, made, invested, promised, said, added, found, viewed, conducted, showed, put, gop, jazzed, said, added, medicaid, boomed, spent, wrote, oped, ended, basked, rose, passed, announced, knocked, cared, meant, meant, adopted, took, discussed, reflected, contributed')
+
+('VBZ', 'republicans, drives, americans, republicans, americans, keeps, includes, marketplaces, covers, redistributes, helps, helps, allows, provides, americans, december, conservatives, republicans, includes, increases, leaves, republicans, feels')
+
+('JJR', 'older, younger, younger, older, cheaper, younger, older')
+
+('JJS', 'suggest')
+

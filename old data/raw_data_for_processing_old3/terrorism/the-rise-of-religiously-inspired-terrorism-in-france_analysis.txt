@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 993
+Raw number of types: 475
+Raw Type token ratio: 0.4783484390735146
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 681
+Number of types: 413
+Type token ratio: 0.6064610866372981
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'nov front saturday previous french other previous global eating cambodian french islamic inspired terrorist last last december allahu great terrorist next satirical branch claimed islamic august islamic separatist political inspired european inspired last many french terrorist corsican recent separatist few friday terrorist large french syria islamic onethird islamic islamic january unclear islamic friday syrian french overwhelmed brian senior possible involvement dangerousness difficult potential small available sweden germany northern republic estonia hungary lithuania unrestricted terrorist gohel international asiapacific email former various criminal terrorist new western other deadly recent oslo ukraine last russian last islamic live second democratic')
+
+('NN', 'rise terrorism religion france carl bialik terrorism github github dataterrorism carillon cafe tribute terrorist day thibault terrorist paris friday terror quarter century france terrorism rock concert dinner restaurant tunisia birthday figaro president hollande state series france van knife dijon akbar god incident month newspaper kosher supermarket responsibility man june boss state state sympathizer box cutter rifle train anyone wave violence union police organization separatism france year terrorist property arson terrorist europol number paris attack2 rise terrorism number fight state france population fight state number state estimate france april august state france attack suspect attack belgium passport michael researcher advisor president corp email interview number france syria number surveillance terrorist activity intelligence surveillance predict contributing factor prevalence france rest survey country finland cyprus france greece croatia ireland latvia belgium luxembourg slovenia denmark italy malta ireland portugal slovakia england availability number security director foundation thinktank interview collapse yugoslavia europe madrid train hostage crisis school beslan london tube bombing shooting norway plane year board plane week board bomb state responsibility plane crash article coverage debate')
+
+('VBN', 'inspired filed killed afflicted tied thwarted committed targeted killed gone oneeighth traveled fight climbed carried arrested found gone returned made aided been surplus brought claimed')
+
+('VBP', 'get camus are have paris continue have have france point have have travel are terrorism rand include have have keep have switzerland spain scotland poland sajjan occur europe are europe include russia shot suspect')
+
+('NNS', 'data data attacks sites authorities people lives acts victims countries scores sisters attacks acts months attackers tours organizations attacks people links passengers americans acts stats incidents attacks separatists people people attacks attacks experts residents residents people fighters attacks authorities numbers jenkins numbers others thousands services resources choices guns arms data firearms people austria wales netherlands weapons plots weapons networks hands attacks incidents deaths attacks bombings events years bombings people officials flowers')
+
+('VBZ', 'parisians attacks represents europol attacks has onefourth has remains comes czech has has has')
+
+('VB', 'pay françois shift have romania check')
+
+('VBD', 'killed said injured claimed combined database came were were were were blamed yelled appeared killed beheaded had was compiled were died died motivated linked was was said said suspected said traded ended killed killed killed crashed was andrew contributed')
+
+('JJR', 'more more larger fewer higher')
+
+('VBG', 'according attending celebrating according using planning visiting killing according including according being preparing according following plotting killing killing')
+
+('JJS', 'least latest most most latest deadliest')
+

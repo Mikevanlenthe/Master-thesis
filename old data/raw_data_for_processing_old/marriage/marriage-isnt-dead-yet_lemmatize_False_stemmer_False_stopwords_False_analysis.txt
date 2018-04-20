@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1481
+Raw number of types: 460
+Raw Type token ratio: 0.3106009453072249
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 790
+Number of types: 353
+Type token ratio: 0.4468354430379747
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'marriage casselman marriage github github datamarriage philogene beach florida raedle lawyer amal sept venice marriage pierre teyssot beneath trend distinction marriage research center week report decline marriage today figure trend race education income characteristics2 divide affluent marriage marriage fact rate marriage poorer story marriage marriage divide economy disappearance college degree employment tend hand hand report week quarter today estimate extrapolation problem marriage moment time person question life percent percent majority3 moreover assume today path decade education rate college degree trend decade story decline college fact marriage generation evidence pattern college wait bachelor three6 percent versus percent college range college something requirement marriage rate school diploma percent rate rate evidence divergence marriage survey percent school marriage versus college survey division income race orientation report week reason marriage employment marriage college degree survey percent spouse requirement percent education percent survey behavior half job8 education doesn spouse marriage education population survey percent school diploma work versus percent college laid distinction marriage divorce percent rate education rate college degree divorce rate bachelor degree pattern income divorce rate americas marriage overstate decline marriage school marriage marriage')
+
+('JJ', 'dead right palm getty clooney british arrive getty married important last united percent percent1 broad other hidden likely close same outside unlikely lesseducated different many likely outside likely likely divorced other stagnation marriage last young wednesday past fundamental impossible unmarried later solid steady reasonable same general interesting broken lesseducated clear downward different much possible different collegeeducated late early same young other close ready lesseducated strong young high married high obsolete percent socioeconomic similar political last young education likely likely nevermarried important prospective steady other same moral religious much similar percent borne actual steady third steady steady identical regardless degree likely likely married current high young likely lesseducated same regardless percent steady10 similar affluent picture different divide real important high percent dead')
+
+('VBN', 'filed been married divorced related married based given done married married been married been fallen educated fallen married educated collegeeducated smaller7 married ranked been married compared employed lesseducated educated been married divorced taken')
+
+('NNS', 'data data images images americans stripes groups others states olds numbers americans generations children children mirrors trends incomes jobs trends people ages generations forecasts americans americans years trends groups patterns shows americans groups people graduates rates people children graduates nongraduates children women children women degrees women children women children words children children marriagechildren americans mothers children mothers attitudes respondents diploma graduates results lines divisions rates jobs jobs women cases beliefs ideas children results women ages terms rates ages degree9 jobs americans rates americans decades americans americans families ones numbers americans twothirds children rates')
+
+('VBP', 'edor actor reveal aren appear have aren have plan marry marry have have have marriage have older reveals chart marriage ages older have aren wedlock tend have have have marriage decide link suggest decline husband have have help have ages divorce paint degree')
+
+('VBZ', 'waits alamuddin lies piece graduates suggests exists gets reflects makes comes exists comes')
+
+('JJS', 'west least most least least most most most most')
+
+('VB', 'george celebrate marry marry follow rate4 turn continue help explain')
+
+('JJR', 'fewer more more steeper lower longer higher more more less more more poorer poorer')
+
+('VBG', 'getting overarching delaying skipping cutting delaying abandoning getting getting getting focusing having raising shifting becoming falling including having raising having finding having according rising declining')
+
+('VBD', 'released collegeeducated married married married estimated wrote accelerated were collegeeducated married agreed split were suggested said were doubled held lesseducated married')
+
+('NNPS', 'americans')
+

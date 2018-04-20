@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 460
+Raw number of types: 219
+Raw Type token ratio: 0.47608695652173916
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 613
+Number of types: 463
+Type token ratio: 0.7553017944535073
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'jun infrastructure stick spending andrew infrastructure github github datainfrastructurejobs overpass mead gruver article infrastructure investment state census bureau report bureau construction spending year information infrastructure spending employment bls employment industry construction industry whole engineering construction subsector infrastructure bls description primary activity construction engineering number infrastructure sector government percent april peak april percent drop construction employment period trough infrastructure percent peak recession bls employment subsector wyoming mining energy industry prominence example statebystate infrastructure peak trough variation boom dakota oil reflection realtime infrastructure spending anything measure state energy industry energy industry infrastructure using,infrastructure infrastructure,jobs measuring,stick stick,for for,statelevel data,github github,github github,data data,datainfrastructurejobs built,overpass overpass,just just,south south,cheyenne mead,gruver gruver,article article,lackluster lackluster,infrastructure infrastructure,investment investment,would have,realtime realtime,data data,state the,census census,bureau constructionspending,report report,doesn breakdown,the the,bureau publishes,statelevel nonresidential,construction with,2012 being,the the,latest latest,year year,for which,information can,create create,proxy for,infrastructure imperfect,one employment,the the,bls employment,industry industry,and the,construction construction,industry industry,whole there,are heavy,and and,civil engineering,construction construction,subsector subsector,infrastructure bls,description these,are are,jobs jobs,for which,the primary,activity activity,the the,construction construction,entire the,number number,infrastructure the,private private,sector sector,government government,has between,april roughly,the the,peak peak,and and,april this,better better,than than,the the,more than,percent percent,drop drop,overall overall,construction construction,employment period,and and,since which,came april,2010 these,infrastructure infrastructure,jobs over,percent percent,but their,peak the,recession recession,the the,bls this,subsector the,other representative,sample because,the mining,and and,energy energy,industry industry,prominence but,maryland maryland,for example,don analyzing,statebystate these,infrastructure infrastructure,jobs the,peak peak,and the,trough wide,variation the,boom boom,north dakota,and and,oklahoma two,oil oil,and and,gasheavy ideal,reflection reflection,realtime realtime,infrastructure this,measure jobs,state state,because because,the the,energy energy,industry stripped,out out,the the,energy energy,industry actual,infrastructure infrastructure,jobs jobs,have recovered,less less,than')
+
+('VBG', 'using measuring wyoming constructionspending being looking analyzing jobs,measuring statelevel,spending cheyenne,wyoming monthly,constructionspending construction,spending infrastructure,spending one,looking civil,engineering entire,engineering employment,during data,wyoming the,mining data,analyzing infrastructure,spending proxy,anything')
+
+('NNS', 'jobs flowers data data data doesn data subsectors jobs jobs projects highways dams jobs jobs workers jobs data states states workers sample data don data changes jobs reveals states jobs jobs andrew,flowers the,data statelevel,data three,subsectors engineering,projects projects,highways and,dams fewer,workers these,jobs employment,data data,this other,states few,workers have,data such,data statebystate,changes trough,reveals gasheavy,states reiterate,means what,appears')
+
+('JJ', 'statelevel cheyenne lackluster useful monthly statelevel private nonresidential available proxy imperfect heavy civil entire private overall april little other few representative such wide north ideal proxy actual jun,2014 under,infrastructure get,the recently,built wyoming,mead have,been been,useful useful,have unfortunately,the annually,for for,private private,nonresidential spending,with for,which information,available available,but but,can proxy,for spending,albeit albeit,imperfect looking,employment organizes,employment for,the are,three call,the the,heavy jobs,the the,bls description,these the,primary nationwide,the whether,the fallen,percent percent,between more,than that,period the,trough trough,which roughly,april risen,little little,over employed,these than,their before,the collects,employment too,few have,representative there,but for,example have,such changes,these from,the from,the out,the north,dakota oklahoma,two means,this this,ideal merely,proxy anything,this overstates,jobs affect,actual')
+
+('VBN', 'filed built been realtime fallen risen employed recovered has,fallen have,risen are,employed')
+
+('VBP', 'get have provide are let are have are have have maryland have reiterate affect have would,have subsectors,let for,which highways,and dams,nationwide jobs,have workers,are jobs,than subsector,for states,the there,too workers,have sample,have don,have reveals,wide states,reiterate industry,affect')
+
+('VB', 'have create call gasheavy infrastructure,get let,call')
+
+('VBZ', 'publishes organizes has collects stands means overstates appears only,publishes bls,organizes and,for infrastructure,jobs infrastructure,jobs bls,collects for,states what,stands measure,overstates')
+
+('JJS', 'latest')
+
+('JJR', 'better more fewer less filed,under')
+
+('VBD', 'came stripped spending,andrew flowers,filed april,2007 april,2014 since,the that,stripped probably,recovered')
+

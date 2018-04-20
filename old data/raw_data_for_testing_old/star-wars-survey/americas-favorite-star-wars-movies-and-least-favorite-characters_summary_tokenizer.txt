@@ -1,0 +1,27 @@
+Token analysis before pre-processing 
+Raw number of tokens: 688
+Raw number of types: 265
+Raw Type token ratio: 0.3851744186046512
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('JJ', 'america##favorite##favorite##costume##getty##sneak##peek##fighter##recent##perfect##examine##many##bunch##hated##solo##surveymonkey##available##github##star##substantial##star##percent##likely##percent##star##star##star##original##star##subset##drill##overall##original##likely##phantom##likely##third##second##middle##third##third##fourth##bottom##third##second##nuanced##political##unfamiliar##respondent##actual##know##historical')
+('NN', 'star##war##movie##character##walt##hickey##movie##github##github##datastarwarssurvey##yoda##star##war##series##exhibition##cite##cinema##saintdenis##france##chesnot##image##week##star##war##film##production##movie##middling##response##trilogy##excuse##question##war##fan##rest##america##empire##strike##character##shot##greedo##poll##audience##respondent##june##seventynine##percent##respondent##war##film##question##difference##gender##percent##war##film##woman##film##percent##woman##respondent##film##probability##someone##war##film##war##film##star##war##episode##empire##strike##film##number##war##episode##return##jedi##star##war##episode##phantom##menace##star##war##war##episode##movie##respondent##star##war##film##rank##question##share##respondent##film##favorite##rate##film##fan##movie##empire##strike##favorite##rate##return##jedi##menace##film##rate##chart##film##take##series##boilerplate##format##favorability##poll##please##state##view##character##himher##rate##character##series##favorability##rating##personification##galaxy##impact##revisionism##society')
+('JJS', 'least##best##least##least##best##best##worst##best##best##worst##worst')
+('VBN', 'filed##displayed##watched##seen##compared##seen##compared##seen##seen##given##given##seen##seen##asked##seen##rated##rated##rated##used')
+('NNS', 'data##data##people##data##people##people##people##people##people##camp##prequels##people##prequels##binks')
+('VBD', 'caught##wanted##wellliked##said##asked##followed##reported##renamed##indicated##calculated##broke##preferred##preferred##said##took##asked')
+('VBG', 'xwing##forthcoming##surveying##responding##seeing##following')
+('VBP', 'provide##star##realize##consider##hope##hope##show##read##want')
+('VB', 'franchise##find')
+('JJR', 'higher##lower')
+
+Token analysis after pre-processing 
+Number of tokens: 294
+Number of types: 166
+Type token ratio: 0.564625850340136
+

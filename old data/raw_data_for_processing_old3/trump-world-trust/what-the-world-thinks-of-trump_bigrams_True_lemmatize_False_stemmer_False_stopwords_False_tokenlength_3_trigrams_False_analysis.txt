@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 603
+Raw number of types: 281
+Raw Type token ratio: 0.4660033167495854
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 833
+Number of types: 623
+Type token ratio: 0.7478991596638656
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'world trump week audience gus wezerek jonesrooy trump administration github github president trump york city week time1 monday host event discuss organization address body world isn time audience world information opinion trump research center survey pew variety president world view president thing world trump office confidence president favorability confidence percentage favorability second president year defense agreement president mexico opinion drop hand favorability confidence president israel russia trump trump return george bushera favorability presidency6 content trump agenda syria terrorism climate change survey pew idea agreement net approval percent trump wall mexico withdraw trade approval percent correction version chart article approval rating president germany chart the,world debuts,the the,this skeptical,audience audience,gus gus,wezerek andrea,jonesrooy the,trump trump,administration data,github github,github github,data data,datatrumpworldtrust published,sep sep,2017 president,trump annual,general york,city city,this this,week for,the first,time1 time1,monday event,discuss the,organization organization,and formal,address the,body the,world world,isn isn,just this,time time,they trump,target target,audience the,world trump,our best,information public,opinion toward,trump the,pew pew,research research,center center,global annual,survey survey,since each,variety the,president president,other other,world several,issues2 the,past favorable,view view,the the,and have,confidence confidence,the the,current current,president president,the the,right regarding,world jump,out first,since since,trump trump,took took,office office,confidence confidence,the the,president president,has has,gone gone,down down,further further,average than,favorability the,confidence dropped,percentage points,favorability changed,less less,than the,president4 president4,second second,while america,and and,the the,president decreased,the the,past some,the the,biggest whom,the the,has collective,defense defense,agreement such,nato the,president president,mexico also,saw public,opinion public,favorability has,gone gone,russia public,confidence confidence,the the,president president,has has,gone gone,both both,israel israel,and and,russia russia,since since,trump trump,took took,office5 office5,overall though,trump trump,has brought,return return,george george,bushera levels,favorability the,and and,the the,presidency6 actual,content what,trump trump,will the,beyond international,agenda agenda,are syria,terrorism and,climate climate,change survey,pew five,trump trump,specific which,track track,with the,idea withdrawing,the the,from from,the the,iran iran,agreement the,least disapproval,average global,net net,approval percent,trump between,the the,and and,mexico mexico,and and,withdraw major,trade disliked,average average,net approval,505 and,497 respectively,correction previous,version version,the third,chart chart,this this,article the,net net,approval president,trump germany,and and,russia the,chart chart,has has,been')
+
+('VBZ', 'thinks debuts reforms does comes has has has comes has has has has trump,debuts what,does respondents,views saw,big toward,the specific,policies')
+
+('JJ', 'skeptical andrea sep annual general new first tuesday first formal global public pew global annual other several past favorable current right first average president4 past uniform collective such nato big public other public russia public overall actual other major international north korea specific foreign iran disapproval average global major disliked average net previous third net israel what,the this,week week,skeptical and,andrea under,the get,the attending,the opening,the the,annual new,york the,first host,event and,tuesday his,first first,formal body,the watching,this does,the information,global global,public from,the trends,annual typically,has approximately,1000 for,their the,the and,several compared,the for,the past,three for,two have,favorable whether,they out,first average,than toward,the those,the both,america year,the are,not not,uniform uniform,some have,been with,whom has,collective agreement,such especially,when confidence,the unsurprisingly,also big,public drop,both hand,public the,has and,public for,the about,the the,actual say,the other,major the,international are,north north,korea whether,they disapprove,five some,which any,the the,five but,the drew,the least,disapproval average,global wall,between from,major universally,disliked net,approval sept,455 455,previous the,third showing,the rating,president mislabeled,israel israel,germany')
+
+('VBN', 'filed published asked compared confidence gone changed decreased been gone gone brought been updated datatrumpworldtrust,published has,asked have,changed have,decreased has,brought')
+
+('VBP', 'get trump think trends have have jump have have are have confidence are approve track build thinks,trump wezerek,and week,for reforms,the they,trump world,think comes,from attitudes,trends residents,each countries,for views,the leaders,and results,for years,for questions,whether respondents,have they,have affairs,two favorability,just the,have president,have drops,are declines,have countries,with members,and comes,confidence questions,the other,hand russia,and favorability,for will,say reforms,other issues,the terrorism,and its,2017 respondents,whether they,approve policies,some priorities,foreign generally,not policies,but plans,build were,almost russia,the')
+
+('NNS', 'data data attitudes residents countries views leaders issues2 results years questions respondents affairs patterns points points perceptions respondents views america drops declines countries members japan questions levels reforms issues respondents trump policies priorities publics policies plans agreements trump policies world,thinks the,data discuss,reforms make,his trump,comes global,attitudes 1000,residents variety,countries their,views world,leaders the,results three,years two,questions whether,respondents world,affairs two,patterns percentage,points just,points perceptions,the while,respondents the,drops biggest,declines been,countries nato,members when,comes both,questions bushera,levels beyond,reforms major,issues korea,syria change,its asked,respondents with,priorities foreign,publics five,policies trump,plans trade,agreements proposed,policies')
+
+('VBG', 'attending opening watching regarding withdrawing showing trump,attending the,opening just,watching right,thing thing,regarding idea,withdrawing article,showing approval,rating')
+
+('VB', 'make target say disapprove approve russia administration,get tuesday,make patterns,jump points,since than,those')
+
+('JJS', 'best biggest least our,best')
+
+('VBD', 'took dropped saw took asked drew were sept proposed mislabeled jonesrooy,filed assembly,new since,2000 issues2,compared confidence,dropped pew,asked agreement,drew approval,157 correction,sept trump,proposed policies,mislabeled been,updated')
+
+('JJR', 'less filed,under')
+

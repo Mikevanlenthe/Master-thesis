@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1332
+Raw number of types: 531
+Raw Type token ratio: 0.39864864864864863
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 643
+Number of types: 359
+Type token ratio: 0.5583203732503889
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rate favorit method compar team differ era use explor histori rate intent simpl measur team strength base score locat date team game calcul franchis year basebal rate work predict astro pick calibr team rate leagu averag rate ad rate mean onethird season detail methodolog game result retrosheetorg result nation leagu histori includ associ nation championship world seri sinc leagu titl world seri play team histori boston play continu nation franchis world seri peak domin nation associ nation leagu pennant franchis rate interact team boston stock beat bring record percentag rate count nation associ squad domin leagu histori consid nation part offici histori decre basebal record committe nation associ credit profession leagu begin nation creat continu inaugur nation brave chicago cub origin nation calcul exclud nation peak histori rate record season world seri histori late1990 seattl game electrifi player includ center fielder griffey shortstop alex rodriguez randi johnson season seattl game star season schedul tie record win season cub ichiro suzuki rooki year slugger boon easili season start jami moyer freddi garcia combin team improv seattl rate peak twin tiger sinc compar marin seattl wasnt abl capit season drop game marin havent playoff washington nation franchis world seri cleveland spider basebal season spider histori cleveland spider basebal franchis win percentag manag patsi tebeau spider star pitcher team franchis nation leagu titl secondplac captur templ beat baltimor exhibit season disast spider owner purchas franchis becom cardin ship tebeau star player cleveland declar spider revenu cleveland team refus travel spider end play game road finish season nation leagu contract team season spider kick expo join franchis montreal struggl year postseason mois alou larri walker cordero score game pitch staff butch henri hill jeff fassero pedro nation leagu expo improv pace season reach day strike world seri season start walker grissom hill shorten season franchis playoff expo team becom nation bomber yanke york yanke pretti basebal team leagu fan didnt lose season didnt come year domin yanke team post percentag equival season schedul time yanke snag world seri titl addit rate season profession sport team domin stretch bill montantayoung similarli stack titl era cover career yanke streak multigener end career yanke year debut season mickey mantl year')
+
+('VBD', 'fivethirtyeight histori read espn associ came boast leagu began marin went alc made manag held went went left went')
+
+('VBP', 'weve weve averag depend team win brave brave franchis depend chosen marin transplant bret win outstand appear win go attend exist make come marqui run cancel win')
+
+('JJ', 'previous final total actual recent revert franchis american defunct leagu american includ previous sinc inaugur pick titl citi major doesnt special first major leagu controversi decis includ current franchis includ cub upset white marin marin fastbal enough good great right current franchis white touch unfortun regular sinc current young captur finish firstplac postseason seri young final histori histori first everyth togeth grissom young martinez high basebal next washington unstopp histori finish seventh american franchis next difficult overst pennant peak franchisehigh arent celtic ruth dimaggio final')
+
+('NNS', 'expans atlanta milwauke centuri japanes offens')
+
+('VB', 'start win come eventu expo depart reach stay')
+
+('JJS', 'greatest highest highest best worst worst best')
+
+('VBN', 'histori known gone')
+
+('VBZ', 'leagu loui russel dimaggio')
+
+('JJR', 'higher')
+

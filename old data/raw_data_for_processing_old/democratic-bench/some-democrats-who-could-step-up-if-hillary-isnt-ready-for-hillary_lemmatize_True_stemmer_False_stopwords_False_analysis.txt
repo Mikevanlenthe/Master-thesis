@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 904
+Raw number of types: 439
+Raw Type token ratio: 0.4856194690265487
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 451
+Number of types: 287
+Type token ratio: 0.6363636363636364
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'democrat harry election github github datademocraticbench president adviser treasury secretary williams call clinton president nominee thing clinton scandal health problem bernie sander webb possibility powerhouse question bench look question entrant money ability money appeal strength part reason force party case number story factor candidate office competitiveness election1 size homestate donor base2 mind governor campaign cycles3 fundraising totals4 party leader senate senatorial campaign committee chair minority leader harry reid vice chairman caucus candidate expectation contender presidency expectation candidate amount amount difference elizabeth andrew cuomo harry reid chuck schumer deval patrick jeanne claire mccaskill baldwin chris murphy hirono patty murray gillibrand jeff merkley cory booker tomblin tester mike beebe brian schatz warren patrick poll fundraiser cuomo patrick east coast donor base name senator minnesota money campaign clinton journalist fact doesn wing party term state speculation reelection minnesota state year democrat house number booker murphy expectation bid office booker term money house talk democrat line step stage chance baldwin booker gillibrand murphy race')
+
+('VB', 'step step come need raise raise talk have make raise future')
+
+('JJ', 'hillary ready hillary brown assistant special hillary democratic likely major light malley such political democratic weak late decent proxy such powerful democratic senate clear simple whole such federal incumbent variable democratic last expected democratic such former democratic menendez democratic schumer many fundraising full beat actual franken brown menendez shaheen tammy john cuomo deval unlikely prolific performer wealthy surprising brown progressive democratic crucial subject presidential blue tough first actorturnedpolitician white list young such tammy cory chris fundraising last full subject little white overall several first national happen particular young')
+
+('VBN', 'filed come expected been been expected franken expected wondered seen been wellknown kirsten been given')
+
+('NNS', 'data data elizabeth warren warren warren democrat baldwin people')
+
+('VBP', 'sherrod warren roll tell affect senator senate steve have have gillibrand gillibrand have have bench')
+
+('VBG', 'going going preparing fundraising organizing fundraising running fundraising keeping controlling running darling swing going having')
+
+('VBZ', 'elizabeth data democrat casey')
+
+('VBD', 'thought raised looked raised outperformed chuck outperformed raised raised warren sherrod kirsten andrew included raised were popped were sherrod raised managed franken wouldn exceeded')
+
+('NNP', 'earl kitzhaber')
+
+('JJR', 'more more more le')
+
+('JJS', 'least')
+

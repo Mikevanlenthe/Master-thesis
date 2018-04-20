@@ -1,0 +1,46 @@
+Article: police-deaths
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 587
+Raw number of types: 253
+Raw Type token ratio: 0.43100511073253833
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 429
+Number of types: 220
+Type token ratio: 0.5128205128205128
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', '\ufeffthe, police, andrew, aptopix, thursday, last, grim, statistic, steady, common, gun, thursday, recent, other, vicious, despicable, recent, overall, singular, deaths, fulltime, sworn, local, same, accidental, onduty, police, memorial, federal, new, friday, national, available, overall, dangerous, fulltime, other, single, national, memorial, such, single, political, last, shooting')
+
+('NNS', 'dallas, flowers, grieves, colleagues, years, officers, numbers, police, officers, dallas, killings, officers, states, years, counts, dallas, officers, officers, officers, statistics, officers, deaths, collisions, data, deaths, data, officers, dallas, shootings, data, officers, officers, years, cops, ones, officers, workers, statistics, times, workers, dozens, professions, pilots, drivers, police, officers, dallas, officers, attacks, officers, officers, dallas, territories, police, officers, rico, officers, thieves, officers')
+
+('VBG', 'shooting, protesting, shooting, according, growing, happening, according, including, policing, according, shooting')
+
+('VBD', 'was, were, declined, held, was, grew, were, was, called, had, increased, killed, declined, started, were, was, died, died, died, were, was, was, suspected')
+
+('JJS', 'deadliest, shootingsprotest, most, largest, deadliest, largest')
+
+('NN', 'history, carl, bialik, ritchie, king, law, enforcement, police, dallas, police, officer, night, otero, number, police, job, cause, death, night, demonstration, police, president, attack, law, enforcement, bialikflowerskingpolicedeaths1, officer, policing, death, horrific, massacre, decline, number, police, line, duty, number, number, police, percent, bureau, justice, period, number, percent, share, officer, deliberate, car, officer, officer, page, college, student, officer, database, bureau, investigation, way, york, state, hadn, afternoon, number, police, rate, police, population, today, patrol, job, deadliest, country, police, sheriff, patrol, death, rate, bureau, labor, rate, rate, truck, number, incident, history, incident, police, sept, terrorist, law, enforcement, fund, number, incident, revolt, police, dallas, missouri, farm, car, shot')
+
+('VBN', 'filed, shot, killed, shot, killed, calculated, become, occurred, risen, killed, been, updated, declined, killed, killed, killed, attempted, killed')
+
+('VBP', 'die, safer, suggest, are, police, maintain, isn, bialikflowerskingpolicedeaths2, have, are, are, puerto')
+
+('VBZ', 'makes, has, has, comes, continues, extends, has, loggers')
+
+('JJR', 'more, deadlier')
+

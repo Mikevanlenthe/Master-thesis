@@ -1,0 +1,45 @@
+Article: poll-of-pollsters/most-pollsters-say-their-reputations-have-worsened
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1514
+Raw number of types: 570
+Raw Type token ratio: 0.3764861294583884
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 711
+Number of types: 418
+Type token ratio: 0.5879043600562588
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'dec, pollster, reputation, bialik, election, atlanta, campaign, year, support, sen, david, perdue, atlanta, jason, getz, image, vote, election, loser, campaign, pollster, reputation, pollster, nation, polling, outfit, pollster, image, election, none, image, dozen, question, pollsters1, perception, election, twitter, account, work, everyone, questionnaire, pdf, response, github, list, pollster, pollster, medium, strand, criticism, medium, moment, industry, poll, election, result, moment, year, greece, medium, organization, aggregate, poll, combine, sin, pollster, aggregator, poll, organization, medium, report, claim, ben, carson, egypt, pyramid, store, grain, thing, pollster, poll, story, poll, barbara, carvalho, marist, college, method, accuracy, respondent, story, pollster, election, result, calamity, year, opinion, savvy, field, pollster, selection, everyone, image, dropp, morning, consult, indicator, recruitment, scientist, computer, scientist, drive, innovation, pollster, industry, shape, midterm, year, question, industry, shape, innovation, use, voter, technology, effect, response, rate, reach, reach, gourevitch, strategy, group, response, rate, year, pollster, poll, election, result, failure, response, rate, threat, muhlenberg, college, electorate, response, rate, group, decline, accuracy, reason, electorate, pollster, polling, election, result, study, pew, result, factor, therefore, matter, clark, election, accuracy, team, work, expertise, institution, methodology, medium, critique, concern, accuracy, yorker, article, jill, scientist, lindsay, poll, monstrosity, pollster, medium, certainty, poll, majority, want, policy, maker, emphasis, poll, poll, blueprint, policy, selzer, selzer, company, helpful, majority, world, poll, test, month, caucus, pollster, name, state, toughest, poll, state, vote, iowa, system, hampshire, calendar, vote, state, vote, colleague, harry, telephone, pollster, use, interview, number, trump, pollster, use, voice, online, panel, pollster, liveinterview, poll, voice, response, online, poll, question, gap, trump, support, type, poll, morning, consult, experiment, study, question, trump, liveinterview, poll, trump, supporter, acknowledge, candidate, person, candidate, poll, ask, series, state, majority, unsure, pollster, prediction, tell, something, mood, country, blum, blum, weprin, jay, surveyusa, poll, meaningless, year, majority, unsure, pollster, medium, attention, poll, generalelection, matchup, clinton, donald, stage, race, story, election, pollster, race, control, number, control, pollster, gop, majority, house, forecasting, pollster, race, anyone, clinton, nominee, rubio, chris, christie, trump, jim, gilmore, read, harry, election, poll, coverage, poll, pollster')
+
+('VBP', 'say, github, think, make, believe, say, work, say, know, think, respond, contention, find, know, stand, know, caucus, bush, leve, say, win, expect, senate, expect, hold')
+
+('VBD', 'worsened, filed, hank, worn, cast, asked, improved, declined, answered, said, improved, said, declined, posed, responded, blamed, covered, said, said, said, lead, blamed, said, acknowledged, said, agreed, pointed, increased, responded, said, balanced, said, dipped, said, said, said, pointed, found, said, wrote, said, put, said, asked, got, got, noted, found, recorded, said, narrowed, disagreed, said, disagreed, said, said, said, said, predicted, thought, ted')
+
+('JJ', 'carl, schwab, past, getty, prominent, public, public, prolific, prominent, political, public, trump, much, positive, footnotes2, classic, tactic, many, first, much, bad, miss, last, israel, kentucky, second, bad, good, bad, third, uncritical, outlandish, many, american, outlandish, wrong, interesting, several, medium, several, highprofile, matthew, towery, natural, pollster, kyle, several, positive, scrutiny, negative, nick, global, low, surprised, recent, chris, borick, dramatic, surprised, predictive, several, poll, different, skew, julia, ipsos, dependent, regardless, recent, new, political, majoritarian, blamed, overstate, undue, meant, ann, iowa, firm, imagine, notable, immediate, next, iowa, primary, next, new, iowa, primary, third, live, trusted, interactive, much, open, reluctant, preferred, fivethirtyeight, republican, advised, national, primary, vote, national, primary, next, slim, critique, helpful, micheline, associate, national, primary, voter, hypothetical, hillary, big, tight, predicted, seat, republican, republican, seat, presidential, hillary, democratic, opponent, cruz, guide, prior')
+
+('VB', 'get, find, harbinger, continue, buffer, get, hold, republican')
+
+('NNS', 'data, github, data, datapollofpollsters, people, twothirds, people, politics, improves, data, data, people, people, people, rogers, moines, nevada, jeb, people, trump, marco')
+
+('VBG', 'gathering, according, working, measuring, shaping, feeling, using, tarnishing, filtering, polling, quantifying, lumping, polling, nailing, evolving, succumbing, declining, polling, declining, trying, materializing, citing, overseeing, polling, polling, finding, polling, finding, polling, ignoring, affecting, paying, covering, polling')
+
+('VBN', 'set, found, used, missed, taken, named, named, named, named')
+
+('VBZ', 'donald, distorts, remains, follows, remains, suggests')
+
+('JJS', 'best, least, least')
+
+('JJR', 'older, higher, older, lower, worse, worse')
+

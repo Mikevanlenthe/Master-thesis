@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 838
+Raw number of types: 342
+Raw Type token ratio: 0.4081145584725537
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 709
+Number of types: 519
+Type token ratio: 0.7320169252468265
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'trump clare malone trump administration github datareluctanttrump trump month diego sportswire getty president trump president april group trump president election trump group trump trump level education president group watch check surveymonkey survey presidency period washington april health house russia investigation prominence director appointment counsel attention support president variety support president capital spring percent trump president performance right number percent president change trump approval house passage health something house perception russia story attention press percent trump health percent april percent group attention russia story story percent distraction group appointment robert counsel campaign russia collusion percent trump percent trump director trump percent trump percent trump trump testify congress thursday affair something obstruct justice investigation security advisor michael flynn question impeachment trump president offense survey panel support presidency point president choice trump pence percent trump president percent thirty percent pence trump,least about,clare clare,malone trump,administration administration,github github,github github,datareluctanttrump datareluctanttrump,trump month,diego diego,sportswire sportswire,getty months,presidency presidency,president president,trump president,april first,wrote group,trump hearts,president helped,election reluctant,trump white,older older,trump reluctant,trump republican,higher higher,level level,education education,president group,watch wanted,check partnering,surveymonkey first,reluctant feeling,about about,presidency period,washington washington,since since,april april,health passed,house house,russia russia,investigation swelled,prominence firing,director special,counsel counsel,attention jared,kushner their,support support,president tepid,variety variety,support support,president president,other moved,people seventyfour,percent reluctant,trump president,performance performance,overall overall,right where,number april,comparison comparison,percent percent,president change,trump approval,house house,passage passage,health marginal,something something,white white,house continued,perception perception,russia russia,story undue,attention attention,press reluctant,trump handling,health percent,april april,seventynine seventynine,percent percent,group group,media giving,attention attention,russia russia,story story,which april,percent percent,reluctant distraction,group robert,mueller special,counsel counsel,campaign campaign,russia russia,collusion reluctant,trump while,percent percent,other other,trump comey,director director,other other,trump reluctant,trump compared,percent percent,other other,trump behind,trump comey,testify testify,before before,congress congress,thursday attempted,obstruct obstruct,justice comey,investigation investigation,former national,security security,advisor advisor,michael michael,flynn right,question question,impeachment impeachment,neither reluctant,trump think,president impeachable,offense surprises,survey while,panel their,support fascinating,point serve,president president,would given,choice choice,between between,donald donald,trump trump,pence percent,trump president,again percent,would would,donald donald,trump trump,thirty thirty,percent percent,chose chose,pence')
+
+('JJS', 'least')
+
+('JJ', 'enthusiastic github skeptical first reluctant white reluctant likely identify republican mostenthusiastic reluctant reluctant active special backchannel russian reluctant tepid other seventyfour reluctant overall comparison significant marginal white undue fiftyeight reluctant little seventynine april reluctant special reluctant other reluctant comey other reluctant other comey central russe watch reluctant comey former national right reluctant strong percent impeachable trump reluctant steady reluctant choose donald seventyseven reluctant trump least,enthusiastic under,trump earlier,month nearly,months voters,skeptical sticking,president april,first about,group election,reluctant group,white identify,republican president,mostenthusiastic supporters,reluctant conducted,survey survey,first rather,active director,appointment appointment,special meetings,russian officials,reluctant tight,their certainly,tepid topsyturvy,capital capital,moved spring,seventyfour percent,reluctant approve,president number,april doing,which significant,change unchanging,approval health,marginal promoted,heavily receives,undue fiftyeight,percent percent,reluctant health,little little,percent viewed,story story,april approving,appointment appointment,robert mueller,special percent,reluctant approved,while approved,reluctant james,comey sixtythree,percent percent,reluctant approved,compared stood,behind firing,comey remains,central unspooling,affair affair,russe something,watch months,reluctant asked,comey former,national flynn,right neither,reluctant percent,strong supporters,percent committed,impeachable survey,while showed,trump holding,steady steady,their presidency,reluctant asked,choose choose,these would,given pence,kasich seventyseven,percent would,president again,reluctant differently,percent')
+
+('NNS', 'voters supporters images months voters voters hearts voters voters voters supporters trumpers midterms trumpers meetings officials trumpers voters people voters voters receives voters media trumpers allegations voters voters trumpers james voters voters voters months trumpers accusations voters supporters results voters trumpers respondents republicans voters trumpers enthusiastic,voters trump,supporters getty,images trump,voters trump,voters whose,hearts trump,voters trump,voters trump,voters mostenthusiastic,supporters reluctant,trumpers watch,midterms reluctant,trumpers kushner,backchannel backchannel,meetings russian,officials reluctant,trumpers other,voters trump,voters which,shows heavily,voters story,receives trump,voters reluctant,trumpers collusion,allegations trump,voters trump,voters reluctant,trumpers firing,james trump,voters trump,voters trump,voters watch,months reluctant,trumpers about,accusations trump,voters strong,supporters panel,results trump,voters reluctant,trumpers point,respondents these,republicans trump,voters reluctant,trumpers')
+
+('VBN', 'filed enthused approved compared attempted committed given approach,wanted health,passed sitting,tight president,enthused voters,continued still,approved trump,attempted president,committed')
+
+('VBP', 'attend approach topsyturvy approve sixtythree trump percent think serve supporters,attend rally,portland voters,whose voters,group voters,reluctant likely,identify trumpers,group midterms,approach voters,topsyturvy voters,approve shows,significant trumpers,distraction allegations,percent voters,sixtythree voters,still accusations,trump voters,percent percent,think voters,reluctant republicans,serve voters,would')
+
+('VBG', 'sticking partnering feeling firing sitting doing unchanging handling giving approving firing firing unspooling holding fascinating skeptical,sticking periodically,partnering trumpers,feeling presidency,during prominence,firing mostly,sitting earlier,spring approve,doing trump,unchanging approved,handling media,giving group,approving turned,firing trump,firing central,unspooling russe,something reluctant,holding departed,fascinating')
+
+('VBD', 'wrote helped wanted conducted passed swelled jared tight moved promoted continued approved viewed approved approved turned stood asked showed departed asked kasich answered chose malone,filed president,helped surveymonkey,conducted investigation,swelled attention,jared house,promoted press,fiftyeight voters,approved which,viewed voters,approved voters,approved trumpers,turned voters,stood reportedly,asked mostly,showed support,6month trumpers,departed respondents,asked trumpers,answered')
+
+('JJR', 'older higher kushner filed,under portland,earlier')
+
+('VBZ', 'shows remains surprises thursday,remains there,surprises')
+
+('NNP', 'mueller')
+
+('VB', 'donald')
+

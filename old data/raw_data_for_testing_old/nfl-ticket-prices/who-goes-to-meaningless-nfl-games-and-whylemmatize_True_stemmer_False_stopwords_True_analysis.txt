@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1000
+Raw number of types: 386
+Raw Type token ratio: 0.386
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBP', 'go york england odell go attend online take patriot come denver fan want plate')
+
+('JJ', 'meaningless fight second east argument dumb argument argument logical statistical submit typical pick schadenfreude expense last couple regular many frigid argument meaningless obvious secondary divisional average total divisional divisional average average expensive average lifelong faithful many casual sunday wrong spoke brought full many local professional much gillette good present last many nearby front pittsburgh bronco stubhub green perfect many live pittsburgh increase fifth western vast large contingent hometown patriot massive full')
+
+('NN', 'game walt hickey walt github github jet fan cheer half game patriot rutherford jersey bill shopping friend drink fight walt column question life culture barroom rant research conclusion question conundrum corner author haunt fight york giant makeshift shrine philadelphia eagle fan week season team playoff pack stadium temperature promise mediocre football question game season reason game ticket stubhub ticket market average ticket price game year home game ticket price team year game game home team playoff contention match average price game price discount ticket rest season motivation price jet host patriot week game york season fight muse jet kevin havas pictwittercomrk4dhi2sue walter hickey walthickey december mark fugger season ticket holder year namath day fugger season look metlife stadium jet thing christmas shopping result year football game event party game place jet fan party group fan jet spectacle canada patriot york work team stadium patriot game deal ticket christmas kid game time game spit mcgarr season ticket holder team base travel jet home game fan team town location ticket jet home game season percentage ticket buyer york jersey home turf gang standin bronco region dip game england mcgarr yorknew jersey share home game jet york buffalo bill majority ticket game fugger fan budget fan metlife festivity case game contingent fan massachusetts tank')
+
+('VBD', 'filed developed found super eliminated appeared prompted sent eliminated eliminated went explained said said asked said spoke fan said said came said came said played asked bought sold said hosted')
+
+('NNS', 'data data datanflticketprices data people data fan partiers people frenchcanadians steelers steelers data data steelers')
+
+('VB', 'kostroun take play play')
+
+('JJS', 'best')
+
+('VBN', 'done devoted hashed compared come moved come patriot sold come')
+
+('VBG', 'solving erecting soaking interesting recurring parking seeing seeing visiting hosting')
+
+('JJR', 'cheaper higher lower cheaper younger')
+
+('NNP', 'kevinhavas')
+
+Token analysis after pre-processing 
+Number of tokens: 413
+Number of types: 241
+Type token ratio: 0.5835351089588378
+

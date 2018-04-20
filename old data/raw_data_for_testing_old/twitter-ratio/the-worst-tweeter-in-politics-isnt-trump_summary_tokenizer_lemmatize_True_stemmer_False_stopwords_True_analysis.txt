@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1791
+Raw number of types: 402
+Raw Type token ratio: 0.22445561139028475
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token token ratio true true verb adjective wezerek datatwitterratio dunn feinberg bottom tweet reply pair obamacare widow trump goodwill mitt nice oeuvre stat chart above4 pattern graham cillizzacnn nice characterizes afoul warren trump adam buck demonstrate make left middle tweeted mapped replied trump replied little digital pebble average favs facto public powerful public united powerful friendly rival ternary social powerful united last right common easy public expressive sure metric close average second high good concerned foreign recent radical former republican times3 current former first quadrant academic obama average trump engagement average stat visible certain individual broad cruz republican resemble average heavy carolina republican fellow republican uniform specific average toomey republican republican dubious utah republican republican pull lefty free angry clustered happen take token token')
+
+('NN', 'analysis number number type type filter lemmatizer stemmer article token tweeter dhrumil mehta administration github thing tweet world food pellet universe proof someone attention food pellet universe stack problem tweet tweet conversation post surer someone phenomenon ratio david baseball stat line tweet example tweet home huffington post time capacity twitter podium president response tweet figure state compare colleague senate illustrate blend action tweet plot plot measure example mixture clay sand soil proportion gold silver copper alloy jewelry measure medium presence state tweet share bottom share danger zone share summer shape silhouette bomber corner response tweet retweet tweet spark ratio flop fact trump account magnet tweet reply exception trump tweet share tweet show morning cohost direction plan tweet morning trump address conversation johnson army sargeant david johnson month proportion reply night year trump realdonaldtrump june trump tweet share ratio policy reply trip ideology leader look realdonaldtrump june tweet share candidate sixfigure reply romney congratulate donald trump realdonaldtrump trump tweet percent reply president tweet barackobama look tweeter obama twitter direction retweet metaanalysis research paper twitter message andor originator line reply tweet balance trump line reply trump reply service nation tweeterinchief senator tweet tweet form mass corner tentacle senator trend texas kamala harris democrat california example distribution tweet reply retweet sector ratio tweet distribution lindsey example blob replyretweet bill distribution action response ratio tweet senator senator reply corner pennsylvania mitch mcconnell cory gardner colorado toomey mcconnell race home action response tweet replies5 comparison percent reaction trump tweet winner member part trend twitter gravity reply corner everyone twitter tweet ratio twitter concept chris cillizza september twitter ratio ratio course tweet github ratio reply blend react trump ratio democrat look inhofe ratio roeder thought democrat send luke neil batting trump1 tweet ratio trump trump firestorm reply shot reply senate monday donald funding qatar donald presidential level endorsement tweet obama retweet senator type shapeless echo elizabeth louisiana triangle percent retweet oklahoma republican retweetlike gauge silt facelift reply reply analysis number number type type ratio')
+
+('VBG', 'preprocessing using using using paying giving flinging outpacing writing governing using sitting zooming according taking joining bleeding writing according retweeting microblogging reaching reaching favoring denying preprocessing')
+
+('VBD', 'token separated retweeted messed wrote came failed said pointed shifted focused pointed liked fucked called token')
+
+('NNS', 'stopwords false politics data data retweets retweets people people data retweets retweets retweets retweets others others james sparked kentucky retweets retweets')
+
+('VBN', 'used filed posted killed generated insisted inverted published known compared given used called rated stated stretched tied taken')
+
+('VBP', 'reply roth repeal compare deadspin msnbc retweets massachusetts concept indicate appear appear esquire republican reply')
+
+('VB', 'reply tweet brzezinski prize feel become')
+
+('JJR', 'follower lengthier higher higher higher lower outlier worse heavier worse outlier larger')
+
+('NNP', 'trump user')
+
+('VBZ', 'cassidy retweets tends retweets feinberg requires appears')
+
+('JJS', 'least highest highest highest furthest')
+
+Token analysis after pre-processing 
+Number of tokens: 594
+Number of types: 363
+Type token ratio: 0.6111111111111112
+

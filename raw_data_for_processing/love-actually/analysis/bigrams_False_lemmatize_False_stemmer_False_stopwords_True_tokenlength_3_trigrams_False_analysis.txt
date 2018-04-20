@@ -1,0 +1,50 @@
+Article: love-actually
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1821
+Raw number of types: 677
+Raw Type token ratio: 0.37177375068643603
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 869
+Number of types: 522
+Type token ratio: 0.6006904487917146
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'definitive, christmas, dec, linney, universal, colin, linney, universal, cinematic, hot, united, united, airport, third, prime, first, pageant, cast, great, solid, much, bottom, classic, big, nice, attractive, literary, important, manic, precocious, girl, appear, regular, played, questionable, encouraging, good, awful, outstanding, lucrative, neeson, rickman, nighy, freeman, ejiofor, bob, milicevic, late, good, potter, british, top, average, average, imdb, rickman, freeman, ejiofor, january, john, sharian, dead, different, thompson, freeman, social, many, pivotal, linchpin, axis, schmuck, lincoln, key, young, little, young, rich, little, rich, white, white, tale, romantic, learn, afar, milieu, london, bourgeois, rickman, new, classic, prime, maid, fat, firth, cute, french, portuguese, lake, enough, randy, derp, nuts, rowan, atkinson, rickman, call, shiny, ultimate, testimony, ginnedup, latter, major, many, lincoln, measure, social, many, different, emotional, top, screen, spoken, lincoln, emma, rickman, hugh, colin, firth, lúcia, juliet, keira, neckalce, liam, neeson, tony, thomas, judy, rodrigo, santoro, rowan, bob, mack, olson, obsessed, rogue, good, thompson, ill, incessant, redundant, like, forced, holiday')
+
+('NN', 'analysis, movie, time, walt, hickey, gus, wezerek, colin, firth, bill, martine, mccutcheon, hugh, grant, alan, rickman, liam, neeson, emma, thompson, firth, bill, martine, mccutcheon, hugh, grant, alan, rickman, liam, neeson, emma, thompson, film, generation, story, kingdom, space, film, moment, relationship, crush, story, season, party, school, holiday, lot, time, titular, emotion1, christmas, film, pile, box, office, figure, movie, cry, network, analysis, hamlet, character, core, film, pixie, dream, bean, rowan, atkinson, film, sam, kid, name, mother, character, game, maze, runner, franchise, sammo, stepfather, post, money, liam, neeson, movie, child, sprint, security, airplane, post911, fatherhood, neeson, child, franchise, box, office, number, alan, bill, emma, thompson, martin, thomas, brodiesangster, chiwetel, keira, knightley, rodrigo, santoro, colin, firth, thornton, adam, godley, laura, linney, ivana, margery, mason, money, source, quality, pair, relationship, alan, doubt, half, franchise, cinema, heap, imdb, rating, score, number, emma, thompson, meg, wynn, owen, martin, chiwetel, thomas, brodiesangster, liam, neeson, julia, davis, marshall, laura, linney, bill, rodrigo, santoro, power, movie, monster, admire, hugh, grant, colin, firth, knightley, martin, blist, movie, plot, movie, network, world, love, cue, dumbwaiter, upstairs, party, network, analysis, side, plot, watch, knightley, character, husband, man, cheat, spouse, file, order, let, london, life, thompson, character, husband, secretary, sir, tale, boymeetsandoglesgirlwhoworksforhim, london, grant, minister, brother, thompson, character, chubby, staff, stomach, plot, relentless, none, london, version, meet, countryside, movie, slowmotion, scene, watch, camera, pan, zany, london, staff, knightley, wedding, marshall, sample, dialogue, try, side, atkinson, character, department, store, movie, summoning, heathrow, bow, christmas, comedy, movie, nothing, serendipity, let, attention, character, absent, airport, epilogue, silentbuttreacly, cue, card, guy, linchpin, way, activity, conversation, laura, linney, absentee, glue, character, actor, time, cast, primary, plot, sarah, office, tryst, mark, cue, thompson, necklace, harry, necklace, colin, marshall, grant, jamie, france, aurelia, moniz, france, knightley, cue, heike, makatsch, peter, chiwetel, ejiofor, cue, drummer, boy, martine, mccutcheon, abdul, salis, brodiesangster, drummer, boy, john, freeman, joanna, page, office, tryst, atkinson, president, thornton, bill, nighy, song, joanna, drummer, boy, joe, gregor, fisher, song, jeannie, january, brother, michael, office, tryst, everyone, mopey, man, cry, christmas, party, husband, fall, woman, brother, phone, night, mistletoe, rodrigo, santoro, linney, character, truly, movie, grinch, season, treasure, laura, linney, bona, fide, christmas, miracle, data, network, analysis, github, page, ella, koeze, reporting')
+
+('VB', 'love, learned, kris, keira, find, remember, call, call, kris, karl, love')
+
+('JJS', 'greatest, best, best, best, best')
+
+('VBN', 'filed, published, left, launched, interconnected, used, structured, pulled, launched, played, gone, taken, led, made, elected, inclined, longawaited, stuffed')
+
+('NNS', 'movies, pictures, relationships, weeks, relationships, tourists, ministers, covers, staples, songs, performances, credits, scenes, data, actors, strategies, les, misérables, equals, careers, thrones, movies, oftentimes, films, movies, actors, films, roles, icons, films, films, films, jones, movies, performances, screenwriters, plots, brits, scenes, characters, cards, londons, cities, narratives, cracks, likes, things, things, rails, jokes, strips, thames, plays, amounts, characters, arrivals, scenes, characters, characters, cards, cards, cards, jones, characters, characters, problems, others, calls, londons, plots, permutations')
+
+('VBD', 'left, keira, keira, watched, coded, spoke, happened, wrapped, diagramed, applied, played, deceased, made, ended, rickman, came, keira, made, juggled, played, mirrored, echoed, played, described, counted, shared, star, laura, andrew, spoke, contributed')
+
+('NNP', 'knightley, knightley, knightley, martin, fitzgerald')
+
+('VBZ', 'laura, pictures, laura, takes, bookends, makes, falls, actor, attempts, nighy, turns, downstairs, reveals, leads, finds, plays, happens, falls, takes, includes, ends, rises, sam, standins, standins, stands, needs, straddles')
+
+('VBP', 'love, christmas, heathrow, plotline, grave, holiday, christmas, roll, get, know, love, find, thomas, lead, love, liam, love, imdb, crappiest, thompson, harry, alan, love, sell, neeson, pop, shared2, love, appear, vamp, start, firth, kris, london, rowan, curtain, gate, leave, believe, love, count, actor, karen, alan, frissell, mia, daniel, rufus, sarah, linney, knightley, derail, stereotypes, find, see')
+
+('VBG', 'using, ongoing, parenting, parenting, resulting, parenting, making, according, enduring, staying, stalking, pining, restraining, whispering, jumping, catering, screwballing, damning, downing, downing, downing, running, wedding, asking, reassuring, watching, viewing')
+
+('JJR', 'worse, less, less, fewer, housekeeper, shoulder, character')
+

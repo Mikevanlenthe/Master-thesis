@@ -1,0 +1,48 @@
+Article: marriage
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1481
+Raw number of types: 460
+Raw Type token ratio: 0.3106009453072249
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 681
+Number of types: 345
+Type token ratio: 0.5066079295154186
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'sep, marriage, casselman, marriage, get, github, github, datamarriage, philogene, palm, beach, florida, feb, joe, raedle, lawyer, amal, sept, venice, celebrate, marriage, teyssot, afp, beneath, trend, distinction, marriage, research, center, week, report, decline, marriage, today, figure, trend, race, education, income, characteristics2, dig, divide, affluent, marriage, marriage, fact, rate, marriage, story, marriage, plan, get, marriage, divide, economy, disappearance, college, degree, employment, tend, hand, hand, report, week, quarter, today, age, estimate, extrapolation, problem, marriage, moment, time, person, question, life, age, percent, majority3, moreover, marriage, assume, today, path, decade, age, chart, marriage, rate4, education, rate, college, trend, decade, story, decline, college, fact, marriage, generation, piece, evidence, pattern, college, wait, three6, percent, versus, percent, college, age, range, college, something, requirement, marriagechildren, link, marriage, rate, school, diploma, percent, rate, rate, evidence, divergence, marriage, survey, percent, school, marriage, versus, percent, college, survey, division, income, race, orientation, age, report, week, reason, marriage, employment, education, gap, marriage, college, degree, get, survey, percent, spouse, job, percent, education, percent, survey, half, job, job8, job, education, help, spouse, marriage, education, degree, get, population, survey, percent, school, diploma, work, versus, percent, college, degree9, laid, distinction, divorce, percent, rate, education, rate, college, degree, divorce, rate, pattern, income, divorce, rate, picture, americas, overstate, decline, marriage, school, age, marriage, age, percent, marriage')
+
+('JJ', 'dead, ben, right, west, getty, clooney, british, arrive, pierre, getty, married, important, pew, last, big, united, percent, percent1, broad, hidden, likely, close, unlikely, lesseducated, different, married, many, likely, likely, likely, stagnation, last, young, wednesday, fundamental, impossible, unmarried, later, percent, solid, steady, reasonable, follow, general, broken, lesseducated, clear, downward, different, much, possible, different, half, late, married, young, marriage, close, ready, married, lesseducated, strong, young, high, much, married, pew, high, obsolete, socioeconomic, similar, split, political, last, young, likely, likely, nevermarried, important, prospective, steady, requirement, moral, religious, much, similar, percent, borne, actual, behavior, steady, third, steady, steady, identical, regardless, likely, likely, current, high, young, likely, key, lesseducated, marriage, regardless, percent, degree, steady10, similar, affluent, different, divide, real, important, high, top, dead')
+
+('VBN', 'filed, married, divorced, married, divorced, estimated, marry, married, based, given, done, married, married, fallen, educated, fallen, collegeeducated, educated, married, compared, employed, married, lesseducated, educated, married, divorced, taken, married')
+
+('NNS', 'data, data, waits, images, images, americans, stripes, groups, others, states, olds, numbers, americans, generations, children, americans, children, mirrors, incomes, jobs, trends, men, people, generations, forecasts, americans, americans, years, groups, reveals, patterns, americans, men, groups, people, graduates, rates, people, children, graduates, children, women, children, women, degrees, women, children, women, children, graduates, words, children, children, americans, mothers, children, mothers, attitudes, respondents, diploma, graduates, results, lines, divisions, rates, men, men, jobs, men, jobs, women, cases, beliefs, ideas, children, results, women, men, men, terms, rates, men, men, men, jobs, men, americans, rates, americans, decades, americans, americans, families, ones, numbers, americans, twothirds, children, rates')
+
+('VBP', 'edor, actor, reveal, say, marry, trends, marriage, behavior, say, marry, ages, degree, older, turn, continue, wedlock, tend, see, decide, get, suggest, decline, pew, husband, earn, ages, divorce, bachelor, poorer, paint, degree')
+
+('VBD', 'wed, released, married, collegeeducated, wrote, married, accelerated, collegeeducated, collegeeducated, agreed, suggested, put, said, ranked, married, doubled, held, lesseducated')
+
+('VB', 'george, appear, get, get, marry, related, get, decide, help, explain, get')
+
+('VBZ', 'alamuddin, lies, ages, trends, shows, nongraduates, suggests, exists, gets, reflects, smaller7, ages, makes, ages, comes, exists, comes')
+
+('JJR', 'fewer, older, steeper, lower, higher, poorer')
+
+('VBG', 'getting, overarching, delaying, skipping, cutting, delaying, abandoning, getting, getting, getting, focusing, interesting, raising, shifting, becoming, falling, including, raising, finding, according, rising, declining')
+
+('JJS', 'least, least, least')
+

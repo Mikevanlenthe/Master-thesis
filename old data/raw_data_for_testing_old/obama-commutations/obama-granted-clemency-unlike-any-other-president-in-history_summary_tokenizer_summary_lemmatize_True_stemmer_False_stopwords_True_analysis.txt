@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 526
+Raw number of types: 253
+Raw Type token ratio: 0.48098859315589354
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag tag clemency president history justice github github endofpresidency clemency president clemency president announcement approach clemency clemency prison release week office obama clemency chelsea intelligence analyst information commutation obama number president history house obama week month clemency record record tuesday gesture restoration prison sentence release bill group independence puerto responsibility protest order police enforcement donald trump risk year office obama sentence oscar lpez rivera member part push justice reform justice department clemency drug number year number analysis justice department percent drug percent conspiracy union drug office friday commutation response history trump time correction version article clemency president analysis mass ford jimmy carter obama lowlevel gerald create face charlie obama thursday truman1 obama army thursday obama august thursday forgiveness administration future guide fraternal presidentelect rarer sentence sentence prisoner sentence commutation pardon dozen pardon commutation inmate pardon year commutation president commutation sentence member state letter group commutation prisoner commutation inmate criterion sentence sentence petition commutation petition record commutation prisoner commutation law group law dealer crime distributor president commutation rico bomb offense pardon clinton obama meet grant shorter')
+
+('JJ', 'tuesday serve initiative thursday harsh oval harry mandatory tuesday faln tuesday activist truman criminal drugrelated typical federal sensitive total white federal single free original recent united last faln general significant criminal certain consistent fiscal many american civil serious recent many previous concerned argue formal offense felon pardon optic prisoner applicant uncertain minimum preceded commuted')
+
+('VBD', 'december wanted broke hundred commuted gave announced rose said differed appeared announced received tripled')
+
+('VB', 'release')
+
+('NNP', 'obama')
+
+('VBG', 'manning granting manning manning manning rethinking serving commuting freeing pardoning including disclosing according voting freeing freeing including according waiting')
+
+('VBN', 'suggested issued granted claimed ended granted made issued commuted allowed filed aimed granted given convicted granted granted convicted slated convicted convicted charged charged granted')
+
+('VBP', 'tend include prisoner predecessor inmate wikileaks reoffend leave')
+
+('VBZ', 'follows liberty remains')
+
+('NNS', 'data dataobamacommutations people people people people people people data prepares')
+
+('JJR', 'riskier')
+
+Token analysis after pre-processing 
+Number of tokens: 316
+Number of types: 194
+Type token ratio: 0.6139240506329114
+

@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 860
+Raw number of types: 403
+Raw Type token ratio: 0.4686046511627907
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBD', 'changed shed webscraped skyrocketed documented fastfood lettered allowed went happened took christened evolved created grew spoke told betterequipped seemed went mentioned contributed')
+
+('JJ', 'scrabble grand dear quantitative scrabble tournament scrabble full unanswered scrabble economic past great technological exploit effective dramatic technological scrabble empty scrabble scrabble dictionary full scrabble actual technological digital early nowindispensable scrabble dictionary second valid scrabble north american additional scrabble instantly1 tournament scrabble dictionary scene overnight technical lexical average mediocre scrabble rich scrabble suspected scrabble complex dictionary adapt clinchy think exploit uncover distributional scrabble weak expanded average light scrabble thomas piketty french twentyfirst skeptical scrabble read interesting economics')
+
+('NN', 'oliver roeder plan reader light problem income inequality bestlaid rack explain core concept please party favor inequality halfcentury detail percent percent change notion work gulf change weekend hotel country tournament board place game economy economy book thicker technology decade revolution game training version zyzzyva wordstudy tool quackle analysis engine partner change year march edition official tournament club word list effect edition play juicy highpoint game crosstablescom online clearinghouse tournament average score player game average score revolution score weekend income inequality increase metagame time development update everyone game player oregon economy evidence fact benefit word board shine keyhole economist author capital century example technology explanation income inequality mind count game book work piece paper anything dissertation dhrumil mehta research')
+
+('VBN', 'filed planned planned higherskilled publicized released posted')
+
+('NNS', 'games data github data datascrabblegames games data plans vowels questions data turns data sorts folks technologies workers involves dictionaries ballrooms offices restaurants players seats tiles interactions tens thousands words tools players words strategies words words words blocks tiles data games years results points data effects players words counterparts experts reasons changes players changes ones numbers effects words players levels questions pages data github')
+
+('VBP', 'github leave play theory emerge adapt take learn exploit love evans skill macroeconomy fivethirtyeight scratch find know')
+
+('VBG', 'holding widening higherearning governing allowing sparring building scraping covering increasing pointscoring trying inequalityexacerbating scoring showing using')
+
+('VBZ', 'goes widens gets improves lists believes')
+
+('JJS', 'biggest best')
+
+('JJR', 'longer richer stronger weaker larger')
+
+Token analysis after pre-processing 
+Number of tokens: 376
+Number of types: 280
+Type token ratio: 0.7446808510638298
+

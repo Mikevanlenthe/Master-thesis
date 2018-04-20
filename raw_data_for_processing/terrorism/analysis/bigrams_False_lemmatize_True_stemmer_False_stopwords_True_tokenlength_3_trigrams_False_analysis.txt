@@ -1,0 +1,45 @@
+Article: terrorism
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 993
+Raw number of types: 475
+Raw Type token ratio: 0.4783484390735146
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 508
+Number of types: 361
+Type token ratio: 0.7106299212598425
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'nov, parisian, cafe, saturday, terrorist, previous, camus, terrorist, paris, friday, french, injured, previous, global, cambodian, figaro, french, islamic, inspired, terrorist, last, last, van, allahu, great, terrorist, next, satirical, branch, claimed, islamic, august, islamic, american, separatist, political, european, last, many, french, terrorist, corsican, recent, separatist, terrorist, killed, terrorist, friday, terrorist, expert, large, french, syria, islamic, oneeighth, onefourth, fight, islamic, fight, islamic, january, unclear, islamic, friday, arrested, syrian, french, brian, senior, include, france, possible, involvement, terrorist, difficult, potential, small, available, sweden, germany, northern, republic, estonia, hungary, lithuania, unrestricted, international, asiapacific, email, former, various, criminal, terrorist, occur, new, western, deadly, recent, oslo, last, suspect, russian, last, islamic, live, second, democratic')
+
+('NN', 'rise, terrorism, religion, france, carl, bialik, terrorism, get, github, github, dataterrorism, gather, front, carillon, tribute, attack, day, thibault, attack, site, authority, life, act, terror, quarter, century, france, terrorism, database, victim, country, rock, concert, dinner, restaurant, sister, tunisia, birthday, attack, president, hollande, state, series, act, france, month, december, attacker, knife, tour, akbar, god, incident, organization, month, attack, paris, newspaper, kosher, supermarket, responsibility, man, june, state, state, sympathizer, box, cutter, rifle, train, passenger, anyone, wave, violence, act, union, police, organization, incident, continue, separatism, france, year, attack, separatist, attack, property, attack, europol, half, number, paris, attack2, rise, attack, france, terrorism, point, number, resident, fight, state, france, population, resident, state, number, state, france, april, august, state, fighter, france, attack, suspect, belgium, passport, attack, authority, number, michael, advisor, president, corp, email, interview, number, number, number, activity, intelligence, service, resource, surveillance, choice, dangerousness, predict, contributing, factor, prevalence, gun, france, rest, arm, survey, country, firearm, finland, cyprus, france, greece, croatia, ireland, latvia, belgium, luxembourg, slovenia, denmark, italy, malta, ireland, portugal, slovakia, england, wale, scotland, poland, romania, availability, weapon, number, terrorist, plot, sajjan, security, director, foundation, thinktank, interview, collapse, yugoslavia, surplus, weapon, network, hand, attack, incident, death, attack, europe, madrid, event, europe, year, hostage, crisis, school, beslan, russia, london, tube, plane, shot, ukraine, year, board, official, plane, week, board, state, responsibility, plane, crash, article, check, coverage, debate')
+
+('VBN', 'inspired, killed, killed, combined, blamed, tied, inspired, compiled, targeted, died, gone, gone, suspected, ended, killed, contributed')
+
+('VBD', 'filed, said, claimed, came, score, afflicted, yelled, appeared, killed, beheaded, thwarted, inspired, committed, died, motivated, traveled, climbed, carried, linked, found, overwhelmed, said, said, returned, made, aided, said, killed, killed, crashed, brought, claimed, andrew')
+
+('NNS', 'data, data, people, people, bos, stats, people, people, people, jenkins, syria, others, data, people, austria, people')
+
+('VB', 'pay, françois, dijon, shift, estimate, keep, traded')
+
+('VBG', 'according, attending, eating, celebrating, according, using, planning, visiting, killing, according, including, according, preparing, according, following, plotting, bombing, bombing, bombing, shooting, killing, killing')
+
+('JJS', 'least, latest, latest, deadliest')
+
+('JJR', 'larger, fewer, higher')
+
+('VBP', 'link, travel, terrorism, rand, surveillance, come, switzerland, spain, gohel, europe, train, include')
+
+('VBZ', 'represents, arson, remains, czech, netherlands')
+

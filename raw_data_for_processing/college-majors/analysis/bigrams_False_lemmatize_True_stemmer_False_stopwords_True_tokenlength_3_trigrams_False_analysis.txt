@@ -1,0 +1,47 @@
+Article: college-majors
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2467
+Raw number of types: 728
+Raw Type token ratio: 0.29509525739764897
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 1182
+Number of types: 565
+Type token ratio: 0.4780033840947547
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'sep, guide, college, ben, casselman, education, student, campus, los, image, student, college, career, fair, york, city, john, moore, image, college, student, month, face, reality, college, degree, guarantee, success, choice, take, step, cause, effect, college, graduate, message, school, stem, science, technology, engineering, math, study, drama, lesson, evidence, student, year, psychology, leaf, half, graduate, job, college, student, doubt, study, psychology, career, prospect, research, college, university, student, make, choice, study, skepticism, value, college, education, bachelor, degree, fact, analysis, economist, reserve, bank, york, value, college, degree, alltime, tuition, word, average, researcher, percent, college, graduate, half, school, graduate, school, year, money, college, student, debt, figure, percentage, college, student, graduate, world, debt, degree, help, job, today, college, student, chance, chance, percent, college, difference, choice, look, college, graduate, job, year, community, survey, graduate, degree, petroleum, engineering, time, salary, end, spectrum, science, graduate, land, jobs1, course, petroleum, engineer, field, difference, science, earn, policy, history, court, figure, bring, boost, example, percent, business, therefore, student, business, raise, someone, flunk, course, surge, student, dollar, sign, petroleum, engineering, glut, supply, wage, trend, end, article, table, income, code, github, account, let, engineering, pay, petroleum, engineering, crazy, percent, runnerup, engineering, premium, demand, midst, drilling, boom, condition, environment, petroleum, engineer, career, risk, premium, energy, industry, boombust, volatility, guarantee, petroleum, engineer, sixfigure, oil, price, engineering, life, graduate, fall, engineering, category2, engineering, engineering, technology, engineering, technology, wage, half, term, science, engineering, guarantee, job, kind, engineering, get, sense, range, outcome, help, percentile, petroleum, engineer, percentile, petroleum, engineer, engineer, mining, metal, indemand, field, living, school, everyone, quarter, engineer, example, engineer, percentile, stem, field, love, tout, importance, science, technology, engineering, math, tem, engineering, computer, math, science, science, life, science, pay, college, graduate, student, neuroscience, meteorology, biology, ecology, get, job, lowestpaying, category, fulltime, wage, year, nonmath, type, money, money, engineering, field, student, flock, fact, correlation, psychology, belowaverage, wage, engineering, field, field, study, explanation, everyone, cut, computer, research, bear, interpretation, paper, year, group, researcher, math, science, art, college, student, grade, comfort, math, science, nonengineering, nonhardscience, court, reporting, food, science, policy, unemployment, petroleum, advantage, graduate, job, unemployment, rate, percent, job, percent, hour, week, science, graduate, hand, percent, unemployment, rate, percent, unemployment, scientist, graduate, unemployment, rate, percent, teacher, stripe, employment, correlation, fact, college, graduate, edge, job, report, glass, technology, employment, company, employer, bachelor, degree, job, job, executive, demand, bachelor, field, result, unemployment, rate, college, graduate, percent, percent, school, diploma, bachelor, degree4, job, career, degree, job, market, college, york, fed, researcher, unemployment, rate, graduate, job, college, degree, issue, job, college, degree, teacher, money, career, result, yield, list, engineering, education, science, field, nurse, bit, job, college, degree, graduate, program, cosmetology, hospitality, management, resource, jobs5, term, construction, job, example, college, graduate, end, stuck, service, job, waiter, janitor, clerk, definition, student, cosmetology, service, art, lowwage, service, jobs6, drama, theater, percent, job, performer, list, stereotype, artist, coffee, shop, bit, bachelor, cosmetology, drama, end, job, graduate, psychology, percent, work, job, wage, psychology, graduate, making, figure, psychology, school, premium, psychology, age, graduate, degree, wage, percent, degree7, field, graduateschool, premium, student, health, preparatory, program, salary, school, graduate, program, biology, science, premium, school, standard, rule, incentive, force, field, graduate, boost, school, exception, education, field, school, counselor, administrator, graduate, school, boost, pay')
+
+('JJ', 'economic, major, ucla, djansezian, getty, new, getty, american, campus, grim, economic, major, education, fraught, difficult, detailed, major, clear, medical, assume, major, table, obvious, many, popular, major, recent, many, uncertain, many, little, push, recent, worth, average, recent, federal, new, average, high, key, high, high, high, many, choose, major, bottom, understand, big, financial, major, table, typical, recent, fulltime, american, major, median, bottom, library, lucky, fulltime, safe, many, freshman, decide, librarian, related, clear, major, actuarial, major, major, public, major, major, criminology, major, big, financial, major, average, general, major, prestigious, major, draw, top, major, econ, net, salary, huge, decide, dive, stop, full, major, broken, median, salary, mineral, tremendous, engineer, recent, tough, many, early, notorious, salary, remarkable, major, young, broad, major, mechanical, related, miscellaneous, median, top, major, social, good, median, top, chemical, good, good, straight, lucky, biomedical, le, median, biomedical, politician, major, major, belong, major, major, mathheavy, many, overall, median, recent, major, le, fulltime, many, major, median, much, technical, major, popular, major, lucrative, popular, major, median, popular, simple, technical, major, hard, economic, last, major, popular, private, liberal, kentucky, major, inclined, actuarial, major, major, median, public, median, big, much, likely, find, library, fulltime, whole, correlation, weak, actuarial, bestpaid, high, much, weak, likely, significant, major, new, applicant, assistant, degree, onefifth, young, high, table, new, recent, underemployment, underemployment, average, much, major, underemployment, different, ranking, major, likely, underemployed, major, natural, average, likely, stuck, human, noncollege, underemployment, relative, degree, worrisome, underemployed, retail, culinary, underemployed, third, major, bad, artist, top, truth, major, likely, lowwage, clinical, overall, median, recent, major, clinical, major, graduate, substantial, clinical, major, median, advanced, medical, median, medical, major, huge, many, medical, economic, full, big, financial, graduate, likely, modest')
+
+('VBG', 'picking, heading, boosting, planning, learning, lowestpaying, working, according, factoring, rising, lowestearning, taking, graduating, ending, skipping, according, highestpaying, whopping, struggling, becoming, becoming, accounting, reporting, switching, switching, majoring, mining, working, pulling, highestpaying, lowestpaying, bestpaying, specializing, earning, highpaying, considering, paying, working, wellpaying, avoiding, finding, burning, posting, falling, rising, ranking, manufacturing, lowpaying, majoring, working, starving, working, misleading, going')
+
+('VBD', 'filed, premed, prepared, fed, found, saddled, bet, posted, oilfield, bestpaid, rank, paid, found, got, worked, worked, found, knew, chose, joined, earned, premed')
+
+('JJR', 'higher, better, higher, narrower, higher')
+
+('VB', 'get, seem, chosen, better, mean, gotten, drive, know, find, endure, builtin, pay, cut, pay, look, make, expect, help, make, help, graduate, make')
+
+('NNS', 'data, github, data, datacollegemajors, angeles, odds, earnings, disentangle, data, reveals, grad, maximizes, minimizes, earnings, earnings, economics, economics, astrophysics, data, data, earnings, odds, earnings, earnings, earnings, earnings, data, twothirds, people, people, earnings, earnings, threequarters, earnings')
+
+('VBP', 'github, walk, kevork, link, look, require, degree, earn, make, include, end, prospect, need, make, earn, calculus, follow, remote, earn, make, make, make, stand, make, engineer, scientist, engineer, find, come, find, prefer, require, wait, require, require, earn, require, find, pay, require, art, enjoy, earn, enjoy, get, get')
+
+('JJS', 'least, worst, least, least, least, least, least, least, lowest, biggest')
+
+('VBN', 'known, shown, informed, earned, considered, minted, put, come, come, published, round, paid, employed, compared, tied, paid, oriented, stuck, paid, earned')
+
+('VBZ', 'earns, tends, reflects, reflects')
+
+('NNP', 'zoology')
+

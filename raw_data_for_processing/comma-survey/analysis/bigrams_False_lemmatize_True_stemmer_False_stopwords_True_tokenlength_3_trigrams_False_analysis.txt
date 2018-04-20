@@ -1,0 +1,45 @@
+Article: comma-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 889
+Raw number of types: 370
+Raw Type token ratio: 0.4161979752530934
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 365
+Number of types: 262
+Type token ratio: 0.7178082191780822
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, elitist, oxford, comma, walt, hickey, grammar, get, github, github, datacommasurvey, dictionary, university, press, birthplace, oxford, comma, caleb, lot, oxford, comma, comma, thing, blight, jfk, stalin, dancer, expert, think, audience, poll, june, camp, comma, sentence, opinion, person, kind, person, kind, latter, oxford, comma, none, result, middle, prooxford, vote, opponent, tyranny, comma, percent, number, cantor, victory, mcintyre, longtime, editor, language, blog, author, editor, merrill, adjunct, professor, columbia, school, journalism, york, time, owner, editorial, company, perlman, grammar, rule, sentence, mouth, loyalty, rule, mcintyre, blunt, passion, oxford, comma, effect, majority, oxford, comma, partisan, trouble, heart, mind, comma, kind, survey, grammar, excellent, type, perlman, grammar, think, sentence, conjunction, end, preposition, etc, knowing, rule, explanation, thing, involve, latinate, reference, part, speech, goal, matter, peace, use, comma, writing, preference, mcintyre, edit, baltimore, sun, press, stylebook, point, omit, perlman, middleoftheroad, view, rabid, comma, series, follower, journalism, year, believe, rule, matter, grammar, matter, clarity, note, interest, fivethirtyeight, particular, noun, term, majority, respondent, percentagepoint, margin, percent, respondent, percent, half, respondent, usage, survey, issue')
+
+('JJ', 'superfluous, popular, american, english, list, grammatical, unnecessary, insufferable, ahistoric, comic, exotic, grammatical, average, american, surveymonkey, american, respondent, correct, important, loyal, important, loyal, former, much, percent, extra, eric, clear, controversial, pro, say, sun, old, perlman, graduate, veteran, new, email, suspect, rap, ungrammatical, instill, deep, comic, passionate, rival, oxford, zealous, humble, many, good, good, rule, good, hear, coherent, deep, unambiguous, oxford, pure, personal, serial, simple, formative, bad, exist, final, relevant, preferred, singular, plural, plural, conclusive, vast, singular, crowd, prior')
+
+('VBN', 'polled, filed, published, spilled, seen, split, come, learned, found, thought, associated, used, put, thought')
+
+('NNS', 'data, data, jones, oxfordians, people, people, people, people, linguistics, people, data, data, data, data, data')
+
+('VBP', 'ink, go, say, know, think, tend, prefer, tend, tell, think, think, start, exist, prefer, think, say')
+
+('VBD', 'dressed, weighed, fivethirtyeight, ran, fell, asked, asked, said, taught, accompanied, escaped, feigned, performed, wondered, said, lost, said, took, drummed, asked, put')
+
+('VBG', 'asking, commanding, grabbing, consulting, posturing, winning, following, parsing, following, knowing, using, liking, preferring, pressing')
+
+('JJS', 'honest, honest')
+
+('VBZ', 'partisan, follows, seems')
+
+('VB', 'defeat, le')
+
+('NNP', 'knuckle')
+

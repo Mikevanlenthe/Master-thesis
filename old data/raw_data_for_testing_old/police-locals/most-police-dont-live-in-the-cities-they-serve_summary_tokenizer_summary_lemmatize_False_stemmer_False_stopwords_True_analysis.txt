@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 706
+Raw number of types: 268
+Raw Type token ratio: 0.37960339943342775
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags tags police data police data gaps police cities datapolicelocals officers demonstrators images protests twothirds officers limits cities twothirds cities forces officers officers cities ones resides officers ones officers workers cities demographics data police officers cities cities forces officers limits figures officers boundaries angeles police officers limits differences factors cities officers officers limits officers cities populations officers ones officers cities requirements angeles police officers boundaries regulations degrees data police officers officers limits boundaries years officers ones data data communities events debates years details cities officers readers numbers reasons officers others officers data police forces numbers estimates counts officers varies plays data boroughs data data limits suggests')
+
+('VBP', 'nate eeoc philadelphia reflect require live sheriffs missouri continue differ')
+
+('NN', 'silver ferguson github github police group arrest tuesday ferguson ferguson officer month population percent police force disparity misrepresentation police city ferguson something majority police town diversity police force york example percent police force figure percent york police city percent employment opportunity commission census bureau detail composition government post analysis city police force census detail police percent police city honolulu residency share city city police city philadelphia percent percent district percent miami city combination composition residency requirement police geography police percent city percent police disparity example police city percent tennessee jackson majority residency example city city boston residency requirement police example census bureau half city geography role jacksonville police city city share population contrast city population percent police force town city residency requirement clause city force police advantage provision percent percent population effort census police residency requirement debate requirement town regard table category github note census bureau census category police transit jurisdiction police department census category security census size margin error census correction version article police city raedle ferguson boston city charge commute serve starkest memphis require move take spotcheck relax shape police teenager type police percent city percent birmingham florida metro ferguson mean stark average include reflect impose washington louis philadelphia atlanta police police work')
+
+('JJ', 'getty missouri percent percent percent ferguson ferguson live live live percent average proper eeoc civilian black racial suggestive racial many common major american statistic black hispanic likely white high racial seventyseven black hispanic true white equal racial large american racial many available major racial black hispanic white black black white black large racial high small white likely outside black available small many strict active searchable private complete previous live live live live live live live required vary live asterisks chicago detroit provide live')
+
+('JJR', 'fewer outlier')
+
+('JJS', 'largest largest')
+
+('VBD', 'detailed flouted said metro enforced included detailed')
+
+('VBN', 'alerted detailed filed allowed changed given used compared required estimated come discovered')
+
+('VBG', 'going shooting living reporting following troubling varying living sprawling arguing using')
+
+('VBZ', 'counts comes includes includes')
+
+Token analysis after pre-processing 
+Number of tokens: 448
+Number of types: 209
+Type token ratio: 0.46651785714285715
+

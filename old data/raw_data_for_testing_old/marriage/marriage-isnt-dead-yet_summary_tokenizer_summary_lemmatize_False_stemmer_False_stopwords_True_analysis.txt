@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 866
+Raw number of types: 334
+Raw Type token ratio: 0.3856812933025404
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags generations children women married exists data images stripes groups others states numbers generations children children mirrors trends incomes jobs trends people ages forecasts americans years groups patterns americans ages groups people graduates rates people children children women children women degrees women children women children words children children mothers children mothers attitudes respondents graduates results lines divisions rates jobs jobs women cases ideas results terms rates ages jobs americans rates americans ages decades americans families ones numbers americans twothirds children waits reveals shows americans americans rates americans graduates graduates americans ages exists')
+
+('JJ', 'tags edor venice teyssot majority3 percent requirement important right getty steady10 dead alamuddin casselman amal wednesday regardless pattern divide dead british important last 34year broad likely unlikely different many likely last young fundamental impossible unmarried solid steady reasonable general clear different possible different young ready strong young high obsolete socioeconomic similar political last young likely nevermarried prospective steady moral religious much similar actual steady third steady steady identical likely current high young lesseducated similar affluent different real important high related married married marry follow appear degree diploma decide married married married doubled behavior west suggest interesting married married broken married employed divorced continue decide married')
+
+('NN', 'marriage marriage github github datamarriage palm beach florida raedle getty george clooney lawyer marriage trend distinction marriage research center week report decline marriage percent today trend race education income characteristics2 marriage marriage fact rate marriage story marriage plan economy stagnation disappearance college marriage employment tend hand hand report week quarter estimate extrapolation problem marriage moment time person question life percent path decade chart marriage education rate college trend decade story decline steeper college fact marriage generation piece evidence wedlock college half versus percent college range college marriage something marriage rate school diploma percent rate rate evidence divergence marriage survey school marriage versus percent college survey division income race orientation report week reason marriage decline employment education marriage college degree survey percent spouse husband beliefs percent education percent percent survey education help education population survey school work percent college degree9 distinction divorce percent rate education divorce rate college degree percent divorce rate income divorce rate picture decline marriage school marriage percent marriage pierre percent poorer borne actor celebrate marry marry help marriage philogene divide divide degree marriage rate4 pattern bachelor three6 percent requirement half job8 percent degree arrive hidden affluent today today marriagechildren high smaller7 reveal paint poorer bachelor tend earn degree explain split held marriage')
+
+('VBD', 'sept collegeeducated lesseducated lesseducated lesseducated married married educated educated married filed divorced wrote said married agreed ranked')
+
+('VBP', 'behavior degree turn link marry assume images americans americans figure diploma marriage trends')
+
+('VB', 'marriage overstate')
+
+('VBG', 'declining getting overarching delaying skipping cutting delaying abandoning getting getting getting focusing raising shifting becoming falling including raising finding according rising')
+
+('VBN', 'collegeeducated collegeeducated collegeeducated lesseducated lesseducated united married educated divorced based given done married fallen accelerated compared married taken released estimated suggested')
+
+('VBZ', 'nongraduates suggests lies gets reflects makes comes comes')
+
+('JJS', 'least least least')
+
+('JJR', 'older older fewer poorer lower higher')
+
+Token analysis after pre-processing 
+Number of tokens: 499
+Number of types: 258
+Type token ratio: 0.5170340681362725
+

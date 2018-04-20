@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1431
+Raw number of types: 492
+Raw Type token ratio: 0.3438155136268344
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 616
+Number of types: 306
+Type token ratio: 0.4967532467532468
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'pol poll thing bush harri kickoff florida bush joel plosz florida bush joel money everyth thing presidenti campaign bush enter presidenti campaign today talk goal month money matter bush cash attent governor member bush week bush unveil raft state deleg marco rubio race member governor senat anyon field besid rand paul pick member congress home state race poll nation poll speck hampshir poll tier iowa bush weight point governor point point point account percent bigwig field word none process use parti decid action relationship nation primari vote primari bush problem lead thirteen point percent leader campaign sinc mitt romney consid frontrunn time number john mccain struggl summer percentag point share meanwhil bush brother time number percentag point share point race comparison race democrat contest dick gephardt democrat caucu fare problem race serv leader earli evenli potenti option bush wrap money bush gobbl presidenti court unit decis presidenti sampl size tripli postcitizen unit judg effect spend tri explain vote primari candid use campaign sinc time money raised3 word money tell race campaign predict check github use piec phil crane race robertson phil gramm rudi giuliani money rais point race count field fundrais year leader race crane robertson gramm giuliani le weight money result race look democrat count half eventu point field race ultim money june year primari michael percent money rais point percent money percent money lead money support simpli dismiss whatev money take race grab money help money rais independ group power money rais pac form develop money predict donat individu foretel support bush haul year le pac rais donor money matter strength bush super edg inform bush percentag chanc win base years5 count pac percent money rais field bush percentag chanc win reason thing bush base thing poll shot candid candid combin shot envis')
+
+('JJ', 'weak frontrunn file former former certainli former super fundrais ignor stori plenti offici hous particular last pol includ republican hous normal fellow floridian bush current hous republican candid bush lead second weak frontrunn great republican unusu offici earli eric applemandemocraci clear earli percentag nonincumb larg lead nomin larg earli weak bush bush bush nearli nearli freeforal hous hous gephardt minor hous split fairli candid open true republican sinc suprem noncampaign analysi small true studi elect hard outsid eventu give roughli fundrais nearli third republican crane giuliani actual candid nowher clear sixth republican previou declar last democrat frontrunn candid percent john eventu nomine bush super extra clear super predict candid super current recent sure futur mean super earli organiz candid nomin past super candid larg pretti primari easi')
+
+('NNS', 'florida endors endors endors endors els endors endors endors repres endors choic endors endors data endors candid endors endors endors endors endors endors endors endors endors endors endors endors endors endors endors data endors endors endors endors endors someth endors endors endors')
+
+('VBP', 'offici go clearli senat florida forma echo posit bush point earli homest import eventu primari impress primari point point chair keep seem super elect elect explos spend elect fundrais percentag tell fundrais dukaki point point elect differ know say seem tell win')
+
+('VBD', 'mostli senat made determin candid sinc georg began citizen weight selffunding4 went fight candid')
+
+('JJS', 'homest least closest weakest safest')
+
+('VBG', 'meaning')
+
+('VB', 'run hold hold vote make earn foretel rais larg rais cours addit percent impress percent lose')
+
+('VBN', 'given taken')
+
+('VBZ', 'someth')
+
+('JJR', 'easier')
+

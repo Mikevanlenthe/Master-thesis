@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1233
+Raw number of types: 465
+Raw Type token ratio: 0.3771289537712895
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 521
+Number of types: 307
+Type token ratio: 0.5892514395393474
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'mani american shawkat duval pose dear daryn western daryn estim individu second mean first second intermarriag confus second greatgrandpar individu coeffici second niec estim peopl second plenti anoth unabl individu studi human western publish much common first indian unawar major becam queen bittl global download australia estim notic global rare peopl second social marriag includ keep secret rel high global marri second america legisl statutori practic cousin relat cousin mortal note matern educ nsgc publish task forc first percent unrel great daryn uncomfort first high small convent hard relat relat')
+
+('NN', 'marri cousin mona chalabi file mona michael cera alia attend premier arrest develop london filmmag michael cera alia shawkat cocktail parti script develop angel kevin winter getti imag mona percentag marriag percent marriag unit state cousin peopl america relationship ask cousin research cousin benchmark consanguin commonli brief daryn cousin someon share firstcousin marriag ask type consanguin relationship pronounc konsanggwineeuh case struggl assess research give relationship coeffici number relat inbreed coeffici anyth cousin consid consanguin includ relationship peopl nephew percent marriag cousin need treat caution thing state marriag state restrict exampl arizona firstcousin marriag peopl reproduc law reluct consanguin relationship result undercount relationship percent estim base conduct unit state share chang sinc email alan bittl professor centr genet edith cowan spent year research consanguin paper topic bittl relationship rel rise america immigr immigr consanguin countri fact becam interest topic research trip institut scienc bangalor marriag popul hand daryn interest question attempt piec togeth preval consanguin find summar number includ percent marriag take perspect consanguin countri studi consanguin relationship percent marriag countri percent marriag cousin burkina faso estim marriag consanguin mani reason marriag rel part world sociolog studi relationship rel stabl coupl relationship reason health financi idea hidden stranger parent relationship inlaw preval reason studi consanguin percent world popul cousin product union peopl marriag cousin prohibit state variou aspect marriag includ mentalcapac restrict age antimiscegen law ban cousin marriag introduc time part postcivil need person matter today highli stigmat partli health concern preval recess genet diseas offspr coupl rate estim percent howev research control factor birth space socioeconom statu correl consanguin health outcom health risk shift nation genet counselor look specif risk cousin estim health risk percent parent conclud deal stigma associ cousin union unit state canada littl biolog basi mayb notion romant relationship cousin inbreed popul name figur blood interest incest spoiler use genealog databas user check hook hope number help question send monachalabi dearmona fivethirtyeightcom')
+
+('VBP', 'dear read dear know remind bittl think sinc view favor maintain secur chanc affect consensu appear find offspr develop iceland')
+
+('VBD', 'fred closer found consanguin inbreed told told everi found began oversight')
+
+('VBZ', 'cousin cousin cousin brows consanguin')
+
+('NNS', 'australia univers australia elizabeth women children children children children coeffici')
+
+('VBN', 'known born born born')
+
+('JJR', 'higher older closer higher higher higher answer')
+
+('VB', 'make relev stay countri make mona like')
+

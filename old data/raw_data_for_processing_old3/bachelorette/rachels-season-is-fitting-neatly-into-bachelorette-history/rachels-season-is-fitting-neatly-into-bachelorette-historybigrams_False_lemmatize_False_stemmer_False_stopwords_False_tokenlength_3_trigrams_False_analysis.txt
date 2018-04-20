@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 678
+Raw number of types: 296
+Raw Type token ratio: 0.4365781710914454
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 457
+Number of types: 252
+Type token ratio: 0.5514223194748359
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rachel season history walt hickey ella koeze github github databachelorette jul home stretch season bachelorette time preseason bachelor bachelorette analysis attorney texas field challenge rachel season elimination demario girl television roseceremony eliminations1 favor season power firstimpression contestant move day recipient bryan anything dean oneonone date rachel bit anything season proof half twoonone date twoonone date percent contestant competition doom kenny head serpentine lee date proper rachel guy week history season time contender bachelor bachelorette point value value oneonone smallgroup largegroup oneonone date twoonone half date threeonone onethird date peter dean neck neck time rachel break week move adam matt everyone time rachel week chance thing harsh reality rachel meet point bestcase scenario man love thing')
+
+('VBG', 'fitting going breaking going remaining considering assigning speaking going counting coming getting getting')
+
+('JJ', 'bachelorette perfect rigorous previous unscheduled nice aggregate historical strongest final hometown real peter early tend mean next lee head kenny following next much exclusive final bryan eric late oneonone top poor first last shocking total finale crazy')
+
+('VBN', 'filed published held narrowed seen broken given sight learned doomed gone won gone eliminated bounced eliminated proceeded had spend based rejected been gone')
+
+('VB', 'get check rachel lindsay have bryan say have')
+
+('NNS', 'data data gentlemen contestants men dates men dates predecessors dates folks people dates dates years survivors weeks weeks participants cases twoonones hometowns dates dates dates dates dates men terms numbers dates men families dates')
+
+('VBZ', 'means has has seems reinforces makes has comes has has dates has gets')
+
+('VBD', 'did eliminated rose rose had wrote won went were was decided looked spent was met were had engaged')
+
+('VBP', 'handle love have twoonone are are are spell are are are are stand are chart')
+
+('JJR', 'more higher better better better more more')
+
+('JJS', 'most')
+

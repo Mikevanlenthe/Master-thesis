@@ -1,0 +1,48 @@
+Article: nba-elo
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 770
+Raw number of types: 359
+Raw Type token ratio: 0.4662337662337662
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 577
+Number of types: 317
+Type token ratio: 0.5493934142114385
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'rate, team, method, elo, measure, strength, gamebygame, nba, franchise, game, history, formula, score, game, credit, houston, conference, semifinal, los, rating, average, league, expansion, rating, team, zoom, history, surprise, chicago, regularseason, elo, rating, state, game, championship, end, season, peak, elo, playoff, record, chicago, slump, title, game, season, los, elo, rating, part, competition, expansion, league, chamberlain, jerry, team, end, era, perception, retirement, season, streak, jan, elo, rating, rating, season, title, respect, boston, dominance, elo, doesnt, care, playoff, rating, hung, era, team, elo, rating, antonio, team, lot, time, season, york, basketball, nov, elo, rating, franchise, history, york, close, season, time, rating, nov, team, closest, aba, moment, linsanity, play, glory')
+
+('NNS', 'nba, decades, results, ratings, ratings, ratings, inputs, teams, points, victories, margins, ratings, rockets, points, games, playoffs, clippers, points, teams, bulls, bulls, wins, warriors, finals, bulls, games, supersonics, seattle, finals, games, digits, lakers, games, lakers, lakers, years, veterans, years, baylors, games, lakers, wins, points, teams, lakers, franchises, celtics, celtics, titles, sports, rings, celtics, opponents, seasons, achievements, celtics, years, lakers, spurs, celtics, knicks, bestknicks, willis, knicks, things, games, playoffs, knicks, franchises, bucks, nets, knicks, johnsons')
+
+('VBP', 'play, have, are, gain, get, elo, are, begin, explore, hit, take, lead, elgin, west, peak, get, least, elo, have, reed, title, are, march, feb, larry')
+
+('JJ', 'simple, elo, aba, total, elo, simple, only, final, elo, upset, elo, final, western, elo, average, league, select, golden, nba, fourth, nba, few, next, double, greatness, nbas, rapid, span, several, old, wilt, consecutive, sixth, first, dont, nba, modern, weak, lackluster, regular, relative, good, much, aboveaverage, current, san, common, similar, long, great, new, walt, little, new, regular, awhile, other, active, next, former')
+
+('VBN', 'based, played, zerosum, expanded, bulls5, surpassed, watered, gone, supposed, taken, fallen, been, elo')
+
+('VBD', 'calculated, was, gained, meant, lost, was, had, were, picked, stomped, went, had, was, had, anchored, was, strengthened, reeled, was, did, won, unparalleled, maintained, put, peaked, was, led, were, were, went, was, won, had, were, daylight, lived')
+
+('VBG', 'winning, winning, winning, depending, losing, clinching, going, middling, aging, approaching, raising')
+
+('JJR', 'more, larger, higher, lower, frazier, less')
+
+('VBZ', 'angeles, has, angeles, franchises, celtics, has, has')
+
+('JJS', 'best, best, highest')
+
+('VB', 'improve, win, knocks, streaks, dave, hit')
+

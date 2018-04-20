@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2844
+Raw number of types: 679
+Raw Type token ratio: 0.23874824191279886
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 1127
+Number of types: 412
+Type token ratio: 0.36557231588287487
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'trump reluct voter reluct fivethirtyeight trump administr github github datareluctanttrump week polit voter help trump transcript edit micah micah cohen polit editor time polit today littl differ particularli trump speech arizona night aim support chat talk reluct trump voter speech steve bannon departur clare group definit claremalon clare malon polit writer middleag rel welleduc le brand parti vote presid trump enthusiast cast ballot novemb micah batch surveymonkey group adult throw result talk head voter vote trump vote trump answer adult interview sourc surveymonkey pretti differ claremalon trump avenu peopl number reluct peopl vote trump clinton hope name seriou organiz problem voter worri harri harri polit writer question realli interest percent sampl countri reluct trump sampl view averag voter trump voter nate silver editor chief agre clare vote trump resort state countri quit number vote behavior harri agre hug micah bore love micah approv disapprov presid trump handl voter vote trump vote trump approv disapprov adult interview sourc surveymonkey harri voter time test earli june percentag reluct trump voter approv presid percentag point percent fairli slide natesilv sorta cut talk point alien vote fact number surfac reluct support percent strongli approv trump percentag percent strongli disapprov perform harri percent strongli june claremalon note survey field aftermath charlottesvil trump arizona speech micah trump reluct group harri depend necessarili translat vote trump democrat demon trump voter kick part peopl trump chanc dynam prevail time conserv percent conserv le voter percent claremalon imagin democrat candid yeah question minut trump reelect voter vote trump vote trump answer survey adult interview sourc surveymonkey claremalon point question sincer voter pundit skip vote think reluct trump suddenli decid resign sort cope mechan peopl sort point sort trump behavior micah speak today voter vote trump vote trump definit vote trump probabl vote trump probabl vote someon vote someon adult interview sourc surveymonkey claremalon percent vote vote match someon hypothet rate harri imagin someon john kasich marco penni michael question ask gener return question kind democrat democrat voter someon claremalon case vote approv reluct trump voter trump voter micah harri trump voter trump vote point mayb dream candid micah question talk bannon presid trump resign remov offic penni voter vote trump vote trump presid trump trump differ presid trump answer adult interview sourc surveymonkey micah realli reluct trump voter question harri thing trump voter respond penni question ask view favor rate reluct trump voter percent realli comparison rate percent trump support reluct trump support clearli prefer gener trump micah penni gener natesilv yeah gener hell claremalon penni presid pretti term parti thing gener offic leader trump reluct way sort player role play scene headlin chang presid penni presidenti penni thing harri reason trump bigtim conserv wonder percentag peopl penni becam conserv question reluct voter trump micah andor primari natesilv repeat time voter dislik trump clinton accord exit poll percentag point trump voter dislik split evenli vote point point elector colleg margin claremalon kinda ripe rossperotredux harri mayb perot micah part question surveymonkey poll bannon departur bannon departur trump administr voter vote trump vote trump answer adult interview sourc number harri lack divid excit trump voter interest claremalon peopl narr bannon think trump move base trump voter fact reluct voter moder le claremalon bannon power base sort natesilv reluct trump voter describ conserv surveymonkey poll percent describ moder oppos trump case trump voter view impact bannon leav medium influenc bannon trump administr voter vote trump vote trump influenc amount answer adult interview sourc harri interest nonexcit support bannon trump right amount peopl trump moder trump chang behavior takeaway trump reluct trump group month base question effect claremalon trump disorderli conduct rhetor vote place takeaway focu voter le peopl interest view trump fairli nuancedlay import trump longterm success')
+
+('VBP', 'get seem devot arizona wake give make make enten know tell closer averag expect appear think seem consequ reelect reelect definit tell dream think make reelect excit wait say approv want think presid want think penni favor darn partier make independ challeng want think steve differ make seem steve take seem seem steve find peopl want make stand make realli stay')
+
+('JJ', 'file crucial weekli someth tuesday squar administr charlottesvil write senior white loyal republican excit perfect direct wrong direct trump excit excit direct wrong direct huge someon fifth mean trump legisl accomplish unenthus senior right direct wrong direct overal right direct mean enthusiast natesilv peopl last happi harri sure right direct translat harri next trump excit excit trump last substanti trump peopl percent entir obvious reelect mean lukewarm unwilling candid republican partisan instinct trump clinton unlik next major trump difficult micah presid trump excit excit straight notic uptick wish democrat republican elect excit excit lean huge unnam approv voter other guess elect clare manchin harri particular percentag mean nate trump excit excit mean noteworthi excit natesilv separ great nonreluct republican republican glad ask social fiscal long sort republican natesilv right sure candid becom social clear social natesilv kasich statist trump worth candid popular decent last leav trump excit excit surveymonkey realli mean notexcit american presid administr guess bannon sure think excit loyal everyth light outweigh bannonish breitbart percent le republican micah realist last much trump excit excit much influenc influenc surveymonkey trump influenc think polar harri sure other someon main approv white hous peopl want natesilv matter')
+
+('NNS', 'data data pleas data cours sens wors els els els sens harri wors wors penni potenti conserv penni wors wors presid immigr anyon data wors organiz nervou')
+
+('VBZ', 'check hillari agre dislik someth rubio coupl')
+
+('VB', 'donald go feel feel shoot love take result chang go feel run take hold lure call feel trump vote look lure vote kamala harri mike better want convent see democrat midterm')
+
+('VBD', 'welcom said especi lukewarm said bloomberg pretti wrote shield went lost shadow thought websit claremalon harri')
+
+('VBN', 'given come held')
+
+('JJS', 'biggest midwest')
+
+('JJR', 'higher voter smaller bigger')
+

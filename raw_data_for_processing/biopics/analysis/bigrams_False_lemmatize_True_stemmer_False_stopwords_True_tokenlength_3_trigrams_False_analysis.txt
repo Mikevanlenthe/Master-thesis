@@ -1,0 +1,47 @@
+Article: biopics
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2262
+Raw number of types: 786
+Raw Type token ratio: 0.34748010610079577
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 1053
+Number of types: 623
+Type token ratio: 0.5916429249762583
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'aug, compton, biopic, dude, hannah, fingerhut, movie, get, github, github, drama, compton, profile, rap, group, invision, rapper, dre, laylaw, doc, front, ice, cube, ren, yella, photo, compton, tour, kemper, arena, city, missouri, raymond, boyd, michael, image, theater, compton, story, hiphop, group, rapper, compton, california, place, music, industry, film, count, member, ice, cube, dre, producer, mainstream, hollywood, biopic, release, couple, dozen, color, decade, footage, interview, dramatization, reallife, event, life, hollywood, statement, significance, figure, filmmaker, matter, ignore, feature, woman, fare, biopic, woman, theater, quarter, biopic, woman, analysis, imdb, film, life, century, percent, biopicture, race, ethnicity, percent, improvement, presence, woman, hollywood, story, society, friend, fusion, result, hollywood, space, report, medium, diversity, change, university, california, representation, race, gender, lgbt, status, film, character, top, highestgrossing, movie, woman, color, group, biopic, subject, analysis, woman, color, person, color, actress, play, cleopatra, film, woman, color, actress, time, actor, color, emiliano, zapata, viva, zapata, film, mighty, heart, angelina, jolie, journalist, mariane, pearl, descent, mother, side, number, feature, film, biography, genre, state, canada, audience, film, sample, character, film, person, name, information, mean, list, film, drama, something, example, rae, belle, story, drama, drama, romance, number, film, sample, result, analysis, place, start, information, methodology, footnotes5, gender, imbalance, product, industry, structure, value, film, biopic, figure, life, century, structure, time, word, context, film, sense, production, culture, society, industry, filmmaker, france, negrónmuntaner, professor, columbia, university, extent, hero, world, contest, woman, film, time, physicist, marie, curie, madame, curie, woman, norm, latter, film, status, woman, man, field, bingham, english, professor, director, film, study, indiana, university, indianapolis, amount, dialogue, fact, woman, bread, mother, leadership, role, field, film, pointing, film, woman, midcentury, leader, world, figure, lincoln, thomas, edison, model, actress, boxer, muhammad, ali, number, film, decade, person, color, digit, decade, time, subject, color, subject, color, factor, ratio, female, decade, sweden, queen, christina, film, mgm, studio, transition, culture, trend, film, aim, divulge, hairy, detail, life, bingham, research, woman, woman, lot, trouble, life, life, movie, ideology, bingham, percent, woman, actress, dancer, woman, life, man, manhattan, sedgwick, artist, warhol, experience, peril, fame, fame, shame, line, roth, cry, tomorrow, spiral, face, relationship, drug, addiction, business, perspective, cost, moment, history, life, story, drama, entertainment, value, seat, industry, power, structure, bingham, glass, ceiling, budget, film, woman, studio, subject, film, reach, viewer, studio, reticent, spending, money, color, athlete, activist, fall, category, race, ethnicity, woman, film, activist, america, malcolm, martin, percent, entertainer, richard, pryor, film, industry, vision, history, york, university, hollywood, executive, hero, bright, scientist, artist, get, world, leader, president, nelson, mandela, subject, selena, quintanillaperez, latino, latino, sample, spaniard, descent, see, madonna, perón, evita, genre, improvement, diversity, woman, produce, hollywood, discrepancy, bingham, belief, trend, film, television, film, color, mass, audience, netflix, opportunity, audience, scale, latifah, singer, bessie, smith, hbo, bessie, join, film, liberace, temple, grandin, animalhusbandry, expert, autism, film, diversity, gender, lgbt, status, feature, film, filmmaker, television, work, television, project, hollywood, look, bingham, correction, aug, version, article, woman, theater, summer, testament, youth, june, year')
+
+('VBD', 'straight, straight, nwa, left, straight, nwa, summer1, made, deemed, spotlight, found, maledominated, found, worstrepresented, looked, biopic, cast, played, played, categorized, included, found, classified, told, controlled, made, said, celebrated, rattled, made, said, said, thought, made, outnumbered, came, noticed, struck, said, featured, singer, propelled, put, decided, featured, said, included, latina, made, starred, said, said, came')
+
+('JJ', 'rare, white, outta, chris, pizzello, eazye, pose, straight, archive, getty, friday, outta, young, rap, mainstream, original, nwa, exceptional, wide, documentary, raw, actual, interpretation, important, profitable, try, subject, historical, cultural, funding, much, genre, one2, summer3, subject, biographical, important, white, 20th, subject, able, determine, white, subject, vast, degree, white, similar, white, social, initiative, southern, white, male, demographic, white, subject, egyptian, queen, white, white, brando, mexican, revolutionary, recent, afrochinesecuban, imdb, united, profile, total, subject, actual, real, subject, demographic, comprehensive, many, biographical, genre, musical, norma, true, imdb, biographical, racial, societal, several, historian, early, subject, prominent, public, great, white, 20th, social, political, economic, separate, important, great, great, modern, much, subject, famous, oakley, social, particular, clear, subject, exceptional, dennis, university–purdue, bake, male, exceptional, shifted, modern, cultural, sedgwick, single, many, white, subject, white, subject, male, subject, female, subject, biographical, subject, popular, new, subject, personal, common, right, serious, much, successful, fit, interesting, twentythree, sample, showgirl, many, public, ciao, stardom, andy, tag, actress, lillian, subject, catastrophic, high, recreate, subject, enough, theater, successful, past, particular, multiple, demographic, musician, particular, half, sample, subject, sample, black, african, africanamerican, subject, black, king, africanamerican, subject, athlete, comedian, believe, instrumental, stigmatized, black, jeffrey, new, promote, strong, forceful, confident, black, musician, statesman, black, sample, former, south, african, hispanic, usborn, hispanic, hispanic, latin, american, many, european, white, eva, direct, write, stark, additional, queen, madefortv, biographical, candelabra, pianist, racial, sample, end, many, theatrical, last')
+
+('VBN', 'filed, revolutionized, based, released, seen, acclaimed, named, made, played, searched, released, based, based, classified, imbalanced, devoted, emerged, released, given, produced, made, considered, shown, given, made, featured, known, marginalized, seen, made, pitched, made, released')
+
+('NNS', 'data, data, databiopics, people, people, biopics, people, biopics, people, data, people, men, men, people, biopics, men, biopics, threequarters, biopics, people, biopics, people, biopics, men, macro, biopics, people, men, men, people, anomaly, people, people, people, biopics, biopics, biopics, biopics, people, people, biopics, sammons, people, people, people, people, biopics')
+
+('VBG', 'performing, according, shocking, analyzing, highgrossing, speaking, looking, featuring, missing, marveling, portraying, portraying, depicting, suffering, failing, depending, going, including, promoting, starring, emerging, going, interesting, going')
+
+('NNP', 'kansa')
+
+('VBP', 'ochs, tell, color, include, offer, make, get, color, genre, color, tend, reproduce, corner, know, marlon, get, hollywood, overlap, think, see, color, annie, color, genre, edie, wart, approach, entertainer, come, chosen, fill, think, color, entertainer, professor, want, refer, remainder, color, remain, reach, reflect')
+
+('JJR', 'greater, larger, farther, smaller, earlier')
+
+('JJS', 'latest, least')
+
+('VB', 'chose, show, keep, succeed, determine, work, offer, appear, see, get')
+
+('VBZ', 'reflects, biopics, abraham, result')
+

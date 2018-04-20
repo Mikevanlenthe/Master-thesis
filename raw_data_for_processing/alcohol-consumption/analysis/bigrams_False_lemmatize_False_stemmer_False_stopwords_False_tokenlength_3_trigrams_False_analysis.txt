@@ -1,0 +1,48 @@
+Article: alcohol-consumption
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1117
+Raw number of types: 441
+Raw Type token ratio: 0.39480752014324083
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 760
+Number of types: 387
+Type token ratio: 0.5092105263157894
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'aug, mona, followup, beer, wine, chalabi, github, github, dataalcoholconsumption, wheat, beer, field, chunnikhel, katmandu, june, shrestha, friday, question, reader, alcohol, percentage, lifetime, world, world, health, organization, abstain, alcohol, consumption, health, organization, drinking, consumption, capita, age, country, consumption, beverage, wine, beer, break, consumption, beverage, government, alcohol, industry, nation, food, agriculture, organization, database, data, alcohol, time, pure, alcohol, alcohol, content, serving, size, beverage, beer, person, country, drink, percapita, table, bottom, article, consume, country, person, year, remember, capita, consideration, wine, consumption, population, france, world, country, beer, person, measure, liquor, shotglass, worth, person, year, country, russia, while, quartz, euromonitor, detail, country, russia, vodka, vodka, phenomenon, brand, smirnoff, vodka, popularity, ally, moscow, mule, vodka, cock, bull, ginger, beer, explanation, availability, state, university, professor, scott, martin, use, grain, food, distillation, wwii, liquor, scotch, rum, push, rum, hurricane, idea, popularity, institute, alcohol, abuse, alcoholism, way, overall, prohibition, alcohol, consumption, person, age, year, year, data, wine, consumption, century, beer, favorite, beer, beverage, availability, price, government, regulation, technology, martin, example, beer, martin, century, refrigeration, beer, produce, transport, home, beer, alcohol, alcohol, consumption, data, table, github, question, fivethirtyeightcom, datalab538')
+
+('JJ', 'dear, nepalese, rice, nepal, niranjan, many, islamic, likely, international, interested, much, national, average, alcohol, type, other, used, united, comprehensible, last, average, average, standard, many, drunk, full, lengthy, french, wine, other, average, fluid, normal, hard, average, grenada, other, average, colleague, tequila, spirit, new, late, new, wwii, simple, green, such, scarce, caribbean, available, popular, email, new, such, new, national, early, late, american, previous, 19th, firm, national, other, alcoholic, due, popular, 20th, perishable, technological, different, international, other, other, muslim, dearmona')
+
+('NNS', 'people, spirits, drinks, data, data, farmers, people, trends, abstainers, countries, data, people, countries, assumptions, trends, glasses, data, data, spirits, records, statistics, liters, comparisons, numbers, results, glasses, cans, shots, spirits, countries, terms, results, data, conforms, people, glasses, figures, abstainers, cans, cans, cans, ounces, measures, measures, ritchie, data, spirits, mexicans, sales, numbers, americans, tastes, spirits, studies, drugs, bars, drinks, orleans, spirits, shows, gallons, gallons, tastes, years, spirits, 1960s, fluctuations, factors, innovations, cans, bars, days, choices, ones, countries, people, servings, spirits, countries, countries, populations')
+
+('VBP', 'drink, mona, get, drink, work, alcohol, describes, pure, show, wine, are, drink, stereotypes, wine, are, don, take, germany, assume, are, ask, choose, favorite, america, have, briefly, are, american, wine, have, have, send')
+
+('VBN', 'filed, drink, compared, consumed, taken, compared, consumed, spirit, used, purchased, made, needed, opposed, imported, data, been, been, consumed, answered')
+
+('VBD', 'responded, wanted, had, had, conformed, was, ordered, converted, were, was, took, was, was, was, said, had, was, created, rose, fell, was, had, caught, consumed, said, explained, was, was, became, looked, followed, recorded')
+
+('VB', 'know, mine, isn, know, make, find, higher, look, storm, alcohol, get, take, sell, drank, find, like')
+
+('VBG', 'looking, using, being, being, knocking, serving, drinking, drinking, beerdrinking, including, king, working, according, capitalizing, marketing, changing, according, bowling, going, peaking, rising, changing, bottling, purchasing')
+
+('JJS', 'least, biggest, highest, least, most')
+
+('VBZ', 'isn, wants, has, presents, sizes, glasses, drinks, yes, does, alcohol, has, demonstrates, has')
+
+('JJR', 'liter, more, more, more, less, easier, more')
+

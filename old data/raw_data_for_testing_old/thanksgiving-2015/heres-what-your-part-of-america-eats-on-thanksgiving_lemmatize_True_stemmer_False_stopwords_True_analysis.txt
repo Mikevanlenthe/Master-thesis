@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 702
+Raw number of types: 330
+Raw Type token ratio: 0.4700854700854701
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'part america walt hickey food github github datathanksgiving2015 turkey bird farm sonoma california year justin sullivan image shore mass medium consumption game midst plan point santa claus float macy parade week christmas music radio right food thing bring nation faction bird audience poll tradition respondent chicken pork roast beef cursory turkey rule percent respondent meat centerpiece meal poultry check side distinction region southeast home sauce region percent homemade variety state side percent region percent state cornbread rest country percent region dinner nation southeast percent region menu country england mind percent percent nation pursuit gronk endorse squash something region apple england america potato west nation tradition variation region percent respondent sale family ditch party leave dinner hang school friend respondent time download')
+
+('VBZ', 'eats enjoys unites')
+
+('VBG', 'thanksgiving thanksgiving welcoming finding thanksgiving thanksgiving thanksgiving thanksgiving saying going thanksgiving losing demanding confusing buying thanksgiving checking')
+
+('VBN', 'filed come compared compared done')
+
+('NNS', 'data data thanks others commemorates eats shoutouts prefers america consumes kid data')
+
+('JJ', 'last getty give tale foreign refugee american secret canadian sure third turkey cheap spirit peel holiday bargainbin surveymonday main dish white dish regional consumed side dish definitive cranberry respondent pick middle atlantic cauliflower texas central southern necessary respondent percent form cheese respondent dish percent overall squash table whole finding whole dessert pumpkin pecan sweet america dessert american shit little solid black friday great little early early high percent facebook associate card')
+
+('VBP', 'celebrate identify start carbs include america cherry leave know')
+
+('VBD', 'parade canned assorted said said')
+
+('JJS', 'least midwest')
+
+('VB', 'carve shop worth')
+
+('JJR', 'deeper')
+
+('NNP', 'middle atlantic')
+
+Token analysis after pre-processing 
+Number of tokens: 284
+Number of types: 210
+Type token ratio: 0.7394366197183099
+

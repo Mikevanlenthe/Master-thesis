@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 688
+Raw number of types: 265
+Raw Type token ratio: 0.3851744186046512
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 356
+Number of types: 184
+Type token ratio: 0.5168539325842697
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'america star war movi charact walt hickey file movi github github datastarwarssurvey costum star war seri display dure exhibit cinema saintdeni franc chesnot week fighter star war film product forthcom movi middl trilog provid excus question answer mani star war fan doe rest america empir strike bunch shot greedo poll surveymonkey survey respond june avail github seventynin percent respond war film question incident substanti differ gender percent war film compar percent woman peopl film consid themselv percent compar percent woman respond film respond someon war film war film war episod empir strike film number peopl star war return jedi report war episod phantom menac war star war hope movi subset respond indic star war film question calcul share respond rate film favorit rate film fan camp prequel peopl empir strike favorit rate return jedi rate menac film rate prequel chart show film rate take seri boilerpl format use favor poll state view charact favor unfavor himher respond rate charact seri correctli favor rate personif galaxi impact histor revision')
+
+('JJ', 'favorit favorit cite thi sneak peek recent perfect want peopl clearli welllik hate solo star thi star franchis peopl star star follow peopl star origin star renam ask everi gener peopl overal origin like phantom like thi third second middl third third fourth bottom third second nuanc final pleas unfamiliar ask actual evil know')
+
+('JJS', 'least best least least most best best best worst')
+
+('NNS', 'data data getti respons audienc data movi')
+
+('VBP', 'yoda imag realiz watch have have have episod see have prefer prefer back hope follow bink want have')
+
+('VBD', 'caught said were rank broke said were were took polit read')
+
+('VBG', 'xwing')
+
+('VBZ', 'examin charact probabl star')
+
+('VBN', 'seen seen seen seen given given seen seen seen societi')
+
+('VB', 'ask drill find')
+
+('JJR', 'more higher more higher more lower')
+

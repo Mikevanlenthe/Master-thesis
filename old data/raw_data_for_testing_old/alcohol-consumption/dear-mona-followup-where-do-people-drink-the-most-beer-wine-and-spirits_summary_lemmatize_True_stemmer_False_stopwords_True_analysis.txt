@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1340
+Raw number of types: 402
+Raw Type token ratio: 0.3
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag mona wine spirit mona chalabi github github dataalcoholconsumption beer rice field katmandu june shrestha question reader drink alcohol percentage lifetime world world health organization alcohol alcohol consumption health organization alcohol consumption country consumption beverage wine beer consumption beverage government alcohol industry nation food agriculture organization database pure alcohol time pure alcohol alcohol content size beverage beer person country bottom country person year consideration consumption population france country beer person average measure liquor shotglass person year country russia measure colleague ritchie quartz euromonitor detail country spirit phenomenon brand smirnoff vodka america storm popularity moscow mule vodka cock bull ginger beer explanation spirit availability state university professor scott martin alcohol grain food distillation wwii liquor scotch caribbean hurricane spirit idea popularity institute alcohol alcoholism prohibition alcohol consumption person year year taste wine consumption year century beer beer availability government regulation technology example beer century refrigeration beer beer alcohol country population alcohol consumption question beer wheat average article wine wine world average grenada vodka scarce price home day muslim work show number send farmer trend country country assumption trend glass spirit record statistic comparison number result glass country term result glass figure abstainer ounce measure spirit sale taste drug bar drink gallon gallon favorite spirit briefly beverage fluctuation factor innovation bar choice country country github abstain look push dearmona fivethirtyeightcom datalab538 marketing show le least')
+
+('JJ', 'followup nepal niranjan friday type liter table namibia germany spirit average vodka wwii popular overall martin martin table nepalese many islamic likely international interested much national united comprehensible last average average standard many drunk full lengthy french normal hard tequila american favorite simple green available national late american previous firm national alcoholic popular 20th technological american different international drink choose drank spirit mexican spirit mine find stereotype wine opposed perishable want describes present')
+
+('NNS', 'data data data data data orleans people data people data people data data conforms people data people break find data')
+
+('JJS', 'least biggest highest')
+
+('VBG', 'drinking serving peaking bottling purchasing beerdrinking serving looking using knocking serving drinking drinking including king working according capitalizing changing according bowling going rising changing')
+
+('VBD', 'caput russia rose chunnikhel consumed answered study said consumed followed took wanted said fell became')
+
+('VBP', 'drink consume remember email wine drink abstainer glass drink know know make produce')
+
+('VBN', 'caput used filed compared consumed taken compared consumed used purchased made needed imported responded conformed ordered converted created explained recorded')
+
+('VB', 'fluid transport drink take shot drink take sell')
+
+('VBZ', 'demonstrates')
+
+('JJR', 'higher easier')
+
+Token analysis after pre-processing 
+Number of tokens: 430
+Number of types: 266
+Type token ratio: 0.6186046511627907
+

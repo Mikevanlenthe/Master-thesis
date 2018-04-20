@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 730
+Raw number of types: 241
+Raw Type token ratio: 0.33013698630136984
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag medium tweet sentence story disaster medium sentence hurricane harvey mention state network network maria competitor hint program show journalist medium outlet medium medium storm puerto medium show show rico dhrumil mehta puerto rico github github datapuertoricomedia hurricane health care bill election spat president player president news rico course week hurricane maria database news internet devastation puerto news coverage trend news news hurricane spike conversation puerto hurricane spike texas florida television hurricane cable news hurricane maria network hurricane maria coverage network coverage analysis talk sunday coverage crisis puerto rico mention puerto rico puerto rico status territory reason lack news coverage delivery association statement disaster snyder press coverage devastation attention responsibility poll half google rest show interest mainland storm rico silence issue president visit rico week presence engagement thing puerto puerto past citizen name irma2 cover cover spoke september hurricane le le')
+
+('NNS', 'data suffers data data people maria ricans reveals data data maria')
+
+('VBP', 'medium show search collect show rico rico nahj produce')
+
+('JJ', 'sport delay american anthem archive minute spokesperson dearth puerto citizen cloud primary last sunday national natural little attention1 similar british political many national hispanic unacceptable nationallocal equal recent aware american public initial pas told')
+
+('VBZ', 'seems')
+
+('VBN', 'neglected published compared published aired combined dedicated given planned combined collected mentioned aired made issued')
+
+('VBD', 'filed phrase maria fivethirtyeight trump ignored excepted failed said covered showed')
+
+('NNP', 'rico')
+
+('VBG', 'covering bring getting ramping according speculating calling calling paying coming')
+
+('JJR', 'fewer smaller higher')
+
+Token analysis after pre-processing 
+Number of tokens: 246
+Number of types: 160
+Type token ratio: 0.6504065040650406
+

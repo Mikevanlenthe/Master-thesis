@@ -1,0 +1,48 @@
+Article: san-andreas
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 627
+Raw number of types: 277
+Raw Type token ratio: 0.44178628389154706
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 413
+Number of types: 228
+Type token ratio: 0.5520581113801453
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, rock, walt, hickey, github, github, johnson, charbonneau, film, dwayne, johnson, earthquake, california, box, office, weekend, disaster, movie, formula, world, man, family, rebuilt, idea, film, time, span, california, situation, stuff, way, yellowstone, supervolcano, story, left, coast, time, survey, probability, earthquake, magnitude, california, percent, card, deck, jack, california, earthquake, audience, poll, percent, think, lifetime, pacific, census, region, west, coast, deal, anxiety, percent, region, percent, percent, quake, lifetime, kind, disaster, thing, disaster, buying, kit, evacuation, plan, survey, risk, audience, thing, survey, yellowstone, supervolcano, treat, sense, gosh, magma, yellowstone, anything, check, data, github')
+
+('VB', 'isn, tcl, break, end, come, occur, argue, happen, know, settle')
+
+('JJ', 'alone, worried, big, premiere, san, chinese, eric, san, andreas, catastrophic, past, san, basic, legitimate, sound, geological, tectonic, big, immediate, little, san, geological, geological, next, draw, big, lots, big, massive, catastrophic, surveymonkey, third, big, active, noncontiguous, good, pacific, worried, overall, big, worried, bad, big, such, survival, big, san, favorite, san, last, major, likely, worried, big, much, mississippi, full')
+
+('NNS', 'lots, people, movies, data, data, datasanandreas, andreas, theatre, expectations, andreas, fears, risks, people, andreas, eons, years, people, lifetimes, americans, states, respondents, earthquakes, people, people, lifetimes, times, precautions, people, movies, fears, andreas, andreas')
+
+('VBP', 'are, get, dwayne, abides, are, think, fault, think, are, think, are, need, think, are, have, overestimate, play, have, know, fault, don, are, are')
+
+('VBN', 'filed, destroyed, worried, worried, taken, builtin')
+
+('VBZ', 'attends, turns, makes')
+
+('VBD', 'hollywood, crushed, commissioned, said, were, were, did')
+
+('VBG', 'starring, destroying, beating, pulling, playing, going, coming, according, rocking, according, going, making, according')
+
+('JJR', 'more, lower, larger, more')
+
+('JJS', 'most')
+

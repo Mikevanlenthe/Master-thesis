@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 542
+Raw number of types: 267
+Raw Type token ratio: 0.492619926199262
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 540
+Number of types: 498
+Type token ratio: 0.9222222222222223
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'rachel, charts, suitors, vineyards, years, weeks, shudders, impressions, others, suitors, dates, shows, suitors, destinations, dates, contributions, three charts, between suitors, windswept vineyards, spain seems, rachel shudders, first impressions, waste others, season suitors, group dates, already oneonones, number suitors, international destinations, hometown dates, reporting contributions, season three charts, choice between suitors, amongst windswept vineyards, rioja spain seems, stepped looking weeks, dream rachel shudders, strong first impressions, impressions waste others, during season suitors, dates group dates, peter already oneonones, limited number suitors, season international destinations, final hometown dates, additional reporting contributions')
+
+('VBP', 'lindsay, lindsay, peter, rioja, rachel, worst, bryan, europe, rachel, hickey, rachel lindsay, rachel lindsay, suitors peter, vineyards rioja, shudders despite, dates instead, suitors worst, peter their, destinations western, dates rachel, contributions hickey, bachelorette rachel lindsay, between suitors peter, windswept vineyards rioja, rachel shudders despite, group dates instead, suitors worst strategy, international destinations western, hometown dates rachel, reporting contributions hickey')
+
+('NN', 'bachelorette, season, koeze, wezerek, github, github, databachelorette, threehour, conclusion, season, bachelorette, rachel, choice, abasolo, proposal, spain, season, appreciation, everything, rachel, endure, whaboom, ticklemonster, weren, stone, dream, rachel, rachel, rachel, waste, rachel, season, picking, example, rachel, oneonone, group, peter, chart, attention, number, strategy, husband, everyone, bachelorette, bracket, drama, rachel, globe, journey, travel, season, slice, hometown, bachelor, nation, story, bachelor, article, season, reporting, bachelorette season, messing around, around koeze, koeze wezerek, github github, github databachelorette, threehour conclusion, conclusion season, season bachelorette, bachelorette rachel, typical choice, choice between, bryan abasolo, abasolo proposal, proposal amongst, rioja spain, looking weeks, passed peter, peter bryan, those other, fresh appreciation, rachel endure, endure remember, remember whaboom, whaboom ticklemonster, ticklemonster weren, remember stone, stone dream, dream rachel, despite rachel, persevered rachel, impressions waste, during season, selective picking, picking would, example rachel, rachel could, available oneonone, bryan peter, shows rachel, concentrated attention, trying husband, predictable almost, almost everyone, fivethirtyeight bachelorette, bachelorette bracket, bryan peter, final throughout, throughout drama, drama rachel, roaming globe, metaphorical journey, journey would, would worth, actual travel, travel season, western europe, substantial slice, final hometown, bachelor nation, ready story, going bachelor, bachelor update, update article, additional reporting, rachel lindsay bachelorette, lindsay bachelorette season, charts messing around, messing around koeze, around koeze wezerek, filed under github, github github databachelorette, finale threehour conclusion, threehour conclusion season, conclusion season bachelorette, season bachelorette rachel, quest typical choice, lastmanstanding bryan abasolo, bryan abasolo proposal, vineyards rioja spain, weeks passed peter, passed peter bryan, season fresh appreciation, everything rachel endure, rachel endure remember, endure remember whaboom, remember whaboom ticklemonster, whaboom ticklemonster weren, immediately remember stone, remember stone dream, stone dream rachel, shudders despite rachel, rachel persevered rachel, first impressions waste, rachel during season, similarly selective picking, selective picking would, dates example rachel, three available oneonone, spent bryan peter, chart shows rachel, rachel concentrated attention, strategy trying husband, husband predictable almost, predictable almost everyone, everyone fivethirtyeight bachelorette, fivethirtyeight bachelorette bracket, bracket bryan peter, their final throughout, final throughout drama, throughout drama rachel, rachel roaming globe, globe metaphorical journey, without actual travel, destinations western europe, western europe pretty, rachel substantial slice, diverse final hometown, rachel bachelor nation, story going bachelor, going bachelor update, bachelor update article, article updated after, finale additional reporting')
+
+('VBG', 'messing, accepting, lastmanstanding, looking, looking, trying, roaming, watching, viking, fighting, choosing, going, charts messing, before accepting, accepting lastmanstanding, stepped looking, other looking, appreciation everything, rachel during, strategy trying, rachel roaming, worth watching, pretty boring, there viking, viking fighting, slice choosing, story going, three charts messing, early before accepting, before accepting lastmanstanding, hopeful stepped looking, those other looking, fresh appreciation everything, roses rachel during, worst strategy trying, drama rachel roaming, would worth watching, europe pretty boring, though there viking, there viking fighting, substantial slice choosing, ready story going')
+
+('VBN', 'filed, published, passed, eliminated, persevered, given, concentrated, updated, rachel persevered, rachel focused, rachel concentrated, looking weeks passed, other looking eliminated, despite rachel persevered, persevered rachel focused, shows rachel concentrated')
+
+('JJ', 'finale, typical, early, bryan, hopeful, bryan, other, fresh, strong, first, final, selective, available, spent, bryan, predictable, fivethirtyeight, final, metaphorical, actual, international, western, boring, rachel, substantial, diverse, final, ready, update, finale, additional, lindsay bachelorette, season three, under github, published finale, finale threehour, quest typical, lastmanstanding bryan, years hopeful, happened those, eliminated season, season fresh, everything rachel, immediately remember, strong first, roses rachel, suitors final, similarly selective, dates example, given three, three available, dates group, instead spent, spent bryan, peter already, limited number, worst strategy, husband predictable, bracket bryan, their final, globe metaphorical, without actual, season international, though there, fighting rachel, rachel substantial, geographically diverse, diverse final, rachel bachelor, nation ready, updated after, after season, season finale, finale additional, bachelorette season three, under github github, databachelorette published finale, published finale threehour, lindsay quest typical, typical choice between, accepting lastmanstanding bryan, proposal amongst windswept, seems years hopeful, looking eliminated season, eliminated season fresh, appreciation everything rachel, eliminated immediately remember, rachel focused strong, focused strong first, others roses rachel, season suitors final, final similarly selective, would dates example, could given three, given three available, oneonone dates group, dates instead spent, instead spent bryan, bryan peter already, attention limited number, trying husband predictable, bachelorette bracket bryan, peter their final, roaming globe metaphorical, watching without actual, actual travel season, travel season international, viking fighting rachel, fighting rachel substantial, choosing geographically diverse, geographically diverse final, dates rachel bachelor, bachelor nation ready, nation ready story, update article updated, updated after season, after season finale, season finale additional')
+
+('JJS', 'quest, lindsay quest, rachel lindsay quest')
+
+('VBZ', 'amongst, seems, roses, dates, oneonones, seems years, others roses, would dates, oneonone dates, chart shows, abasolo proposal amongst, spain seems years, waste others roses, picking would dates, available oneonone dates, oneonones chart shows')
+
+('VBD', 'stepped, happened, eliminated, focused, limited, wezerek filed, databachelorette published, hopeful stepped, weeks passed, bryan happened, looking eliminated, weren eliminated, attention limited, everyone fivethirtyeight, article updated, koeze wezerek filed, github databachelorette published, years hopeful stepped, peter bryan happened, ticklemonster weren eliminated, concentrated attention limited, almost everyone fivethirtyeight, bryan peter their')
+
+('VB', 'remember, remember, dates, worth, rachel could given, journey would worth')
+
+('JJR', 'peter, filed under, wezerek filed under')
+

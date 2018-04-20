@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 817
+Raw number of types: 341
+Raw Type token ratio: 0.4173806609547124
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 733
+Number of types: 547
+Type token ratio: 0.7462482946793997
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'trump,president,monument,koeze,trump,administration,github,dataantiquitiesact,president,trump,executive,order,department,review,monuments1,willingness,monument,status,president,barack,obama,month,administration,creation,monument,hatch,government,overreach,approval,president,protection,president,status,conservation,association,group,monument,status,president,monument,status,power,monument,status,point,trump,designation,share,government,review,trump,executive,order,government,monument,doesn,country,giant,state,survey,state,designation,monument,protection,government,designation,government,freer,reign,order,trump,power,reshape,nation,trump,office,administration,order,review,protection,water,trump,resolution,order,indication,trump,administration,conservation,newssurveymonkey,percent,percent,amount,percent,popularity,fishing,support,conservation,secretary,interior,zinke,montana,teddy,monument,zinke,president,trump might,first president,president scrap,national monument,monument koeze,trump administration,administration github,github github,github dataantiquitiesact,president trump,executive order,order wednesday,department review,national monuments1,three recent,national monument,monument status,monument former,former president,president barack,barack obama,nearly million,month administration,administration creation,creation large,large monument,orrin hatch,government overreach,congressional approval,president teddy,receive protection,damage since,since president,status according,parks conservation,conservation association,association nonprofit,nonprofit group,promotes conservation,national monument,monument status,national monument,monument status,address whether,national monument,monument status,disagree point,point trump,monument designation,federal government,government states3,designated under,cover about,about million,subject review,review under,executive order,order overall,overall government,government about,about million,depending monument,monument doesn,western country,geological survey,regional state,whether designation,national monument,special designation,designation those,areas government,government freer,freer reign,executive order,order trump,trump power,power reshape,reshape nation,trump office,office administration,executive order,order review,federal protection,protection smaller,water trump,joint resolution,public latest,latest order,order recent,recent though,symbolic indication,indication trump,trump administration,rejecting obamaera,obamaera conservation,popular newssurveymonkey,february percent,while percent,percent amount,protected about,right percent,percent should,protected popularity,support conservation,conservation those,interior zinke,roosevelt conservationist,conservationist while,while teddy,teddy roosevelt,national monument,monument zinke,first president,president abolish')
+
+('VB', 'first,damage,database,smoothly,protected,abolish,small share')
+
+('JJ', 'scrap,national,github,wednesday,interior,national,recent,national,national,monument,former,final,large,orrin,federal,national,congressional,national,national,national,nonprofit,public,national,national,other,national,national,legal,national,monument,ground,national,small,federal,national,land4,national,several,subject,overall,several,federal,national,different,western,pristine,natural,geological,national,regional,local,public,national,special,executive,public,fishing,executive,federal,joint,public,recent,symbolic,american,national,popular,february,national,right,recreational,teddy,first,national,first,scrap national,under trump,published president,signed executive,instructing interior,interior department,review national,created three,signaling willingness,revoke national,status these,bears national,national monument,bears which,covers nearly,acres final,final month,including orrin,called federal,federal government,designate national,without congressional,signed president,roosevelt 19062,monuments receive,protection national,alter damage,revoked status,collected national,conservation public,public national,redesignated national,cases congress,congress president,president national,rescind national,status legal,bears national,national monument,testing ground,ground national,share owned,owned federal,states3 national,about these,these national,including largest,largest several,established within,within three,therefore subject,under trump,trump executive,managed several,several federal,responsibility national,falls different,doesn western,country giant,giant pristine,pristine natural,natural state,state geological,maintains database,aggregates national,national regional,state local,designation national,owned government,government special,those areas,before executive,using public,lands since,since trump,issued executive,extends federal,signed joint,operate public,perhaps symbolic,smoothly american,american people,people national,never popular,conducted february,protected national,about right,popularity recreational,trump secretary,secretary interior,himself teddy,teddy roosevelt,established first,first national')
+
+('VBN', 'filed,published,designated,called,collected,protected,owned,designated,established,allowed,issued,protected,protected,established,nationally protected,monuments designated,mostly managed,protection owned,lands issued,should protected,currently protected')
+
+('VBD', 'signed,created,revoke,raised,signed,roosevelt,revoked,revoked,redesignated,states3,managed,owned,repealed,owned,signed,conducted,koeze filed,dataantiquitiesact published,trump signed,monuments1 created,willingness revoke,obama designated,monument raised,hatch called,antiquities signed,teddy roosevelt,president revoked,according collected,status revoked,others redesignated,threshold established,determining allowed,administration repealed,federally owned,trump signed,policies might,newssurveymonkey conducted,should protected,roosevelt established')
+
+('VBG', 'instructing,signaling,including,preventing,according,testing,including,depending,determining,including,grazing,drilling,logging,using,making,rejecting,hunting,wednesday instructing,appears signaling,conservatives including,parks preventing,designation testing,monuments including,agencies depending,reign determining,allowed including,cattle grazing,grazing drilling,drilling logging,nation using,repealed fishing,resolution making,pointedly rejecting,activities hunting,hunting fishing')
+
+('NNS', 'predecessors,sites,bears,bears,acres,conservatives,presidents,monuments,thanks,antiquities,monuments,parks,activities,parks,sites,others,parks,kinds,sites,cases,antiquities,presidents,scholars,bears,monuments,monuments,antiquities,acres,monuments,others,administrations,acres,agencies,monuments,agencies,aggregates,agencies,offers,areas,activities,cattle,lands,lures,bullets,lands,bodies,companies,policies,people,parks,respondents,parks,activities,conservatives,conservatives,roosevelt,roosevelt,recent predecessors,trump appears,these sites,particularly bears,designated bears,which covers,million acres,raised conservatives,overreach presidents,national monuments,approval thanks,thanks antiquities,national monuments,national parks,preventing activities,national parks,sites others,national parks,protected sites,those cases,status antiquities,whether presidents,legal scholars,removes bears,national monuments,national monuments,under antiquities,million acres,national monuments,several others,three administrations,federal agencies,national monuments,monuments falls,different agencies,database aggregates,local agencies,monument offers,including activities,public lands,fishing lures,lures bullets,owned lands,smaller bodies,easier companies,though perhaps,conservation policies,national parks,percent respondents,national parks,recreational activities,fishing means,means conservatives,those conservatives')
+
+('VBP', 'trump,covers,designate,receive,conservation,congress,address,rescind,disagree,cover,responsibility,operate,trump,conservationist,predecessors trump,presidents designate,sites those,presidents power,scholars disagree,antiquities cover,acres land4,others 100000acre,administrations therefore,agencies responsibility,agencies public,offers protection,bodies water,companies operate,respondents should,conservatives support,conservatives trump')
+
+('VBZ', 'appears,promotes,removes,falls,maintains,evaluates,extends,means,describes,group promotes,revoked sites,other kinds,trump removes,million acres,survey maintains,public evaluates,review extends,montana describes')
+
+('NNP', 'teddy,zinke montana,zinke first')
+
+('JJS', 'largest,latest')
+
+('JJR', 'smaller,easier,filed under,making easier')
+

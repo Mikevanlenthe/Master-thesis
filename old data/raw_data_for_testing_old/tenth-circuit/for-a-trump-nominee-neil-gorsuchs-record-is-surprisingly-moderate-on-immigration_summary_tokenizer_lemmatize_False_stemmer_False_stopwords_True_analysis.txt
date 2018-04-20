@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1788
+Raw number of types: 349
+Raw Type token ratio: 0.19519015659955258
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token true true verbs fischman wednesday lackey gorsuch anecdote gorsuch colleague trump tenth gorsuch percent immigrant spectrum depict immigrant ideologue gorsuch gorsuch gorsuch gorsuch tenth gorsuch moderate gorsuch judiciary gorsuch gorsuch ideologue recent little judicial democratic judicial little dianne gorsuch fair little gorsuch judicial many smart conservative conservative tenth comparable gorsuch judicial gorsuch particular large many academic liberal conservative useful gorsuch civil recent relevant gorsuch ideological conservative gorsuch plaintiff average gorsuch immigrant average behavior unanimous statistical gorsuch middle ideological liberal republican many significant gorsuch liberal conservative gorsuch empathy little hard liberal wonkish administrative wide gorsuch immigrant lawful gorsuch supreme judicial federal judicial gorsuch moderate possible gorsuch reflexive cautious high current supreme conservative tenth second third conservative right supreme supreme strong subject different skeptical gorsuch many troubled republican gorsuch constitutional judicial nominated focused concluded assigned focused influenced claimed balanced litigated ruled concerned confirmed reflect alito')
+
+('NN', 'analysis number number ratio lemmatizer stemmer article trump record immigration employment discrimination cope court github github datatenthcircuit court nominee judge face committee capitol hill president judge court week pundit convince jurist trump philosophy senate confirmation senator record feinstein record judge case philosophy case look record case circuit court appeal case circuit court threejudge panel judge circuit case vote ideology tenth circuit circuit case tenure area immigration employment discrimination area circuit court case study circuit judge vote ideology concern administration litigation immigration order area result analysis topic record center circuit tenth circuit supreme court3 area analysis break discrimination case time circuit judge period percent percent time immigration case percent time circuit tenth circuit judge percent time circuit court fact case threejudge panel judge vote panel colleague percent case unanimity disagreement judge estimate ideology tenth circuit judge model account circuit court graph show ideology estimate tenth circuit judge immigration employment discrimination case appointee tenth circuit difference judge colleague none democrat theme lack number ideologue group opinion favor agency deference interpretation statute immigration case opinion government decision harder status government apply policy court precedent deference government agency executive bureaucracy power method ideology limitation case ideology voting record immigration employment discrimination case area analysis portrayal court circuit judge vote court shape study prediction court study time court justice claim voting record prediction president homestate senator circuit prediction campaign contribution clerk study justice samuel alito clarence thomas study case opinion case court tenth circuit case court study comparison circuit judge court justice assumption judge precedent level circuit reason senator refusal garland legitimacy investigation russia election issue abortion record relevant senator base assessment analysis record case supreme supreme applewhite supreme brilliant friend list tenth right surprising centrist percent plaintiff percent percent dissent norm prominent concentrate pinpoint extreme supreme precedent york behavior supreme mainstream thomas plenty merrick nomination extent sample reviewed analyze skepticism scott generate approach judge produce require reject hold worry meddling turn look latitude extremist kneejerk analysis number number ratio')
+
+('VBG', 'preprocessing using using using hearing narrativeconfirming trying rightwing painting writing arguing analyzing including making examining according analyzing voting voting running reversing holding trying arguing estimating predicting appointing voting dissenting hearing preprocessing')
+
+('NNS', 'tokens types filters stopwords false nouns adjectives tokens trump undermines data data people others claimed hears tokens types')
+
+('VBP', 'type compare permit participated1 senate know disagree achieve believe oppose areas2 type')
+
+('VBN', 'token used washington cherrypicked filed questioned rattled participated sided sided sided complicated offered connected relied skewed ended given used based given criticized constrained confirmed based derived nominated based based given token token')
+
+('VBD', 'separated independentminded light revealed insisted sided took decided found sided decided participated wrote reported reviewed joined emphasized made')
+
+('NNP', 'joshua')
+
+('VB', 'come')
+
+('JJR', 'closer higher higher greater')
+
+('VBZ', 'appears')
+
+Token analysis after pre-processing 
+Number of tokens: 597
+Number of types: 315
+Type token ratio: 0.5276381909547738
+

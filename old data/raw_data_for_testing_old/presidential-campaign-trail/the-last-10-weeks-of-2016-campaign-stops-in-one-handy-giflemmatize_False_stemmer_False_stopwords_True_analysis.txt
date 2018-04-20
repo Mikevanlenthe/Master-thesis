@@ -1,0 +1,31 @@
+Token analysis before pre-processing 
+Raw number of tokens: 128
+Raw number of types: 98
+Raw Type token ratio: 0.765625
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'last handy filed main hillary enough stops inperson conservative daily')
+
+('NNS', 'weeks matthew data data criticisms fundraisers media appearances clinton data schedules maps')
+
+('NN', 'campaign election github github datapresidentialcampaigntrail postelection clinton campaign campaigning donald trump clinton campaign dayaftertheelection concession speech york news hillaryspeechescom1 campaign')
+
+('VBZ', 'stops rallies')
+
+('VBN', 'conlen made made collected compared')
+
+('VBG', 'traveling including according')
+
+('VBD', 'sept')
+
+Token analysis after pre-processing 
+Number of tokens: 57
+Number of types: 45
+Type token ratio: 0.7894736842105263
+

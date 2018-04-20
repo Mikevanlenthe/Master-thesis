@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 904
+Raw number of types: 357
+Raw Type token ratio: 0.39491150442477874
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 632
+Number of types: 302
+Type token ratio: 0.4778481012658228
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'apr silver github github datapulitzer charlotte cartoonist kevin pulitzer award editorial cartooning david foster iii charlotte pulitzer afternoon journalism journalism fivethirtyeight newspaper publishing course relationship pulitzer newspaper success news work pulitzer quality circulation circulation pulitzer database github pulitzer york count pulitzer database newspaper name attribution award circulation percent paper alliance part circulation percent something washington post pulitzer circulation percent los circulation drop percent period boston globe decline relationship pulitzer chart correlation chart result york correlation quality strategy data relationship pulitzer circulation correlation relationship majority lot result highquality journalism course newspaper circulation age encourage data couple file pulitzer number circulation onward journalism meaning way pulitzer period difference drop circulation paper print edition san mercury news contra costa oakland part comparison contra costa oakland tribune circulation san mercury news circulation oakland tribune pulitzer mercury news')
+
+('NNS', 'pulitzers newspapers readers awards data data siers prizes congratulations finalists awards fans organizations economics prizes consumers outlets newspapers others figures newspapers winners finalists newspapers data times winners finalists totals variations times subscriptions media figures times subscriptions times winners finalists subscriptions times winners finalists winners finalists prizes changes times subscriptions times newspapers newspapers prizes newspapers years newspapers circulations ones pulitzers ones newspapers pulitzers readers newspapers ones pulitzers readers sales sorts factors notes prizes periods pulitzers changes things newspapers categories sales pulitzers numbers results orleans wednesdays fridays sundays sales times figures times numbers totals figures')
+
+('VBP', 'help nate get produce remain see are produce are have circulation have decline win have don win are are win continue have take are explore predict timespicayune provide')
+
+('VB', 'keep see succeed inexact list otherwise mean forget spin straightforward that afford reinvest prize')
+
+('VBN', 'filed announced increased had had had seen counted listed changed seen suffered affected broken gone')
+
+('JJ', 'editorial monday annual highquality challenging commercial daily top much decreased many new different unclear print digital audited total digital same percent modest positive new digital other economic vast much negative positive quick digital predict successful investigative other entire little second new percent daily daily jose jose')
+
+('VBD', 'won were wanted was looked had searched posted fell were was saw experienced were provided said occurred listed experienced added included')
+
+('VBZ', 'winners ranks has sells includes has angeles does says hasn makes publishes publishes counts tribune')
+
+('VBG', 'hoping gravitating struggling topping counting counting doing retaining struggling counting being taking having')
+
+('JJR', 'more fairer')
+

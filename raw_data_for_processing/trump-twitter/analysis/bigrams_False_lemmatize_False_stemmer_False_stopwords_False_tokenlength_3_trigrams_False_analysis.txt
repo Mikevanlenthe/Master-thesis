@@ -1,0 +1,48 @@
+Article: trump-twitter
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1007
+Raw number of types: 411
+Raw Type token ratio: 0.40814299900695133
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 654
+Number of types: 340
+Type token ratio: 0.5198776758409785
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, world, favorite, donald, trump, election, photo, robyn, beckafpgetty, campaign, trump, world, news, feature, campaign, truman, tour, kennedy, trump, twitter, account, trump, twitter, effect, time, capsule, campaign, take, look, nomination, june, majority, methodology, analysis, someone, tweet, platform, policy, nomination, policy, share, topic, policy, clinton, twitter, june, tweet, category, source, twitter, policy, quarter, trump, trump, offering, tweet, love, tweet, cinco, mayo, taco, bowls, trump, tower, grill, pictwittercomk01mc6cudi, donald, realdonaldtrump, tweet, news, coverage4, well, news, bias, make, america, clinton, hypocrite, control, service, protection, rest, trump, story, day, line, attack, twitter, feuds, jibes, way, course, campaign, trump, pique, iowa, trump, fire, cruz, marco, rubio, flurry, antijohn, hour, nov, race, don, waste, money, donald, realdonaldtrump, november, discussion, twitter, response, news, cycle, trump, tweet, trump, cruz, clinton, trump, president, june, trump, feb, june, cruz, clinton, jan, june, source, exclamation, point, onethird, cruz, percent, clinton, bernie, trump, exclamation, order, magnitude, trump, exclamation, nield, reporting')
+
+('NNS', 'tweets, images, thousands, tweets, cycles, opponents, supporters, ads, tweets, debates, primaries, tweets, people, attacks, tweets, times, tweets, tweets, enmities, proposals, rivals, tweets, others, candidates, polls, media, candidates, women, talks, tweets, excludes, tweets, followers, people, tweets, tweets, expressions, media, rivals, categories, policies, enemies, hispanics, hispanics, supporters, tweets, protesters, gun, tweets, protesters, brussels, attacks, opponents, media, opponents, questions, sobriquets, opponents, bursts, others, caucuses, rivals, contests, sprees, tweets, ads, policies, tweetstorms, others, candidates, tweets, points, sanders, tweets, sanders, twothirds, tweets, sanders, tweets, tweets, points, candidates, opponents, thoughts, points, mehta')
+
+('VBP', 'leah, donald, are, see, trump, see, trump, retweets, least, see, seem, scorn, trump, fit, are, enthusiasm, terrorist, answer, have, want, john, want, trump, are, exclamation, none, suspect, have, say, dhrumil')
+
+('VBN', 'filed, sent, been, used, dominated, nov, talked, retweeted, collected, tweeted, tweeted, mostfavorited, mostretweeted, made, propelled, mostretweeted, called, castigated, mostfavorited, used, gone, written, punchy, lot')
+
+('JJ', 'original, presidential, donald, unorthodox, whistlestop, such, great, useful, recent, footnotes2, trump, defined, republican, trump, republican, democratic, nov, interested, happy, https, tcoufoteqd8ya, top, heavy, other, fox, great, hillary, secret, scattershot, come, strategic, like, florida, primary, important, kasich, negative, kasich, irrelevant, different, streaky, spontaneous, streak, excited, other, own, nov, june, trump, other, david')
+
+('VBD', 'started, consumed, antagonized, riled, had, had, decided, said, won, wrapped, downloaded, categorized, suffered, reacted, was, were, made, were, trump, prompted, was, was, declared, called, armed, were, prompted, forced, tended, concentrated, ted, went, was, excited, had, had, had, defeated, dared, contributed')
+
+('VBZ', 'has, has, has, has, includes, excludes, retweets, includes, didn, cincodemayo, has, seems, attacks, tends, includes')
+
+('VBG', 'defining, tweeting, divining, attacking, attacking, excluding, sharing, sharing, favoring, enjoying, making, looking, tweeting, running')
+
+('VB', 'see, trump, read, third, candidate, count, retweets3, love, 2016, hem, merit')
+
+('JJR', 'more, less, more, less, less, more, more, more')
+
+('JJS', 'most, best, least')
+

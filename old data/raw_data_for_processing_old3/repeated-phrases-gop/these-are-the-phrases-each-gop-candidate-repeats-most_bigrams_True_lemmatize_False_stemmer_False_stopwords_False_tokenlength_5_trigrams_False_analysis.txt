@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 617
+Raw number of types: 329
+Raw Type token ratio: 0.5332252836304701
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 473
+Number of types: 432
+Type token ratio: 0.9133192389006343
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'phrases repeats words politics words debates campaigns points sales primaries works echoes nightmares knows feels times candidates transcripts karen jones words times phrases phrases candidates classics trumpisms reveals daydreams possibilities victories shoots talks points chris people times numbers phrases cheers these,phrases candidate,repeats published,words matter,politics those,words televised,debates talking,points points,sales through,primaries primaries,works electorate,echoes might,nightmares floridian,knows knows,feels three,times wannabe,repeats himself,transcripts pioneered,1970s linguist,karen spärck,jones which,words candidate,surprisingly number,times oftrepeated,phrases while,phrases other,candidates stonecold,classics analysis,reveals verbal,daydreams about,possibilities fourthplace,victories trump,shoots talking,points rubio,takes would,numbers candidate,phrases analysis,gives debate,cheers')
+
+('VBP', 'candidate beckman draft hammer marco debate spärck phrases2 score candidate christie reach change phrases,candidate repeats,beckman politics,those debates,campaigns sales,hammer works,brand feels,marco times,debate repeats,himself karen,spärck words,phrases2 surprisingly,number phrases,other candidates,score reveals,candidate numbers,confirm')
+
+('VBN', 'filed published chosen televised shattered needed elected nailed beckman,filed words,chosen carefully,televised debate,looked possibilities,elected')
+
+('NN', 'election github github datarepeatedphrasesgop brand candidate opponent electorate fiction prototype roboprez momentum consolidate antitrump coalition donald trump debate repeat houston crowd tonight miami wannabe debates1 tfidf linguist candidate number everyone phrase measure importance score doesn anything score analysis president rubio string fourthplace president trump league record rubio gauche replay rubio script debate season example reference dream entirety harder notice backtoback candidate minnesota puerto rico3 nothing analysis debate filed,under under,election election,github github,github github,datarepeatedphrasesgop words,matter campaigns,draft draft,polltest candidate,opponent opponent,electorate doesn,different marco,rubio dispelled,fiction prototype,roboprez ready,prime shattered,momentum frantic,antitrump antitrump,coalition donald,trump trump,later later,debate debate,repeat parried,houston houston,crowd tonight,miami presidential,wannabe republican,debates1 debates1,myself myself,metric called,tfidf lower,everyone everyone,phrase tfidf,measure relative,importance importance,score score,doesn score,beyond beyond,highlighting highlighting,stonecold trumpisms,analysis president,while while,rubio rubio,fresh third,fourthplace glorious,future president,trump betrays,league league,would about,record verbatim,rubio chris,christie nailed,gauche gauche,instant instant,replay replay,rubio throughout,debate debate,season rubio,reach reach,people people,change before,reference american,dream dream,entirety rubio,harder harder,notice notice,backtoback backtoback,would which,candidate scoring,found found,rubio rubio,minnesota minnesota,puerto puerto,rico3 nothing,analysis tonight,debate')
+
+('VBG', 'talking dying tossing debating highlighting repeating talking sticking scoring drinking polltest,talking until,dying responded,tossing candidates,debating doesn,anything fresh,string record,repeating lengthy,talking rubio,sticking phrases,scoring rico3,nothing rigorous,drinking')
+
+('VBD', 'lowenergy looked responded parried called pioneered oftrepeated checked found datarepeatedphrasesgop,published likely,overprepped prime,shattered momentum,needed coalition,responded yourself,parried metric,called tfidf,pioneered particular,oftrepeated classics,right christie,nailed narrative,checked')
+
+('JJ', 'doesn different ambitious floridian overprepped dispelled early ready prime frantic presidential first republican metric computational particular other tfidf relative other stonecold right quintessential verbal fresh third glorious future lengthy verbatim crown instant american rubio narrative rubio rigorous tonight brand,candidate lowenergy,might dying,doesn different,ambitious ambitious,floridian underslept,dispelled fiction,three early,prototype roboprez,ready needed,consolidate increasingly,frantic tossing,donald again,tonight miami,which which,presidential transcripts,first first,republican computational,linguist identify,which phrases2,candidate times,particular score,while phrase,tfidf measure,relative right,quintessential quintessential,trumpisms candidate,verbal elected,president string,third predicts,glorious future,president repeating,lengthy points,verbatim crown,chris sticking,script consistently,throughout season,example example,rubio reference,american fortunately,rubio rubiobot,narrative checked,which statistically,rigorous drinking,tonight')
+
+('VB', 'rubio underslept identify kasich confirm debating,again jones,identify')
+
+('VBZ', 'repeats predicts betrays takes rubio lives gives crowd,candidates victories,predicts shoots,betrays mostly,talks change,lives entirety,times')
+
+('JJR', 'lower higher score,lower higher,score lives,before')
+

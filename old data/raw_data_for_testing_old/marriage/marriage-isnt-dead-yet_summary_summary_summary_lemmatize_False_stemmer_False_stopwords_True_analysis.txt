@@ -1,0 +1,29 @@
+Token analysis before pre-processing 
+Raw number of tokens: 42
+Raw number of types: 38
+Raw Type token ratio: 0.9047619047619048
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'marriag rate colleg percent trend school marriage group marriage report decad diploma survey')
+
+('VBZ', 'declin degr')
+
+('NNS', 'children women data github')
+
+('JJ', 'divorc employ')
+
+('VBD', 'poorer')
+
+('VBP', 'wait')
+
+Token analysis after pre-processing 
+Number of tokens: 23
+Number of types: 22
+Type token ratio: 0.9565217391304348
+

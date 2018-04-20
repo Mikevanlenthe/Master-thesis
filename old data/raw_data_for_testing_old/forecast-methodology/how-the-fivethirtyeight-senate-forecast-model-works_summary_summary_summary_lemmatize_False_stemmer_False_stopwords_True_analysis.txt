@@ -1,0 +1,27 @@
+Token analysis before pre-processing 
+Raw number of tokens: 39
+Raw number of types: 38
+Raw Type token ratio: 0.9743589743589743
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'model state percent senat race voter estim percentag democrat base number step result vote pollster chang effect year firm instance parti')
+
+('NNS', 'calcul')
+
+('VBP', 'make adjust')
+
+('VBD', 'weight')
+
+('JJ', 'lead')
+
+Token analysis after pre-processing 
+Number of tokens: 27
+Number of types: 27
+Type token ratio: 1.0
+

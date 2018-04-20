@@ -1,0 +1,28 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1292
+Raw number of types: 448
+Raw Type token ratio: 0.34674922600619196
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('JJ', 'evangelical##faith##united##many##recent##follower##current##future##pull##potential##logical##religious##american##respondent##current##religious##american##unaffiliated##religious##percent##american##born##unaffiliated##unaffiliated##american##christian##dramatic##additional##current##whole##attractive##large##small##different##unaffiliateds##first##unaffiliated##unaffiliated##catholic##catholic##worth##large##third##american##catholic##possible##nonchristian##steady##demographic##logical##present##persistent##normal##give##religious##doctrinal##steady##religious##demographic##stable##present##christian##little##percent##present##substantial##christian##evangelical##percent##present##current##christian##born##percent##catholic##faith##catholic##percent##catholic##flow##evangelical##twelve##evangelical##evangelical##lose##relative##different##different##current##catholic##evangelical##black##jewish##orthodox##christian##unaffiliated##religious##current##unaffiliateds##mainline##strong##faith##evangelical##much##catholic##faith##middle##strong##faith##replenish##single##digit##clear##evangelical##disciple##convert##high##wide##previous##catholic##evangelical##protestant##second')
+('NN', 'protestant##winner##leah##libresco##religion##github##github##baptism##religion##state##grow##immigration##death##factor##report##research##center##chance##look##detail##religion##member##member##religion##faith##tape##forward##religion##rate##model##projection##take##account##factor##measure##religion##convert##present##today##trend##conclusion##landscape##study##practice##tradition##group##religion##member##churn##household##percent##adulthood##share##whole##percentage##point##percent##birth##percent##present##swing##table##denomination##number##pattern##tell##story##denomination##loss##number##wind##group##start##gain##follower##place##fact##chance##percent##percent##half##percent##share##adult##percentage##point##population##contrast##church##member##amount##group##survey##calculate##religion##religion##distribution##equilibrium##extension##trend##kind##analysis##chance##factor##drive##change##recruitment##member##retention##factor##immigration##shift##model##github##conversion##today##factor##america##distribution##ground##percent##percent##denomination##percent##equilibrium##redistribution##group##protestant##percent##catholic##half##share##population##percent##percent##sect##model##tradition##percent##retention##percent##mainline##protestant##attractor##conversion##rate##percent##wind##mainline##protestant##percent##wind##mainline##congregation##percent##mainline##protestant##model##number##multiplier##effect##play##religion##gain##member##conversion##fertility##member##church##increase##faith##share##today##population##change##share##church##represent##tomorrow##denomination##fertility##rate##childbirth##equilibrium##state##model##change##faiths3##religion##portion##population##equilibrium##fertility##equilibrium##fertility##protestant##hindu##protestant##jehovah##witness##mainline##protestant##mormon##muslim##ground##conversion##model##churn##wind##share##population##fertility##account##kid##rate##replacement##child##woman##gain##protestant##problem##mormon##fertility##fertility##rate##child##woman##model##fertility##tradition##attractor##protestant##member##member##mormon##muslim##model##wind##loser##child##pack##attractor##share##conversion##gainer##protestant##nation##rate##range##faith##correction##version##article##fertility##rate##religion')
+('JJS', 'biggest##best##highest##biggest##biggest##thirdhighest')
+('NNS', 'people##data##data##datapewreligions##people##data##people##data##people##unaffiliateds##people##people##data##unaffiliateds##people##data##data##emerges##data##unaffiliateds##evangelicals##people##people##data##people##evangelicals##people##evangelicals##evangelicals##reveals##unaffiliateds##deconversions##reveals##people##unaffiliateds##odds##people##people##diminishes##data##unaffiliateds')
+('VBP', 'change##rodrigo##offer##change##help##lose##make##wind##born##wind##favor##religion##make##buddhist##gain##lose##make')
+('VBN', 'filed##lost##used##found##presented##compared##come##taken##factored##born')
+('VB', 'shrink##rise##describe##gain##settle##check##wind##wind##drop##benefit')
+('VBG', 'gaining##losing##recruiting##switching##exerting##taking##looking##staying##staying##according##including##fastforwarding##gaining##gaining##losing##holding##leaving##according##becoming##increasing##factoring##comparing##changing##creating##converting##retaining##leaving##succeeding##making##drawing')
+('VBD', 'oldfashioned##took##gained##surveyed##asked##raised##gained##reported##described##dropped##highlighted##collected##skewed##raised##raised##lost##lost##raised##went##held##raised##tilted##raised##whittled##said')
+('JJR', 'look##easier##fewer##bigger##stronger')
+('VBZ', 'loses##excludes')
+
+Token analysis after pre-processing 
+Number of tokens: 569
+Number of types: 282
+Type token ratio: 0.4956063268892794
+

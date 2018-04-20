@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1066
+Raw number of types: 423
+Raw Type token ratio: 0.3968105065666041
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'praying using praying praying legitimizing anticipating loving treating showing causing forthcoming trying creating seeing praying assuming witnessing saying making crossing thinking')
+
+('JJ', 'public uncomfortable leah getty august coastal nun sake burkini france little intense nice united clash religious public religious public visible much statistical religious nonreligious uncomfortable surveymonkey individual ordinary rosary act christian worried offense wrong likely underestimate resembled david american religious christian pray silverman different religious silverman religious respect eastern orthodox christian cautious pray many christian atheist christian many christian faith public fear christian follow give many professional reluctant religious uncomfortable faith christian religious agnostic unbothered right rosary percent agnostic nationwide comfortable christian comfortable good mixed implicit half atheist agnostic uncomfortable invisible table visible tricky public tricky alienate uncomfortable able table want public participatory preparatory')
+
+('VBP', 'make believer expect decide feel make courthouse say prefer pray atheist feel say want make want explain make need')
+
+('NNS', 'others data data others data others hears people others clothes threequarters')
+
+('NN', 'libresco religion github github datareligionsurvey patrick image course week france town beach habit consistency ban court controversy commitment something secularism deputy mayor france religion affair home church street state burkinis freedom mean freedom worship church freedom practice convert catholicism atheism side awkwardness discomfort kind faith experience atheist guess kind guess sensibility poll sense practice audience panel question act prayer believer course feeling pray acquaintance group government nativity scene response github action action hackle christian discomfort response anything invitation prayer silverman president atheist invitation intolerance pray change person conversion feel corner thank religion silverman dreher author crunchy con offer pray reaction silverman friend care prayer part someone friend pray dreher experience hold fear offense interview book benedict option example benedict thicker tie strength engage rest world dreher sign religiosity spark discomfort christian marker percent jewelry look feel subway york city thing someone atheist circumstance half percent prayed prayer navigate grace group invitation survey someone grace meal prayer kitchen head anyone religiosity way display affection friend stranger something reach church home fork grace prayer feel conversation friend')
+
+('VBN', 'filed considered based asked carried thought spotted')
+
+('VBD', 'banned struck sprang laïcité explained banned commissioned seemed backed said neglected rejected spoke spoke overestimated sixtytwo felt guessed found prayer tried lifted')
+
+('VBZ', 'faith offends')
+
+('VB', 'make performed cause raise untroubled feel feel listen')
+
+('JJS', 'best protest oddest')
+
+('JJR', 'fewer')
+
+Token analysis after pre-processing 
+Number of tokens: 418
+Number of types: 277
+Type token ratio: 0.6626794258373205
+

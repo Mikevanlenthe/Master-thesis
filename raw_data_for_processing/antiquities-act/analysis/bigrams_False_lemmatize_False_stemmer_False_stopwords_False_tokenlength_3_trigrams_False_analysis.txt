@@ -1,0 +1,50 @@
+Article: antiquities-act
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 817
+Raw number of types: 341
+Raw Type token ratio: 0.4173806609547124
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 598
+Number of types: 301
+Type token ratio: 0.5033444816053512
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'trump, president, monument, ella, koeze, trump, administration, github, github, dataantiquitiesact, president, trump, executive, order, wednesday, department, review, monuments1, willingness, monument, status, monument, president, barack, obama, site, month, administration, creation, monument, ire, sen, hatch, government, approval, president, protection, par, site, act, president, site, status, conservation, association, group, conservation, monument, status, president, site, monument, status, fact, act, power, monument, status, point, trump, monument, designation, ground, share, land, government, threshold, review, trump, executive, order, government, west, land, responsibility, monument, country, giant, park, state, survey, database, state, us5, land, designation, monument, kind, protection, land, government, designation, government, reign, land, drilling, executive, order, trump, power, reshape, nation, trump, office, administration, lead, fishing, executive, order, review, rule, protection, water, trump, resolution, coal, land, order, indication, trump, administration, conservation, poll, percent, land, percent, amount, percent, land, home, popularity, hunting, fishing, conservation, fact, secretary, zinke, montana, conservationist, monument, zinke, boss, president')
+
+('JJ', 'first, scrap, national, apr, interior, national, recent, national, national, utah, former, final, such, large, utah, orrin, federal, national, congressional, national, receive, national, national, nonprofit, public, national, many, national, other, national, national, legal, national, new, national, small, federal, states3, national, land4, national, several, past, subject, several, federal, national, different, western, pristine, natural, geological, national, regional, local, public, such, national, special, such, public, ban, federal, joint, public, recent, symbolic, american, national, popular, nbc, newssurveymonkey, february, national, right, recreational, such, many, interior, ryan, teddy, roosevelt, teddy, first, national, first')
+
+('VBN', 'filed, published, signed, revoked, been, revoked, been, redesignated, protected, designated, established, freer, used, repealed, owned, issued, signed, been, protected')
+
+('VBP', 'get, trump, act, land, have, congress, have, rescind, disagree, make, act, are, mean, try, land, operate, have, land, support, trump')
+
+('NNS', 'data, data, predecessors, sites, bears, bears, presidents, monuments, antiquities, monuments, parks, activities, data, parks, others, parks, kinds, sites, cases, antiquities, presidents, scholars, bears, monuments, monuments, antiquities, acres, monuments, others, administrations, acres, agencies, monuments, agencies, data, agencies, areas, activities, cattle, lands, lures, bullets, lands, bodies, companies, policies, people, parks, respondents, parks, activities, means, conservatives, conservatives, roosevelt')
+
+('VBD', 'signed, created, revoke, designated, raised, called, roosevelt, collected, took, owned, were, managed, kept, owned, had, was, took, conducted, said, said, was, said, established')
+
+('VBG', 'instructing, signaling, including, preventing, according, testing, including, depending, determining, including, grazing, logging, using, making, rejecting')
+
+('VBZ', 'appears, ears, ears, covers, acres, conservatives, thanks, has, promotes, has, sites, does, removes, ears, owns, falls, doesn, maintains, aggregates, evaluates, has, offers, does, has, has, extends, has, describes')
+
+('VB', 'designate, alter, damage, address, cover, map, have, allowed, protected, protected, abolish')
+
+('NNP', 'teddy')
+
+('JJS', 'largest, latest, west')
+
+('JJR', 'smaller, easier, more, less')
+

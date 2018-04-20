@@ -1,0 +1,45 @@
+Article: avengers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1071
+Raw number of types: 431
+Raw Type token ratio: 0.4024276377217554
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 465
+Number of types: 313
+Type token ratio: 0.6731182795698925
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBG', 'joining, jumping, asking, getting, going, avenging, realitywarping, talking, kicking, shapeshifting, destroying, measuring, getting, jumping, avenging, avenging, king, occurring, destroying, merging, speaking')
+
+('NN', 'avenger, fourstory, building, walt, hickey, movie, get, github, github, cun, shi, note, spoiler, article, anyone, age, spoiler, question, avenger, age, theater, point, universe, mcu, number, avenger, film, year, number, film, actor, contract, avenger, thing, book, fan, year, death, fleeting, health, insurance, friend, handle, coil, issue, death, books3, criterion, character, friend, let, case, man, death, chill, reader, someone, everyone, year, writer, character, life, model, robot, character, future, adventure, character, stasis, tube, sent, pocket, dimension, adventure, counterearth, someone, consciousness, killer, robot, alternatedimension, self, doc, ock, process, thing, weird, marvel, wikia, avenger, mortality, rate, character, team, avenger, analysis, time, percent, team, let, way, story, percent, chance, die, membership, card, avenger, building, fan, mcu, nobody, avenger, iron, man, hulk, captain, thor, hawkeye, widow, scarlet, witch, quicksilver, vision, course, time, fact, hawkeye, recovery, rate, toptier, avenger, death, hero, roster, avenger, life, insurance, divine, death, avengers7, ezpass, occasion, individual, comeback, franklin, scarlet, witch, side, life, chaos, reaper, colleague, deal, time, traveler, death, time, chance, member, avenger, stint, afterlife, percent, chance, death8, mvp, avenger, jocasta, android, janet, van, dyne, time, time, year, operation, mortality, rate, fan, member, die, month, death, month, mind, rate, month, marvel, throe, universe, annihilation, casualty, watch, couple, movie, avenger, age, ultron, captain, war, witch, magic, pull, lot, thing, truly, marvel, studio, character, performer, portraying')
+
+('VBN', 'filed, involved, planned, considered, shown, implied, killed, killed, hidden, updated, listed, stayed, based, built, destroyed, recovered, given')
+
+('NNS', 'data, data, dataavengers, people, richards')
+
+('VBP', 'cun, fear, believe, friend, know, die, think, decide, say, analyze, see, know, earth616, expect, know, see')
+
+('JJ', 'shi, researched, avenger, ultron, intentional, ultron, cinematic, next, couple, dead, comic, team2, fantastic, mortal, dried, comic, dead, dead, dead, new, skrull, alien, decoy, hulk, sent, follow, dead, avenger, onslaught, follow, dead, comic, current, former, team5, fourstory, safe, screen, black, single, comic, twice, remarkable, first, counted, total, unlucky, meat, loaf, microverse, good, grim, tempt, many, first, second, third, marvel, universe, ultron, avenger, overall, comic, current, former, permanent, next, several, comic, universe, next, civil, bite, scarlet, tempestuous, shit, end, right')
+
+('VBD', 'conceived, saw, left, started, learned, signed, shuffled, died, died, died, killed, merged, died, happened, combed, joined, briefly4, found, died, joined, signed, died, died, made, dragged, made, returned, recovered, accompanied, named')
+
+('VBZ', 'exceeds, define, appears')
+
+('VB', 'get, get, cut, iron, fake, die, put, fall, get, die, keep, increase, remember, kill')
+
+('JJS', 'closest, least, least')
+
+('JJR', 'older, better, avenger, avenger')
+

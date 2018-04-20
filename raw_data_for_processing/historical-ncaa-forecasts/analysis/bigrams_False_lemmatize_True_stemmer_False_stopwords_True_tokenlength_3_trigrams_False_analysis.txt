@@ -1,0 +1,45 @@
+Article: historical-ncaa-forecasts
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 993
+Raw number of types: 370
+Raw Type token ratio: 0.3726082578046324
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 441
+Number of types: 258
+Type token ratio: 0.5850340136054422
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'mar, ncaa, bracket, work, nate, silver, march, madness, hallice, basketball, tournament, lance, image, forecast, probabilistic, state, defeat, virginia, call, model, michigan, state, percent, chance, percent, chance, intent, time, course, team, edge, percent, mercer, week, mercer, time, question, forecast, term, calibration, advertising, run, time, team, percent, favorite, percent, time, tournament, projection, year, formula, period, change, computer, power, rating, espn, basketball, power, index, season, baseline, evaluation, game, year, game, file, prediction, emphasize, prediction, york, time, version, game, prediction, percent, time, win, model, percent, time, level, forecast, percent, percent, confidence, drawn, result, time, tell, everything, game, mercer, state, virginia, break, game, bin, way, use, win, probability, example, bin, game, win, probability, percent, percent, practice, database, ohio, state, percent, chance, university, texas, san, antonio, game, fact, time, exception, year, missouri, state, percent, number, work, bin, win, probability, percent, percent, team, time, fact, game, percent, time, team, game, contrast, team, probability, percent, percent, game, percent, bit, win, probability, performing, team, probability, something, model, difference, range, chance, game, bin, confidence, interval, result, confidence, calibration, deviation, calibration, encourage, check, work, let, way, judge, result, tournament, result, probability, tell, buddy, duke, year, correction, work, reader, database, winner, connecticut, chart, text, reflect, correct, result, assistance, apologize, error')
+
+('VBG', 'checking, king, calling, winning, evaluating, winning, winning, adding, counting, containing, according, simulating, beating, going, getting, following, winning, speaking, checking')
+
+('VBN', 'filed, upset, supposed, expected, published, played, published, supposed, based, expected, expected, listed')
+
+('VB', 'get, say, purpose, think, win, result, explain, know, think')
+
+('NNS', 'data, github, data, datahistoricalncaaforecasts, defends, duke, hindcasts, favorite, bin, portrays')
+
+('VBP', 'github, mercer, rasheed, say, give, include, find, win, evaluate, expect, win, result')
+
+('JJ', 'shot, sulaimon, getty, ncaa, tournament, fivethirtyeight, michigan, much, give, tossup, much, favorite, last, happen, probabilistic, underdog, technical, long, fivethirtyeight, ncaa, little, substantive, fifth, reasonable, total, total, playin, important, new, espn, advance, actual, overall, favorite, macro, calibrated, interval, important, favorite, duke, slim, michigan, intuitive, digit, favorite, favorite, favorite, favorite, percent, percent, norfolk, favorite, favorite, percent, little, worse, favorite, win, favorite, cocky, wrong, random, graphic, respective, interval, perfect, perfect, significant, overall, true, fivethirtyeight, kentucky, national, semifinal, table, appreciate')
+
+('JJR', 'clearer, heavier, heavier, worse, heavier, easier, better')
+
+('VBD', 'duke, changed, fivethirtyeight, fivethirtyeight, lost, supposed, performed, discovered, changed')
+
+('VBZ', 'contains, contains')
+
+('JJS', 'heaviest')
+

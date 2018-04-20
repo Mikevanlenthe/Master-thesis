@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 841
+Raw number of types: 347
+Raw Type token ratio: 0.4126040428061831
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 369
+Number of types: 219
+Type token ratio: 0.5934959349593496
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'polic casselman file polic github github datapolicekil makeshift scene freddi arrest baltimor david goldman makeshift scene freddi arrest baltimor david goldman monday launch count kill year tuesday plan repeatedli polic flaw build combin reader effort encount verifi report call verifi crowdsourc wherev possibl includ demograph inform kill detail incid address kill place colleagu reuben fischerbaum convert address censu tract look demograph econom inform neighborhood death download research journalist larg chanc build work inform race2 incom censu thing polic place neighborhood poorer blacker percent kill place censu tract percent nation term household quarter die tract majorityblack popul nation percent popul majorityblack especi kill databas percent die tract percent nation inequ kill area roughli rate them5 number death michael baltimor neighborhood job limit protest street death condit discriminatori caus anger kill exampl vincent cordaro shot home rockland york york citi suburb household incom peopl databas cordaro arm die accord news report shotgun standoff look news shot shephard exampl shot censu houston household incom polic traffic stop number base peopl case yield result natasha mckenna exampl die counti jail fairfax virginia censu tract countri word number caution group effort number work post github github code censu tract link')
+
+('VB', 'kill kill kill take kill take kill happen happen love find')
+
+('JJ', 'american gray gray guardian impress interact databas american polic entri guardian offici statist deepli guardian submiss opensourc fatal previous reliabl guardian incid basic guardian allow guardian full public give basic tract3 clear tend whole bottom income4 polic live tract black american neighborhood africanamerican polic guardian poorest overal racial polic africanamerican live narr emerg ferguson freddi gray poor predominantli black opportun cite polic tactic underli polic pattern februari white fatal counti median guardian famili sevenhour polic incid unarm black polic frank tract median tabl live thank guardian datacollect easi')
+
+('NNP', 'kill kill')
+
+('VBZ', 'data polic lowincom interpret')
+
+('NNS', 'data sinc data media data data data data econom data data censu')
+
+('VBP', 'start go coverag race1 includ occur make avail give occur educ mean die includ make statist know')
+
+('VBN', 'written fled')
+
+('VBD', 'found took took took threaten said strang reli')
+
+('JJR', 'poorer')
+
+('JJS', 'richest least')
+

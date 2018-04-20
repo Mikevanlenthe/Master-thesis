@@ -1,0 +1,35 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1002
+Raw number of types: 272
+Raw Type token ratio: 0.2714570858283433
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag check versus difficulty source customer difference checker year jerk newspaper news fee problem respondent check check look check check volunteer walt hickey weather github github storm cloud march cassie trotter street channel verizon station online station weather default phone everyone regard audience survey question weather report method percentage phone default weather news website weather channel internet search newspaper radio weather newsletter weather channel percent penetration respondent report couple weather checker weather percent percent checker weather channel percent percent internet search percent versus percent weather channel group person probability respondent basis bracket percent weather percent respondent weather newspaper england home weather percent weather spectrum percent region california washington winter temperate climate report weather channel television percent weather phone default weather percent percentage point difference weather channel news network weather phone television news percent weather news percent crowd percentage point difference weather channel carriage news weather survey thing look category website dataweathercheck sydney wall information radio harsh pacific smug network interesting anything image customer game least')
+
+('VB', 'find check know')
+
+('VBP', 'seem find checker respondent point eyeball difficulty getty need crowd')
+
+('NNS', 'people data fios people data people people people nondailies people people eastcoasters people people people data data data data nondailies')
+
+('JJ', 'respondent daily respondent apps respondent forecast overall weather daily website daily website inspired generational large journal financial many true wrong surveymonkey simple main local specific consistent daily likely specific daily likely daily general young likely local stupid predictable daily local young local local financial local specific particular cover assumed performed checked felt sure')
+
+('JJR', 'weather weather weather weather older older older')
+
+('VBD', 'weather filed faced dropped wondered asked said said checked climbed asked')
+
+('VBG', 'weatherchecking interesting growing flocking checking interesting depending shocking snapchatting finding sucking getting according')
+
+('VBN', 'compared aged taken come asked looked checked checked liked')
+
+Token analysis after pre-processing 
+Number of tokens: 306
+Number of types: 158
+Type token ratio: 0.5163398692810458
+

@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 702
+Raw number of types: 330
+Raw Type token ratio: 0.4700854700854701
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'part america walt hickey food github github datathanksgiving2015 turkey bird farm sonoma california year justin sullivan getty mass consumption point santa claus float macy parade week christmas music radio food spirit nation bird audience poll pork roast beef cursory turkey meat centerpiece meal poultry check side region southeast home sauce region percent homemade variety percent region percent rest country percent nation southeast percent region menu country england mind percent percent nation pursuit gronk endorse squash something region apple england america potato west nation variation percent family ditch party leave dinner hang school percent time download')
+
+('VBZ', 'eats dishes enjoys unites associates')
+
+('VBG', 'thanksgiving thanksgiving welcoming finding thanksgiving thanksgiving thanksgiving thanksgiving saying going thanksgiving losing demanding confusing buying thanksgiving checking')
+
+('VBN', 'filed chicken consumed compared compared done')
+
+('NNS', 'data data images thanks refugees shores media games others canadians plans commemorates turkeys things factions eats traditions respondents shoutouts dishes rules respondents distinctions respondents states states respondents regions prefers respondents americas consumes traditions regions respondents sales friends respondents kids data')
+
+('JJ', 'last give tale foreign american secret sure third peel holiday bargainbin surveymonday main white regional side dish definitive cranberry pick atlantic side texas central southern necessary percent form cheese dish percent overall squash table whole finding whole dessert pumpkin pecan sweet america dessert american shit little solid black friday great little early early high thirtyseven facebook')
+
+('VBP', 'celebrate identify midst start bring percent come cauliflower cornbread dinner carbs include america cherry leave know')
+
+('VBD', 'parade canned assorted said said')
+
+('JJS', 'least midwest')
+
+('VB', 'carve shop worth')
+
+('JJR', 'deeper')
+
+('NNP', 'middle middle atlantic')
+
+Token analysis after pre-processing 
+Number of tokens: 284
+Number of types: 214
+Type token ratio: 0.7535211267605634
+

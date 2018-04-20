@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1411
+Raw number of types: 475
+Raw Type token ratio: 0.33664068036853295
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 733
+Number of types: 325
+Type token ratio: 0.4433833560709413
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'woman world model work boic silver file soccer christin sinclair hope solo unit state dure match game jami mcdonald imag christin sinclair hope solo unit state dure match game jami mcdonald check woman world woman sport woman world gather everyth databas woman soccer match sinc mani game woman nation team rate woman soccer power index project world unit state germani enter team dark player watch colleagu allison world preview methodolog project wspi rate base simplifi version soccer power index system rate soccer team base compon team rate deriv score match player rate base result club play individu player nation team roster wspi team rate compon detail club play readili avail woman soccer featur compon rate score match includ match time shootout game rate world match count team rate time china wspi play unit state world rate rate rate mani goal team score averag competit match1 rate goal match control strength schedul rate rate compon combin wspi rate percentag possibl point team score hypothet roundrobin tournament team world look detail exampl team wspi rate calcul unit state result rate team match match date locat competit rate rate glasgow scotland kansa citi kansa world qualifi trinidad chester pennsylvania world qualifi portug friendli team rate weight rate march match franc receiv rel littl play becaus friendli olymp quit weight howev possibl match case meanwhil strength schedul matter wspi rate franc beat becaus franc tougher team match oppon receiv rate becaus didn wspi rate team locat match home advantag competit match histor goal home team favorit matchup rate team gener wspi rate everi team world estim probabl team team3 calcul number goal team match matrix possibl outcom use poisson distribut match estim probabl loss scorelin thi distribut possibl score import becaus tiebreak advanc knockout stage world goal account hand calcul chanc team tournament knockout round tournament simul tournament time percent chanc thi mean approxim simul simul play team wspi reflect result simul loos speak thi account possibl team preworld wspi4 match knockout round continu time shootout tie time handl case time treat team score rate dure regulation5 shootout probabl wspi random shootout skillbas team wspi rate percent shootout databas team domin shootout time exampl uswnt percent favorit beat game percent favorit shootout thi reason interest weaker team play question nate articl detail philosophi drop note woman tournament')
+
+('JJ', 'nate beat olymp getti beat olymp getti imag same rich intern elit mccann conjunct espn intern onli major similar final extra locat match friendli exampl final offens intern such overal other recent give weight faro featur exampl overal gamebygam recent importance2 maximum much uswnt mexico uncommon weak poor adjust much team good veri good worth equal other specif first other possibl allow probabl tournament updat tournament outperform extra sure simul extra treat good regular regular onli usual underdog technic wspi follow')
+
+('VBZ', 'canada fifa canada fifa togeth primarili offens offens receiv defens receiv defens deriv evid')
+
+('VBD', 'fivethirtyeight wspi went weight olymp franc weight weight beat thu spent shootout')
+
+('VBP', 'predict have sport want frontrunn take nate account account continu wspi compon reflect scotland mexico fairli expect import expect know match win tie make accur match tend thailand have appli hope')
+
+('NNS', 'data develop hors data teamrat vari offens defens interpret defens mani defens defens glasgow offens offens convers offens individu shorten occur')
+
+('VBN', 'forecast read broken given been given given')
+
+('VB', 'find call develop consider expect conced expect wonder get lose make beat score convert victori take advanc dure consider regul be')
+
+('JJS', 'wspi most')
+
+('JJR', 'more stronger higher lower more score higher slower better more')
+

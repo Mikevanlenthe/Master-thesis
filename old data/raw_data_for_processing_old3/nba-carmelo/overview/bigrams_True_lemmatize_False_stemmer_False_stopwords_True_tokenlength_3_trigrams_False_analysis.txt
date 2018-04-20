@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 799
+Raw number of types: 366
+Raw Type token ratio: 0.45807259073842305
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1145
+Number of types: 848
+Type token ratio: 0.7406113537117904
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'complete nba simple elo total elo simple final elo upset houston elo final western semifinal meant los elo average league select bulls5 golden fourth championship peak elo lead slump next double title greatness nbas rapid span several old wilt nov consecutive dont respect modern weak lackluster regular relative good aboveaverage current san common similar long great new walt smooth new regular first active next feb aba former thecomplete franchisesrelative morenba nba forthe ratean asimple basedon calculatedelo forevery aba gamein intotal total elo havea asimple arethe thefinal eachgame andwhen gainelo andfor winningby elo arezerosum whenthe gained49 pointsby winningthe thefinal oftheir theirwestern conferencesemifinal thatmeant meantthe lost49 approximatelyaverage average althoughthe theleague averagecan expanded beginwith selecta itshistory everwas wasbulls5 thatthe bullswith with72 hadthe surpassedby ingame pickedup fourthnba atthe hittheir stompedthe inseattle intoa forthe thenext losingboth bydouble clinchingthe thetitle hada becausetheir watereddown nbasrapid ofseveral old andjerry supposedto approachingthe ofthe strengthenedby retirementjust intothe throughjan raisingtheir from1544 wasthe althoughthe didgo itsfirst celticsdont won11 of13 from1957 unparalleledin inmodern elodoesnt fortheir occasionallylackluster lacklusterregular leastrelative good formuch maintainedan ratingfor spurs incommon common togethersimilar longtime bestknicksthe onefor ledby were231 andhit ratingof of1712 franchisehistory alittle littleless smoothafter new theregular toseven inthe bythe wonthe firsttitle fallento nov28 otheractive anelo solong thenext feb werestill quitelived upto')
+
+('NN', 'history nba strength game season rate nba team method elo measure strength gamebygame nba franchise game history formula score game get credit conference rating average league expansion rating team zoom history surprise chicago elo rating state game nba end season playoff record chicago game season los elo rating part competition expansion league chamberlain jerry team end era perception retirement season streak jan rating rating season title dominance elo doesnt care playoff rating hung era team elo rating antonio spurs team time season york basketball dave nov rating franchise history york close season time title rating awhile nov team elo peak closest moment linsanity play glory completehistory historyof ofthe thenba nbaevery relativestrength strengthafter afterevery everygame game howthis the201718 championshipshow howdo doyou annba nbateam teamacross onemethod methodis iselo elo simplemeasure measureof ofstrength ongamebygame everynba nba andaba franchise franchiseafter afterevery everygame inhistory historyover ratingsin simpleformula formula inputsare finalscore scoreof ofeach game whenit itwas butthey theyget getmore morecredit creditfor forupset bylarger zerosum thehouston finalthree westernconference duringthe the201415 thelos ratingof leagueaverage canbe higheror dependingon onhow theleague leaguehas expansion witha rating select ateam teamabove andzoom zoomin toexplore history the199596 bestelo ratingever everuntil untilthey bythe thegolden goldenstate game1 ofthe the2017 nbachampionship theend endof thatseason season butthe theirpeak peakelo elo afew whenthey seattleto totake takea leadin inthe improvetheir theirplayoff playoffrecord recordto chicagowent wentinto aslump nexttwo bothby titlein ingame gamesto togreatness goinginto intothe the197172 season thelos middling1496 rating inpart theircompetition competitionwas downby bythe thenbas rapidexpansion expansion theleague hadgone gonefrom fromnine nineto franchisesin inthe thespan elginbaylor baylor yearsold wilt wiltchamberlain chamberlain jerrywest west theteam teamwas tobe theend theera era aperception justnine theseason season thestreak streak fromnov jan7 reeledoff off33 theirelo ratingover to1753 thatwas ratingfor forthe theseason season goon towin winthe the1972 title sixthand firstsince dontget getany theboston through1969 adominance doesntcare careabout theirweak relativeto totheir theirplayoff ratinghung hungaround muchof ofthe theera era andthe theteam anaboveaverage aboveaverageelo forover lakersand andthe thecurrent currentsan sanantonio ateam teamwith withwhich alot lotin peakeda timeago the196970 seasonwas wasa agreat greatone fornew newyork yorkbasketball basketball frazierand throughnov hitan anelo highestin infranchise history newyork yorkwent toclose closeout regularseason seasonand andwas thetime timethe titlein inmay to1591 itsbeen beenawhile awhilesince sincenov activeteam teamhas hasan elopeak peakso closestare arethe march march8 feb23 whenthey stillin inthe theaba aba everymoment momentof daylightsince sincefrom fromlinsanity linsanityto tolarry livedup totheir theirformer formerglory glory')
+
+('NNS', 'franchises predictions warriors championships decades results ratings ratings ratings inputs teams points victories margins ratings rockets points games playoffs angeles clippers points teams bulls bulls wins warriors finals bulls games supersonics seattle finals games digits lakers games lakers lakers franchises years veterans years baylors games lakers wins points teams lakers franchises celtics celtics celtics titles sports rings knocks celtics opponents seasons achievements celtics years lakers celtics streaks knicks bestknicks willis things games playoffs knicks bucks nets knicks johnsons predictions seasonwarriors warriors fivechampionships acrossdecades gamebygameresults results eloratings eloratings teams teamsalways elopoints upsetvictories margins eloratings houstonrockets elopoints threegames playoffs angelesclippers elopoints points expansionteams bulls bulls5its chicagobulls regularseasonwins statewarriors nbafinals finals upits thebulls fewgames thesupersonics thefinals twogames doubledigits thelakers greatnesslakers angeleslakers severalyears years agingveterans bybaylors ninegames thelakers consecutivewins wins points theteams thelakers thefranchises andits the60s respectceltics bostonceltics nbatitles modernsports sports aboutrings rings andknocks theceltics weakopponents regularseasons seasons playoffachievements achievements theceltics years thoseceltics similarstreaks theknicks bywillis walt theknicks things sevengames theplayoffs theknicks thefranchises thebucks andnets ofknicks larryjohnsons playhas')
+
+('VBP', 'relative play aba gain elo zerosum begin regularseason chicago take improve elgin peak win sixth get boston nba least elo lot reed march larry predictionsfor yourate decadesof ratingsfor over60000 ratingshave whereand alwaysgain pointsfor victoriesand ratingsare gamesof teamsbegin formerlythe itsno warriorsin chicago itsfourth bullshit gamesearlier supersonics10886 finalsand lakers33 partbecause veteranselgin gamesinto teamspeak lakersdid franchisessixth anyrespect celticsthe elo knocksthe celticsfor opponentsand atleast celticselo whichthose celticshave streaks willisreed reed anddave knickswere werea gamestwice playoffs johnsons4point')
+
+('VBZ', 'works angeles knicks franchises everyfranchises thisworks onlyinputs largermargins losangeles recentlythe exploreits losangeles spanof endof antoniospurs agobestknicks bucks nets')
+
+('VBN', 'based gone taken wasplayed played hasexpanded chicagopicked wassupposed havea wastaken hadfallen hasnot')
+
+('VBD', 'calculated played gained lost expanded explore surpassed picked hit stomped went watered anchored supposed strengthened reeled unparalleled maintained peaked led hit went daylight lived strengthbased wecalculated rocketsgained clipperslost a1300 winshad weresurpassed championshipat theystomped a30 to141 slumpfor game6 lakershad waswatered leaguehad to17 andanchored perceptionstrengthened baylorsretirement lakersreeled since1954 celticswon dominanceunparalleled teammaintained put knickspeaked led went3721 knickswon knicksdaylight')
+
+('VBG', 'winning winning winning depending losing clinching going middling aging approaching raising forwinning winning forwinning bywinning semifinalduring arating lowerdepending elorating gameslosing beforeclinching lakersgoing amiddling elorating byaging beapproaching raising elorating peakrating elorating elorating elorating')
+
+('JJR', 'larger higher lower frazier waltfrazier')
+
+('JJS', 'best best west highest thebest thebest thehighest nextclosest')
+
+('VB', 'fallen play andimprove reallygood theirrating ratinghad')
+

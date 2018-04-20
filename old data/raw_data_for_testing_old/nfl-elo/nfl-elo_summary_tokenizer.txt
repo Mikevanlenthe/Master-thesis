@@ -1,0 +1,28 @@
+Token analysis before pre-processing 
+Raw number of tokens: 960
+Raw number of types: 399
+Raw Type token ratio: 0.415625
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('NN', 'rate##team##decade##play##method##measure##strength##gamebygame##result##rating##game##league##history##rating##team##rating##average##league##expansion##team##start##rating##methodology##game##result##profootballreferencecom##championship##bowl##league##title##bowl##football##league##football##professional##football##association##allamerica##football##conference##franchise##football##history##game##team##zoom##history##professional##football##franciscos##history##england##patriot##super##bowl##season##calculate##count##patriot##rating##stretch##league##history##stretch##belong##average##season##playoff##time##game##time##championship##patriot##peak##rating##time##start##season##childhood##brady##bill##cowboy##project##cowboy##history##dallas##team##football##record##season##cowboy##werent##fan##reason##trade##cowboy##bowl##herschel##walker##minnesota##exchange##bevy##player##pick##emmitt##smith##safety##tackle##russell##contributor##dallas##walker##yard##season##deal##history##payoff##wasnt##cowboy##season##rating##playoff##year##bowl##season##title##cowboy##rating##championship##game##gain##point##year##time##packer##history##anyone##packer##championship##team##bowl##merger##team##existence##reminder##longevity##football##chance##wisconsin##bear##title##super##bowl##peak##season##team##packer##success##peak##brett##championship##season##bowl##figure##aaron##peak##history##fan##miami##dolphin##didnt##wait##success##dolphin##year##season##bowl##perfect##record##team##history##year##miami##backtoback##championship##title##game##team##resurgence##bowl##loss##curve##way##jacksonville##jaguar##lesser##florida##team##jaguar##year##creation##rating##week##season##championship##game##revival##decade')
+('JJ', 'simple##total##average##league##read##super##super##national##american##league##american##defunct##choose##favorite##entire##incredible##last##become##dynasty##average##franciscos##born##nfls##entire##arent##much##optimistic##defensive##huge##carry##full##lopsided##immediate##super##january##good##long##green##super##nfls##green##chicago##slate##modern##january##squad##green##early##dolphin##early##super##next##peak##height##super##complete##high##miami##historical##comparable##peaked##lose##brief')
+('VBN', 'based##dominated##matched##returned')
+('VBD', 'calculated##expanded##played##selected##tried##francisco##made##racked##sent##became##surpassed##finished##cared##came##captured##emerged##came##favreled##joined##made##reached##went')
+('JJR', 'higher##lower##winner##super')
+('VBG', 'depending##including##excluding##seasonending##rebuilding##coming##giving##running##drafting##running##viking##bottoming##following##living##reaching##edging##winning##winning##hitting##thrashing##hitting')
+('VBP', 'include##win##answer##woodson##maryland##make##team')
+('JJS', 'least##greatest##best##best##highest##best##least##worst')
+('VBZ', 'depends')
+('NNS', '49ers##darren##theyd##rodgers')
+('VB', 'belichick##gotten##franchise##dolphin')
+
+Token analysis after pre-processing 
+Number of tokens: 434
+Number of types: 270
+Type token ratio: 0.6221198156682027
+

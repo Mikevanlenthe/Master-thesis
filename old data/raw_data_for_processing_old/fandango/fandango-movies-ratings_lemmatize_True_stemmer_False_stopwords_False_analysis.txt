@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2656
+Raw number of types: 735
+Raw Type token ratio: 0.2767319277108434
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1284
+Number of types: 554
+Type token ratio: 0.43146417445482865
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'suspicious online fandango fantastic restaurant fantastic hadn great good average decent decent online serious rotten overall poor single critic critic professional several popular rotten tomatoes1 different similar full consistency5 useful fandango nbcuniversal fivethirtyeight weird fandango other user connected immediate couple decent right percent impossible standard focused user seventyeight good live other charitable imdb metacritic aggregate metacritic rotten critic rotten imdb metacritic same unsurprising fandango metacritic critic metacritic rotten tomato rotten tomato couple favorable rightward moviegoer clear other engagement unfair theirs emailed only wrong average user average website aggregate spot next showtime increment fandango pull maximum star normal user fandango fandango extreme code star full sample ratingvalue same percent equivalent occasion clear fandango second decimal clear decimal entire review likely whole user fandangocom average normal fandango public further forth general logic next emailed algorithm website possible logic mobile true several skew high website innocent good online website major american similar other good federal deceptive endorsement promote truthful mary specific present review important other hickey past last long nash focused hard critic start reasonable indicative online freelance critic useful heuristic tongueincheek such critical metacritic worth critic inaccurate todd vanderwerff good personal true subjective')
+
+('NN', 'movie rating walt hickey movie github github datafandango avenger date dinner movie date star yelp movie ticket fandango website check thing star movie movie movie rating business hollywood something order office online rating aggregator sway money site tomato movie review rating weekend movie break film amateur site rating system metacritic2 imdb3 aggregating film review site criterion review system value rating scale4 attempt limit deliberate ratings6 rating system perfect subsidiary rating system movie get star analysis score fandangocom aggregate site review medium industry fandango interest desire movie company ticket consumer month colleague film rating fandango look film fandangocom ticket sale year check something film rating percent rating movie movie reviews9 none film rating percent rating star movie society rate film review site film user rating critic rating user score tomato tomatometer score tomato user score fivestar rating scale halfstar10 rating ballpark finding star rating imdb rating percent time aggregate score percent time user score percent time critic score percent time user score percent time reason score site competitor movie hour life opinion work shift fandango curve version stockholm syndrome deeply rating system movie star fandango didn offer explanation site user rating system access customer behavior speculate rating differ fandango statement intent purpose fandango star scale thing rating issue methodology rating website film page user rating star film poster area star fivepoint scale halfstar beneath star rating list number review film html source page information take monday film star review information html backend page rating star minimum score star sense thing code page system site halfstar case rating star fandango ratingvalue number star page film sample review page source doesn round rating doe round moment case avenger ultron monday film star review page avenger ultron meaning halfstar kind effect board fandangocom system film occasion quarter time number star mean movie average rating occasion percent time fandango occasion time fandango star rating12 score halfstar score13 point percent time fandango system halfstar film rating avenger ultron ratingvalue star time place ratingvalue html code place occasion film star case include movie average rating movie fall half star require film review movie star system average practice relation coordinator alison meulen email star half star example star site company disparity example system practice software glitch site star rating system half star half star company statement fandango plan fandango apps film flag company score fandango fandangocom methodology example movie rating company ticket kind survive ticket seller reason issue couldn site figure something trade commission consumer anticompetitive business practice pay attention rating product user rating consumer nonmisleading engle division advertising practice engle couldn comment company investigation expectation company user rating movie vacation purchase consumer issue point walt world online review wisdom http servecastfirecoms5l8r1audio2600169whatsthepoint2015102216210964kmp3 subscribe fivethirtyeight matter movie studio look year release strategy movie playing time wordofmouth country office analyst office today theater weekend effect idea studio promote film fandango case problem limitation movie rating film kenigsberg reader kind movie aggregator nation number finality site culture editor voxcom sense movie question look math somehow reality experience')
+
+('VBN', 'filed excited reviewed become blamed built built pulled compared devoted analyzed found round given expressed pulled listed listed pulled across breakdown occurred rounded shown gained displayed represented related used based taken created head based')
+
+('NNS', 'data data fandango people generates user data data rotten fandango people data schema data stars11 directs electronics podcasts operates data review rotten doe')
+
+('NNP', 'ultron')
+
+('VBD', 'were picked checked bought decided thought sound said skewed started noticed received asked looked seemed were pulled normalized rounded were paid flawed said fandango fandango displayed received fandango rounded rounded pulled found gained handled presented rounded added added happened happened rounded asked said rounded described rounded round said told said checked raised found were starbased unnoticed said said said said accused said said added')
+
+('VBG', 'playing going increasing being opening picking combining according writing using aggregaterating according rounding according rounding rounding rounding rounding including juicing saying rounding rounding rounding returning rounding using rounding rounding rounding rounding rounding rounding selling missing using saying looking releasing building getting opening hitting opening looking inventing looking boiling')
+
+('VBP', 'have hold go aggregate make have have have have continuum maintain aren fivestar review github fail weren tomato make have bell earn have have fandango say make expect take have think display know have know online aren purport crowd bruce thenumberscom track think have seem shorthand think think tomato have feel have have')
+
+('VB', 'thousand interference sell review sort higher round expect expect round round have close show skeptical material review extreme come answer')
+
+('JJR', 'fewer higher higher higher more higher higher le more higher more more more')
+
+('JJS', 'least nearest nearest least nearest highest nearest')
+
+('VBZ', 'mortdecai fandango provides ratingvalue appears ratingvalue halfstar doesn appears appears protects nowadays adparamszones')
+

@@ -1,0 +1,31 @@
+Token analysis before pre-processing 
+Raw number of tokens: 48
+Raw number of types: 43
+Raw Type token ratio: 0.8958333333333334
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'poll pollster selzer show respond opinion percentag debat field night time carl bialik github sign iowa clinton result')
+
+('VBD', 'said')
+
+('JJ', 'trump hampshir thought predict')
+
+('VB', 'matthew')
+
+('NNS', 'data')
+
+('VBP', 'peopl')
+
+('VBZ', 'caucuses')
+
+Token analysis after pre-processing 
+Number of tokens: 27
+Number of types: 27
+Type token ratio: 1.0
+

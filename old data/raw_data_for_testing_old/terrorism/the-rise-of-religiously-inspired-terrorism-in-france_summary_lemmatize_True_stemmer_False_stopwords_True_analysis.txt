@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1196
+Raw number of types: 394
+Raw Type token ratio: 0.3294314381270903
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag rise terrorism religion france bialik terrorism github github dataterrorism carillon cafe terrorist thibault paris quarter century france terrorism rock concert dinner restaurant tunisia birthday attack president hollande state series france month knife dijon akbar month newspaper kosher supermarket june bos state state sympathizer cutter rifle train violence separatism france year number paris rise france terrorism point number state france population onefourth state number state estimate france april state france friday attack belgium passport attack number michael terrorism researcher advisor president corp email interview number france number involvement activity intelligence surveillance dangerousness factor prevalence france rest country cyprus france greece croatia ireland latvia belgium czech luxembourg slovenia denmark italy malta ireland england lithuania romania availability number plot security director foundation thinktank email interview collapse yugoslavia surplus europe madrid hostage crisis school beslan tube plane year board plane week board bomb state responsibility plane crash article coverage debate country islamic terrorist separatist union friday onethird august brian portugal slovakia hungary asiapacific terrorist london oslo organization attack survey gohel attack site authority life act victim score sister act attack link passenger attack attack property arson attack expert resident authority resource choice gun arm firearm hand incident death attack event year attack database responsibility europol attack europol syria fight fight fight predict check claimed deadliest')
+
+('NNS', 'data people people aided data sweden data people stats people people others people netherlands people remains syria')
+
+('JJ', 'front saturday tribute camus friday terror figaro incident paris qaeda august act separatist terrorist attack2 oneeighth january suspect french surveillance finland germany estonia sajjan europe shot traveled previous terrorist french previous global cambodian french last last allahu great terrorist next satirical islamic political european last many french terrorist corsican recent separatist terrorist terrorist large french islamic islamic islamic unclear islamic syrian senior possible terrorist difficult potential small available northern republic terrorist international former various criminal western recent ukraine last russian last islamic live second democratic travel suspect tour american incident resident wale weapon official parisian come franois islamic')
+
+('NNP', 'december')
+
+('VBP', 'branch wave rand thousand spain poland europe russia egypt carl continue include scotland occur include police attack fighter service')
+
+('VBN', 'shift inspired killed killed combined blamed afflicted tied thwarted compiled inspired committed targeted gone carried linked arrested gone returned suspected made claimed inspired inspired motivated injured yelled killed died killed killed killed crashed contributed')
+
+('VBZ', 'jenkins represents')
+
+('VBG', 'contributing bombing shooting eating bombing bombing according attending celebrating according using planning visiting killing according including according preparing according following plotting killing killing')
+
+('VBD', 'switzerland austria filed killed climbed overwhelmed traded ended unrestricted said said claimed came appeared beheaded died said said')
+
+('JJR', 'flower larger fewer')
+
+('VB', 'keep')
+
+('JJS', 'least latest latest')
+
+Token analysis after pre-processing 
+Number of tokens: 441
+Number of types: 303
+Type token ratio: 0.6870748299319728
+

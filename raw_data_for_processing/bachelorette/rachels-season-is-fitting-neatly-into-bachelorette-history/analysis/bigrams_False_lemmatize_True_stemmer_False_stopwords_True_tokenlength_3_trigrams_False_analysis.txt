@@ -1,0 +1,45 @@
+Article: bachelorette/rachels-season-is-fitting-neatly-into-bachelorette-history
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 678
+Raw number of types: 296
+Raw Type token ratio: 0.4365781710914454
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 293
+Number of types: 194
+Type token ratio: 0.6621160409556314
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'rachel, season, history, walt, hickey, ella, koeze, databachelorette, jul, home, stretch, season, bachelorette, time, preseason, bachelor, bachelorette, analysis, rachel, attorney, texas, field, gentleman, handle, challenge, contestant, rachel, season, date, elimination, demario, girl, television, roseceremony, eliminations1, date, aggregate, predecessor, season, power, firstimpression, make, move, day, recipient, bryan, date, love, folk, anything, date, rachel, bit, anything, season, proof, date, date, year, twoonone, date, survivor, week, week, twoonone, date, percent, participant, case, competition, doom, head, lee, date, rachel, guy, week, history, season, time, contender, bachelor, bachelorette, point, value, date, value, date, oneonone, date, smallgroup, date, largegroup, date, date, oneonone, date, twoonone, half, date, threeonone, onethird, date, peter, dean, neck, term, time, bryan, break, week, move, everyone, time, rachel, week, chance, thing, number, chart, reality, rachel, date, family, meet, point, bestcase, scenario, date, man, love, thing')
+
+('VBG', 'fitting, going, breaking, going, remaining, following, considering, assigning, speaking, going, counting, coming, getting, getting, shocking')
+
+('JJ', 'bachelorette, perfect, rigorous, previous, unscheduled, broken, nice, historical, contestant, final, hometown, real, dean, tend, mean, next, contestant, kenny, head, serpentine, kenny, next, much, exclusive, final, rachel, eric, late, oneonone, enough, top, poor, first, last, harsh, total, finale, crazy')
+
+('VBD', 'filed, narrowed, eliminated, rose, rose, sight, learned, doomed, wrote, eliminated, went, bounced, eliminated, decided, looked, proceeded, met')
+
+('VB', 'get, mean, check, get')
+
+('NNS', 'data, github, data, men, men, bryan, people, twoonones, lee, men, adam, men')
+
+('VBP', 'github, lindsay, favor, oneonone, twoonone, spell, say, spend, stand, matt')
+
+('VBN', 'published, held, seen, given, gone, gone, hometown, come, based, spent, rejected, gone, engaged')
+
+('VBZ', 'seems, reinforces')
+
+('JJS', 'strongest')
+
+('JJR', 'higher, le')
+

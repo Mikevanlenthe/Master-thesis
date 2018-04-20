@@ -1,0 +1,43 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1947
+Raw number of types: 497
+Raw Type token ratio: 0.25526450950179763
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags pollsters pollsters datapollofpollsters supporters moines supporters moines elections others polls democrats pollsters polls pollsters principles polls results polls views pollsters results defenses performances results polls pollsters pollsters questions results polls reasons polls respondents polls results geographies others polls details polls winners losers victories calls ways forecasts polls races polls voters jobs women independents polls people polls races organizations polls trends polls pollsters polls ones models pollsters models differences pollsters pollsters trends implications results pollsters things pressures pollsters methods polls pollsters years pollsters elections pollsters procedures organizations votes ratings polls points points pollsters pollsters rivers polls points pollsters races years rivers firms winners losers years years methods results cellphones cellphones respondents pollsters polls polls purposes seats quotes polls surprises months emotions pollsters numbers enjoyed data polls republicans kansas polls speaks needs knows')
+
+('VBN', 'surveyed zagged conducted responded checked answered polled embarrassed answered made thought showed captured made spotted tended asked predicted thought asked tied stumbled assessed concluded pointed yielded included asked elaborated filed credited skewed deviated done focused taken requested balanced muted named predicted anticipated named named published assessed done conducted onesided weighted')
+
+('VBD', 'felt said prompted followed assessed said reported said said said said came showed showed said said said pointed said said said said said went showed answered wrote asked assessed said said said said said said said went gave said said said said said said said heading1 fivethirtyeight foresaw skewed suggested made asked drowned asked pleased right')
+
+('JJ', 'appear want wanted closed answered argued dissatisfied combined looked overstated answered thought firm firm silver seventeen wednesday result borick washington iowa handle right ernst yougov public wednesday website average average yougov average jensen universe fuck variable sleep credited underestimated worried balanced encountered stuck related senelect neibergall senelect neibergall decisive many second consecutive national ethical first prolific political partial early full valid many wrong general good many wrong gubernatorial possible many close several previous good unusual good good correct pessimistic third anonymous many good presidential good willing successful last reticent active previous previous masondixon specific good little irresponsible underperformed online next many reliable colorful whole turbulent little different speaks ernst finetune vote right')
+
+('NN', 'decide john spoke grove found year carl poll github github joni ernst tuesday selzer company race joni ernst tuesday selzer company race senate house statehouse tuesday preelection election party campaign election work industry performance question poll light election year nation surprise poll election response night direction poll performance surveymonkey github pollster night time everyone performance home tuesday muhlenberg college case case barbara carvalho college economy president obama time movement election carvalho towery insideradvantage towery willingness night anonymity request carvalho part average carvalho science challenge time industry struggle speed cost respondent problem electorate pollster respondent election electorate electorate pollster battle pollster anzalone anzalone liszt research year methodology money time time organization pollster work company firm joni iowa senate race database count policy news zogby yougov poll performance article yougov vote share percentage bias absolute error2 jensen mention firm yougov error brad coker research majority name everyone consensus phone night everyone joseph pollster online target race time control number joseph anzalone provider matter business cycle mean iowa colorado play equation language night carvalho election night analysis experience enema beat colleague brief postelection tuesday mississippi senate republican marist matt correct year iowa ernst douglas senate yougov senate thirdhighest average gabriel online wish charlie charlie learn study mute identify determine vote vote look ensue work work selzer name respond turn nnps answer')
+
+('NNP', 'yougov')
+
+('JJS', 'least least best west west thirdlowest')
+
+('VBP', 'data routs polls returns polls data lots bialik electorate poll magnitude wave edge colorado lead correct twoparty mean know need look conduct change christopher')
+
+('VBZ', 'geographies calls trends trends trends democrats makes comes knows takes republicans')
+
+('VBG', 'polling calling calling depicting answering answering predicting counting moving spotting spotting determining going polling giving leading digging polling ccadvertising ignoring testing going polling polling headscratching polling trailing polling polling polling polling neverending unskewing')
+
+('VB', 'senate evaluate improve spend love')
+
+('NNPS', 'republicans republicans republicans')
+
+('JJR', 'better cheaper better less larger')
+
+Token analysis after pre-processing 
+Number of tokens: 674
+Number of types: 382
+Type token ratio: 0.5667655786350149
+

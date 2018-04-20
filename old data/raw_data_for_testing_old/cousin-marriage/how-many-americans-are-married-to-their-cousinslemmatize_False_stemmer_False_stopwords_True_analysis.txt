@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1233
+Raw number of types: 465
+Raw Type token ratio: 0.3771289537712895
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'many mona dear shawkat duval filmmagic mona daryn western united second america first second confused second consanguineous konsanggwineeuh assess coefficient coefficient consanguineous second plenty first unable reluctant consanguineous united centre human cowan western america relevant much common interested indian unaware major interested global download consanguineous global rare consanguineous percent second consanguineous many sociological relative stable social financial keep hidden relative inlaws high global second america various statutory personal first recessive genetic related first maternal socioeconomic national genetic first percent unrelated great cousin united little biological uncomfortable romantic first high iceland small hard genealogical related answered')
+
+('NNS', 'americans cousins angeles images marriages australia marriages states individuals cousins people relationships cousins cousins shares marriages researchers relationships individuals cousins relationships people nephews nieces marriages people cousins needs states states restrictions people laws individuals relationships studies states genetics australia bittles years papers bittles thinks relatives countries bittles marriages populations daryn bittles findings numbers marriages notice countries relationships marriages countries people cousins marriages reasons marriages relatives parts studies couples relationships reasons secrets women parents people states aspects restrictions ages laws bans matters concerns children cousins diseases couples children rates notes factors outcomes risks counselors findings risks cousins risks children children parents unions states conventions users numbers')
+
+('VBD', 'married fred found pronounced treated spent became occurred told told became favored found married began estimated controlled concluded developed')
+
+('NN', 'chalabi mona michael cera alia attend development london michael cera alia shawkat cocktail party script development winter getty percentage percent research consanguinity intermarriage brief reminder daryn cousin someone firstcousin relationship case consanguinity coefficient number anything second percent caution thing example firstcousin marriage reproduce relationship result percent estimate share alan university consanguinity immigration immigration consanguinity fact topic research trip institute science hand question ancestry queen elizabeth piece prevalence consanguinity percent perspective consanguinity percent world relationship marriage health security idea stranger chance relationship prevalence reason study consanguinity percent world population cousin product union marriage marriage mentalcapacity marriage time part postcivil acceptance today practice health prevalence mortality percent research education birth status correlate consanguinity health health society task force look health percent deal stigma basis daryn notion relationship cousin anyone inbreeding coefficient country population figure blood interest incest spoiler database hope question send monachalabi dearmona fivethirtyeightcom')
+
+('VBN', 'filed arrested arrested estimated asked known related considered allowed based conducted changed emailed published attempted summarized estimated studied estimated prohibited introduced stigmatized born born published estimated born associated related')
+
+('VBP', 'pose kevin dear dear closer know benchmark greatgrandparent give estimate marriage arizona edith topic relationships rise view include take maintain include stay antimiscegenation cousin need affect consensus canada make check help')
+
+('VBG', 'reading asking struggling inbreeding inbreeding undercounting researching browsing legislating including offspring spacing shifting offspring naming hooking')
+
+('VBZ', 'cousins means uses cousins includes cousins bittles marriages cousins cousins bittles appears uses')
+
+('JJR', 'higher closer higher higher')
+
+('VB', 'make mona like')
+
+Token analysis after pre-processing 
+Number of tokens: 521
+Number of types: 333
+Type token ratio: 0.6391554702495201
+

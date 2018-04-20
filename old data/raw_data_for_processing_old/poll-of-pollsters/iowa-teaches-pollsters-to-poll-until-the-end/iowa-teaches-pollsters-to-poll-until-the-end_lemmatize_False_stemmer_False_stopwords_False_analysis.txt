@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1463
+Raw number of types: 527
+Raw Type token ratio: 0.36021872863978127
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 741
+Number of types: 404
+Type token ratio: 0.5452091767881242
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'iowa democratic iowa getty iowa donald republican hillary iowa hardto monday next simple late possible possible christine republican active small github footnotes1 doug final else last friday january marco close other last many percent emerson polling iowa last difficult lesson jensen democratic firm expensive many specific late next republican tuesday primary impossible able democratic late clear late hillary bernie virtual other quadrennial small many trump several such iowa february glad good unsure wasn total basic towery modern last immune iowa third straight republican presidential final underestimated eventual favorite evangelical undercount selzer correct unreasonable stay general close evangelical good hard secret standard comfortable february fivethirtyeight forecast tuesday such finish second second straight nominee rubio democratic iowa overestimated weekly listen carl embed margin20px https')
+
+('NNS', 'teaches pollsters carl data data datapollofpollsters people polls caucuses polls pollsters results months caucuses lessons voters matthews matthews pollsters pollsters caucuses polls pollsters pollsters polls pollsters polls points pollsters organizations resources poses days debates people wasn sanders points results pollsters conclusions events events polls watchers polls people polls pollsters polls polls trends votes models pollsters numbers politics challenges moines voters evangelicals trends levels candidates pollsters things data pollsters clients pollsters predictions projects points pollsters points pollsters pollsters caucuses polls politics podcasts')
+
+('VBP', 'poll sign arrive didn learn keep find emerson know have hampshire jensen closer extrapolate have think didn matthew know clare selzer continue think didn happen selzer dave hampshire trump hampshire donald podcast espn')
+
+('VBN', 'filed conducted tied started finished finished named been been named expected demoted weigel described embed')
+
+('NN', 'election github github party caucus jackson township fire station monday michael thomas trump state iowa clinton poll night work stay field night event firm glass iowa poll questionnaire list look trend kaplan partner gravis marketing wise approach success iowa date anyone college opinion savvy donald trump cruz percentage point rubio debate trump lead rubio percentage vote trump percent rubio percent poll opinion savvy organization debate guess keep polling night election director public policy problem anyone poll debate saturday night debate state super bowl sunday poll hampshire time reach hampshire reason caucus advantage emerson poll clinton percentage emerson lesson iowa number support boss night night afternoon https tcoqxtlnblgfe nate silver night disaster capture founder opinion savvy field screening history round polling iowa caucus date selzer horserace profile site week company founder president selzer pollster caucus iowa poll support winner time choice side spencer kimball advisor emerson college society jensen work poll time everything field period pollster selzer pollster support selzer iowa respond poll respond email work turnout selzer community sunday caucus today poll fizzle fine hype percentage margin singledigit margin contest trump rest nominee meanwhile correction version article opinion poll trump support newsletter weekend episode fivethirtyeight bialik apple code iframe frameborder width style auto maxwidth600px fivethirtyeightcomplayerpolitics22588832 iframe')
+
+('VBD', 'keokuk showed showed said were responded thought learned responded said started showed showed said said showed finished found started overestimated emphasized posted responded seemed said said were failed were were said called said defended modeled said asked thought said said said predicted picked predicted said underestimated thought height')
+
+('VBZ', 'images didn lessons responses sounds wants applies ends caucuses forecasts')
+
+('JJS', 'most biggest most best most most worst worst best latest')
+
+('VBG', 'winning winning contacting consulting burning consulting managing leading trailing polling polling polling daunting leaning skipping polling polling leading drawing polling including according weighting capturing polling polling going catching coming feeling polling scrolling')
+
+('VB', 'iowa improve cruz need read have republican clinton sign')
+
+('JJR', 'bigger more more earlier higher earlier')
+

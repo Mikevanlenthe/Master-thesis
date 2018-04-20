@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 817
+Raw number of types: 341
+Raw Type token ratio: 0.4173806609547124
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 410
+Number of types: 219
+Type token ratio: 0.5341463414634147
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'trump scrap nation monument ella koez file trump administr github github dataantiquitiesact presid sign execut order instruct depart review nation monuments1 creat predecessor trump revok nation monument statu site nation monument presid barack obama design site cover month creation monument rais conserv includ hatch call feder overreach presid design nation monument congression approv thank sign presid teddi nation monument receiv nation park prevent activ site sinc presid site statu accord nation park conserv group land nation monument statu revok site redesign nation park kind nation protect site case congress presid site nation monument statu fact address presid power rescind nation monument scholar disagre point trump remov nation monument design test ground nation monument share land feder nation monument design land4 nation monument sever administr therefor review trump order mostli west land manag sever feder nation monument fall differ depend monument half countri giant park state geolog survey nation region state agenc public land land design nation monument offer kind land design area freer reign determin land includ activ cattl graze drill order trump power reshap nation land use trump lead bullet feder land issu order review rule feder water trump coal compani land order symbol trump administr pointedli obamaera conserv polici peopl nation park poll conduct percent respond land protect nation park percent amount protect right percent land protect home land recreat activ hunt mean mani conserv support conserv fact trump secretari zink montana describ teddi teddi nation monument zink presid abolish')
+
+('VB', 'presid alter establish smoothli establish')
+
+('NNS', 'data data data respons data resolut')
+
+('JJ', 'publish wednesday interior recent signal willing particularli bear ear utah former bear ear acr final administr utah orrin govern antiqu damag associ nonprofit conserv public other statu legal bear ear small own govern states3 cover acr half other threshold past subject overal govern own agenc agenc mean western pristin natur databas aggreg local much own govern special much allow execut public sinc offic administr repeal fish lure own bodi joint public recent perhap indic american popular newssurveymonkey februari current popular fish conserv interior ryan conservationist first first')
+
+('VBP', 'appear protect collect make maintain protect extend protect make reject')
+
+('VBD', 'roosevelt promot took howev execut kept log took execut sign said said said roosevelt roosevelt')
+
+('VBZ', 'revok antiqu evalu')
+
+('JJS', 'largest latest west')
+
+('JJR', 'smaller easier less')
+

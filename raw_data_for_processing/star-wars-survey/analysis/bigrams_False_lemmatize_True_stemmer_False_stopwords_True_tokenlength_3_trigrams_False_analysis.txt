@@ -1,0 +1,45 @@
+Article: star-wars-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 688
+Raw number of types: 265
+Raw Type token ratio: 0.3851744186046512
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 315
+Number of types: 180
+Type token ratio: 0.5714285714285714
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, star, war, movie, character, walt, hickey, movie, get, github, github, datastarwarssurvey, yoda, star, war, series, exhibition, cite, cinema, saintdenis, france, chesnot, image, week, star, war, film, production, movie, middling, response, trilogy, excuse, question, war, fan, rest, america, empire, strike, character, shot, greedo, poll, audience, respondent, june, seventynine, percent, respondent, star, war, film, question, difference, gender, percent, star, war, film, woman, film, franchise, percent, percent, woman, respondent, film, probability, someone, war, film, war, film, war, episode, empire, strike, film, number, war, episode, return, jedi, star, war, episode, phantom, menace, star, war, war, hope, movie, respondent, star, war, film, rank, question, share, respondent, film, favorite, rate, film, fan, camp, movie, empire, strike, favorite, rate, hope, return, jedi, menace, film, rate, chart, film, take, series, boilerplate, format, favorability, poll, please, state, view, character, himher, rate, character, series, jar, favorability, rating, personification, galaxy, impact, revisionism, society')
+
+('JJ', 'america, favorite, favorite, costume, getty, sneak, peek, fighter, new, recent, perfect, examine, many, bunch, hated, solo, surveymonkey, available, github, substantial, percent, likely, fan, star, star, star, star, original, star, new, subset, drill, overall, original, likely, new, phantom, likely, top, third, second, middle, third, third, fourth, bottom, third, second, nuanced, political, unfamiliar, respondent, jar, actual, know, historical')
+
+('JJS', 'least, best, least, least, best, best, worst, best, best, worst, worst')
+
+('VBN', 'filed, displayed, watched, seen, compared, seen, compared, seen, seen, given, given, seen, seen, seen, rated, rated, rated, used')
+
+('NNS', 'data, data, people, data, men, people, men, men, people, people, people, people, prequels, people, prequels, binks')
+
+('VBD', 'caught, wanted, wellliked, ran, said, asked, followed, reported, renamed, episode, asked, indicated, calculated, broke, preferred, preferred, said, took, asked')
+
+('VBG', 'xwing, forthcoming, surveying, responding, seeing, following')
+
+('VBP', 'provide, star, realize, see, show, read, want')
+
+('VBZ', 'han')
+
+('VB', 'consider, find')
+
+('JJR', 'higher, lower')
+

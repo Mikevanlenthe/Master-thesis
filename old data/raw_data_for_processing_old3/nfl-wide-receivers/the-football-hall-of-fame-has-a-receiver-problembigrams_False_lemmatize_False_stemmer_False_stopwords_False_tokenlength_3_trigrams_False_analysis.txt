@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1971
+Raw number of types: 689
+Raw Type token ratio: 0.3495687468290208
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1346
+Number of types: 638
+Type token ratio: 0.4739970282317979
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'aug football hall fame problem paine canton github github reed speech class pro football hall fame enshrinement ceremony fawcett stadium canton jason miller getty reed speech class pro football hall fame enshrinement ceremony fawcett stadium august canton jason miller getty reed football hall fame thomas bruce canton key bowl reed candidate game honor wasn hall fault hall canton hasn judge player countless performance nut crack help correct reed career example time time talent dawn nfl explosion influence evidence effect team passing efficiency hall fame selection committee widereceiver dilemma position committee induct reed cris carter hall number selection lynn swann reed carter logjam ignore tide time judge reed nfl passing game contact output example ratio league passing game season campaign equivalent dozen time singleseason yardage receiver talent isn era team degree receiver team ball league norm effect isn air reed wasn factor buffalo washington percent league course career season matter someone calvin johnson ball percent league percent game norm treat adjustment difference solve issue receiving stuart footballperspectivecom career try piece github try production4 yardagelike number team passing player try lockstep frequency team league average johnson production percent singleseason record year detroit alltime record pass season simple pass reason quarterback andor chase percent increase team frequency increase output percent increase increase team passing volume player half increase production difficulty effect something position game time basketball guy carmelo anthony lot team influence receiver attention benefit team receiving football value team success player quarterback receiver performance peropportunity basis baseball football baseball phenomenon opportunity receiver ingame influence defense opening phenomenon theorem pass evidence player quality threat pertarget catch rate dvoa picture player onfield value account game play matter quality receiver team year step direction careers6 question ask receiver yardage offense question isn perfect team passingefficiency season season wowy instance randy moss sway smith career receiving oakland committee receiving reed wowy secondworst try play indictment reed player isn hall fame discussion hand standard postseason percent career yardage famer jim gannon jeff hostetler jeff george jay schroeder vince challenge game history task fame solution hall receiver logjam isn player player onfield influence player hall fame')
+
+('VBZ', 'has gives gives has weaknesses biases has does has becomes throws has sounds does generates attempts adjusts teams makes uses appears goes commands seems requires suspects ranks ranks comes merits doesn')
+
+('VBN', 'receiver filed inducted ignored contaminated agreed entangled reacted tapped taken become devalued compared been considered chucked perceived called skilled given generated given targeted intended talented targeted involved given associated come tied associated put')
+
+('VBP', 'get andre andre andre jim smith contributor sport are offer haven take show reed signal are make leaguewide consequence relative point run give take have try introduce boil have lead are know prove are have funnel aren lead wowy wowy forget wowy7 rod receiver reed resume involve reed quarterback ignore dream')
+
+('NNS', 'data data datanflwidereceivers nfl images nfl images buffalo bills teammates bills receivers careers receivers statistics strengths teammates coaches considerations numbers passcatchers eras statisticians data catches yards receptions stats years stats elections receivers inductions receivers contemporaries receivers products eras rules downfield receivers numbers yards another3 yards years stats passcatchers teams plays receivers opportunities numbers bills redskins teams yards lions yards yards data metrics differences lengths environments volumes yards attempts receivers didn underscores stats matters receivers players teammates touches players possessions stats statisticians statistics outsiders tracks plays traditions sabermetrics events opportunities players opportunities teammates bayes coaches quarterbacks incentives targets receivers metrics metrics teammates numbers scores receivers measures quarterbacks efficient5 ways data quarterbacks boasts players yards raiders statistics receivers wowy players raw numbers quarterbacks metrics passes numbers evans data presents candidates data ways questions qualifications analytics questions')
+
+('JJ', 'former wide nfl saturday former wide nfl former wide pro saturday longtime thurman qualified individual good good several other modern wide individual other wide receiver tough raw enough distinguish glossy ranked third fourth sixth touchdown great ensemble offensive beneficiary advanced onfield mixed regard actual recent advanced deign last controversial much surging2 wide new defensive signified greatness simple total appreciate true obvious somehow major other detroit average aerial historical huge tried last august metric true chase raw other single schedule relative alltime wasn further apparent percent individual real simple ambiguous other own real exert personal extra obvious difficult true advanced defenseadjusted average dvoa metric discrete specific fluid curious unsuccessful positive strong act offensive full successful much conventional rudimentary historical collective pertinent individual efficient entire usual good statistical legendary second true longtime individual top lifetime impressive serious clear new brown other impressive hall brown superior rich different hall wide inventive pertinent fundamental actual last')
+
+('VBD', 'was berths was figured retired was was wasn appeared played were had included qualified opened spiked became reed was put threw downfield scaled passed downgraded broke looked became found was saw stopped cited was rooted rooted took played were was did adjusted were was came put advanced checked supposed')
+
+('VBG', 'joining receiving passing ignoring disregarding going enacting passblocking passing using adjusting adjusting judging eyepopping developing passing breaking receiving passing receiving pinning receiving complicating competing having trying passing measuring getting stretching being looking taking shaping adjusting quantifying computing passing using looking receiving throwing having using aging interpreting receiving daunting seeking answering')
+
+('JJR', 'super easier more more bigger better more better better answer')
+
+('JJS', 'greatest best best most')
+
+('VB', 'reed keep reevaluate eliminate have make download tend identified run demonstrating miss noisy tim select attempt')
+

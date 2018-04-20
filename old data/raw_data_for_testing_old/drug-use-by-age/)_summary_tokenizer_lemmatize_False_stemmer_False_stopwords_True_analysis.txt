@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1342
+Raw number of types: 277
+Raw Type token ratio: 0.20640834575260805
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token true true verbs baby journal analyze contemporary marijuana purpose stimulant amphetamine ritalin boomer percent admission regardless identifying trait github high public previous last woodstock american middle small public different difficult able federal mental archive different similar overall individual high previous much common frequent many previous median high median hard comfortable respondent high narcotic true different additional common problematic previous high likely equivalent public occasional likely overdose hard responsible overdose different high chronic social different narrative reported increased used used know michigan token')
+
+('NN', 'analysis number number ratio lemmatizer stemmer article boomer health github datadrugusebyage report decade rate drug admission baby year generation street article month mentality drug habit look smoke percentage drug alcohol marijuana analysis drug alcohol marijuana availability perception drug change drug group time survey drug substance health drug baby boomer group drug rate drug drug alcohol drug group percent difference drug chart line prescription pain reliever percent nonprescription year percentage boomer pain reliever group respondent hallucinogen tranquilizer drug group user boomer cocaine year number group year group error drink alcohol week drug generation drug grandparent boomer drug percent rate percent period report painkiller difference drug boomer boomer painkiller category survey dozen prescription drug question drug addiction standpoint oxycontin percent year drug illicit cause concern something analysis health standpoint week night puff marijuana cause concern addiction adult share drug treatment facility share population baby generation research richard miech professor university miech information death certificate drug death reason drug population generation researcher pain loss isolation effect brain drug problem reveal generation predilection substance download story hospital youthful plenty compare samhda pattern babyboomer boomer respondent boomer boomer drinker potential parent illicit percent percent addictive present lack user baby maria described boomer flower boomer dwarfed github show tend alcohol default babyboom subgroup analysis number number ratio')
+
+('VBG', 'preprocessing using using using reporting causing aging including making taking saying using potsmoking including saying reporting including turning warning dropping concerning binging debilitating according getting coping aging mindaltering preprocessing')
+
+('NNS', 'tokens types filters stopwords false nouns adjectives tokens quadruple data data data reveals data people people people people grows people data overdoses relates tokens types')
+
+('VBP', 'type anna carry crowd answer illicit cohort1 marijuana data come drink boomer type')
+
+('VBN', 'token used drugrelated reported started asked found given used used aged aged compared given done shared token')
+
+('VBD', 'separated boomer boomer funded boomer detailed reported turned went began said said filed opted used')
+
+('JJR', 'barryjester boomer higher lower younger boomer smaller lower younger younger younger older younger older older younger older smaller older younger older boomer')
+
+('VBZ', 'consume seems represents')
+
+('VB', 'drink make remove drink make')
+
+('JJS', 'least')
+
+Token analysis after pre-processing 
+Number of tokens: 436
+Number of types: 243
+Type token ratio: 0.5573394495412844
+

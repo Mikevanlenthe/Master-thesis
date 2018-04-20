@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 889
+Raw number of types: 370
+Raw Type token ratio: 0.4161979752530934
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'elitist comma walt hickey grammar github github datacommasurvey dictionary university press birthplace oxford comma caleb comma comma blight stalin think audience poll june split comma opinion person kind person kind latter oxford comma none result middle prooxford percent vote comma percent cantor victory editor language blog author editor merrill perlman adjunct professor columbia school journalism veteran york owner editorial company perlman suspect grammar sentence loyalty rule mcintyre blunt passion oxford comma effect majority oxford comma trouble comma kind survey grammar excellent type perlman grammar think sentence conjunction preposition knowing explanation speech goal matter peace comma writing preference mcintyre edit baltimore press stylebook point omit perlman middleoftheroad view rabid comma series follower journalism matter grammar matter clarity note relevant particular noun majority singular crowd percentagepoint margin percent percent half survey issue')
+
+('JJ', 'superfluous popular english oxford list grammatical unnecessary insufferable ahistoric comic exotic grammatical average american surveymonkey sentence correct important loyal important loyal former much commanding extra eric clear controversial mcintyre longtime graduate email taught ungrammatical instill deep comic passionate oxford zealous humble many good good good hear coherent latinate unambiguous oxford pure personal serial simple formative final preferred singular plural plural conclusive vast prior')
+
+('VBN', 'polled filed published seen dressed learned found thought associated used thought')
+
+('NNS', 'americans data data jones things dancers experts americans respondents opponents numbers oxfordians pros times people rules raps mouths partisans hearts minds rivals people people people rules rules things references parts linguistics years rules interests people data terms data respondents data respondents data data respondents')
+
+('VBP', 'oxford camp believe tyranny john know think tend prefer tend tell think think start exist involve believe exist prefer think')
+
+('VBD', 'spilled weighed fivethirtyeight fell asked asked said accompanied escaped feigned performed wondered said lost said took drummed fivethirtyeight asked')
+
+('VBZ', 'goes partisans says comes follows seems')
+
+('VBG', 'asking grabbing consulting posturing winning following parsing following knowing using liking preferring pressing')
+
+('JJS', 'honest honest')
+
+('VB', 'defeat knuckle')
+
+Token analysis after pre-processing 
+Number of tokens: 343
+Number of types: 246
+Type token ratio: 0.717201166180758
+

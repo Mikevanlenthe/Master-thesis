@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1516
+Raw number of types: 573
+Raw Type token ratio: 0.3779683377308707
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 649
+Number of types: 368
+Type token ratio: 0.5670261941448382
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'complet catalog time someon quentin tarantino movi roeder file word count github github datatarantino quentin tarantino john travolta samuel jackson pulp fiction minut multiplex curtain pull featur director quentin tarantino interest occasion critic film languag violenc york time call film reservoir dog film pulp fiction angel time wear repetit film relianc shock valu badboy postur tarantino featur film hate christma stori bounti hunter refug blizzard meet readi week couch tarantino watch peopl streak someon kill sword venom someon call note event time result tempo tarantino film get thi project doctor assum limb blade torso samurai sword battl person profan mainli bill film inglouri basterd subtitles3 occasion languag precis pluck word scream horror count curs mild hell fuck nword github film death cursedeath ratio jacki pulp fiction reservoir dog bill django basterd kill bill everi tarantino film featur plenti rrate language4 death tarantino death matur reservoir dog featur death profan django hand profan part thi probabl film budget drop dozen fbomb celluloid drop dozen samurai jolt audienc budget slice reservoir dog today dollar imdb django budget cost word count fuck motherfuck bitch hell doe measur tarantino chill day dog pulp fiction kill bill stretch death profan talk drive stuff place pimp brothel scar prostitut curs filmographi tarantino profan use healthi word scatolog fond explet varieti tarantino fuck hundr fuck fantast word word word languag transit intransit verb noun fuck intensifi gerund6 fuck fuck delici vulgar tarantino favorit type fuck count motherfuck fucker fuckfac fucker fuck tabl thi paragraph utter tarantino film utter reservoir dog time django unchain fuck flexibl spot typic tarantino deploy word courtesi vincent vega seat brainandskullspatt pulp fiction race danger race fuck tradit leak script movi reportedli esquir magazin search script version word script tarantino film kill bill version fbomb accord talli count hate script version shit bitch hell damn profan gaug thi downtick film day dog pulp fiction jacki tarantino obscen tarantino day dick dick dick dick dick dick dick dick charact play tarantino coffe veri scene tarantino veri reservoir dog mani dick dick tarantino catalog')
+
+('JJ', 'everi oliv first ignit strong frequent brutal next someth attent eighth wyom civil basic good ugli frozen blue cocksuck second essenti time1 mild necessari medic direct die2 foreign languag french reli theatric difficult profan recent eyebal everi potent shit full unchain inglouri total equal trade fuck onscreen other deaths5 much swear half unchain hate shit goddamn motherfuck sinc salad regular facial come carnal especi give use english interject adject mean variet fuck fuck motherfuck motherfuck fuck fuckup fuckhead total next inflect fuck last fuck evergreen yogic fuck fuck thi proud paltri fuck reveal theatric leak fuckless leak nword last earli nostalg earli hyperpottymouth featur white exact full')
+
+('NNS', 'curs data data data assumpt chines japanes exampl data curs curs doe altogeth continu releas eas deadpan')
+
+('VBD', 'bled wrote motherfuck hardwon were took made fuck fuck')
+
+('VBP', 'maintain seek oeuvr swear show chang kill make remain have find creat want cheap want peopl fuck appear take eclect do doesn give adject differ break earn have hate consist contain explain say')
+
+('VBN', 'come spent made understood been been fuck done given')
+
+('VB', 'snake inde bleed kill grow reservoir veri singl say hate nearli signific reservoir forgiven feel dick')
+
+('VBZ', 'someon damn remark guarante blue')
+
+('JJR', 'numer cheaper')
+
+('JJS', 'best least quietest best earliest most')
+

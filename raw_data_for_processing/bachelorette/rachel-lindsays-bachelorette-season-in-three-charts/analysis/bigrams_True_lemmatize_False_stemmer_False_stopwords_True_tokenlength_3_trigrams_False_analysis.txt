@@ -1,0 +1,47 @@
+Article: bachelorette/rachel-lindsays-bachelorette-season-in-three-charts
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 542
+Raw number of types: 267
+Raw Type token ratio: 0.492619926199262
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_True_lemmatize_False_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 609
+Number of types: 534
+Type token ratio: 0.8768472906403941
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'rachel, charts, data, github, data, men, suitors, vineyards, years, men, weeks, men, men, shudders, rachel, men, impressions, others, rachel, suitors, dates, dates, suitors, men, destinations, dates, contributions, three charts, and rachel, two men, sent suitors, windswept vineyards, spain seems, like years, hopeful men, other men, the men, ticklemonster weren, rachel shudders, persevered rachel, the men, first impressions, the others, date roses, went suitors, group dates, gone oneonones, chart shows, number suitors, her men, international destinations, hometown dates, move new, reporting contributions')
+
+('VBP', 'lindsay, github, lindsay, rioja, end, matt, worst, peter, europe, wild, walt, rachel lindsay, charts she, rachel lindsay, didn come, men she, eric and, peter home, vineyards rioja, seems like, men and, weeks have, peter and, whaboom and, shudders despite, men who, who made, impressions and, others the, that rachel, rachel gave, suitors who, didn end, dates instead, shows rachel, suitors not, peter their, were also, were all, contributions walt')
+
+('NN', 'bachelorette, season, ella, koeze, gus, wezerek, databachelorette, threehour, conclusion, season, bachelorette, rachel, love, choice, peter, home, abasolo, proposal, doll, love, end, eric, end, bryan, season, get, appreciation, everything, rachel, endure, whaboom, ticklemonster, jack, stone, dream, lock, door, rachel, rachel, time, date, season, picking, week, example, rachel, oneonone, group, peter, chart, rachel, attention, number, strategy, find, husband, everyone, bachelorette, bracket, pool, dean, bryan, drama, rachel, globe, journey, find, love, travel, season, rachel, slice, hometown, rachel, bachelor, nation, love, story, bachelor, update, aug, article, season, reporting, bachelorette season, messing around, around ella, ella koeze, koeze and, and gus, gus wezerek, under get, get the, the data, data github, github github, github data, data databachelorette, the threehour, live conclusion, conclusion season, season the, the bachelorette, bachelorette and, for love, love didn, typical choice, choice between, bryan abasolo, abasolo proposal, the windswept, rioja spain, one doll, stepped out, for love, love and, passed how, did end, end with, eric peter, the end, end bryan, happened all, looking back, back the, this season, season get, fresh appreciation, everything rachel, remember how, how whaboom, remember jack, jack stone, stone dream, dream just, just lock, lock the, the door, door and, and lay, with rachel, this rachel, didn waste, much time, time the, gave out, the season, five went, final four, four she, picking who, who she, she would, with week, week for, for example, example rachel, rachel could, the three, available oneonone, matt adam, adam who, been group, she spent, spent them, dean bryan, bryan and, and peter, peter who, already gone, the chart, her attention, worst strategy, strategy you, trying find, find husband, husband but, predictable almost, almost everyone, everyone the, the fivethirtyeight, fivethirtyeight bachelorette, bachelorette bracket, bracket pool, bryan and, and peter, final four, four throughout, throughout all, all the, the drama, drama rachel, rachel and, roaming the, the globe, metaphorical journey, journey find, find love, watching without, actual travel, travel this, this season, western europe, europe and, was some, fighting but, but rachel, rachel did, substantial slice, the good, good usa, final four, four for, wild ride, ride for, for rachel, rachel and, and bachelor, bachelor nation, love story, story who, next bachelor, bachelor update, this article, article was, after the, the season, additional reporting, walt hickey')
+
+('VBG', 'messing, accepting, lastmanstanding, looking, looking, trying, roaming, watching, viking, fighting, choosing, going, wasn messing, before accepting, accepting lastmanstanding, limo looking, men looking, for everything, out during, selective picking, you trying, also roaming, worth watching, pretty boring, some viking, viking fighting, usa choosing, who going')
+
+('VBD', 'filed, sent, stepped, passed, happened, eliminated, eliminated, lay, focused, gave, went, spent, concentrated, made, updated, wezerek filed, databachelorette published, doll stepped, what happened, men eliminated, rachel had, weren eliminated, lay bed, rachel persevered, rachel focused, she was, who had, who had, attention limited, but made, pool had, love would, slice the')
+
+('VB', 'get, come, remember, remember, dates, worth, get, move, despite all, could have, did get, ready move')
+
+('VBN', 'published, bed, persevered, made, given, gone, have passed, have given, rachel concentrated, was updated')
+
+('JJ', 'oof, finale, live, typical, eric, bryan, hopeful, limo, peter, fresh, strong, first, much, final, selective, available, adam, dean, bryan, oneonones, limited, predictable, fivethirtyeight, final, metaphorical, actual, international, western, boring, see, substantial, good, usa, diverse, final, ride, ready, new, next, finale, additional, hickey, lindsay bachelorette, season three, she wasn, published aug, what finale, finale the, threehour live, quest for, come down, down typical, between two, she sent, suitors eric, lastmanstanding bryan, amongst the, that hopeful, that limo, looking for, how did, with eric, and the, those other, eliminated this, get fresh, had endure, the ticklemonster, immediately remember, bed with, all this, focused the, made strong, strong first, and didn, waste much, the date, during the, only five, who didn, end the, the final, similarly selective, dates with, one the, three available, dates matt, only been, instead she, them with, with dean, had already, limited number, not the, the worst, for predictable, had dean, dean bryan, their final, globe metaphorical, would worth, without actual, season international, all western, there was, get see, see substantial, geographically diverse, diverse final, for hometown, dates been, been wild, but ready, going the, the next, update aug, updated after, season finale, finale additional')
+
+('JJS', 'quest, lindsay quest')
+
+('VBZ', 'amongst, seems, roses, shows, only weeks, would dates, oneonone dates')
+
+('JJR', 'filed under, concentrated her')
+
+('NNP', 'endure remember')
+

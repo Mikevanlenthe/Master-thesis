@@ -1,0 +1,48 @@
+Article: steak-survey/how-americans-like-their-steak
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 653
+Raw number of types: 299
+Raw Type token ratio: 0.45788667687595713
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 416
+Number of types: 251
+Type token ratio: 0.6033653846153846
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'americans, data, data, people, polls, data, experiments, arguments, wounds, steaks, midteens, people, steaks, stands, people, airplanes, people, results, regressions, relationships, people, thresholds, respondents, situations, people, respondents, people, people, steaks, ideas, comments, data')
+
+('VBP', 'like, get, almondine, are, have, miss, discuss, have, have, prefer, prefer, jump, exceed, prefer, prefer, are, try, risk, like, lottery, have, have, have, prefer, have, know, find')
+
+('NN', 'steak, walt, hickey, fivethirtyate, github, github, datasteaksurvey, rib, potato, bean, cruise, ship, scott, washington, post, order, steak, idea, commitment, disclosure, quest, opportunity, superiority, steaks, story, datalab, audience, work, satisfaction, definition, superiority, girl, steak, bed, rest, time, life, mediumrare, sense, commitment, order, reason, side, medium, reason, juicy, threat, illness, everyone, threshold, risk, speed, limit, survey, risk, traffic, smoke, lottery, steak, data, crosstabs, place, start, nothing, ran, relationship, behavior, steak, rareness, gender, age, income, effect, survey, relationship, steak, example, chance, success, payout, lottery, chance, success, payout, lottery, steak, anything, futility, chart, steak, majority, percent, ballpark, medium, mediumrare, mediumwell, anyone, hypothesis, download, let, anything')
+
+('VBN', 'filed, done, tried, been, incinerated, excited, cooked, bet, solid, scorched, desiccated')
+
+('JJ', 'prime, baked, green, nina, dandy, riskaverse, likely, full, personal, rare, surveymonkey, fresh, sense, actual, frivolous, moral, america, proper, lacked, foodborne, different, interpret, evaluate, simple, insignificant, laughable, small, following, hypothetical, percent, percent, likely, much, vast, many, good')
+
+('VBD', 'suchman, got, cooked, ordered, speed, asked, was, checked, was, checked, had, were, asked, thought, picked, gained, preferred')
+
+('VB', 'find, recover, look, realize, ran, tease, see, appear, consider, play, let, know, know')
+
+('VBG', 'reinforcing, playing, running, settling, testing, skydiving, getting, risktaking, assuming, indicating, preferring, taste')
+
+('VBZ', 'has, comes, scouts, steaks, has, does, rare')
+
+('JJS', 'midwest, least')
+
+('JJR', 'tougher, less, riskier, riskier')
+

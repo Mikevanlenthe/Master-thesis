@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 770
+Raw number of types: 359
+Raw Type token ratio: 0.4662337662337662
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 402
+Number of types: 256
+Type token ratio: 0.6368159203980099
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rate team decad play method simpl measur strength base gamebygam result calcul rate franchis game histori rate rate formula onli score game play team point credit margin rate zerosum howev houston rocket gain point game confer dure playoff clipper point rate approxim averag slightli leagu expand begin rate select team abov zoom explor histori bull formerli surpris bull regularseason rate state game chicago pick championship season peak game playoff record chicago slump game doubl digit befor clinch game laker game laker season angel laker middl rate part competit water franchis span sever year age elgin baylor year wilt chamberlain jerri team suppos approach baylor retir game season streak laker reel consecut rate point team peak rate season laker titl franchis dont respect boston titl domin sport doesnt care occasion lacklust season playoff achiev rate hung realli team rate year laker antonio spur team togeth streak knick peak time bestknick season york basketbal reed walt frazier knick rate thing smooth york close season game time franchis rate team peak closest net moment knick sinc larri johnson play glori')
+
+('JJ', 'everi total final upset win final western semifin leagu recent team golden warrior final fourth superson lead final next titl great rapid veteran strengthen sinc celtic celtic celtic unparallel modern weak regular celtic good much aboveaverag current common similar long great franchis histori littl le regular sinc other activ long next march everi linsan former')
+
+('VBP', 'have win depend win bull stomp take improv go becaus leagu win celtic have willi dave live')
+
+('VBN', 'simpl surpass gone debusscher taken fallen been buck')
+
+('VBD', 'input meant lost were went percept sixth were were went were daylight')
+
+('VB', 'gain bulls5 lose rais rel maintain knick titl')
+
+('JJR', 'larger higher lower')
+
+('VBZ', 'expans')
+
+('JJS', 'best best west least highest')
+
+('NNS', 'chicago seattl expans celtic')
+
+('VBG', 'ring')
+
+('NNP', 'knock')
+

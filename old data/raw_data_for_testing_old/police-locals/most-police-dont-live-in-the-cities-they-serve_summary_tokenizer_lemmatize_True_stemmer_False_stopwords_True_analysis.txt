@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1470
+Raw number of types: 256
+Raw Type token ratio: 0.17414965986394557
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token token ratio true true verb adjective separated github ferguson continue divide detail police reflect average percent percent mississippi requirement philadelphia boston police mean category live getty civilian black racial suggestive racial many live common major american statistic black likely reside white high racial black hispanic true white equal racial large american racial demographic many average outside available major racial black hispanic white black black white black large racial boundary degree live florida boundary high small white live whereas black available small many strict active impose searchable table sheriff private complete previous live stark live live live live live live live live live live detailed reside token token')
+
+('NN', 'analysis number number type type filter lemmatizer stemmer article token police city silver ferguson github officer charge group demonstrator arrest tuesday image ferguson missouri protest officer month population percent police force disparity type misrepresentation officer city limit ferguson something city city police force majority police officer commute work town diversity police force officer city police york example percent police force borough figure york officer city percent percent officer employment opportunity commission census bureau detail composition government worker city washington post analysis city police force census officer city city police force percent officer city limit figure honolulu residency share city city officer city philadelphia percent percent district percent officer city limit difference combination factor city composition residency requirement police geography city percent police officer percent officer city limit officer disparity city population example officer city percent memphis tennessee jackson majority officer city residency example city officer city furthermore regulation boston residency police example census bureau half officer city geography role jacksonville percent officer city limit city share area population contrast city population percent police force town city louis residency requirement clause police move city year force police officer provision percent percent ferguson population effort spotcheck census community police residency requirement debate requirement town regard event shape debate year detail city officer category note reader census bureau number differ count reason census category police officer transit police city police department census security officer census police force size error census number estimate count correction version article officer city limit nate police teenager ferguson hispanic percent police percent washington detroit police birmingham vary requirement metro metro atlanta ferguson advantage louis relax ferguson asterisk github philadelphia serve serve percent require reflect police play starkest jurisdiction margin analysis number number type type ratio')
+
+('VBG', 'preprocessing using using using reporting following shooting troubling varying living sprawling living arguing using going preprocessing')
+
+('VBD', 'token raedle detailed enforced included said token')
+
+('NNS', 'stopwords false data atlanta detailed data data datapolicelocals twothirds twothirds data data data police data varies angeles police police police angeles whereas data police data others data police')
+
+('VBN', 'used come come filed given tied alerted used compared required estimated required flouted allowed discovered changed')
+
+('VBP', 'miami require make exclude take include police police police')
+
+('VBZ', 'resides includes suggests includes')
+
+('JJS', 'largest largest')
+
+('JJR', 'outlier fewer')
+
+Token analysis after pre-processing 
+Number of tokens: 492
+Number of types: 216
+Type token ratio: 0.43902439024390244
+

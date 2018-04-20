@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 960
+Raw number of types: 399
+Raw Type token ratio: 0.415625
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 728
+Number of types: 363
+Type token ratio: 0.49862637362637363
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rate team method elo measure strength gamebygame game history elo set team rating average league expansion rating methodology game bowl league bowl era football league football league professional football association football conference football history team zoom history professional football franciscos run history england bowl win season calculate nfl dynasty answer elo rating stretch league history francisco average elo rating time start season nfls childhood tom brady bill project history dallas team football record season werent reason trade cowboys bowl herschel walker minnesota exchange bevy drafting emmitt smith safety darren woodson tackle russell maryland walker history payoff wasnt season elo rating super season cowboys elo rating championship game gain bay time history anyone nfl bay team bowl era aflnfl merger longevity football chance bay wisconsin chicago bowl era peak elo season team success brett championship season bowl bay figure aaron team start peak history miami nfl didnt success year bowl record team history year miami title game team bowl thrashing curve jacksonville team title creation elo rating week season afc championship game revival decade')
+
+('NNS', 'nfl decades results ratings ratings teams results championships wins titles winners franchises games patriots stretches seasons 49ers playoffs times games times championships patriots 49ers cowboys fans players picks contributors dallas yards seasons vikings deals cowboys theyd playoffs years points years packers packers championships teams theres bears titles packers rodgers dolphins dolphins fans dolphins dolphins seasons championships heights losses ways jaguars years')
+
+('VBP', 'play start are include are pro explore super count belichick immediate make have have have resurgence comparable have have')
+
+('JJ', 'simple elo league total average nfl league profootballreferencecom super pro super national american american allamerica defunct favorite entire san incredible new last patriots average san san franciscos elo peak entire arent oct cowboys optimistic pro defensive huge full lopsided nfl first january green good long green other super nfls green slate super modern peak january squad nfc super green early early first super perfect only next peak same complete high miamis historical florida few brief')
+
+('VBN', 'based expanded selected become born been cared won captured emerged gotten had wait won returned')
+
+('VBD', 'calculated played tried had was was was made won racked were were was sent led became surpassed was finished was dominated came were had won came favreled won matched led joined had won made reached led peaked went')
+
+('VBZ', 'has has depends cowboys carries bowl titles has jaguars')
+
+('JJR', 'higher lower more more super lesser')
+
+('VBG', 'depending including excluding seasonending rebuilding coming giving running running bottoming following living reaching edging winning winning hitting hitting')
+
+('VB', 'read choose have win reminder have franchise lose')
+
+('JJS', 'least greatest best best highest best least worst')
+

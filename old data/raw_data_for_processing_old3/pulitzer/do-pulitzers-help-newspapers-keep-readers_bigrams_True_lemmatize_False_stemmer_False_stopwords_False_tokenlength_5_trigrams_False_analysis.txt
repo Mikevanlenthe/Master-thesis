@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 904
+Raw number of types: 357
+Raw Type token ratio: 0.39491150442477874
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 719
+Number of types: 535
+Type token ratio: 0.7440890125173852
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'pulitzers newspapers readers awards siers prizes congratulations winners awards organizations prizes consumers outlets newspapers others figures newspapers winners newspapers ranks times winners finalists totals variations times subscriptions media figures times times winners finalists subscriptions angeles times winners finalists winners finalists prizes changes times subscriptions times newspapers newspapers prizes newspapers years newspapers circulations pulitzers newspapers pulitzers readers newspapers pulitzers readers sales sorts factors notes prizes periods pulitzers changes things newspapers categories sales pulitzers numbers results orleans wednesdays fridays sundays counts sales times figures times numbers totals figures newspapers,readers under,awards kevin,siers pulitzer,prizes afternoon,congratulations finalists,winners journalism,awards hoping,organizations journalistically,economics success,consumers toward,outlets these,newspapers struggling,others figures,newspapers database,winners winners,finalists those,newspapers pulitzer,ranks count,winners since,totals different,variations unclear,times digital,subscriptions media,includes those,times times,subscriptions pulitzer,winners digital,subscriptions subscriptions,angeles angeles,times times,winners winners,finalists globe,winners winners,finalists pulitzer,prizes result,times digital,subscriptions counted,times other,newspapers instead,newspapers among,newspapers changed,years majority,newspapers their,circulations decline,pulitzers journalism,newspapers newspapers,pulitzers their,readers almost,newspapers struggling,pulitzers continue,readers newspaper,sales affected,sorts sorts,factors prizes,periods number,pulitzers circulation,changes these,things successful,newspapers reinvest,categories meaning,sales predict,pulitzers pulitzer,numbers difference,results listed,orleans longer,publishes instead,publishes wednesdays,fridays fridays,sundays mercury,counts counts,sales costa,times tribune,figures costa,times circulation,numbers circulation,totals mercury,figures')
+
+('VBN', 'filed increased decreased posted counted listed experienced produce,succeed increased,decreased first,provided concurrently,could')
+
+('JJ', 'github github editorial award david monday annual economics challenging commercial pulitzer daily searched different unclear print digital washington total digital percent percent overall noisy modest positive digital other economic negative positive digital broken precise successful investigative other entire little second listed percent daily daily costa tribune contra costa tribune prize github,github observer,editorial pulitzer,award award,editorial cartooning,david announced,monday winners,annual whether,there relationship,between newspaper,commercial gravitating,toward produce,pulitzer quality,these looked,daily decreased,searched posted,github times,which under,different otherwise,unclear times,print sells,digital subscriptions,which audited,media counting,those percent,between unfortunately,times outlier,washington since,total counting,digital circulation,percent experienced,percent relationship,between chart,below modest,positive times,alone alone,digital times,other essentially,instead forget,about quality,economic there,relationship relationship,between result,negative retaining,their quick,course straightforward,digital explore,yourself provided,broken since,predict because,these commercially,successful makes,little orleans,timespicayune having,experienced experienced,percent contra,costa oakland,tribune added,contra oakland,tribune pulitzer,prize')
+
+('NN', 'datapulitzer charlotte cartoonist kevin editorial foster charlotte pulitzer afternoon journalism highquality journalism newspaper publishing course relationship pulitzer newspaper success quality circulation pulitzer database github pulitzer pulitzer database newspaper circulation percent paper alliance circulation percent something pulitzer circulation percent period boston globe decline relationship pulitzer chart correlation chart correlation quality strategy relationship pulitzer circulation correlation relationship majority highquality journalism course newspaper circulation straightforward encourage couple pulitzer number predict circulation journalism pulitzer period difference circulation paper print edition comparison circulation circulation oakland tribune pulitzer mercury filed,under github,datapulitzer datapulitzer,charlotte charlotte,observer editorial,cartoonist cartoonist,kevin david,foster foster,charlotte charlotte,observer observer,pulitzer monday,afternoon annual,journalism awards,highquality highquality,journalism journalism,fivethirtyeight publishing,remain challenging,course there,relationship between,pulitzer commercial,success pulitzer,quality daily,circulation newspapers,circulation searched,pulitzer pulitzer,database topping,pulitzer which,count finalists,since because,pulitzer pulitzer,database database,newspaper variations,attribution print,circulation circulation,percent percent,between between,however however,paper which,alliance includes,circulation washington,pulitzer finalists,since total,circulation circulation,percent percent,period while,boston boston,globe percent,decline decline,overall overall,relationship between,pulitzer changes,circulation circulation,noisy positive,correlation correlation,chart newspapers,correlation about,quality economic,strategy between,pulitzer prizes,circulation circulation,correlation correlation,among listed,relationship years,majority suffered,about about,could could,result negative,highquality highquality,journalism doing,better positive,almost course,newspaper counting,circulation circulation,straightforward digital,encourage yourself,couple couple,further broken,pulitzer because,being being,precise precise,number predict,circulation investigative,journalism journalism,meaning other,around taking,pulitzer entire,period period,19902014 little,difference results,second daily,circulation circulation,because paper,longer print,edition edition,instead fairer,comparison contra,costa tribune,circulation mercury,circulation included,oakland oakland,tribune tribune,pulitzer prize,mercury')
+
+('VBP', 'pulitzer produce remain produce circulation finalists count inexact attribution subscriptions circulation circulation decline continue quick afford predict timespicayune mercury contra oakland provide oakland mercury awards,github siers,pulitzer organizations,produce outlets,produce finalists,those totals,inexact subscriptions,percent finalists,circulation correlation,would newspapers,their circulations,decline readers,positive pulitzers,continue readers,quick pulitzers,since changes,onward categories,investigative sales,predict pulitzers,rather numbers,19902003 daily,print publishes,wednesdays finally,mercury sales,contra times,oakland figures,provide times,oakland numbers,mercury')
+
+('VBG', 'cartooning hoping gravitating struggling topping counting counting doing retaining struggling counting being meaning taking having editorial,cartooning fivethirtyeight,hoping newspaper,publishing remain,challenging consumers,gravitating newspapers,struggling github,topping figures,counting times,something percent,counting pulitzers,doing better,retaining newspapers,struggling factors,counting however,taking timespicayune,having')
+
+('VBD', 'announced fivethirtyeight wanted looked audited experienced changed suffered affected explore provided occurred added included silver,filed prizes,announced course,wanted others,looked circulation,increased since,posted alliance,audited finalists,experienced subscriptions,counted newspapers,listed relationship,changed pulitzers,suffered sales,affected encourage,explore periods,19902003 things,occurred second,listed comparison,added totals,included')
+
+('VBZ', 'finalists sells includes result makes publishes publishes pulitzers,newspapers congratulations,finalists pulitzer,prizes circulation,figures ranks,times winners,finalists paper,sells circulation,figures winners,finalists prizes,changes mostly,result pulitzer,prizes further,notes pulitzer,prizes')
+
+('VB', 'succeed forget result might,forget')
+
+('JJR', 'outlier fairer wanted,whether something,outlier rather,other provide,fairer')
+
+('JJS', 'reinvest below,modest afford,reinvest')
+

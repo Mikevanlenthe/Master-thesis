@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1600
+Raw number of types: 345
+Raw Type token ratio: 0.215625
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token true true verbs pollster bialik belief github frank orlando tuesday average chris borick stream insight indicator pattern emerson arizona chief wish anticipate want unexpected public unanimous hillary sure republican much sure next many usual late prominent active large presidential open presidential certain average average black popular offensive current likely next democratic average predict republican true stay republican clear large different actual average final final variable ultimate large undecided primary potential social steady open robert domine critical demographic unique demographic traditional certain demographic demographic presidential important pivotal present several different demographic regional important close high wish global hard full critical much popular variable marital table last least find lose muhlenberg token')
+
+('NN', 'analysis number number ratio lemmatizer stemmer article clinton carl election election pollster clinton president control house control election result poll country firm database portion poll senate forecast poll question campaign state industry response list pollster pollster winner election clinton forecast chance clinton chance model pollster poll pollster clinton voter support pollster clinton vote percentage point pollster donald trump week thing saint university collapse party place pollster president senate razorthin margin seat pollster prediction party seat pollster prediction clinton seat control pollster house hand prediction majority party seat prediction chunk uncertainty pollster look poll today voter preference vote poll election period result percentage point pollster year college number poll cancel methodology quality poll reason pessimist difficulty choice number voter supporter thirdparty candidate effect desirability trump supporter desire respond poll state candidate preference reason news candidate campaign news poll series accusation woman trump boast video poll woman drama respond state polling diverge side capture election model election group model orlando poll check pollster state poll florida ohio morning pollster state poll trump chance mustwin trump race spencer college pollster status language group variation senate race state matter selzer hampshire trump mount comeback pennsylvania georgia vote race rank editor list vote gourevitch strategy group stuff state poll gourevitch result online poll medium coverage online poll year opinion dornsifelos time poll approach voter election choice pollster status chance turn rate pollster rating pollster video trump chance conduct responded1 start poll differ challenge need highlight chose felt fivethirtyeight firm pollster questionnaire footnotes2 percent percent republican good collective lose total good miss bush pollster accurate nature blank tuesday selzer indicator multiple nick blank plenty respondent religiosity average percent keep come take pollster check caught analysis number number ratio')
+
+('VBG', 'preprocessing using using using polling polling voting polling commissioning working polling polling giving winning talking working predicting declining assaulting polling saying altering determining polling going finding tracking leading preprocessing')
+
+('NNS', 'tokens types filters stopwords false nouns adjectives tokens bias chose people people people people angeles tokens types')
+
+('VBP', 'type senate hold think estimate episode catch expect believe think need senate think think know electorate predict democrat prove type')
+
+('VBN', 'token used polled agreed predicted asked made predicted cited acted asked named cited complicated thought acquired asked named offered expected expected expected needed conducted released based given polled counted named given token')
+
+('VBD', 'separated filed asked responded said said said cited included said asked said said said said miscalibrated gave chose grade sent')
+
+('VB', 'retain kimball think')
+
+('JJR', 'smart bigger larger smaller greater better')
+
+('JJS', 'latest least')
+
+('VBZ', 'seems seems')
+
+Token analysis after pre-processing 
+Number of tokens: 533
+Number of types: 310
+Type token ratio: 0.5816135084427767
+

@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 700
+Raw number of types: 322
+Raw Type token ratio: 0.46
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 499
+Number of types: 423
+Type token ratio: 0.8476953907815631
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'americans people steaks americans pounds steakhouses parties elitists people preferences people americans locations americans turns americans differences people flavors temperatures people steaks steaks operations people cooks supermarkets corners steaks cooks degrees degrees degrees their,steaks ordering,steakhouses large,parties effete,elitists steak,preferences about,americans orders1,locations revealing,americans steak,turns turns,americans serious,differences sweet,flavors slowly,temperatures bloodiness,turns handle,steaks marbled,steaks director,operations error,supermarkets protein,corners juicy,steaks dahlmann,suggests temperature,degrees degrees,degrees anything,degrees')
+
+('NN', 'order steak hickey rachael dottle question nation steak negotiation measure diner spent amount catastrophe investigation website admission campaign welldone steak medium mediumwell society doneness preference cudgel holder office tender issue share steak longhorn steak steak steak rarer order steak fiber dahlmann executive tender steak tenderloin steak rarer order prime bloodiness handle temperature tbone dahlmann middle moisture flavor david berson director steak house thicker margin error quality berson protein distribution indication juicy highquality thermometer doneness steak temperature anything culture writer elitist hickey anything their,steak steak,hickey hickey,rachael rachael,dottle wrong,question divided,nation nation,otherwise steak,great great,front consume,about about,billion makes,ordering parties,negotiation reconsider,measure measure,diner guess,spent steaks,amount environmental,catastrophe catastrophe,investigation investigation,website which,admission enjoyed,welldone welldone,found found,people their,steak followed,medium medium,mediumwell mediumwell,people living,society doneness,preference political,cudgel cudgel,against against,holder holder,highest highest,office office,tender marbled,issue issue,longhorn longhorn,steakhouse agreeing,share their,steak steak,longhorn steak,orders1 different,steak their,steak steak,rarer order,different wanted,every every,steak different,fiber executive,longhorn longhorn,tender tender,steak steak,tenderloin fiber,sweet works,great great,mediumrare mediumrare,prime great,rarer rarer,because without,bloodiness rareaverse,people people,other perform,mediumwell mediumwell,temperature temperature,those porterhouse,tbone tbone,dahlmann running,through through,middle middle,around moisture,flavor flavor,david david,berson berson,director steak,house house,brooklyn people,ribeye little,longer cooks,thicker margin,error highest,quality quality,berson berson,protein buying,luger luger,distribution berson,indication indication,juicy invest,highquality highquality,thermometer thermometer,perfect perfect,doneness doneness,every internal,temperature fivethirtyeight,culture culture,writer cantankerous,elitist elitist,hickey anything,above')
+
+('VBN', 'filed given followed longhorn aggregated ordered cooked ruined mediumrare,followed share,aggregated americans,ordered different,wanted highly,marbled')
+
+('VBP', 'prefer consume reconsider smear mediumrare prefer claim perform peter ribeye cooks dahlmann invest fahrenheit mediumrare americans,order people,prefer steakhouses,large elitists,reconsider campaign,smear preferences,mediumrare americans,prefer americans,claim people,order flavors,works temperatures,order steaks,still steaks,ribeye peter,luger supermarkets,cooks steaks,dahlmann suggests,cooks every,steak degrees,fahrenheit degrees,mediumrare')
+
+('JJ', 'wrong united great front large effete guess steaks environmental enjoyed political hooked worth orders1 different serious different different longhorn sweet great mediumrare prime great rareaverse other steaks mediumwell agreed little important berson perfect internal fivethirtyeight cantankerous order,their under,people prefer,their steaks,wrong united,steak americans,consume annually,makes causes,effete going,guess amount,environmental website,which began,campaign smear,those selfreported,their where,doneness preference,political prefer,their shared,worth worth,steak ordered,different claim,their there,serious differences,people steak,different fiber,dahlmann dahlmann,executive tenderloin,steak cooking,fiber works,great turns,rareaverse steaks,handle retains,moisture luger,steak agreed,people cooking,little thicker,which gives,margin cooks,important marbling,berson steak,internal according,fivethirtyeight writer,cantankerous')
+
+('VBD', 'divided began found selfreported marbled shared wanted brooklyn dottle,filed question,divided firmly,united people,selfreported tender,marbled steakhouse,hooked longhorn,shared because,cooked brooklyn,agreed above,ruined')
+
+('VBZ', 'makes causes lends works works turns retains gives suggests given,americans billion,pounds negotiation,causes perfectly,steaks steak,lends prime,works other,steaks around,retains longer,cooks which,gives')
+
+('VBG', 'ordering going taking living agreeing revealing cooking running cooking buying marbling according diner,going spent,taking people,living hooked,agreeing locations,revealing barely,cooking there,running recommend,cooking corners,buying distribution,marbling fahrenheit,anything mediumrare,according hickey,anything')
+
+('JJS', 'highest highest important,highest cooks,invest')
+
+('NNP', 'fiber')
+
+('VB', 'marbled ribeye recommend still,perform would,highly ribeye,porterhouse would,recommend')
+
+('JJR', 'luger longer luger filed,under')
+

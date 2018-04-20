@@ -1,0 +1,27 @@
+Token analysis before pre-processing 
+Raw number of tokens: 47
+Raw number of types: 42
+Raw Type token ratio: 0.8936170212765957
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'receiv pas hall yard percent player number quarterback career play leagu increa fame game receiver question andr induct reed time rank effect select committ')
+
+('VB', 'reed')
+
+('VBP', 'adjust take')
+
+('JJ', 'opportun')
+
+('NNS', 'data judg')
+
+Token analysis after pre-processing 
+Number of tokens: 30
+Number of types: 29
+Type token ratio: 0.9666666666666667
+

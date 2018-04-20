@@ -1,0 +1,43 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1950
+Raw number of types: 541
+Raw Type token ratio: 0.2774358974358974
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags politics scientists data politicians friends years scientists engineers plans thousands scientists supporters streets communities policies restrictions scientists politics data scientists engineers candidates candidates donations committees parties donors mathematics scientists donations committees amounts data candidates candidates scientists scientists scientists concerns scientists politics contenders scientists candidates scientists engineers elections engineers geologists scientists engineers candidates scientists professions times scientists engineers doctors lawyers doctors candidates parties scientists lawyers scientists engineers scientists members members members politicians deliberations scientists decisions scientists races scientists petitions letters scientists candidates candidates scientists scientists givers differences donors givers politics people politics variations disciplines engineers candidates democrats candidates groups democrats scientists candidates leanings twothirds adults scientists findings years organizers politicians grievances policies people sides politicians democrats join politics politicize fermi scientists politics scientists data illinois elections data scientists years parties committees groups dollars mathematics politics beneficiaries campaigns warren recipients donations statistics engineers years politics members democrats members parties groups thinks points counts supports mcnerney platforms')
+
+('VBP', 'donate abstain think think think worry friends trump cuts disciplines democrats hampshire data engineers give take make physicist candidate wake length github degree worry barack cruz massachusetts doctors2 congress engineers5 democrat rest percent slant saturday')
+
+('JJ', 'avoid weinberg assert begin lawyers3 fellow republican invite former many former national many subsequent selfidentified federal scientific national american federal scientific unprecedented political scientific federal democratic political national social independent political particular scientific scientific political former eightterm american professional political scientific presidential democratic presidential unsuccessful last last scientific generous wisconsinite republican active political many recent political entire scientific political last presidential democratic doctoral scientific congressional scientific technical nuclear significant technological former political financial scientific electoral democratic prospective democratic separate many american describe liberal liberal political scientific democratic political political responsive republican scientific responsible overall scientific democratic democratic political american ideological consistent scientific political nonpartisan particular long recent much illinois physicist accelerator congress foster saturday foster detrimental purpose involvement public obama russ brown bureau percent percent foster degree scientists4 congress nonprofit side overall march aisle march favored increased tended foster asked understanding')
+
+('VBG', 'bring datasciencegiving jointfundraising funding running training acting aspiring according going according thinking taking taking going taking according giving giving according growing considering according giving giving giving according giving')
+
+('NN', 'face take donate account worry society foster candidate support engineering affect perform donate texas trump warren support pick speak fact protest individual foundation past bachelor foster rush overblown dirty pure hillary texas senate incumbent iran shaughnessy naughton veteran stark half total partisan campaign finance github github bill bill clark roll call bill congress money time analysis election commission pocket truth foster science mall washington world importance science field march communication president administration government budget funding moment engagement community percent party analysis occupation science engineering1 science analysis leadership party donation inflation decade community willingness science background house support community science analysis california democrat jerry engineer doctorate amount holt member congress president association science organization world square scope expertise ability work science holt community list money clinton year mitt romney year community campaign president support decade cruz massachusetts senate labor cycle period engagement community election cycle member field house house senator research service expertise guidance deal example kind knowledge component pennsylvania drug researcher plunge house action goal office support community group strategist board session group session group naughton fund party climate change difference naughton line research center survey association advancement science community population analysis center difference percent community preference percent party percent decade percent money survey community activity march science issue something foster event march trump antiscience time caroline health researcher event washington thing credit administration chosen democrat analysis administration laboratory survey signing')
+
+('VB', 'look identify emphasize keep find establish secondlargest')
+
+('JJR', 'earlier wieder less higher smaller')
+
+('VBD', 'feingold persuade selfidentified candidateaffiliated affiliated selfidentified joked advancement said scott foster said said filed continued received worked explained said decided gave took fell said said gave served gave gave gave gave said said attended said felt gave went increased said')
+
+('VBZ', 'republicans elizabeth democrat shows holt contests republicans goes includes comes wants says hopes goes')
+
+('NNPS', 'republicans')
+
+('VBN', 'specialized raised organized imposed described given considered identified excluded adjusted shown worked started called involved enacted proposed donated excluded received raised topped received received raised feingold lost skewed provided lost held found showed accounted')
+
+('NNP', 'trippi')
+
+('JJS', 'least largest biggest')
+
+Token analysis after pre-processing 
+Number of tokens: 715
+Number of types: 392
+Type token ratio: 0.5482517482517483
+

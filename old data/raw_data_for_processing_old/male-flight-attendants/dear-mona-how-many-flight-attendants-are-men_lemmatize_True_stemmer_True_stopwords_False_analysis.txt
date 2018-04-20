@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 846
+Raw number of types: 360
+Raw Type token ratio: 0.425531914893617
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 437
+Number of types: 250
+Type token ratio: 0.5720823798627003
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dear major dear male use illinoi dear histori avail american useless femal sinc percentag male figur meanwhil overal male past onli steadi presum overal median past le white black civil airlin chang emerg homogen white peculiar onc industri same public clear unusu standard hard unusu make occup attend other similar administr seamstress femal percent dental other extrem bizarr titl full bottom male mental talli male receptionist much breed american dearmona')
+
+('NN', 'mani flight mona chalabi file hope number help github github john siefer pilot work flight airlin offer passeng choic beverag flight chicago april mona flight attend jack lincolnwood jack aviat number show male flight attend time thousand number kind question number flight attend sinc guess interest flight attend use look percentag slightli stori emerg percent flight attend risen sinc percent gender split percent worker steadili decad accord censu bureau compil minnesota popul center figur avail everi year befor reason share flight attend today flight attend one stay cabin crew time percentag flight attend onli year sociologist texa flight attend group hispan share right law recruit import reason chang gender race peopl point exit percent flight woman airlin sector slightli look categori transport attend inspector percent male race flight demograph kind grasp percent sector male comparison look gender split list minnesota popul center databas flight term gender split interview surveyor onli percent role teacher percent male support job percent male dressmak percent male role list job phrase hygienist percent percent boilermak percent driller earth list male share thi piec jack intrigu flight attend number hairdress typist encount becaus thi worker hope number help question answer fivethirtyeightcom datalab538')
+
+('VBP', 'attend datamaleflightattend attend depend differ chang look have gradual increas have point have make cite expand prefer despit attend make attend categori enumer mean want occup show have send')
+
+('NNS', 'data data personnel data chang univers employe compani domin data mona')
+
+('JJS', 'latest most')
+
+('JJR', 'more fewer higher greater younger older enter bigger broader better rarer')
+
+('VBD', 'were were were were were probabl were rose')
+
+('VBZ', 'risen realli multitud forc rel')
+
+('VBN', 'fallen fallen occur becom')
+
+('VB', 'resembl closer kindergarten keep like')
+

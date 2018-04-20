@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1988
+Raw number of types: 483
+Raw Type token ratio: 0.24295774647887325
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag help name hope help headscratcher smith brittany mostcommon latino straightforward smith dice rodriguez hartman hartman maria garcia github name illustration joel plosz illustration joel plosz mona smith name george list time money work description smith name reality colleague conclusion name security administration database date problem none today number year life expectancy silver methodology life expectancy popularity time instance chunk percent population database baby population state factor name detail footnotes1 name number distribution diffuse jargon baby percent name census bureau database number surname3 problem nomenclature population number growth example surname percent surname number rate population percent ditto share rate population population period share population share fashion rate surname mile surname johnson number country chance chance probability smith something methodology death immigration population growth name name nothing number combination point country reason census bureau breakdown group percent surname percent surname year hartman associate professor emeritus illinois university intuition hartman idea website reality mark hartman census name name likelihood name chance rodriguez percent whitepagescom hartman number phonebook name percent prevalence name chart idea order number johnson list name computer ethnicity matter name plan event percent phone book blow figure history placeholder name step fact name john name name research probability result smith name place example garcia name percent name combination analysis page george question fivethirtyeightcom datalab538 crap figure change figure crap treat look factor suffer account hartman move dearmona tag choose chalabi number combination state name database name baby name woman state population immigrant calculation parent girl name surname year instance group number name probability rate name probability name fact combination page probability probability name record factor example probability name probability alliteration parent combination probability chance chance estimate combination combination probability skyrocket number probability state show look show tend hope account result person daughter surname offense death gem change tend assume correlate datamostcommonname lastname north john country diverse tricky lastname simple william mine john mona github america technique america ethel latino list smith garcia garcia percent garcias smith click davis blandness smith america mona name surname maria count test suggest extend rank send reveal become reckon account maria michael michael correction smith heimerl rezendiz maria thomas thomas john david thomas mark daniel lott michael maria make illustrate multiply simple chart fact look least')
+
+('VB', 'think john take take assume go')
+
+('VBP', 'think explain answer martin account expand flower baby name probability flower change know tend expect make want appear dear suggest make maria suggest go')
+
+('JJ', 'nate female hispanic overall total hear demographic hispanic ethnic simple clichd github surname percent garcia calculation surname column thomas byname smith name piece american immigrant american american american individual surname surname adjustment variable american american surname american american american american present mean detect american live affect dear common dear common first united common real last separate first able third common full sophisticated different common social first alive actuarial many similar typical various first considerable hispanic common much common hispanic methodological able sure hispanic popular unadjusted statistical imaginative american first last american ethnic ethnic able racialethnic white white overall white hispanic major hispanic white proportional clear many first common last independent particular common last neat little first important wrong basic certain first last racial ethnic white last spanish southern first lastname white simple basic little different strong racial last independent american basic simple underestimate particular simple unpopular improbable unlikely huge last statistical certain first independent certain last likely basic likely second dramatic independent common full common overall unique male whole hispanic table surname smith used adjust surname come answered assumed matrix garcia andrew andrew united tried looked american american')
+
+('VBD', 'bold kieron dropped set smith multiplied foreignborn rose tried caused showed stitched reflected called reached moved turned andrew tried posted looked included took grew grew grew took')
+
+('NNP', 'yorkshire kieron')
+
+('NNS', 'williams data data data data data james data people data people publishes people james data people data data rodriguez corrects maria')
+
+('VBN', 'born found captured born christened named adjusted based given published named called called related named called called bypassed expected used named needed calculated found wired adjusted filed started labeled changed distributed')
+
+('JJR', 'flower fewer higher slower lower lower')
+
+('VBZ', 'tends assumes appears appears')
+
+('JJS', 'suggest')
+
+('VBG', 'factoring reshuffling going using varying focusing according dividing guessing rolling misleading using searching using picking calling taking according according')
+
+Token analysis after pre-processing 
+Number of tokens: 710
+Number of types: 351
+Type token ratio: 0.4943661971830986
+

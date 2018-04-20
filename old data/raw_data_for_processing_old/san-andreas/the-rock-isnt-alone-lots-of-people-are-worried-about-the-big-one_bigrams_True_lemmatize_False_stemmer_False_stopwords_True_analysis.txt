@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1253
+Raw number of types: 801
+Raw Type token ratio: 0.6392657621707901
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 824
+Number of types: 650
+Type token ratio: 0.7888349514563107
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rock hickey johnson charbonneau film dwayne johnson earthquake california office past weekend disaster movie formula world family rebuilt idea film time span california situation break stuff supervolcano story time survey probability earthquake magnitude percent deck jack california earthquake audience poll percent think pacific census region coast deal anxiety percent region percent percent think quake lifetime kind disaster thing survival evacuation plan survey risk audience thing survey supervolcano treat sense magma yellowstone anything mississippi github jun  at 600 am the the rock rock isn isn  t alone people are about ‘ the big big one one  by walt walt hickey the data data on on github github github github data data at datasanandreas facebooktwitteremail facebooktwitteremail dwayne dwayne johnson premiere of of ‘ on may may 26 at tcl chinese theatre theatre in in hollywood hollywood  eric charbonneau charbonneau  a film dwayne johnson johnson about about a catastrophic earthquake destroying california california  it at at the the box box office past weekend weekend  pulling in in more more than basic disaster disaster movie movie formula formula  world is destroyed  a man rebuilt  but it s also playing off off legitimate the idea behind the the film film is sound  on a geological time time span california  tectonic situation situation is break some some stuff stuff in in a the immediate risks are lower than than most most people whether it s the andreas fault the yellowstone yellowstone supervolcano supervolcano  this story story will not end end well for the the left left coast coast  geological time time  though  the us geological survey the probability probability of an earthquake earthquake with a magnitude magnitude of or larger rocking california california is is 7 percent over over the the next draw a from a a deck deck  s not a jack jack  california is is ok through 2045 big one one  people think the big big one massive  catastrophic earthquake earthquake  according to to a surveymonkey audience audience poll poll we a third third of about  the big big one one  percent think think it their lifetime lifetime   but but when when we we zero zero in on the the pacific pacific census census region west coast coast and noncontiguous us a good good deal deal more more anxiety anxiety  percent of of the the 206 pacific region said they  very very or and 65 about  the big big one one  percent think their lifetime lifetime  people are to be this kind kind of of disaster disaster   but s not a bad  people people who the big big one one  a disaster disaster  such as buying a survival kit kit or an evacuation evacuation plan the survey survey  but because because people overestimate the the risk the big big one one  like  builtin audience audience  s my my favorite this survey survey  out the the more more you the yellowstone yellowstone supervolcano supervolcano  and if if you don  t know the last last one one  you are are in for a major treat the more you are are to to be the big big one one  sense  because oh oh my my gosh is so much magma magma under under yellowstone yellowstone why west of of the the mississippi mississippi   check check out the full full data data for for this this on on github github ')
+
+('JJ', 'lots walt premiere chinese eric catastrophic andreas basic legitimate sound geological tectonic immediate little coast geological geological california draw card lots massive catastrophic surveymonkey third lifetime active noncontiguous good pacific worried overall likely favorite know yellowstone last major worried gosh much west full alone  of people get the the premiere andreas  tcl chinese andreas  starring dwayne a catastrophic crushed it this past domestically  by a a pretty pretty basic family is is rebuilt  the scientifically sound long enough enough geological s tectonic going to to break way  if the probably a a little the san san andreas or the over the over geological to the us geological of an with a next 30 years  card from if it not a lots of of people one  a massive  catastrophic a surveymonkey commissioned  about a going to go down in their geologically active the noncontiguous there  about 58 somewhat  overall  about 62 quake will that people than they need to about this that  really a thing  in their about three likely to for a  such a survival making an to the into those a builtin here  about this about the the san fault or about the in for a major likely you makes sense there is so much did we we settle')
+
+('NNS', 'people movies data github data datasanandreas attends theatre andreas expectations abides fears risks people andreas eons years people americans states respondents earthquakes people people lifetimes times precautions people movies fears andreas data  lots under movies out expectations san andreas  abides legitimate fears immediate risks coming eons  lots their lifetimes of americans to go us states region respondents about earthquakes think the their lifetimes three times taken precautions  movies those fears andreas  san andreas')
+
+('VBD', 'worried hollywood crushed destroyed left commissioned worried said worried know  2015 hickey filed san andreas san andreas  crushed than  is destroyed man  even if fault or survey  of 80 we commissioned respondents said extremely worried more worried san andreas treat  be worried why did')
+
+('VBN', 'filed come worried taken are worried are worried were worried have taken have a')
+
+('VBP', 'github dwayne think fault think occur think overestimate play builtin fault check lots of movies get expectations and andreas  abides by fears  span  people think eons this lifetimes  americans are down in in on states  earthquakes overall the quake will occur necessarily need who think lifetimes are times as to have precautions for plan  people overestimate risk of that play play into fears   have you know andreas fault you don out the')
+
+('VBG', 'starring destroying beating pulling playing going coming according rocking according going buying making according film starring earthquake destroying  beating and pulling also playing probably going the coming  according larger rocking come during  according s going bad thing as buying or making  according favorite thing settle anything')
+
+('JJR', 'lower larger filed under little lower  whether')
+
+('JJS', 'west active west anything west')
+
+('VB', 'argue need happen settle in their could argue')
+
+('VBZ', 'turns makes johnson attends a big that  and if still  will come and 43 region  will happen still  it turns which makes')
+
+('NNP', '‘ the ‘ san  eric  san  san  world  yet yet a  but  california  even  the  draw  and  california  big  still  the  will  the  and  the  and  the  you  the  will  but  the  san  still  and  you  the  the  which  because')
+

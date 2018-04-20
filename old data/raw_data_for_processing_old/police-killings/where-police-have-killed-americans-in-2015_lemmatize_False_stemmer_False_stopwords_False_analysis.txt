@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 841
+Raw number of types: 347
+Raw Type token ratio: 0.4126040428061831
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 456
+Number of types: 264
+Type token ratio: 0.5789473684210527
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'police americans killings data github data datapolicekillings americans police entries plans statistics killings data media submissions efforts encounters verifies incidents calls data race1 details incidents data addresses killings addresses tracts neighborhoods deaths data researchers journalists data police killings neighborhoods killings terms police tracts populations tracts americans neighborhoods africanamericans police tracts africanamericans areas numbers deaths neighborhoods jobs opportunities protesters streets deaths conditions tactics killings people reports incidents ones police numbers people cases results tracts words numbers thanks groups efforts relies numbers data data codes tracts statistics')
+
+('VBP', 'have github makeshift clear tend household live them5 narrative brown discriminatory look have yield least have work love')
+
+('VBN', 'killed filed launched counted killed written killed crowdsourced killed killed killed killed killed limited killed been fled based posted')
+
+('NN', 'casselman police scene freddie gray goldman makeshift scene freddie gray goldman monday database start year database building coverage reader police information place colleague reuben fischerbaum census look information download chance build work information income census thing place blacker place census percent quarter majorityblack population database percent percent inequality rate missouri freddie gray police anger pattern example vincent cordaro home rockland county york york city suburb household income database cordaro news family shotgun standoff police news shot police happen example shot census houston household income traffic stop example jail fairfax virginia census country caution datacollection github github census census')
+
+('JJ', 'memorial david memorial david guardian impressive interactive tuesday guardian official police guardian fatal reliable guardian possible demographic such basic guardian demographic economic guardian full available other public large table basic tract3 whole percent bottom income4 percent majorityblack black likely guardian overall racial lowincome same ferguson occurred poor black educational economic police february white shot median guardian sevenhour like unarmed black frank shephard tract median table strange natasha mckenna county other interpret guardian easy other')
+
+('VBD', 'arrested arrested flawed opensourced found verified took converted occurred took died were died were emerged took cited armed died threatened said died lived died')
+
+('VBG', 'going combining reporting making policing underlying according')
+
+('VBZ', 'includes includes allows gives gives race2 tracts lives means happens includes makes')
+
+('VB', 'take cause take link know find')
+
+('JJR', 'poorer poorer more more more more more more')
+
+('JJS', 'poorest most richest')
+

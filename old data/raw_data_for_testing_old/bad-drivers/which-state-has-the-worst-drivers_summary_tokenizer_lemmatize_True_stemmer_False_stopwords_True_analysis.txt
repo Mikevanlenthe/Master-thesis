@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1554
+Raw number of types: 284
+Raw Type token ratio: 0.18275418275418276
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token token ratio true true verb adjective dear getty dear heard tricky much good personal national fatal total characteristic fatal available involved fatal national interested fatal worth thoughtday ohio north dakota fatal impressive fatal previous first high previous fatal available irresponsible good utah behavior fatal average overall future national expensive premium comprehensive logic average good american uninsured irresponsible vast fatal insured average good expensive easy lisa fatal north carolinian national answered mile mile average individual accident speeding nhtsa total percent understand united accounted recorded occurred insured involved involved involved distracted insured drunken affect come token')
+
+('NN', 'analysis number number type type filter lemmatizer stemmer article token north type negligent vary fatal north dakota behavior fatal plenty driver idaho mississippi thirtyone premium average oklahoma idahoan insurer mona state driver mona chalabi number chainreaction accident pennsylvania pennsylvania william thomas cain image state region driver ability state question historic driver number crash state insurance company insurance company charge driver measure country state driver contrast driver board collision motor vehicle crash state property damage injury fatality highway traffic safety administration texas crash state washington state crash state driver state driver state condition factor state focus driver collision number driver course mile state crash figure collision mile example driver time accident driver road accident time mind case driver detail distraction cellphone driver percent driver accident percent percentage caution none time driver information mind crash state york example percent database driver crash percent driver crash figure state percent driver collision jersey figure percent crash perspective determine time fatality traffic fatality percent percent traffic fatality pennsylvania share behavior indicator driver percent traffic fatality driver percent traffic fatality year figure percent number news insurance provider base price multitude indicator driver accident state insurance company assessment cost figure association insurance commissioner highrisk driver jersey insurance country collision idahoan insurance half driver country driver driver premium insurance research council percent road fraction motorist insurance vehicle term question price loss insurance provider state collision insurance company figure state number comparison fairer insurance company loss state number number percentage driver america collision insurer collision state louisiana sorry number crash driver insurance provider deserve price average driver cost collision loss hope number question dearmona fivethirtyeightcom datalab538 bottom found help scene sound answer asheville iowa show make think bearing analysis number number type type ratio')
+
+('VBG', 'preprocessing using using using costing driving neighboring using according driving eating drinking dreaming speeding speeding speeding driving including according according insuring driving looking using costing preprocessing')
+
+('VBD', 'token separated distracted alcoholimpaired combined clearcut lived resulted traveled traveled distracted occurred occurred filed distracted token')
+
+('NNS', 'stopwords false mona people others data data data montana data jerseyans varies')
+
+('VBN', 'used involved insured traveled distracted recorded recorded distracted treated licensed recorded alcoholimpaired paid divided registered involved known involved compared involved recorded based given involved involved speedingrelated involved incurred distributed estimated licensed compared')
+
+('VBP', 'fatal hope feasterville indiana need produce need indicate reflect lisa bemoan want know think token')
+
+('VB', 'come help send carolina make')
+
+('JJS', 'worst worst highest latest latest latest highest')
+
+('JJR', 'worse worse fewer higher')
+
+Token analysis after pre-processing 
+Number of tokens: 519
+Number of types: 246
+Type token ratio: 0.47398843930635837
+

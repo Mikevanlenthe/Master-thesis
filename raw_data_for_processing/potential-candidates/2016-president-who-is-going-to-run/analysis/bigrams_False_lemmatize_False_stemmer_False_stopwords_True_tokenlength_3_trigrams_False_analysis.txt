@@ -1,0 +1,50 @@
+Article: potential-candidates/2016-president-who-is-going-to-run
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1038
+Raw number of types: 394
+Raw Type token ratio: 0.37957610789980734
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 444
+Number of types: 284
+Type token ratio: 0.6396396396396397
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jan, run, president, harry, get, github, github, clinton, bennett, kennedy, ceremony, york, jason, decrow, president, date, person, longterm, relationship, rick, fox, news, contract, find, feature, look, person, hampshire, primary, look, louder, hampshire, assumption, idea, score, candidate, poll, midterm, side, martin, malley, bernie, score, run, hampshire, visit, decision, clinton, someone, vice, president, joe, biden, poll, clinton, everyone, way, field, caution, hand, poll, difference, warren, side, picture, lot, bush, mike, huckabee, rand, paul, rick, perry, santorum, majority, run, paul, perry, santorum, campaign, group, scott, walker, run, campaign, carson, bobby, jindal, rubio, impact, indicator, romney, potential, romney, washington, post, campaign, list, romney, statement, paul, ryan, john, kasich, inaction, direction, plan, course, article, warren, romney, race, house, mehta, article')
+
+('VBG', 'looking, going, figuring, going, figuring, sitting, fling, starting, recurring, running, running, exploring, considering, leaning, running, running, exploring, looking, basing, running, speaking, hedging, testing, going, running, going, exploring, hitting, assembling, making, visiting, considering, saying, putting, going, writing, running, beginning')
+
+('NNS', 'clues, data, data, datapotentialcandidates, reacts, ripple, candidates, intentions, others, answers, variables, candidates, get, get, events, fundraisers, meetings, states, polls, statements, candidates, intentions, events, actions, words, candidates, polls, pollsters, observers, sanders, measures, elections, states, states, pollsters, bets, clinton, elizabeth, warren, polls, polls, visits, states, teams, visits, states, pollsters, cases, candidates, moves, pollsters, surveys, states, points, numbers, changes, efforts')
+
+('VBD', 'filed, introduced, said, held, included, ended, included, said, visited, said, visited, warranted, said, said, included, muddled, included, said, made, chris, said, made, said, said, said, declared, became, contributed')
+
+('JJ', 'visible, primary, hillary, tony, robert, new, potential, interested, serious, lucrative, run, unsure, many, political, iowa, new, early, many, national, logic, straightforward, honest, earlystate, iowa, new, early, early, political, run1, potential, national, democratic, webb, iowa, new, midterm, january, hillary, clinton, early, national, peep, early, democratic, likely, tuesday, run, subtle, expect, republican, jeb, vast, early, likely, true, trail, hard, sure, top, christie, likely, cruz, early, marco, bush, skeptical, lagging, mitt, campaignrelated, many, early, apparatus, public, doubtful, much, update, much, ryan, serious, white, dhrumil')
+
+('VBP', 'singer, hope, dec, honest, coy, santorum, want, say, say, say, get, look, speak, ground, look, jim, end, seem, think, think, run, warren, seem, run, seem, ben, take, seem, fiorina, fiorina, run, see')
+
+('VB', 'run, try, run, get, get, get, run')
+
+('VBN', 'ruled, run, visited, planned, run, included, made, included, ted, run, listed, run, quoted, made, run')
+
+('VBZ', 'rallies, assumes, states')
+
+('JJS', 'least, least')
+
+('JJR', 'fewer')
+
+('NNP', 'kasich')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 618
+Raw number of types: 276
+Raw Type token ratio: 0.44660194174757284
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 461
+Number of types: 371
+Type token ratio: 0.8047722342733189
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBZ', 'states states falls states states seems americans comes which,states precisely,falls which,states which,states somewhat,adamant which,states region,expands kansas,states')
+
+('JJS', 'midwest midwest midwest midwest midwest midwest midwest least midwest midwest midwest midwest least midwest midwest south,midwest philadelphia,midwest falls,midwest targeted,midwest consider,midwest where,midwest definition,midwest thought,midwest oklahoma,midwest probably,midwest whether,midwest')
+
+('NN', 'hickey regionalism github github cornfield savoy illinois perlman argument mountain northeast anything philadelphia designation territory audience survey march march midwesterner group everybody state question illinois preeminent chicago percent survey group source definition state state bordering midwest quarter region illinois percent minnesota percent kansas anything territory region break midwestern diversity midwest,hickey filed,under under,regionalism regionalism,github github,github dataregionsurvey,cornfield cornfield,savoy savoy,illinois illinois,perlman regular,argument argument,which coast,mountain southwest,northeast anything,philadelphia unsophisticated,designation their,territory surveymonkey,audience midwest,march march,march identified,midwesterner group,identify first,people people,about midwest,everybody state,question midwestern,chicago midwestern,about about,percent southern,survey which,people adamant,about potential,albeit anecdotal,source source,several limited,definition their,state state,state state,bordering potential,midwest missouri,quarter arkansas,pinpoint pinpoint,south people,think think,region indiana,illinois pulling,percent wisconsin,minnesota least,percent midwest,without without,missouri missouri,kansas people,refer american,territory solid,region region,break subdivisions,diversity south,about about,south')
+
+('VBN', 'filed defined criticized selfavowed broadbased thought expected hickey,filed regions,united frequently,criticized criticized,selfavowed nebulous,expected')
+
+('JJ', 'dataregionsurvey regular other nebulous unsophisticated michigan surveymonkey national first midwestern midwestern soontobereleased southern potential anecdotal several midwestern limited second potential thought missouri pinpoint south indiana substantial wisconsin missouri unclear nebulous swaths american solid tribes south south github,dataregionsurvey somewhat,regular states,which states,these northeast,pretty defined,other midwest,nebulous admittedly,unsophisticated originally,michigan decided,which consider,their broadbased,asked asked,surveymonkey midwesterners,which states,national respondents,those asked,group midwest,there looking,first selected,least least,state illinois,preeminent preeminent,midwestern identified,midwestern contrast,soontobereleased soontobereleased,southern survey,which about,which states,group group,potential albeit,anecdotal selfproclaimed,midwestern spoke,limited namely,their either,second second,potential further,south south,thought thought,missouri probably,should about,arkansas south,people expands,yankee error,indiana illinois,appear because,their their,substantial michigan,wisconsin pulled,least midwest,nebulous expected,often often,people swaths,american territory,solid tribes,midwestern midwestern,there diversity,these acknowledge,except south,south')
+
+('NNS', 'regions states regions states regions midwesterners opinions midwesterners midwesterners respondents respondents states things people respondents people states sources minnesotans hoosiers spans respondents arkansas people expands regrets populations states people subdivisions groupings which,states which,regions united,states these,regions mountain,states other,regions selfavowed,midwesterners michigan,opinions states,midwesterners selfidentified,midwesterners national,survey march,respondents those,respondents identify,states there,things percent,respondents midwestern,sources bordering,minnesotans midwest,hoosiers midwest,spans thought,respondents yankee,regrets substantial,populations states,seems refer,swaths break,americans there,subdivisions these,groupings except,comes')
+
+('VBD', 'united decided asked selfidentified targeted identified asked selected identified selfproclaimed spoke thought thought thought pulled clearly,defined midwest,decided territory,broadbased audience,selfidentified survey,targeted respondents,identified midwesterner,asked everybody,selected chicago,identified several,selfproclaimed sources,spoke minnesotans,thought hoosiers,thought respondents,thought quarter,thought should,asked minnesota,pulled')
+
+('VBP', 'coast southwest south consider consider consider contrast adamant think yankee error appear michigan refer acknowledge states,midwest regions,coast states,southwest regions,south generally,consider midwesterners,consider states,consider respondents,contrast spans,further regrets,error populations,michigan seems,unclear americans,tribes generally,acknowledge comes,south')
+
+('VB', 'identify asked')
+
+('VBG', 'looking pulling consider,anything worth,looking midwest,pulling midwest,anything')
+

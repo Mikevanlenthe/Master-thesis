@@ -1,0 +1,19 @@
+Token analysis before pre-processing 
+Raw number of tokens: 13
+Raw number of types: 10
+Raw Type token ratio: 0.7692307692307693
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'puertoricotrumphurricanmentioncoveragmediadatahadpresidheadlinbestartattentweekpresident getgithubmariaweek wentmadewasn tdayisland andeffortcoverstatementricorico recoverinewspercenttexavisitwacriticpeoplhavepaydiddhrumilmehtafiledatapuertoricomediapublishfacebooktwitteremailago analysi')
+
+Token analysis after pre-processing 
+Number of tokens: 7
+Number of types: 7
+Type token ratio: 1.0
+

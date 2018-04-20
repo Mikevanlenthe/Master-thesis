@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 858
+Raw number of types: 358
+Raw Type token ratio: 0.4172494172494173
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 932
+Number of types: 756
+Type token ratio: 0.8111587982832618
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'battle riddler nation round riddler illustration guillaume riddler week math probability express something riddler movement submit either1 column riddler vacation need hint puzzle find twitter riddler express jerry commute problem work day work home foot chance driver percent chance time chance driver percent chance driver percent chance state driver ticket driver license police officer carpool route ticket morning max carpool riddler demand battle nation benevolent reign cyrus battle time land victory value conqueror victory way fight number distribution war submit plan time game intel battle chart battle battle oneonone battle royal riddler nation conquer rule submit plan solution week riddler express santa barbara california winner week shape form square puzzle submitter solution book math approach problem remove strip figure deconstruct rest shape rectangle add side solution week riddler bambury london winner week puzzle week solution submit email oliverroeder fivethirtyeightcom the,battle for,riddler riddler,nation edited,oliver oliver,roeder the,riddler riddler,illustration illustration,guillaume kurkdjian,welcome welcome,the the,riddler riddler,every every,week week,offer dear,around logic,and and,probability types,riddler riddler,express those,you you,who bitesized,and and,riddler riddler,classic classic,for for,those the,slowpuzzle slowpuzzle,movement movement,submit for,either1 either1,and and,you next,column the,riddler riddler,and and,are headed,vacation vacation,you need,hint hint,you favorite,puzzle dust,your attic,find find,twitter twitter,riddler riddler,express careening,commute commute,problem problem,four carpool,work work,each each,day for,the drive,work work,and and,again drive,home home,each each,the lead,foot foot,and and,each has,chance speeding,driver has,percent percent,chance getting,ticket ticket,each each,time percent,chance chance,driver driver,percent percent,chance chance,and percent,chance chance,the the,state state,will the,license license,driver driver,after his,her her,third third,ticket ticket,and and,driver driver,will the,carpool carpool,once once,his his,license revoked,since one,police police,officer the,carpool carpool,route route,maximum maximum,one one,ticket ticket,will morning,and and,max max,one all,four the,carpool carpool,last last,until all,the answer,riddler classic,back popular,demand demand,the the,battle for,riddler riddler,nation the,benevolent benevolent,reign reign,cyrus cyrus,hettle hettle,who battle,back february,over over,and and,time for,new king,queen wartorn,land your,archenemy archenemy,with with,whom whom,you collect,the the,most most,victory castle,has strategic,value value,for for,wouldbe wouldbe,conqueror your,enemy enemy,each any,way way,you you,like any,the castle,and the,same what,distribution your,enemy enemy,has the,most war,submit submit,plan your,100 this,time time,you valuable,game theoretic,intel the,chart chart,below battle,once receive,all all,your your,battle all,the possible,oneonone the,most battle,royal royal,and queen,riddler riddler,nation adapt,conquer conquer,rule submit,your your,plan plan,solution solution,last week,riddler riddler,express hekhuis,santa santa,barbara barbara,california california,winner week,express express,puzzle puzzle,you you,are particular,strange strange,shape can,you you,cut cut,into reassemble,them them,form form,square the,puzzle puzzle,submitter provided,the following,solution book,math systematic,approach approach,this this,problem problem,all experiment,because that,the the,square must,side side,length length,nine remove,strip strip,nine the,bottom bottom,the the,figure can,then then,deconstruct deconstruct,the rest,the the,shape shape,into into,eightbynine eightbynine,rectangle rectangle,and our,strip strip,the the,side side,like like,solution solution,last week,riddler haydon,bambury bambury,london london,winner classic,puzzle puzzle,this this,week week,video video,solution want,submit riddle,email email,oliverroeder oliverroeder,fivethirtyeightcom')
+
+('VBD', 'edited selected ticketed revoke revoked lost split got crowned cut diarmuid appeared coauthored may,2017 roeder,filed things,hold driver,selected immediately,revoke license,revoked who,won like,fight you,got intel,posted and,crowned are,handed submitter,diarmuid puzzles,coauthored square,formed')
+
+('JJR', 'roeder answer answer filed,under correct,answer your,answer')
+
+('VBN', 'filed bitesized headed issued crowned given chosen posted handed provided formed round,edited problems,related something,bitesized are,headed being,ticketed will,issued have,lost queen,crowned have,100 has,chosen early,provided first,appeared')
+
+('JJ', 'kurkdjian welcome related dear logic classic slowpuzzle next favorite dust attic carpool drive drive lead ticket percent license third carpool maximum many last classic popular riddler hettle inaugural february new queen wartorn collect strategic distribute castle victory valuable theoretic first receive possible queen adapt last hekhuis last particular strange reassemble hard systematic experiment individual easy square length bottom strip last classic last classic video riddle battle,for under,the guillaume,kurkdjian related,the hold,dear math,logic there,are are,two for,those you,the answer,for shoutout,the the,next weeks,the have,favorite collecting,dust your,attic from,jerry randomly,for the,drive for,the the,drive has,lead each,has ticketed,for driver,percent driver,percent revoke,the driving,the only,one officer,the that,all start,with how,many days,can expect,the until,all lost,their submit,your riddler,classic back,popular battle,for won,the the,inaugural inaugural,battle back,february time,for are,the distant,wartorn there,are are,two and,your competing,collect each,castle own,strategic specifically,the are,worth and,victory points,you and,your soldiers,distribute distribute,any fight,any sends,more given,castle that,castle its,victory send,the troops,you split,the forces,your until,the wins,the wins,the the,war distributing,your among,the but,this got,some some,valuable game,theoretic the,earlier earlier,battle and,the shows,the from,the the,first first,battle once,receive the,possible wins,the wins,the the,battle king,queen analyze,adapt last,week tahna,hekhuis last,week handed,particular shape,can into,three and,reassemble square,the hard,have have,systematic all,can really,experiment were,individual squares,easy formed,must from,the figure,can add,our last,week riddler,classic last,week week,classic solution,want submit,riddle')
+
+('VBP', 'offer hold riddler want correct start expect submit distant castle enemy castle send enemy begin github adjudicate tahna see eightbynine haydon want express,for who,want submit,correct you,may two,weeks you,need you,have coworkers,carpool drivers,has drivers,start tickets,how can,expect drivers,have licenses,submit rules,distant there,are you,and points,each its,own castles,are worth,and you,and each,have castles,whoever conquers,that points,you you,each each,send points,you don,know chosen,until battles,begin castles,but plans,github github,and soldiers,from plans,adjudicate matchups,whoever rule,submit congratulations,tahna pieces,and easy,see squares,from congratulations,haydon')
+
+('NNS', 'problems things types weeks meyers coworkers drivers drives drivers tickets days drivers licenses rules castles warlords points points soldiers castles soldiers conquers wins points troops points forces battles points soldiers castles plans shows distributions soldiers plans matchups wars congratulations pieces puzzles squares squares congratulations the,things two,types jerry,meyers four,coworkers the,drivers four,drivers with,tickets many,days the,drivers their,licenses the,rules are,castles two,warlords victory,points has,its the,castles victory,points 100,soldiers the,castles more,soldiers castle,conquers wins,its victory,points the,points the,battles most,points 100,soldiers the,castles battle,plans the,distributions distributions,soldiers battle,plans oneonone,matchups most,wars express,congratulations three,pieces math,puzzles individual,squares nine,squares classic,congratulations')
+
+('VB', 'get stop know side may,get will,stop here,are and,add')
+
+('VBG', 'collecting careening speeding getting driving evening assuming king competing distributing king following want,something puzzle,collecting meyers,careening chance,being for,speeding chance,getting stop,driving per,morning per,evening evening,assuming new,king you,competing plan,distributing crowned,king the,following')
+
+('VBZ', 'castles sends wins wins wins wins offer,problems here,math that,two randomly,for time,drives whoever,sends and,wins number,troops distribution,forces whoever,wins points,wins below,shows whoever,wins wars,wins')
+
+('NNP', 'same,number')
+
+('JJS', 'the,rest')
+

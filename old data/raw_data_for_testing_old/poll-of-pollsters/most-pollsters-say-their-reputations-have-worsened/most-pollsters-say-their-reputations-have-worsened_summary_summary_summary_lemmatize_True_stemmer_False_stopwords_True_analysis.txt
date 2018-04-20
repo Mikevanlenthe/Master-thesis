@@ -1,0 +1,25 @@
+Token analysis before pre-processing 
+Raw number of tokens: 40
+Raw number of types: 40
+Raw Type token ratio: 1.0
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'poll pollster medium peopl name imag respond state trump year support work declin question shape find blame result scientist rate vote think')
+
+('VBD', 'said found')
+
+('NNS', 'data')
+
+('VBP', 'know')
+
+Token analysis after pre-processing 
+Number of tokens: 27
+Number of types: 27
+Type token ratio: 1.0
+

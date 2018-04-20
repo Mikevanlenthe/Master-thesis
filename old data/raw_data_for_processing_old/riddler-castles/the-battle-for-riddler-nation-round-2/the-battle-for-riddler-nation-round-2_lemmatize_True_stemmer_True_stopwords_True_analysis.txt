@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 858
+Raw number of types: 358
+Raw Type token ratio: 0.4172494172494173
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 345
+Number of types: 211
+Type token ratio: 0.6115942028985507
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'battl oliv kurkdjian relat classic slowpuzzl next attic careen select randomli lead ticket driver third revok sinc offic driver last classic popular riddler februari queen crown victori worth castl victori forc castl valuabl theoret first royal queen adapt last last particular appear hard squar length figur strip last classic bamburi last classic')
+
+('NN', 'riddler nation round edit roeder file riddler illustr guillaum welcom riddler everi week offer problem thing hold math logic probabl type riddler express someth movement submit either1 shoutout column week riddler head vacat hint favorit puzzl collect dust find twitter riddler express jerri meyer commut problem cowork carpool work driver randomli drive work drive home driver foot chanc ticket speed driver percent chanc time drive driver percent chanc driver percent chanc driver percent chanc state immedi revok ticket driver drive carpool polic carpool rout maximum ticket start ticket mani day carpool driver submit riddler demand nation benevol reign cyru hettl inaugur battl time rule distant wartorn land castl warlord archenemi compet point castl strateg valu wouldb conqueror specif castl point distribut fight castl point number troop point enemi point submit plan time game intel post battl plan show distribut battl receiv battl plan possibl oneonon matchup war battl crown riddler nation conquer rule submit plan week riddler express congratul tahna hekhui santa barbara california winner week express puzzl hand strang shape piec reassembl form squar puzzl submitt diarmuid earli provid solut book math puzzl coauthor systemat approach problem realli experi individu squar easi form remov strip squar bottom deconstruct rest shape eightbynin rectangl side solut week riddler congratul haydon london winner week puzzl week video solut submit riddl email oliverroed fivethirtyeightcom')
+
+('VBP', 'dear want riddler correct need issu expect answer collect send conquer win send distribut github adjud win win follow want')
+
+('NNS', 'bites licens castl know')
+
+('JJR', 'answer soldier soldier soldier soldier')
+
+('VB', 'get stop assum begin win chart side')
+
+('VBZ', 'licens licens battl distribut')
+
+('VBN', 'morn given chosen solut')
+
+('VBD', 'lost split')
+
+('VBG', 'king king')
+

@@ -1,0 +1,57 @@
+﻿Pick A Number, Any Number
+Edited by Oliver Roeder
+
+Filed under The Riddler
+
+ riddler_4x3_default
+ILLUSTRATION BY GUILLAUME KURKDJIAN
+Welcome to The Riddler. Every week, I offer up problems related to the things we hold dear around here: math, logic and probability. There are two types: Riddler Express for those of you who want something bite-sized and Riddler Classic for those of you in the slow-puzzle movement. Submit a correct answer for either,1 and you may get a shoutout in next week’s column. If you need a hint, or if you have a favorite puzzle collecting dust in your attic, find me on Twitter.
+
+Riddler Express
+From Abijith Krishnan, a simple but intriguing participatory problem:
+
+Submit a positive integer. The person who submits the lowest unique number among all submissions is the winner and is inducted into the exclusive 🏅 Ordinal Order 🏅 of Riddler Nation!
+
+Submit your number
+
+Riddler Classic
+From Itay Bavly, a chain-link number problem:
+
+You start with the integers from one to 100, inclusive, and you want to organize them into a chain. The only rules for building this chain are that you can only use each number once and that each number must be adjacent in the chain to one of its factors or multiples. For example, you might build the chain:
+
+4, 12, 24, 6, 60, 30, 10, 100, 25, 5, 1, 97
+
+You have no numbers left to place after 97, leaving you with a finished chain of length 12.
+
+What is the longest chain you can build?
+
+Extra credit: What if you started with more numbers, e.g., one through 1,000?
+
+Submit your answer
+
+Solution to last week’s Riddler Express
+Congratulations to 👏 Mats Cooper 👏 of Snowmass Village, Colorado, winner of the previous Express puzzle!
+
+In a certain town, 11 fine folks are running in a primary for three at-large seats on the City Commission. Each voter may vote for up to three candidates. This election will reduce the field of candidates from 11 to six. How many different (legal) ways may a voter cast his or her ballot? And how many different outcomes (excluding ties) are there for who advances to November’s general election?
+
+Let’s start by separating out the number of candidates a voter is capable of voting for. They can vote for three, two, one or zero.
+
+If they vote for three candidates, there are “11 choose 3,” or 165, ways to select them. If they vote for two, there are “11 choose 2,” or 55, ways to select them. If they vote for only one, there are 11 ways to choose that candidate. And there’s just one way to vote for zero candidates. Adding all that up gives 232 possible ballots.
+
+As for which candidates advance to November’s general election, there are 11 candidates and six slots, and “11 choose 6” equals 462 outcomes.
+
+Solution to last week’s Riddler Classic
+Congratulations to 👏 Josiah Jenkins 👏 of Rugby, North Dakota, winner of the previous Classic puzzle!
+
+There are two warlords: you and your archenemy, with whom you’re competing to conquer castles and collect the most victory points. Each of the 10 castles has its own strategic value for a would-be conqueror. Specifically, the castles are worth 1, 2, 3, … , 9 and 10 victory points. You and your enemy each have 100 soldiers to distribute between any of the 10 castles. Whoever sends more soldiers to a given castle conquers that castle and wins its victory points. (If you each send the same number of troops, you split the points.) Whoever ends up with the most points wins. But now, you have a spy! You know how many soldiers your archenemy will send to each castle. The bad news, though, is that you no longer have 100 soldiers — your army suffered some losses in a previous battle. How many soldiers do you need to have in order to win, no matter the distribution of your opponent’s soldiers?
+
+You need 56 soldiers.
+
+The 10 castles are worth a total of 1 + 2 + … + 9 + 10 = 55 points, meaning you need at least 28 victory points to win. Solver Jack Markley provided an excellent description of the intuition behind the solution:
+
+Since we will have all the knowledge in this battle, we really just need to figure out what the most effective strategy for our enemy would be and then how many soldiers we need to win in that case. War, like everything else involving people who want things, is ruled by economics. My enemy doesn’t want us to get 28 or more points, so they want to make it cost as much as possible — they want to make every castle give an equally poor number of points per soldier required to conquer it. Luckily for my desire to deal with even numbers, 100 is the perfect number of soldiers so that the enemy sets up every castle as requiring two soldiers spent per victory point won with a distribution of 1, 3, 5, 7, 9, 11, 13, 15, 17 and 19 soldiers. With that being the worst distribution for me, I can still win with 56 soldiers by conquering Castles 1 through 7 with a distribution of 2, 4, 6, 8, 10, 12 and 14 — for exactly 28 victory points.
+
+Solvers Daniel Eriksson and Zack Segel approached the problem using a technique called simulated annealing and were kind enough to share their code and graphs. In the image below, you can see how Daniel’s simulations converged to Jack’s mathematical argument about the enemy’s troop distribution above. As the program attempts to find the best distribution to combat your spy, it eventually arrives, after about 8,000 iterations, at the band of bars representing the 1, 3, 5, … soldier distribution described above:
+
+
+It’s good to have a spy!

@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1071
+Raw number of types: 431
+Raw Type token ratio: 0.4024276377217554
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'joining jumping asking getting going avenging realitywarping talking kicking shapeshifting destroying measuring getting jumping avenging avenging king occurring destroying merging speaking')
+
+('NNS', 'avengers movies data github data dataavengers spoilers avengers spoilers questions avengers theaters avengers years films actors contracts avengers fans years friends issues criteria allies friends cases fakes years writers adventures avengers adventures things comics avengers characters avengers people stories avengers comics avengers heroes deaths occasions richards travelers times avengers avengers android times times avengers years fans comics months months months comics throes universes universes casualties movies avengers studios rights')
+
+('NN', 'fourstory building walt hickey article anyone point number number thing book death fleeting health insurance coil death books3 character death chill reader someone everyone character life model robot character future character stasis tube pocket dimension someone consciousness killer robot alternatedimension self process marvel wikia mortality rate team analysis time percent team fall percent chance membership card building nobody iron hulk captain thor hawkeye widow scarlet witch quicksilver vision course time fact hawkeye recovery rate toptier death roster avenger life insurance divine ezpass comeback franklin scarlet witch side life chaos reaper colleague deal time death chance member afterlife percent chance death8 earth616 marvel janet dyne destroyed operation mortality rate member death mind rate annihilation couple captain avenger witch magic weird thing character performer portraying')
+
+('VBN', 'filed involved planned shuffled considered shown implied killed killed hidden updated listed died counted stayed based built given named')
+
+('VBP', 'github note ultron ultron films fear handle define closest believe iron know decide counterearth analyze avengers7 jocasta expect marvel know watch ultron')
+
+('VBD', 'conceived left started learned signed died died died sent killed merged died happened combed joined found died joined signed died made dragged made returned recovered recovered')
+
+('JJ', 'researched intentional cinematic universe next couple dead comic fantastic mortal dried comic dead dead dead skrull alien decoy hulk sent follow dead onslaught follow dead weird current former team5 fourstory safe screen black single twice remarkable total unlucky meat loaf individual microverse good grim tempt many stint second third universe ultron overall current former permanent next several accompanied next civil bite scarlet tempestuous pull shit kill marvel')
+
+('VBZ', 'exceeds friends appears thinks avengers knows')
+
+('JJR', 'older avenger')
+
+('JJS', 'least least')
+
+('VB', 'keep increase remember')
+
+Token analysis after pre-processing 
+Number of tokens: 417
+Number of types: 294
+Type token ratio: 0.7050359712230215
+

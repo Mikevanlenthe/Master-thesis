@@ -1,0 +1,50 @@
+Article: early-senate-polls
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1221
+Raw number of types: 434
+Raw Type token ratio: 0.35544635544635544
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 830
+Number of types: 375
+Type token ratio: 0.45180722891566266
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'apr, senate, november, harry, github, github, mitch, mcconnell, campaign, badgett, supply, madisonville, stephen, lance, dennee, mitch, mcconnell, campaign, badgett, supply, madisonville, stephen, lance, kentucky, senator, mitch, mcconnell, life, minority, leader, opponent, alison, president, approval, brand, unpopular, mcconnell, time, report, race, report, column, sabato, crystal, ball, step, colleague, nate, silver, forecast, meanwhile, mcconnell, chance, win, state, disparity, state, opinion, senate, pickup, opportunity, state, treat, arkansas, louisiana, romney, success, election, polling, precedent, trust, measure, november, time, election, president, approval, rating, useless, accurate, year, factor, look, louisiana, analysis, polls1, comparison, president, approval, rating, year3, place, chart, early4, job, vote, error, comparison, senate, race, month, election, error, points6, president, party, candidate, percent, time, poll, average, percent, time, president, approval, rating, result, link, note, data, chart, chart, sample, president, statewide, approval, rating, percent, obama, president, party, candidate, percent, hand, president, approval, rating, percent, president, party, candidate, percent, president, approval, rating, predictor, approval, latter, information, offer, horserace, approval, error, earlycycle, points8, error, point, fact, approval, matter, addition, horserace, polling, approval, rating, percent, percent, alaska, arkansas, estimate, idea, data, projections10, model, polls11, obama, approval, rating, table, candidate, chance, poll, approval, favor, instance, model, chance, win, estimate, louisiana, obama, rating, senate, candidate, landrieu, polling, average, year, georgia, approval, rating, doesn, minnesota, president, model, senate, senate, forecast, account, candidate, ideology, model, approval, rob, portman, lee, approval, wasn, year, roy, blunt, missouri, mitch, mcconnell, race, kentucky, year, obama, approval, rating, approval, rating, statewide')
+
+('JJ', 'early, stop, stop, dennee, republican, political, senate, democratic, lundergan, low, democratic, myriad, political, cook, political, rothenberg, political, leaning, republican, likely, republican, kentucky, only, other, possible, alaska, north, mitt, last, presidential, midterm, current, past, indicative, come, robust, metric, sparse, much, early, doesn, arkansas, kentucky, realclearpoliticsstyle, average, first, good, final, average, early, final, points5, final, average, early, isn, ultimate, scattered, other, other, perfect, senate, presidential, plenty, presidential, median, average, presidential, louisiana, high, probabilistic, democratic, current, close, percent, close, nate, democratic, mary, current, lose, north, high, much, franken, likely, helped, overall, simple, democratic, fivethirtyeight, other, important, early, early, ohio, republican, democrat, early, close, obama, bad, same, republican, obama, predictive, metric, smart, political')
+
+('NNS', 'polls, midterms, data, data, dataearlysenatepolls, waits, waits, polls, grimes, obama, votes, indicators, predictions, analysts, rates, polls, democrats, polls, obama, polls, carolina, months, elections, polls, numbers, polls, democrats, races, states, polls, polls, results, polls, points, races, words, races, polls, predictors, polls, predictions, points, polls, points, ratings, democrats, obama, candidates, polls, states, polls, ratings, races, arkansas, kentucky, republicans, carolina, democrats, peters, michigan, losses, seats, seats, factors, totals, emphasize, numbers, races, errors, points, polls, points, polls, polls, democrats, midterms, polls, forecasts')
+
+('VBP', 'have, tell, get, sen, speak, speak, kentucky, are, have, are, dems, georgia, are, are, are, are, make, alaska, overall, are, are, estimate, give, have, alaska, are, gary, are, twenty, have, remember, are, incorporate')
+
+('VBN', 'plenty, filed, cast, led, percent, analyzed, taken, lost, compared, lost, lost, combined, hurt, had, taken, estimated, projected')
+
+('VB', 'rky, rky, fine, say, help, refine, turn, worry, kentucky9, bit')
+
+('VBD', 'sen, tied, took, collected, was, produced, margin, was, had, won, led, trailed, tied, was, was, dropped, dropped, pulled, included, had, hurt, beat, fisher, were')
+
+('VBG', 'fighting, suggesting, competing, telling, according, competing, remaining, promising, matching, forecasting, using, going, winning, using, including, fundraising, talking, controlling, holding')
+
+('VBZ', 'tossup, puts, goes, says, has, isn, didn, turns, shows, above7, races, has, suggests, looks, looks, shows, gives, hurts, puts, takes, goes')
+
+('JJR', 'more, weaker, less, greater, better, lower, greater')
+
+('JJS', 'least')
+
+('NNPS', 'democrats')
+

@@ -1,0 +1,48 @@
+Article: scrabble-games
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 860
+Raw number of types: 403
+Raw Type token ratio: 0.4686046511627907
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 406
+Number of types: 300
+Type token ratio: 0.7389162561576355
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'apr, oliver, roeder, plan, reader, light, problem, income, inequality, bestlaid, rack, explain, core, concept, please, party, inequality, halfcentury, detail, theory, gap, percent, percent, change, notion, work, gulf, change, weekend, hotel, country, tournament, board, place, game, economy, economy, book, thicker, technology, decade, revolution, game, training, version, zyzzyva, wordstudy, tool, quackle, analysis, engine, partner, change, year, edition, official, tournament, club, word, list, effect, edition, play, dna, juicy, highpoint, game, see, crosstablescom, online, clearinghouse, tournament, hit, scene, average, score, player, game, average, score, revolution, score, weekend, get, income, ahem, inequality, increase, metagame, time, development, update, everyone, game, player, oregon, economy, evidence, fact, benefit, word, board, shine, keyhole, economist, author, capital, century, example, technology, explanation, income, inequality, mind, count, game, book, work, piece, paper, anything, end, dissertation, let, research')
+
+('VBD', 'changed, shed, webscraped, skyrocketed, documented, fastfood, lettered, allowed, went, happened, took, christened, evolved, set, grew, set, spoke, told, betterequipped, ran, seemed, went, mentioned')
+
+('JJ', 'scrabble, grand, dear, quantitative, scrabble, tournament, scrabble, full, unanswered, scrabble, economic, end, past, great, technological, new, exploit, effective, dramatic, technological, scrabble, empty, scrabble, scrabble, dictionary, full, scrabble, actual, technological, digital, early, nowindispensable, scrabble, new, dictionary, second, valid, scrabble, north, american, additional, scrabble, instantly1, tournament, scrabble, new, dictionary, overnight, technical, lexical, new, average, mediocre, scrabble, rich, scrabble, richer, suspected, scrabble, complex, new, dictionary, adapt, clinchy, top, think, exploit, uncover, distributional, new, scrabble, weak, expanded, average, light, scrabble, thomas, piketty, french, twentyfirst, skeptical, scrabble, fivethirtyeight, read, interesting')
+
+('VBN', 'filed, planned, planned, higherskilled, publicized, released, created, posted, contributed')
+
+('NNS', 'games, data, github, data, datascrabblegames, games, data, plans, vowels, questions, data, turns, data, sorts, technologies, workers, involves, dictionaries, ballrooms, offices, restaurants, players, seats, tiles, interactions, tens, thousands, words, tools, players, words, strategies, words, words, words, blocks, tiles, data, games, years, results, points, data, effects, players, words, counterparts, experts, reasons, changes, players, changes, ones, numbers, effects, words, players, levels, questions, pages, data, github, economics')
+
+('VBP', 'get, github, leave, play, favor, folks, emerge, adapt, take, learn, exploit, skill, macroeconomy, scratch, find')
+
+('VBG', 'holding, widening, higherearning, governing, allowing, sparring, building, scraping, covering, increasing, pointscoring, trying, inequalityexacerbating, scoring, showing, using')
+
+('VBZ', 'goes, widens, gets, improves, evans, lists, believes')
+
+('JJS', 'biggest, best')
+
+('JJR', 'longer, stronger, weaker, larger')
+
+('VB', 'know, dhrumil')
+

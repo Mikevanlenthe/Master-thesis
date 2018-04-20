@@ -1,0 +1,25 @@
+Token analysis before pre-processing 
+Raw number of tokens: 42
+Raw number of types: 41
+Raw Type token ratio: 0.9761904761904762
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'team franchi rate season world yank spider year seri season includ record game titl star expo compar game result boston')
+
+('VBD', 'went')
+
+('JJ', 'cleveland pick start')
+
+('VBP', 'brave depend')
+
+Token analysis after pre-processing 
+Number of tokens: 27
+Number of types: 25
+Type token ratio: 0.9259259259259259
+

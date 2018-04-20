@@ -1,0 +1,45 @@
+Article: infrastructure-jobs
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 460
+Raw number of types: 219
+Raw Type token ratio: 0.47608695652173916
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 203
+Number of types: 139
+Type token ratio: 0.6847290640394089
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, infrastructure, job, statelevel, spending, infrastructure, get, github, github, datainfrastructurejobs, overpass, south, cheyenne, mead, gruver, article, infrastructure, investment, realtime, state, census, bureau, report, bureau, construction, spending, year, information, create, infrastructure, spending, employment, bls, employment, industry, construction, industry, engineering, construction, subsector, infrastructure, job, description, job, activity, construction, engineering, project, highway, number, infrastructure, job, sector, government, percent, april, april, percent, drop, construction, employment, period, trough, infrastructure, job, percent, worker, job, recession, bls, employment, subsector, state, state, worker, sample, mining, energy, industry, prominence, example, change, infrastructure, job, variation, stand, boom, oklahoma, oil, gasheavy, state, reiterate, mean, reflection, realtime, infrastructure, spending, anything, measure, job, state, energy, industry, energy, industry, infrastructure, job')
+
+('VBG', 'using, measuring, wyoming, constructionspending, looking, wyoming, analyzing')
+
+('JJ', 'stick, lackluster, useful, monthly, private, nonresidential, available, proxy, imperfect, organizes, heavy, civil, bls, primary, entire, dam, nationwide, private, peak, overall, april, little, peak, collect, representative, statebystate, peak, wide, north, dakota, ideal, proxy, actual, le')
+
+('VBD', 'andrew, whole, came, risen, employed, stripped, recovered')
+
+('JJR', 'flower, fewer')
+
+('VBN', 'filed, built, fallen')
+
+('NNS', 'data, data, data, publishes, data, subsectors, data, data, data, reveals')
+
+('VBP', 'provide, statelevel, let, maryland, affect')
+
+('JJS', 'latest')
+
+('VB', 'call')
+
+('VBZ', 'overstates, appears')
+

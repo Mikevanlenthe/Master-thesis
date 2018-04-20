@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 838
+Raw number of types: 342
+Raw Type token ratio: 0.4081145584725537
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'trump voter feel clare malone administration github datareluctanttrump trump supporter rally month diego diaz icon sportswire image month presidency president voter president april group trump voter heart president election call trump voter group trump voter trump voter level education president base supporter group year approach check surveymonkey survey day day june presidency period washington april health care bill house russia investigation prominence director appointment counsel attention official support president variety support president voter topsyturvy time capital percent trump voter president performance number percent president base change trump approval part house passage health care bill something house perception russia story attention press percent trump voter health care percent april percent group medium attention russia story story percent reluctant distraction group appointment robert counsel look campaign russia collusion allegation percent trump voter percent trump voter director trump voter percent trump voter move percent trump voter trump comey testify congress thursday affair something watch month trump obstruct justice halt investigation security advisor michael flynn question impeachment trump voter percent supporter percent president offense surprise survey panel result voter support presidency pack fascinating point respondent serve president choice donald trump mike penny john trump core voter president percent thirty percent penny')
+
+('JJS', 'least')
+
+('JJ', 'enthusiastic trump getty skeptical first reluctant white reluctant likely identify republican mostenthusiastic reluctant last reluctant active special russian reluctant tight tepid spring seventyfour reluctant overall right comparison significant marginal white voter undue fiftyeight reluctant little seventynine much april special reluctant move reluctant comey sixtythree reluctant central russe next reluctant accusation comey former national right reluctant strong impeachable trump reluctant steady reluctant choose republican reluctant donald mike')
+
+('VBD', 'filed wrote helped wanted swelled jared moved enthused promoted approved said felt approved approved turned stood attempted asked showed departed asked percent said answered said chose')
+
+('NNS', 'data data trumpers trumpers backchannel trumpers people receives trumpers trumpers james trumpers trumpers trumpers')
+
+('VBP', 'github attend portland trump watch show feel think')
+
+('JJR', 'earlier older higher kushner')
+
+('VBG', 'sticking partnering feeling firing meeting sitting unchanging handling giving approving firing firing unspooling holding')
+
+('VBN', 'conducted passed continued viewed approved compared committed given')
+
+('VB', 'approve approve vote vote')
+
+('NNP', 'mueller kasich trump')
+
+('VBZ', 'remains')
+
+Token analysis after pre-processing 
+Number of tokens: 383
+Number of types: 225
+Type token ratio: 0.587467362924282
+

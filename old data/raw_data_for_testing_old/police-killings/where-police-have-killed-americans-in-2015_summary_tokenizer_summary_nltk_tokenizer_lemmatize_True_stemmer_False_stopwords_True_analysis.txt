@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 914
+Raw number of types: 277
+Raw Type token ratio: 0.30306345733041573
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'tag gray makeshift gray tuesday guardian gray suburb guardian houston shot guardian demographic discriminatory sevenhour american statistic address neighborhood tract tract tract american tract tactic statistic shotgun fled died casselman memorial memorial guardian guardian guardian tract3 whole guardian live david impressive interactive fatal reliable guardian possible basic guardian demographic economic full available large basic clear black overall racial narrative poor black educational economic february white median black median strange easy build happen interpret died unarmed lived race2 american give')
+
+('NN', 'police police github github makeshift scene scene freddie monday database year police coverage reader police information race1 place census information chance work information income census thing police place percent place census percent household quarter police percent population database percent percent inequality rate police cause anger police example cordaro home county york york city income database cordaro news family police news police example census tract income traffic stop table example county jail fairfax census country caution datacollection github github census census look shot colleague reuben majorityblack michael shephard yield work link tag them5 entry plan medium submission effort encounter detail incident address tract death researcher journalist neighborhood term population neighborhood area number death neighborhood job opportunity street condition report number case result tract word number group effort number code tract call life household goldman goldman download public table income4 ferguson missouri pattern standoff mckenna shot death police official fischerbaum bottom majorityblack lowincome vincent frank start rockland freddie database reporting tend look mean david give virginia blacker poorer richest least')
+
+('VBP', 'freddie find incident police protester incident household know make')
+
+('VBD', 'crowdsourced found took took took said occurred opensourced limited occurred died died died posted')
+
+('NNS', 'data data police data data datapolicekillings data verifies data africanamericans africanamericans people people thanks data data relies data armed')
+
+('VB', 'love take take')
+
+('VBG', 'building killing killing killing killing killing killing underlying going combining making policing according')
+
+('VBZ', 'allows happens includes includes includes')
+
+('VBN', 'killed killed killed filed arrested arrested killed written flawed killed converted killed killed killed killed based launched counted emerged cited threatened verified')
+
+('JJS', 'poorest')
+
+Token analysis after pre-processing 
+Number of tokens: 338
+Number of types: 208
+Type token ratio: 0.6153846153846154
+

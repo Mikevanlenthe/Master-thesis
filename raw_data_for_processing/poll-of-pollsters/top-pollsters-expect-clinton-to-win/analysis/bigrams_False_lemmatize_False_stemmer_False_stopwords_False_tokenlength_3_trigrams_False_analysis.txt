@@ -1,0 +1,52 @@
+Article: poll-of-pollsters/top-pollsters-expect-clinton-to-win
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1284
+Raw number of types: 503
+Raw Type token ratio: 0.3917445482866044
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 895
+Number of types: 436
+Type token ratio: 0.4871508379888268
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'oct, clinton, carl, bialik, election, election, belief, clinton, president, house, senate, gap, polling, election, result, poll, polling, country, portion, poll, oct, oct, campaign, state, industry, questionnaire, pdf, github, list, footnotes2, winner, election, clinton, forecast, average, chance, winning3, clinton, chance, pollsonly, pollsplus, pollster, poll, clinton, support, clinton, vote, percentage, pollster, trump, frank, orlando, saint, leo, university, collapse, party, place, president, senate, margin, average, prediction, party, prediction, clinton, senate, house, prediction, gop, majority, party, uncertainty, today, vote, election, period, tuesday, differ, result, percentage, gap, year, average, think, think, chris, borick, college, number, methodology, quality, difficulty, choice, number, effect, desirability, trump, respond, state, candidate, preference, reason, stream, news, campaign, news, poll, series, boast, video, poll, episode, drama, electorate, polling, indicator, side, chose, capture, turnout, nature, election, voting, election, act, orlando, poll, florida, ohio, morning, state, poll, trump, chance, win, mustwin, trump, race, spencer, kimball, emerson, college, status, variation, senate, race, state, lot, selzer, hampshire, pennsylvania, georgia, arizona, race, editor, chief, list, vote, gourevitch, strategy, group, fun, stuff, state, poll, check, gourevitch, dig, polling, eye, online, commissioning, coverage, online, year, dornsifelos, approach, election, thought, religiosity, status, chance, rate, pollster, video, trump, chance')
+
+('JJ', 'top, top, public, unanimous, hillary, next, pretty, sure, sure, next, many, usual, late, fivethirtyeight, prominent, polled, active, large, presidential, senate, open, presidential, certain, percent, percent, average, percent, black, likely, popular, lose, donald, offensive, current, republican, good, likely, next, democratic, razorthin, true, republican, clear, needed, large, voter, different, actual, final, final, same, good, variable, bad, ultimate, large, undecided, potential, social, steady, open, bush, next, robert, domine, critical, accurate, unique, demographic, traditional, certain, demographic, demographic, blank, presidential, tuesday, important, pivotal, several, different, regional, important, close, ann, new, trump, multiple, close, high, wish, nick, global, hard, blank, full, few, other, critical, much, usc, same, smart, popular, demographic, marital, average, grade, last')
+
+('NNS', 'pollsters, pollsters, highlights, people, firms, people, firms, people, polls, forecasts, pollsters, questions, people, responses, pollsters, pollsters, models, pollsters, voters, pollsters, points, weeks, things, pollsters, republicans, seats, pollsters, seats, pollsters, democrats, seats, pollsters, hands, seats, predictions, chunk, pollsters, polls, polls, preferences, totals, polls, days, points, pollsters, polls, polls, reasons, pessimists, voters, supporters, candidates, primaries, supporters, polls, candidates, accusations, women, women, insights, pollsters, states, demographics, models, patterns, groups, models, pollsters, aren, states, polls, pollsters, pollsters, challenges, presents, demographics, groups, matters, mounts, votes, results, findings, respondents, polls, media, polls, opinions, angeles, times, voters, choices, variables, pollsters, tables, ratings, pollsters')
+
+('VBP', 'expect, win, are, are, anticipate, are, conduct, use, responded1, predict, weren, believe, start, think, predict, have, collective, win, control, think, come, look, average, think, thirdparty, bias, desire, trump, diverge, are, catch, want, comeback, alaska, need, poll, wish, turn')
+
+('VBN', 'filed, had, least, sent, asked, named, expected, conducted, acted, released, based, given, polled, counted, cited, miscalibrated, given')
+
+('NNPS', 'republicans')
+
+('VB', 'retain, control, control, database, find, get, win, keep, say, hold, need, stay, lose, cancel, respond, prove, better, altering, take, pollsters, check, ohio, florida, indicator')
+
+('JJR', 'bigger, more, more, more, larger, smaller, greater, more')
+
+('JJS', 'latest, least, most, most')
+
+('VBG', 'working, polling, giving, winning, talking, working, predicting, declining, polling, assaulting, polling, saying, determining, leading, polling, going, tracking')
+
+('VBD', 'asked, responded, agreed, chose, predicted, said, was, asked, said, said, offered, made, expected, expected, predicted, cited, cited, unexpected, included, was, said, did, asked, asked, chose, said, named, said, named, complicated, said, selzer, got, got, said, caught, were, felt, was, thought, was, was, acquired, were, gave')
+
+('VBZ', 'has, seems, estimates, misses, knows, has, languages, ranks, seems')
+
+('NNP', 'muhlenberg')
+

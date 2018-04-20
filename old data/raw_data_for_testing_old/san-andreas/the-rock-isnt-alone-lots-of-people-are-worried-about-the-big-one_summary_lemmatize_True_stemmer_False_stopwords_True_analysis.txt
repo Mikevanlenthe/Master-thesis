@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 775
+Raw number of types: 233
+Raw Type token ratio: 0.3006451612903226
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag rock walt hickey github github dwayne johnson hollywood charbonneau film dwayne johnson earthquake california office weekend disaster movie world family idea film time california situation stuff fault supervolcano story coast time survey probability earthquake magnitude california percent year card deck jack california earthquake audience poll percent census region coast deal percent region percent percent quake lifetime kind disaster thing disaster evacuation plan survey risk audience thing survey fault yellowstone supervolcano treat sense gosh magma yellowstone anything mississippi past pretty formula sound span random pacific survival lot movie expectation risk lot state anxiety respondent earthquake time precaution movie buying')
+
+('NNS', 'data data github play datasanandreas andreas people data people people people people people andreas attends')
+
+('JJ', 'theatre andreas massive lifetime lifetime west overestimate worried chinese eric catastrophic basic rebuilt legitimate geological tectonic immediate little andreas geological geological next catastrophic surveymonkey third pacific active noncontiguous good worried likely favorite last major much full american overall lifetime worried worried andreas draw argue')
+
+('VBP', 'fear think think think think know eon fear turn make occur need')
+
+('JJS', 'west')
+
+('VB', 'check think break happen know settle')
+
+('VBN', 'commissioned destroyed filed taken crushed come')
+
+('VBD', 'left worried worried said')
+
+('VBG', 'starring destroying beating pulling playing going coming according rocking according going making according')
+
+('JJR', 'lower larger')
+
+Token analysis after pre-processing 
+Number of tokens: 216
+Number of types: 147
+Type token ratio: 0.6805555555555556
+

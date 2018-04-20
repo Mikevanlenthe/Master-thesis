@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 678
+Raw number of types: 221
+Raw Type token ratio: 0.32595870206489674
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'tags randy national western experienced high curious famous past large high normal actual high previous famous several uncomfortable upper warm single consistent last last many general different single broad datausweatherhistory oceanic january noaa june particular high february cold spike clear indicate tell2 cold affect updated experienced experienced noaanceiclimate')
+
+('NNS', 'months temperatures states temperatures temperatures times months temperatures cities charts temperatures days angeles temperatures waves days days highs days temperatures digits days temperatures cities temperatures charts months cities waves snaps records others parts consequences charlotte feels data github')
+
+('VBP', 'data dots highs climate github chicago make')
+
+('VBG', 'recordsetting recordsetting recordsetting saying setting setting lasting studying')
+
+('NN', 'atmospheric recordsetting janjune globe record average past unique yearround december part aggregate cold year year administration report record world aboveaverage period record http tcodjwfrfmmjp pictwittercomxpj8rfr8bs period july detail york chart handful range year city record year city story chart heat year march record temperature carolina june year record seattle winter beginning record spectrum houston average houston record city heat houston climate change country view show hotter june show expand feel take fact hottest stateofclimate noaa blue click')
+
+('VBN', 'united published expected released returned reached')
+
+('VBD', 'justright cold half filed recorded looked experienced soared')
+
+('VBZ', 'looks')
+
+('JJR', 'weather')
+
+('JJS', 'warmest warmest warmest')
+
+Token analysis after pre-processing 
+Number of tokens: 207
+Number of types: 141
+Type token ratio: 0.6811594202898551
+

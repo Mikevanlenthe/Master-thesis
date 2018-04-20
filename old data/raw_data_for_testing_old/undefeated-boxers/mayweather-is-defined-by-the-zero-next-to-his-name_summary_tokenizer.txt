@@ -1,0 +1,29 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1281
+Raw number of types: 520
+Raw Type token ratio: 0.4059328649492584
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('VBN', 'defined##tarnished##shown##fought##transformed##selected##played##subjected##sullied##clocked##disqualified##given##expected')
+('JJ', 'next##welterweight##undefeated##getty##great##welterweight##next##undefeated##huge##perfect##central##louis##metric##undefeated##professional##beginning##boxrec##draw##modern##minimumweight##draw##chart##flyweight##final##real##potential##saturday##rocky##title##final##perfect##numerous##close##heavyweight##limited##weight##long##many##public##mike##wladimir##primary##leveraged##forbes##athlete##marketable##marquee##professional##main##le##draw##floyd##spectacle##willing##boring##defensive##central##perfect##public##potential##lose##accomplished##second##canvas##calibrated##narcissistic##american##blow##halfhug##right##fourth##fair##protect##fight##mcgregor##fight##cynical##modern##unsatisfied##marciano##historical##great##residual##voted##prime##undefeated')
+('NN', 'name##champion##record##marketing##brinjonathan##butler##mcgregor##github##github##floyd##mayweather##victory##john##gurzinski##image##floyd##boxer##enter##saturday##blockbuster##fight##champion##conor##mcgregor##career##win##draw##loss##case##number##record##role##career##brand##basis##everyone##history##case##status##sugar##robinson##muhammad##henry##willie##imperfect##record##mayweather##triumph##perspective##mayweather##record##history##career##record##boxer##list##career##boxer##list##mayweather##defeat##record##boxer##ricardo##lopez##class##win##loss##century##jimmy##fight##prize##mayweather##vega##addition##ninefigure##payday##legacy##marciano##archie##moore##fight##yankee##stadium##marciano##record##call##crude##style##stature##boxing##expert##marciano##chance##hell##dozen##fighter##class##retirement##career##history##basis##pristine##record##game##demise##george##foreman##frazier##larry##tyson##lennox##klitschko##function##zero##record##history##marketing##payperview##star##boxer##history##list##world##today##year##oscar##hoya##successor##tyson##payperview##attraction##year##career##night##attraction##history##booed##decision##seldom##mayweather##money##mayweather##transformation##heel##showman##today##turn##substance##fan##watch##fighting##style##status##villain##record##marciano##fight##opponent##chance##character##money##sale##pitch##payperview##buyer##pleasure##cheer##mayweather##anything##round##shane##blow##career##moment##business##model##crowd##possibility##caricature##dream##humiliation##record##loss##mayweather##round##remainder##fight##close##shave##fight##opponent##victor##ortiz##penalty##defenseless##ortiz##mayweather##round##loss##square##time##mayweather##boxing##analyst##planet##fight##pose##threat##mayweather##record##showtime##event##mayweather##business##model##exploitation##fan##expectation##hollywood##trailer##hook##audience##host##consumer##mayweather##legacy##fight##fan##excitement##sport##argument##argument##avenger##citizen##kane##money##truth##fighter##decade##career##fighter##decade##fighter##floyd##discussion##poundforpound##boxer##floyd##claim##debt##immaculate##record##substance##forget##mayweather##opponent##conor##mcgregor##boxer##win##draw##loss##dhrumil##mehta##research')
+('VBD', 'turned##filed##published##played##declared##undefeated##assembled##maintained##amassed##fought##retired##knocked##heavyweight##scraped##benefited##emerged##glisten##stayed##witnessed##highestpaid##fought##fought##cheered##cared##became##fight##became##dismissed##beat##made##heard##struck##fell##recovered##headbutted##gave##left##suggested##argued##said##told##constructed##included##discussed##retired##made##cruiserweight##lost##stepped##contributed')
+('JJR', 'roeder##mayweather##mayweather##mayweather')
+('NNS', 'data##data##dataundefeatedboxers##others##angle##distills##others##recycles##jones##jones')
+('JJS', 'best##simplest##wealthiest##quest##loudest##biggest##best##best##lest')
+('VBG', 'according##boxing##suffering##heartstopping##timing##boxing##boxing##boxing##branding##appearing##boxing##grinding##selfaggrandizing##boxing##holding##luring##thinking##appealing##watching##ring##reacting##witnessing##incurring##trying##knocking##ring##selling##sizzling##creating##careerdefining')
+('VB', 'find##win##give##apologize')
+('VBP', 'barry##career##know##shrewd##think##make##franchise')
+('VBZ', 'holmes##lewis')
+('NNP', 'mosley')
+
+Token analysis after pre-processing 
+Number of tokens: 571
+Number of types: 382
+Type token ratio: 0.6690017513134852
+

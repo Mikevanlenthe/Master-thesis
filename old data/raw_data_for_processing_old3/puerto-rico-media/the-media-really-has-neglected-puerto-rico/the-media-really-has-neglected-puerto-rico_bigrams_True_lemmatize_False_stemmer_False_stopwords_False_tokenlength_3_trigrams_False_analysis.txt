@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 581
+Raw number of types: 268
+Raw Type token ratio: 0.4612736660929432
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 857
+Number of types: 624
+Type token ratio: 0.7281213535589265
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'media data data suffers media things sports players tweets sentences maria stories disasters weeks data media reveals data people sentences maria hurricanes harvey mentions states networks maria networks competitors hints programs shows observers journalists media outlets media nahj media americans ricans citizens searches storms puerto media the,data rico,suffers hurricane,maria other,things sports,players trump,tweets more,sentences other,stories natural,disasters few,weeks hurricane,maria collects,news attention1,news coverage,reveals trend,data the,news archive,shows people,news news,shows fewer,sentences hurricane,maria about,hurricanes hurricanes,harvey irma2,the than,the spike,mentions those,states cable,news news,networks hurricane,maria the,networks cnn,seems coverage,maria than,its its,competitors data,hints ramping,its five,programs five,shows many,observers hispanic,journalists media,outlets and,its half,americans puerto,ricans american,citizens google,searches two,storms week,perhaps')
+
+('VBZ', 'has has has collects shows shows shows seems shows delays has and,sports that,collects day,shows talk,shows and,delays that,isn')
+
+('VBN', 'neglected filed published excepted been occupied combined compared been ignored collected hit aired issued given visit has,neglected not,excepted been,occupied was,said relatively,ignored data,collected have,aired')
+
+('NN', 'rico dhrumil mehta puerto rico github github datapuertoricomedia rico hurricane health care bill pass election alabama spat president sunday president trump nfl phrase anthem news puerto rico hurricane course hurricane maria database news internet day devastation puerto rico news coverage trend news archive news hurricane conversation puerto rico hurricane hit texas television cable news hurricane maria bbc network hurricane air cnn coverage maria data network coverage analysis talk sunday maria landfall minute coverage crisis puerto rico mention puerto puerto rico status territory reason lack news coverage delivery aid association statement disaster spokesperson snyder fivethirtyeight press coverage devastation attention responsibility attention poll half puerto rest show interest mainland storm rico silence issue president trump rico week presence engagement mainland the,media puerto,rico rico,dhrumil dhrumil,mehta puerto,rico data,github github,github github,data data,datapuertoricomedia sep,2017 while,puerto puerto,rico after,hurricane the,media excepted,has has,been things,health health,care care,bill failed,pass primary,election election,alabama alabama,and and,spat the,president president,and just,name few,last last,sunday sunday,alone alone,after president,trump the,nfl the,phrase national,anthem anthem,was said,more than,puerto puerto,rico and,hurricane hurricane,maria those,other covering,course course,but compared,the past,few ignored,data data,from from,media cloud,database the,internet internet,every every,day the,devastation devastation,puerto puerto,rico news,coverage spike,conversation conversation,about about,puerto puerto,rico the,hurricane hurricane,hit hit,was was,also much,smaller texas,and and,florida florida,television television,each hit,hurricane hurricane,the covered,hurricane hurricane,maria maria,the the,bbc british,network mentioned,hurricane maria,air did,cnn did,and and,the the,data the,network network,may may,again its,coverage one,analysis political,talk sunday,after after,maria made,landfall landfall,all combined,produce produce,less than,one minute,coverage the,crisis crisis,puerto puerto,rico and,three didn,mention mention,puerto puerto,rico rico,all all,many puerto,rico rico,status status,territory territory,one one,reason the,lack news,coverage coverage,and the,delivery national,association cover,this this,disaster disaster,more spokesperson,snyder the,dearth dearth,press press,coverage coverage,was nationallocal,media media,cover cover,devastation equal,attention attention,responsibility nahj,september but,not the,media paying,attention attention,recent recent,poll that,less less,than than,half the,rest rest,the the,show public,interest interest,was also,higher higher,for for,the the,two the,mainland mainland,than than,was the,storm puerto,rico rico,after initial,silence silence,the the,issue president,trump trump,has has,visit visit,puerto puerto,rico his,presence presence,will media,and citizen,engagement the,mainland')
+
+('VBP', 'get are spoke have didn rico are cover cover september isn are are google suffers,after players,just sentences,news rico,and stories,are disasters,the weeks,hurricane maria,has similar,trend collected,from that,people sentences,about maria,than harvey,and mentions,texas states,was seems,have maria,than competitors,the that,the rico,and shows,didn observers,are proportionally,and americans,are even,aware ricans,are citizens,google searches,from storms,that after,his')
+
+('JJ', 'sep puerto other primary few last national other worth other natural past few cloud little attention1 similar spike spike florida british political many national hispanic dearth unacceptable nationallocal equal nahj recent aware american public initial citizen neglected,puerto under,puerto get,the published,sep maria,much much,the pass,primary between,the name,few after,president about,the nfl,the phrase,national news,than combined,those are,worth other,natural the,past has,been media,cloud published,the that,the comparatively,little little,attention1 reveals,similar from,the news,archive about,hurricane the,spike right,the also,much the,spike each,those was,hit the,cable bbc,british than,the networks,did more,coverage the,did according,one analysis,five five,political aired,the the,sunday all,five one,minute dedicated,the out,the the,five that,puerto lack,news delays,the aid,the the,national association,hispanic issued,statement calling,media its,spokesperson told,fivethirtyeight that,the was,unacceptable unacceptable,calling calling,nationallocal devastation,equal given,anywhere anywhere,nahj nahj,nahj just,the that,puerto are,american from,the that,public hit,the for,the hit,puerto his,initial issue,president planned,the coming,week perhaps,his more,media and,citizen from,the')
+
+('VBD', 'fivethirtyeight failed was said published right was was covered mentioned did did aired made combined dedicated told was showed was hit was hit planned mehta,filed datapuertoricomedia,published media,fivethirtyeight that,failed spat,between maria,combined but,compared news,published shows,spoke rico,right smaller,than that,covered initially,mentioned more,than that,aired maria,made programs,combined coverage,dedicated delivery,aid journalists,issued snyder,told that,would september,2017 poll,showed that,hit rico,planned')
+
+('VBG', 'covering getting ramping according speculating calling calling paying coming worth,covering rico,getting again,ramping coverage,according are,speculating statement,calling isn,paying the,coming will,bring')
+
+('JJR', 'fewer smaller more more less less higher more filed,under with,other significantly,fewer')
+
+('VB', 'irma2 bring rico,get reason,for both,the that,hit')
+

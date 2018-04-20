@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1731
+Raw number of types: 619
+Raw Type token ratio: 0.35759676487579434
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 755
+Number of types: 390
+Type token ratio: 0.5165562913907285
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VB', 'save save like come save get get run save career save egg declin find hold mean take imagin hold give save save find')
+
+('NN', 'ruin relief pitch goos silver file github github hall fame relief goos gossag revolut fivethirtyeight ruin target point save statist gossag lash includ alltim leader mariano rivera argu use situat cheapli valu compar guy jam tighter game inning guy benefit ballclub gossag knock rivera continu lead everybodi bullpen credit handl inning team moreov relief pitcher today gossag heyday part manag tri maxim number number team manag stat play result solut build work russel carleton2 design statist name honor troll gossag idea asid addit provis design handl inherit runner detail clutch scoreless relief credit throw scoreless inning game team lead game pitch clutch scoreless count time inning goos reward contribut inning time game runner base routin pitch game calcul goos egg season plu select season sinc base playbyplay retrosheet rank leagu histori leader goos egg rivera everi pitcher pitcher goos egg mariano rivera goos gossag trevor hoffman hoyt wilhelm francisco rodriguez mariano rivera john franco smith billi wagner john franco denni eckersley trevor hoffman nathan jonathan papelbon mcgraw jeff reardon jeff reardon troy perciv sparki randi myer kent tekulv rolli finger mcdaniel john marshal francisco cordero gene street rodriguez jone todd jone billi wagner aguilera jess robb doug jone henk miller goos gossag roberto hernandez jeff montgomeri randi myer doug jone plu select season sinc sourc retrosheet manag squeez everi ounc talent reliev valu time save embrac goos bullpen buri invent sportswrit jerom holtzman leagu basebal world nobl intent relief pitcher becom commonplac share end complet game percent percent pitcher contribut fan note rare loss reveal reliev use clutch situat furthermor intuit rule leverag index situat team inde quit import instanc pitcher team lead leverag index time impact game atbat problem fuzzi relationship relief situat save reward look chart show index differ situat base inning game score6 throw scoreless game team lead situat index pull team meanwhil side town game inning team leverag index pitcher perform quit fact kind crappi pitcher get problem save pitcher addit reward pitch multipl clutch pitch relief roughli pitch game situat news stat geek complain year post team use reliev highestleverag situat yield word word mostli mayb cleveland andrew miller tabl reflect team use closer defin closermonkeycom site track obsess number pitch differ situat typic realli specialist averag inning includ inning game team run game situat bullpen goal maxim number number team manag condit heurist team talent9 basebal team reach state statist everi team toofrequ refus defin manag egg way reliev defin goos offici rule definit version describ goe relief pitcher10 record goos inning')
+
+('JJ', 'nate publish richard moneybal nerd basebal fastbal right stupid bleep recent save right finish seventh eighth ninth util maximum effici threerun bleep lead right much final lead valuabl larg oppos basebal prospectu goos basic goos specif seventh tie goos much gossag major lifetim modern smith lyle hernandez huston francisco jose rick potenti doubl give save first prais statist adopt major start unherald holtzman correctli win much save modern statist latein narrow lead ninth much averag valuabl follow inning leverag ballgam enter ninth threerun lead record final highestleverag much modern moneybal indian next bullpen usag modern ninth highleverag ninth highestleverag pretti much win ninth lead ninth suppos usag stubborn goos save plenti formal complic quickanddirti')
+
+('NNS', 'data data datagoos tirad pretti wors firemen data mesa knowl goos sens cours measur situat convers run')
+
+('JJS', 'biggest best')
+
+('VBP', 'think earn situat think save save win basebal regularli save save bruce lindi wetteland todd want save earn correct save make give know save know save includ save save seem save enlighten goos think find save')
+
+('VBD', 'found modern said made threw came sinc gossag darold mayb offici came threw came lead supposedli')
+
+('JJR', 'closer exagger closer less closer closer finger sutter pitcher better closer closer closer better')
+
+('VBZ', 'later1 rolli roberto larg atbat5 leverag valuabl')
+
+('VBG', 'inning inning inning inning inning sing inning inning inning inning inning inning inning inning')
+
+('VBN', 'threerun situations3 built come run troubl situat closer situation8')
+
+('NNP', 'garber')
+

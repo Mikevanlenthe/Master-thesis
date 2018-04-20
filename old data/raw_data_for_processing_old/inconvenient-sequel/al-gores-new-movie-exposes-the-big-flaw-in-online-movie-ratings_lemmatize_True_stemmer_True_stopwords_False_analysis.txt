@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3976
+Raw number of types: 1056
+Raw Type token ratio: 0.2655935613682093
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 1580
+Number of types: 717
+Type token ratio: 0.45379746835443036
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'gore movi expos flaw movi rate walt hickey dhrumil mehta file movi github github datainconvenientsequel inconveni sequel truth power gore interest film year mean content sequel academi climat chang documentari inconveni truth movi realli film onlin sequel year becaus polit surround chang film woman critic fan peopl rate rate hide case studi onlin rate system controversi mediocr work start film rate distribut pantheon sequel wellregard film inconveni sequel godfath part part point gore capabl documentarian vote vote time divis color film internet recept user rate film august2 percent film imdb user percent film percent peopl rate score thi massiv abnorm imdb rate distribut midaugust documentari featurelength film rate imdb feel climat chang genocid user love hate sequel rate dist movie▲▼ votes▲▼ score▲▼ inconveni sequel truth power ottoman emoji movi case christ purpos snatch diari wimpi kid crestview bitter harvest girl trip detroit fifti shade darker voodoo megan shack eyez hour book henri nobodi trial press transform chase arsen beatriz dinner dinner ghost stori come night hunter prayer journey west demon strike everyth rough night latin lover wish wind river captain epic movi dunkirk annabel creation baywatch wonder woman kill beauti beast dark tower heath ledger zookeep wife smurf kidnap bodi soul wall icaru jessica jame phoenix forgotten nake drone fate furiou logan car return xander cage sandi wexler bokeh viceroy tell tale burn sand power ranger john wick chapter spiderman homecom pilgrimag atom blond beguil planet ape song song citi planet word meter bo babi elois babi driver side hope cast jonbenet chip guardian galaxi ring woman america time fist fight befor fall okja end space roger stone voic stone alien coven unlock despic crime mummi butterfli cousin rachel sleepless oklahoma citi aftermath circl nighter ghost shell sand castl iboy life berlin syndrom gift bone wilson skull island take machin go style lego batman movi trainspot tabl discoveri feel home thi world anymor vote share rate differ score calcul formula esteban number score distribut possibl score percent percent sourc imdb simpli look film easi divid imdb user movi ottoman controversi regard handl genocid extrem score polarization3 split vote sequel evenli split film recept inconveni sequel divid critic audienc peopl woman impress singl film line moviego quickli check imdb inconveni sequel worth wouldn think breakin electr boogaloo climat documentari fault line audienc alltoocommon criticversusfan danc typic load crap preexist work fiction step critic step fan work lead film thi fan downplay terribl review film place offic movi chri pratt flick critiqu fan star sell rate metacrit tension differ group judg movi quirk rate system grant le forgiv moviego inconveni sequel side spectrum critic movi fan rate favor golli film▲▼ imdb rating▲▼ metacrit point diff▲▼ inconveni sequel truth power side jonbenet dinner night beguil jessica jame berlin syndrom bokeh pilgrimag ghost stori home thi world anymor snatch babi driver journey west demon strike planet ape captain epic movi hour trial press girl trip okja lego batman movi beatriz dinner burn sand crime roger stone cousin rachel john chapter oklahoma citi coven wonder woman lover night drone wind river wall song song case christ spiderman heath ledger bone island befor fall trainspot blond discoveri beauti beast wilson creation iboy circl return xander cage voic stone bodi soul everyth wexler car viceroy icaru galaxi wife fate life ghost shell fifti shade darker bo babi voodoo despic citi thousand planet style kidnap gift power ranger nake sand castl tabl unlock smurf hunter prayer woman fight baywatch eyez mummi sleepless time purpos transform knight word dark tower book harvest elois space shack chip kid crestview ottoman rate scale match metacrit scale sourc imdb metacrit score imdb score metacrit scale markdown4 imdb rater entir data metacrit aggreg inconveni sequel percent score tomatoes5 criticsversusfan look sequel fan rate subpar fault line peopl peopl didn initi rate inconveni sequel juli user rate film includ percent percent percent conclus film day juli time cinema half peopl rate ticket sale week week week score bare despit ticket sale order magnitud week number review onli vote film period believ everi especi film thi person percentag vote imdb filter prevent ballot stuf refus polici peopl thi film effort determin vote bot rate look pattern vote film rate film doom peopl bot fault line woman rate hate film woman imdb rate mostli work feel differ film woman question review site pollster sampl reflect world make avail leav thi let percent imdb rate site woman moviego unit state case gender opinion climat problem woman view sequel fail grade result singl number rate system inevit simplifi work sometim compel controversi film imdb rate pull thi addit inconveni sequel stone time return xander cage phoenix love stori spot case sequel ambiti film expedit insid access pari climat confer interview sit secretari state globetrot look weather condit ambitiousyetcontroversi film number mediocr film incent doe hollywood movi democrat film structur chang movi time side effect peopl movi terrifi imdb score male review film score system entertain site thing democraci fall user voter vote counter correctli')
+
+('JJ', 'onlin publish solid intrigu inconveni polar titl climat divid movi divis perfect weak separ weak ambitiousbutcontroversi weird godfath solid besid american other american chang equal polit imdb same short releas sortabl strong imdb inconveni total polar polar lieuten haul leavey speak free gong last knight coral underp first sick villag hous pirat caribbean dead hous unforgett valerian last other hate upon venic small black kong polar polar bimod mean combin documentari onli emoji stir armenian combin special metric evenli extrem inconveni heavili major astrid casual movi critic screen origin critic usual third pirat caribbean critic audienc such certain oppos overal critic averag other fan tend critic score▲▼ rescal other sick chase coral underp first speak free small alien haul latin rough unforgett logan kong skull movi atom annabel hous guardian zookeep furiou wish valerian black butterfli villag hate fist upon venic last last hous bitter pirat caribbean dead tale academi imdb multipli critic great rotten normal skeptic narr realli inconveni imdb critic oktofin scare quot monitor imdb abl such strong releas odd6 imdb flat peopl hard bona fide politic larg real measur mani befor wide autom use updat hard telltal thi utmost skeptic second movi substanti realiti argument unadjust regard other onlin major thi skeptic affect cultur incent total venic vengeanc special controversi inconveni involv arctic singl ident audienc substanti danger mostli popular planet doe')
+
+('NNS', 'data data controversi movi thi movi metacrit combin univers mani movi movi diari machin data revers peopl draw increas prereleas releas imdb inconveni data filmmak data repres mayb')
+
+('VBZ', 'documentari peopl exactli sens lie dunkirk detroit sens homecom america lieuten fan hundr movi rais challeng realli')
+
+('VBP', 'award–win aggreg give understand chart seem earn tabl emoji have revil have look look make movi frankli stand fault know have go hope feel wick wimpi end take meter sandi go phoenix henri have exist stay review appli discu make think have sequel adjust seem make seem inconveni boil understand use hedg catastroph boil make have review make thousand didn influenc ensur')
+
+('VBD', 'recept gore gave gave gave rating▲▼ lost incred were lieuten were lay roughli incred lost thought began were went aren were told befor chang')
+
+('JJS', 'most least most highest most most secondhighest least invest most manifest')
+
+('VB', 'discourag look think climat switch kill check dumpi step someth make take kill kill switch tell befor eventu come surpris find view come happen happen addit be look busi have mass')
+
+('VBN', 'extrem been most made imdb cast come forgotten been done made seen given forgotten continu been seen')
+
+('JJR', 'higher more higher more more more premier more')
+
+('VBG', 'ring')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1117
+Raw number of types: 441
+Raw Type token ratio: 0.39480752014324083
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 585
+Number of types: 315
+Type token ratio: 0.5384615384615384
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'dear rice nepal niranjan friday respond know compar organ like intern organ consumpt other use industri organ databas present last averag serv standard mani drunk percapita full french other figur namibia germani normal hard grenada other countri mexican american late popular wwii vodka simpl tast green studi such caribbean avail initi popular email such hurrican orlean popular overal befor peak earli late chang american previou firm other fluctuat avail take popular le american intern peopl other other muslim thi dearmona')
+
+('NN', 'mona followup peopl beer spirit mona chalabi file drink github github dataalcoholconsumpt wheat beer field chunnikhel katmandu june shrestha question reader alcohol look trend percentag lifetim abstain countri world use world health peopl islam countri conform assumpt mine abstain alcohol trend alcohol consumpt luckili health interest drink glass nation alcohol consumpt countri beverag type wine beer spirit break beverag govern record alcohol unit nation food agricultur liter pure alcohol consum make comparison time order liter pure alcohol alcohol content averag size beverag number serv size result show glass wine beer spirit person countri drink term result lengthi tabl bottom thi conform stereotyp consum wine countri glass wine person year compar glass rememb caput wine consumpt popul franc world beerdrink countri beer person averag fluid liquor shotglass worth person drink measur spirit year includ russia averag measur colleagu work quartz use euromonitor detail spirit countri befor russia doe vodka choos tequila accord sale number favorit spirit vodka phenomenon brand smirnoff vodka storm capit america alli market moscow mule cock bull ginger beer explan spirit avail accord bowl state scott martin drug alcohol grain food oppos distil dure import liquor scotch scarc howev bar push becaus spirit idea alcohol nation institut alcohol abus alcohol show prohibit alcohol consumpt person thereaft gallon year befor rise year data tast wine consumpt year beer nation spirit briefli caught beer alcohol factor price govern regul technolog martin exampl beer martin explain consum centuri becaus perish technolog refriger bottl beer produc transport bar home day purchas choic countri look drank beer alcohol spirit countri countri popul record alcohol consumpt find tabl question answer fivethirtyeightcom datalab538')
+
+('VBZ', 'drink articl ounc averag purchas rel le wine')
+
+('VBP', 'wine farmer work want drink want knock averag caput describ convert countri drink find drink take abstain drink professor need drink have go beverag differ follow have have send')
+
+('NNS', 'data data nepales peopl data data data data comprehens data measur data univers data centuri innov aren serv data github')
+
+('VB', 'drink be be know consumpt shot higher consum assum look creat becam sell like')
+
+('JJS', 'least most biggest highest least most')
+
+('JJR', 'more consider more more more easier')
+
+('VBN', 'taken made been been predomin')
+
+('VBD', 'were ritchi took chang said rose fell demonstr sinc favorit consum said befor')
+
+('VBG', 'king')
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1683
+Raw number of types: 549
+Raw Type token ratio: 0.32620320855614976
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 886
+Number of types: 435
+Type token ratio: 0.4909706546275395
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'blatter reign fifa hasn silver world soccer github github dataeloblatter soccer team tenure president sepp blatter bradley kanaris soccer team sepp blatter bradley kanarisgetty defend sepp blatter fifa president resignation week wake soccer corruption investigation department justice milanović economist city university york graduate center corruption decentralization power blatter least game rest world soccer structure corruption country vote principle policy development money china brazil blatter command loyalty majority minority world population soccer audience soccer revenue stream problem soccer development blatter evidence soccer field success pitch play asia evidence soccer anything disparity blatter president rest analysis compare rating country team june blatter president world team find article github look performance region confederation order population confederation average4 europe south conmebol soccer germany turkey russia continent change blatter average rating population rating blatter brazil rating conmebol colombia venezuela rating conmebol country vote percent fifa world audience rest world thing success story confederation concacaf rating development represent population news soccer help blatter argument wealth concacaf capita confederation contrast improvement soccerwise world world wasn knockout stage africa rating teams rating blatter expansion world number continent host world time japan performance decline field team rating world china team world history rival india meanwhile hasn world description pakistan vietnam confederation zealand performance asia sanity check world record teams rest world europe south world cups blatter rest world world cups blatter predecessor joão havelange progress havelange world world performance blatter world cups performance relative chart capita gdp9 change pattern anything ground percent percent number highpopulation percentile income indonesia soccer question lowpopulation ground highpopulation outcome blatter fifa population country evidence population rating development difference corruption organization money soccer development')
+
+('VBD', 'helped stagnated announced wrote contributed become made regressed became took weighted took improved continued helped combined held combined seemed took doubled stagnated improved defected listed increased improved weighted gained allocated')
+
+('VB', 'soccer seem brunei good spread match improve expect further fifa')
+
+('JJ', 'poor nate chinese national january asian fifa getty chinese national asian january hard last global branko developmental fifa regrettable spread traditional european south american much fifa level measured international european south american little progress competitive relative simple national fifa background average first continental fifa3 america dominant individual national italy whole little overall uefa weighted identical south america chile interesting percent north american average mexican national united concacaf other average north american little losses6 south africa ghana african overall asian nowhere continental average asian first korea asian national mostpopulous major global united qualifying many other poor populous asian such indonesia oceania other average draws south final rest percentile average much average bottom particular capita international play10 last relative desirable developmental regard average unchanged small enrich local')
+
+('VBN', 'filed shown shown stagnated tried related earmarked become grown divided listed improved seen seen improved changed improved given represented populationweighted improved shown seen qualified regressed declined counted contested poorer based changed gained seen populationweighted seen failed given given earmarked used')
+
+('NNS', 'data data games images games images souls powers funds countries members funds countries africa countries ones days ratings ratings data countries confederations ratings countries continents countries teams others countries uruguay points members points teams states threequarters members fans confederations countries wins draws entrants years teams participants nations members countries women states years countries members australia matches losses points points nations ones countries quintiles tracks ratings capita countries ones quintiles countries ratings points points countries china nigeria programs results countries ones funds dollars people countries people funds plutocrats countries programs')
+
+('VBP', 'australia brave have fifa comoros fifa represent dominant have remain europe have have decline argentina have mexico confederation have doesn have have have germany come confederation have europe match8 have have have richest have improve have decline rank india have least have clear make expense soccer')
+
+('VBG', 'governing allocating having playing using according descending representing advancing having accumulating judging being')
+
+('JJR', 'more poorer wealthier more higher more more better worse lower poorer worse wealthier wealthier poorer less')
+
+('JJS', 'least largest closest highest poorest best poorest')
+
+('VBZ', 'now2 represents reflects includes holds concacaf wins divides')
+

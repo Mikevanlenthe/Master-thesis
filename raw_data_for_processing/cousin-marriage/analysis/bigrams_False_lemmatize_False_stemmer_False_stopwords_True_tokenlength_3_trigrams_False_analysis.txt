@@ -1,0 +1,46 @@
+Article: cousin-marriage
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1233
+Raw number of types: 465
+Raw Type token ratio: 0.3771289537712895
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 546
+Number of types: 349
+Type token ratio: 0.6391941391941391
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'many, mona, dear, shawkat, duval, filmmagic, mona, daryn, western, united, second, america, first, second, second, consanguineous, konsanggwineeuh, assess, coefficient, coefficient, consanguineous, second, plenty, ban, unable, reluctant, consanguineous, united, centre, human, cowan, western, america, relevant, much, common, interested, indian, unaware, major, interested, map, global, download, consanguineous, global, rare, consanguineous, percent, second, consanguineous, many, sociological, relative, stable, social, financial, keep, hidden, relative, inlaws, high, global, second, america, various, statutory, personal, first, recessive, genetic, related, first, maternal, socioeconomic, national, genetic, first, percent, unrelated, great, cousin, united, little, biological, uncomfortable, romantic, first, high, iceland, small, hard, genealogical, related, answered')
+
+('NNS', 'americans, cousins, angeles, images, marriages, australia, marriages, states, individuals, cousins, people, relationships, cousins, cousins, shares, marriages, researchers, relationships, individuals, cousins, relationships, people, nephews, nieces, marriages, people, cousins, needs, states, restrictions, people, laws, individuals, relationships, studies, states, genetics, australia, bittles, years, papers, bittles, thinks, relatives, countries, bittles, marriages, populations, daryn, bittles, findings, map, numbers, marriages, notice, countries, relationships, marriages, countries, people, cousins, marriages, reasons, marriages, relatives, parts, studies, couples, relationships, reasons, secrets, women, parents, people, states, aspects, restrictions, ages, laws, bans, matters, concerns, children, cousins, diseases, couples, children, rates, notes, factors, outcomes, risks, counselors, findings, risks, cousins, risks, children, children, parents, unions, states, conventions, users, numbers')
+
+('VBD', 'married, fred, found, pronounced, treated, spent, became, occurred, told, told, became, favored, found, married, began, estimated, controlled, concluded, developed')
+
+('NN', 'chalabi, mona, michael, cera, alia, attend, development, london, michael, cera, alia, shawkat, cocktail, party, script, development, aug, los, winter, getty, percentage, percent, research, consanguinity, intermarriage, brief, reminder, daryn, get, cousin, someone, firstcousin, type, relationship, case, consanguinity, coefficient, number, anything, second, percent, caution, thing, marriage, example, firstcousin, marriage, reproduce, relationship, result, percent, estimate, share, alan, university, consanguinity, immigration, immigration, consanguinity, fact, topic, research, trip, institute, science, hand, question, ancestry, queen, elizabeth, prevalence, consanguinity, percent, perspective, consanguinity, percent, world, relationship, marriage, health, security, idea, stranger, chance, relationship, prevalence, reason, study, consanguinity, percent, world, population, cousin, product, union, marriage, marriage, mentalcapacity, marriage, time, part, war, acceptance, today, practice, health, prevalence, mortality, percent, research, age, education, birth, status, consanguinity, health, health, society, task, force, health, percent, deal, stigma, basis, daryn, notion, relationship, cousin, anyone, coefficient, app, country, population, figure, blood, interest, incest, spoiler, database, hope, question, send, monachalabi, dearmona, fivethirtyeightcom')
+
+('VBN', 'filed, arrested, arrested, estimated, asked, known, confused, related, considered, allowed, based, conducted, changed, emailed, published, attempted, summarized, estimated, studied, estimated, prohibited, introduced, stigmatized, born, born, published, set, estimated, born, associated, related')
+
+('VBP', 'pose, kevin, dear, dear, closer, know, benchmark, greatgrandparent, give, estimate, arizona, older, say, edith, topic, relationships, view, include, take, maintain, include, stay, antimiscegenation, cousin, postcivil, need, consensus, look, canada, make, check, help')
+
+('VBG', 'reading, asking, struggling, inbreeding, inbreeding, undercounting, researching, browsing, legislating, including, offspring, spacing, shifting, offspring, inbreeding, naming, hooking')
+
+('VBZ', 'cousins, means, uses, cousins, includes, states, cousins, bittles, marriages, cousins, cousins, bittles, appears, uses')
+
+('JJR', 'higher, closer, higher, higher')
+
+('VB', 'make, rise, correlate, affect, mona, like')
+

@@ -1,0 +1,27 @@
+Token analysis before pre-processing 
+Raw number of tokens: 52
+Raw number of types: 45
+Raw Type token ratio: 0.8653846153846154
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'death year time thing friend percent chanc scarlet jump movi github number film coupl life')
+
+('VBD', 'died sent')
+
+('JJ', 'destroy iron')
+
+('NNS', 'data avengers')
+
+('VBP', 'sign')
+
+Token analysis after pre-processing 
+Number of tokens: 22
+Number of types: 22
+Type token ratio: 1.0
+

@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 521
+Raw number of types: 247
+Raw Type token ratio: 0.4740882917466411
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 726
+Number of types: 528
+Type token ratio: 0.7272727272727273
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'months temperatures data data feels states temperatures temperatures times months temperatures cities charts temperatures dots days angeles temperatures waves days carolina days highs days chicago temperatures digits days temperatures cities temperatures charts months cities waves snaps records others parts recordsettingtemperatures temperatureslooks yearfeels states hightemperatures recordsettingtemperatures oftemperatures largecities thesecharts dots indicatedays losangeles forits justrighttemperatures temperatures fourdays recordhighs the90s fivedays hadan whentemperatures singledigits twodays othercities hadtemperatures consistentas thesecharts months manycities heatwaves coldsnaps setrecords records butothers others differentparts hasconsequences bestto')
+
+('VBG', 'recordsetting saying recordsetting recordsetting setting beginning setting recordsetting studying ofrecordsetting reportsaying evenrecordsetting theserecordsetting dayssetting thebeginning decembersetting arecordsetting consequenceslasting whenstudying')
+
+('VBZ', 'looks highs consequences unitedstates recordfor actualtemperatures dayin onlya angeles heatwaves recordhighs upper90s endof stemperatures necessarilyfeel didnot differentlyand')
+
+('NN', 'randy olson get github github datausweatherhistory jul year administration report half june record world year janjune period record globe stateofclimate http tcodjwfrfmmjp pictwittercomxpj8rfr8bs july fact period july june see detail york chart show range year day city record high year city story tell2 chart heat year record temperature june year record seattle winter record end spectrum houston part cold spike houston aggregate record way city heat climate change country day climate view monthsof acrossthe theus byrandy randyolson weatherget getthe thedata dataon ongithub githubgithub githubdata dataat atdatausweatherhistory publishedjul jul facebooktwitteremailif ifthis snot oceanicand atmosphericadministration administrationjust areport firsthalf halfof wasthe thewarmest januaryto tojune juneon onrecord record mostof world thewestern experiencedaboveaverage aboveaverageor year janjune janjune2015 suchperiod periodon onrecord forglobe globe stateofclimate stateofclimatehttp http tcodjwfrfmmjp tcodjwfrfmmjppictwittercomxpj8rfr8bs pictwittercomxpj8rfr8bs noaa july july20 fact periodfrom fromjuly july2014 throughjune june2015 wasthe thewarmest warmestever curiousto tosee likein inmore moredetail detail soi famousnew newyork chartto toshow thepast past12 monthsof handfulof oflarge theus1 therecord record average highand normalrange range thepast pastyear foreach eachday eachcity city anew blue ifit itwas tiewith witha year eachcity storyto totell2 tell2 click clickeach eachchart chartto toexpand los itsyearround severalheat year march march hadfour thetemperature charlotte charlotte carolina junethis year settingrecord theupper seattle warmwinter winter dayssince sincethe ofdecember arecord recordhigh atthe theother thespectrum spectrum chicago tosingle reacheda houston houston theaverage themost part foran anodd coldspike spikein asconsistent houston inaggregate aggregate theselast hotteston onrecord record inevery everycity inthe theus houston climate climatechange changeis affectdifferent thecountry lastingbeyond beyonda hotor day studyingclimate climate thebroad broadview view')
+
+('VBD', 'filed experienced looked red experienced soared experienced cold reached sat examined experienced what12 olsonfiled datausweatherhistorypublished justreleased thatthe of2015 experienced everrecorded iupdated red experienced temperaturesoared hada seattleexperienced with12 chicagohad temperaturesreturned daysreached averagefor last12 citiesexperienced isexpected swhy')
+
+('JJR', 'weather filedunder')
+
+('VBN', 'published released recorded updated returned expected westernunited recorded temperatureslooked hasa iexamined ashouston')
+
+('VBP', 'hotter weather show indicate march november make cold houston take temperaturesthis temperaturesfor citiesacross chartsshow dotsindicate cityhas expand dayswith highswhen highsin otherend digitsand oddcold innovember fewof citiesi ashouston chartsmake cityin wavesand thatset suchas partsof asingle totake')
+
+('JJ', 'normal national oceanic atmospheric january western united high noaanceiclimate noaa curious famous new past handful large us1 record average high low normal actual past new low blue previous unique click los famous justright several particular charlotte north uncomfortable upper warm high february single low average odd consistent clear last last many general affect different lasting single hot cold broad usby underweather thisyear thannormal normal justyou thenational nationaloceanic andatmospheric releaseda thefirst warmestjanuary theworld particularlythe recordsettinghigh thisyear warmestsuch noaanceiclimate noaanceiclimate noaa noaa noaa infact the12month wascurious whatthese updateda afamous weatherchart showthe fora ahandful acrossthe us1these showthe averagehigh low normal andactual overthe yearfor ineach therewas wasa low blue orhigh high red evenif atie aprevious previousyear aunique uniquestory famous famousfor experiencedseveral thisyear inparticular particular withrecord whenthe intothe north northcarolina particularlyuncomfortable uncomfortablejune thisyear withfive inthe experienceda strangelywarm beginningof settinga high ofthe unexpectedlycold coldfebruary february returnedto andtwo recordsettinglow low temperaturessat aroundthe forthe mostpart exceptfor november examinedhad wereas makeclear clear lastsix thatway wayin usmany experiencedheat evencold ingeneral general expectedto toaffect ofthe ultimatelyhas abnormallyhot orcold coldday usuallybest takethe')
+
+('JJS', 'warmest warmest warmest hottest best waswarmest thehottest')
+
+('VB', 'expand feel set dayswhen recordlow theother')
+

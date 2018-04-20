@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1119
+Raw number of types: 731
+Raw Type token ratio: 0.6532618409294012
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 770
+Number of types: 592
+Type token ratio: 0.7688311688311689
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'states data data results people midwesterners states results starts miles southerners respondents states individuals states carolina respondents takeaways southerners states states respondents southerners southerners stops people which states the data the results nobody seems selfavowed midwesterners these results south starts few miles according to selfidentified southerners 1135 respondents which states from states of respondents several takeaways the southerners midwest states of respondents  southerners actual southerners ve always rest stops further disagrees census says south  these places going on missouri  it appears')
+
+('JJ', 'south walt surveymonkey compose nobody surveymonkey subsequent south wrong south sample surveymonkey half national south north south carolina kentucky arkansas louisiana southern several first certain percent percent georgia southern mississippi south florida north percent content southern actual pathetic arizona white southern welcome north wellappointed interstate consistent federal census south percent south take post midwest geographic equivalent last dodgeball am which get the on github on tuesday of a a surveymonkey about which states people compose the to know midwesterners  so keep asked surveymonkey states are in the lot of  these more conclusive although i think the a few baltimore  southerners  isolated 1135 identified   some asked them them which south   surveymonkey from a a national regionally south to the south carolina are the as southern are several  first more certain of which are their their own while the pulled 80 of the nearly 90 identified georgia as southern than 80 in the garnered above remarkably content giving it about 50 truly  not a a southern according to to actual pulled a a pathetic of the worse than new mexico more southern to the north  stops   consistent of the the federal with the what  south  re the learned  of the on tuesday tuesday   people where these are  certainly passionate from the the geographic')
+
+('NN', 'hickey regionalism github github dataregionsurvey skyline dusk marc perrella tuesday audience poll answer poll determine debate question think survey southerner audience sample half census bureau florida georgia virginia virginia delaware mississippi oklahoma texas percent state vote alabama percent louisiana south carolina tennessee carolina mess texas percent support virginia arkansas kentucky percent state percent vote mexico marylander maryland rest tradition skepticism government south designation addition maryland oklahoma virginia support fact census government feedback tuesday passionate anyone apr  at 920 in the the south south  by walt walt hickey under regionalism github github github data data at dataregionsurvey facebooktwitteremail facebooktwitteremail the the atlanta atlanta skyline skyline at at dusk dusk  marc perrella perrella on tuesday  published the surveymonkey audience audience poll poll about people think midwest   the the answer answer is that nobody keep arguing arguing  we also surveymonkey to to run run a a subsequent subsequent poll poll to to determine determine which the south south  despite a a lot of debate debate about that question question as conclusive  the south i am very wrong wrong  the survey a lot some  as a a southerner southerner and in the the south to get get this this sample sample  surveymonkey audience individuals  about half half from national sample sample and about half half from south  the census census bureau bureau  florida  georgia  carolina  virginia  west virginia virginia  alabama  kentucky  mississippi  tennessee  arkansas  texas  the percent percent of identifying each each state state as southern   again again  first   the certain of own  the top top few percent of the vote percent of georgia and and alabama alabama as southern  placed mississippi mississippi and and louisiana the south south  south carolina carolina  tennessee  florida and and north carolina all percent  content to to mess mess with with texas texas  it 57 percent support support  virginia  arkansas and and kentucky hovered at percent  also  maryland  well and is not southern state state  pathetic 6 percent of the vote vote  than arizona mexico  walter white white is is more southern than than a a marylander marylander  allow me me to to welcome welcome you the north maryland  wellappointed interstate interstate 95 consistent with with a a tradition tradition of of skepticism federal government government  the south south further the census census designation designation of s in in the the south in addition addition to to maryland maryland  oklahoma and west virginia virginia both pulled less less than percent support support  despite the the fact the census the south that  big government government  have we judging by by some the feedback feedback on s blog blog post post  people don don   but but they passionate about about it also  does anyone anyone know the south south and midwest  be the geographic equivalent equivalent of the last last kid during dodgeball dodgeball ')
+
+('VBD', 'filed isolated asked polled pulled placed garnered hovered pulled loved pulled learned know picked  2014 hickey filed we published think compose even selfavowed also asked starts a to selfidentified survey isolated who identified and asked audience polled states considered barely pulled vote  respondents identified more than percent placed all garnered kentucky hovered always loved skepticism of both pulled than 25 we learned some of they  mostly excluded kid picked')
+
+('VBP', 'atlanta think know south conclusive maryland tennessee midwest seem know states are data on results of seems to as well i think miles north respondents who states are takeaways  states are southerners seem southerners  arizona and you to disagrees with says they they   take what have t know places are with missouri appears to')
+
+('VBN', 'published selfavowed asked selfidentified identified considered identified excluded it pulled your wellappointed')
+
+('VBZ', 'states seems alabama disagrees says blog places appears which states essentially  which states lot  delaware  louisiana  and texas there are which states louisiana in that  that the what ')
+
+('JJS', 'midwest west west the midwest few midwest and west and midwest')
+
+('VB', 'keep regionalism get carolina  here are')
+
+('VBG', 'arguing according according identifying giving according judging going  according  according respondents identifying  giving  according  judging s going picked during')
+
+('JJR', 'worse filed under s worse')
+
+('NNP', ' marc  despite  very  the  florida  georgia  maryland maryland   north  south  virginia  west  delaware  alabama  kentucky  mississippi  tennessee  arkansas  louisiana  oklahoma oklahoma and  there  and  south  tennessee  florida  virginia  arkansas  also  maryland  well  walter  allow  maryland  the  oklahoma  despite  big  also  does')
+

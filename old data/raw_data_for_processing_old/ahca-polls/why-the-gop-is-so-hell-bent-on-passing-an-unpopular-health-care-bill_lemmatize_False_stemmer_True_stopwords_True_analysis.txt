@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1979
+Raw number of types: 670
+Raw Type token ratio: 0.33855482566953005
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 895
+Number of types: 438
+Type token ratio: 0.4893854748603352
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'hellbent unpopular file republican hellbent republican polit plural major republican unpopular republican popular next determin exactli politician republican hard promis common politician wrong american actual academ hous republican nearli outlandish coverag american emerg republican much republican repeal obamacar hous nearli parti legisl sign republican offic republican repeal everyday american hous satisfi main partyasorgan mean major republican recent percent republican hous legisl give crucial recent show major partyasorgan american invest republican ten candid actual push unpopular public republican loyal hard drutman republican drutman republican charg current therefor republican rescu american coverag other eager insur main sure republican medicaid mani republican ineffect conserv poorest american peopl republican poor essenti free peopl much peopl coverag medic young high incom republican peopl american annoy right anguish charl recent ope titl right syke regular obvious neg republican oppos obama celebr white hous garden hous withdraw latter liber elit sure emphas hard polici exhaust republican exampl touch cast stealthi includ increas good advantag congress republican conserv allow major much major repeal much difficult parti narrowli right republican write parti divid utah repeal common major clear mean repeal')
+
+('NN', 'pass health care bill health care github github dataahcapol congression presid trump push bill part afford care promis repeal obamacar sinc liter pass thing interest parti polici goal adopt power republican control congress part health care bill voter approv accord poll time thing health care bill determin pass bill year drive action particularli reason publicli primari motiv prove anyth reason push health care view make promis elect polit scienc studi presid implement agenda campaign research conclus member congress politifact campaign propos idea vote campaign trump promis repeal time pledg bill legisl congress congress obamacar januari thenpresid bill pass senat control member chamber parti offici promis obama veto oval congress constitu obamacar replac plan premium jordan freedom caucu statement fivethirtyeight ad confid constitu activist donor school polit scientist defin polit parti part parti voter offici group support influenc parti includ power labor union side group nation rifl associ poll voter support health care repeal effort kaiser poll exampl favor view version obamacar repeal percent view bill percent opinion survey monkey poll conduct percent core trump support presid handl health care percent reluct trump supporters1 reluct voter trump elector colleg play role determin fortun percent disapprov trump handl health care jazz push repeal obamacar group club growth prosper deepli effort group volunt support caus dollar oppos race make polit health care bill parti volunt door donor money need support turn deliv promis repeal obamacar ralli troop polit scientist dcbase tank core voter feel point ad understand democrat repeal obamacar impeach trump ideolog rhetor obamacar market mani state bill reform left mislead trump parti paint obamacar compani reason abandon obamacar marketplac trump step support ahca bill obamacar marketplac oppos obamacar effect way conserv enrol medicaid boom obamacar mani activist politician medicaid avail program cover health care bill way health care dollar obamacar help health care medicaid help limit health plan effect obamacar peopl premium help peopl consum servic bill insur insur charg percent charg custom provid credit middleclass help obamacar conserv polit idea enemi syke longtim conserv radio talk show host york time liber hate trump end radio show comment msnbc antitrump leeri conserv view today parti core organ principl trump bask time predecessor hold highprofil pass ahca announc pari climat chang agreement event trump climat polici care peopl pittsburgh associ obama today parti afford care list reason want repeal obamacar reason bill health care expert argu realli tax wealthi cut includ payrol year analysi reason mean health care reform necessarili reason provid argument adopt voter repeal obamacar promis accomplish place therebi appeal voter ahca rout conserv purist discuss section obamacar possibl compet incent life larg washington tri bill member alaska leav medicaid mike favor obamacar kind conservativemoder divid bill health care trump senat leader mitch mcconnel trump mcconnel clearli defin view health care bill bill parti goal potenti minim polit contrast specif health polici goal bill obamacar dhrumil mehta contribut research')
+
+('VBZ', 'perri democrat push significantli alreadi democrat sens legisl includ redistribut decemb knock legisl senat expans comprehens')
+
+('NNS', 'data data univers collaps collaps publicli administr revers revers peopl someth republican versu')
+
+('VBP', 'seem tend want stay seem elect follow show offer need elect consist elect suggest spend think go vote go say take compar tend polici make obama pari think democrat roll make credibl roll activist make reflect lisa want place peopl prefer')
+
+('VB', 'replac know hurt give identifi keep replac veto repeal obamacar repeal elect congressman feel keep give go enact give older subsid allow make someth adopt tell keep revolt want happen chamber get accomplish feel')
+
+('VBD', 'sometim found brought made said found fivethirtyeight provid said weight spent wrote rose meant meant polit took')
+
+('VBN', 'told cut')
+
+('JJR', 'lower charg younger younger older cheaper younger older financi less')
+
+('NNP', 'democrat knock liber liber mani')
+
+('JJS', 'invest suggest')
+

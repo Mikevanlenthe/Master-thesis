@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1068
+Raw number of types: 250
+Raw Type token ratio: 0.2340823970037453
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token true true verbs obama smart forgiveness clinton obama faln obama tuesday prisoner activist argue applicant obama truman commuted charlie presidentelect future aimed concerned criminal long thursday typical tuesday federal thursday total white august federal single formal free recent much fraternal last optic general significant criminal certain consistent mandatory minimum fiscal many american civil serious uncertain guide recent many previous pardon inmate token')
+
+('NN', 'analysis number number ratio lemmatizer stemmer article clemency president history justice github github clemency sentence president obama sentence prisoner clemency president harry announcement obama approach clemency predecessor obama clemency prison sentence release week office obama clemency inmate chelsea intelligence analyst information commutation number commutation president history house obama week dozen month clemency record inmate record pardon year release gesture restoration felon commutation sentence release president commutation rarer bill sentence member faln group independence puerto rico responsibility bomb state letter order police enforcement group commutation create risk year office obama prisoner sentence oscar lópez rivera member commutation part administration push justice reform justice department grant clemency criterion sentence administration drug sentence number petition commutation year number petition analysis justice department record percent obama commutation drug offense percent commutation conspiracy group liberty union drug dealer crime distributor office friday commutation response history trump president commutation freedom time correction version article clemency president analysis mass pardon jimmy carter broke endofpresidency commutation prison face offense thursday army sensitive tuesday pardon thursday original pardon initiative harsh lowlevel obama oval granting shorter protest donald obama analysis number number ratio')
+
+('VBG', 'preprocessing using using using freeing serving commuting freeing pardoning including manning disclosing manning according voting manning freeing manning including rethinking according waiting preprocessing')
+
+('NNS', 'tokens types filters stopwords false nouns adjectives tokens gerald data data dataobamacommutations people people people people people prepares people tokens types')
+
+('VBP', 'type serve tend leave include ford wikileaks reoffend type')
+
+('VBN', 'token used granted granted convicted made granted commuted claimed received suggested announced allowed issued filed given issued granted convicted convicted charged charged granted slated ended token')
+
+('VBD', 'separated truman1 december trump granted announced left gave preceded wanted appeared commuted tripled rose said drugrelated convicted united')
+
+('VB', 'meet')
+
+('JJR', 'riskier')
+
+('VBZ', 'remains follows')
+
+Token analysis after pre-processing 
+Number of tokens: 355
+Number of types: 215
+Type token ratio: 0.6056338028169014
+

@@ -1,0 +1,33 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 13
+Raw number of types: 12
+Raw Type token ratio: 0.9230769230769231
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 34
+Number of types: 33
+Type token ratio: 0.9705882352941176
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'articles files readmefiles')
+
+('VBD', 'scraped found found articlesscraped found109 found128 sfound128')
+
+('NN', 'readme article url scraped115 sfound articlesscraped115 scraped115readme readmefilesfound filesfound109 found109article articleurls urlsfound found128h')
+
+('JJ', 'articleurl urls')
+

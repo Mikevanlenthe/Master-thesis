@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1902
+Raw number of types: 487
+Raw Type token ratio: 0.25604626708727657
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag drug coverage harder nsduh study experience college pierson github github illustration illustration drug focus attention span draft mania repeat deadline drug world proportion drug ritalin vyvanse pharmacy prescription diagnosis percent disease control prevention analysis prescription doctor example drug enforcement administration schedule cocaine evidence cognition risk college student rise study college year clinton foundation college study college college drug pattern study school gpa study emphasis drug college part government report college college survey drug health government survey difference times1 difference college time percent difference food time percent percent ritalin study range college nonprescription research drug adult college student college percent amanda professor illinois university prescription drug behavior college student study college study percent fraternity evidence environment usage rate study college question information niche college campus3 college location selectivity example adderall ritalin percent college mountain study campus percent england school drug campus niche study test point school axis percentile score student axis share study campus correlation drug research pattern study college school frequency night assistance adderall stay divin research nonprescription ritalin college depression depression causality school order factor alcohol marijuana example adderall performance study part stress analysis time support example google adderall college summer month study period family family depression suicide student employee deadline adderall everyone divin idea prescription code analysis github drug student drug month week medication percent rate adolescent center drug way medication drug drug student drug adult student drug student student drug student student time family stamp matter student counterpart drug campus member drug type survey drug drug school student school drug student difference region survey trend drug college student drug college admission study drug factor class hour student student student way student level correlation cause student student student school student gpa student study drug student stimulant source search town month tweet adult hour job income rate income adult level steroid benefit adult emma article potential adhd adderall drug use2 study adderall trend school collegebycollege rocky study multiple advance stay blame nsduh latter exam exam adderall risky found read facebook treat take push engage nonprescription answer help study study struggle mean feel take struggle consider support treat age drive divin show show spent le study')
+
+('VB', 'agree look take dake suicide improve obtain choose run')
+
+('VBP', 'believe imply tend make adhd nonprescription awake neighborhood dake understand make receive expect seem stem show')
+
+('JJ', 'standard procrastinate appeal adderall dos behavior category epidemic regardless study percent nichecom total chart horizontal gpa adderall nsduh adderall adhd american medium student study stimulant student student student significant student adult individual stimulant kelsey several last many adhd many similar high adhd similar effective unlikely addictive addictive willing nonmedical last young paradoxical competitive nonmedical likely recent national annual white black common likely young likely nonstudent western nonmedical acceptable nonmedical social nonmedical popular certain popular popular popular single important popular selective vertical popular positive significant previous popular competitive high previous likely adderall third likely likely academic many clear academic recent first exam conventional likely nonmedical likely athlete available many interesting tempted recommended mixed depressed clear finish keep affect miss cram take come looked sought thought')
+
+('NNS', 'find data data data highachievers data data data kelsey people people highachievers data people noncollegestudents data people data data data data data datastudydrugs reptilia classifies showed')
+
+('VBN', 'loomed filed taken increased used used used used used used named used used considered described cited connected showed reported found spiked found used')
+
+('VBD', 'analysis found study found score score said caffeinefueled speed prescribed stressed increased discussed depressed wrote said turned looked said reported gave reported said dropped peaked reported')
+
+('VBG', 'finding studying lowerachieving highachieving tempting abusing increasing listening overwhelming using increasing according snorting falling using using incoming controlling skipping attempting studying struggling using mentioning working confronting confronting using')
+
+('JJS', 'lowest suggest highest')
+
+('VBZ', 'exam includes provides represents seems')
+
+('JJR', 'easier smaller higher lower higher older greater higher')
+
+Token analysis after pre-processing 
+Number of tokens: 667
+Number of types: 342
+Type token ratio: 0.512743628185907
+

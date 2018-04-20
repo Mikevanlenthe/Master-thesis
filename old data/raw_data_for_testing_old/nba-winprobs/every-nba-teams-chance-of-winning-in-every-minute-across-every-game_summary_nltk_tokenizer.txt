@@ -1,0 +1,13 @@
+POS tags:
+('VBP', 'am,,get,,see,,are,,they’ve,,have,,don’t')
+('NN', 'nba,,chance,,minute,,game,,mike,,beuoy,,allison,,mccann,,basketball,,data,,github,,github,,facebooktwitteremail,,nba,,season,,chart,,shot,,season’s,,win,,point,,game,,team,,probability,,time,,score,,situation,,i.e,,shot,,foul,,etc.,,chart,,team’s,,win,,probability,,minute,,regulation,,time,,win-loss,,record,,develop,,time,,probability,,model,,foundation,,chart,,model,,state,,atlanta,,share,,win-loss,,record,,point,,dominance,,hawks,,contrast,,quarter')
+('JJ', 'team’s,,data/nba-winprobs,,2014-15,,nba,,in-game,,real,,win,,nba,,nba,,favorite,,golden,,similar,,different,,early,,insurmountable,,fourth,,own')
+('VBG', 'winning,,winning,,remaining,,shooting,,watching,,building')
+('VBN', 'filed,,given,,summarized,,based,,made,,averaged,,based,,played,,taken,,shown')
+('NNS', 'data,,games,,possessions,,plays,,probabilities,,it’s,,data,,seasons,,simulations,,games,,findings,,warriors,,hawks,,paths,,warriors,,games,,leads,,discoveries,,comments')
+('VB', 'summarize,,reflect,,get,,pull,,let,,know')
+('JJR', 'more,,more')
+('VBD', 'we’ve,,won,,lost')
+('VBZ', 'is,,has,,is,,provides,,uses,,is,,does')
+('JJS', 'best')
+

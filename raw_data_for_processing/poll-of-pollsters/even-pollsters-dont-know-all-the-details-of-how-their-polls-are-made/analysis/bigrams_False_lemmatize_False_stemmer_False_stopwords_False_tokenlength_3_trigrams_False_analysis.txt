@@ -1,0 +1,52 @@
+Article: poll-of-pollsters/even-pollsters-dont-know-all-the-details-of-how-their-polls-are-made
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2152
+Raw number of types: 691
+Raw Type token ratio: 0.32109665427509293
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1496
+Number of types: 622
+Type token ratio: 0.4157754010695187
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'oct, poll, github, github, joel, plosz, illustration, joel, election, hardcore, polling, sausage, make, bet, detail, poll, election1, data, candidate, leading, dozen, database, time, provide, forecast, survey, time, end, surveymonkey, room, report, github, hung, college, survey, understand, thank, borick, election, day, reason, poll, work, instance, turnover, rate, panel, month, use, telephone, pay, work, phone, monitor, percent, percent, quality, phone, age, hour, days3, work, measure, race, staff, percent, polling, side, marketing, consulting, andrew, university, hampshire, hampshire, pollster, staff, pollster, staff, school, pool, pollster, issue, field, interview, work, method, phone, polling, randomdigit, rdd, call, random, phone, number, region, poll, method, time, phone, number, vote, tell, random, phone, number, person, area, stranger, case, columbus, dispatch, poll, vote, number, information, voting, everyone, idea, polling, quality, registeredvoter, marist, college, measure, everyone, survey, poll, tagalog, vietnamese, language, survey, nothing, percent, answer, language, proportion, pollster, cost, interview, language, differ, value, health, care, education, minimum, wage, mark, field, research, corporation, samesex, marriage, legalization, abortion, difference, likelihood, respondent, electorate, registeredvoter, history, factor, likelihood, history, inquire, interest, election, someone, vote, likelihood, vote, likelyvoter, question, pollster, relationship, number, accuracy, vote, estimate, question, range, likelihood, number, age, gender, origin, information, example, race, respondent, anyone, set, response, percent, max, percent, phone, increase, subgroup, survey, error, cap, weight, importance, percent, muhlenberg, borick, weighting, response, margin, error, figure, quantity, sample, size, poll, margin, error, liszt, research, camp, panel, discussion, marist, carvalho, margin, error, doesn, insight, value, quality, research, inference, weighting, use, registeredvoter, telephone, cost, poll, senate, race, year, number, everyone, expense, interview, complexity, industry, election, length, survey, help, fuck, godawful, business, email, confirm, respondent, week, election, business, count, phone, get, election, something, survey, senate, september, time, model, percent, senate, attention, response, question')
+
+('NNS', 'pollsters, details, polls, carl, pollsters, data, data, datapollofpollsters, readers, forecasts, updates, junkies, people, polls, pollsters, nuts, bolts, numbers, pollsters, answers, minutes, respondents, questions, results, questions, didn, respondents, questions, parts, operations, pollsters, pollsters, surveys, panels, vendors, respondents, members, polls, contractors, pollsters, people, polls, interviewers, pollsters, questions, ages, interviewers, checked, contractors, pollsters, banks, calls, offices, pollsters, interviewers, interviewers, women, hours, firms, men, women, pollsters, details, employees, americans, organizations, staffers, pollsters, staffs, businesses, arms, interviewers, minorities, demographics, minorities, fields, pollsters, interviews, respondents, people, pollsters, people, respondents, numbers, voters, lists, pollsters, advantages, people, races, voters, politics, voters, pollsters, companies, lists, voters, pollsters, models, voters, states, voters, pollsters, questions, costs, responses, pollsters, americans, hispanics, services, schools, jobs, views, issues, others, answers, pollsters, interviews, results, questions, responses, data, pollsters, lists, ones, politics, pollsters, questions, responses, voters, people, screens, questions, questions, respondents, options, voters, factors, others, pollsters, calls, voters, respondents, answers, responses, others, pollsters, numbers, groups, factors, weights, risks, rates, twothirds, pollsters, caveats, skeptics, lists, techniques, panels, costs, pollsters, clients, costs, people, cellphones, cellphones, respondents, pollsters, questions, banks, pollsters, predictions, pollsters, republicans, pollsters, seats, republicans, democrats, seats, simulations, seats, pollsters, races, pollsters, predictions, reasons')
+
+('VBP', 'don, know, are, get, illustration, don, know, collect, release, complete, have, don, outsource, handle, conduct, didn, know, conduct, couldn, gender, outsource, aren, work, are, are, earn, are, employ, are, are, are, irrelevant, remain, have, end, think, find, use, randomly, buy, one, are, are, sell, include, ask, dialect, add, respond, respond, place, have, hotbutton, have, make, use, use, don, are, vote, differ, keep, decide, count, have, contain, are, assign, expect, are, count, say, differ, say, average, are, make, consider, john, have, have, expensive, suggest, stay, get, data, are, seats, expect, average5, control, outcome, republicanheld, are, explain')
+
+('VBN', 'made, filed, made, converted, taken, asked, trained, quantrelated, mailed, bought, found, completed, experimented, based, underrepresented, opted, based, reserved, kept, compared, risen, cited, predicted')
+
+('VB', 'bialik, don, know, take, see, see, think, ask, take, blind, know, include, decide, call, answer, build, useful, try, korean, interpret, determine, vote, ask, ask, vote, vote, vote, make, percent, limit, make, introduced, have, yesandno, provide, competitiveness, control, run')
+
+('VBD', 'plosz, focused, took, made, was, said, tapped, took, asked, asked, came, said, got, learned, did, shared, said, were, employed, said, smith, said, called, asked, said, added, asked, covered, registered, cited, registered, said, registered, registered, said, asked, asked, ranged, was, said, asked, governmentprovided, said, agreed, said, was, weight, said, said, weight, weight, set, said, said, called, said, grove, was, said, said, automated, asked, answered, said, were, said, were, made, stressed, asked, suggested, followed, was, said, compelled, asked, asked, predicted, answered, said, were')
+
+('JJ', 'many, political, last, third, tuesday, national, raw, much, prolific, blew, median, full, borick, other, possible, complete, many, online, many, live, answer, few, other, polling, equal, noninterviewing, least, percent, white, white, polling, several, diverse, new, percent, white, many, new, anonymous, important, diverse, difficult, few, graduate, small, big, plenty, wellknown, different, dial, eligible, local, right, geographical, likely, interested, likely, efficient, likely, sample, past, consistent, barbara, carvalho, new, other, english, spanish, chinese, french, german, much, median, percent, individual, spanish, popular, second, spanish, english, conservative, many, social, marijuana, consistent, big, weight, representative, voter, likely, unlikely, likely, simple, complex, many, few, simple, final, single, certain, certain, new, demographic, ethnic, tricky, weight, percent, hispanic, hispanic, hispanic, half, several, large, additional, familiar, relevant, credible, anzalone, yes, twohour, much, sophisticated, expensive, such, online, manageable, typical, many, illegal, dial, impending, didn, serious, last, bound, grumpy, personal, first, many, average, common, close, senate, same')
+
+('VBZ', 'gets, does, christopher, lives, makes, has, lists, languages, polls, mandarin, arabic, depends, doubles, dicamillo, count, offers, limit, calls, comes, has')
+
+('VBG', 'polling, showing, including, completing, outsourcing, using, training, interviewing, building, choosing, deciding, asking, dialing, talking, returning, restricting, interpreting, predicting, voting, voting, asking, predicting, screening, using, voting, giving, using, weighting, meaning, increasing, declining, sampling, reporting, polling, spending, charging, spending, charging, having, increasing, asking, expecting, occurring, polling, paying, asking')
+
+('JJR', 'more, more, more, larger, more, greater, more, higher, more, answer, less, more, more, more')
+
+('NNP', 'muhlenberg')
+
+('JJS', 'most, most, least, latest')
+
+('NNPS', 'republicans')
+

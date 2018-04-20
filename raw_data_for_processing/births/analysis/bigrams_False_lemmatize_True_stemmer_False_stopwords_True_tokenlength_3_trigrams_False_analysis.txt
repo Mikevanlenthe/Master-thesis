@@ -1,0 +1,43 @@
+Article: births
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 646
+Raw number of types: 304
+Raw Type token ratio: 0.47058823529411764
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 300
+Number of types: 199
+Type token ratio: 0.6633333333333333
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'people, data, data, databirths, delivers, obstetrics, data, data')
+
+('JJ', 'superstitious, friday, expect, many, induced, cesarean, double, whammy, superstitious, bad, friday, friday, tend, births1, feb, friday, vague, yea, bad, luck, superstitious, superstitious, obstetrician, cesarean, friday, bad, universal, friday, become, good, second, friday, medical, email, full, computational, statistician, complex, monthly, avoid, certain, previous, birth, cowrote, several, bayesian, third, recent, recent, birth, high, ran, friday, consistent, whole, leap')
+
+('NN', 'baby, carl, bialik, get, github, github, baby, fall, month, parent, doctor, deliver, day, birth, delivery, section, choice, lot, parent, chance, date, luck, fear, number, birth, month, effect, fall, weekend, delivery, ward, schedule, month, lot, parentstobe, try, avoid, birth, child, birthday, year, reason, parent, forum, mom, pregnancy, website, forum, office, lady, sorry, day, change, bug, site, section, think, belief, birth, luck, day, household, mom, parent, forum, birth, birthday, family, neel, shah, assistant, professor, school, schedule, cesarean, induction, labor, friday, scientist, aki, vehtari, andrew, gelman, method, calendar, birth, effect, pattern, trend, attempt, land, date, finding, birth, extension, analysis, researcher, effect, valentine, day, cover, textbook, author, data, analysis, edition, vehtari, gelman, birth, reran, analysis, generation, parent, effect, key, date, expect, birth, analysis, result, finding, calendar, notice, christmas, holiday, suppress, birth, day, month, analysis')
+
+('VBD', 'friday, filed, scheduled, staffed, wrote, wrote, said, said, wrote, asked, laughed, said, said, said, developed, halloween, sent, found, gave, andrew')
+
+('VBG', 'parenting, tying, longstanding, avoiding, bugging, saying, scheduling, teasing, separating, covering')
+
+('VBP', 'thousand, expect, gynecology, look, say')
+
+('VBN', 'born, treated, given, given, given, planned, planned, longterm, based, made, scheduled, found, contributed')
+
+('JJR', 'fewer, fewer')
+
+('VB', 'take, booked')
+
+('JJS', 'smallest')
+

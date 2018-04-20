@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1575
+Raw number of types: 422
+Raw Type token ratio: 0.2679365079365079
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags matthews clients teaches sounds poses applies pollsters data data datapollofpollsters people caucuses polls results months caucuses lessons voters pollsters pollsters caucuses polls lessons responses pollsters pollsters polls pollsters polls points pollsters organizations resources days debates people sanders points results pollsters conclusions events events polls watchers polls people polls pollsters polls polls trends votes models pollsters numbers politics challenges voters evangelicals trends levels candidates pollsters things caucuses pollsters pollsters predictions projects points pollsters points pollsters pollsters forecasts caucuses polls politics podcasts pollsters iowa moines')
+
+('VBP', 'iowa look selzer listen polls matthews data rubio poll learn reach extrapolate think tcoqxtlnblgfe correct arrive think know continue')
+
+('JJ', 'carl iowa getty iowa stay iowa footnotes1 friday lead percent emerson iowa public primary iowa savvy iowa amber pollster sunday fine tuesday second rest nominee iowa https cruz find keep read respond underestimated demoted democratic republican next possible possible christine republican active small final last january last many last difficult democratic expensive many next republican impossible able democratic much clear late hillary virtual quadrennial small many trump several february good basic early modern last immune third straight republican presidential final eventual favorite evangelical unreasonable general evangelical good comfortable february singledigit finish second straight republican democratic underestimated weekly margin20px know')
+
+('NN', 'bialik election github github party caucus jackson township fire station monday michael thomas trump clinton poll iowa work field night event firm glass poll questionnaire github list trend doug kaplan partner gravis marketing wise approach success iowa date anyone college opinion savvy donald trump cruz percentage point rubio debate trump percentage vote trump percent rubio percent poll opinion savvy organization debate guess lesson night election jensen director policy polling hampshire specific problem anyone debate night debate tuesday state bowl sunday hampshire time jensen hampshire reason caucus advantage poll clinton bernie percentage emerson lesson number support boss night night afternoon https nate silver night unsure disaster towery founder opinion field history round caucus horserace clare malone profile site week company founder president pollster selzer caucus iowa poll support winner time choice side spencer kimball advisor emerson college society jensen work poll time everything field period selzer pollster support respond poll email work selzer community caucus today fizzle hype dave weigel daveweigel hampshire forecast hampshire percentage trump margin margin contest trump correction version article opinion poll trump support newsletter weekend episode bialik apple code iframe frameborder width style auto maxwidth600px fivethirtyeightcomplayerpolitics22588832 poll poll emerson need capture date undercount poll silver sign clinton iowa donald state hillary iowa hardto monday night simple emerson marco rubio firm saturday super glad total matthew iowa selzer iowa hard secret fivethirtyeight donald fivethirtyeight carl espn sign trump selzer iframe thought selzer thought')
+
+('VBD', 'keokuk selzer height started thought embed showed said responded said showed showed said said posted responded said said said said said said said said picked said')
+
+('VBG', 'consulting consulting polling screening polling polling scrolling polling winning winning contacting burning managing leading trailing polling polling daunting leaning skipping polling polling leading drawing polling including according weighting capturing polling polling going catching coming feeling')
+
+('VBZ', 'ends images wants')
+
+('VB', 'improve keep stay happen')
+
+('VBN', 'filed tied finished named finished named expected showed responded conducted learned started started finished showed overestimated seemed failed called defended modeled asked predicted predicted described overestimated')
+
+('JJS', 'biggest best best best latest')
+
+('JJR', 'bigger higher')
+
+Token analysis after pre-processing 
+Number of tokens: 553
+Number of types: 317
+Type token ratio: 0.5732368896925859
+

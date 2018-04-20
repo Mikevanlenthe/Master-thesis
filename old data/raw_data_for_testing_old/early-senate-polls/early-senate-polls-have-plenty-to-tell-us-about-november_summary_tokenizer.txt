@@ -1,0 +1,28 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1221
+Raw number of types: 434
+Raw Type token ratio: 0.35544635544635544
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+Used nouns, verbs and adjectives in article: 
+Tokens separated by ## 
+('JJ', 'early##harry##dennee##republican##political##senate##poll##democratic##lundergan##grime##democratic##unpopular##myriad##political##political##political##leaning##republican##republican##percent##kentucky##possible##alaska##north##mitt##last##presidential##midterm##current##past##indicative##come##november##metric##much##useless##early##accurate##kentucky##realclearpoliticsstyle##average##comparison##first##year3##chart##good##final##average##early##final##final##average##overall##early##percent##ultimate##chart##le##percent##perfect##presidential##plenty##early##presidential##median##average##presidential##right##percent##louisiana##high##hurt##probabilistic##polls11##democratic##current##favor##republican##close##nate##democratic##mary##current##average##lose##north##carolina##high##much##gary##likely##overall##simple##democratic##fivethirtyeight##total##important##early##early##ohio##republican##close##early##republican##kentucky##obama##midterm##statewide##predictive##metric##smart##political')
+('NN', 'senate##poll##midterm##github##github##mcconnell##wait##speak##campaign##badgett##supply##madisonville##stephen##lance##dennee##mitch##mcconnell##speak##campaign##badgett##supply##madisonville##stephen##lance##kentucky##senator##mitch##mcconnell##life##minority##leader##opponent##alison##president##obama##approval##brand##mcconnell##time##vote##indicator##prediction##analyst##report##rate##race##tossup##report##column##sabato##crystal##ball##step##colleague##nate##silver##forecast##chance##state##disparity##poll##state##opinion##democrat##senate##pickup##opportunity##poll##georgia##state##treat##obama##poll##arkansas##romney##success##election##month##election##polling##precedent##trust##measure##turn##poll##number##time##election##president##approval##rating##help##poll##year##factor##democrat##alaska##louisiana##analysis##polls1##race##president##approval##rating##state##half##place##show##poll##forecasting##vote##margin##poll##result##points5##comparison##senate##race##poll##month##election##error##points6##president##party##candidate##percent##time##poll##average##time##president##approval##rating##result##link##note##point##chart##above7##race##sample##president##statewide##approval##rating##percent##obama##president##party##candidate##hand##president##approval##rating##percent##president##party##candidate##percent##race##word##president##approval##rating##predictor##senate##race##poll##predictor##approval##latter##information##offer##horserace##poll##approval##error##earlycycle##prediction##point##poll##error##point##point##fact##approval##rating##matter##addition##horserace##polling##worry##democrat##estimate##obama##approval##rating##percent##alaska##arkansas##estimate##idea##candidate##projections10##model##look##obama##approval##rating##look##poll##table##show##candidate##chance##state##poll##poll##approval##rating##race##alaska##instance##model##mcconnell##percent##chance##estimate##louisiana##obama##rating##senate##candidate##landrieu##polling##year##obama##approval##rating##democrat##peter##michigan##president##model##loss##senate##seat##senate##forecast##seat##account##factor##candidate##ideology##number##twenty##race##model##error##point##approval##poll##portman##point##poll##obama##approval##year##blunt##missouri##mitch##mcconnell##race##year##poll##approval##rating##approval##rating##remember##poll##forecast##incorporate')
+('VB', 'tell##stop##stop##fine##cook##rothenberg##sparse##refine##turn##take##emphasize##democrat')
+('VBN', 'filed##analyzed##collected##taken##lost##tied##compared##lost##lost##taken##estimated##hurt##projected')
+('NNS', 'data##data##dataearlysenatepolls##carolina##data##data##arkansas##georgia')
+('VBP', 'mitch##wait##go##say##robust##make##look##give##kentucky##give##hurt##go')
+('VBG', 'fighting##suggesting##competing##telling##according##competing##remaining##promising##matching##using##going##winning##using##including##fundraising##talking##controlling##holding')
+('VBD', 'tied##kentucky##cast##put##louisiana##took##produced##error##trailed##scattered##combined##dropped##dropped##pulled##included##helped##put##beat')
+('VBZ', 'dems##arkansas##early4##suggests##franken')
+('JJR', 'weaker##greater##greater')
+('JJS', 'least')
+
+Token analysis after pre-processing 
+Number of tokens: 554
+Number of types: 273
+Type token ratio: 0.4927797833935018
+

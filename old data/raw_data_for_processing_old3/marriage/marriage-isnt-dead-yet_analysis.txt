@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1481
+Raw number of types: 460
+Raw Type token ratio: 0.3106009453072249
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1022
+Number of types: 401
+Type token ratio: 0.3923679060665362
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'sep marriage isn casselman marriage github github datamarriage philogene palm beach florida feb joe raedle george clooney lawyer amal sept venice marriage pierre teyssot afp trend distinction marriage pew research center week report decline marriage today figure trend race education income characteristics2 dig deeper divide affluent marriage marriage fact get rate marriage get story marriage plan marry get marriage divide economy stagnation disappearance college marriage employment hand hand report week pew quarter today age wednesday estimate extrapolation problem marriage moment time person question life percent age percent majority3 moreover marriage assume today path decade age chart marriage rate4 education rate college degree trend decade story decline steeper college fact marriage generation piece evidence pattern wedlock college wait bachelor three6 percent versus percent college age range college something requirement marriagechildren link isn marriage rate school diploma percent rate rate evidence divergence marriage survey percent school marriage versus college survey division income race orientation age report week pew reason marriage employment education gap marriage get college degree get pew survey percent spouse job requirement percent education percent survey behavior job job8 job education doesn spouse marriage education get population survey percent school work versus percent college distinction marriage divorce percent rate education divorce rate college degree percent divorce rate bachelor degree pattern income divorce rate picture americas marriage decline marriage school age marriage age percent marriage')
+
+('JJ', 'dead ben right west getty british arrive getty important last big united percent broad other hidden likely same outside unlikely different married many likely outside likely likely other last young past fundamental impossible unmarried later solid steady reasonable same general interesting clear downward different much educated possible different collegeeducated late collegeeducated married same young other marriage close lesseducated strong young high collegeeducated pew high obsolete percent socioeconomic similar split political last decline young likely likely nevermarried important prospective steady other same moral religious much similar borne actual half steady third steady steady identical regardless degree likely likely current high young likely key same regardless steady10 similar affluent different divide real important high top isn dead')
+
+('VBN', 'filed married been married collegeeducated married divorced married won married based given done married married been married been fallen lesseducated accelerated fallen educated married married smaller7 married been married compared employed married lesseducated laid educated lesseducated been married divorced doubled held taken lesseducated married')
+
+('VBP', 'get edor actor are are are reveal are aren appear have are are aren are have are say don marry are degree tend have say are have have have older have are aren tend have have decide have are see decide ready get are suggest are are husband have are have help are are have earn are paint degree are')
+
+('NNS', 'data data waits images images americans stripes groups others states olds numbers americans generations children americans children mirrors incomes jobs trends men people ages generations americans americans years trends groups patterns americans men groups people graduates rates people children graduates nongraduates children women children women degrees women children women children words children children americans mothers children mothers attitudes respondents diploma results lines divisions rates men men jobs men jobs women cases beliefs ideas children results women men men terms rates men men diploma men degree9 jobs men americans rates americans ages decades americans americans families ones numbers americans twothirds children rates')
+
+('VBD', 'wed released had lesseducated divorced estimated wrote broken were agreed was were suggested put said was ranked percent had were was')
+
+('VBZ', 'alamuddin lies percent1 trends forecasts reveals shows ages has has graduates suggests exists gets reflects graduates ages makes ages comes has has exists comes')
+
+('VB', 'celebrate related marry marry hasn get follow turn continue help explain overstate')
+
+('JJR', 'fewer poorer more more older lower longer higher more more less more more less poorer poorer')
+
+('VBG', 'getting overarching delaying skipping cutting delaying abandoning getting getting getting focusing having raising shifting becoming falling including having raising having finding having according rising declining')
+
+('JJS', 'least most least least most most most most')
+

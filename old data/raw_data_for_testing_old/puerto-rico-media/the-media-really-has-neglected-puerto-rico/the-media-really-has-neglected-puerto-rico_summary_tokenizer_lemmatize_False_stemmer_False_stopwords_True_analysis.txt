@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 835
+Raw number of types: 210
+Raw Type token ratio: 0.25149700598802394
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token true true verbs fivethirtyeight spat anthem dearth puerto much primary last sunday national worth natural little attention1 similar british political many national hispanic unacceptable nationallocal equal recent half american aware american public initial aired nahj dedicated token')
+
+('NN', 'analysis number number ratio lemmatizer stemmer article medium puerto rico dhrumil mehta rico github github puerto rico medium thing health care bill election president sport player name president sentence news puerto hurricane story course disaster week hurricane medium cloud database news internet show devastation puerto news coverage trend news news sentence hurricane maria hurricane harvey irma2 spike conversation puerto hurricane mention texas florida television state hurricane cable news network hurricane network hurricane maria network coverage maria competitor hint network coverage analysis talk show program minute coverage crisis puerto show mention rico puerto rico status territory reason lack news coverage delay delivery association journalist statement medium outlet cover disaster press coverage medium cover devastation attention responsibility medium attention poll citizen google search rest show interest storm mainland storm puerto silence issue president puerto rico week presence bring medium engagement mainland trump phrase collect archive spike sunday spokesperson nahj citizen rico show rico analysis number number ratio')
+
+('VBG', 'preprocessing using using using covering getting ramping according speculating calling calling paying coming preprocessing')
+
+('NNS', 'tokens types filters stopwords false nouns adjectives tokens data data suffers maria data reveals data people data maria ricans tokens types')
+
+('VBP', 'type rico rico show rico snyder maria maria hurricane produce type')
+
+('VBN', 'token used occupied published covered mentioned told showed planned combined compared ignored published collected aired made combined given token')
+
+('VBD', 'separated neglected landfall fivethirtyeight filed failed said issued')
+
+('VB', 'tweet september')
+
+('VBZ', 'seems')
+
+('JJR', 'fewer smaller higher')
+
+Token analysis after pre-processing 
+Number of tokens: 280
+Number of types: 177
+Type token ratio: 0.6321428571428571
+

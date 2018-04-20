@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 2464
+Raw number of types: 478
+Raw Type token ratio: 0.1939935064935065
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'token token ratio true true verb adjective hellbent github obamacare congress repeal obamacare thenpresident official premium jordan constituent donor poll obamacare percent obamacare america obamacare ahca obamacare activist hate msnbc leery ahca list argue voter accomplishment route incentive alaska mehta unpopular congressional affordable republican political several major republican unpopular republican popular next impossible primary likely republican hard common wrong political american academic conclusive republican outlandish american republican much republican january republican republican everyday american activist main political political powerful democratic national universal recent republican favorable recent reluctant reluctant electoral major obamacare american republican democratic political unpopular public republican hard drutman political republican republican current many republican american main obamacare sure trump many republican ineffective effective conservative obamacare many conservative available poorest american poor free medical young high republican american much financial liberal conservative right conservative recent liberal regular conservative negative highprofile white latter liberal elite sure obama hard democratic affordable exhaustive republican touch stealthy wealthy good advantageous congress republican conservative liberal major conservative much possible difficult large right republican moderate utah comprehensive common many clear mean political need spend premium insurer republican provide defined republican republican repeal congressman keep allow accomplish oppose boomed spent announced token token')
+
+('NN', 'analysis number number type type filter lemmatizer stemmer article token health care bill health care github president hellbent bill part care repeal thing party policy goal power control part health care bill plurality voter poll time thing health care bill bill year election determine action reason anything reason health care promise view promise science study president research member congress politifact house proposal idea vote campaign time pledge bill coverage legislation congress congress obama bill house senate control party member chamber legislation party veto repeal oval office congress constituent repeal plan figure house freedom caucus statement school scientist party part party voter partyasorganization group support influence party labor union side group association poll majority support health care repeal effort example view house version legislation percent bill opinion survey monkey poll percent core trump supporter president health care percent trump supporters1 college play role percent trump health care push repeal partyasorganization group growth prosperity effort group supporter cause dollar candidate race sense push health care bill party volunteer door donor money rally tank core voter point drutman democrat repeal impeach trump ideology rhetoric obamacare market state bill legislation coverage trump party paint obamacare insurance company reason marketplace administration step bill nothing marketplace enrollment politician medicaid program cover health care bill health care dollar help health care help health plan effect help coverage service income bill insurance charge charge customer credit middleclass help idea accomplishment enemy radio talk show host york time trump something radio show commentator president view today party core principle trump time policy predecessor celebration house house climate change agreement event trump climate policy policy today party care reason repeal example reason bill health care legislation payroll investment increase year analysis reason health care reform reason argument something repeal obamacare promise place majority voter activist purist section obamacare life party washington bill party member expansion place mike favor repeal obamacare kind conservativemoderate divide bill health care trump senate majority leader mitch view health care bill bill party goal contrast health policy goal bill research republican tend stay drive politician politician implement obama obamacare confident official republican percent repeal fortune loyal promise think eager republican republican obamacare obamacare percent anguish obama garden paris paris obamacare expert repeal senate write divide specific repeal obamacare perry turn limit lisa prefer motif hurt obamacare trump make enact subsidize revolt feel found meant december chamber analysis number number type type ratio')
+
+('VBG', 'preprocessing using using using promising reversing passing pushing interesting according pushing keeping emerging repealing backing satisfying consisting meaning including handling determining knocking giving going going voting going collapsing reforming rescuing misleading collapsing saying abandoning giving annoying making organizing opposing holding withdrawing making reversing casting including rolling allowing rolling appealing competing making happening trying getting preprocessing')
+
+('VBD', 'token separated fivethirtyeight kaiser fivethirtyeight volunteer left weight medicaid elected medicaid handled elected pushed campaigned said viewed showed said added wrote rose knocked took contributed token')
+
+('NNS', 'stopwords false troop murkowski pittsburgh data data dataahcapolls others people people people people people people politics charles sykes sykes people people people redistributes')
+
+('VBN', 'used medicaid jazzed invested titled filed passed elected promised offered passed signed elected charged charged compared cared associated adopted determined campaigned brought invested promised added conducted dcbased oped ended basked passed adopted discussed reflected')
+
+('VBZ', 'bacon democrat rifle club dhrumil consume defines includes allows provides includes')
+
+('VB', 'trump trump repeal feel obamacare adopt assume follow give keep provide replace approve identify replace replace disapprove take minimize')
+
+('VBP', 'want make voter feel need scientist understand oppose think want mean leave mcconnell give seem seem know show suggest tend make want emphasize want suggest')
+
+('NNP', 'obamacare')
+
+('JJR', 'supporter lower older younger younger older cheaper younger older')
+
+Token analysis after pre-processing 
+Number of tokens: 815
+Number of types: 432
+Type token ratio: 0.5300613496932516
+

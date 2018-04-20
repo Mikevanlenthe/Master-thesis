@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1096
+Raw number of types: 369
+Raw Type token ratio: 0.33667883211678834
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 753
+Number of types: 314
+Type token ratio: 0.4169986719787517
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'aug don silver ferguson github github group arrest tuesday ferguson joe raedle missouri teenager police officer month population police force disparity type misrepresentation gap city ferguson something police majority police work town diversity police force york example percent police force figure divide york police city percent data employment opportunity commission eeoc census bureau composition government data set washington post analysis city police census police percent police city honolulu residency share city city percent police city percent los police district city combination city composition residency requirement police geography average police percent city police disparity example percent police city alabama jackson mississippi majority likewise police residency example los doesn police city philadelphia require city boston residency requirement police example census bureau boston police city geography role jacksonville florida percent police city city proper share area population city atlanta population police force town city louis ferguson requirement clause city force police take advantage provision percent ferguson population eeoc effort census police residency requirement debate relax requirement town ferguson regard table category note census bureau differ census category police jurisdiction city police department census category security census police size error census correction version article police city')
+
+('JJ', 'police nate getty civilian black racial enough own suggestive ferguson racial many outside common major american statistic black hispanic likely white new high stark racial percent black new hispanic same true percent white equal racial large american racial many average detailed available philadelphia percent washington percent live major racial black hispanic percent white black black percent white birmingham black large racial such half high metro small metro atlanta white likely live louis whereas black detailed available small detailed many strict active impose searchable github other same include private complete previous philadelphia live')
+
+('VBP', 'live serve get police charge make ferguson continue percent live commute are police live provide live serve reside exclude chicago live percent live miami reflect percent live detroit live tennessee have live live furthermore are live are have isn have have come are mean aug are are are are are')
+
+('NNS', 'cities data data datapolicelocals officers demonstrators images protests twothirds police officers limits cities twothirds cities officers officers cities ones resides boroughs officers ones officers workers cities demographics data police officers cities cities forces officers figures data officers boundaries angeles officers limits differences factors cities officers officers limits officers cities populations officers ones memphis gaps officers cities requirements officers boundaries regulations degrees data officers officers limits boundaries police years officers ones data data communities events debates years details cities asterisks officers readers numbers counts reasons officers sheriffs police others data forces numbers estimates counts officers limits')
+
+('VBN', 'filed given alerted used enforced flouted compared percent residency allowed been required included estimated changed required')
+
+('VBD', 'missouri tied were force was contrast percent spotcheck discovered were won said')
+
+('VBG', 'following shooting troubling varying living sprawling living reporting arguing using going')
+
+('JJR', 'more more fewer')
+
+('VB', 'have detail detail vary require reflect shape found transit have margin')
+
+('JJS', 'most largest largest starkest')
+
+('VBZ', 'forces comes includes limits varies has angeles has suggests plays has has has has includes officers')
+

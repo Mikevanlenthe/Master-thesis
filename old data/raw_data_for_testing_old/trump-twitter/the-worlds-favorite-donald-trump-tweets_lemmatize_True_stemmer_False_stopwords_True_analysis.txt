@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1007
+Raw number of types: 411
+Raw Type token ratio: 0.40814299900695133
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'world favorite donald trump tweet leah libresco election photo robyn image campaign trump tweet world news cycle opponent supporter feature campaign tour kennedy donald trump twitter account trump effect tweet time capsule campaign take look debate primary nomination tweet june trump majority attack twitter methodology analysis tweet time trump someone tweet tweet platform tweet candidate enmity policy proposal nomination policy share topic tweet policy candidate poll medium candidate woman clinton trump talk twitter june count category source twitter policy tweet quarter trump retweets3 follower offering expression medium trump category policy enemy tweet cinco mayo cincodemayo taco bowl trump tower grill http tcoufoteqd8ya pictwittercomk01mc6cudi donald trump realdonaldtrump tweet news coverage4 enthusiasm tweet news bias protester make america clinton hypocrite control service protection tweet protester attack trump opponent story line attack medium analyze twitter feud question jibe sobriquet course campaign attack opponent pique iowa caucus trump fire contest cruz marco rubio flurry antijohn tweet hour john kasich race waste money donald realdonaldtrump november discussion policy twitter response news cycle trump candidate tweet exclamation point tweet trump cruz clinton sander none trump president trump june cruz june clinton june sander source twitter tweet exclamation point onethird cruz percent clinton bernie sander tweet punctuation5 trump tweet exclamation point order magnitude candidate trump thought exclamation point dhrumil mehta david nield reporting')
+
+('VBD', 'filed started sent antagonized decided said wrapped downloaded talked reacted retweeted made collected prompted mostfavorited made propelled mostretweeted castigated declared called armed prompted forced tended concentrated went defeated dared contributed')
+
+('JJ', 'original beckafpgetty presidential donald unorthodox truman whistlestop great useful dominated categorized recent suffered read footnotes2 trump little le third rival republican trump republican democratic tweet interested tweet trump scorn rival tweet hispanic happy hispanic heavy great hillary secret twitter opponent scattershot trump come strategic primary important rival spree kasich negative irrelevant different streaky spontaneous streak excited excited june le le punchy suspect opponent')
+
+('VBN', 'consumed riled used defined tweeted tweeted mostretweeted called mostfavorited used gone written')
+
+('VBG', 'defining tweeting divining attacking attacking excluding sharing sharing favoring enjoying making looking tweeting running')
+
+('NNS', 'people excludes retweets others excludes people brussels others tweetstorms others twothirds')
+
+('VBZ', 'includes includes seems tends includes')
+
+('VBP', 'retweets tweet seem rest terrorist florida want want trump trump')
+
+('JJS', 'least best least')
+
+('VB', 'love love merit')
+
+('JJR', 'answer twitter')
+
+Token analysis after pre-processing 
+Number of tokens: 407
+Number of types: 255
+Type token ratio: 0.6265356265356266
+

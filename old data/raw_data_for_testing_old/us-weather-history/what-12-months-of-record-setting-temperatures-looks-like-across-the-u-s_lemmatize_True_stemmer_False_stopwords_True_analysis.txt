@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 521
+Raw number of types: 247
+Raw Type token ratio: 0.4740882917466411
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'month look randy olson data github github datausweatherhistory year hotter administration report half june record world state aboveaverage temperature year janjune period record globe stateofclimate http tcodjwfrfmmjp pictwittercomxpj8rfr8bs july fact period july june temperature detail york time chart show month temperature city chart show record average range temperature year city dot day record blue year city story tell2 chart expand yearround justright temperature heat year march day record temperature june year day setting record seattle winter day record spectrum temperature digit day houston temperature part spike november city temperature houston month hottest record city city heat snap record climate change part country consequence climate view')
+
+('VBG', 'recordsetting saying recordsetting recordsetting beginning setting recordsetting lasting studying')
+
+('JJ', 'temperature normal national oceanic atmospheric january western united high noaanceiclimate noaa curious famous past handful large high normal actual indicate high previous unique click famous several particular high charlotte north uncomfortable high upper warm high february single average cold consistent chart clear last last many cold general affect different single cold broad')
+
+('VBD', 'filed experienced looked experienced soared experienced cold returned reached experienced')
+
+('JJR', 'weather')
+
+('NNS', 'data carolina chicago others')
+
+('VBN', 'published released recorded updated examined expected')
+
+('VBP', 'feel wave aggregate make houston take')
+
+('JJS', 'warmest warmest warmest best')
+
+('VBZ', 'angeles')
+
+('VB', 'feel wave')
+
+Token analysis after pre-processing 
+Number of tokens: 237
+Number of types: 153
+Type token ratio: 0.6455696202531646
+

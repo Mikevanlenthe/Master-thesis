@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1291
+Raw number of types: 878
+Raw Type token ratio: 0.6800929512006196
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 885
+Number of types: 735
+Type token ratio: 0.8305084745762712
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'people data data databirths thousands babies parents doctors births deliveries lots parents delivers fears births falls wards months lots children years reasons forums bugs births obstetrics cesareans inductions effects patterns trends attempts dates findings births data researchers effects authors data births data parents dates births results births days flowers superstitious to at databirths facebooktwitteremail thousands of babies friday falls if parents the doctors their newborns treated it many births induced deliveries  lots of parents that delivers longstanding fears about fridays on fridays delivery wards few months  lots four years  reasons parent forums just bugs of obstetrics gynecology at planned cesareans planned inductions labor looks birth effects monthly patterns longterm trends from attempts certain dates their findings other researchers birth effects other authors recent births of parents the 1970s and 1980s as we since births found results with ours suppress births leap days andrew flowers')
+
+('JJ', 'superstitious friday 13th expect many induced cesarean double superstitious longstanding fridays births1 avoid births birthday friday vague sorry superstitious superstitious obstetrician cesarean friday luck universal friday good second friday medical email full computational statistician complex monthly longterm avoid certain previous halloween cowrote several bayesian third recent recent birth high friday consistent finding whole suppress leap pm some too superstitious a baby friday the the 13th under parenting thousands of are born us whenever on the of the the month about 800 d expect and the deliver their other day  many deliveries or or cesarean the choice rather not take their a double of superstitious superstitious bad and the of the d expect  the the 13th falls on on a and tend as i a few of parentstobe a birthday every four given on the 13th one mom on a said yea a bad luck day if i i can s been not superstitious that just another  said she t superstitious superstitious  another site asked the  obstetrician scheduling my  cesarean on the the 13th be booked friday the the 13th are bad universal   friday in this on the given birth friday the the 13th another such such birthday in her  assistant harvard medical of labor looks full in 2012  computational and statistician more complex out calendar and longterm to avoid  their based on on us us births a previous covering the of valentine and halloween textbook they with several  bayesian analysis  more recent reran the more recent more say for the the 13th typically was as high had been d expect scheduled less less often ran an specifically for the 13th results consistent over the holidays suppress and the of the the month')
+
+('NN', 'baby carl bialik github github month section choice chance date luck number month effect weekend delivery schedule parent pregnancy website forum office lady luck change site section think belief become household parent forum birth birthday family neel shah assistant professor school schedule labor friday scientist vehtari andrew gelman method calendar birth land extension analysis birth cover textbook analysis edition vehtari gelman reran analysis generation effect expect calendar notice christmas month analysis may 13 at 1221 some people people are baby on by carl carl bialik parenting get get the the data data on on github github github github data data at born in in the the us whenever friday the 13th month   but fewer than than you expect if like any births are scheduled  either as cesarean section section  choice  their chance chance with with a double whammy bad luck luck  births on on the the 13th the month month are are lower lower than than you expect  the effect effect is is smallest smallest when a weekend weekend  when delivery tend to to schedule fewer births1 births1 as i wrote wrote a parentstobe try try to to avoid avoid feb births so their children children won won  only once on parent avoiding friday are vague vague  mom wrote wrote on a pregnancy pregnancy website website forum the office office lady yea sorry sorry it s on bad luck day if can change change it it i i will  since since then then it bugging me m not superstitious at at all all but she isn  wrote wrote on site  when i the  obstetrician  cesarean section he just laughed and and said said he he didn didn  think the the or booked  the belief births are bad luck luck isn isn  t universal friday the the 13th has become become a a very very good good day this household household  said one one mom the second second parent parent forum forum who birth on on a had another assistant professor professor of and gynecology medical school school  said by by email our schedule schedule for full  for this this friday computational scientist scientist aki aki vehtari vehtari and statistician andrew andrew gelman developed a a more complex method method for calendar birth avoid or or land land on on certain births data data from to 1989 an extension extension of previous analysis analysis by by other the birth valentine  s day halloween  made the the cover cover of of a a textbook they cowrote cowrote with several other bayesian data data analysis third edition i sent sent vehtari vehtari and and gelman gelman the the more data  to 2014  and and they the analysis analysis  that the the more recent generation generation of say on on when when they gave birth birth  the effect other key was twice twice as high as as it been in in the expect since often then then  they also an analysis for friday and found consistent with s their the whole whole calendar calendar  christmas and and other more than than leap the 13th month do contributed analysis analysis ')
+
+('VBD', 'friday filed wrote wrote said said wrote asked laughed said said said planned developed sent found gave andrew contributed  2016 bialik filed as induced given the when the feb 29 friday the forum  lady said will  who said i asked section   said mom on who had and had shah  for planned friday  gelman developed findings based from 1969  made they reran they found parents had it had were scheduled also ran friday the that christmas  andrew')
+
+('VBG', 'parenting tying avoiding bugging saying scheduling teasing separating covering  tying together longstanding for avoiding been bugging her saying about scheduling for teasing  separating researchers covering their finding')
+
+('VBN', 'born treated scheduled given staffed given given planned based made scheduled found have a newborns treated are scheduled are staffed have a just laughed had given and planned here  flowers contributed')
+
+('VBZ', 'falls fridays looks analysis holidays that their that friday that  from 2000 effect for key dates other holidays')
+
+('JJR', 'fewer fewer filed under schedule fewer for other far more')
+
+('VB', 'take booked parents would not take would be day in')
+
+('VBP', 'whammy expect tend parentstobe gynecology valentine to have databirths facebooktwitteremail babies are falls on you  parents and doctors who who deliver day  lots of a date delivers a whammy of fridays and you  especially on fridays  wards are thinly and ago  lots of t have years  reasons given forums for bugs me isn  t think family  obstetrics and cesareans and inductions of effects  patterns and attempts to dates  of a effects of day and authors  they gave ours  days and')
+
+('JJS', 'smallest')
+
+('NNP', ' and the number  but  when  the  who  when  the  neel  said  for  third  from  they  the  they  notice')
+

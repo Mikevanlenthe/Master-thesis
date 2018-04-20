@@ -1,0 +1,14 @@
+POS tags:
+('NN', 'jun.,,pm,,jobs’,,measuring,,stick,,spending,,infrastructure,,data,,github,,github,,facebooktwitteremail,,overpass,,cheyenne,,,wyoming.,,mead,,gruver,,ap,,article,,infrastructure,,investment,,,state.,,census,,report,,breakdown.,,bureau,,construction,,spending,,,year,,information,,proxy,,infrastructure,,spending,,,one,,,bls,,employment,,industry,,,construction,,industry,,whole,,,engineering,,construction,,subsector,,“infrastructure,,jobs.�,,bls’s,,activity,,construction,,engineering,,dams).�,,number,,infrastructure,,sector,,government,,—,,percent,,peak),,drop,,construction,,employment,,period.,,trough,,,infrastructure,,peak,,,recession.,,bls,,employment,,subsector,,states,,,sample.,,so,,,wyoming,,mining,,energy,,industry’s,,prominence,,there.,,maryland,,,example,,,infrastructure,,jobs,,,peak,,trough,,,boom,,dakota,,states.,,means,,reflection,,infrastructure,,spending.,,it’s,,proxy.,,anything,,,measure,,state,,energy,,industry,,is,,,energy,,industry’s,,infrastructure,,here.')
+('VBG', 'using,,being,,looking,,analyzing')
+('JJ', '‘infrastructure,,state-level,,andrew,,data/infrastructure-jobs,,lackluster,,useful,,real-time,,monthly,,construction-spending,,state-level,,private,,nonresidential,,available.,,imperfect,,heavy,,civil,,“primary,,entire,,private,,april,,percent,,overall,,april,,other,,few,,representative,,such,,data.,,state-by-state,,wide,,north,,oklahoma,,,oil-,,gas-heavy,,ideal,,real-time,,affect,,,actual')
+('NNS', 'flowers,,data,,data,,doesn’t,,data,,subsectors.,,jobs,,projects,,highways,,jobs,,jobs,,percent.,,workers,,jobs,,data,,states,,workers,,data,,changes,,reveals,,jobs,,jobs')
+('VBN', 'filed,,built,,been,,fallen,,risen,,employed,,recovered')
+('VBP', 'get,,provide,,are,,let’s,,are,,(e.g.,,,nationwide,,,—,,have,,are,,—,,have,,don’t,,have,,variation.,,have')
+('NNP', '/')
+('VB', 'have,,have,,create,,call,,have,,reiterate,')
+('VBZ', 'bureau’s,,publishes,,is,,organizes,,is,,has,,is,,collects,,is,,stands,,is,,is,,overstates,,—,,appears')
+('JJS', 'latest')
+('JJR', 'better,,more,,fewer,,less')
+('VBD', 'came,,stripped')
+

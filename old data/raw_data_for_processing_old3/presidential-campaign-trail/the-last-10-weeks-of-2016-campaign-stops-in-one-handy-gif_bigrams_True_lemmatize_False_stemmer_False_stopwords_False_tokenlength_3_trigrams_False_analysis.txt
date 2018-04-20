@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 128
+Raw number of types: 98
+Raw Type token ratio: 0.765625
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 187
+Number of types: 165
+Type token ratio: 0.8823529411764706
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'dec campaign handy gif matthew conlen election github github postelection clinton campaign trump traveling clinton campaign clinton dayaftertheelection concession york news hillaryspeechescom1 campaign dec,2016 the,last last,weeks handy,gif gif,matthew matthew,conlen election,get get,the the,data data,github github,github github,data data,datapresidentialcampaigntrail datapresidentialcampaigntrail,one one,the the,main main,postelection hillary,clinton clinton,campaign campaign,has has,been she,didn donald,trump than,clinton inperson,media through,nov nov,clinton her,dayaftertheelection dayaftertheelection,concession concession,speech york,according according,data collected,from from,the news,and and,hillaryspeechescom1 hillaryspeechescom1,you can,see their,campaign')
+
+('JJ', 'last main hillary donald stops inperson nov new conservative daily one,handy under,2016 criticisms,the the,hillary that,she campaigning,donald traveling,than campaign,stops and,inperson from,sept sept,through including,her new,york the,conservative you,can how,their compared,the')
+
+('NNS', 'weeks data data fundraisers media appearances data schedules maps campaign,stops stops,rallies rallies,fundraisers media,appearances campaign,schedules the,maps')
+
+('VBZ', 'stops has rallies daily,news')
+
+('VBN', 'filed been sept collected compared')
+
+('VB', 'get see maps,above')
+
+('VBP', 'datapresidentialcampaigntrail fundraisers,and appearances,from see,how')
+
+('VBD', 'criticisms didn did made made speech weeks,2016 conlen,filed certainly,did clinton,made clinton,made speech,new data,collected schedules,compared')
+
+('VBG', 'campaigning including according enough,campaigning more,traveling only,including')
+
+('JJR', 'filed,under')
+

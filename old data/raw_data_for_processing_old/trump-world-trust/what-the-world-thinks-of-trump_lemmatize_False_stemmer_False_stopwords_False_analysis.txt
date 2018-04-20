@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 603
+Raw number of types: 281
+Raw Type token ratio: 0.4660033167495854
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 315
+Number of types: 211
+Type token ratio: 0.6698412698412698
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'world trump week audience wezerek andrea jonesrooy trump administration github president trump assembly york city week host event discuss organization address body world time audience world trump information opinion trump research center survey variety president world view president thing world jump trump office confidence president favorability confidence percentage favorability president year defense agreement confidence president mexico opinion drop hand favorability confidence president israel russia trump trump return george bushera favorability content trump korea syria terrorism climate change survey idea agreement approval percent trump wall trade approval percent correction version chart article approval rating president germany russia chart')
+
+('VBZ', 'thinks does comes patterns comes')
+
+('NNS', 'debuts data data reforms attitudes residents countries views leaders issues2 results years questions respondents affairs points points perceptions respondents views drops declines countries members questions levels reforms issues respondents trump policies priorities publics policies plans mexico agreements trump policies')
+
+('JJ', 'skeptical annual general monday first formal global public global annual other several favorable current right average president4 second past collective such nato public other public russia public overall actual other major international agenda north specific foreign iran disapproval average global major disliked average previous third israel')
+
+('VBN', 'filed published compared confidence gone changed decreased been gone gone been updated')
+
+('VBP', 'github trump trends have have have america have uniform have japan presidency6 approve track approve build withdraw')
+
+('VBG', 'attending opening watching regarding withdrawing showing')
+
+('VBD', 'time1 asked took dropped took brought asked drew were sept proposed mislabeled')
+
+('VB', 'make target think disapprove')
+
+('JJS', 'best biggest least')
+
+('JJR', 'less')
+

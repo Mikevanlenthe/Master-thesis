@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1555
+Raw number of types: 643
+Raw Type token ratio: 0.4135048231511254
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 747
+Number of types: 445
+Type token ratio: 0.5957161981258366
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'ram answer question team blyth terrel file datanflfavoriteteam sign day parent hometeam spirit sport team question fan colt oiler superson team shop road year question ram sinc hometown year love sport love colleg board ram parent shell cash person seat ticket sibl turn eat nacho game comfort1 introduc footbal jerom betti isaac bruce fulli time kurt warner faulk show turf town boom time season sometim atroci nextgener toddler niec ram game season2 hometown villain kroenke3 pull plug haul ram california leav choic word fan fan puzzl option support angel ram nope version person sole cheer dude fantasi team loyalti husband team crossstat kansa citi chief midwestern school pick york team sinc citi like game turn math problem sinc editor search analysi hand colleagu neil pain team support team terribl ownership leav citi support feel fool team base factor matter team player publicli suspect crime woman possibl board pledg support team dictat season breath patriot analysi grade team magazin longrun ultim stand survey conduct opinion research firm attempt quantifi benefit root franchis calcul reflect compon team ident includ ownership club fanfriendli tradit plug factor websit idea creat form categori import blyth discu discov team blyth terrel podcast espn emb emb code ifram framebord width style auto maxwidth600px scroll http fivethirtyeightcomplayerwtp17496919 ifram randomli gener matchup factor case exampl choos player behavior relat versu ownership repeat exercis differ randomli permut vote times4 point person weight factor amount influenc teampick process version criterion weight player sinc crime woman ownership loyalti core player commun player effort field likabl project season team year championshipsdivis titleswin team entir histori dollar fan distanc team stadium york mile distanc team stadium loui price ticket park concess size market term popul venu fanfriendli frequenc promot strength leadership accord watch paul luka size market term popul blyth criterion team instanc suspend player manner imperfect thank kroenk fulli packer camp dust settl analysi team unveil packer memori didn includ anger team fan cheer wasn ownership structur player likabl futur team tradit mark offfield pittsburgh steeler kansa citi chief england patriot bill tennesse titans5 check predict everi team team team rate team player ownership player effort likabl project pittsburgh kansa citi buffalo carolina seattl indianapoli arizona baltimor team blyth weight criterion includ rank criterion list thi exercis team rate everi github trade blue gold gold fan experi sure mani excit sorri pain contribut ram team')
+
+('JJ', 'dead hold sweet handmad earli loui next footbal much learn dome ensu decad marshal weak last loui last stan fume fellow lite watch real equival nice high appeal clear ideal le unlik full other such violent full deep espn similar uniform weight listen appl margin20px headtohead select uniform thi select rank sampl extra honesti next previou mile qualiti stylish uniform perfect benign behavior aggreg niec green footbal appear surpris uniqu high aboveaverag green buffalo dead last weight overal green heavili overal list everi green congratul ram good thi spurn')
+
+('VBP', 'find github show have expo roll roll make give live have win sort find win perfect help have winner becaus score win follow england find categori hope have attach video')
+
+('NNS', 'data github data immers choic data data mind partli categori data data')
+
+('VB', 'ram go readi probabl show figur pick abl turn have technolog reach wash deal')
+
+('VBD', 'hit knew took footbal went left were were knew went fivethirtyeight went seahawk categori were fandom height went weight onfield were gave came found')
+
+('VBN', 'been stuck left known commit taken spent chanc rank spoken')
+
+('VBZ', 'basketbal licens bar canada suspens win team altogeth suspens win')
+
+('JJR', 'more more more better smaller bigger')
+
+('JJS', 'greatest most')
+

@@ -1,0 +1,14 @@
+POS tags:
+('NN', 'jul.,,pm,,americaâ€™s,,â€˜star,,warsâ€™,,characters),,walt,,hickey,,data,,github,,github,,facebooktwitteremail,,yodaâ€™s,,costume,,warsâ€,,series,,exhibition,,cite,,du,,cinema,,france.,,chesnot,,getty,,week,,,i,,peek,,fighter,,warsâ€,,production.,,middling,,response,,trilogy,,excuse,,fans?,,rest,,america,,empire,,backâ€,,bunch?,,solo,,greedo?,,poll,,june,,data,,percent,,warsâ€,,films.,,question,,,incidentally,,,difference,,percent,,â€œstar,,warsâ€,,film,,percent,,women.,,fan,,franchise:,,percent,,percent,,women.,,probability,,someone,,â€œstar,,warsâ€,,film,,star,,v,,empire,,backâ€,,film,,number,,people,,,wars:,,episode,,vi,,return,,jedi.â€,,â€œstar,,episode,,i,,phantom,,menaceâ€,,warsâ€,,wars:,,episode,,iv,,hopeâ€).,,so,,,movie,,best?,,subset,,â€œstar,,warsâ€,,film,,question,,,share,,film,,favorite.,,rate,,films.,,overall,,,prequels.,,empire,,backâ€,,rate,,hopeâ€,,â€œreturn,,jediâ€,,phantom,,menaceâ€,,film,,rate,,chart,,film,,(third,,fourth),,(second,,itâ€™s,,take,,finally,,,boilerplate,,format,,favorability,,state,,rate,,series.,,jar,,favorability,,rating,,personification,,evil,,galaxy.,,impact,,revisionism,,society:')
+('JJ', 'favorite,,favorite,,data/star-wars-survey,,saint-denis,,,sneak,,x-wing,,new,,forthcoming,,recent,,perfect,,wanted,,many,,â€œstar,,warsâ€,,well-liked,,hated?,,surveymonkey,,available,,github).,,seventy-nine,,substantial,,gender:,,film,,,likely,,episode,,wars:,,original,,new,,out,,,original,,favorite,,likely,,new,,likely,,top,,third,,second,,middle,,third,,bottom,,third,,worst).,,nuanced,,series:,,political,,â€”,,following,,unfavorably,,,unfamiliar,,him/herâ€,,jar,,actual,,historical')
+('NNS', 'movies,,movies,,data,,films,,movies,,questions,,answers,,people,,strikes,,characters,,first,,,audience,,,respondents,,respondents,,men,,people,,men,,men,,respondents,,films,,people,,wars,,strikes,,people,,respondents,,respondents,,people,,fans,,camps:,,movies,,people,,strikes,,well.,,prequels,,polls,,characters,,â€”,,respondents,,characters,,binks')
+('VBP', '(and,,get,,â€”,,provide,,iâ€™ve,,are,,realize,,are,,shot,,han,,have,,have,,responding,,,have,,film:,,â€”,,have,,higher.,,view,,favorably,,,are,,read,,correctly.,,want')
+('JJS', 'least,,best,,most,,least,,least,,best,,best,,(best')
+('VBN', 'filed,,displayed,,watched,,seen,,compared,,seen,,compared,,seen.,,seen,,given,,given,,seen,,seen,,followed,,seen,,rated,,used')
+('NNP', 'â€œstar,,/,,â€œstar,,â€”,,â€œthe,,(the,,â€œstar,,â€œstar,,â€œstar,,â€”,,â€œstar,,â€œstar,,â€œthe,,â€œa,,â€œthe,,â€œplease')
+('VBZ', 'is,,images,,does,,is,,is,,has,,is,,appallingly,,,â€”,,is,,shows,,has')
+('VBD', 'caught,,to:,,ran,,said,,had,,had,,were,,asked,,had,,wars:,,â€”,,reported,,(renamed,,asked,,indicated,,calculated,,rated,,broke,,preferred,,preferred,,said,,was,,were,,rated,,were,,was,,worst,,took,,asked')
+('VB', 'examine,,consider,,see,,rank,,worst.,,drill,,find,,generally,,,know,,have')
+('VBG', 'surveying,,seeing')
+('JJR', 'more,,higher,,lower')
+

@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1515
+Raw number of types: 395
+Raw Type token ratio: 0.2607260726072607
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags ratings teams ratings games years ratings predictions picks ratings details results results leagues championships titles titles pennants stockings records braves franchises calculations belongs mariners mariners mariners players seasons games mariners wins twins tigers mariners yankees games mariners nationals spiders spiders spiders spiders wins finishes seasons spiders owners cardinals players spiders spiders games spiders years days playoffs nationals bombers yankees yankees fans years yankees yankees titles pennants yankees sports celtics titles yankees yankees years browns works wins braves boasts franchises moises')
+
+('VBD', 'fivethirtyeight finished squad washington added created touched kicked stacked came began went purchased refused went went went posted covered')
+
+('JJ', 'different simple final total average actual national american defunct american national league national national national interactive national major national special national first professional major national controversial inaugural national current national national white shortstop several good great seattle japanese freddie seattle current white able outstanding regular current young first national young final national young national high next expos unstoppable american next difficult dominant additional franchisehigh dominant multigenerational final mantle beat exclude favorite average mean league league seattle alex postseason tebeau expos seventh equivalent included played credited originated upset combined appeared departed read chicago bret travel become overstate captured started left disappointed snagged ended')
+
+('NN', 'peak dominant official seattle secondplace temple sideshow expos professional mickey method history measure team strength score location date team baseball history team rating league expansion rating onethird season methodology game retrosheetorg history association association world series world series team history history atlanta milwaukee boston franchise inauguration association franchise world series dominance century association league franchise rating team boston citys record percentage rating association history association part history baseball committee association league league league decision league cubs association association peak history cubs rating record season world series history game center fielder griffey rodriguez fastballer randy johnson season schedule record season cubs transplant ichiro suzuki rookie year slugger boone season jamie moyer garcia team rating peak season washington world series baseball season history cleveland baseball percentage manager patsy tebeau star pitcher team franchise league title firstplace exhibition series league disaster louis star cleveland home attendance revenue road season history league season history franchise montreal expos existence postseason appearance everything offense marquis grissom alou walker cordero game staff butch henry hill jeff fassero pedro martinez league expos pace season franchise baseball strike world series season walker grissom hill season franchise expos team history york baseball team league stay franchise losing season team percentage season schedule time world series rating season team stretch bill career streak babe ruth career debut dimaggio season rookie year come bring count include capitalize manage dimaggio held')
+
+('VBZ', 'larry franchises franchises franchises stars wins franchises franchises runs depends braves begins continues')
+
+('VBG', 'pitching winning winning comparing winning including electrifying including tying starting dropping beating going playing joining making coming peaking')
+
+('VBN', 'shortened come chosen used based calculated calibrated reverted played known gone compared canceled picked improved made captured shipped declared ended contracted struggled scored improved reached')
+
+('VBP', 'eras teams playoffs orioles teams teams eras start include russell espn decree cleveland franchise cleveland become reach depends')
+
+('NNP', 'montantayoung')
+
+('VB', 'consider')
+
+('JJR', 'higher better')
+
+('JJS', 'greatest highest highest best best')
+
+Token analysis after pre-processing 
+Number of tokens: 538
+Number of types: 313
+Type token ratio: 0.5817843866171004
+

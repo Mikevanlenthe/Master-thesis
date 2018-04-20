@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1324
+Raw number of types: 487
+Raw Type token ratio: 0.3678247734138973
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 680
+Number of types: 307
+Type token ratio: 0.4514705882352941
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'hand drive rise murder jeff file crime github github datamurder2016 year rise number murder year year concentr citi month show number murders1 quarter centuri rise campaign issu trump cite order evid type crime includ violent crime haven murder rate level avail year preliminari number murder percent thi year citi avail year number percent group come sourc websit phone call depart citi chief associ case medium report cite murder statist sourc gather america citi account percent murder year collect percent murder year post data github page rise murder percent citi number murder octob citi murder time year percent increase3 orlando jump murder larg puls attack june half murder citi avail contrast citi number murder account quarter group murder year meanwhil sever citi includ washington baltimor number murder year experienc larg rise murder citi percent memphi tenn phoenix vega dalla houston fort wayn atlanta indianapoli austin texa kansa arlington texa citi murder year total citi date year year rise murder look differ year way citi murder year year declin year geograph pattern rise number murder southwest4 switch year rise rel evenli countri preliminari highli number fall murder hard month revis fall brennan center project yearend murder count larg citi use year project murder citi percent murder month year wari use bigciti talli judg countri becaus center nation rise especi rise larg carl bialik point januari year thi certainli murder citi popul percent everywher trend hold murder rise percent nation murder rate roughli level read murder rarest crime measur nation chang number murder effect murder rate explan differ bullet injuri surviv rise murder year year trend medium term jump drop murder preval year year decad decad record')
+
+('NNS', 'citi data data data nationwid data citi data citi increas dramat togeth data increas data decreas increas increas data citi increas data figur data thi difficulti els preliminari chang vari sens')
+
+('JJ', 'last continu thi last last estim percent increas major donald evid deterior other same increas figur last same figur varieti polic major organ polic chief local offici midyear popul last abl august full widespread increas increas concentr particular earli same nightclub peopl close increas increas same citi thi citi substanti increas orlando louisvil citi last recent total same total last other last thi increas thi spread figur mean final next increas last right absolut averag whole larg urban true percent onli current total same hard much increas major small doe easi peopl inch narrowli miss stray sustain fatal difficult total total wide long concentr shortterm preval current other')
+
+('VBD', 'dramat releas rose went citi citi were sent were highlight rose')
+
+('VBP', 'appear claim evid suggest email defin collect have see appear citi chicago account remain milwauke have chicago antonio avail have bigciti know exist point know have wise tend earli assum result know have appear heavili influenc mean make make evalu')
+
+('JJS', 'least biggest least least least biggest biggest biggest greatest worst least')
+
+('JJR', 'slower broader exagger weather more safer')
+
+('VBZ', 'emerg data citi bigciti kill citi exactli')
+
+('VB', 'mix mani substanti rise percent shift show like like push hold be be')
+
+('VBN', 'seen seen seen seen seen seen seen come dramat murder struck')
+
+('VBG', 'swing')
+

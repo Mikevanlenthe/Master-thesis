@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1233
+Raw number of types: 465
+Raw Type token ratio: 0.3771289537712895
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 833
+Number of types: 407
+Type token ratio: 0.4885954381752701
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VB', '2015 mona konsanggwineeuh make result map view download rare burkina maintain correlate affect check like')
+
+('JJ', 'many dear alia duval filmmagic alia pose first daryn western united second first second consanguineous assess first second consanguineous second plenty ban first unable consanguineous undercounting united human australia common other interested indian unaware such major other interested queen own global consanguineous global consanguineous second consanguineous many sociological relative stable same social other financial likely keep relative inlaws high global second such various statutory cousin same personal recessive genetic first such maternal socioeconomic national genetic first unrelated great united biological uncomfortable romantic first high iceland small hard genealogical monachalabi')
+
+('NNS', 'americans cousins angeles images cousins australia states individuals cousins people relationships cousins shares researchers relationships individuals cousins cousins relationships people nephews nieces marriages people cousins needs cousins states restrictions people laws individuals relationships studies states genetics bittles years papers relationships relatives countries marriages populations daryn findings numbers australia marriages countries relationships marriages countries marriages people cousins marriages reasons marriages relatives parts studies couples relationships reasons secrets women parents people cousins states aspects restrictions ages laws matters concerns children diseases couples children rates notes factors outcomes risks counselors findings risks cousins risks children children parents unions states conventions users numbers mona')
+
+('VBP', 'are mona attend kevin dear are dear are are closer are america know get second greatgrandparent are give are have are are have are reluctant say are find edith western are include are notice take have are are are are are have include hidden closer have marriage wasn postcivil higher are are have make hope help have send')
+
+('VBN', 'married filed arrested arrested estimated known confused related considered treated allowed based conducted changed emailed spent published attempted summarized estimated studied estimated favored found prohibited introduced stigmatized born related born estimated controlled set born associated related answered')
+
+('NN', 'chalabi mona michael cera shawkat premiere development london michael cera shawkat cocktail party script reading development aug los winter getty percentage percent research benchmark consanguinity intermarriage brief reminder cousin someone firstcousin type relationship case consanguinity coefficient number coefficient anything coefficient estimate percent caution thing marriage example arizona firstcousin marriage reproduce relationship percent estimate share alan centre cowan university consanguinity topic rise america immigration immigration relevant consanguinity fact topic research trip institute science bangalore hand question ancestry prevalence consanguinity map percent perspective consanguinity percent percent faso world relationship marriage health security idea chance stay relationship prevalence reason study consanguinity percent world population cousin product union america marriage mentalcapacity antimiscegenation marriage time part war acceptance need oversight today practice health prevalence mortality percent research age education birth status consanguinity health consensus health society task force health percent percent deal stigma cousin canada basis daryn notion relationship cousin anyone inbreeding coefficient app country population figure blood interest spoiler database question dearmona fivethirtyeightcom')
+
+('VBD', 'fred asked found pronounced were was more were became was occurred told told became married closer began were published estimated were concluded developed related')
+
+('VBZ', 'marriages marriages means uses cousins daryn marriages includes states has bittles has has bittles thinks bittles elizabeth bittles has bans cousins cousins bittles has appears has uses')
+
+('VBG', 'asking struggling inbreeding inbreeding researching browsing being legislating including offspring spacing shifting offspring naming hooking')
+
+('JJR', 'higher closer older more stranger better higher higher')
+
+('JJS', 'most incest')
+

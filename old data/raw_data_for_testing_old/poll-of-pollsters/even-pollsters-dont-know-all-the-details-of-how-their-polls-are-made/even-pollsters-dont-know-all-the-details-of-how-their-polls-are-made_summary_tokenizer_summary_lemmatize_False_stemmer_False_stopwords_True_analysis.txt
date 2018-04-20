@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1217
+Raw number of types: 553
+Raw Type token ratio: 0.45439605587510273
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags tags pollsters voters pollsters details polls pollsters datapollofpollsters readers forecasts junkies people polls pollsters nuts bolts numbers pollsters answers minutes respondents questions results questions respondents questions parts operations pollsters pollsters surveys panels vendors respondents members polls contractors pollsters people polls interviewers pollsters questions interviewers contractors pollsters banks calls offices pollsters interviewers interviewers women hours firms women pollsters details employees americans organizations staffers pollsters businesses arms interviewers minorities demographics minorities fields pollsters interviews respondents people pollsters people respondents numbers voters pollsters advantages people races voters politics voters pollsters companies voters models voters lists states pollsters questions languages pollsters hispanics services schools jobs views issues others answers pollsters interviews results questions pollsters lists ones politics pollsters questions voters people questions questions respondents options voters factors others pollsters voters respondents answers responses others pollsters numbers groups factors rates twothirds pollsters lists techniques costs pollsters clients costs people cellphones cellphones respondents pollsters questions banks pollsters predictions pollsters pollsters seats simulations seats pollsters races pollsters predictions reasons seats data data costs offers data staffs whereas data weights skeptics panels data republicans seats screens depends ages lists responses responses')
+
+('VBP', 'thank expect carvalho differ confirm know polls risks caveats democrats differ republicans know think know include include make earn sell online live dialect provide think make')
+
+('NN', 'promise outsource conduct conduct outsource work respond respond decide count answer percent graduate plenty barbara samesex marijuana registeredvoter voter likelyvoter half dial grumpy senate poll github github illustration joel plosz illustration joel election hardcore polling sausage detail poll candidate dozen database time survey time room report github college survey election reason poll work instance turnover rate panel month telephone gender training work phone monitor percent percent quality phone hour days3 work measure race staff percent half marketing smith university hampshire hampshire4 pollster staff pollster staff school pool pollster issue field interview work method phone random phone number region poll method time phone number random phone number person area stranger case columbus dispatch poll number information everyone idea quality college everyone survey poll tagalog language survey nothing percent answer percent language proportion pollster cost language place value health care education wage field research corporation marriage legalization difference history factor history inquire interest election someone question pollster relationship number accuracy question range likelihood number information example percent race percent limit limit response percent phone increase subgroup survey error importance percent borick response margin error figure quantity size poll margin error john anzalone anzalone research camp panel discussion marist carvalho margin error insight value quality research inference telephone cost senate race year number everyone interview complexity competitiveness industry election length survey email respondent week election business phone election something survey time percent senate attention response question blind call call vote vote measure vote vote vote vote count vote control control christopher spending grove mark nnps bialik muhlenberg vote marist election1 help make suggest explain handle assign percent geographical english hotbutton simple hispanic relevant godawful republicanheld plosz side sample registeredvoter interview respondent representative likelihood vote anyone percent expense business september abortion vote count release gender take tell employ contain stay decide consider weight mandarin weight weight weight liszt weight spending')
+
+('JJ', 'prolific diverse dial tricky sample online long2 borick minimum electorate estimate respondent outcome determine poll carl irrelevant certain expect borick remain make understand focused trained many political last third tuesday national much median full possible many many equal noninterviewing white white several diverse white many anonymous important difficult wellknown randomdigit different eligible local right likely efficient useful consistent english spanish chinese french german vietnamese korean much median individual spanish popular second spanish conservative many social consistent likely complex many simple final single demographic ethnic hispanic hispanic several underrepresented large additional familiar credible sophisticated expensive manageable typical many expensive illegal serious last personal first many common close surveymonkey arabic dicamillo average registeredvoter senate average average5 complete complete interpret certain answered know collect forecast provide stressed registered ranged compelled experimented registered likelihood')
+
+('VBG', 'polling consulting voting asking impending polling polling polling dialing voting weighting showing leading including completing outsourcing using interviewing polling building choosing deciding asking talking returning restricting polling interpreting predicting voting asking predicting screening using voting giving using weighting meaning increasing weighting declining sampling reporting polling charging charging increasing asking expecting occurring polling paying')
+
+('VBD', 'hung weight blew followed said kept checked predicted interested governmentprovided tapped fuck made cited asked asked asked asked answered asked predicted asked likelihood said took came said said said said said said said said said said said said said said said said said said said said')
+
+('VBZ', 'answer republicans responses gets doubles calls updates lives lists calls makes comes')
+
+('VB', 'take build count make know keep')
+
+('VBN', 'quantrelated added suggested converted taken registered completed based introduced opted based reserved compared asked asked shared called cited called automated made filed covered registered mailed made learned asked asked asked asked')
+
+('JJS', 'latest least least')
+
+('JJR', 'larger greater higher')
+
+Token analysis after pre-processing 
+Number of tokens: 813
+Number of types: 458
+Type token ratio: 0.5633456334563346
+

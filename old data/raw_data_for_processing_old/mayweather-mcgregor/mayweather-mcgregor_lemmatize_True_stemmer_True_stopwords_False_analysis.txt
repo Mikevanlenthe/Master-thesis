@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 804
+Raw number of types: 376
+Raw Type token ratio: 0.46766169154228854
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 406
+Number of types: 271
+Type token ratio: 0.6674876847290641
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'mayweathermcgregor fight emoji cri mehta oliv roeder rachael dottl file mayweath mcgregor github maymcg4x3 tmobil arena saturday night huddl world floyd mayweatherconor mcgregor fight roller coaster payperview technic problem push start anticip combat emerg month hype coupl mayweath start fight thi emoji punchlin play twitter percent mostus emoji tweet dure mayweathermcgregor broadcast sourc twitter stream twitter fight night pull tweet hashtag collect fightrel tweet contain emoji sampl emojinalysi peer review mostus emoji emoji face tear night chart roll thing fight sharpli peopl arena mcgregor fan hail flag worn capestyl code fan member money team money mayweath twitter loyalti match progress enthusiasm seemingli match fighter success surpris promayweath viewer round coupl quarter round underdog flag shamrock twitter thing slowli poundforpound boxer histori control debut outcom precis everyon money bag round matter time mayweath knockout mayweath viciou flurri punch step mayweath victor mcgregor somehow end mayweath leapt corner rope satisfi spectacl chief part especi heat result thi welcom view mayweath megafight manni pacquiao epic mayweathervsmcgregor macaela marin macaelamarin august dhrumil mehta journalist focus polit datadhrumil oliv roeder writer dottl journalist rachaeldottl')
+
+('VBD', 'told were were were held were were megafight fight were were fight partisan were loyal came went mcgregor were perhap took came came began were fivethirtyeight fivethirtyeight')
+
+('VBP', 'cri emoji contain includ appear seem have follow make predict seem go save user think have outcom cri laugh cri associ')
+
+('JJ', 'dhrumil peopl vega anxiou fight full final mcgregor seem hold final know collect monitor fightrel exampl clear small frontrunn unfold emojiwis averag affair major dublin irish dress other camp mani neutral first wash schedul irish win irish emoji sixth onli dismantl newcom ninth clear thereaft unleash declar further damag second observ declar other mcgregor finish appear question mani last cri databas fivethirtyeight senior rachael visual')
+
+('NNS', 'data minut emoji')
+
+('JJR', 'more more')
+
+('VBN', 'surpris been foot frustrat fight been')
+
+('VB', 'thrill make show fourminut turn')
+
+('JJS', 'biggest best most')
+
+('VBZ', 'thi')
+

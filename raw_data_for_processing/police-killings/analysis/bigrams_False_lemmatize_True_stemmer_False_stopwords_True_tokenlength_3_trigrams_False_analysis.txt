@@ -1,0 +1,43 @@
+Article: police-killings
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 841
+Raw number of types: 347
+Raw Type token ratio: 0.4126040428061831
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 396
+Number of types: 249
+Type token ratio: 0.6287878787878788
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, police, ben, casselman, get, github, github, scene, freddie, gray, goldman, makeshift, scene, freddie, gray, goldman, monday, database, police, start, year, database, entry, plan, police, deeply, building, medium, coverage, reader, submission, effort, encounter, police, call, information, age, sex, race1, detail, incident, data, set, address, place, colleague, reuben, census, tract, information, neighborhood, death, download, chance, build, work, information, income, census, thing, place, neighborhood, poorer, blacker, percent, place, census, tract, percent, term, household, quarter, majorityblack, population, population, life, majorityblack, database, percent, percent, inequality, area, rate, them5, number, death, michael, missouri, freddie, neighborhood, job, opportunity, protester, street, death, condition, cause, anger, police, example, vincent, cordaro, man, home, rockland, york, city, suburb, household, income, database, cordaro, news, report, family, shotgun, standoff, police, look, news, shephard, iii, example, shot, census, houston, household, income, police, traffic, stop, number, case, yield, result, mckenna, example, jail, fairfax, virginia, richest, census, country, word, number, caution, group, datacollection, effort, number, work, github, github, code, census, link, census, love')
+
+('VBD', 'killed, filed, arrested, arrested, flawed, set, opensourced, found, verified, took, converted, occurred, set, took, killed, died, died, occurred, limited, took, cited, saw, county, armed, died, threatened, killed, said, died, died, posted')
+
+('JJ', 'american, memorial, david, memorial, david, guardian, impressive, interactive, american, tuesday, guardian, official, statistic, guardian, fatal, reliable, guardian, possible, demographic, basic, guardian, address, demographic, economic, guardian, full, available, journalist, public, large, table, give, basic, clear, whole, bottom, income4, tract, percent, tract, black, american, likely, neighborhood, guardian, tract, overall, racial, lowincome, live, fit, narrative, ferguson, gray, poor, black, educational, economic, tactic, discriminatory, underlying, mean, fit, pattern, february, white, shot, new, york, new, median, guardian, sevenhour, incident, unarmed, black, shot, frank, tract, median, table, lived, strange, natasha, county, tract, guardian, tract, easy, statistic')
+
+('NNS', 'police, data, data, datapolicekillings, data, verifies, data, data, data, police, police, africanamericans, police, africanamericans, police, people, men, police, people, thanks, relies, data, data')
+
+('VBG', 'killing, going, killing, combining, reporting, killing, making, killing, killing, policing, killing, according')
+
+('VBP', 'makeshift, add, incident, look, give, tend, least, make, know')
+
+('VBN', 'launched, counted, killed, written, killed, crowdsourced, killed, killed, killed, killed, emerged, fled, based')
+
+('VBZ', 'includes, includes, allows, race2, tract3, happens, interpret, includes')
+
+('VB', 'take, say, take, happen, find')
+
+('JJS', 'poorest')
+

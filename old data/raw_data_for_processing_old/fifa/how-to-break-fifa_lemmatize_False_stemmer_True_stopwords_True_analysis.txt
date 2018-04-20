@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1750
+Raw number of types: 633
+Raw Type token ratio: 0.3617142857142857
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 719
+Number of types: 380
+Type token ratio: 0.5285118219749653
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'break silver file beauti game github datafifa headquart bozon show front organis head offic septemb meet committe presid sepp batter candidatur meanwhil condit attribut world qatar sebastien bozon photo credit bozon bunch fifa depart wednesday step fifa begin michel platini presid feder uefa countri sepp blatter fifa presid inde sinc world qatar world welloff nation consid includ presid footbal feder publicli blatter sinc indict threat potenti countri hand brazil unit state japan china soccer futur disproportion fifa fifa organiz structur bahrain vote power brazil distribut fund countri claim percent money sell world televis report exactli network world televis world cup1 howev reason estim lucr countri market world south detail world reach televis differ countri report world fifa quit size audienc countries2 fifa estim televis viewers3 countri countri percapita purchasingpow gdp4 dispos incom valuabl sponsor nation nation world reach china accord fifa viewer unit state slightli slightli belowaverag world viewership rel population5 larg wealthi popul make percent gdpweight audienc world japan percent china percent germani percent percent unit kingdom franc percent countri alon account half world audienc figur countri gdpweight audienc tabl download countri github share bodi popul world audienc gdpweight audienc concacaf japan conmebol itali franc russia spain korea indonesia mexico concacaf turkey thailand argentina conmebol netherland poland saudi arabia canada concacaf colombia conmebol venezuela conmebol south malaysia switzerland belgium uefa vietnam iran chile conmebol romania austria singapor portug uefa number continent confeder compar share member confeder countri member world play percent tournament contrast asia south measur measur popul argu thing represent countri squar fifa decis world qatar world colleagu carl bialik week fifa procedur suit interest plutocrat way favor assumpt purchasingpow pariti version use show wealth differ base offici exchang rate furthermor figur viewership world oppos club countri game cultiv world soccer talent player roster world percent play club countri club team fifa alreadi part winter world qatar club season fifa club player match requir mani countri break percent world audienc start countri interest russia extrem break fifa world presid vladimir putin respond indict accus tri derail blatter nation competit world use member foundat feder oecd includ russia economi includ germani franc itali spain unit state region japan australia latin america mexico chile member account percent world audienc percent clubteam represent world convinc brazil argentina join breakaway percent world audienc countri advanc knockout stage year world mass probabl pick whichev countri colombia fifa probabl probabl bluff premier leagu occur team england resign mass then104yearold take advantag favor deal chang rel seamless point view6 period club power break money motiv chang')
+
+('JJ', 'fifa nate fifa pictur fifa last formal fifa photo sebastien sebastien indict justic first corrupt thursday european footbal fifa inexplic footbal rogu organ african asian fifa uefa credibl european other leverag revenu current much equal proport much fifa quadrenni plural reliabl africa fifa publish wide audienc fifa list countri high els howev enough total brazil itali gdpweight percent countri global uefa brazil uefa uefa uefa uefa uefa south uefa uefa uefa africa uefa nigeria uefa sweden uefa uefa uefa fifa fifa african percent fifa audienc america uefa give first percapita estim second govern estim countri stark audienc footbal uefa relat european interrupt intern defect fifa uefa includ align particular unlik russian reelect european transcontinent rival oecd footbal larg european asiapacif korea oecd gdpweight last critic flee parallel format english divis footbal leagu meant english footbal institut hard sometim')
+
+('NNS', 'data data getti mandat bozonafpgetti getti mexico respons popul licens data data data wors data repres germani australia repres underrepres cours counterargu respons tens releas repres nigeria')
+
+('VBP', 'github imag head imag know reelect go econom bring give give make come fee come go reflect viewer make china greec africa fifa make make reflect footbal bring south reach zealand want')
+
+('NNP', 'zurich zurich')
+
+('VBZ', 'ebastien logo discuss fifa comprehens repres aggreg compens')
+
+('VBD', 'execut read said weight weight gdpweight gdpweight wrote gdpweight foothold gdpweight foundat')
+
+('JJR', 'less better wealthier better')
+
+('VB', 'quit develop follow take develop develop give happen develop requir need mean happen')
+
+('VBN', 'come')
+
+('JJS', 'least highest')
+

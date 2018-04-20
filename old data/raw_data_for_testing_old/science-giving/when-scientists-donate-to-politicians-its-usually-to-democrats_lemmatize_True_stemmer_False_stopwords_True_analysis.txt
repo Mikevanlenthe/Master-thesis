@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1698
+Raw number of types: 578
+Raw Type token ratio: 0.3404004711425206
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'scientist donate politician wieder campaign finance github github bill physicist bill clark roll call bill foster congress friend money illinois physicist accelerator laboratory scientist election fact congress year scientist engineer foster time analysis election commission pocket truth foster foster plan scientist supporter science mall washington street community world assert importance science policy field society march wake communication restriction president trump administration government scientist budget cut funding moment engagement community scientist begin year engineer candidate party percent candidate party committee analysis donation candidate committee party donor occupation discipline science science foundation scientist analysis analysis donation leadership committee group party donation amount inflation dollar decade community support candidate science house candidate support community bachelor science engineering analysis foster california democrat jerry mcnerney engineer doctorate amount scientist involvement holt eightterm member congress president association advancement science organization scientist world holt square think scope expertise worry ability perform work concern scientist science pure holt community contender scientist candidate contest barack obama list engineer campaign money election clinton year mitt romney year community cruz campaign president trump rus democrat scientist engineer candidate past decade cruz senate recipient scientist profession donation doctors2 time scientist engineer doctor lawyer data bureau labor doctor candidate party scientist lawyer cycle engineer period engagement community percent election incumbent cycle year congress member degree field house member member house senator research service foster congress member expertise point guidance deliberation iran deal example kind knowledge scientist bring decision face component naughton pennsylvania drug researcher scientist plunge race house nonprofit action goal office support community petition letter naughton group count strategist trippi board member training session scientist office group candidate session group candidate naughton fund support look party platform change stark difference naughton side line scientist scientist identify democrat research center survey association science member half giver community skew difference donor rest population giver center variation discipline difference engineer percent community preference candidate party democrat percent engineer candidate party group scientist percent decade percent money candidate group scientist adult slant survey survey year community activity march science issue something foster march speak event march grievance trump administration antiscience policy time caroline health researcher organizer march event washington thing credit administration')
+
+('VBZ', 'democrat includes elizabeth democrat support democrat')
+
+('VBD', 'filed decided gave took joked proposed donated fell excluded excluded affiliated background received raised said said said favored topped gave received scott served gave lawyers3 gave gave gave worked worked said provided specialized said started persuade said veteran held attended said said tended showed gave accounted went said said')
+
+('NNS', 'data data data politics data mathematics data github mathematics politics politics engineer texas massachusetts massachusetts politics politics politics felt politics politics people politics people')
+
+('VBG', 'datasciencegiving aspiring according going jointfundraising according funding thinking taking taking going taking according giving running giving according growing understanding signing considering according giving giving giving leaning according finding acting giving')
+
+('JJ', 'democrat illinois former many politician former fermi national many continued subsequent federal scientific saturday national protest american detrimental federal scientific unprecedented political scientific length scientist federal democratic political individual selfidentified national social purpose independent political particular scientific willingness scientific degree abstain political rush former american professional scientist avoid political public overblown dirty tell scientific presidential beneficiary democratic presidential scientist hillary unsuccessful last republican last scientific generous texas warren feingold support senate warren feingold brown hampshire republican active political le selfidentified many recent statistic percent political scientist entire increased scientific political last presidential democratic scientist foster doctoral scientific scientists4 engineers5 congressional scientific technical fellow politician nuclear significant technological shaughnessy former political scientist financial scientific electoral democratic washington prospective democratic separate republican climate pick many american advancement describe liberal liberal political scientific democratic political political responsive republican overall scientific responsible overall scientific democratic percent republican republican le total past democratic political twothirds american scientist ideological consistent scientific political partisan organizer nonpartisan invite politician particular side long recent much')
+
+('VBN', 'asked raised selfidentified organized imposed described given considered identified candidateaffiliated adjusted shown received received raised lost skewed lost called involved explained found increased chosen enacted')
+
+('VBP', 'democrat friend give deep join take show engineering1 go think donate obama geologist wisconsinite find want naughton provide think need say hope donate account think worry saturday make worry weinberg')
+
+('VB', 'candidate keep find affect come take establish politicize emphasize go')
+
+('JJS', 'least secondlargest largest biggest')
+
+('JJR', 'higher smaller')
+
+Token analysis after pre-processing 
+Number of tokens: 803
+Number of types: 420
+Type token ratio: 0.523038605230386
+

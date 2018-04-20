@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1365
+Raw number of types: 337
+Raw Type token ratio: 0.2468864468864469
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags points winners people faiths data datapewreligions religions states deaths factors religions members members religions followers people faiths data religions people rates factors religions converts trends conclusions americans respondents americans members americans americans christians points swings data denominations numbers denominations people numbers groups followers people people members people religions religions trends members ones factors conversions factors demographics denominations groups protestants catholics evangelicals sects people catholics protestants people rates people evangelicals people evangelicals protestants congregations protestants religions numbers religions members denominations rates kids children gains deconversions protestants mormons children models reveals traditions attractors people protestants members members mormons catholics losers children people people digits data gainers protestants disciples nations converts rates protestants rates religions data data amounts excludes reveals changes patterns data data shifts unaffiliateds muslims odds evangelicals births unaffiliateds faiths unaffiliateds catholics diminishes protestants americans')
+
+('VBP', 'grow wind faiths3 account churn data data equilibrium emerges')
+
+('VB', 'shrink lose settle lose take')
+
+('NN', 'change tell gain gain wind today mainline faith today mainline religion github github baptism immigration report research center chance detail look tape rise model projection landscape study practice tradition group religion percent household percent adulthood share percentage percent birth percent table help story loss place fact chance percent percent half percent share percentage population contrast church group survey distribution equilibrium extension kind analysis chance factor change recruitment retention immigration model github today distribution ground percent percent percent percent equilibrium redistribution percent percent share population percent percent model tradition percent retention percent percent attractor conversion percent wind percent flow mainline favor percent wind percent mainline model multiplier effect play conversion fertility member church share population share church tomorrow fertility childbirth equilibrium state model change religion portion population equilibrium fertility fertility hindu protestant jehovah witness mainline protestant mormon muslim ground conversion model churn share fertility rate replacement woman problem fertility fertility rate woman fertility model pack attractor share conversion range correction version article fertility measure gain calculate check wind drop twelve increase represent born account change catholic worth protestant middle start buddhist wind wind gain held')
+
+('JJ', 'lose persistent present orthodox christian rodrigo pull population faith tags unaffiliateds adults faiths faiths evangelical many recent current potential present logical religious current religious unaffiliated religious unaffiliated whole present dramatic additional current whole attractive large small different unaffiliated unaffiliated catholic catholic large third catholic possible nonchristian steady demographic logical present normal religious doctrinal steady religious stable present christian little present substantial christian evangelical current christian catholic evangelical evangelical evangelical relative different different current catholic evangelical black jewish religious current strong evangelical strong single clear evangelical high wide previous evangelical second unaffiliateds unaffiliateds unaffiliateds faiths unaffiliateds libresco future mainline unaffiliated factored replenish used united unaffiliated skewed dropped')
+
+('JJS', 'thirdhighest biggest best highest biggest biggest')
+
+('VBZ', 'describe offers drives loses makes gives comes makes makes')
+
+('VBN', 'oldfashioned born raised gained reported presented raised compared raised born tilted raised taken surveyed found highlighted collected raised raised lost lost born')
+
+('VBG', 'fastforwarding gaining losing recruiting switching exerting taking looking staying staying according including gaining gaining losing holding leaving according becoming increasing factoring comparing changing creating converting retaining leaving succeeding making drawing')
+
+('VBD', 'gained whittled asked filed kept went said')
+
+('JJR', 'easier fewer bigger stronger')
+
+Token analysis after pre-processing 
+Number of tokens: 521
+Number of types: 269
+Type token ratio: 0.5163147792706334
+

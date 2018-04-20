@@ -1,0 +1,41 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1475
+Raw number of types: 503
+Raw Type token ratio: 0.3410169491525424
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 659
+Number of types: 326
+Type token ratio: 0.4946889226100152
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'republican right testimoni hear senat right testimoni hear getti long young offic strong much recent collect foundat congress whole averag current close high obama offic republican offic republican elect widen current republican huge incumb first averag previou first newli serv republican young partisan young recent democrat come mani american partisan parti soft rel narrow usual evennumb unlik underli candid seek polit strong social american partisan lean roughli republican label partisan strong strong republican american strong partisan strong frequenc increas top strong increas soft partisan american affili major strong strong republican candid present social serv sinc social actuari nonagenarian actual republican reagan sinc strong republican strong georg actual increas american strong activ social ask american strong knew great polit strong young uninterest polit wall full young skeptic major parti high unpopular second sinc american major presidenti late young partisan wall american necessarili major polit activ sinc offic full american')
+
+('NN', 'democrat problem nate silver dhrumil mehta file github github datacongressag senat judiciari committe member orrin hatch chuck grassley patrick leahi diann feinstein chip somodevilla judiciari committe member chuck grassley patrick leahi diann feinstein mark wilson imag york time month claim presid barack obama littl inspir peopl articl report statist evid simpl question congress trend year congress mayb varieti sourc includ govtracku york time member congress sinc post compil peopl popul member congress year term alltim year congress contrast averag januari bill clinton ronald reagan democrat congress year democrat congression term congress contract previou congress obama rel youth year number seat member congress replac serv time congress year le year member congress averag member congress democrat measur democrat serv time congress year term evid counterintuit democrat parti voter prefer elector year voter favor democrat obama voter percentag point howev congress vote presid closet label independ weakli affili parti count vote time scope polit vote year sometim news donat campaign volunt interest issu anyth marriag parti contrast peopl feder offic definit deepli support parti agenda order heterodox view survey conduct period sinc provid view collect date democrat congress survey number way independ disposit democrat turn identifi percent age identifi democrat sampl percent age tendenc identifi republican slope curv littl flatter contrast number identifi parti democrat approxim pool congression drawn data date aggreg year gener survey presid time gener survey group respond bucket use tabl estim voter follow vshape pattern becam significantli georg bush compar richard nixon gerald ford averag year version survey democrat steadier year presid bush howev year identifi interest polit gener survey inform polit describ democrat quit deal year averag republican year import result impli peopl polit affair movement rang paul campaign street push peopl howev role play disapprov rate congress record georg bush term rate feel parti serv interest year peopl interest organ polit activ banner street group gener identifi democrat parti particip becom obama question viciou cycl congress peopl interest')
+
+('NNS', 'data data listen getti listen wors data data america repres partisan immers data decreas data partisan underwat instanc')
+
+('VBD', 'left charl left charl sunlight came took sinc came serv began weakli rang said said left took')
+
+('JJR', 'schumer schumer younger older better consider older older younger older older younger older older better older younger older older younger younger younger')
+
+('VBP', 'imag elect get obama start older wave reflect correct start prefer random engag follow partisan need gener frame averag differ averag take emphas remain rest le')
+
+('VBN', 'done subset polit given grown made seen')
+
+('VB', 'gotten think take seem mistak think take respond approv vote becom serv')
+
+('VBZ', 'repres')
+

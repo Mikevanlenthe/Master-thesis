@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 2593
+Raw number of types: 637
+Raw Type token ratio: 0.24566139606633244
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags metallica consumers channel plays beatles classic played grow shocked stations decades images bands weeks colleagues roses data kinds people data states areas songs artists stations ways angeles times brothers times years songs songs songs songs exceptions kinks songs plays houses accounts listings releases groups matters factors stations data years things stations decisions resources studies markets listeners days songs hooks parts data stations people consumers songs stations artists stones spins stations bands stations musicians artists songs eagles preferences stations listeners songs listeners states hispanics markets states stations yorkers preferences cities stations legacies geils beatles cities stations stations companies stations decades startups services recommendations artists genres stations interviews tests artists artists artists data collects histories machines charts posts articles entries points webcrawlers histories qualities songs dimensions genres dimensions beats imperfections beats things economics boomers xers years things advertisers numbers hits songs listens experiences starts fits reveals changes prefers belongs conducts finds plays demonstrates finds plays changes orbits relies sees agrees')
+
+('VBP', 'rock rest pink wave band longevity rock artist mcdonald footnote incorrect find listen think think tend know make make prefer decide find find read guns data plays joel staples plays artists data likes waxq detroit data data relationships reviews inputs strokes shows')
+
+('JJ', 'hickey osbourne fairness floyd genre wellman simple rest petty wellman wellman offense spotify algorithm math universe spare mimic demographic choose hear live tend change read read classic green classic different classic nirvana classic many green american classic classic classic massive classic tricky classic different internet deep current classic united classic substantial unique unique total classic certain classic unexpected popular classic able complete able early large early classic huge classic small green last actual last classic classic classic classic clear classic regular major classic familiar whole classic classic classic classic classic essential classic classic next classic massive southern united common conventional classic local regional classic classic contemporary institutional dead fireable worth digitalnative classic huge different clear universe classic different much relational similar musical echo different acoustic electric atmospheric particular electronic classic classic actual minor human unmechanical dead clear classic hard next classic eventual next classic classic classic coded peaked looked hear eric find specialize classic extrapolate read know detect happen chase related played focused interpreted users entails dark yellow nest')
+
+('NN', 'music zeppelin right rock radio music zeppelin rock child rock idiot rock station time band rock anyone music period time moment rock station rock amount collection analysis algorithms question band intention rock sort something band house part music business rock target music banner music radio service problem connection music state rock rock radio stations1 country week june2 result list record song rock music york amount example antonio mtley rock region example band country boston allman rock timeline release music database songfactscom coverage accurate release year percent percent song plays3 date majority booker number rock song year release side moon album rock john brick road5 trend rest period percent song trickle music onward trickle song article year dent rock song rock popularity longevity sound bunch rock wellman rock brand manager channel radio director york rock station waxq wellman release nothing rock ability genre fact radio selection wellman radio company consumer standard industry music test music test sample rate song cluster music core rock rock wellman rock radio observation period halen account half rock percent percent song rock core cool rock cooler station country definition city list city pack york percent heck tampa wxgl station character audience rock amount market research example south rock immigration role influx rock landscape wisdom rock brand rock influence migration role joel york country miami rock miami city artist rock station rock click image rock philadelphia style rock band history knowledge nope role song wellman magic6 collection analysis radio rock part work core methodology center rock floyd center radio music glenn charge genre start math rest center order genre mcdonald mountain news anything example artist point space mcdonald point point genre cluster form addition musicanalysis software genre tempo energy loudness danceability song dense bouncy music range minute rock rock mcdonald range tempo drum machine person drum tempo drum machine timing giveaway wellman rock genre rock steel direction time waxq tomorrow wellman baby advertising rock correction version story call rock station houston rock rock playlist genre make consider stand figure walt getty mtley ozzy classic techno metropolitan disproportionate pearl vast classic song online auditorium hispanic englishlanguage englishlanguage echo song echo echo universe echo close finite echo mcdonald channel july fivethirtyeight found held spoke wonder define gather quantify change move stay understand figure play find favor radio play generate pick define figure define start skew kkrw listen zeppelin kglk goodbye least wider')
+
+('JJR', 'answer consider bigger larger older broader younger')
+
+('VBG', 'streaming cleaning programming playing challenging whopping rolling songpicking shocking hearing hearing figuring becoming figuring identifying moving solving operating depending playing playing using helping saying comparing going according listening ruining reaching streaming defining placing talking developing using listening showing listening evaluating changing going')
+
+('NNP', 'zeppelin zeppelin zeppelin mcdonald')
+
+('VBZ', 'holy bands tastes artists uses turns happens looks plays makes owns makes makes shows looks appears comes uses goes happens looks makes')
+
+('VB', 'rock spotify find')
+
+('VBD', 'slew played read grew monitored pulled appeared inspired said said said said said said said said said said said said monitored left referred lumped played defined')
+
+('JJS', 'nest nest nest largest earliest')
+
+('VBN', 'read mostplayed mostplayed retired mostplayed used doubted made made played decided sophisticated listed come filed played made influenced listed considered released considered based given based studied played informed owned used based complicated allowed painted powered based')
+
+Token analysis after pre-processing 
+Number of tokens: 926
+Number of types: 518
+Type token ratio: 0.5593952483801296
+

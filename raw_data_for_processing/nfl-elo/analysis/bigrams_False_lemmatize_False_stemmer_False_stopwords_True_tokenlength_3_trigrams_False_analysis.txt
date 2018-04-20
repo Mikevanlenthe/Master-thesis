@@ -1,0 +1,48 @@
+Article: nfl-elo
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 960
+Raw number of types: 399
+Raw Type token ratio: 0.415625
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 497
+Number of types: 308
+Type token ratio: 0.6197183098591549
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'rate, team, method, elo, measure, strength, gamebygame, game, league, history, team, rating, average, league, expansion, rating, methodology, game, bowl, league, bowl, era, football, league, football, professional, football, association, allamerica, football, conference, football, history, team, zoom, history, professional, football, franciscos, run, history, england, bowl, win, season, calculate, dynasty, count, elo, rating, stretch, league, history, francisco, elo, average, elo, rating, time, start, season, childhood, tom, bill, project, history, dallas, team, football, record, season, reason, trade, cowboys, bowl, herschel, walker, minnesota, exchange, bevy, emmitt, smith, safety, tackle, russell, walker, history, payoff, wasnt, season, bottoming, elo, rating, bowl, season, rating, championship, game, gain, time, history, anyone, bay, team, bowl, era, merger, teams, existence, reminder, longevity, football, chance, bay, wisconsin, chicago, super, bowl, era, peak, elo, season, team, success, peak, brett, championship, season, bowl, bay, figure, aaron, team, start, history, didnt, wait, success, year, bowl, perfect, record, team, history, year, miami, title, game, team, resurgence, bowl, curve, team, creation, elo, rating, week, season, afc, championship, game, revival, decade')
+
+('NNS', 'decades, results, ratings, ratings, teams, results, championships, titles, winners, games, patriots, stretches, seasons, playoffs, times, games, times, championships, patriots, 49ers, cowboys, cowboys, fans, players, picks, darren, contributors, yards, seasons, vikings, deals, cowboys, theyd, playoffs, years, titles, cowboys, points, years, packers, packers, theres, bears, titles, packers, rodgers, dolphins, dolphins, fans, dolphins, dolphins, seasons, championships, heights, losses, ways, jaguars, jaguars, years')
+
+('VBP', 'play, start, profootballreferencecom, include, super, super, woodson, maryland, dallas, make, win, championships, pro, slate, peak, miami, super, lesser, title')
+
+('JJ', 'simple, elo, total, elo, average, nfl, league, read, super, pro, national, american, league, american, defunct, pro, choose, favorite, entire, san, incredible, new, last, become, nfl, patriots, average, belong, san, san, franciscos, born, nfls, entire, brady, arent, oct, werent, much, optimistic, pro, defensive, huge, full, lopsided, nfl, immediate, super, elo, january, green, good, long, green, super, nfls, green, franchise, modern, january, squad, nfc, green, early, nfl, next, peak, complete, high, miamis, historical, comparable, jacksonville, florida, peaked, lose, brief')
+
+('VBN', 'based, set, selected, returned')
+
+('VBD', 'calculated, expanded, played, tried, made, racked, sent, led, became, surpassed, finished, cared, dominated, came, captured, emerged, came, favreled, matched, led, joined, made, reached, led, went')
+
+('JJR', 'higher, lower, answer, super, super')
+
+('VBG', 'depending, including, excluding, seasonending, rebuilding, coming, giving, running, drafting, running, following, living, reaching, edging, winning, winning, hitting, thrashing, hitting')
+
+('VBZ', 'wins, franchises, depends, cowboys, carries')
+
+('JJS', 'least, greatest, best, best, highest, best, least, worst')
+
+('VB', 'peak, belichick, gotten')
+

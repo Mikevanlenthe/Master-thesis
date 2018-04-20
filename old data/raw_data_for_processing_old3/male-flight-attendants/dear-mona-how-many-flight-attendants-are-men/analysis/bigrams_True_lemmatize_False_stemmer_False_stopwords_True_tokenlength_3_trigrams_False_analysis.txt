@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 846
+Raw number of types: 360
+Raw Type token ratio: 0.425531914893617
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 962
+Number of types: 777
+Type token ratio: 0.8076923076923077
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'oct flight hope data pilot flight attendant airline passenger choice flight chicago april dear flight jack lincolnwood illinois jack history aviation male flight thousand kind question number flight fallen guess percentage flight look story percent flight figure percent gender employment percent census bureau population center multitude share flight today age flight cabin crew time percentage age flight change university flight group share airline recruitment reason change age race emergency percent flight airline sector look job transportation percent male flight attendant transport kind grasp percent sector male gender split population center database job category flight split percent percent male support percent male percent male list phrase percent percent percent list share piece jack flight number worker hope question send dearmona fivethirtyeightcom datalab538 dear,mona mona,how many,flight mona,chalabi filed,under under,hope hope,the data,github github,github github,data john,siefer siefer,right furloughed,pilot flight,attendant attendant,for major,airline her,choice chicago,april mona,are male,flight jack,lincolnwood lincolnwood,illinois dear,jack far,back back,the the,history history,aviation the,latest there,are male,flight but,few few,thousand fewer,than but,raw kind,useless your,question female,flight risen,since fallen,since the,percentage when,look different,story percent,flight that,figure figure,has risen,since since,then percent,meanwhile meanwhile,the the,overall overall,gender gender,split split,employment male,2012 the,past past,three according,census census,bureau bureau,data minnesota,population population,center prior,2000 available,every the,change before,then greater,share share,all one,them men,than than,older entered,and the,cabin increased,their their,overall overall,percentage between,1980 and,2007 median,age age,all the,past texas,university become,less less,white white,with with,black black,and making,bigger bigger,share share,they forced,airline their,recruitment important,reason the,change change,and gender,age age,and and,race race,the the,people the,emergency homogenous,percent percent,all the,airline airline,sector peculiar,once once,look look,all the,same job,category public,transportation male,all unusual,transport hard,grasp grasp,just just,how percent,the the,sector sector,male making,broader the,gender gender,split split,all listed,the the,minnesota minnesota,population population,center center,database database,the the,job job,category its,gender gender,split percent,whom whom,are administrative,support male,and percent,male male,those the,top top,the the,list list,but but,they the,most most,female jobs,the the,for want,better better,phrase just,percent percent,kindergarten other,extreme percent,the full,list their,male male,share the,bottom bottom,this this,piece piece,jack jack,you many,male male,flight you,might might,also keep,mental encounter,because because,this this,data much,rarer american,worker worker,hope hope,the have,question question,you would,like send,dearmona dearmona,fivethirtyeightcom fivethirtyeightcom,datalab538')
+
+('JJ', 'dear many right major male back available american raw useless female interested different male overall male minnesota prior available steady likely overall median past white black hispanic civil important homogenous white peculiar category public clear unusual hard unusual minnesota similar administrative top female dental kindergarten titled full male bottom many male mental male breed american answered how,many attendants,are get,the working,flight for,major passenger,her over,chicago more,male illinois,dear how,far see,the latest,available from,2012 american,male that,three were,1980 answering,your because,the number,female also,risen and,fallen whether,the attendants,who used,when slightly,different male,that were,male over,the compiled,the the,minnesota center,prior only,available why,the looks,steady there,are are,multitude attendants,are even,1980 younger,flight likely,men stayed,the crew,over time,they percentage,between the,median not,the over,the sociologists,texas attendants,group and,hispanic that,forced expand,their for,the despite,those pointing,you toward,the relatively,homogenous attendants,are are,white makes,the slightly,peculiar industries,the same,job category,public percent,male that,flight flight,attendant are,unusual kind,hard how,unusual looked,the resembles,flight other,similar percent,male male,administrative jobs,234 percent,male closer,the means,the dominated,jobs for,want phrase,just percent,dental and,percent the,other drillers,earth earth,are see,the the,full and,their share,the how,many see,you tally,the number,male those,are are,much breed,american here,send')
+
+('NNS', 'attendants men chalabi numbers data github datamaleflightattendants offers beverages attendants personnel numbers attendants times numbers attendants attendants men attendants workers decades data figures years reasons attendants men attendants men ones men attendants years attendants employees rights laws companies preferences changes people exits attendants women industries attendants inspectors races demographics standards comparisons occupations resembles attendants terms interviewers surveyors men roles teachers jobs dressmakers roles jobs hygienists teachers men boilermakers drillers men occupations attendants hairdressers typists data shows numbers flight,attendants are,men the,numbers the,data data,datamaleflightattendants airline,offers choice,beverages dear,mona flight,attendants aviation,personnel available,numbers flight,attendants three,times raw,numbers flight,attendants flight,attendants are,men story,emerges flight,attendants percent,workers the,figures every,years change,looks multitude,reasons flight,attendants are,men flight,attendants older,ones that,men flight,attendants rose,from past,years flight,attendants hispanic,employees cited,1960s civil,rights airline,companies recruitment,preferences those,changes emergency,exits flight,attendants white,women transportation,attendants and,inspectors all,races attendant,demographics transport,standards broader,comparisons most,resembles flight,attendants terms,its split,interviewers interviewers,enumerators and,surveyors similar,roles are,teachers and,dressmakers and,seamstresses those,roles dental,hygienists kindergarten,teachers are,men percent,boilermakers titled,drillers are,men list,occupations flight,attendants male,receptionists receptionists,hairdressers and,typists data,shows the,numbers help,mona')
+
+('VBP', 'mona help github john dear see show risen change texas become expand gender gender enumerators want percent extreme earth see help men,mona numbers,help datamaleflightattendants,john offers,passenger attendants,than depends,how personnel,see numbers,from more,than numbers,are attendants,has who,are higher,than emerges,1980 were,male years,which which,why reasons,why men,today were,more that,not only,change change,have group,have rights,laws companies,expand preferences,important reason,for changes,gender exits,are that,makes attendants,and inspectors,406 races,clear demographics,are standards,but comparisons,that enumerators,and only,241 roles,are teachers,239 dressmakers,and seamstresses,246 hygienists,and teachers,are men,the boilermakers,and men,see occupations,and attendants,you you,see also,keep hairdressers,and typists,you shows,those numbers,help mona,have you,would')
+
+('VBN', 'filed furloughed used used risen fallen stayed listed dominated chalabi,filed there,used has,also really,interested than,used has,risen steadily,fallen have,entered gradually,increased have,occurred have,become like,answered')
+
+('VB', 'get siefer closer see keep mona like help,get today,one probably,age could,that men,have attendants,rose')
+
+('VBG', 'working answering according making pointing making pilot,working useless,answering decades,according employees,making people,pointing without,making')
+
+('VBZ', 'depends percentages emerges looks sociologists makes seamstresses means receptionists jack,depends are,25268 were,2009 look,percentages then,242 employment,527 years,sociologists all,industries all,320 attendants,terms they,means')
+
+('JJS', 'latest')
+
+('JJR', 'fewer greater younger older bigger broader better rarer thousand,fewer why,greater men,other you,encounter')
+
+('VBD', 'split compiled entered increased rose occurred pointed cited forced looked intrigued oct,2014 right,furloughed beverages,flight april,1972 since,1980 since,2009 what,you percentage,flight data,compiled all,flight presumably,stayed cabin,crew all,flight university,pointed they,cited all,flight that,percent that,looked occupations,listed that,most support,jobs roles,might female,dominated extreme,998 bizarrely,titled you,intrigued rarer,breed')
+
+('NNP', 'the,number the,number')
+

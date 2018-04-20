@@ -1,0 +1,25 @@
+Token analysis before pre-processing 
+Raw number of tokens: 42
+Raw number of types: 42
+Raw Type token ratio: 1.0
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'rate film movi imdb peopl inconveni sequel look vote woman chang user feel power dinner ghost night woman sand planet')
+
+('NNS', 'climat data')
+
+('VBP', 'make')
+
+('VB', 'review come kill')
+
+Token analysis after pre-processing 
+Number of tokens: 26
+Number of types: 25
+Type token ratio: 0.9615384615384616
+

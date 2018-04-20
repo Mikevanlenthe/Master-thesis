@@ -1,0 +1,48 @@
+Article: flying-etiquette-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 863
+Raw number of types: 332
+Raw Type token ratio: 0.3847045191193511
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 382
+Number of types: 222
+Type token ratio: 0.581151832460733
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'sep, percent, seat, walt, hickey, etiquette, get, github, github, dataflyingetiquettesurvey, june, vincenzo, pinto, afp, getty, couple, air, surprise, undertaking, room, cranky, anything, contract, source, strife, ran, audience, poll, aug, air, let, question, percent, percent, recline, half, time, percent, half, time, percent, seat, flight, percent, option, recline, percent, rest, obligation, person, passenger, seat, intent, percent, wake, neighbor, use, bathroom, stretch, someone, slumber, impolite, ask, switch, buddy, flight, percent, lot, percent, plane, baby, plane, control, arm, person, seat, person, window, percent, row, person, arm, arm, rest, window, percent, child, fortytwo, percent, person, seat, control, percent, thought, everyone, shade, status, percent, violation, direction, flight, question, opportunity, break, github')
+
+('NNS', 'fliers, data, data, passengers, images, weeks, confrontations, travelers, seats, people, skies, people, people, passengers, respondents, seats, respondents, respondents, respondents, respondents, people, seats, people, passengers, people, behaviors, flights, actions, respondents, legs, seats, people, folks, children, passengers, babies, people, responses, questions, kids, children, parents, children, people, kids, passengers, children, times, people, kids, rests, answers, questions, rests, controls, questions, fliers, seats, rests, respondents, fascists, sadists, people, seats, rests, socialists, responses, respondents, respondents, electronics, attendants, people, bathrooms, respondents, responses, data')
+
+('VBP', 'think, plane, come, recipe, disagree, find, consider, cool, recline, bit, flights, recline, determine, rude, rude, leave, need, rude, rude, consider, window, shade, america, ten, think, aisle, get, percent, think, say, take, find')
+
+('JJ', 'rude, recline, past, spate, much, stressful, pressurized, full, social, nebulous, potential, rude, rude, surveymonkey, flown, percent, percent, half, half, impasse, rude, recline, asks, common, rude, rude, rude, super, relative, many, unruly, charitable, unruly, percent, likely, rude, middle, obvious, correct, middle, arm, middle, arm, percent, first, percent, arm, window, full, personal, ageold, raw')
+
+('VBN', 'filed, seen, involved, considered, asked, interpreted, considered, considered, compared, screwed, shared, admitted, smoked')
+
+('VBG', 'reclining, flying, quibbling, flying, reclining, aggravating, waking, trying, disturbing, moving, bringing, whopping, bringing, bringing, landing, settling')
+
+('VB', 'become, tackle, recline, recline, eliminate')
+
+('VBD', 'cramped, asked, split, thought, said, said, said, thought, surprised, thought, depended, thought, asked, said, seated, got, said, responded, wrote, acknowledged, shade, used, smoke')
+
+('JJR', 'flier, passenger, younger')
+
+('VBZ', 'gets, puts, gets')
+
+('JJS', 'largest, youngest')
+

@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 702
+Raw number of types: 330
+Raw Type token ratio: 0.4700854700854701
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 501
+Number of types: 422
+Type token ratio: 0.8423153692614771
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'america hickey github github datathanksgiving2015 turkey sonoma california justin sullivan getty consumption point santa claus float parade christmas music radio nation audience cursory turkey poultry check region southeast cranberry sauce region percent variety region versus percent country percent dinner nation southeast percent region versus percent country england percent table percent nation pursuit gronk endorse squash something region americas america apple england america potato nation variation percent family ditch party dinner school percent facebook thanksgiving,hickey github,github github,datathanksgiving2015 datathanksgiving2015,turkey turkey,willie willie,sonoma sonoma,california california,justin justin,sullivan celebrate,about welcoming,foreign media,consumption santa,claus claus,float thanksgiving,parade third,christmas music,radio radio,least apart,holiday carve,nation surveymonday,audience roast,cursory their,poultry poultry,check consumed,region deeper,southeast southeast,definitive cranberry,sauce respondents,region region,percent homemade,variety variety,middle percent,region region,versus versus,percent percent,nationwide central,southern necessary,country country,percent having,dinner percent,nation cheese,percent respondents,region their,thanksgiving thanksgiving,versus versus,percent percent,country country,overall meanwhile,england squash,percent demanding,their compared,percent percent,nation whole,pursuit pursuit,gronk gronk,endorse endorse,squash something,about dessert,every every,region pumpkin,beyond three,americas americas,america apple,england atlantic,america pecan,sweet sweet,potato midwest,still still,after dessert,nation little,variation would,black black,friday thanksgiving,great ditch,party after,dinner dinner,school might,worth checking,facebook facebook,ahead doing,download download,yourself')
+
+('VBG', 'thanksgiving thanksgiving welcoming finding thanksgiving thanksgiving thanksgiving thanksgiving saying going having losing demanding confusing buying thanksgiving checking doing america,thanksgiving images,thanksgiving about,welcoming midst,finding float,thanksgiving right,thanksgiving things,bring about,thanksgiving shoutouts,thanksgiving respondents,saying region,going regions,having england,losing percent,demanding whole,confusing confusing,finding squash,something traditions,buying sales,thanksgiving worth,checking associates,doing')
+
+('VBN', 'filed canned compared compared')
+
+('NNS', 'images thanks refugees shores media games others canadians plans commemorates turkeys things factions traditions respondents shoutouts dishes rules respondents dishes distinctions respondents states states respondents regions prefers carbs respondents consumes traditions regions respondents sales friends respondents getty,images thanksgiving,thanks foreign,refugees american,shores three,games games,others secret,canadians finding,plans parade,commemorates least,turkeys spirit,things nation,factions thanksgiving,traditions traditions,respondents cursory,shoutouts thanksgiving,dishes turkey,rules percent,respondents check,dishes regional,distinctions sauce,respondents atlantic,states southern,states percent,respondents those,regions southeast,prefers percent,respondents america,consumes nation,unites american,traditions among,regions percent,respondents school,friends percent,respondents')
+
+('VBP', 'celebrate identify midst start bring bargainbin chicken percent centerpiece cauliflower cornbread include cherry leave leave thanks,celebrate shores,again others,identify canadians,midst plans,point commemorates,start turkeys,cheap really,about factions,bargainbin respondents,chicken white,centerpiece disproportionately,cauliflower states,cornbread respondents,those prefers,their region,include consumes,cherry respondents,would great,leave early,leave')
+
+('JJ', 'foreign american secret third spirit holiday surveymonday roast other other white regional consumed definitive atlantic percent texas central southern necessary percent cheese thanksgiving overall squash whole finding whole dessert pumpkin pecan sweet america dessert american little solid black friday great little early early thirtyseven under,github sullivan,getty refugees,american again,media parade,three identify,secret where,santa start,third christmas,music cheap,right about,spirit together,apart where,surveymonday chicken,roast dishes,turkey rules,percent other,white centerpiece,their though,regional disproportionately,consumed going,deeper canned,cranberry middle,atlantic cauliflower,percent while,texas texas,central cornbread,necessary compared,percent their,carbs carbs,cheese include,their losing,squash their,table table,compared finding,whole about,dessert enjoys,pumpkin there,three disproportionately,apple england,middle middle,atlantic america,pecan south,america after,dessert around,american buying,little regions,solid solid,percent behind,little another,ditch friends,thirtyseven thirtyseven,percent ahead,which')
+
+('VBD', 'parade homemade assorted hickey,filed consumption,parade definitive,canned likely,homemade dinner,compared potato,assorted respondents,might')
+
+('JJS', 'least midwest cherry,midwest')
+
+('VB', 'carve worth download holiday,carve family,behind')
+
+('JJR', 'deeper filed,under leave,after')
+
+('NNP', 'middle middle atlantic')
+
+('VBZ', 'enjoys unites associates region,enjoys friday,sales which,associates')
+

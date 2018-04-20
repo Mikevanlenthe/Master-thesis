@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3976
+Raw number of types: 1056
+Raw Type token ratio: 0.2655935613682093
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1580
+Number of types: 749
+Type token ratio: 0.4740506329113924
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'gore movie flaw movie rating walt dhrumil mehta movie github github datainconvenientsequel sequel truth power film year mean content sequel academy climate change inconvenient truth movie film reception sequel polarizing title year gore climate change film woman critic fan movie rating movie aggregate rating division case study weakness online rating system mediocre weakness work start chart film rating distribution pantheon sequel film inconvenient sequel godfather part part point documentarian time climate change film internet reception imdb user film august2 percent film imdb user percent film percent movie score abnormality imdb rating distribution featurelength film score rating imdb climate change genocide user inconvenient sequel rating dist votes▲▼ polarization inconvenient sequel truth power ottoman emoji movie case christ purpose wimpy kid crestview academy bitter harvest girl trip detroit fifty shade darker voodoo megan shack eyez hour book henry nobody trial press transformer knight beatriz dinner dinner ghost story come night hunter prayer journey west demon strike everything rough night latin lover wish wind river captain movie dunkirk annabelle creation baywatch wonder woman kill beauty beast dark tower heath ledger wife smurfs village kidnap body soul wall icarus jessica phoenix forgotten drone fate logan car return xander cage sandy wexler bokeh viceroy house tell tale burning sand power ranger house john wick chapter spiderman pilgrimage blonde planet ape song song city planet word meter bos baby eloise baby driver side hope casting jonbenet chip guardian galaxy ring woman america time venice fist fight fall okja sense space roger stone voice stone alien covenant crime mummy butterfly cousin rachel sleepless city aftermath circle nighter ghost shell sand castle iboy life berlin syndrome bone wilson skull island take machine style lego batman movie trainspotting table discovery feel home world vote share rating difference polarization score formula esteban number score distribution score meaning percent percent source imdb film imdb user movie ottoman lieutenant controversy genocide extreme score polarization3 vote sequel split film reception inconvenient sequel audience movie woman film fault line moviegoer inconvenient sequel wouldn think movie breakin boogaloo climate fault line audience alltoocommon criticversusfan dance preexisting work fiction step critic step fan work film something fan downplay review film place office movie chris pratt flick critic critique fan star movie audience rating score tension difference group judge movie rating system le inconvenient sequel side spectrum critic movie fan rate movie exception film▲▼ imdb rating▲▼ score▲▼ point diff▲▼ inconvenient sequel truth power side jonbenet dinner night jessica bokeh pilgrimage ghost story home world baby driver journey west demon strike planet ape captain movie hour nobody trial press girl trip okja lego batman movie beatriz dinner sand crime roger stone cousin rachel john chapter city alien covenant wimpy wonder woman sense lover night drone wind river wall machine song song case christ spiderman heath ledger bone island fall movie blonde discovery beauty beast wilson creation circle return xander cage voice stone body everything sandy wexler car viceroy house icarus galaxy wife fate life ghost shell shade darker bos baby city planet style kidnap power ranger butterfly sand castle smurfs village nighter hunter prayer woman fight baywatch eyez mummy sleepless switch time venice knight word dark tower book henry house harvest eloise space shack chip kid crestview ottoman imdb rating scale scale source imdb score imdb scale markdown4 imdb data metacritic harsher aggregation inconvenient sequel percent score tomatoes5 sequel thought oktofine fan fault line imdb rating inconvenient sequel july user film percent percent percent conclusion film day july time movie cinema rate ticket sale week week week score ticket sale order magnitude week number film period review bona fide film percentage vote imdb filter prevent ballot refuse policy discus measure film release effort determine voting bot rating look telltale pattern film rating skepticism film fault line woman sequel hate film woman movie imdb rating film woman question review site pollster sample reality world letting percent imdb online rating site woman majority moviegoer state case gender opinion climate change problem woman view inconvenient sequel result culture number rating system work filmmaker film imdb rating data addition inconvenient sequel voice stone time return xander cage phoenix vengeance love story spot case addition inconvenient sequel film expedition access paris climate conference interview secretary state look weather condition film number mediocre film incentive doe hollywood movie challenge audience democratization film change movie business time side effect movie score represent reviewer film system entertainment site thing democracy fall user voter vote counter')
+
+('JJ', 'expose online hickey inconvenient documentary interesting documentary solid online inconvenient controversial many perfect controversial ambitiousbutcontroversial weird solid beside capable american other american divisive same short extreme massive documentary metacritic sortable table strong imdb hated rating▲▼ total polarized lieutenant diary haul leavey little speak free gong last coral arsenal first sick incredible naked furious pirate caribbean dead unforgettable atomic valerian last other upon unlocked despicable small black gifted kong polarized bimodal possible combined documentary emoji armenian combined metric extreme make inconvenient major critic impressive single many casual imdb dumpy electric documentary critic crap screen original critic terrible third pirate caribbean metacritic such certain overall critic average moviegoer other fan tend critic metacritic other incredible syndrome sick coral first epic little speak free small diary haul latin rough unforgettable logan kong skull emoji atomic annabelle iboy guardian furious fifty arsenal despicable wish valerian black table unlocked hated fist upon last last bitter pirate caribbean dead tale academy lieutenant metacritic metacritic metacritic entire critical great rotten skeptical narrative inconvenient imdb critic subpar scare able such strong odd6 half imdb flat hard prerelease politicized large real many wide automated update hard obvious utmost likely premiered inconvenient second different argument available unadjusted regarded other specious united skeptical grade piece single understanding useful incentive controversial total upon venice special controversial ambitious arctic catastrophic ambitiousyetcontroversial single identical substantial structural dangerous imdb male popular planet')
+
+('VBN', 'filed published voted rated rated been released earned lost hated most divided reviled specialized split made imdb opposed come beguiled lost forgotten been multiplied reversed rated fan released done used seen rated given forgotten continue been terrified seen manifested')
+
+('NNS', 'data data politics people people politics people underpants james people james underpants data raters criticsversusfans exists people people people draw people people people imdb people data people')
+
+('VBP', 'gore have have stand know lead have hope berlin wick oklahoma meter thousand phoenix have look didn believe make bot have work adjust reflect make happen involve make have review make')
+
+('VBG', 'award–winning intriguing surrounding giving understanding separating coloring feeling chasing homecoming ending going rounding looking regarding handling looking checking checking going forgiving casting chasing burning ending homecoming trainspotting going ring monitoring including increasing stuffing voting making leaving affecting failing boiling compelling being sitting globetrotting investing influencing scoring')
+
+('JJS', 'most least most highest most secondhighest least most')
+
+('VB', 'discourage look think switch kill step make sell take feel take kill kill tell come find think viewed feel raise come hedge look have ensure mass')
+
+('VBD', 'wellregarded voted gave gave gave loved movie▲▼ snatched beguiled combined calculated were stirred were lay adapted granted rescaled snatched soul voodoo gifted naked began rated hundred were went budged stayed voted surprised aren made were told doomed happened boiled')
+
+('VBZ', 'godfather seems look load lie dunkirk detroit america applies seems seems simplifies didn doe')
+
+('JJR', 'higher higher more more more reviewer more more')
+
+('NNP', 'zookeeper')
+

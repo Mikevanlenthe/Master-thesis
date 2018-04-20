@@ -1,0 +1,43 @@
+Article: womens-world-cup-predictions
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1411
+Raw number of types: 475
+Raw Type token ratio: 0.33664068036853295
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: bigrams_False_lemmatize_True_stemmer_False_stopwords_True_tokenlength_3_trigrams_False
+
+Token analysis after pre-processing 
+Number of tokens: 670
+Number of types: 333
+Type token ratio: 0.49701492537313435
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, woman, world, cup, model, work, jay, boice, nate, silver, soccer, christine, sinclair, hope, solo, state, match, olympic, game, jamie, mcdonald, fifa, image, christine, sinclair, hope, solo, state, match, olympic, game, jamie, mcdonald, fifa, image, check, woman, world, cup, prediction, woman, sport, woman, world, cup, gather, everything, get, database, woman, soccer, match, game, develop, woman, team, rating, call, woman, soccer, power, index, projection, world, cup, state, germany, enter, team, dark, horse, player, watch, colleague, allison, world, cup, preview, methodology, projection, wspi, rating, version, soccer, power, index, spi, system, conjunction, espn, rate, team, team, rating, match, player, rating, result, club, play, player, team, roster, wspi, use, team, rating, component, woman, soccer, feature, component, spi, rating, account, score, match, match, time, shootout, location, game, rating, world, cup, match, count, team, rating, time, example, china, state, world, cup, wspi, rating, spi, rating, component, rating, goal, team, score, match1, defensive, rating, goal, match, strength, schedule, rating, rating, component, wspi, rating, percentage, point, team, roundrobin, tournament, team, world, let, example, team, wspi, rating, state, result, rating, team, weight, match, date, location, competition, opponent, score, weight, rating, def, rating, scotland, glasgow, scotland, city, world, cup, trinidad, chester, pennsylvania, world, cup, mexico, france, see, feature, wspi, example, team, defensive, rating, gamebygame, rating, match, france, lot, weight, match, case, see, strength, schedule, matter, wspi, rating, france, france, tougher, defense, team, match, opponent, rating, win, wspi, offensive, rating, team, location, match, home, advantage, match, goal, home, team, matchup, team, wspi, rating, team, world, estimate, probability, team, calculate, number, goal, team, match, convert, matrix, outcome, distribution, match, end, tie, victory, loss, scoreline, distribution, score, tiebreaker, advance, knockout, stage, world, cup, goal, match, probability, hand, calculate, chance, team, tournament, advance, knockout, round, tournament, simulate, tournament, time, percent, chance, mean, simulation, simulation, team, wspi, result, simulation, account, possibility, team, tournament, preworld, cup, wspi4, match, knockout, round, time, regulation, shootout, time, simulation, handle, case, time, match, team, rate, regulation5, shootout, probability, evidence, shootout, team, wspi, rating, percent, database, team, time, example, uswnt, beat, thailand, game, percent, win, shootout, reason, interest, weaker, team, play, question, see, article, detail, philosophy, spi, drop, note, enjoy, woman, tournament')
+
+('VBD', 'filed, fivethirtyeight, derived, wspi, went, played, interpreted, calculated, received, weight, generated, beat, played, updated, shortened, derived, skillbased, shootout, occurred, faq')
+
+('VBZ', 'canada, canada, reflects, receives, loses')
+
+('JJ', 'beat, united, getty, beat, united, getty, rich, international, many, used, national, wspi, united, elite, mccann, simplified, nate, component, international, individual, national, available, major, similar, final, extra, match, friendly, wspi, united, final, broken, offensive, defensive, offensive, many, average, competitive, international, many, offensive, defensive, offensive, defensive, overall, possible, hypothetical, detailed, united, recent, match, glasgow, faro, portugal, friendly, key, offensive, weighted, average, march, little, weight, friendly, maximum, possible, meanwhile, much, uswnt, offensive, mexico, uncommon, weak, receive, poor, much, team, good, good, important, competitive, worth, favorite, first, possible, poisson, probability, possible, possible, important, individual, win, tournament, reflect, hot, outperform, extra, end, spent, sure, extra, wspi, treated, random, good, dominant, regular, favorite, regular, favorite, underdog, nate, technical, wspi')
+
+('NNS', 'data, men, frontrunners, men, men, data, club, varies, olympics, olympics, kansa, olympics, team3')
+
+('VBP', 'sport, want, read, soccer, spi, play, account, give, france, colombia, kansa, receive, importance2, account, continue, win, tend, hope')
+
+('VBN', 'forecast, put, set, based, developed, based, based, detailed, combined, played, given, adjusted, expected, rated, expected, given, given, estimated, scored, allowed, tied, tied, treated')
+
+('VB', 'find, take, expect, concede, expect, look, get, win, receive, make, take, get, percent, apply')
+
+('VBG', 'teamrating, including, controlling, wondering, beating, beating, scoring, using, knowing, winning, speaking, making, following')
+
+('JJR', 'stronger, qualifier, qualifier, slower')
+

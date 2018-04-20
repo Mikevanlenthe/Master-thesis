@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1110
+Raw number of types: 400
+Raw Type token ratio: 0.36036036036036034
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'team fan paine harry jonesrooy github github president trump player decision anthem injustice kind issue sport league state position base sport league risk situation football fandom stretch line trend measure interest market percentage search traffic year region sport league college football college basketball trump vote share year election market github sport league search traffic base area search comparison base explain team official protest meanwhile response player coach trump4 matter team area area course person team market football team base television market affiliation team base audience poll fan september5 team party identify size respondent green packer jacksonville jaguar margin percentage point base party affiliation poll keep mind selfidentify poll team base percentage point base compare team market trump place democrat example team area jacksonville florida tennessee term percentage fan minus percentage average tennessee player decision field week anthem bill friction response trump democrat hold edge team area clinton york area oakland raider surprise patriot bastion massachusetts base average team reason fan massachusetts patriot fan average base california help play antitrump market split team poll packer patriot cowboy packer area trump medium market percentage point medium market point poll cowboy base packer base cowboy owner jerry grace packer base fact area television market franchise become team packer pick fan percent packer fan wisconsin breakdown packer base team base poll team base matter team anthem trouble portion base fight eye game')
+
+('JJ', 'lean neil andrea showdown national racial important popular major united difficult much major side unique partisan google medium previous major professional last presidential partisan democratic republican resident nflrelated nascar republican outspoken critical difficult democratic republican political surveymonkey american early list favorite political sample average error6 american democrat republican average republican team average republican base republican democrat last national interesting buffalo internal major metropolitan chicago active anthem democratic republican england live democratic live many much republican much fan republican team major partisan popular green dallas green republican remain trump good democratic lean green wellliked green surprising partisan overall national average republican trump sideline')
+
+('VBP', 'enten extend look tend england cowboy mean continue')
+
+('VBN', 'filed given calculated compared considered made based located compared based based based given based tied based')
+
+('NNS', 'data data mishandles data others democrat steelers data angeles dallas jones')
+
+('VBD', 'kneel raised united related commissioned asked ranged made tended made relocated carried carried tried')
+
+('JJS', 'protest least biggest best smallest biggest')
+
+('VBG', 'angering using leftleaning following making according republicanleaning republicanleaning identifying identifying playing kneeling according going')
+
+('VB', 'find quantify go ram explain expect choose keep')
+
+('VBZ', 'correlation3 pittsburgh angeles democrat')
+
+Token analysis after pre-processing 
+Number of tokens: 467
+Number of types: 261
+Type token ratio: 0.5588865096359743
+

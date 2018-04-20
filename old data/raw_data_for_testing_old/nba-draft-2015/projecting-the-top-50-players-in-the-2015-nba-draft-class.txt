@@ -1,0 +1,65 @@
+
+
+
+Jun. 19, 2015
+						at
+						9:45 AM
+
+
+
+							Projecting The Top 50 Players In The 2015 NBA Draft Class						
+
+
+
+By Neil Paine and Zach Bradshaw
+Filed under Basketball
+
+Get the data on GitHub
+GitHub data at data/nba-draft-2015
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Karl-Anthony Towns of the University of Kentucky, during a game against Notre Dame in the 2015 NCAA men’s basketball tournament.							Andy Lyons / Getty Images
+
+
+				Karl-Anthony Towns of the University of Kentucky, during a game against Notre Dame in the 2015 NCAA men’s basketball tournament.									Andy Lyons / Getty Images
+
+
+
+No sooner had the closing buzzer sounded on the Golden State Warriors’ championship victory over the Cleveland Cavaliers than it was time for the NBA world to turn its attention to the draft, which will be held in Brooklyn on June 25. This year’s crop of prospects hasn’t arrived with anywhere near the fanfare of the vaunted class of 2014, but it may be even deeper. And there are plenty of big decisions to make — for example: Should the Minnesota Timberwolves take Kentucky’s Karl-Anthony Towns or Duke’s Jahlil Okafor with the No. 1 overall pick?
+To help with the process of sorting out Towns from Okafor and the good prospects from the bad, ESPN’s Stats & Information Group built a model1 to predict how well a college player2 who is ranked among Chad Ford’s Top 100 prospects will perform — according to Statistical Plus/Minus (SPM) — during seasons two through five of his NBA career (we use that time frame to encompass the years that a player is under team control at below-market salaries and to avoid penalizing young players for putting up poor rookie numbers on a bad team).
+Like other statistical draft projection systems out there, this model uses a player’s college numbers,3 demographic data such as height and weight, and his top 100 ranking, as a proxy for what the scouts think of him. (Check out all the data on GitHub.) But unlike most draft models, our method acknowledges that NBA data on draft prospects is strongly left-censored, because very few prospects actually get a chance to play in the NBA at all, much less stick around long enough to get a meaningful sample of playing time. It’s an important distinction because any method that simply regresses NBA performance against college predictors has already made the assumption that the player possesses whatever attributes will allow him to move past the league’s playing-time gatekeepers — an assumption that could mask important distinctions between successful and unsuccessful prospects.4
+Specifically, the model assesses the probability that a player’s early-career SPM will land him in each of four categories:
+
+Superstar: We’re talking players like Anthony Davis here (about one of these per draft class).
+Starter: This bucket includes solid players like Shane Battier and Kyle Lowry (about 10 per class).
+Role player: These are the Jarrett Jacks and Tony Allens of the world (25 per class).
+Bust: Hello, Michael Beasley! (This bucket consists of everyone not in the first three, including replacement-level players who will never actually appear in the NBA.)
+
+And what factors are most important in determining which players fall into each category? As was the case when we forecast NFL quarterback success, a prospect’s scouting ranking is far and away the most important variable in predicting his NBA future. But there’s still a lot of noise around a projection based on the opinions of scouts alone:
+
+Aside from a player’s scouting ranking, the most significant predictive factors are either demographic or based on the program from which he came: his age, weight and the schedule-adjusted offensive and defensive ratings of his school. As for individual college statistics, the most important are 2-point shot attempts per minute, assist percentage and offensive rebounding percentage, followed by usage rate, shooting efficiency from the floor (as measured by effective field goal percentage) and steal percentage.
+In other words, snagging young, athletic prospects who pass the eye test with flying colors is ideal. But there’s also value in looking for underrated players who can create shots for themselves (particularly inside the arc) and others, skillful rebounders (offensive rebounds are often better indicators of actual rebounding talent — and not team role — than defensive boards), efficient shooters or gifted ball hawks.5
+With those factors in mind, here’s how the model assesses the college entries from this year’s class of draft prospects, sorting by their projected SPM for years two through five after the draft:
+
+In a case of dueling freshman big men, the overriding debate of the 2015 draft is probably whether the Timberwolves should take Towns or Okafor. Our model says the answer is pretty clearly Towns, who has more than twice as great a chance of becoming a superstar as Okafor — and about a 20 percent lower probability of becoming a mere role player or bust. Okafor is much heavier for his height — a no-no according to the model — while Towns is a superior defender and passer, a good combination for a big man in today’s NBA.
+Instead of this draft being a battle of big men at the top, then, the model thinks a pair of small forwards — Duke’s Justise Winslow and Arizona’s Stanley Johnson — are more likely to succeed in the NBA than Okafor is. Winslow, in particular, is fascinating: His overall projection is better than what the model gives to both mega-hyped wings from last year’s draft (Andrew Wiggins and Jabari Parker), although it’s driven not so much by his ceiling as by the low likelihood that he will bust out. While Wiggins and Parker both had roughly a 35 percent bust probability, Winslow’s is 23 percent, perhaps because he has no glaring statistical red flags.
+In that sense, Winslow’s profile might be symbolic of this draft class as a whole. While there figure to be fewer future superstars available this year than in 2014’s rookie crop, it might be a banner year for solid, above-average players. Even taking into account the superior star power of a year ago, the model projects this year’s class to contain about 10 percent more players who grade out as a future NBA starter or better.
+And those kinds of players might be the place to look when shopping for draft bargains. Kentucky center Dakari Johnson, for example, ranks 30th according to the scouts (using the same version of Ford’s top 100 that we used in the model, from late May) and has barely any chance of becoming a superstar (2 percent), but he ranks sixth overall in the model because he has a 37 percent probability of turning into a starting-caliber player and only a 19 percent chance of becoming an outright bust. It’s a similar story for Kansas’s Cliff Alexander (16th overall), as well as a pair of Arizona forwards — Johnson (third) and Rondae Hollis-Jefferson (ninth) — all of whom defy the scouting grades because the model views them as such low-risk propositions.6
+But watch out for Murray State’s Cameron Payne and Notre Dame’s Jerian Grant, a pair of point guards ranked among the top 20 by the scouts. The model sees little chance of either turning into an above-average player, with about a 75 percent probability that at least one of them becomes a total bust. Red flags are also raised for Georgia State shooting guard R.J. Hunter, whose No. 217 scouting ranking belies a staggering 87 percent probability of becoming a role player or bust.
+Of course, not even advanced algorithms can turn the NBA draft into a perfect science. For instance, this model can’t directly account for work ethic, leadership and a bunch of other harder-to-measure factors that can shape a prospect’s pro career. But among the things that can be measured — whether statistically or demographically — a method that looks at what’s traditionally correlated with pro success (without overfitting) is a good start toward an NBA front office’s unenviable job of separating strong prospects from weak ones.
+

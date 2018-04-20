@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1126
+Raw number of types: 434
+Raw Type token ratio: 0.38543516873889877
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = True
+
+Token analysis after pre-processing 
+Number of tokens: 521
+Number of types: 269
+Type token ratio: 0.5163147792706334
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'reluct trump voter swung think clare malon file trump administr github github datareluctanttrump presid trump outsid oval washington tuesday kaster month group rebelli streak trump voter trope number clingwrap brain stadium rippl flag chant everi donald trump voter core base trump thank part group voter chanc percent voter presidenti view trump hillari clinton accord exit poll trump group percent percent differ trump mileston mark approv rate court health care bill reluct trump voter group watch midterm loom monitor polit climat support differ success trump presid hold voter cast ballot trump1 partner surveymonkey survey adult week ask trump voter vote presid respond level excit choos excit percent trump voter cast ballot group demograph differ polici prioriti rest trump cohort reluct trump voter support percent middl percent reluct percent trump voter differ group percent reluct percent trump support colleg postgradu degre trump trump voter partli promin presid today congression district price seat level educ countri race democrat show poll reluct trumper parti brand parti identif percent percent trump voter call republicanlean reluct trump voter trump trump voter percent reluct approv presid whop percent enthusiast trump voter approv despit gener rate harmoni voter reluct priorit issu slightli trump voter move tradit parti issu presid lawandorderbuildthewallfocus campaign trump voter import issu reluct trump voter rate health care talk point year hammer replac obamacar trump voter consid health care quit import list prioriti terror immigr interest health care reluct trump voter reaction health care bill interest le trump handl process presid support percent reluct trump voter role health care process compar percent enthusiast trump voter reluct trump voter line trump base thing reluct trump voter placement court percent approv percent trump voter reluct voter trump campaign russia percent trump voter danger sign trump percent trump enthusiast voter budget propos prioriti half reluct trump voter approv budget worri sign group line novemb board part trump agenda worri reluct trump voter district novemb congress today percent trump voter month presid pain misstep reput')
+
+('VBP', 'elect carolyn crowd necessarili elect seem fail lose find differ explain attain come approv differ seem fail approv rest seem think essenti')
+
+('NNS', 'data data pleas')
+
+('JJ', 'offic white hous past america aliv visual enthusiast loyal white hous small nearli unfavor first100day presid unusu suprem fail republican newli unstabl hous unenthusiast american april enthusiast excit excit trump white fortythre level colleg degre enthusiasm bettereduc republican special elect georgia republican georgia tight strong fundrais loyal republican republican republicanlean republican right level approv trump republican promis plural economi second prioriti standard republican need repeal fourth republican particular happi major trump issu unwaveringli gorsuch suprem nomin threefourth investig collus distract nearli approv serf white hous administr finish percent candid elect midterm republican awar mani skeptic')
+
+('VBD', 'made quit made made victori baromet fivethirtyeight gave said overwhelmingli educ said said came slim said push said held said')
+
+('VBN', 'known given')
+
+('VB', 'give check mean keep make vote democrat lose')
+
+('JJR', 'older older')
+
+('JJS', 'biggest least highest')
+
+('VBZ', 'newcom le reluctantli')
+

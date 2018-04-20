@@ -1,0 +1,48 @@
+Article: repeated-phrases-gop
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 617
+Raw number of types: 329
+Raw Type token ratio: 0.5332252836304701
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 420
+Number of types: 286
+Type token ratio: 0.680952380952381
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'are, are, hammer, rubio, consolidate, repeat, spärck, have, don, fresh, trump, have, rubio, confirm')
+
+('NNS', 'phrases, data, data, words, politics, words, debates, campaigns, points, sales, primaries, eyes, echoes, nightmares, times, candidates, transcripts, karen, jones, words, times, phrases, phrases, candidates, classics, arms, trumpisms, tics, daydreams, possibilities, rubio, victories, shoots, talks, points, people, lives, times, numbers, phrases, cheers')
+
+('NN', 'gop, candidate, beckman, election, github, github, datarepeatedphrasesgop, mar, matter, age, draft, team, home, brand, opponent, electorate, bush, day, doesn, floridian, marco, fiction, debate, man, plan, prototype, roboprez, time, momentum, antitrump, coalition, barb, donald, trump, debate, crowd, time, miami, wannabe, debates1, see, tfidf, linguist, candidate, number, score, everyone, phrase, measure, importance, score, mean, anything, keep, analysis, candidate, president, future, president, hip, cruz, ivy, league, record, ohio, rubio, chris, christie, gauche, replay, script, debate, season, example, rubio, line, reference, dream, entirety, rubio, harder, notice, rubiobot, narrative, candidate, rubio, minnesota, puerto, rico3, nothing, analysis, drinking, game, debate')
+
+('VBZ', 'repeats, works, knows, feels, repeats, don, reveals, predicts, betrays, takes, reach, has, has, gives')
+
+('JJ', 'milo, good, jeb, different, ambitious, likely, underslept, same, ready, prime, frantic, same, parried, wild, presidential, used, first, republican, metric, computational, high, particular, oftrepeated, high, other, top, tfidf, relative, doesn, other, stonecold, right, bear, quintessential, verbal, cruz, third, fourthplace, glorious, lengthy, verbatim, crown, instant, american, rigorous, tonight')
+
+('VBN', 'filed, published, chosen, televised, overprepped, needed, used, elected, say, been, won')
+
+('VB', 'get, polltest, candidate, fill, identify, phrases2, get, win, note, john, change, backtoback, seem')
+
+('VBG', 'talking, dying, tossing, debating, highlighting, string, repeating, talking, sticking, scoring')
+
+('VBD', 'lowenergy, dispelled, looked, shattered, responded, houston, went, used, called, pioneered, said, ted, nailed, used, checked, found')
+
+('JJR', 'more, higher, score, more, more, more')
+
+('NNP', 'kasich')
+

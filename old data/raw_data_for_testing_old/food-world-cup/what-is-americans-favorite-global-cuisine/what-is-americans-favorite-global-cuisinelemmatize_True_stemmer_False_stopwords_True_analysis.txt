@@ -1,0 +1,41 @@
+Token analysis before pre-processing 
+Raw number of tokens: 1942
+Raw number of types: 618
+Raw Type token ratio: 0.31822863027806386
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'american global fivethirtyate national fivethirtyeight international good italian confused tournament bite american full general remaining familiar american united fresh surveymonkey choose two1 sixpoint much international experienced likely make round total likely ethiopia vietnam argentina united spain brazil italy greece china cuba germany favorite unweighted percent culinary national equivocation third able choose undefeated italy quarterfinal percent ionian routed percent laughable belgian belgian available belgian pour wrong fairness quarterfinal quarterfinal likely clear italy italy dominant american respondent scale wide japan happy japanese percent adventurous likely mexico rated united france french fried fry likely percent thailand china likely outcome china nuanced likely significant likely tiny sample respondent undecided statistical plausible able chinese available famous general regional undefeated semifinal italy semifinal north american semifinal likely italy many south korea culinary china peninsular strong culinary decisive percent scale outset dangerous much united mexico crush fine gross dive eater percent american large le eater hopeful improve american next likely mexico good semifinal mexican bronze final likely italy united undecided turn american italian italian likely definitive italian tournament average margin american unlimited')
+
+('NN', 'favorite cuisine nate silver walt hickey illustration buysse illustration buysse world country soccer team cuisine glory food association fifa world group phase competition soccer soccer world uruguay luis suarez playing country chance avenge soccer disappointment china qualify soccer world discussion world cuisine competition bracket pantheon cuisine competition cuisine state threat group stage face belgium round soccer world play tournament series survey audience respondent country head head phase world respondent addition food preference respondent scale interest experience cuisine group phase result voter eater difference knockoutphase matchup respondent eater june mexico beat percent percent percent japan beat percent percent percent france beat percent percent percent state beat belgium percent percent percent beat percent percent percent beat percent percent percent beat percent percent percent thailand beat percent percent percent nothing round round soccer world closest contest thailand germany response thailand percent margin experience germany content soccer team spain brazil respondent choose spain margin spain group stage cook result chance mexico vote battle italy greece belgium vote belgium percent consider matchup limitation cuisine force breakfast food waffle spirit airline breakfast nothing fry mayonnaise civilization try spice food something belgium game epic round titan takeout respondent eater match winner beat spain percent percent percent competition performance gorging allyoucaneat mozzarella stick sixpoint italy margin percent percent mexico beat percent percent percent mexico evidence food curve percent eater eater scale percent japan percent state percent percent percent defense survey population potato freedom year voter eater scale percent percent france percent respondent beat percent percent percent eater adjustment swung vote count percent percent thailand eater story look vote china thailand voter eater scale number vote contest look voter eater scale size vote vote fluke experience sort food part country york california place spicy food venture chicken sort delight anything thailand record tournament advance mexico battle culinary supremacy respondent eater beat thailand percent percent percent moment appreciate thailand miracle wildcard squad thailand thing soccer belgium algeria russia division germany shock everyone juggernaut battle nation tradition italy pull result eater italy percent respondent competition italy cuisine food snob food result closer state beat percent percent percent belgium beating france result injustice arjen mexico ground tick scale voter percent lead mexico burrito knowledge help time thirdplace match respondent eater beat thailand percent percent percent soccer world reason play thirdplace consolation game loser redemption thailand skillet respondent eater beat state percent percent percent homeplate advantage food margin voter percent percent2 result match margin percent percent everyone celebrate consuming mozzarella stick friday')
+
+('VBN', 'filed launched done based rated used produced gone onesided come rated rated called rated rated crushed dominated rated prevailed rated conducted known rated identified gained rated built conducted conducted favored played')
+
+('VBD', 'wondered identified decided introduced skated undefeated allowed claimed weighted called turned went weighted undecided undecided undecided undecided undecided undecided undecided undecided increased assembled crushed proved soccer matchup weighted undecided undecided beat undecided included edged undecided favored weighted happened china weighted undecided started continued undecided experienced weighted undecided decided weighted boosted came lost planned')
+
+('VB', 'fare take knockout thailand take engage take mexico')
+
+('VBG', 'playing surveying revealing depending speaking shocking winning weighting underwhelming taking racking going advancing learning talking seeding going downing beating winning weighting')
+
+('NNS', 'frontrunners italy others people involves people undecideds superfoodies noobs')
+
+('JJR', 'ringer worse closer')
+
+('JJS', 'best least best least contest likeliest lowest likeliest')
+
+('VBZ', 'tougher seems retains')
+
+('VBP', 'rest menu expect thailand tasty make agree think robben overcome go')
+
+('NNP', 'knock')
+
+Token analysis after pre-processing 
+Number of tokens: 837
+Number of types: 395
+Type token ratio: 0.47192353643966545
+

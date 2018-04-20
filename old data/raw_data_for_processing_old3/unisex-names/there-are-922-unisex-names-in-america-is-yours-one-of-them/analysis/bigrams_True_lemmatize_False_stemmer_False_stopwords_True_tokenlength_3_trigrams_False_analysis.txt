@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 632
+Raw number of types: 271
+Raw Type token ratio: 0.4287974683544304
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 705
+Number of types: 577
+Type token ratio: 0.8184397163120567
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'jun unisex andrew curry riley cooper riley casey riley jessie jackie peyton jody example maletofemale ratio percent split bell video riley curry daughter nba mvp stephen curry state conference cooper receiver philadelphia thing riley man name woman name chart number work colleague mona chalabi security administration list name prevalent determine number name method nate silver story name cut gap column difference number name value ssa edit list number placeholder infant infantof baby child explore code analysis clarification june version unisex article placeholder infantof data explanation jun,2015 the,most most,common common,unisex them,andrew filed,under the,data data,github github,github github,data riley,curry curry,riley riley,cooper cooper,and and,riley getty,casey casey,riley riley,jessie jessie,and jackie,peyton peyton,jody jody,kerry and,pat pat,are can,hard hard,say take,riley riley,for americans,are riley,and and,the the,maletofemale maletofemale,ratio ratio,pretty percent,percent percent,split split,riley recent,video video,riley curry,the daughter,nba nba,mvp mvp,stephen golden,state press,conference thinking,riley riley,cooper cooper,the the,wide wide,receiver for,the the,philadelphia thing,riley riley,neither man,name woman,both have,unisex unisex,name least,onethird that,name male,and and,least least,onethird female,hard the,most most,unisex the,chart chart,below the,most most,common common,unisex total,number people,with off,work work,done done,with with,colleague colleague,mona mona,chalabi social,security security,administration this,list list,the the,most the,ssa ssa,has has,data five,people people,but threshold,100 people,make make,sure that,name enough,determine determine,whether whether,was the,ssa the,number with,each each,name name,this this,was similar,method mccann,and and,nate nate,silver previous,story name,make make,the the,top top,cut cut,least alive,america nearly,million have,one one,the the,more more,than table,below below,the the,gap gap,column the,difference difference,the the,male male,and and,female the,lower lower,the the,number the,more the,name between,the minimum,value value,zero zero,and and,maximum maximum,about the,ssa and,result what,are are,most these,unknown infant,infantof infantof,and removed,them the,data like,baby baby,and and,child child,thought ambiguous,and can,explore explore,the the,code code,behind this,analysis the,full full,data data,set set,github github,clarification clarification,june june,227 earlier,version version,the table,unisex this,article unknown,and three,more more,infant infant,infantof infantof,and out,the data,too too,and added,explanation')
+
+('JJ', 'common getty pat much unisex riley living riley percent recent adorable golden press riley wide percent unisex onethird name male onethird female hard unisex name common unisex total social androgynous minimum threshold sure enough unisex actuarial similar mccann previous top searchable table male female minimum maximum likely able unknown unnamed ambiguous full github searchable table likely unknown excluded infant added names,america one,them get,the keough,getty are,these women,can because,these names,are pretty,much for,example named,riley balanced,with with,percent because,you saw,recent the,adorable curry,the the,golden postgame,press neither,man name,nor nor,woman that,nearly nearly,percent name,which that,least were,male were,female unisex,name but,the ranked,the the,total number,people used,over from,the the,social create,this most,androgynous names,the least,five set,minimum minimum,threshold name,was was,prevalent actually,unisex using,actuarial from,the adjusted,the names,data approximate,the living,with was,similar allison,mccann used,previous story,for for,name currently,alive have,nearly the,searchable searchable,table shows,the shares,the number,the balanced,the name,between with,minimum not,edit were,able identify,five five,these unnamed,infant from,the more,ambiguous left,them them,you you,can behind,this the,searchable searchable,table names,this names,unknown unnamed,but excluded,three notnamed,now')
+
+('NNS', 'names flowers names data github data dataunisexnames men women names americans rings warriors americans newborns lists names people years names data names people people tables names data people colleagues people america people names shares sexes names records names data others data names names unisex,names andrew,flowers under,names data,dataunisexnames these,men men,women these,names much,unisex living,americans riley,rings state,warriors conference,perhaps both,turns percent,americans onethird,newborns unisex,names years,data data,names actuarial,tables the,names number,people method,colleagues million,people names,the the,sexes ssa,does edit,its list,names result,records placeholder,names able,identify data,others unisex,names placeholder,names but,should the,data')
+
+('VBP', 'america github riley say riley postgame say name create ssa set make ssa approximate allison make alive result identify america,yours names,get dataunisexnames,riley kerry,and unisex,take rings,bell riley,curry stephen,curry warriors,postgame perhaps,you receiver,for americans,109 hard,say what,the lists,the given,least tables,also data,approximate colleagues,allison had,have people,have sexes,with about,3333 its,list names,and records,number analysis,well should,have taken,those')
+
+('VBD', 'filed balanced ranked balanced notnamed thought left set excluded unnamed notnamed flowers,filed pretty,balanced that,the names,ranked chalabi,used but,set ssa,adjusted silver,used least,25000 america,had than,900 evenly,balanced unknown,unnamed and,notnamed and,left article,excluded and,unnamed and,notnamed and,added')
+
+('VB', 'get kerry take saw administration,create does,not')
+
+('VBN', 'named given done used given adjusted used removed taken are,named and,removed have,excluded')
+
+('VBG', 'thinking building using living 155000,living you,thinking the,thing name,building unisex,using currently,living')
+
+('VBZ', 'eagles turns means shows philadelphia,eagles which,means below,lists that,name androgynous,names column,shows female,shares')
+
+('JJS', 'least least least least')
+
+('JJR', 'lower earlier')
+

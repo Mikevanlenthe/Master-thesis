@@ -1,0 +1,37 @@
+Token analysis before pre-processing 
+Raw number of tokens: 949
+Raw number of types: 455
+Raw Type token ratio: 0.4794520547945205
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'tag tag carl bialik election github github hank schwab campaign support david jason election campaign image election none image dozen perception election twitter account work everyone list criticism industry election carson grain story carvalho college accuracy story election towery opinion field selection everyone image dropp morning consult scrutiny work recruitment computer innovation industry shape year question industry shape voter technology response gourevitch strategy group response election harbinger response rate threat college response group election study matter clark election accuracy team work expertise institution methodology concern accuracy yorker article scientist majority policy emphasis blueprint policy selzer selzer company firm majority world poll month vote caucus system hampshire iowa calendar state vote colleague telephone voice response question support type poll morning consult question trump candidate person candidate bush vote series state majority unsure critique something mood country majority attention generalelection clinton stage race story election race control number majority house race anyone clinton opponent cruz chris trump gilmore harry election coverage polling store reach imagine poll study control pollster miss past matthew pollster chris muhlenberg julia iowa online trump micheline electorate electorate stand harry senate poll poll interview marco pollster nation pollster pollsters1 github israel respond ipsos jill poll test nevada experiment liveinterview blum trump guide aggregate overstate skew name egypt helpful liveinterview reluctant hillary lead blum vote sin outfit pollster reputation year loser reputation pollster response pollster medium strand medium moment poll result moment midterm medium organization poll pollster aggregator organization medium report claim thing pollster poll method respondent medium pollster result calamity year pollster indicator scientist scientist pollster innovation effect rate rate year pollster poll result failure rate reason pollster result factor medium critique pollster medium maker poll poll caucus pollster state state vote pollster number pollster voice panel pollster poll poll poll supporter poll prediction associate poll pollster voter medium poll pollster seat pollster pollster seat poll poll accuracy image miss poll buffer toughest harder')
+
+('JJ', 'worn getz trump questionnaire footnotes2 savvy certainty trump disagreed meaningless unsure meant read past outlandish nick majoritarian slim thought atlanta republican republican hold perdue getty tactic midterm iowa online primary primary used kentucky rubio prominent public public prolific prominent political public positive classic many last second good third uncritical many outlandish wrong interesting marist several several highprofile natural several positive negative global recent dramatic predictive several different dependent recent political undue notable immediate next next primary third live interactive much open preferred republican national national next helpful surveyusa national primary hypothetical presidential hillary democratic republican least know improved continue posed narrowed donald combine tell pyramid american result primary pollster barbara lindsay')
+
+('VBG', 'polling gathering polling polling polling polling forecasting materializing ignoring according working measuring shaping feeling using tarnishing filtering polling quantifying lumping nailing evolving succumbing declining declining trying citing overseeing polling finding polling affecting paying polling covering finding')
+
+('VBZ', 'donald follows remains remains')
+
+('NNS', 'rogers christie data improves kyle data data datapollofpollsters people twothirds people politics data people people people moines people distorts suggests')
+
+('VBP', 'contention reach hold leve expect decline believe know acknowledge expect know think find want think find question pollster poll vote matchup drive make')
+
+('VBD', 'weprin dipped found fivethirtyeight tight surprised worsened covered answered blamed acknowledged responded trusted declined declined surprised said said said said said said said said said said said said said wrote said said said said said said said said blamed')
+
+('JJR', 'worse older worse better higher older lower')
+
+('VBN', 'improved missed disagreed balanced recorded advised taken named named named named agreed pointed pointed noted predicted predicted filed increased blamed asked responded')
+
+('JJS', 'least')
+
+Token analysis after pre-processing 
+Number of tokens: 588
+Number of types: 344
+Type token ratio: 0.5850340136054422
+

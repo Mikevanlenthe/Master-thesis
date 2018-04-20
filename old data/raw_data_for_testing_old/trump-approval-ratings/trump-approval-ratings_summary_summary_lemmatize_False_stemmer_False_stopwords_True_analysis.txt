@@ -1,0 +1,25 @@
+Token analysis before pre-processing 
+Raw number of tokens: 13
+Raw number of types: 9
+Raw Type token ratio: 0.6923076923076923
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'eatgetgithubturkeyit')
+
+('NN', 'paradfinddon california yearjustinsullivan')
+
+('NNS', 'tdishes')
+
+('VBP', 'checksidedishsoutheaststatecomparenglandhasaidwayleavbepmpartwalthickeyfilefoodfacebooktwitteremailbirdfarmsonoma')
+
+Token analysis after pre-processing 
+Number of tokens: 7
+Number of types: 7
+Type token ratio: 1.0
+

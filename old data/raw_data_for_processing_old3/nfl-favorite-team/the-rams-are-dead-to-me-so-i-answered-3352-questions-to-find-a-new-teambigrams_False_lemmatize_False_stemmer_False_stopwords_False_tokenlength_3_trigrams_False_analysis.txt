@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1555
+Raw number of types: 643
+Raw Type token ratio: 0.4135048231511254
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1021
+Number of types: 557
+Type token ratio: 0.545543584720862
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'sep team blythe terrell nfl github github datanflfavoriteteam sign rams hometeam team question team shop road year question rams fan nothing football mom sport college basketball board cash seat nachos game comfort1 football jerome bettis isaac bruce time kurt warner marshall faulk show turf town boom football nextgeneration fan toddler game season2 hometown villain kroenke3 plug choice puzzle way los nfl version person cheer team loyalty husband team crossstate kansas city equivalent midwestern boy school york team city game turn math problem editor choice search analysis hand colleague paine ideal team support team ownership city fool team matter team board support team season breath analysis team magazine opinion research attempt franchise canada team identity ownership club fanfriendliness tradition website form weight category importance fandom podcast blythe discuss team blythe terrell apple rss code iframe frameborder style auto maxwidth600px http fivethirtyeightcomplayerwtp17496919 iframe factor case example choose player behavior fan ownership exercise times4 point amount influence teampicking process version ownership honesty loyalty core community effort field likability team championshipsdivision history fan courtesy technology distance team stadium york distance team stadium louis price size market population quality venue frequency strength leadership stylishness watch paul size market population blythe team perfect instance manner behavior dust analysis team bay football memory didn lot team mind chance cheer appearance wasn ownership structure player likability future team tradition aboveaverage bay pittsburgh city england tennessee team team team rating team player ownership player effort likability bay pittsburgh city england buffalo carolina exercise team rating category data blue gold gold experience sorry guy paine analysis video rams fan team')
+
+('NNS', 'rams questions data data days parents sports fans colts supersonics closes years rams parents licenses tickets siblings turns decades times seasons rams rams words fans fans options rams dudes kid bars tvs supporters factors players crimes women data patriots standings surveys firms benefits ourselves factors ideas podcasts matchups relations uniforms permutations rankings weights factors criteria suspensions players crimes women players players wins seasons years titleswins wins dollars fans uses miles miles tickets concessions terms promotions terms criteria players imperfections thanks packers data packers fans wins marks steelers patriots bills predictions rankings categories suspensions wins indianapolis teams criteria rankings criteria fans congratulations rams data')
+
+('VBP', 'are find get have oilers expos bus california give chiefs pick are have neil use listen espn versus are are team reach are lot camp include kansas chiefs blythe like hope are have')
+
+('JJ', 'dead answered new nfl sweet handmade early pro louis hometown old next much ready personal weak atrocious niece first last louis last stan fellow lite fantasy real nfl nice different high appealing new live like clear terrible unlikely leave full other such violent possible full seahawks deep ultimate similar pro calculated component able own new app embed height margin20px src turn headtohead different sample extra next previous entire team new fanfriendliness uniform uni perfect nfl benign aggregate green top surprising unique high green new buffalo dead last nfl top weight overall green kansas new seattle top overall list green good sure many new')
+
+('VBN', 'filed had ask ask been introduced immersed rolled stuck left based known suspected committed graded taken conducted created generated selected voted personalized sorted unveiled followed projected weighted listed spoken excited attached')
+
+('VBG', 'holding eating learning ensuing making leaving fuming showing feeling espn longrunning rooting including winning plugging scrolling selecting parking according having trading')
+
+('VBD', 'showed was had rolled was knew was shelled took domed was was had went pulled hauled left were saw were knew went fivethirtyeight was went was was was pledged dictated was were reflected discovered embed width was went mattered repeated had had had weight weight projected spent onfield lukas settled was scored offfield was were score gave baltimore came contributed spurned found')
+
+('VB', 'spirit support figure pick quantify have find wash kroenke put deal don check run find')
+
+('VBZ', 'goes hits loves loves angeles watches has categories uniforms suspends helps includes github has')
+
+('JJR', 'more more smaller better bigger winner')
+
+('JJS', 'greatest least most')
+

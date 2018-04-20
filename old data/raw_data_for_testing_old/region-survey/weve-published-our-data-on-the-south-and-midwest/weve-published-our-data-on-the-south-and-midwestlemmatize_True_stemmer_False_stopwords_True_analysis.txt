@@ -1,0 +1,35 @@
+Token analysis before pre-processing 
+Raw number of tokens: 327
+Raw number of types: 174
+Raw Type token ratio: 0.5321100917431193
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBN', 'published filed')
+
+('NNS', 'data data data people data data remixes data remixes')
+
+('JJS', 'midwest midwest midwest')
+
+('NN', 'walt hickey interest post result audience poll state github page response south survey head tail mean file folk information respondent code income gender region approach interest language analysis word approach code expatriate definition region explain inability core state difficulttocategorize state virginia identity article ross bechdel test thing research kickoff point question point endeavor region insight')
+
+('JJ', 'remix tuesday surveymonkey south available github make excited interesting column respondent live interested southern midwestern local midwestern resident fantastic interesting send walterhickey fivethirtyeightcom whole nebulous')
+
+('VBD', 'wrote format asked split missouri posted resulted appreciated')
+
+('VBG', 'using making explaining finding')
+
+('VBP', 'make find want agree please learn')
+
+('VB', 'make send post')
+
+Token analysis after pre-processing 
+Number of tokens: 124
+Number of types: 97
+Type token ratio: 0.782258064516129
+

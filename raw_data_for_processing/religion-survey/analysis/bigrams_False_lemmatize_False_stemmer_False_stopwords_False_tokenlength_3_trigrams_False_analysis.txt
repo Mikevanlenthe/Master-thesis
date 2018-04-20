@@ -1,0 +1,48 @@
+Article: religion-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1066
+Raw number of types: 423
+Raw Type token ratio: 0.3968105065666041
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 693
+Number of types: 376
+Type token ratio: 0.5425685425685426
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'sep, libresco, religion, github, github, datareligionsurvey, patrick, baz, afp, course, france, beach, sake, consistency, court, controversy, sprang, france, commitment, something, secularism, deputy, mayor, nice, bbc, france, religion, affair, home, church, street, freedom, freedom, worship, freedom, practice, convert, catholicism, atheism, awkwardness, discomfort, guess, kind, guess, poll, sense, audience, panel, answer, believer, course, day, bus, feeling, pray, acquaintance, government, nativity, offense, raise, discomfort, response, anything, invitation, prayer, silverman, president, intolerance, christian, pray, person, praying, conversion, religion, silverman, rod, dreher, christian, author, crunchy, pray, silverman, pray, dreher, part, someone, atheist, pray, way, fear, offense, forthcoming, book, benedict, option, example, benedict, thicker, strength, rest, world, religiosity, discomfort, jewelry, feel, subway, york, city, thing, someone, day, percent, way, observer, prayer, way, grace, invitation, survey, someone, grace, prayer, table, kitchen, head, anyone, religiosity, affection, don, alienate, something, reach, day, church, home, explain, table, prayer, participatory, need, god')
+
+('VBZ', 'does, means, church, kinds, offends, atheists, says, offers, does, looks, feel, says, tricky, displays, makes, feels')
+
+('VBG', 'praying, being, using, praying, legitimizing, anticipating, loving, treating, showing, being, causing, trying, creating, seeing, praying, assuming, witnessing, saying, making, crossing, thinking, having, being, being')
+
+('JJ', 'public, uncomfortable, leah, getty, few, coastal, ban, burkini, intense, united, religious, faith, public, religious, public, visible, much, atheist, statistical, religious, nonreligious, uncomfortable, surveymonkey, individual, ordinary, rosary, wrong, likely, likely, david, american, act, religious, different, religious, isn, silverman, religious, eastern, orthodox, cautious, many, other, same, christian, many, faith, public, fear, many, reluctant, religious, uncomfortable, percent, religious, unbothered, right, rosary, new, nationwide, comfortable, half, percent, comfortable, good, mixed, implicit, half, uncomfortable, invisible, own, visible, same, want, uncomfortable, able, listen, hard, other, public, preparatory, few')
+
+('VBP', 'make, expect, get, august, struck, burkinis, are, decide, are, make, feel, make, prayer, courthouse, etc, underestimate, are, silverman, change, say, prefer, ask, get, prayer, hold, follow, give, spark, faith, wouldn, eat, wind, public, see, want, want, say, make, have')
+
+('NNS', 'others, believers, data, data, images, weeks, towns, nuns, habits, bans, states, aren, clashes, sides, faith, experiences, others, sensibilities, practices, questions, acts, acts, groups, scenes, protests, data, responses, github, christians, actions, actions, hackles, christians, others, invitations, hears, feels, corner, people, cons, reactions, friends, cares, christians, friends, ones, christians, interviews, christians, ties, believers, professionals, signs, christians, others, markers, christians, clothes, threequarters, atheists, agnostics, atheists, agnostics, circumstances, christians, groups, atheists, agnostics, meals, god, ways, friends, strangers, god, forks, grace, conversations, friends')
+
+('VBN', 'filed, banned, banned, been, based, asked, carried, rejected, thought, set, lifted, lot')
+
+('VBD', 'considered, saw, laïcité, explained, was, commissioned, led, worried, were, were, seemed, resembled, backed, said, neglected, spoke, spoke, were, overestimated, were, spotted, were, was, saw, felt, prayed, guessed, found, prayer, tried')
+
+('JJS', 'best, oddest')
+
+('VB', 'get, ask, performed, see, cause, pray, pray, respect, engage, untroubled, sixtytwo, feel, feel, see, tricky')
+
+('JJR', 'better, fewer')
+

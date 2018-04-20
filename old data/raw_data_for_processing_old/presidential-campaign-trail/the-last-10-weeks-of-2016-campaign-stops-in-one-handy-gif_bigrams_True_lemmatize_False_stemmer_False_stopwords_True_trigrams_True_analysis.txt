@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 128
+Raw number of types: 98
+Raw Type token ratio: 0.765625
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 299
+Number of types: 251
+Type token ratio: 0.8394648829431438
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'last handy filed main hillary enough stops inperson conservative daily at334 onehandy under2016 ofthe ofthe thehillary thatshe donald travelingthan stops andinperson sept1 nov8 speechin innew accordingto fromthe theconservative youcan howtheir inonehandy filedunder2016 oneofthe criticismsofthe ofthehillary campaigningdonald moretravelingthan hemade106 fundraisersandinperson fromsept only71 includingher speechinnew accordingto collectedfromthe fromtheconservative andhillaryspeechescom1you hillaryspeechescom1youcan seehowtheir schedulescomparedin')
+
+('NNS', 'weeks matthew data data criticisms fundraisers media appearances clinton data schedules maps campaignstops postelectioncriticisms campaignstops rallies fundraisers mediaappearances appearances campaignschedules themaps mainpostelectioncriticisms stopsrallies ralliesfundraisers inpersonmediaappearances mediaappearances throughnov8 conservativedailynews theircampaignschedules inthemaps')
+
+('NN', 'campaign election github github datapresidentialcampaigntrail postelection clinton campaign campaigning donald trump clinton campaign dayaftertheelection concession speech york news hillaryspeechescom1 campaign pmthe thelast weeksof of2016 inone handygif gifby bymatthew matthewconlen electionget getthe thedata dataon ongithub githubgithub githubdata dataat atdatapresidentialcampaigntrail datapresidentialcampaigntrailfacebooktwitteremail facebooktwitteremailone themain mainpostelection hillaryclinton clintoncampaign campaignhas hasbeen shedidn donaldtrump thanclinton clinton inpersonmedia throughnov clinton clintonmade herdayaftertheelection dayaftertheelectionconcession concessionspeech newyork york todata datai newsand andhillaryspeechescom1 hillaryspeechescom1you cansee theircampaign comparedin inthe at334pm pmthelast thelast10 weeksof2016 of2016campaign campaignstopsin stopsinone onehandygif handygifby gifbymatthew bymatthewconlen under2016election electiongetthe getthedata thedataon dataongithub ongithubgithub githubgithubdata githubdataat dataatdatapresidentialcampaigntrail atdatapresidentialcampaigntrailfacebooktwitteremail datapresidentialcampaigntrailfacebooktwitteremailone ofthemain themainpostelection thehillaryclinton hillaryclintoncampaign clintoncampaignhas campaignhasbeen thatshedidn shedidn didnt donaldtrump certainlydidmore travelingthanclinton thanclinton clintonhe made106campaign campaignstops andinpersonmedia fromsept1 clintonmade includingherdayaftertheelection herdayaftertheelectionconcession dayaftertheelectionconcessionspeech innewyork newyork york accordingtodata todatai youcansee howtheircampaign comparedinthe mapsabove')
+
+('VBZ', 'stops rallies rallies only71 dailynews last10weeks beenthatshe rallies madeonly71')
+
+('VBN', 'conlen made made collected compared icollected')
+
+('VBG', 'traveling including according enoughcampaigning campaigning moretraveling including according doenoughcampaigning enoughcampaigning didmoretraveling 71including according')
+
+('VBD', 'sept last10 conlenfiled oneof certainlydid hemade fromsept schedulescompared matthewconlenfiled facebooktwitteremailoneof trumpcertainlydid hemade dataicollected campaignschedulescompared')
+
+('VB', 'dec16 mapsabove themapsabove')
+
+('VBP', 'stopsin criticismsof fundraisersand seehow postelectioncriticismsof fundraisersand appearancesfrom concessionspeechin dailynewsand canseehow')
+
+('JJR', 'filedunder includingher conlenfiledunder')
+

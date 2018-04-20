@@ -1,0 +1,48 @@
+Article: star-wars-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 688
+Raw number of types: 265
+Raw Type token ratio: 0.3851744186046512
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 3 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 315
+Number of types: 185
+Type token ratio: 0.5873015873015873
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, star, hickey, star, series, exhibition, cite, cinema, saintdenis, france, chesnot, week, star, production, forthcoming, response, trilogy, excuse, realize, empire, bunch, shot, greedo, poll, audience, seventynine, percent, star, question, difference, gender, percent, star, film, film, franchise, percent, probability, someone, star, film, star, film, star, empire, film, number, return, jedi, star, menace, star, star, hope, movie, star, film, rank, question, share, film, favorite, rate, empire, rate, hope, return, jedi, menace, film, rate, chart, film, take, series, boilerplate, format, favorability, state, view, himher, rate, series, jar, favorability, rating, personification, galaxy, impact, revisionism, society')
+
+('JJ', 'america, favorite, favorite, costume, getty, sneak, peek, fighter, new, recent, perfect, examine, many, america, hated, solo, surveymonkey, june, available, github, substantial, percent, likely, fan, percent, star, phantom, original, new, subset, drill, overall, original, likely, new, phantom, likely, top, third, second, middle, third, third, fourth, bottom, third, second, nuanced, political, unfamiliar, jar, actual, know, historical')
+
+('NNS', 'wars, movies, characters, movies, data, github, data, datastarwarssurvey, wars, images, wars, movies, questions, answers, people, wars, fans, characters, respondents, data, respondents, wars, men, wars, women, people, men, men, women, respondents, films, people, wars, wars, wars, strikes, people, wars, people, wars, wars, wars, respondents, wars, respondents, people, films, fans, camps, movies, prequels, people, strikes, prequels, shows, polls, characters, respondents, characters, binks')
+
+('VBP', 'least, walt, get, github, yoda, films, provide, star, rest, films, see, episode, episode, episode, episode, please, read, want')
+
+('VBN', 'filed, displayed, watched, seen, compared, seen, compared, seen, seen, given, given, seen, seen, seen, rated, rated, rated, used')
+
+('VBD', 'caught, wanted, wellliked, ran, said, asked, followed, reported, renamed, asked, indicated, calculated, broke, preferred, preferred, said, took, asked')
+
+('VBG', 'xwing, middling, surveying, responding, seeing, following')
+
+('VBZ', 'strikes, han')
+
+('JJS', 'best, least, least, best, best, worst, best, best, worst, worst')
+
+('VB', 'consider, find')
+
+('JJR', 'higher, lower')
+

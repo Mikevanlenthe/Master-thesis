@@ -1,0 +1,43 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 541
+Raw number of types: 252
+Raw Type token ratio: 0.4658040665434381
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 305
+Number of types: 176
+Type token ratio: 0.5770491803278689
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'sitting giving giving making seeking choosing speaking giving')
+
+('NN', 'president speech university bialik education github president commencement speech howard university commencement convocation cheriss nurphoto image president address presidency sunday university force howard university commencement speech year pace president bill clinton office george bush predecessor pace term office president commencement speech year year circuit academy institution school harry truman office start commencementspeech record presidency project president graduation academy time school time school time college university school capitol page school time johnson richard jimmy carter chart page address president college university jimmy carter cheyney state college president speech hbcus school obama state address time state york imbalance diversity commencement speech president time trip washington maryland virginia speech place state reach range student account number factor school commencement speech size school location schedule obama house spokeswoman president commencement speech year chance address graduate year bill clinton example commencement loyola marymount university graduate university school service download story github')
+
+('VB', 'give give carl have travel take take')
+
+('JJ', 'commencement give getty commencement last june usual speech fouryear final military public private complete american archive military other public private count high capitol speech howard ninth black commencement league commencement right historical geographical presidential busy short wide such white obama many last saturday speak sunday eponymous clinton public')
+
+('VBD', 'used academy took upped took gave took graced spoke chose said spoke used')
+
+('NNS', 'rutgers data data datapresidentialcommencementspeeches data')
+
+('VBP', 'sunday github saturday take have include have come')
+
+('VBN', 'filed spoken given spoken combined scheduled')
+
+('JJR', 'higher more more')
+
+('VBZ', 'rutgers includes')
+

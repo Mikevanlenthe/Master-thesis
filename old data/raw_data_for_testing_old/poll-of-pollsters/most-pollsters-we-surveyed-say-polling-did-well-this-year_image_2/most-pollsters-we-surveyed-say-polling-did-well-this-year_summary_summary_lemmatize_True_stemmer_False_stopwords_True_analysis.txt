@@ -1,0 +1,25 @@
+Token analysis before pre-processing 
+Raw number of tokens: 48
+Raw number of types: 48
+Raw Type token ratio: 1.0
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = True
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'poll pollster race elect result year answer time respond trend name firm call show point joni selzer conduct senat poll spot elector look vote work')
+
+('VBD', 'said thought made')
+
+('JJ', 'carvalho')
+
+('NNS', 'data')
+
+Token analysis after pre-processing 
+Number of tokens: 30
+Number of types: 29
+Type token ratio: 0.9666666666666667
+

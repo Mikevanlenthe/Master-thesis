@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 289
+Raw number of types: 163
+Raw Type token ratio: 0.5640138408304498
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 642
+Number of types: 497
+Type token ratio: 0.7741433021806854
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'team chance minute game mike beuoy allison mccann basketball github github datanbawinprobs summarize season chart shot season point game team probability time score situation chart team ingame probability regulation time winloss record time probability model chart model state share winloss record point dominance contrast pull quarter amevery everynba nbateam team schance chanceof inevery everyminute minuteacross acrossevery everygame gameby mikebeuoy beuoyand andallison allisonmccann basketballget getthe thedata dataon ongithub githubgithub githubdata dataat canyou thenba nbaseason seasonin inone chart some372000 shot whatyou aboveis isthe the201415 season swin anypoint pointin inan annba game eachteam teamhas hasa aprobability probabilityof basedon onthe thetime thescore scoreand thesituation situation aftera shot foul chart eachteam team singame winprobability probabilityis eachminute minuteof ofregulation regulationtime time awinloss winlossrecord inreal realtime time winprobability probabilitymodel thefoundation thechart datafrom to2012 themodel modelis isnot ratherit bestto toreflect reflecthow hownba wonand andlost goldenstate atlantahawks hawksshare similarwinloss winlossrecord record butthey getto thatpoint point moredominance dominancethroughout contrast tpull pullaway thefourth quarter letus at748am ameverynba everynbateam nbateam winninginevery ineveryminute everyminuteacross minuteacrossevery acrosseverygame bymikebeuoy mikebeuoyand beuoyandallison andallisonmccann filedunderbasketball basketballgetthe getthedata thedataon dataongithub ongithubgithub githubgithubdata githubdataat dataatdatanbawinprobs atdatanbawinprobsfacebooktwitteremail facebooktwitteremailcanyou yousummarizethe summarizethenba thenbaseason onechart chartwith with794 gamesmore morethan andsome372000 probablynot notbut butwe butwe vegivenit givenita ashot seeaboveis aboveisthe isthe201415 the201415season summarizedat atany atanypoint anypointin pointinan inannba annbagame gameeach eachteam eachteamhas teamhasa hasaprobability winningbasedon basedonthe onthetime remainingthe thescore thescoreand scoreandthe andthesituation thesituation situationie ieafter aftera afteramade amadeshot madeshot shootingfoul fouletc thechart charteach eachteam eachteam ingamewinprobability winprobabilityis overeachminute eachminuteof minuteofregulation ofregulationtime regulationtime timeit slike watchingawinloss awinlossrecord winlossrecorddevelop recorddevelopin developinreal inrealtime realtime timethe thewin thewinprobability providesthefoundation ofthechart from13nba to2012 themodel themodelis modelisnot butratherit itsbestto besttoreflect toreflecthow reflecthownba playedwon wonand thegoldenstate andatlantahawks atlantahawksshare asimilarwinloss similarwinlossrecord winlossrecord recordbut butthey tothatpoint thatpoint pointthe shownmoredominance moredominancethroughout thehawks thehawks hawksin incontrast incontrast contrastdon tpullaway thefourthquarter fourthquarter quarterlet letus commentsbelow')
+
+('VBG', 'winning winning remaining watching building ofwinning ofwinning timeremaining remaining shooting likewatching oftenbuilding chanceofwinning probabilityofwinning thetimeremaining timeremaining shotshooting slikewatching oftenbuilding')
+
+('VBD', 'filed summarized made averaged played hawks mccannfiled summarized winningbased amade isaveraged foundationof from13 lost allisonmccannfiled probabilitiessummarized probabilityisaveraged seasons2000 wonandlost')
+
+('NNS', 'data data games possessions plays probabilities data seasons simulations games findings warriors hawks paths warriors games leads comments games 152000possessions givenit winprobabilities probabilities nbaseasons seasons onsimulations simulations itdoes nbagames favoritefindings findings statewarriors differentpaths thewarriors throughoutgames games insurmountableleads hawks owndiscoveries thecomments teams than152000possessions seasons swinprobabilities winprobabilities teams chartusesdata nbaseasons basedonsimulations onsimulations ratheritdoes hownbagames ourfavoritefindings favoritefindings goldenstatewarriors takendifferentpaths thewarriors dominancethroughoutgames insurmountableleads knowaboutyour yourowndiscoveries inthecomments')
+
+('VBN', 'given based based lost taken shown summarized notbased actuallyplayed played haveshown vegiven isnotbased areactuallyplayed actuallyplayed warriorshaveshown')
+
+('JJ', 'shot shooting foul minute real foundation reflect favorite golden similar different early insurmountable fourth feb18 at748 winningin underbasketball datanbawinprobsfacebooktwitteremail facebooktwitteremailcan summarizethe onechart morethan andsome probablynot vegiven ashot atany nbagame andthe madeshot shootingfoul inthe thechart ingamewin overeach slike watchinga developin thewin providesthe ofthe usesdata basedon oneof ourfavorite thegolden andatlanta sharea asimilar takendifferent insurmountable thehawks untilthe fourthquarter usknow aboutyour yourown inthe schanceof ofwinningin gamebymike datanbawinprobsfacebooktwitteremailcan seasoninone inonechart possessionsandsome probablynot itashot swin summarized nbagame ofwinningbased shootingfoul inthe inthechart singamewin averagedovereach likewatchinga thatprovidesthe foundationofthe usesdatafrom datafrom13 notbasedon lostone ofourfavorite thegolden warriorsandatlanta hawkssharea shareasimilar vetaken vetakendifferent togetto earlyinsurmountable leadsthe dont tpull awayuntilthe untilthefourth aboutyourown discoveriesinthe')
+
+('VB', 'develop yousummarize butwe seeabove recorddevelop toget underbasketballget youseeabove oneofour pathstoget')
+
+('VBZ', 'provides uses discoveries with794 plays thatprovides chartuses doesits leads with794games some372000plays whatyou modelthatprovides thechartuses itdoesits insurmountableleads')
+
+('JJS', 'best itsbest doesitsbest')
+
+('VBP', 'atlanta know possessionsand yousee gamesare warriorsand vetaken pathsto warriorshave incontrast discoveriesin commentsbelow schance canyousummarize weve whatyousee singame winprobabilitymodel simulationsbut nbagamesare findingsthe statewarriorsand butthey theyve differentpathsto thewarriorshave gamesoften letusknow owndiscoveriesin')
+
+('JJR', 'filedunder mccannfiledunder')
+

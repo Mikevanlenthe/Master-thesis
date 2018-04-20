@@ -1,0 +1,39 @@
+Token analysis before pre-processing 
+Raw number of tokens: 730
+Raw number of types: 241
+Raw Type token ratio: 0.33013698630136984
+
+Filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'tags media data suffers media sports tweets sentences stories disasters media people sentences hurricanes mentions states networks networks competitors hints programs observers delays journalists media outlets media media americans ricans searches storms media collects reveals shows data players weeks maria data citizens things maria')
+
+('VBP', 'data maria maria puerto alone database rico rico nahj google produce')
+
+('NN', 'data rico dhrumil mehta puerto rico github github datapuertoricomedia hurricane health care bill election president president phrase news rico course hurricane news internet devastation puerto news coverage trend news news hurricane spike conversation puerto hurricane spike texas florida television hurricane cable news hurricane maria network hurricane maria coverage network coverage analysis talk sunday coverage crisis puerto rico mention puerto rico puerto rico status territory reason lack news coverage delivery association statement disaster snyder press coverage devastation attention responsibility poll half puerto show interest mainland storm rico silence issue president visit rico week presence engagement mainland puerto puerto past citizen pass name irma2 cover cover spoke september hurricane')
+
+('VBZ', 'shows shows shows shows seems')
+
+('JJ', 'harvey spat anthem archive minute spokesperson dearth cloud primary last sunday national natural little attention1 similar british political many national hispanic unacceptable nationallocal equal recent aware american public initial told')
+
+('VBN', 'neglected published compared published aired combined dedicated given planned combined collected mentioned aired made issued')
+
+('VBD', 'filed maria fivethirtyeight trump ignored excepted failed said covered showed')
+
+('NNP', 'rico')
+
+('VBG', 'covering bring getting ramping according speculating calling calling paying coming')
+
+('VB', 'rest')
+
+('JJR', 'fewer smaller less higher')
+
+Token analysis after pre-processing 
+Number of tokens: 246
+Number of types: 169
+Type token ratio: 0.6869918699186992
+

@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 521
+Raw number of types: 247
+Raw Type token ratio: 0.4740882917466411
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = True
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 283
+Number of types: 175
+Type token ratio: 0.6183745583038869
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'month look randy olson weather github github datausweatherhistory year feel hotter administration report half june record world state aboveaverage temperature year janjune period record globe stateofclimate http tcodjwfrfmmjp pictwittercomxpj8rfr8bs july fact period july june temperature detail york time chart show month temperature city chart show record average range temperature year city dot day record blue year city story tell2 chart temperature heat wave year day record high temperature june year day setting record seattle winter day record spectrum temperature digit day houston temperature part spike city temperature houston month hottest record didn city city heat snap record climate change part country consequence climate view')
+
+('VBG', 'recordsetting saying recordsetting recordsetting beginning setting recordsetting lasting studying')
+
+('JJ', 'temperature normal national oceanic atmospheric first january western united high such noaanceiclimate noaa curious famous past handful large high normal actual past high previous unique famous justright several particular charlotte north uncomfortable high upper warm high other february single average cold other consistent clear last last many cold such houston general affect different single broad')
+
+('VBN', 'filed published released recorded updated examined expected')
+
+('NNS', 'data data angeles carolina chicago chart others')
+
+('JJS', 'warmest warmest warmest most best')
+
+('VBD', 'experienced looked experienced soared experienced returned reached were experienced')
+
+('JJR', 'more')
+
+('VBP', 'indicate click expand cold november make cold take')
+
+('VBZ', 'march')
+
+('VB', 'feel wave')
+

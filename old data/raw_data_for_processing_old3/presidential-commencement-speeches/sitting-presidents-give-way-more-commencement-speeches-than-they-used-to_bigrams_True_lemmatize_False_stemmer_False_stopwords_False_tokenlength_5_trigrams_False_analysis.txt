@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 541
+Raw number of types: 252
+Raw Type token ratio: 0.4658040665434381
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 469
+Number of types: 362
+Type token ratio: 0.7718550106609808
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'sitting giving giving seeking choosing speaking giving obama,giving while,giving virginia,making obama,seeking factors,choosing location,speaking president,giving')
+
+('NNS', 'presidents speeches rutgers datapresidentialcommencementspeeches images rutgers speeches presidents speeches presidents speeches records presidents graduations academies schools times schools times counts colleges universities schools times addresses presidents speeches schools states addresses times travels speeches presidents times speeches places states students factors schools speeches schedules speeches chances years graduates sitting,presidents commencement,speeches obama,rutgers github,datapresidentialcommencementspeeches getty,images sunday,rutgers commencement,speeches usual,presidents upped,speeches office,presidents commencement,speeches circuit,takes commencementspeech,records archive,presidents spoken,graduations military,academies public,schools schools,times private,schools schools,times those,counts include,colleges colleges,universities graced,times above,includes capitol,addresses college,presidents commencement,speeches league,schools commencement,addresses three,times state,travels commencement,speeches speeches,presidents presidents,times making,speeches three,places places,states range,students number,factors choosing,schools commencement,speeches speaking,schedules commencement,speeches address,graduates')
+
+('JJ', 'commencement github commencement getty sunday howard usual upped commencement final military public private complete american archive spoken military other public private capitol lyndon johnson speech howard ninth black commencement historical geographical presidential short washington commencement biden white likely clinton saturday commencement speak sunday eponymous clinton public presidents,commencement university,sunday under,higher datapresidentialcommencementspeeches,president gives,commencement university,148th nurphoto,getty images,president giving,commencement university,force spoke,howard university,saturday saturday,three speeches,usual speeches,fouryear typically,commencement obama,final takes,military another,public harry,truman start,complete records,american project,archive presidents,spoken graduations,military other,public times,those schools,capitol times,lyndon lyndon,johnson nixon,jimmy includes,capitol obama,speech speech,howard historically,black spoke,cheyney presidents,given given,commencement states,while times,state travels,right right,historical imbalance,geographical diversity,presidential short,within speeches,those those,three takes,account account,number schools,commencement speeches,school obama,biden obama,president clinton,example spoke,saturday saturday,commencement scheduled,speak speak,sunday graduates,eponymous university,arkansas school,public')
+
+('NN', 'university bialik education github president speech howard university commencement convocation cheriss nurphoto president commencement address presidency university force academy university saturday commencement clinton office george office circuit academy institution school harry truman office start commencementspeech presidency project school richard nixon jimmy carter chart capitol president college university jimmy carter cheyney state college league commencement state imbalance diversity commencement maryland virginia making reach range number school location house spokeswoman president commencement example loyola marymount university university school service download story github rutgers,university sunday,bialik higher,education education,github github,github president,obama commencement,speech speech,howard howard,university commencement,convocation convocation,cheriss cheriss,nurphoto president,obama commencement,address address,presidency presidency,sunday force,academy howard,university three,commencement presidents,since since,clinton clinton,office office,george george,predecessor before,office final,circuit military,academy public,institution institution,private private,school school,since since,harry truman,office complete,commencementspeech american,presidency capitol,school johnson,richard richard,nixon jimmy,carter carter,chart howard,ninth ninth,president black,college college,university university,since since,jimmy jimmy,carter cheyney,state state,college hbcus,league giving,commencement historical,imbalance geographical,diversity presidential,commencement chose,short within,washington washington,maryland maryland,virginia combined,obama seeking,reach reach,range school,location biden,white white,house house,spokeswoman giving,commencement chances,address example,spoke commencement,loyola loyola,marymount marymount,university eponymous,university arkansas,clinton clinton,school public,service service,download download,story story,github')
+
+('VBP', 'sunday obama predecessor fouryear obama include obama hbcus obama chose account speeches,obama rutgers,university speeches,obama presidency,project times,private counts,include universities,schools addresses,obama speeches,hbcus schools,obama addresses,three times,chose michelle,obama graduates,years')
+
+('VBN', 'filed given spoken scheduled obama,spoken')
+
+('JJR', 'higher filed,under')
+
+('VBZ', 'gives takes times includes takes graduates obama,gives academies,times widely,states students,takes likely,chances sunday,graduates')
+
+('VBD', 'spoke graced spoke combined spoke bialik,filed academy,spoke significantly,upped school,graced carter,spoke states,combined spokeswoman,obama university,scheduled')
+
+('VB', 'chart,above')
+

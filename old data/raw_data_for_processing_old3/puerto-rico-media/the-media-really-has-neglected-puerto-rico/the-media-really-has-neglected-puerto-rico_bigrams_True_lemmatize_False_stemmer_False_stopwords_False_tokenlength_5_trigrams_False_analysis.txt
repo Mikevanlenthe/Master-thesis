@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 581
+Raw number of types: 268
+Raw Type token ratio: 0.4612736660929432
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 465
+Number of types: 391
+Type token ratio: 0.8408602150537634
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'media,suffers,maria,media,things,sports,players,tweets,sentences,stories,disasters,weeks,maria,media,collects,reveals,shows,people,shows,sentences,maria,hurricanes,harvey,mentions,states,networks,maria,networks,competitors,shows,maria,programs,observers,journalists,media,outlets,media,media,americans,ricans,citizens,searches,storms,media,puerto suffers,hurricane maria,other things,president sports,sports players,trump tweets,anthem sentences,other stories,natural disasters,hurricane maria,database collects,coverage reveals,archive shows,people shows,fewer sentences,hurricane maria,about hurricanes,spike mentions,those states,cable networks,hurricane maria,maria networks,maria competitors,competitors hints,political shows,landfall programs,combined produce,puerto observers,hispanic journalists,media outlets,showed americans,puerto ricans,american citizens,google searches,higher storms,coming perhaps')
+
+('VBN', 'neglected,filed,published,excepted,combined,compared,published,aired,aired,combined,dedicated,issued,given,fivethirtyeight excepted,trend collected')
+
+('NN', 'puerto,dhrumil,mehta,puerto,github,github,datapuertoricomedia,puerto,hurricane,health,election,alabama,president,president,trump,anthem,hurricane,maria,course,hurricane,database,internet,devastation,puerto,coverage,trend,hurricane,conversation,puerto,television,cable,hurricane,network,hurricane,maria,coverage,maria,network,coverage,analysis,coverage,crisis,puerto,mention,puerto,puerto,status,territory,reason,coverage,delivery,association,statement,disaster,snyder,press,coverage,devastation,attention,responsibility,attention,interest,storm,puerto,silence,issue,president,visit,puerto,presence,mainland,puerto dhrumil,dhrumil mehta,puerto github,github github,github datapuertoricomedia,while puerto,after hurricane,things health,primary election,election alabama,between president,alone after,after president,president trump,national anthem,puerto hurricane,hurricane maria,those other,covering course,weeks hurricane,cloud database,internet every,shows devastation,devastation puerto,attention1 coverage,harvey irma2,irma2 spike,spike conversation,conversation about,about puerto,right hurricane,hurricane smaller,smaller spike,florida television,television those,covered hurricane,british network,mentioned hurricane,hurricane maria,aired coverage,coverage maria,ramping coverage,according analysis,sunday after,after maria,maria landfall,minute coverage,dedicated crisis,crisis puerto,puerto three,shows mention,mention puerto,speculating puerto,puerto status,status territory,territory reason,reason coverage,national association,spokesperson snyder,press coverage,nationallocal media,media cover,cover devastation,equal attention,attention responsibility,media paying,paying attention,attention recent,mainland storm,storm puerto,puerto after,initial silence,silence issue,president trump,trump visit,visit puerto,perhaps presence,citizen engagement,engagement mainland')
+
+('VBD', 'occupied,failed,collected,spoke,covered,mentioned,fivethirtyeight,showed,planned,really neglected,mehta filed,datapuertoricomedia published,excepted occupied,health failed,maria combined,course compared,relatively ignored,collects published,shows spoke,puerto right,networks covered,initially mentioned,seems aired,shows aired,programs combined,coverage dedicated,journalists issued,snyder fivethirtyeight,recent showed,puerto planned')
+
+('JJ', 'other,primary,phrase,national,other,other,natural,ignored,cloud,little,attention1,similar,archive,spike,spike,florida,british,political,landfall,minute,national,hispanic,spokesperson,dearth,unacceptable,nationallocal,equal,september,recent,aware,puerto,american,google,public,initial,bring,citizen,engagement,neglected puerto,under puerto,published while,occupied other,failed primary,alabama between,sunday alone,about phrase,phrase national,combined those,other natural,ignored media,media cloud,published internet,comparatively little,little attention1,reveals similar,collected archive,shows people,about hurricane,texas florida,hurricane cable,maria british,again ramping,analysis political,aired sunday,produce minute,delays delivery,delivery national,association hispanic,issued statement,calling media,proportionally spokesperson,fivethirtyeight dearth,dearth press,coverage unacceptable,unacceptable calling,calling nationallocal,devastation equal,given anywhere,september media,americans aware,aware puerto,ricans american,searches public,after initial,issue president,bring media,media citizen')
+
+('VBP', 'sunday,puerto,irma2,texas,hurricane,hints,produce,cover,cover,mainland,suffers after,maria media,players sunday,sentences puerto,stories worth,disasters weeks,similar trend,sentences about,hurricanes harvey,mentions texas,states hurricane,hints network,cover disaster,anywhere september,citizens google,public interest,storms mainland')
+
+('VBG', 'covering,getting,ramping,according,speculating,calling,calling,paying,coming,worth covering,puerto getting,coverage according,observers speculating,statement calling,planned coming,presence bring')
+
+('VBZ', 'shows,hurricane,seems,shows,delays,every shows,three shows,coverage delays')
+
+('JJR', 'fewer,smaller,higher,filed under,significantly fewer')
+
+('VB', 'responsibility would')
+

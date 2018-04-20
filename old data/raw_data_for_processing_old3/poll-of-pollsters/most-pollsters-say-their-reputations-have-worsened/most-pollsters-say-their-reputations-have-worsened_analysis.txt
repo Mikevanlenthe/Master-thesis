@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1514
+Raw number of types: 570
+Raw Type token ratio: 0.3764861294583884
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1057
+Number of types: 504
+Type token ratio: 0.4768211920529801
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'dec election github github atlanta campaign support david perdue atlanta jason getz election set campaign nation polling image election none image dozen pollsters1 perception election twitter account work everyone questionnaire pdf github list footnotes2 criticism industry election year greece tarnishing carson store grain story barbara carvalho marist college accuracy story election opinion field evolving selection everyone image dropp morning consult work computer innovation polling industry shape midterm year question industry shape voter technology response reach gourevitch strategy group response election response rate threat muhlenberg college electorate response group accuracy electorate polling election study respond matter julia clark election accuracy team work expertise institution methodology concern accuracy yorker article jill scientist lindsay monstrosity certainty poll majority policy emphasis blueprint policy selzer selzer company firm helpful majority imagine world poll polling test month poll vote iowa caucus system hampshire calendar state vote colleague harry telephone trump liveinterview voice response online question gap support type poll morning consult experiment study question trump liveinterview trump candidate person fivethirtyeight candidate jeb bush primary primary series state majority unsure critique something mood country blum blum weprin surveyusa primary meaningless majority unsure attention generalelection clinton donald stage race story election race control senate number gop majority house forecasting race anyone clinton nominee rubio opponent cruz chris christie trump jim gilmore guide election coverage polling')
+
+('JJS', 'most best least least')
+
+('NNS', 'pollsters reputations carl data data datapollofpollsters years images votes pollsters reputations pollsters people pollsters twothirds questions people responses pollsters politics pollsters media strands media moments polls results moments media organizations polls sins pollsters aggregators polls organizations media reports claims pyramids americans things pollsters polls polls methods respondents media pollsters results calamities years pollsters pollsters indicators data scientists scientists pollsters innovations data effects rates people people rates years pollsters polls results failures rates declines reasons pollsters results people polls results factors media critiques rogers polls pollsters media makers polls moines findings caucuses pollsters states primaries states nevada votes pollsters interviews numbers pollsters voices panels pollsters polls polls supporters polls people votes pollsters predictions polls years pollsters voters media polls matchups trump pollsters seats pollsters pollsters republicans seats marco polls polls pollsters')
+
+('VBP', 'say have have are are think make aggregate combine are believe are are have are say use have harder know have hadn have think weren don aren skew therefore contention are shouldn overstate find are know stand are name are iowa use use online are are have ask vote disagreed are tell are shouldn say expect republicans expect')
+
+('VBN', 'worsened filed been cast improved improved declined used blamed balanced dipped recorded narrowed advised taken been named named ted named named')
+
+('VB', 'get find israel kentucky say harbinger continue buffer know get win control hold hold')
+
+('VBD', 'hank asked declined answered said had said had was posed found responded blamed were covered said said were said were were said acknowledged were were said savvy agreed pointed increased was was responded said was said said were said said surprised pew found said dependent wrote said blamed put said did asked got got was was had noted found said trusted said disagreed said said predicted said said predicted thought read')
+
+('JJ', 'schwab past getty prominent public public few prolific prominent political public trump positive classic tactic many first much bad miss last second bad good few bad third uncritical outlandish such ben egypt many outlandish wrong interesting several several highprofile past matthew towery natural kyle several positive scrutiny recruitment same negative reach nick global low surprised missed recent chris borick older dramatic such predictive several pointed different other ipsos recent new political majoritarian undue meant ann few other notable immediate next iowa toughest next new primary third other live interactive much open trump reluctant preferred republican ignoring national national next slim helpful micheline jay leve national hypothetical hillary big tight presidential hillary democratic republican harry prior')
+
+('VBZ', 'worn sen losers outfits has donald does leads distorts improves drives misses remains wants polls des has follows polls remains has suggests does associates')
+
+('VBG', 'gathering according working measuring shaping feeling using doing filtering polling doing doing quantifying lumping polling nailing succumbing declining declining trying materializing citing overseeing polling polling finding polling affecting paying covering')
+
+('JJR', 'more more higher older more more lower more worse worse')
+

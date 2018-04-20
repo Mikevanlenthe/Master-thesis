@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 817
+Raw number of types: 341
+Raw Type token ratio: 0.4173806609547124
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 485
+Number of types: 270
+Type token ratio: 0.5567010309278351
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'trump president monument ella koeze trump administration github dataantiquitiesact president trump executive order department review monuments1 willingness monument status monument president barack obama site month administration creation monument orrin hatch government overreach approval president protection damage site president site status conservation association group conservation monument status president site monument status fact power monument status point trump monument designation share land government review trump executive order government land monument half country park state survey database state land land designation monument kind protection land government designation government reign drilling executive order trump power reshape nation trump office administration fishing order review rule protection water trump resolution coal land order indication administration conservation newssurveymonkey poll percent land percent amount percent land home land popularity fishing conservation fact secretary interior zinke conservationist monument zinke president')
+
+('VB', 'first alter have land protected protected abolish')
+
+('JJ', 'scrap national wednesday interior national recent national national utah former final such large utah federal national congressional national receive national national nonprofit public national many national other national national legal national ground national small federal national land4 national several past subject overall several federal national different mean western giant pristine natural geological national regional local public such national much special such public lead executive federal joint public recent symbolic trump american national popular february national right recreational such many ryan montana roosevelt teddy first national first')
+
+('VBN', 'filed published called collected been revoked been redesignated protected owned designated established owned allowed used owned issued been protected established')
+
+('NNS', 'data data predecessors sites bears bears acres conservatives presidents monuments thanks antiquities monuments parks activities data parks others parks kinds sites cases antiquities presidents scholars bears monuments monuments antiquities acres monuments others threshold administrations acres agencies monuments agencies data agencies areas activities cattle lands lures lands bodies companies policies people parks respondents parks activities means conservatives conservatives describes roosevelt')
+
+('VBP', 'github trump designate land have congress have rescind disagree make cover west responsibility operate have support trump teddy')
+
+('VBD', 'signed created revoke designated raised signed roosevelt revoked took states3 were managed kept took repealed signed conducted said said said')
+
+('VBG', 'instructing signaling including preventing according testing including depending determining including grazing logging using making rejecting hunting')
+
+('VBZ', 'appears ears ears covers promotes sites does removes ears owns falls doesn maintains aggregates evaluates offers does bullets extends')
+
+('NNP', 'teddy')
+
+('JJS', 'largest latest west')
+
+('JJR', 'freer smaller easier more less')
+

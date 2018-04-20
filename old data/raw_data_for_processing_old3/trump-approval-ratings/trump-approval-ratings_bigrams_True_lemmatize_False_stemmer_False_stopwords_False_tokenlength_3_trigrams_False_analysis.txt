@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 702
+Raw number of types: 330
+Raw Type token ratio: 0.4700854700854701
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 971
+Number of types: 735
+Type token ratio: 0.756951596292482
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', 'nov willie last give foreign american secret sure third cheap bargainbin surveymonday cursory main thanksgiving other other white regional consumed side dish definitive cranberry likely homemade middle atlantic central southern cornbread necessary percent cheese dish overall new confusing whole gronk pumpkin new middle pecan sweet cherry american little solid black friday great little early early high thirtyseven old what,your under,food last,year sullivan,getty when,give and,celebrate about,the refugees,american upon,for for,some and,three games,for identify,the the,secret out,they plans,kim hit,the the,santa thanksgiving,day commemorates,the third,week christmas,music are,cheap food,the carve,this like,bargainbin what,where our,surveymonday had,1058 got,cursory but,turkey with,percent other,white the,side though,the the,regional consumed,side side,dish southeast,the the,definitive canned,cranberry from,the likely,pick the,middle middle,atlantic cauliflower,side while,texas and,central central,southern see,cornbread more,necessary than,the from,those percent,the and,cheese include,the the,dish thanksgiving,menu meanwhile,new mind,over their,table percent,the finding,this about,dessert enjoys,pumpkin there,are are,three disproportionately,has pie,new the,middle middle,atlantic has,pecan assorted,south pie,the dessert,the that,most most,american shit,with with,little regions,solid solid,percent thanksgiving,day behind,little with,high friends,thirtyseven thirtyseven,percent said,they see,which don,have see,you that,didn were,you you,can')
+
+('NN', 'part america walt hickey food github github datathanksgiving2015 bird farm sonoma california year justin sullivan getty tale day consumption parade day midst point santa claus end macy day start week christmas music radio right food spirit holiday nation bird audience poll pork roast beef turkey percent meat centerpiece meal poultry side region southeast home sauce region percent pick variety side percent region versus percent texas rest country dinner nation southeast form mac percent region thanksgiving menu versus country england mind squash percent table nation whole finding pursuit endorse squash something dessert region pie america apple pie england america pie potato south america midwest west nation shit variation percent day way family way party dinner school percent facebook time bar card data your,part part,america thanksgiving,walt walt,hickey food,get get,the the,data data,github github,github github,data data,datathanksgiving2015 datathanksgiving2015,turkey turkey,the the,willie willie,bird bird,farm farm,sonoma sonoma,california california,last year,justin justin,sullivan thanksgiving,when celebrate,tale welcoming,foreign shores,once some,day day,mass mass,media media,consumption consumption,with with,parade three,nfl finding,out kim,sure the,point santa,claus claus,float float,the the,end end,the the,macy day,parade the,start start,the the,third week,christmas music,the the,radio radio,but but,least cheap,right right,and about,food the,spirit spirit,the bring,all together,let apart,this this,holiday this,nation bargainbin,bird bird,who surveymonday,audience audience,poll chicken,pork pork,and and,roast roast,beef saying,the the,other white,meat meat,the the,centerpiece centerpiece,their their,meal meal,when when,you get,past past,the the,poultry poultry,and and,check check,out come,out the,most dish,each each,region deeper,the the,southeast definitive,home cranberry,sauce the,region region,are are,percent percent,more the,homemade homemade,variety variety,the side,percent percent,the the,region region,versus versus,percent percent,nationwide texas,and cornbread,far rest,the the,country country,with with,percent having,dinner compared,with the,nation the,southeast carbs,the the,form form,mac mac,and cheese,percent dish,their menu,versus versus,percent percent,the the,country country,overall new,england over,squash squash,with with,percent demanding,their compared,with the,nation whole,this this,far far,the the,most this,whole whole,pursuit pursuit,did did,gronk gronk,endorse endorse,squash dessert,every every,region pumpkin,pie pie,but but,beyond three,americas americas,the the,america has,apple new,england and,the atlantic,the the,america pecan,pie pie,and and,sweet sweet,potato potato,pie pie,the south,and and,the the,america the,midwest midwest,and and,west west,still still,after the,nation buying,shit little,variation said,they they,would would,shop shop,black black,friday day,great great,way ditch,the the,party after,dinner dinner,hang hang,out high,school they,done might,worth checking,out out,facebook facebook,ahead ahead,time time,see which,your your,old didn,card card,when can,download download,the the,data data,for for,yourself')
+
+('VBZ', 'eats canadians commemorates eats dishes enjoys has atlantic has consumes unites didn where,the parade,commemorates who,eats here,the region,enjoys that,has friday,sales old,associates')
+
+('VBG', 'thanksgiving thanksgiving welcoming finding thanksgiving thanksgiving thanksgiving saying going having losing demanding buying thanksgiving checking doing eats,thanksgiving images,thanksgiving the,welcoming midst,finding macy,thanksgiving what,thanksgiving that,bring about,thanksgiving main,thanksgiving respondents,saying region,going regions,having their,thanksgiving england,losing percent,demanding most,confusing confusing,finding squash,something traditions,buying sales,thanksgiving worth,checking know,doing')
+
+('VBN', 'filed kim chicken come compared compared assorted done kids respondents,chicken table,compared the,assorted leave,the')
+
+('VBP', 'get don have are bring let get are have see include are leave leave don have nov,2015 thanks,and once,again parade,and others,day canadians,our don,have turkeys,are holiday,and factions,like shoutouts,main dishes,but rules,with you,get really,come respondents,from disproportionately,have states,see respondents,from prefers,their that,region region,include its,mind apple,pie england,and consumes,cherry cherry,pie after,dessert way,leave early,leave out,with yet,know that,and and,see that,bar')
+
+('NNS', 'data data images thanks refugees shores media nfl games others plans turkeys things factions traditions respondents shoutouts dishes rules respondents distinctions respondents states states respondents regions prefers carbs respondents traditions regions respondents sales friends respondents associates america,eats getty,images give,thanks foreign,refugees american,shores nfl,games for,others secret,canadians they,don have,plans least,turkeys the,things into,factions where,our thanksgiving,traditions 1058,respondents cursory,shoutouts thanksgiving,dishes turkey,rules percent,respondents side,dishes regional,distinctions sauce,respondents atlantic,states southern,states percent,respondents those,regions southeast,prefers percent,respondents losing,its that,consumes nation,unites american,traditions among,regions percent,respondents school,friends percent,respondents have,kids')
+
+('VB', 'celebrate identify parade peel carve check percent percent dessert shop worth see know see download day,identify let,peel and,carve family,behind way,ditch')
+
+('VBD', 'mass hit float had got canned percent did pie said hang said were hickey,filed sure,hit traditions,had beef,got disproportionately,consumed home,canned dinner,compared only,percent only,percent respondents,said respondents,said that,might')
+
+('JJS', 'least the,rest')
+
+('JJR', 'cauliflower filed,under going,deeper have,cauliflower leave,after')
+

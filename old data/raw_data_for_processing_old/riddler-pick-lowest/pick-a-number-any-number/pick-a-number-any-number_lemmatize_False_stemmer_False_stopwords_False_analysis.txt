@@ -1,0 +1,45 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1149
+Raw number of types: 416
+Raw Type token ratio: 0.36205395996518713
+
+Applied pre-processing:
+Lowercased all tokens 
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 540
+Number of types: 309
+Type token ratio: 0.5722222222222222
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('JJ', '\ufeffpick kurkdjian welcome related dear logic classic slowpuzzle next attic twitter abijith simple intriguing positive unique exclusive ordinal classic inclusive extra last previous certain fine primary many different legal many different november general capable possible november general last classic north dakota previous classic victory strategic castle victory same many previous many total victory excellent effective many much possible poor even worst victory eriksson enough daniel mathematical good')
+
+('NN', 'number number riddler riddler4x3default illustration guillaume riddler week math probability riddler express something riddler movement submit either1 shoutout week column hint riddler express krishnan participatory problem submit integer person number order riddler nation number riddler itay bavly number problem start want chain chain number number chain example chain place chain length chain credit submit answer solution week riddler express snowmass village colorado express puzzle town atlarge city commission voter vote election field voter election start number voting zero candidate vote election solution week riddler winner puzzle archenemy conquer value conqueror victory enemy send number archenemy castle news army battle order matter distribution opponent need markley description intuition solution knowledge battle figure strategy enemy case everything doesn cost castle number conquer deal number castle victory point distribution distribution distribution zack segel problem technique kind share code graphs image jack argument enemy troop distribution program distribution combat distribution')
+
+('VBN', 'edited filed bitesized favorite inducted left finished given know provided required called described')
+
+('VB', 'roeder submit organize adjacent build reduce rugby send have need')
+
+('VBP', 'offer hold want correct need have find winner chainlink have build cooper winner vote vote choose select vote choose select vote choose choose josiah collect have distribute castle have have need have need jack need want enemy want want make want make give perfect enemy daniel find band have')
+
+('NNS', 'problems things puzzle submissions integers rules factors numbers numbers congratulations mats folks seats candidates candidates ways outcomes ties candidates candidates ways ways ways candidates ballots candidates candidates slots equals outcomes congratulations jenkins warlords castles points castles points soldiers castles soldiers conquers points troops points points wins soldiers soldiers losses soldiers soldiers soldiers castles points points soldiers people things economics points points numbers soldiers sets soldiers soldiers soldiers castles points solvers simulations attempts iterations bars')
+
+('VBZ', 'types submits multiples advances gives castles sends wins ends desire arrives')
+
+('JJR', 'answer more more longer more soldier')
+
+('VBG', 'collecting building leaving running excluding separating adding competing meaning involving requiring being conquering using annealing representing')
+
+('JJS', 'lowest longest most most least best')
+
+('VBD', 'started cast split suffered ruled spent approached simulated were converged')
+
