@@ -1,0 +1,57 @@
+Article: steak-survey/how-americans-like-their-steak
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 653
+Raw number of types: 299
+Raw Type token ratio: 0.45788667687595713
+
+100 most freq tokens before (pre)processing: 
+[(',', 8260), ('the', 6445), ('.', 4322), ('of', 3254), ('a', 2731), ('to', 2690), ('in', 2436), ('and', 2391), ('’', 2186), ('(', 1633), (')', 1633), ('that', 1522), ('s', 1210), ('for', 1123), ("'", 1077), ('is', 1077), (':', 992), ('on', 945), ('it', 915), ('are', 783), ('“', 759), ('”', 758), ('with', 713), ('at', 678), ('as', 672), ('we', 664), ('—', 658), ('by', 636), ('trump', 636), ('our', 631), ('more', 618), ('i', 610), ('but', 597), ('they', 564), ('this', 550), ('team-logo', 535), ('or', 528), ('you', 517), ('from', 499), ('percent', 496), ('t', 487), ('have', 475), ('who', 470), ('about', 466), ('than', 452), ('was', 451), ('be', 438), ('one', 427), ('data', 396), ('were', 392), ('an', 384), ('verdict', 377), ('1', 376), ('has', 365), ('?', 362), ('polls', 361), ('not', 350), ('their', 337), ('said', 335), ('all', 334), ('like', 321), ('how', 312), ('he', 305), ('there', 301), ('other', 293), ('if', 290), ('so', 283), ('can', 283), ('most', 278), ('people', 276), ('what', 275), ('his', 274), ('some', 265), ('those', 258), ('which', 255), ('when', 248), ('out', 237), ('get', 228), ('also', 224), ('had', 223), ('up', 214), ('pollsters', 214), ('positive', 204), ('just', 200), ('each', 196), ('only', 191), ('two', 191), ('polling', 191), ('do', 188), ('2', 184), ('donald', 180), ('%', 178), (';', 177), ('them', 176), ('poll', 176), ('github', 172), ('points', 172), ('will', 171), ('time', 169), ('new', 168)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 848
+Number of types: 713
+Type token ratio: 0.8408018867924528
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'when it, s the, how they, absolutely nowhere, and green, anything to, personal, nice, no idea, reinforcing our, fivethirtyate, checked to, gained, out any, small, from this, in lottery, following hypothetical, place to, in traffic, laughable, s dandy, of the, bean, ballpark, my personal, s this, foodborne, like their, the moral, order their, checked the, insignificant, have 10, tried to, full, do people, one example, incinerated it, a or, good, of america, so much, any effect, there s, surveymonkey, are riskaverse, excited to, on the, settling frivolous, nina s, a solid, respondent, preferred their, different, prime, speed in, people interpret, in the, steaks mediumrare, hypothetical, pm, interpret, it s, likely to, discuss the, i lacked, simple, of foodborne, the speed, green, asked them, vast, you know, baked potato, got, relationship between, nothing i, a simple, frivolous, limit so, rest, as many, wounds with, american, lacked, place, have fresh, never miss, nina, not appear, under fivethirtyate, behavior, mediumrare in, picked lottery, green bean, in my, running actual, to full, i ran, had any, threat of, moral, dandy, prefer their, with surveymonkey, does not, here s, solid, rare, find, statistically insignificant, steak, actual, usually a, cooked here, likely, s laughable, for why, is the, or income, many, of ideas, risktaking behavior, comments here, fresh, why some')
+
+('NN', 'side of, get the, of rare, percent, a the, the threat, maybe people, sense of, effect the, github, out and, then i, limit, whether gender, to order, to bet, very well, different threshold, people s, lottery and, at datasteaksurvey, definition, indicating how, bean almondine, to start, ran a, speed, commitment to, surveymonkey audience, all after, potato and, income, chart, about the, look back, the cruise, poll, less juicy, taste, realize i, on may, them how, steak by, ran, lottery a, least in, skydiving prefer, age, futility it, on github, solid hypothesis, github data, their steak, data on, walt, when i, life when, disclosure, so why, cruise, the washington, lottery, full disclosure, jump, and 8, juicy, find out, girl, b, gender, about twice, success with, a you, getting the, walt hickey, commitment so, example, the time, the crosstabs, bet would, story datalab, steak, audience, to tease, with about, done i, data back, prefer, to reason, the story, if at, my life, how they, much still, see, at least, b you, mediumwell anyone, opportunity, know taste, vast majority, s risk, from this, behavior and, still if, the midwest, scout, github github, i prefer, experiment, almondine, argument, scott suchman, preferring mediumrare, threshold for, b i, this chart, personal quest, between people, m out, to try, i look, be any, result, and steak, sense, recover from, success, chance of, risk, effect, majority, riskaverse people, like it, superiority, jump out, a sense, of medium, which are, the superiority, illness everyone, rareness nada, midwest or, illness, of success, back at, reason from, crosstabs which, everyone has, there was, around with, at the, to never, to work, rib with, risk whether, may 16, has a, time in, people more, lottery b, reason people, this futility, story, laughable at, let me, of commitment, prime rib, and then, medium, threat, bet, cruise ship, chance, threshold, smoke go, see whether, riskaverse, work, payout of, so on, anything good, rareness, steak if, time, the ballpark, download let, superiority of, datasteaksurvey, order, lottery would, in lottery, washington post, at all, for risk, order their, survey, rest and, steak the, would be, evaluate, see the, hypothesis for, with a, scott, rib, could very, simple place, the girl, idea i, futility, to be, datalab has, data at, try, of satisfaction, idea, let, reason, with proper, s a, and evaluate, suchman, evaluate risk, pm how, steak rare, percent chance, start, cooked so, relationship, out of, s one, to find, a riskier, rare not, start there, do they, that it, this small, nada, anyone, we ran, testing how, satisfaction, riskier lottery, get, medium with, at 508, here s, the riskier, hickey, everyone, risk do, some people, potato, a different, the vast, prefer a, discus, download, small survey, have about, steak rareness, situation, interpret and, and i, one reason, would you, insignificant it, datasteaksurvey prime, traffic smoke, life, example we, appear to, many people, in this, the definition, post are, to download, hypothesis, by walt, moral superiority, nothing, data to, miss an, any relationship, has been, mediumrare to, foodborne illness, quest to, an opportunity, to see, work with, regression, america, with and, le, ideas let, our commitment, lacked a, nada then, people who, prefer steak, datalab, look, this side, respondent, tease, playing around, gender age, whether you, commitment, or lottery, dandy scott, the data, proper, side, it s, whether they, airplane, mediumrare, back i, consider, try to, ballpark of, satisfaction in, it could, i was, tougher less, quest, comment, i m, traffic, play lottery, in my, anything, fivethirtyate get, disclosure and, ship, post, taste i, america i')
+
+('VBN', 'cooked, have no, have a, and desiccated, tried, come, incinerated, was excited, i checked, scorched, done, filed')
+
+('NNS', 'their steaks, hypothetical situations, it stands, juicy steaks, consider the, it comes, girl scouts, assuming you, of airplanes, the relationships, besides, desiccated besides, frivolous arguments, the results, how respondents, how americans, risk thresholds, actual experiments, s always, asked respondents, fresh data, from its, ran regressions, people, audience polls, exceed the, the comments, midteens, crosstabs, ordered steaks, data, my midteens')
+
+('VBD', 'baked, how 550, bed, steaks incinerated, income had, preferred, asked, respondents preferred, with baked, twice as, i thought, i ordered, proper bed, may 7, be gained, steak cooked, then asked, and got, ship nina, age or, thought, cooked, steaks scorched, ordered, ran, excited, i checked, picked, checked, desiccated, we asked, who picked, hickey filed, they speed, i tried, smoke')
+
+('VBZ', 'and my, somewhere in, that one, suchman the, definition of, there does, rare steaks, its wounds, know in, washington')
+
+('VBP', 'to have, see, i have, arguments i, of 20, to prefer, stand, besides you, or exceed, regressions to, anyone have, speed limit, steak well, to mediumwell, appear, superiority of, scouts of, majority 69, miss, americans like, here s, people prefer, steaks is, find, thresholds and, go, they prefer, realize, why do, you have, of 100, they jump, opportunity to, exceed, stands to, comes to, situations in, know, particularly when, airplanes or, midteens and, threshold, results i, you play, risk, prefer, people order, polls it, were so, me know')
+
+('VBG', 'preferring, risktaking, to settling, settling, playing, indicating, chart indicating, people preferring, between risktaking, getting, skydiving, find anything, survey testing, following, running, assuming, reinforcing, after getting, s anything, was nothing, but reinforcing, testing, go skydiving, the following, been playing, in running')
+
+('JJS', 'bed rest, least, midwest')
+
+('VB', 'and realize, know, respondents consider, prefer, recover, play')
+
+('JJR', 'riskier, tougher, filed under, prefer tougher, know whether, wound')
+
+100 most freq tokens after processing: 
+[('of the', 716), ('in the', 671), ('trump', 655), ('poll', 543), ('teamlogo', 540), ('percent', 508), ('one', 477), ('1', 472), ('data', 401), ('verdict', 381), ('our verdict', 377), ('like', 348), ('said', 345), ('pollster', 322), ('people', 286), ('year', 269), ('number', 264), ('get', 263), ('to the', 261), ('it s', 253), ('2', 251), ('point', 247), ('10', 236), ('also', 229), ('percent of', 229), ('time', 227), ('on the', 225), ('state', 217), ('election', 214), ('positive', 205), ('11', 204), ('two', 196), ('polling', 192), ('and the', 190), ('donald', 186), ('13', 181), ('verdict positive', 178), ('%', 178), ('film', 176), ('3', 176), ('would', 174), ('14', 174), ('new', 173), ('github', 172), ('voter', 170), ('many', 169), ('republican', 169), ('average', 166), ('12', 166), ('result', 166), ('donald trump', 164), ('u', 161), ('for the', 156), ('make', 155), ('15', 155), ('much', 154), ('at the', 151), ('see', 149), ('to be', 149), ('rating', 149), ('candidate', 148), ('league', 146), ('first', 143), ('even', 143), ('may', 141), ('neutral', 136), ('5', 135), ('in a', 134), ('the data', 133), ('model', 132), ('likely', 131), ('president', 129), ('since', 128), ('week', 128), ('verdict neutral', 128), ('woman', 126), ('day', 126), ('don t', 126), ('the most', 125), ('player', 125), ('way', 123), ('question', 122), ('american', 121), ('last', 121), ('three', 121), ('number of', 121), ('16', 118), ('team', 116), ('percentage', 116), ('that the', 115), ('among', 115), ('think', 114), ('take', 114), ('4', 114), ('from the', 113), ('17', 113), ('clinton', 112), ('race', 112), ('season', 112), ('more than', 111)]

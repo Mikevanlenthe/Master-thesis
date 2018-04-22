@@ -1,0 +1,59 @@
+Article: trump-approval-ratings
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 702
+Raw number of types: 330
+Raw Type token ratio: 0.4700854700854701
+
+100 most freq tokens before (pre)processing: 
+[(',', 3871), ('the', 1872), ('(', 1182), (')', 1182), ("'", 1076), ('.', 1025), ('of', 860), ('a', 763), ('in', 741), ('to', 691), ('and', 604), (':', 542), ('’', 513), ('our', 434), ('that', 432), ('verdict', 377), ('trump', 337), ('s', 310), ('is', 304), ('for', 295), ('it', 294), ('on', 287), ('i', 267), ('1', 265), ('with', 222), ('more', 196), ('at', 192), ('positive', 189), ('we', 181), ('this', 178), ('percent', 176), ('by', 174), ('but', 164), ('as', 164), ('are', 159), ('—', 159), ('than', 158), ('donald', 155), ('like', 155), ('“', 151), ('”', 151), ('have', 135), ('from', 133), ('neutral', 133), ('you', 130), ('about', 130), ('was', 122), ('an', 118), ('t', 111), ('data', 111), ('be', 108), ('or', 106), ('/', 102), ('has', 101), ('one', 96), ('they', 89), ('not', 88), ('other', 83), ('negative', 83), ('all', 81), ('his', 81), ('hillary', 80), ('2', 80), ('were', 79), ("'m", 77), ('my', 76), ('state', 76), ('?', 75), ('their', 75), ('out', 75), ('when', 75), ('who', 74), ('me', 74), ('most', 72), ('how', 71), ('films', 71), ('so', 70), ('there', 70), ('he', 70), ('which', 69), ('model', 69), ('up', 68), ('3', 68), ('get', 67), ('people', 66), ('what', 65), ('polls', 65), ("'s", 64), (';', 63), ('some', 63), ('can', 63), ('if', 59), ('10', 59), ('do', 57), ('those', 57), ('only', 56), ('just', 55), ('5', 54), ('women', 53), ("n't", 51)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 938
+Number of types: 793
+Type token ratio: 0.8454157782515992
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'table, most american, percent, getty, secret, the homemade, and i, their carbs, at least, new, a bargainbin, us all, are three, disproportionately has, give, thanksgiving menu, assorted south, with high, us for, than the, while texas, definitive, the santa, associate, pumpkin, welcoming of, behind a, out they, games for, of the, the side, far the, their table, white, friends thirtyseven, spirit, has pecan, about food, meanwhile new, atlantic, overall, main thanksgiving, of your, facebook ahead, mind over, central southern, middle atlantic, great, surveymonday, include the, cheese, and cheese, third week, float, and central, friday, the dish, nfl, regional, thirtyseven percent, black, way to, america, facebook, christmas music, under food, foreign, past, refugee, turkey, up into, a solid, central, commemorates the, little, see you, we give, respondent, got cursory, pie, with 82, like a, in the, whole, bar, side dish, pie new, canned cranberry, pm, side, it s, likely to, about dessert, early, sullivan getty, from the, nationwide, u, last, the regional, more necessary, as a, associates don, day of, the secret, other white, last year, upon us, cursory, old, hit the, of their, day a, i know, american, cheap, the middle, texas, at the, that didn, know, though the, main, high, the willie, there are, shit with, the definitive, consumed, plans kim, said they, see which, southern, you can, had 1058, it might, carve this, sure, necessary, of this, with little, tale, pecan, part of, to american, and celebrate, a day, identify the, a little, here s, are cheap, that most, canadian, bargainbin, but turkey, our surveymonday, enjoys pumpkin, from those, likely, thanksgiving day, is the, in our, shit, pie the, dish, what where, dessert the, cranberry, holiday, third, consumed side, see cornbread, dessert')
+
+('NN', 'nation, get the, a turkey, nation up, for yourself, percent, pursuit, s the, in each, form, mac and, and check, country overall, meal, at 302, little variation, ve done, this nation, and three, the third, consumption, that bar, the radio, homemade variety, sullivan, we ve, github, england, percent of, bring, willie bird, check out, family, with 40, time, with 56, did gronk, beef, year, home, thing, party, the nation, card, of foreign, menu versus, region are, the midwest, leave, that region, were 19, of christmas, variety the, sweet, the poultry, west, poultry, atlantic the, this holiday, middle, once again, sonoma california, friend, radio, github github, week of, poultry and, let s, pursuit did, sure we, by walt, three nfl, mind, in sonoma, justin, endorse, midwest, come out, t card, and roast, and sweet, music on, cornbread as, macy, the southeast, farm in, parade and, the start, region versus, this is, is once, i ll, finding out, the rest, each region, country with, game, to see, sauce, the spirit, about the, our midst, country, way to, percent in, america, of america, after dinner, west still, hang out, of time, claus, the country, poll, dinner, time to, shop black, a great, it at, high school, turkey, rule, with a, the centerpiece, their meal, white meat, on the, pork, right and, the other, year justin, region, kim sure, at dinner, bring us, respondent, south and, distinction, pie, at datathanksgiving2015, and west, cauliflower as, point, data at, datathanksgiving2015 a, having it, on github, roast beef, deeper the, github data, tradition, they don, squash with, don t, in the, carbs in, the macy, rest of, pumpkin pie, consumption with, pecan pie, midwest and, download the, the data, midst by, but beyond, didn t, pie and, data on, walt, food, side, sale, percent more, it s, s a, christmas, bird, together let, for some, of mac, a whole, versus 9, to ditch, chicken pork, checking out, sonoma, and the, state, cranberry sauce, percent nationwide, every region, over squash, music, can download, still after, black friday, your old, bird farm, the party, squash, as a, whole pursuit, california, faction, americas the, food so, variation, plan, might be, rest, santa claus, the end, past the, the most, this whole, so it, england is, nation as, midst, saying the, meal when, texas and, ahead of, form of, roast, be worth, apple, bargainbin bird, justin sullivan, bird who, way, end, that s, gronk endorse, demanding it, media consumption, ll see, card when, shore, dish on, the region, thanksgiving by, versus 20, home of, hang, sweet potato, radio but, to hang, mass, pork and, compared with, dessert every, three americas, you at, gronk, american of, said they, they ve, image, endorse squash, walt hickey, of mass, meat, macy s, apart this, new england, the point, potato pie, ditch, variety, dinner to, mass media, food get, ll be, california last, when you, definitive home, day parade, get, check, dish in, a day, right, cheap right, datathanksgiving2015, the america, solid 23, week, claus float, would shop, great way, ditch the, cheese 35, medium, squash or, on their, hickey, audience, menu, santa, some it, surveymonday audience, get past, whole this, the form, is by, pie but, buying shit, data for, has apple, part, when we, chicken, versus, potato, they would, kid, thanksgiving is, finding of, pick, something, out facebook, thanksgiving when, centerpiece, as far, audience poll, to pick, pie the, farm, southeast, school, download, mac, day')
+
+('VBZ', 'region enjoys, end of, parade commemorates, old associates, kim, that over, unites, where the, enjoys, only 18, here s, that so, who eats, eats, friday sales, turkey at, are 50, only 28, start of, which of, that has, day to')
+
+('VBG', 'about thanksgiving, region going, losing, on thanksgiving, confusing, confusing finding, checking, or something, most confusing, the welcoming, respondents saying, images thanksgiving, be doing, by finding, their thanksgiving, buying, worth checking, is losing, that bring, what thanksgiving, saying, finding, thanksgiving, percent demanding, demanding, regions having, s thanksgiving, welcoming, traditions buying, going')
+
+('VBN', 'the assorted, table compared, compared, come, filed, leave the, done, respondents chicken, hit')
+
+('NNS', 'give thanks, school friends, see, shoutouts, nfl games, the things, prefers, celebrate a, thanks, cursory shoutouts, of respondents, others, getty images, southeast prefers, where our, thanksgiving dishes, southern states, america eats, america, 1058 respondents, have kids, regional distinctions, atlantic states, consumes, sauce respondents, commemorates, nation unites, have plans, eats, least turkeys, side dishes, turkey rules, thanksgiving traditions, foreign refugees, losing its, those regions, of traditions, that consumes, data, into factions, american shores, secret canadians, don t, among regions, for others')
+
+('VBP', 'disproportionately have, respondents in, see, dishes but, out with, thanks and, states see, consumes cherry, factions like, region include, t have, really come, america, prefers their, its mind, it on, cornbread, start, carbs, centerpiece of, after dessert, leave, a tale, holiday and, that and, respondents from, rules with, yet i, canadians in, cherry, regions a, early leave, you get, cherry pie, eats on, shores is, england and, celebrate, shoutouts as, include, others it, turkeys are, let, to leave, what your, apple pie, refugees to')
+
+('VBD', 'so in, said, homemade, beef got, float at, traditions had, got, meat is, cauliflower, of canned, solid, but at, ve hit, parade, disproportionately consumed, assorted, respondents said, a parade, dinner compared, canned, spirit of, hickey filed, whole, southeast is')
+
+('VB', 'carve, identify, family behind, see, and carve, to identify, s peel, get, peel, parade, worth, shop')
+
+('JJS', 'least')
+
+('JJR', 'going deeper, have cauliflower, filed under, over the, deeper, leave after')
+
+('NNP', 'atlantic, middle')
+
+100 most freq tokens after processing: 
+[('verdict', 380), ('our verdict', 377), ('trump', 355), ('1', 284), ('in the', 194), ('positive', 189), ('percent', 188), ('of the', 186), ('verdict positive', 178), ('like', 165), ('donald', 161), ('donald trump', 145), ('neutral', 133), ('verdict neutral', 128), ('film', 122), ('one', 120), ('data', 116), ('state', 106), ('poll', 95), ('get', 87), ('2', 87), ('to the', 87), ('hillary', 83), ('negative', 83), ('it s', 82), ('percent of', 82), ('year', 81), ('10', 78), ('3', 78), ('i m', 78), ('model', 78), ('people', 76), ('number', 74), ('on the', 74), ('candidate', 73), ('verdict negative', 71), ('woman', 68), ('5', 63), ('time', 60), ('and the', 60), ('at the', 60), ('point', 60), ('movie', 60), ('nt', 58), ('clinton', 57), ('said', 56), ('also', 55), ('make', 54), ('would', 53), ('republican', 53), ('the trump', 53), ('2014', 51), ('2013', 51), ('2015', 51), ('6', 51), ('day', 50), ('bill', 50), ('election', 49), ('got', 48), ('2016', 48), ('2012', 48), ('two', 47), ('for the', 46), ('4', 46), ('driver', 46), ('way', 45), ('github', 45), ('new', 43), ('average', 43), ('think', 42), ('u', 42), ('test', 42), ('much', 42), ('the data', 42), ('show', 42), ('2013 our', 42), ('president', 41), ('2015 our', 41), ('tower', 40), ('police', 39), ('more than', 39), ('even', 38), ('money', 38), ('obama', 38), ('win', 38), ('race', 38), ('case', 38), ('look', 37), ('in a', 37), ('9', 37), ('democrat', 37), ('see', 36), ('last', 36), ('city', 36), ('likely', 36), ('don t', 36), ('1 i', 36), ('come', 35), ('forecast', 35), ('know', 34)]

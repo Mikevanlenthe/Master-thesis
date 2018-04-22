@@ -1,0 +1,3 @@
+Article: trump-twitter
+
+Number of graphs: 1

@@ -1,0 +1,55 @@
+Article: hate-crimes
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1696
+Raw number of types: 560
+Raw Type token ratio: 0.330188679245283
+
+100 most freq tokens before (pre)processing: 
+[(',', 7164), ('the', 6213), ('.', 4103), ('of', 3103), ('a', 2567), ('to', 2533), ('in', 2363), ('and', 2268), ('’', 2052), ('that', 1433), ('(', 1202), (')', 1202), ('s', 1118), ('for', 1068), ('is', 1025), (':', 965), ('on', 913), ('it', 848), ('are', 753), ('“', 719), ('”', 718), ('with', 673), ("'", 665), ('at', 643), ('as', 642), ('trump', 636), ('by', 619), ('—', 614), ('we', 613), ('our', 606), ('more', 603), ('i', 565), ('but', 562), ('they', 540), ('team-logo', 535), ('this', 523), ('or', 487), ('you', 479), ('percent', 478), ('t', 465), ('from', 465), ('have', 461), ('who', 448), ('about', 446), ('than', 436), ('was', 434), ('be', 416), ('one', 411), ('were', 385), ('verdict', 377), ('data', 376), ('1', 374), ('an', 360), ('polls', 360), ('has', 348), ('not', 337), ('?', 332), ('all', 320), ('their', 317), ('said', 307), ('like', 300), ('he', 292), ('how', 284), ('other', 284), ('if', 281), ('there', 281), ('so', 266), ('most', 262), ('can', 261), ('his', 260), ('some', 253), ('those', 249), ('people', 246), ('which', 244), ('what', 244), ('when', 230), ('out', 215), ('get', 214), ('had', 214), ('pollsters', 214), ('also', 211), ('up', 205), ('positive', 203), ('each', 193), ('just', 193), ('polling', 191), ('only', 185), ('two', 184), ('2', 182), ('donald', 180), ('do', 178), ('%', 178), ('poll', 176), (';', 173), ('points', 172), ('number', 167), ('them', 166), ('github', 164), ('new', 164), ('time', 164)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 872
+Number of types: 451
+Type token ratio: 0.5172018348623854
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'capita, addition, era, number, question, percent, government, disparity, uniform, comparison, difference, neighborhood, langton, magnitude, ‘, bias, data, pm, degree, fact, bureau, well, anger, jan, regression, determinant, inauguration, awareness, form, method, maimuna, law, preelection, message, factors1, blame, least, nat, research, hate, justice, factor, navigate, survey, diversity, news, correction, situation, motivation, mark, track, connection, coverage, article, version, trump, selfreport, potok, community, fraction, correlation, economy, postelection, administration, variety, level, presidency, twice, approach, model, gini, splc, predictor, september, analysis, victimization, majority, state, role, combination, crisis, population, country, index, resentment, crime, heterogeneity, intelligence, document, poverty, health, instance, enforcement, point, increase, center, splc2, day, minority, hand, multivariate, violence, police, twitter, work, chief, school, officer, majumder, entry, manning, education, condition, collection, percentage, income, unemployment, project, direction, incident, net, platform, impact, causation, recruitment, fbi, email, program, report, inequality, election, figure, household, trend, college')
+
+('JJR', 'broader, higher, older, greater, easier, answer, better')
+
+('NNS', 'hawaii, increases, indicators, aims, groups, sources, days, campuses, trends, github, confounders, police, determinants, limitations, areas, residents, fields, results, meets, variables, times, economists, adults, collects, data, media, outputs, entries, drivers, documents, neighbors, datahatecrimes, means, materials, plans, accounts, rates, crimes, factors, statistics, people, collaborators, agencies, options, users, records, fbi, shifts, months, others, individuals, states, incidents, words, findings, numbers, respondents, sets, selfreports, offenses')
+
+('VBP', 'preelection, tell, model, reveal, hate, github, collect, analysis, fear, data, go, wake, include, tricky, selfreport, trump, continue, correlation, circulation, look, expect, get, fbi, report, use, make, see, try')
+
+('JJ', 'special, collected, epidemiology, donald, easy, useful, prosecutable, available, national, oftied, preliminary, nonprosecutable, true, enable, representative, environmental, statelevel, analysis3, essential, unreported, general, type, average, bureau, able, subset, new, federal, determinant, form, hate, determine, sufficient, robust, degree4, potential, similar, comprehensive, consistent, future, text, high, recorded, tied, geographic, possible, southern, previous, assess, median, splc, unclear, likely, relative, insight, objective, misplaced, notable, baked, reported, propublica, united, poverty, white, nationalist, ucr, additional, several, editorinchief, lynn, different, angry, much, nevertheless, chief, economic, independent, worth, key, typical, relevant, traditional, nonwhite, journal, annual, resentful, linear, fbi, report, significant, ushahidi, socioeconomic, many, vary, uncertain')
+
+('VBN', 'collected, found, filed, selfreported, associated, designed, targeted, collegeeducated, given, mischaracterized, controlled, used, distributed, known, based, populationadjusted, considered, tied, reported, adjusted, measured, released, set, updated, heightened')
+
+('VBD', 'ran, correlated, limited, called, selfreported, revealed, included, remained, said, increased, linked, highschooleducated, varied, curated, overrepresented, held, submitted, metropolitan, underrepresented, combined, yielded, voted, allowed, identified, reported, wellestablished, stood')
+
+('VBG', 'including, crowdsourcing, conducting, operating, working, allowing, catalyzing, averaging, asking, reporting, using, collecting, promising, according, controlling')
+
+('VB', 'mean, reported, serve, find, hate, supplement, play, imply, provide, encouraged, differ')
+
+('VBZ', 'makes, casts, remains, comes, variables, states, includes, biases, demands, suggests, serves, uses, outputs')
+
+100 most freq tokens after processing: 
+[('trump', 643), ('teamlogo', 538), ('percent', 486), ('1', 463), ('one', 420), ('data', 379), ('verdict', 378), ('polls', 364), ('said', 313), ('like', 306), ('people', 252), ('2', 247), ('10', 228), ('get', 220), ('also', 214), ('pollsters', 214), ('positive', 203), ('11', 202), ('polling', 192), ('two', 187), ('donald', 184), ('13', 181), ('%', 178), ('poll', 176), ('14', 174), ('3', 172), ('points', 172), ('number', 168), ('time', 167), ('new', 167), ('would', 165), ('12', 165), ('github', 164), ('many', 158), ('election', 157), ('15', 155), ('average', 154), ('much', 144), ('us', 143), ('league', 142), ('see', 140), ('first', 139), ('neutral', 136), ('voters', 136), ('5', 134), ('year', 132), ('even', 131), ('may', 129), ('likely', 126), ('since', 126), ('years', 118), ('state', 117), ('16', 117), ('last', 116), ('president', 114), ('three', 114), ('17', 113), ('4', 113), ('among', 111), ('clinton', 109), ('2016', 109), ('percentage', 109), ('results', 109), ('pollster', 107), ('make', 105), ('national', 103), ('women', 102), ('think', 101), ('2014', 101), ('6', 100), ('season', 100), ('films', 100), ('still', 99), ('less', 99), ('hillary', 98), ('republican', 98), ('use', 95), ('19', 95), ('states', 94), ('every', 94), ('20', 94), ('way', 93), ('another', 93), ('numbers', 93), ('model', 93), ('8', 92), ('negative', 92), ('error', 90), ('least', 90), ('2015', 89), ('18', 88), ('ratings', 88), ('take', 87), ('whether', 85), ('vote', 85), ('2012', 85), ('well', 84), ('college', 83), ('asked', 82), ('candidates', 82)]

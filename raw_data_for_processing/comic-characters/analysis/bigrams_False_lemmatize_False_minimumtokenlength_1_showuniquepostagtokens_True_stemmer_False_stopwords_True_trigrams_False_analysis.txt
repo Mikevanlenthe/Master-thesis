@@ -1,0 +1,59 @@
+Article: comic-characters
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2640
+Raw number of types: 816
+Raw Type token ratio: 0.3090909090909091
+
+100 most freq tokens before (pre)processing: 
+[(',', 7630), ('the', 6594), ('.', 4439), ('of', 3349), ('a', 2790), ('to', 2744), ('in', 2486), ('and', 2474), ('’', 2233), ('that', 1566), ('(', 1246), (')', 1246), ('s', 1234), ('for', 1148), ('is', 1102), (':', 988), ('on', 964), ('it', 934), ('are', 820), ('“', 787), ('”', 786), ('with', 726), ('at', 704), ('we', 687), ('—', 685), ('as', 684), ("'", 665), ('by', 649), ('more', 637), ('trump', 636), ('our', 633), ('i', 628), ('but', 607), ('they', 574), ('this', 564), ('or', 538), ('team-logo', 535), ('you', 528), ('percent', 521), ('from', 510), ('have', 497), ('t', 497), ('who', 482), ('about', 476), ('was', 464), ('than', 462), ('be', 451), ('one', 438), ('data', 412), ('were', 410), ('an', 393), ('has', 383), ('verdict', 377), ('1', 377), ('?', 364), ('polls', 361), ('not', 358), ('said', 350), ('their', 344), ('all', 339), ('like', 326), ('how', 321), ('there', 312), ('he', 307), ('other', 297), ('so', 294), ('if', 292), ('can', 290), ('people', 283), ('what', 279), ('most', 278), ('his', 274), ('some', 267), ('those', 263), ('which', 259), ('when', 257), ('out', 245), ('get', 234), ('also', 234), ('had', 229), ('up', 226), ('each', 214), ('pollsters', 214), ('just', 206), ('positive', 204), ('only', 199), ('two', 197), ('do', 196), ('polling', 191), ('new', 184), ('2', 184), ('them', 180), ('donald', 180), ('%', 178), (';', 177), ('github', 176), ('poll', 176), ('number', 175), ('time', 174), ('points', 173)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1284
+Number of types: 687
+Type token ratio: 0.5350467289719626
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'financial, underrepresent, attract, tall, raw, available, interested, san, bad, alive, blip, know, huge, ‘, gender, data, young, standard, strong, whole, ninth, bisexual, sainz, pull, underrepresented, excellent, able, ratios, new, particular, femaleled, least, dc, female, universe, old, left, harassment, superman, unique, call, track, leap, slight, similar, disappointing, difficult, comprehensive, consistent, lucky, secret, half, appeal, solid, vocal, international, monthly, aggregate, possible, neutral, backlash, male, arrive, major, single, getty, creative, diverse, likely, public, demographic, unlikely, pakistani, diversify, reality16, muslim, good, jersey, historian, big, negative, comic, newsstand, top, batwoman, g, obvious, normal, modern, enough, surprising, wilson, open, white, onstage, last, unfortunate, digital, longstanding, online, several, long, girl, different, much, newcomer, in11, marvel, recent, specialized, close, lgbt, vast, acknowledgment, universe13, traditional, comichron, passive, difficulttoovercome, first, unceremonious, derivative, annual, characters15, comfortable, spiderwoman, pick, willing, lesbian, great, unpowered, sexual, many, longtime')
+
+('NNS', 'conventions, datacomiccharacters, readers, appearances, towards, discussions, years, analyzes, dc, sales, guys, charts, folks, pencilers, advancements, comics, things, github, editors, males, shops, events, scenes, stars, counterparts, cases, newsstands, images, identities, times, artists, females, weeks, writers, kinds, panelists, reasons, data, villains, forums, skew, minorities, issues, fans, trademarks, categories, monitors, stories, shows, offerings, changes, attempts, cosplayers, characters, people, heroes, expectations, buyers, breaks, versions, efforts, books, houses, men, genders, communities, creators, attitudes, publishers, universes, words, comiccreators, sites, women, counts, numbers, decades, points, scandals, superheroes, resources, titles')
+
+('VBN', 'established, spiked, femaleled, analyzed, found, filed, badaligned, assumed, introduced, portrayed, named, spent, made, eyed, combined, owned, taken, released, exceeded, set, pulled, pasted, misstated, existed, devoted, published')
+
+('VBP', 'move, least, write, dc, wellknown, think, github, aaron, august, marvel, wikia8, talk, mainstream, phoenix, gender, start14, awesome, show, walt, include, come, feel, supergirl, perfect, find, take, page, count, look, infer, belinda, draw, get, character, spiderwoman, crowd, marvel1, make, see, publisher7, appear, wilson, pivot, exist, attend, trifecta, tend, say')
+
+('NN', 'fuel, gutierrez, introduction, standin, fiction, stake, caveat, think, number, sexualminority, percent, business, recall, disparity, york, rest, information, talk, gender, jackson, tim, miller, paucity, diamond, costume, chart, change, forward, side, eye, fact, city, interest, blog, ms, moment, start, io9, jason, roster, issue, decade, create, distributors3, focus, ie, portray, exist, california, hickey, databases4, name, dwindling, transgender, oscar, shehulk, nunez, dc, diego, representation, publisher, female, harassment, win, diversity, comiccon, advantage, correction, reason, mark, characters10, goal, continuity, sexuality, mainstream, article, version, series, john, picture, audience, community, random, evidence, site, distribution, scholarship, kirkpatrick, everyone, text, year, example, bersain, researcher, team, pornography, attendance, it5, gimmick, relationship, heart, thor, creator, story, today, part, dude, paperback, backlash, identity, wikia, color, system, death, kind, science, getty, allegiance, course, earthtwo, letter, rate, majority, state, superhero, skew, introduce, month, store, population, creation, july, damn, con, weekend, davis, line, convention, note, trade, topselling, females2, dozen, diehard, corner, wilson, lot, industry, hammer, sex, outfit, appearance, earth, online, something, parity, data12, minority, girl, view, time, superheroine, wikias, perception, hair, shop, work, book, aaron, cancellation, characters6, marvel, list, collection, tj, percentage, hanley, fan, batgirl, project, way, imbalance, page, film, group, character, title, spiderwoman, misogyny, batch, success, report, figure, market, credit, reaction, gay, compare, trend, dead9')
+
+('VBD', 'detailed, collected, ruled, wrote, changed, spoke, estimated, ignored, perceived, left, shifted, outnumbered, praised, called, created, believed, moved, introduced, looked, declared, slight, fanmaintained, developed, avoided, said, posted, made, lost, catered, straight, stopped, appeared, happened, painted, neglected, explained, veered, oct, categorized, sought, rocked, started, became, went, set, pulled, saw, alienated, got')
+
+('VBG', 'dwindling, happening, living, unwelcoming, updating, discussing, criticizing, ending, following, saying, writing, going, bestselling, counting, approaching, reaching, introducing, becoming, creating, speaking, heading, changing, thinking, beating, appearing, coming, looking, publishing, talking, upgrading, trying, discouraging, working, nonconforming, adding, booming, thriving, bring')
+
+('JJS', 'least, best')
+
+('VBZ', 'decades, databases, faces, comes, releases, says, emerges, runs, lgbt, charts, villains, gives, becomes, bears')
+
+('VB', 'get, hit, become, appeal, issue, see, intimidated, reflect, know, forget, due, look, got')
+
+('JJR', 'broader, higher, radar, earlier, closer')
+
+('NNP', '‘, khan, kamala, midoctober')
+
+100 most freq tokens after processing: 
+[('trump', 643), ('teamlogo', 538), ('percent', 529), ('1', 466), ('one', 447), ('data', 415), ('verdict', 378), ('polls', 365), ('said', 356), ('like', 332), ('people', 289), ('2', 249), ('get', 240), ('also', 237), ('10', 234), ('pollsters', 214), ('positive', 204), ('11', 202), ('two', 200), ('polling', 192), ('new', 187), ('donald', 184), ('13', 182), ('%', 178), ('time', 177), ('number', 176), ('github', 176), ('poll', 176), ('would', 175), ('3', 175), ('14', 175), ('points', 173), ('many', 171), ('12', 166), ('us', 159), ('average', 157), ('election', 157), ('much', 156), ('15', 156), ('see', 154), ('year', 150), ('even', 149), ('first', 143), ('league', 143), ('may', 142), ('neutral', 138), ('voters', 136), ('likely', 135), ('5', 135), ('years', 132), ('since', 132), ('women', 129), ('state', 121), ('three', 121), ('last', 120), ('among', 119), ('16', 118), ('results', 118), ('percentage', 116), ('president', 114), ('4', 114), ('17', 113), ('make', 112), ('still', 112), ('2014', 111), ('2016', 110), ('clinton', 109), ('think', 108), ('pollster', 107), ('model', 106), ('national', 105), ('less', 103), ('6', 102), ('every', 100), ('numbers', 100), ('use', 100), ('season', 100), ('films', 100), ('another', 99), ('way', 98), ('hillary', 98), ('republican', 98), ('least', 98), ('20', 97), ('19', 97), ('well', 95), ('states', 94), ('take', 94), ('whether', 94), ('2015', 94), ('8', 93), ('error', 93), ('negative', 93), ('ratings', 89), ('based', 88), ('18', 88), ('college', 88), ('got', 87), ('found', 87), ('2012', 87)]

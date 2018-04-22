@@ -1,0 +1,59 @@
+Article: undefeated-boxers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1281
+Raw number of types: 520
+Raw Type token ratio: 0.4059328649492584
+
+100 most freq tokens before (pre)processing: 
+[(',', 9777), ('the', 8961), ('.', 6138), ('of', 4456), ('a', 3843), ('to', 3599), ('in', 3358), ('and', 3290), ('’', 3150), ('that', 2012), ('s', 1793), ('for', 1522), ('is', 1486), ('(', 1455), (')', 1453), ('it', 1285), ('on', 1275), (':', 1167), ('are', 1055), ('“', 1029), ('”', 1028), ('—', 948), ('as', 938), ('at', 936), ('with', 931), ('we', 891), ('but', 865), ('by', 858), ('i', 826), ('percent', 814), ('more', 791), ('trump', 754), ('this', 753), ('or', 706), ('our', 700), ('have', 694), ('they', 682), ('from', 678), ('was', 670), ("'", 665), ('you', 657), ('t', 655), ('about', 620), ('be', 605), ('than', 602), ('who', 583), ('has', 565), ('one', 556), ('data', 540), ('team-logo', 535), ('an', 521), ('were', 516), ('not', 490), ('he', 471), ('?', 470), ('all', 460), ('their', 445), ('so', 435), ('there', 433), ('his', 415), ('how', 403), ('1', 401), ('said', 399), ('polls', 393), ('like', 391), ('if', 387), ('other', 377), ('verdict', 377), ('can', 369), ('which', 363), ('what', 363), ('some', 359), ('when', 345), ('people', 343), ('most', 338), ('had', 335), ('out', 333), ('those', 319), ('also', 318), ('up', 289), ('get', 280), ('each', 277), ('only', 274), ('just', 270), ('two', 256), ('been', 250), ('do', 246), ('world', 246), ('its', 244), ('time', 242), ('github', 235), ('these', 235), ('new', 233), ('will', 233), (';', 228), ('them', 225), ('would', 222), ('no', 220), ('year', 218), ('pollsters', 214)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 614
+Number of types: 424
+Type token ratio: 0.6905537459283387
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBN', 'amassed, played, disqualified, fought, subjected, expected, clocked, contributed, defined, selected, given, sullied, shown')
+
+('JJ', 'undefeated, foreman, leveraged, athlete, boxrec, argument, wladimir, american, primary, perspective, welterweight, blow, defensive, right, next, lose, getty, limited, huge, forbes, canvas, minimumweight, fair, ufc, tbe, main, final, pro, heavyweight, public, fourth, professional, marketable, marciano, close, residual, flyweight, mike, cynical, floyd, spectacle, potential, historical, second, chart, real, boring, accomplished, boy, fight, unsatisfied, saturday, numerous, top, calibrated, mcgregor, draw, central, title, modern, mayweather, pep, willing, great, rocky, marquee, booed, protect, many, beginning, narcissistic, halfhug, weight, perfect')
+
+('NN', 'watch, addition, number, yankee, business, anything, remainder, caricature, round, draws, boxing, george, moore, vs, payperview, cruiserweight, showman, defeat, showtime, moment, poundforpound, victory, draw, victor, shane, heel, retirement, brinjonathan, conor, bit, decade, star, opponent, pristine, blockbuster, boxer, substance, century, name, zero, oscar, sugar, record, larry, turn, research, event, archie, status, crude, win, sport, tbe, cheer, enter, exploitation, marciano, attraction, penalty, muhammad, pitch, defenseless, history, john, demise, jr, expert, threat, immaculate, class, everyone, year, debt, shave, imperfect, mayweather, today, champion, stadium, chance, game, model, argument, hell, tyson, payday, ali, joe, transformation, brand, pay, afp, role, style, ray, lopez, humiliation, planet, world, successor, jimmy, fight, claim, villain, saturday, klitschko, night, ninefigure, analyst, crowd, dozen, square, citizen, forget, robinson, hollywood, kane, blow, stature, roy, ricardo, function, basis, discussion, excitement, list, marketing, possibility, close, host, prize, floyd, money, dream, frazier, case, henry, ortiz, way, vegas, loss, lennox, mcgregor, character, fighter, truth, career, gurzinski, legacy, butler, las, perfect')
+
+('VBD', 'undefeated, benefited, struck, constructed, assembled, filed, dismissed, stayed, tarnished, retired, left, stepped, turned, heard, tbe, heavyweight, recovered, knocked, declared, emerged, witnessed, cheered, headbutted, gave, included, said, made, lost, scraped, highestpaid, fought, cared, suggested, maintained, voted, transformed, played, beat, argued, became, hook, told, fell, discussed, published')
+
+('JJR', 'mayweather, less, roeder')
+
+('VB', 'get, era, find, apologize, give, say')
+
+('NNS', 'years, boxers, sales, distills, trailers, jones, fighters, louis, glistens, github, losses, images, angle, times, draws, consumers, data, recycles, avengers, metrics, audiences, calls, pleasures, fans, expectations, records, buyers, others, poses, wins, fights, careers, greats, opponents, dataundefeatedboxers, decisions')
+
+('VBP', 'barry, mayweather, know, make, list, github, primes, career, triumphs, shrewd, dhrumil, floyd, willie')
+
+('JJS', 'loudest, lest, best, quest, wealthiest, biggest, simplest')
+
+('VBG', 'heartstopping, holding, careerdefining, reacting, suffering, watching, incurring, fighting, witnessing, selling, grinding, boxing, selfaggrandizing, luring, appealing, branding, knocking, creating, thinking, appearing, according, trying, timing, sizzling, ring')
+
+('VBZ', 'franchises, wins, lewis, holmes, thinks')
+
+('NNP', 'mosley')
+
+100 most freq tokens after processing: 
+[('percent', 822), ('trump', 761), ('one', 565), ('data', 543), ('teamlogo', 538), ('1', 492), ('said', 405), ('like', 397), ('polls', 397), ('verdict', 378), ('people', 349), ('also', 321), ('get', 286), ('10', 270), ('2', 264), ('two', 259), ('world', 249), ('time', 245), ('new', 236), ('github', 235), ('would', 228), ('us', 227), ('11', 226), ('year', 219), ('much', 215), ('pollsters', 214), ('13', 210), ('number', 207), ('positive', 207), ('many', 205), ('first', 204), ('average', 204), ('team', 203), ('polling', 201), ('points', 200), ('even', 198), ('since', 192), ('may', 191), ('14', 191), ('%', 190), ('donald', 188), ('3', 186), ('poll', 184), ('12', 183), ('years', 181), ('15', 181), ('see', 180), ('likely', 174), ('league', 172), ('election', 168), ('last', 160), ('three', 160), ('among', 159), ('voters', 158), ('states', 156), ('2014', 154), ('results', 153), ('still', 148), ('16', 148), ('state', 146), ('5', 145), ('make', 144), ('national', 142), ('president', 141), ('neutral', 138), ('women', 137), ('2016', 137), ('win', 135), ('least', 134), ('less', 133), ('republican', 132), ('think', 130), ('every', 130), ('way', 129), ('well', 128), ('17', 128), ('another', 125), ('respondents', 125), ('season', 125), ('4', 124), ('group', 123), ('percentage', 123), ('ratings', 123), ('good', 122), ('cup', 122), ('clinton', 121), ('better', 121), ('model', 120), ('whether', 119), ('might', 119), ('based', 119), ('take', 117), ('2015', 116), ('numbers', 115), ('20', 114), ('6', 114), ('use', 114), ('players', 114), ('filed', 112), ('top', 112)]

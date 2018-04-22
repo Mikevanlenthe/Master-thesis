@@ -1,0 +1,59 @@
+Article: mlb-elo
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1332
+Raw number of types: 531
+Raw Type token ratio: 0.39864864864864863
+
+100 most freq tokens before (pre)processing: 
+[(',', 3720), ('the', 2201), ('.', 1221), ('of', 1022), ('(', 1016), (')', 1016), ('a', 896), ("'", 870), ('in', 847), ('to', 809), ('and', 733), ('’', 608), (':', 562), ('that', 485), ('our', 440), ('verdict', 377), ('s', 366), ('is', 354), ('on', 340), ('trump', 338), ('it', 337), ('for', 329), ('i', 285), ('1', 281), ('with', 249), ('at', 227), ('more', 210), ('percent', 207), ('by', 206), ('we', 202), ('—', 202), ('are', 201), ('this', 198), ('but', 195), ('as', 189), ('positive', 189), ('“', 173), ('”', 173), ('than', 168), ('like', 167), ('from', 163), ('have', 156), ('donald', 156), ('you', 153), ('about', 141), ('was', 141), ('an', 136), ('or', 136), ('data', 135), ('neutral', 133), ('t', 125), ('be', 122), ('they', 118), ('one', 115), ('has', 112), ('/', 103), ('their', 101), ('all', 100), ('not', 99), ('out', 96), ('other', 96), ('were', 94), ('who', 92), ('so', 91), ('when', 88), ('what', 88), ('up', 88), ('?', 87), ('which', 87), ('his', 87), ('2', 85), ('most', 83), ('negative', 83), ('people', 83), ('there', 82), ('my', 82), ('if', 81), ('how', 81), ('he', 81), ('hillary', 81), ('get', 78), ('some', 78), ('state', 78), ('model', 77), ("'m", 76), ('can', 76), ('me', 76), ('films', 73), ('only', 70), (';', 69), ('do', 68), ('3', 68), ('just', 66), ('polls', 65), ('those', 63), ('10', 63), ("'s", 62), ('rock', 60), ('its', 59), ('said', 59)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 730
+Number of types: 430
+Type token ratio: 0.589041095890411
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'mlb, everything, work, pedro, squad, rookie, henry, title, fastballer, cub, thats, existence, strike, debut, alex, fassero, franchise, griffey, star, dimaggio, owner, percentage, road, beat, history, center, patsy, official, inauguration, spider, manager, score, cup, century, yankee, york, win, cy, championship, stay, baltimore, larry, joe, bring, era, slugger, fielder, sport, committee, jr, winning, hill, pitcher, chicago, league, wil, stretch, losing, butch, suzuki, elo, end, tying, revenue, city, bill, rating, walker, boone, measure, exhibition, cordero, boston, fan, player, playoff, record, day, decision, weve, garcia, secondplace, series, jeff, hit, staff, home, pennant, duo, career, location, appearance, dominance, shortstop, calculation, wasnt, run, start, season, result, twin, set, method, aug, schedule, date, methodology, tiger, pace, association, count, world, average, disaster, didnt, part, bomber, cleveland, game, sox, transplant, atlanta, detail, mariner, ruth, brave, peak, capitalize, strength, montreal, offense, mickey, team, sideshow, freddie, babe, arc, havent, moyer, prediction, retrosheetorg, doesnt, postseason, al, ichiro, jamie, mantle, johnson, year, grissom, nfl, martinez, expo, tebeau, time, montantayoung, baseball, firstplace, expansion, manage, randy, attendance')
+
+('NNS', 'marquis, fivethirtyeights, belongs, astros, louis')
+
+('JJ', 'mlb, american, seattle, st, ask, able, travel, actual, first, great, professional, onethird, defunct, unstoppable, total, upset, brown, additional, inaugural, controversial, special, high, decree, franchise, pennant, national, celtic, difficult, mean, streak, multigenerational, japanese, league, current, enough, improved, dominant, temple, favorite, several, interactive, late1990s, 19th, next, final, washington, alcs, franchisehigh, outstanding, new, nba, elo, oriole, good, arent, regular, average, red, cardinal, nfl, seventh, simple, finish, shipped, sox, white, different, equivalent, right, major, young, elm, bad, alou')
+
+('VBG', 'pitching, electrifying, beating, starting, playing, coming, comparing, stocking, going, including, joining, peaking, making, dropping, winning')
+
+('VBN', 'compared, ken, disappointed, played, chosen, milwaukee, calculated, used, gone, reverted, stacked, held, based, known, become, calibrated')
+
+('VBP', 'consider, rodriguez, win, peak, begin, spider, weve, league, russell, come, exclude, title, brave, pick, include')
+
+('VBZ', 'continues, moises, dimaggio, depends')
+
+('VBD', 'came, went, seattle, got, created, put, scored, included, struggled, touched, canceled, kicked, added, started, left, read, reached, finished, originated, led, improved, departed, boast, credited, made, played, appeared, refused, purchased, posted, shortened, picked, contracted, ended, captured, declared, snagged, began, covered, combined')
+
+('JJS', 'highest, greatest, worst, best')
+
+('VB', 'expo, overstate, come, bret, reach, become')
+
+('JJR', 'spider, higher, walker')
+
+('NNP', 'ken')
+
+100 most freq tokens after processing: 
+[('verdict', 379), ('trump', 354), ('1', 299), ('percent', 217), ('positive', 189), ('like', 176), ('donald', 161), ('data', 139), ('one', 138), ('neutral', 133), ('film', 123), ('state', 111), ('get', 96), ('year', 96), ('poll', 94), ('2', 92), ('people', 91), ('model', 87), ('hillary', 83), ('negative', 83), ('10', 81), ('number', 80), ('3', 77), ('candidate', 72), ('time', 71), ('woman', 69), ('said', 67), ('5', 66), ('point', 66), ('make', 63), ('would', 62), ('also', 62), ('movie', 62), ('rock', 61), ('new', 59), ('clinton', 59), ('nt', 56), ('day', 54), ('2015', 54), ('2014', 53), ('6', 53), ('two', 52), ('republican', 52), ('github', 52), ('2016', 52), ('2013', 51), ('bill', 51), ('way', 49), ('election', 49), ('got', 48), ('2012', 48), ('4', 47), ('much', 46), ('driver', 46), ('classic', 46), ('average', 45), ('u', 44), ('test', 44), ('see', 44), ('show', 44), ('think', 43), ('city', 42), ('first', 41), ('look', 41), ('even', 41), ('win', 41), ('song', 41), ('national', 41), ('tower', 40), ('president', 39), ('come', 39), ('police', 39), ('case', 39), ('rating', 39), ('last', 38), ('8', 38), ('race', 38), ('9', 38), ('change', 38), ('know', 37), ('american', 37), ('money', 37), ('obama', 37), ('among', 37), ('democrat', 37), ('likely', 36), ('7', 36), ('15', 36), ('percentage', 36), ('go', 35), ('use', 35), ('forecast', 35), ('every', 34), ('many', 34), ('set', 34), ('fuck', 34), ('2008', 34), ('weather', 34), ('team', 34), ('senate', 34)]

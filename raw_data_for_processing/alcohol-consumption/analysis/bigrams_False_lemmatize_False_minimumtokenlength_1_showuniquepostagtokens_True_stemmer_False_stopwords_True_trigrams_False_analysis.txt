@@ -1,0 +1,59 @@
+Article: alcohol-consumption
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1117
+Raw number of types: 441
+Raw Type token ratio: 0.39480752014324083
+
+100 most freq tokens before (pre)processing: 
+[(',', 3889), ('the', 2752), ('.', 1608), ('of', 1311), ('a', 1135), ('in', 1080), ('to', 1017), ('and', 930), ('(', 873), (')', 873), ('’', 770), ("'", 664), (':', 620), ('that', 596), ('s', 468), ('is', 447), ('our', 443), ('for', 422), ('it', 409), ('on', 407), ('verdict', 377), ('trump', 368), ('i', 312), ('with', 305), ('at', 295), ('are', 291), ('1', 290), ('by', 267), ('more', 266), ('percent', 263), ('—', 256), ('as', 244), ('but', 243), ('this', 234), ('we', 233), ('“', 227), ('”', 227), ('you', 218), ('have', 208), ('than', 204), ('from', 203), ('positive', 189), ('like', 187), ('about', 184), ('was', 179), ('or', 175), ('data', 173), ('donald', 159), ('be', 155), ('t', 155), ('an', 155), ('they', 152), ('has', 152), ('all', 140), ('one', 137), ('neutral', 133), ('who', 130), ('were', 120), ('other', 120), ('not', 119), ('most', 117), ('their', 117), ('out', 113), ('so', 112), ('/', 111), ('there', 110), ('?', 109), ('people', 109), ('if', 108), ('up', 106), ('can', 105), ('those', 105), ('when', 105), ('get', 103), ('what', 103), ('his', 102), ('which', 101), ('he', 101), ('some', 98), ('how', 93), ('2', 90), ('only', 87), ('my', 85), ('me', 85), ('state', 85), ('negative', 83), ('just', 82), (';', 81), ('hillary', 81), ('do', 80), ('each', 80), ('its', 78), ('also', 78), ('model', 77), ('films', 77), ('10', 76), ("'m", 75), ('github', 74), ('had', 74), ('3', 74)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 526
+Number of types: 339
+Type token ratio: 0.6444866920152091
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'capita, smirnoff, question, liquor, government, technology, data, food, pm, average, reader, martin, spirit, home, russia, rice, agriculture, university, pure, shrestha, bottom, distillation, cock, friday, century, firm, regulation, transport, purchasing, alcohol, chalabi, availability, scotch, chunnikhel, professor, rum, article, beer, ritchie, prohibition, send, find, wine, drunk, ally, year, ask, example, alcoholism, size, moscow, dataalcoholconsumption, bull, grain, age, phenomenon, brand, june, ap, shotglass, field, state, dearmona, drinking, followup, organization, population, ginger, world, country, explanation, popularity, euromonitor, wheat, scott, database, industry, quartz, health, price, mine, mule, overall, time, scarce, work, katmandu, nation, measure, marketing, percentage, fivethirtyeightcom, datalab538, refrigeration, beverage, person, france, lifetime, consumption, way, idea, institute, wwii, sell, abstain, vodka')
+
+('JJ', 'percapita, previous, american, consumed, mona, hard, interested, national, liter, available, different, know, github, early, much, liquor, popular, likely, green, table, answered, niranjan, storm, worth, simple, tequila, caribbean, nepalese, alcoholic, namibia, standard, grenada, islamic, muslim, drank, lengthy, type, take, average, wine, international, detail, sizes, due, normal, technological, russia, email, dear, favorite, colleague, perishable, 20th, new, french, united, content, fluid, germany, many, wwii, nepal, full, vodka, last')
+
+('NNS', 'drinks, capita, years, ones, sales, days, trends, github, abstainers, assumptions, results, countries, fluctuations, conforms, data, studies, ounces, stereotypes, innovations, americans, terms, orleans, choices, drugs, cans, shots, factors, statistics, spirits, populations, people, tastes, glasses, records, comparisons, farmers, liters, figures, gallons, servings, mexicans, numbers, measures, bars')
+
+('VBP', 'describes, mona, know, github, briefly, alcohol, consideration, push, assume, choose, go, hurricane, show, remember, america, find, wine, take, get, favorite, use, pure, make, drink, consume, break')
+
+('VBN', 'used, created, consumed, filed, opposed, taken, imported, purchased, spirit, compared')
+
+('VBD', 'recorded, caught, needed, responded, conformed, rose, fell, looked, became, wanted, took, explained, followed, converted, ordered, said, made')
+
+('VBG', 'looking, bowling, rising, working, beerdrinking, knocking, serving, going, using, peaking, according, changing, king, bottling, capitalizing, including, drinking')
+
+('JJS', 'least, biggest, highest')
+
+('VBZ', 'presents, demonstrates, drinks, wants, shows, bars, spirits')
+
+('VB', 'get, produce, drink, like, comprehensible, look')
+
+('JJR', 'less, easier, higher')
+
+('NNP', '‘')
+
+100 most freq tokens after processing: 
+[('verdict', 378), ('trump', 374), ('1', 305), ('percent', 271), ('like', 193), ('positive', 189), ('data', 176), ('donald', 163), ('one', 146), ('neutral', 133), ('people', 115), ('get', 109), ('2', 96), ('10', 90), ('state', 88), ('negative', 83), ('hillary', 82), ('3', 82), ('also', 81), ('model', 77), ('films', 77), ('said', 75), ('github', 74), ('new', 73), ('polls', 73), ('two', 69), ('national', 68), ('5', 67), ('points', 67), ('would', 66), ('time', 65), ('women', 65), ('year', 65), ('2015', 63), ('number', 62), ('rock', 61), ('us', 60), ('first', 60), ('2016', 60), ('2014', 59), ('film', 58), ('much', 57), ('clinton', 57), ('average', 56), ('nt', 55), ('money', 55), ('last', 55), ('6', 55), ('classic', 55), ('even', 54), ('police', 53), ('likely', 52), ('2013', 52), ('got', 51), ('see', 49), ('2012', 49), ('4', 48), ('make', 47), ('years', 47), ('candidates', 47), ('way', 46), ('since', 46), ('republican', 45), ('among', 45), ('president', 44), ('many', 44), ('may', 44), ('know', 43), ('15', 43), ('9', 43), ('percentage', 43), ('test', 42), ('every', 42), ('day', 42), ('bill', 42), ('bush', 41), ('obama', 41), ('numbers', 41), ('still', 41), ('less', 40), ('think', 39), ('three', 39), ('8', 39), ('election', 39), ('candidate', 39), ('states', 38), ('20', 38), ('example', 38), ('set', 37), ('7', 37), ('least', 37), ('based', 37), ('according', 37), ('use', 37), ('well', 36), ('world', 36), ('big', 36), ('drivers', 36), ('weather', 36), ('senate', 36)]

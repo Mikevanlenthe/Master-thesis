@@ -1,0 +1,57 @@
+Article: marriage
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1481
+Raw number of types: 460
+Raw Type token ratio: 0.3106009453072249
+
+100 most freq tokens before (pre)processing: 
+[(',', 3855), ('the', 2331), ('.', 1319), ('of', 1081), ('(', 1028), (')', 1028), ('a', 955), ('in', 915), ('to', 872), ("'", 870), ('and', 776), ('’', 645), (':', 585), ('that', 519), ('our', 440), ('s', 384), ('is', 379), ('verdict', 377), ('on', 362), ('for', 358), ('it', 355), ('trump', 338), ('i', 289), ('1', 281), ('with', 271), ('at', 254), ('percent', 234), ('more', 233), ('by', 229), ('are', 229), ('—', 223), ('but', 216), ('we', 214), ('as', 208), ('this', 204), ('“', 198), ('”', 198), ('positive', 189), ('than', 183), ('have', 177), ('from', 171), ('like', 170), ('you', 157), ('donald', 156), ('about', 153), ('was', 152), ('data', 149), ('or', 147), ('an', 142), ('they', 140), ('t', 135), ('neutral', 133), ('be', 129), ('one', 123), ('has', 118), ('/', 108), ('their', 108), ('all', 107), ('who', 106), ('other', 103), ('were', 102), ('not', 101), ('out', 101), ('so', 97), ('when', 95), ('people', 95), ('most', 94), ('which', 94), ('?', 92), ('get', 89), ('his', 89), ('what', 89), ('up', 89), ('there', 88), ('some', 85), ('2', 85), ('how', 84), ('he', 84), ('my', 83), ('negative', 83), ('those', 83), ('if', 81), ('can', 81), ('hillary', 81), ('state', 79), ('model', 77), ('films', 77), ("'m", 76), (';', 76), ('me', 76), ('do', 72), ('only', 72), ('just', 70), ('3', 70), ('also', 68), ('its', 66), ('polls', 66), ('10', 65), ('said', 63), ("'s", 62)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 722
+Number of types: 353
+Type token ratio: 0.4889196675900277
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'american, reasonable, married, steady, later, actual, likely, wednesday, follow, clooney, ready, borne, percent1, prospective, west, hidden, u, dead, le, wedlock, close, impossible, outside, high, fundamental, moral, spouse, unmarried, interesting, general, broken, percent, half, clear, decline, many, downward, pm, early, current, regardless, degree, broad, paint, question, arrive, similar, requirement, possible, stagnation, real, pierre, british, big, much, top, pattern, third, last, child, unlikely, lesseducated, important, old, reveal, identical, political, divide, strong, key, affluent, solid, ben, different, right, socioeconomic, young, religious, pew, getty, obsolete')
+
+('NN', 'belief, work, report, husband, life, marriage, orientation, wait, diploma, characteristics2, regardless, distinction, piece, center, problem, moment, family, pattern, estimate, child, beneath, three6, week, behavior, hand, extrapolation, school, affluent, chart, something, division, line, college, divorce, show, joe, evidence, quarter, spouse, person, steady10, half, group, bachelor, idea, plan, job8, majority3, race, steeper, come, venice, story, word, range, employment, term, mother, education, dig, tend, rate4, economy, path, amal, reason, picture, percent, decline, state, graduate, poorer, assume, respondent, result, requirement, stripe, age, beach, decade, figure, casselman, laid, woman, survey, disappearance, raedle, population, get, research, rate, sept, divergence, job, celebrate, le, overstate, github, palm, philogene, trend, help, mirror, degree, generation, datamarriage, degree9, image, lie, income, fact, case, number, year, teyssot, time, afp, actor, divide, lawyer, gap, versus, today')
+
+('VBN', 'lesseducated, compared, fallen, married, done, educated, employed, given, estimated, nevermarried, divorced, taken, filed, collegeeducated, based')
+
+('NNS', 'suggests, data, people, twothirds, america, others, men, diploma, degree, marriagechildren')
+
+('VBP', 'earn, marriage, edor, older, suggest, turn, tend, come, decide, say, link, make, marry, go, continue, degree, child')
+
+('VBD', 'wrote, agreed, lesseducated, forecast, released, married, educated, doubled, put, ranked, wed, accelerated, suggested, said, diploma, held, collegeeducated, florida, united, split')
+
+('VB', 'appear, see, explain, get, related, decide, marry, help, george')
+
+('VBZ', 'exists, smaller7, nongraduates, reveals, reflects, alamuddin')
+
+('JJR', 'higher, fewer, poorer, lower, older')
+
+('VBG', 'finding, becoming, delaying, raising, overarching, rising, shifting, cutting, abandoning, declining, getting, falling, skipping, including, focusing, according')
+
+('JJS', 'least')
+
+100 most freq tokens after processing: 
+[('verdict', 379), ('trump', 354), ('1', 299), ('percent', 244), ('positive', 189), ('like', 179), ('donald', 161), ('data', 153), ('one', 148), ('film', 136), ('neutral', 133), ('state', 113), ('get', 108), ('people', 103), ('year', 98), ('poll', 96), ('2', 92), ('number', 87), ('model', 87), ('10', 83), ('hillary', 83), ('negative', 83), ('3', 79), ('woman', 77), ('time', 72), ('also', 72), ('candidate', 72), ('said', 71), ('movie', 67), ('5', 66), ('point', 66), ('make', 65), ('new', 64), ('would', 62), ('github', 61), ('rock', 61), ('clinton', 59), ('2014', 57), ('nt', 56), ('2015', 56), ('two', 55), ('much', 54), ('day', 54), ('6', 54), ('american', 52), ('republican', 52), ('police', 52), ('2016', 52), ('2013', 51), ('bill', 51), ('way', 49), ('likely', 49), ('election', 49), ('u', 48), ('got', 48), ('2012', 48), ('4', 47), ('see', 46), ('show', 46), ('driver', 46), ('classic', 46), ('average', 45), ('test', 44), ('even', 44), ('think', 43), ('look', 43), ('city', 43), ('first', 42), ('among', 42), ('last', 41), ('come', 41), ('win', 41), ('song', 41), ('national', 41), ('case', 41), ('race', 40), ('tower', 40), ('rating', 40), ('know', 39), ('president', 39), ('8', 38), ('9', 38), ('change', 38), ('rate', 38), ('money', 37), ('obama', 37), ('20', 37), ('set', 37), ('7', 37), ('still', 37), ('democrat', 37), ('well', 36), ('go', 36), ('many', 36), ('15', 36), ('percentage', 36), ('forecast', 36), ('every', 35), ('since', 35), ('men', 35)]

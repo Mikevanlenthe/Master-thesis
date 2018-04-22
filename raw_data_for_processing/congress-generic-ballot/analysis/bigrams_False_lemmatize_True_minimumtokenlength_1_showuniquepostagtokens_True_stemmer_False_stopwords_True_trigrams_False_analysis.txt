@@ -1,0 +1,57 @@
+Article: congress-generic-ballot
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1475
+Raw number of types: 503
+Raw Type token ratio: 0.3410169491525424
+
+100 most freq tokens before (pre)processing: 
+[(',', 9378), ('the', 8049), ('.', 5528), ('of', 4044), ('a', 3435), ('to', 3290), ('in', 3005), ('and', 2997), ('’', 2767), ('that', 1818), ('(', 1578), (')', 1578), ('s', 1528), ('for', 1366), ('is', 1310), ('on', 1156), ('it', 1132), (':', 1118), ('“', 983), ('”', 982), ('are', 976), ("'", 871), ('with', 861), ('at', 858), ('—', 849), ('we', 833), ('as', 827), ('by', 792), ('i', 785), ('but', 762), ('percent', 730), ('more', 723), ('our', 688), ('this', 685), ('they', 655), ('or', 647), ('trump', 640), ('you', 619), ('have', 618), ('from', 613), ('t', 587), ('was', 585), ('about', 556), ('who', 550), ('be', 541), ('than', 537), ('team-logo', 535), ('data', 508), ('one', 505), ('an', 483), ('were', 478), ('has', 453), ('?', 445), ('not', 417), ('their', 415), ('all', 414), ('he', 411), ('1', 397), ('so', 396), ('said', 389), ('there', 379), ('verdict', 377), ('like', 369), ('how', 367), ('polls', 364), ('if', 351), ('his', 348), ('can', 344), ('what', 338), ('other', 334), ('people', 328), ('some', 326), ('which', 324), ('most', 314), ('out', 310), ('when', 305), ('had', 303), ('those', 301), ('also', 283), ('get', 267), ('up', 265), ('each', 260), ('just', 242), ('only', 236), ('two', 235), ('do', 234), ('new', 224), ('github', 219), ('its', 215), ('pollsters', 214), ('these', 212), ('them', 212), ('time', 210), (';', 209), ('will', 208), ('been', 207), ('positive', 206), ('would', 200), ('no', 199), ('my', 199)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 747
+Number of types: 391
+Type token ratio: 0.5234270414993306
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'american, vicious, obama, interested, january, foundation, rest, first, likely, partisan, informed, great, full, follow, reagan, active, underlying, statistical, alltime, u, bit, le, congress, flatter, close, high, gay, nuanced, judiciary, independent, soft, general, second, incumbent, many, pm, actuarial, current, getty, start, huge, late, whole, federal, bush, republican, little, nonagenarian, presidential, unpopular, recent, seat, much, new, relative, come, heterodox, knew, average, social, unlikely, uninterested, simple, counterintuitive, old, label, important, political, america, strong, major, narrow, congressional, sample, different, feature, right, representative, young, table, wall, previous, immersed, worse')
+
+('NN', 'way, clinton, office, inspire, party, push, become, richard, point, marriage, instance, slope, percentage, role, ronald, election, testimony, article, orrin, bucket, problem, wave, pattern, estimate, disapproval, york, activity, deal, preference, democrat, frame, barack, evidence, approximation, steadier, committee, gerald, somodevilla, version, hearing, nixon, gay, participant, ron, nomination, group, silver, wilson, disposition, hatch, dhrumil, leahy, gop, vote, bill, youth, cite, govtrackus, voting, rating, patrick, random, nate, measure, senate, datacongressage, source, obama, paul, mark, emphasize, record, term, pool, month, donate, ford, volunteer, percent, imply, movement, gun, issue, grassley, definition, feinstein, listen, result, question, contract, banner, anything, order, age, chip, average, curve, mehta, supporter, president, affair, electorate, identify, survey, news, population, get, cycle, partisan, rate, follow, underwater, reagan, candidate, bush, interest, approval, congress, deeply, tendency, chuck, street, agenda, closet, github, member, voter, trend, jan, view, reporting, variety, republican, turn, image, frequency, campaign, number, year, contrast, time, compilation, dianne, gap, w, george')
+
+('VBN', 'compared, done, affiliated, given, identified, left, collected, presented, used, filed, seen, subset, grown')
+
+('NNS', 'data, people, partisan, politics, democrat')
+
+('VBP', 'represent, seek, take, senate, need, run, say, correct, le, remain')
+
+('VBD', 'came, sunlight, counted, left, served, described, ran, said, achieved, respondent, decreased, hw, favored, varied, made, aged, posted, vshaped, widened, affiliated, conducted, evennumbered, w, began, asked, became, increased, preferred, took')
+
+('VBZ', 'provides, reflects, charles')
+
+('JJR', 'older, better, younger, schumer')
+
+('VBG', 'hearing, dating, taking, topping, ranging, organizing, serving, getting, including, leaning, claiming, aggregating')
+
+('VB', 'seem, become, think, replace, engage, mistake, interested, label, win, drawn, vote, serve, scope, feel, gotten, run, identify, democrat, skeptical')
+
+('NNP', 'democrat')
+
+100 most freq tokens after processing: 
+[('percent', 740), ('trump', 657), ('one', 558), ('poll', 548), ('teamlogo', 539), ('data', 512), ('1', 492), ('said', 397), ('like', 395), ('verdict', 380), ('year', 371), ('people', 336), ('pollster', 321), ('number', 307), ('get', 300), ('time', 299), ('also', 287), ('state', 285), ('point', 272), ('10', 264), ('2', 262), ('two', 239), ('new', 228), ('11', 223), ('u', 219), ('github', 219), ('election', 216), ('would', 208), ('positive', 207), ('13', 204), ('result', 198), ('american', 197), ('film', 195), ('average', 192), ('polling', 192), ('make', 189), ('many', 189), ('donald', 188), ('14', 188), ('%', 188), ('3', 187), ('team', 186), ('voter', 185), ('first', 182), ('much', 180), ('republican', 180), ('12', 180), ('see', 178), ('rating', 178), ('15', 176), ('even', 175), ('may', 169), ('game', 169), ('world', 166), ('since', 165), ('likely', 165), ('player', 164), ('candidate', 160), ('league', 158), ('woman', 155), ('win', 151), ('last', 150), ('way', 148), ('group', 147), ('5', 144), ('three', 143), ('among', 142), ('2014', 141), ('season', 141), ('president', 140), ('16', 140), ('question', 138), ('neutral', 138), ('day', 137), ('think', 136), ('week', 136), ('take', 135), ('2016', 135), ('model', 135), ('still', 134), ('vote', 132), ('17', 127), ('percentage', 125), ('respondent', 125), ('rate', 125), ('least', 124), ('national', 124), ('look', 123), ('4', 123), ('le', 123), ('every', 121), ('city', 121), ('well', 120), ('country', 119), ('say', 119), ('race', 117), ('clinton', 115), ('come', 115), ('show', 115), ('go', 114)]

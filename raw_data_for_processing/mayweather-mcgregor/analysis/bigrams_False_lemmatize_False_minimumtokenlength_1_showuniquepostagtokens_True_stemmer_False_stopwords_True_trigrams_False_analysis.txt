@@ -1,0 +1,57 @@
+Article: mayweather-mcgregor
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 804
+Raw number of types: 376
+Raw Type token ratio: 0.46766169154228854
+
+100 most freq tokens before (pre)processing: 
+[(',', 6875), ('the', 5896), ('.', 3891), ('of', 2929), ('a', 2471), ('to', 2410), ('in', 2253), ('and', 2140), ('’', 1945), ('that', 1365), ('(', 1164), (')', 1164), ('s', 1062), ('for', 1009), ('is', 966), (':', 941), ('on', 858), ('it', 817), ('are', 714), ('“', 694), ('”', 693), ("'", 665), ('with', 650), ('at', 619), ('trump', 607), ('our', 597), ('as', 594), ('by', 587), ('we', 585), ('more', 572), ('—', 567), ('but', 540), ('i', 536), ('team-logo', 535), ('they', 515), ('this', 494), ('percent', 462), ('or', 459), ('you', 457), ('t', 442), ('who', 441), ('have', 435), ('from', 426), ('was', 420), ('about', 419), ('than', 416), ('one', 396), ('be', 388), ('verdict', 377), ('1', 367), ('polls', 359), ('were', 350), ('an', 334), ('has', 330), ('data', 323), ('?', 318), ('not', 316), ('all', 308), ('their', 307), ('said', 297), ('like', 297), ('he', 283), ('how', 277), ('if', 271), ('other', 270), ('there', 268), ('most', 255), ('so', 251), ('can', 247), ('those', 240), ('some', 239), ('what', 231), ('people', 229), ('his', 228), ('when', 224), ('which', 221), ('pollsters', 214), ('get', 211), ('out', 209), ('up', 201), ('positive', 200), ('also', 197), ('had', 193), ('just', 192), ('polling', 191), ('each', 186), ('2', 179), ('only', 176), ('poll', 175), ('donald', 174), ('%', 172), ('two', 171), ('do', 170), (';', 169), ('points', 169), ('time', 160), ('will', 157), ('github', 156), ('would', 155), ('them', 155)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 384
+Number of types: 300
+Type token ratio: 0.78125
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'ref, mayweathervsmcgregor, dress, flag, monitoring, percent, worn, outcome, round, vs, thing, coaster, flurry, megafight, vegass, poundforpound, start, man, victor, pacquiao, underdog, capestyle, peer, damage, control, anticipation, emojinalysis, emoji, enthusiasm, history, %, match, journalist, everyone, macaelamarin, mehta, example, team, mayweather, source, part, rachael, camp, dhrumil, promayweather, marin, majority, punchline, review, mayweatherconor, writer, world, emojiwise, debut, fight, matter, saturday, night, roller, broadcast, epic, database, corner, couple, knockout, somehow, end, mayweathermcgregor, dottle, roeder, time, twitter, chief, rachaeldottle, code, macaela, floyd, money, spectacle, way, held, result, mcgregor, success, manny, quarter, hype, arena')
+
+('VBD', 'collected, came, filed, surprised, thrilled, heated, ended, seemed, mostused, stepped, began, turned, loyal, viewed, declared, emerged, included, followed, scheduled, fight, fivethirtyeight, predicted, huddled, laughed, played, contained, started, fightrelated, took, went, told, unfolded')
+
+('VBN', 'pushed, collected, cried, progressed, contained, appeared, laughed')
+
+('JJ', 'last, api, leapt, mayweathervsmcgregor, hold, dottle, datadhrumil, rachael, victorious, small, like, sample, old, next, edt, twitter, likely, cried, affair, technical, partisan, pro, unleashed, emoji, dublin, fourminute, frustrated, clear, vicious, face, ninth, associate, welcome, megafight, anxious, first, fight, average, senior, mcgregor, emojis, exhausted, visual, fights, neutral, fightrelated, rolling, finish, many, irish, full, mayweathermcgregor, las')
+
+('JJR', 'mayweather')
+
+('VB', 'get, make, irish, question')
+
+('NNS', 'heres, thats, boxers, charts, fighters, things, github, shamrocks, mayweathers, washes, emotions, tears, evenings, data, frontrunners, rounds, observers, tvs, tweets, fans, viewers, twitters, loyalties, flags, millions, minutes, people, users, members, problems, months, hashtags, others, combatants, politics, bags, feet, seconds')
+
+('VBP', 'hails, maymcg4x3, sixth, roeder, show, tmt, think, know, mcgregor, joy, payperview, arena, twitter')
+
+('VBG', 'declaring, satisfying, crying, streaming, pulling, matching, going, focusing, winning, fighting, making, saving')
+
+('JJS', 'biggest, best')
+
+('VBZ', 'punches, ropes')
+
+100 most freq tokens after processing: 
+[('trump', 614), ('teamlogo', 538), ('percent', 470), ('1', 456), ('one', 405), ('verdict', 378), ('polls', 363), ('data', 326), ('said', 303), ('like', 303), ('2', 244), ('people', 235), ('10', 218), ('get', 217), ('pollsters', 214), ('also', 200), ('11', 200), ('positive', 200), ('polling', 192), ('donald', 178), ('poll', 175), ('two', 174), ('%', 172), ('points', 169), ('3', 168), ('13', 168), ('time', 163), ('14', 162), ('would', 161), ('12', 161), ('github', 156), ('new', 155), ('many', 150), ('number', 150), ('average', 149), ('election', 146), ('15', 142), ('league', 142), ('us', 140), ('much', 138), ('neutral', 136), ('voters', 136), ('first', 132), ('see', 130), ('year', 129), ('5', 129), ('even', 127), ('likely', 121), ('last', 116), ('state', 114), ('since', 114), ('president', 113), ('4', 113), ('years', 112), ('may', 109), ('percentage', 108), ('results', 108), ('among', 107), ('pollster', 107), ('three', 106), ('clinton', 104), ('16', 103), ('make', 102), ('women', 101), ('2016', 100), ('6', 100), ('national', 100), ('season', 100), ('films', 100), ('17', 99), ('hillary', 97), ('republican', 96), ('think', 95), ('2014', 95), ('still', 95), ('every', 94), ('use', 93), ('19', 93), ('20', 92), ('another', 92), ('less', 92), ('error', 90), ('negative', 90), ('way', 89), ('model', 89), ('ratings', 88), ('8', 87), ('least', 87), ('18', 87), ('take', 85), ('numbers', 85), ('vote', 84), ('2015', 82), ('2012', 82), ('states', 81), ('team', 81), ('college', 81), ('well', 80), ('got', 80), ('week', 80)]

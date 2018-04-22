@@ -1,0 +1,55 @@
+Article: tenth-circuit
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1343
+Raw number of types: 494
+Raw Type token ratio: 0.3678332092330603
+
+100 most freq tokens before (pre)processing: 
+[(',', 2689), ('the', 1305), ('(', 740), (')', 740), ('.', 708), ("'", 664), ('of', 585), ('in', 579), ('a', 561), ('to', 461), (':', 460), ('our', 420), ('and', 397), ('verdict', 377), ('’', 342), ('trump', 334), ('that', 296), ('i', 248), ('1', 233), ('is', 230), ('for', 218), ('s', 211), ('on', 210), ('it', 208), ('positive', 188), ('with', 170), ('donald', 155), ('like', 144), ('this', 143), ('we', 138), ('by', 138), ('more', 135), ('neutral', 133), ('at', 124), ('percent', 124), ('but', 123), ('as', 122), ('—', 118), ('are', 114), ('you', 111), ('/', 99), ('from', 98), ('was', 97), ('about', 96), ('be', 89), ('have', 89), ('than', 89), ('negative', 82), ('or', 82), ('has', 80), ('hillary', 79), ('one', 76), ('his', 76), ("'m", 75), ('state', 73), ('an', 72), ('not', 72), ('my', 71), ('t', 69), ('data', 68), ('model', 68), ('“', 67), ('”', 67), ('me', 66), ('polls', 65), ('they', 63), ('he', 62), ('up', 61), ("'s", 60), ('all', 59), ('?', 57), ('so', 57), ('were', 56), ('how', 56), ('other', 56), (';', 54), ('can', 54), ('there', 52), ('when', 52), ('their', 51), ('some', 51), ('get', 50), ('which', 50), ('clinton', 50), ("n't", 49), ('if', 49), ('just', 48), ('out', 48), ('2', 47), ('2015', 46), ('who', 45), ('2013', 44), ('what', 44), ('points', 44), ('do', 43), ('2014', 42), ('most', 41), ('only', 41), ('--', 40), ('2016', 40)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 687
+Number of types: 401
+Type token ratio: 0.5836972343522562
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'capitol, thomas, committee, investigation, percent, government, wednesday, mar, york, campaign, judge, panel, senate, shape, court3, hill, employment, fact, ideology, gorsuch, russia, extent, bit, law, record, lackey, status, supreme, favor, trump, philosophy, depict, immigration, permit, guy, legitimacy, administration, disagreement, circuit, deference, approach, discrimination, break, precedent, tenure, alito, confirmation, mix, model, j, feinstein, nominee, convince, jurist, analysis, period, litigation, joshua, theme, look, spectrum, tenth, graph, scott, homestate, kneejerk, senator, unanimity, study, clarence, garland, washington, center, extremist, voting, executive, datatenthcircuit, cope, time, assessment, power, list, fischman, relevant, court, opinion, prediction, case, threejudge, policy, decision, president, ideologue, judicial, election, abortion')
+
+('JJ', 'lawful, skeptical, hold, merrick, turn, dianne, useful, ideological, wonkish, current, different, sample, democratic, right, applewhite, conservative, fair, percent, extreme, undermines, supreme, recent, behavior, subject, independentminded, senate, judiciary, ap, mainstream, federal, little, academic, republican, empathy, second, relevant, middle, civil, strong, reflexive, plenty, centrist, immigration, unanimous, nomination, administrative, confirmed, constitutional, liberal, near, average, statistical, moderate, friend, latitude, third, guy, large, narrativeconfirming, dissent, smart, gorsuch, brilliant, tenth, wide, prominent, ideologue, high, fbi, influenced, significant, judicial, possible, portrayal, comparable, surprising, new, cautious, many, light, alito')
+
+('VBD', 'thomas, wrote, found, filed, ended, focused, claimed, concluded, insisted, decided, emphasized, rattled, revealed, looked, offered, questioned, assigned, participated, relied, sided, skewed, nominated, reported, took, reviewed')
+
+('VBP', 'none, hard, reflect, know, github, skepticism, disagree, samuel, base, require, judge, produce, estimate, immigration, vote, –, pinpoint, generate, tenth, get, concentrate, level, believe, achieve, refusal, compare, particular, analyze')
+
+('NNS', 'pundits, judges, democrats, plaintiffs, topics, appeals, precedents, groups, ideologies, justices, anecdotes, senators, contributions, panels, hears, github, courts, assumptions, areas, limitations, cases, concerns, results, interpretations, predictions, times, views, weeks, reasons, data, studies, lacks, clerks, immigrants, nominees, methods, writings, orders, issues, rights, norms, accounts, people, agencies, estimates, bureaucracies, participated1, opinions, colleagues, comparisons, outcomes, claims, others, votes, differences, appointees, hearings, sets, republicans, numbers, worries')
+
+('VBZ', 'rejects, faces, looks, shows, appears, statutes, puts')
+
+('VBG', 'holding, estimating, trying, analyzing, reversing, dissenting, rightwing, voting, appointing, meddling, painting, arguing, examining, predicting, running, according, making, including')
+
+('VB', 'sen, oppose, hide, fit, touch, act, apply, trump, made')
+
+('VBN', 'used, concerned, ruled, litigated, criticized, joined, confirmed, nominated, troubled, constrained, cherrypicked, derived, based, connected, balanced, given, complicated, come, claimed')
+
+('JJR', 'harder, closer, higher, greater')
+
+100 most freq tokens after processing: 
+[('verdict', 378), ('trump', 340), ('1', 240), ('positive', 188), ('donald', 159), ('like', 150), ('neutral', 133), ('percent', 132), ('one', 85), ('negative', 82), ('hillary', 80), ('state', 76), ('data', 71), ('polls', 68), ('model', 68), ('get', 56), ('nt', 54), ('clinton', 53), ('2', 51), ('2015', 48), ('people', 45), ('would', 45), ('2014', 44), ('2013', 44), ('points', 44), ('2012', 43), ('also', 42), ('2016', 41), ('got', 40), ('police', 39), ('average', 39), ('time', 37), ('year', 37), ('number', 37), ('bill', 37), ('much', 36), ('election', 35), ('new', 34), ('obama', 34), ('3', 33), ('fuck', 33), ('2008', 33), ('drivers', 33), ('weather', 33), ('10', 32), ('senate', 32), ('president', 31), ('even', 31), ('money', 31), ('candidate', 31), ('said', 30), ('two', 30), ('github', 30), ('day', 30), ('make', 29), ('way', 29), ('republican', 29), ('win', 29), ('polling', 29), ('gorsuch', 29), ('think', 28), ('5', 28), ('fivethirtyeight', 28), ('2010', 27), ('candidates', 27), ('know', 26), ('likely', 26), ('cases', 26), ('percentage', 26), ('puerto', 26), ('every', 25), ('show', 25), ('based', 25), ('tower', 25), ('big', 25), ('2011', 25), ('rico', 25), ('years', 24), ('last', 24), ('poll', 24), ('need', 23), ('officers', 23), ('black', 23), ('example', 23), ('ai', 23), ('remix', 23), ('first', 22), ('bitch', 22), ('estimate', 22), ('forecast', 22), ('circuit', 22), ('want', 21), ('us', 21), ('states', 21), ('city', 21), ('2000', 21), ('still', 21), ('however', 21), ('step', 21), ('national', 21)]

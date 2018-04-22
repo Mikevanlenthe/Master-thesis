@@ -1,0 +1,59 @@
+Article: police-deaths
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 587
+Raw number of types: 253
+Raw Type token ratio: 0.43100511073253833
+
+100 most freq tokens before (pre)processing: 
+[('the', 4768), (',', 4724), ('.', 3144), ('of', 2351), ('a', 1996), ('to', 1973), ('in', 1849), ('and', 1731), ('’', 1584), ('that', 1140), ('s', 850), ('for', 837), (':', 795), ('is', 793), ('it', 699), ('on', 681), ('are', 577), ('“', 573), ('”', 572), ('our', 571), ('team-logo', 535), ('with', 534), ('by', 498), ('we', 497), ('at', 494), ('as', 490), ('more', 483), ('i', 469), ('—', 447), ('(', 442), (')', 442), ('trump', 435), ('but', 425), ('this', 407), ('they', 397), ('you', 394), ('verdict', 377), ('t', 371), ('polls', 357), ('or', 356), ('have', 355), ('1', 354), ('from', 348), ('than', 347), ('about', 346), ('was', 343), ('percent', 342), ('be', 328), ('one', 324), ('who', 316), ('an', 276), ('like', 268), ('has', 265), ('data', 262), ('said', 254), ('were', 250), ('their', 245), ('all', 245), ('he', 245), ('not', 242), ('if', 240), ('how', 220), ('there', 216), ('pollsters', 214), ('other', 213), ('most', 211), ('can', 209), ('so', 204), ('?', 203), ('some', 201), ('positive', 196), ('his', 193), ('when', 193), ('what', 191), ('polling', 191), ('those', 184), ('which', 180), ('people', 178), ('out', 172), ('up', 171), ('get', 170), ('donald', 170), ('poll', 170), ('2', 169), ('also', 166), ('each', 161), ('%', 157), ('had', 156), ('points', 154), ('just', 152), ('two', 145), ('only', 141), ('do', 141), ('will', 140), ('league', 137), ('election', 136), ('number', 136), (';', 133), ('neutral', 133), ('/', 132)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 845
+Number of types: 630
+Type token ratio: 0.7455621301775148
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'number of, significantly on, risen the, times the, that was, accidental, had become, a dangerous, killed at, as of, that same, thieves shot, declined but, over the, killings by, common, shooting incident, steady the, dangerous, extends much, onduty, in accidental, sworn, maintain the, of friday, down memorial, both in, in 2014, thursday night, during a, that far, fulltime, incident, officers died, protesting recent, policing history, death rate, killed in, increased by, friday, singular horrific, a political, was gun, way back, thursday, new, single, t available, in us, of officer, most of, now a, updated with, a dallas, the five, nearly four, deadliest, in 1996, called it, steady, since seven, is now, bialikflowerskingpolicedeaths2 today, and despicable, the federal, in puerto, grim, a singular, deaths, at a, vicious, to the, died in, much, fulltime sworn, on thursday, one grim, last, recent, suspected, \ufeffthe, of fulltime, dallas, largest such, sworn local, in which, despicable, the overall, a vicious, because the, andrew, were shot, share of, federal, overall, available, from the, the national, was 135, than the, grim statistic, killed thursday, states president, statistic, among the, on the, police, memorial, singular, deaths by, national, are the, aptopix, that much, political, isn t, started in, safer in, afternoon national, when five, suggest which, in the, local, us history, including pilots, officers memorial, shooting of, one of, as the, deadlier than, after five')
+
+('NNS', 'officers, data, patrol officers, in dallas, than dallas, colleagues, professions, police, two officers, collisions, recent years, officer deaths, its territories, justice statistics, five officers, numbers, loggers, the years, times, death counts, years, territories, dallas, workers, six officers, car thieves, of officers, pilots, today s, the dallas, police officers, recent killings, flowers, extends, fulltime workers, ones, statistics, her colleagues, of deaths, dangerous job, drivers, labor statistics, all workers, andrew flowers, those numbers, thieves, car collisions, counts, and its, dallas shootings, and loggers, enforcement officers, deadliest ones, deaths, national data, truck drivers, other professions, terrorist attacks, four times, killings, dozens, attacks, which makes, shootings, patrol cops')
+
+('VBG', 'are happening, professions including, dallas shooting, happening, a growing, single shooting, killed during, including, shooting, king, growing, according, ritchie king, officer policing, was protesting, us policing, attacks according, statistics during, protesting, policing')
+
+('NN', 'number of, incident for, fund, despicable attack, cause of, by carl, cause, otero ap, of duty, political revolt, history it, investigation, bialikflowerskingpolicedeaths1 per, deadliest for, country police, police in, number, percent 1, memorial fund, obama, national law, for onduty, shot and, president obama, attack on, deliberate car, bureau of, line, seven police, arrest at, duty has, officer and, police and, bialik ritchie, the officer, per officer, york state, statistic held, calculated and, it hadn, missouri farm, police since, by 34, thursday night, happening in, friday afternoon, s the, the number, lm otero, state it, college student, incident, much more, killed six, by police, s patrol, per the, population has, or deliberate, president, king and, line of, shot, job but, enforcement, declined by, police officer, duty, with the, and a, last 35, rate per, for police, in us, percent from, job in, ritchie, s data, aptopix police, page, the line, york, rate, deadliest, a police, the database, the decline, of police, officer, revolt, same period, student who, new york, per 100000, the largest, when two, today, deadliest incident, massacre, puerto rico, data for, for all, share, largest number, law, rate of, far back, bureau, car, percent, labor, at a, a demonstration, decline in, to the, the police, died in, on law, patrol, history, missouri, years the, overall death, further back, federal bureau, according to, by a, data all, revolt in, the bureau, demonstration in, way, to 2013, night lm, farm in, night, in a, for the, ap, of justice, of investigation, a single, dallas, the sept, and sheriff, the us, period, onduty police, death was, the country, the overall, the last, demonstration, five of, most common, gun homicide, but the, it s, otero, justice, from 1987, under law, student, in new, accidental or, overall population, of labor, dallas police, local police, back to, below the, single incident, the job, shootingsprotest a, decline, horrific massacre, growing share, such number, deliberate, suspected car, the most, in recent, in 1950, law enforcement, farm, to 1791, memorial page, police shootingsprotest, hadn t, police, and who, in 1932, but one, back but, the rate, carl bialik, enforcement aptopix, state, pilots truck, shooting was, a missouri, truck, job, history by, carl, five police, terrorist, a college, which two, filed under, incident in, in the, afternoon, college, by 35, bialik, lm, bialikflowerskingpolicedeaths1, horrific, our data, of death, rate for, homicide, gun, population, attack, country, more of, last shooting, investigation s, death, homicide those, the deadliest, of her, of the, sheriff s, database it, common cause')
+
+('VBD', 'us declined, sept 11, called, held, shot, held steady, increased, page started, and killed, number killed, who died, obama called, attempted, killed, occurred, policing had, calculated, died, started, since 72, grew, were killed, flowers filed, and andrew, officers killed, sheriff, officers increased, filed, two suspected, declined, numbers grew')
+
+('JJS', 'deadliest, attempted arrest, arrest, the largest, shootingsprotest, largest, the deadliest')
+
+('VBZ', 'comes, dozens of, all the, that was, cops, deaths comes, who continues, makes, officer grieves, other states, that s, ap for, grieves, it extends, for dozens, states, continues')
+
+('VBP', 'data, in dallas, but not, shot, dallas are, fund and, who is, drivers and, officers who, maintain, s because, data on, shootings as, continues to, officers in, collisions our, workers but, risen, deaths are, cops have, safer, years than, officers death, counts suggest, officers isn, suggest, dallas was, loggers the, us and, ones in, workers was, who die, makes the, puerto, die, even safer, \ufeffthe dallas, colleagues were, officers has, s patrol, comes from')
+
+('VBN', 'has declined, updated, killed declined, become, vicious calculated, has risen, an attempted, been updated, have a, killed, has occurred')
+
+('VB', 'rico, to maintain, than the, database, die on')
+
+('JJR', 'much further, deadlier, of other, was deadlier')
+
+('NNP', 'the number')
+
+100 most freq tokens after processing: 
+[('of the', 536), ('teamlogo', 535), ('in the', 499), ('1', 437), ('trump', 436), ('verdict', 377), ('our verdict', 377), ('polls', 358), ('percent', 342), ('one', 327), ('like', 268), ('data', 262), ('said', 254), ('2', 230), ('pollsters', 214), ('10', 200), ('positive', 196), ('polling', 192), ('11', 189), ('to the', 188), ('people', 178), ('verdict positive', 178), ('it s', 176), ('donald', 171), ('get', 170), ('poll', 170), ('also', 166), ('%', 157), ('percent of', 156), ('on the', 156), ('donald trump', 156), ('13', 154), ('points', 154), ('3', 153), ('14', 150), ('two', 145), ('12', 141), ('and the', 140), ('league', 137), ('election', 136), ('number', 136), ('neutral', 133), ('would', 131), ('15', 128), ('verdict neutral', 128), ('average', 126), ('time', 125), ('new', 123), ('github', 120), ('for the', 117), ('year', 115), ('5', 114), ('much', 114), ('to be', 113), ('many', 112), ('see', 109), ('at the', 107), ('pollster', 107), ('state', 105), ('4', 103), ('us', 101), ('first', 100), ('last', 100), ('results', 100), ('likely', 98), ('the most', 98), ('national', 97), ('percentage', 97), ('even', 95), ('hillary', 94), ('17', 94), ('16', 94), ('number of', 94), ('don t', 93), ('2016', 93), ('clinton', 92), ('in a', 92), ('use', 91), ('error', 90), ('6', 90), ('i m', 90), ('since', 88), ('2014', 87), ('negative', 87), ('may', 86), ('years', 86), ('more than', 86), ('the same', 86), ('model', 86), ('the data', 85), ('19', 85), ('that the', 85), ('another', 84), ('three', 84), ('ratings', 82), ('make', 81), ('republican', 81), ('from the', 79), ('2015', 79), ('2012', 79)]

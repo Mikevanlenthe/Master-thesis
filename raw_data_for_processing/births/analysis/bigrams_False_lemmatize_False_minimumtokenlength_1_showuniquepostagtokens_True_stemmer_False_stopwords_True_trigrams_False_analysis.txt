@@ -1,0 +1,57 @@
+Article: births
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 646
+Raw number of types: 304
+Raw Type token ratio: 0.47058823529411764
+
+100 most freq tokens before (pre)processing: 
+[(',', 10111), ('the', 9355), ('.', 6407), ('of', 4661), ('a', 4074), ('to', 3749), ('in', 3500), ('and', 3435), ('’', 3352), ('that', 2098), ('s', 1893), ('for', 1599), ('is', 1538), ('(', 1481), (')', 1480), ('on', 1360), ('it', 1356), (':', 1211), ('“', 1092), ('are', 1092), ('”', 1091), ('—', 1003), ('as', 992), ('with', 977), ('at', 967), ('we', 931), ('but', 911), ('by', 898), ('i', 870), ('percent', 836), ('more', 826), ('this', 795), ('or', 756), ('trump', 754), ('have', 729), ('they', 727), ('was', 719), ('our', 715), ('from', 708), ('t', 694), ('you', 687), ("'", 665), ('about', 648), ('1', 641), ('be', 639), ('than', 638), ('who', 610), ('one', 590), ('has', 582), ('data', 570), ('an', 548), ('were', 536), ('team-logo', 535), ('not', 527), ('?', 493), ('he', 483), ('all', 480), ('their', 476), ('so', 456), ('there', 447), ('his', 430), ('how', 419), ('said', 419), ('like', 410), ('if', 406), ('other', 393), ('polls', 393), ('can', 391), ('which', 388), ('what', 382), ('verdict', 377), ('when', 371), ('some', 370), ('2', 369), ('had', 365), ('people', 355), ('out', 350), ('most', 346), ('those', 332), ('also', 328), ('up', 304), ('get', 291), ('just', 286), ('only', 285), ('each', 283), ('0', 271), ('two', 262), ('been', 261), ('its', 260), ('time', 260), ('do', 253), ('world', 249), ('github', 248), ('these', 248), ('3', 244), ('new', 239), (';', 238), ('would', 237), ('will', 237), ('no', 233)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 306
+Number of types: 215
+Type token ratio: 0.7026143790849673
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'shah, bialik, website, chance, day, mom, choice, forum, section, office, birthday, family, extension, github, think, parent, number, carl, baby, sorry, vehtari, luck, school, cover, textbook, date, analysis, professor, key, land, christmas, belief, gelman, month, neel, edition, scientist, pm, change, delivery, site, reran, weekend, pregnancy, lady, birth, notice, expect, get, generation, schedule, calendar, assistant, effect, aki, household, andrew, friday, labor, method')
+
+('NNS', 'years, days, authors, databirths, babies, bugs, trends, births, doctors, results, reasons, delivers, data, forums, falls, lots, fears, flowers, inductions, effects, attempts, thousands, people, parents, patterns, deliveries, researchers, months, obstetrics, dates, cesareans, findings, wards, children')
+
+('JJ', 'computational, feb, previous, longstanding, certain, cesarean, superstitious, several, ran, bad, bayesian, luck, suppress, induced, universal, recent, longterm, medical, leap, whammy, double, valentine, second, whole, consistent, finding, complex, good, third, monthly, birth, yea, high, avoid, email, cowrote, vague, statistician, become, obstetrician, fridays, births1, many, 13th, friday, full')
+
+('VBD', 'planned, wrote, sent, found, filed, contributed, gave, andrew, asked, developed, halloween, friday, said, laughed')
+
+('VBG', 'scheduling, covering, tying, saying, parenting, separating, teasing, bugging, avoiding')
+
+('VBP', 'parentstobe, say, gynecology, expect, tend, born')
+
+('VBZ', 'holidays, falls, looks, fridays')
+
+('JJR', 'fewer')
+
+('VBN', 'scheduled, planned, found, based, treated, given, staffed, made')
+
+('VB', 'try, booked, take')
+
+('JJS', 'smallest')
+
+100 most freq tokens after processing: 
+[('percent', 844), ('trump', 761), ('1', 732), ('one', 599), ('data', 573), ('teamlogo', 538), ('2', 439), ('said', 425), ('like', 416), ('polls', 397), ('verdict', 378), ('people', 361), ('also', 331), ('10', 303), ('3', 303), ('get', 297), ('0', 272), ('two', 265), ('time', 263), ('world', 252), ('11', 252), ('github', 248), ('would', 243), ('new', 242), ('us', 236), ('much', 229), ('13', 229), ('average', 227), ('year', 225), ('number', 220), ('4', 218), ('team', 214), ('pollsters', 214), ('even', 210), ('many', 209), ('points', 209), ('first', 208), ('positive', 207), ('12', 206), ('since', 205), ('5', 205), ('%', 205), ('may', 204), ('years', 202), ('14', 201), ('15', 201), ('polling', 201), ('donald', 188), ('see', 186), ('poll', 184), ('likely', 177), ('league', 175), ('6', 173), ('election', 170), ('three', 167), ('voters', 164), ('–', 163), ('last', 161), ('among', 161), ('16', 160), ('states', 156), ('2014', 156), ('still', 156), ('results', 155), ('win', 151), ('make', 150), ('state', 147), ('president', 145), ('national', 142), ('way', 141), ('8', 141), ('think', 140), ('ratings', 140), ('2016', 139), ('neutral', 138), ('less', 138), ('women', 137), ('republican', 136), ('least', 136), ('every', 135), ('season', 135), ('17', 134), ('rating', 133), ('another', 132), ('7', 132), ('well', 131), ('good', 131), ('percentage', 130), ('better', 127), ('might', 127), ('respondents', 127), ('take', 125), ('based', 125), ('whether', 124), ('group', 124), ('cup', 124), ('clinton', 122), ('20', 122), ('model', 122), ('game', 121)]

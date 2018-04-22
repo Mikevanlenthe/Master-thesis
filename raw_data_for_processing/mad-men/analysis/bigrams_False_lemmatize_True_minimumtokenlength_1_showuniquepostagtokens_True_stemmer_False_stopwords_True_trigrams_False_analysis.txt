@@ -1,0 +1,59 @@
+Article: mad-men
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1361
+Raw number of types: 516
+Raw Type token ratio: 0.37913299044819987
+
+100 most freq tokens before (pre)processing: 
+[(',', 8106), ('the', 6692), ('.', 4494), ('of', 3408), ('a', 2842), ('to', 2768), ('in', 2511), ('and', 2505), ('’', 2263), ('that', 1589), ('(', 1457), (')', 1457), ('s', 1249), ('for', 1163), ('is', 1114), (':', 1001), ('on', 993), ('it', 940), ("'", 871), ('are', 830), ('“', 817), ('”', 816), ('with', 738), ('at', 719), ('—', 703), ('we', 697), ('as', 689), ('by', 655), ('more', 643), ('our', 639), ('i', 637), ('trump', 636), ('but', 614), ('they', 584), ('this', 574), ('or', 546), ('team-logo', 535), ('percent', 533), ('you', 532), ('from', 514), ('have', 505), ('t', 502), ('who', 497), ('about', 481), ('than', 467), ('was', 467), ('be', 454), ('one', 441), ('data', 420), ('were', 414), ('an', 396), ('has', 386), ('1', 381), ('verdict', 377), ('?', 375), ('polls', 361), ('not', 358), ('said', 352), ('their', 349), ('all', 344), ('like', 329), ('how', 322), ('there', 314), ('he', 307), ('so', 303), ('other', 299), ('if', 295), ('can', 292), ('people', 291), ('most', 286), ('what', 286), ('his', 274), ('some', 271), ('those', 266), ('which', 262), ('when', 262), ('out', 255), ('get', 240), ('had', 240), ('also', 235), ('up', 231), ('each', 218), ('pollsters', 214), ('just', 207), ('positive', 204), ('do', 201), ('only', 201), ('two', 199), ('polling', 191), ('new', 186), ('2', 184), ('github', 181), ('them', 180), ('donald', 180), (';', 178), ('%', 178), ('time', 177), ('poll', 177), ('points', 176), ('number', 175)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 707
+Number of types: 388
+Type token ratio: 0.5487977369165488
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'cast, january, give, overemphasize, hamm, show, drama, great, performer, postprestigetv, sense, true, defunct, hero, fellow, total, u, successful, le, jon, connie, high, adrian, west, lead, multiple, peryear, half, postshow, large, primetime, amc, die, friday, foot, next, busy, ‘, romantic, outstanding, big, median, opposite, legal, john, end, raw, good, productive, third, annual, adrianne, ensemble, folk, see, spent, leading, metric, crown, byrne, noah, gunn, timothy, aimee, detective, solid, worth, emmy, right, major, mad, bad, getty')
+
+('NNS', 'data, people, attends, datamadmen, others, men, longterm, biopics, hawkes, miserables, jones')
+
+('VBG', 'leading, working, breaking, following, coming, wrapping, supporting, including, wing, looking, counting, making, ending')
+
+('NN', 'cast, work, hayden, daniel, hamm, drama, way, ventimiglia, damage, film, california, michelle, point, bowen, television, sutherland, role, milo, jennifer, productivity, problem, sevigny, law, el, ritter, score, abbey, chloë, top, goodwin, light, find, dear, meaning, program, slattery, prestige, scott, walt, pasdar, night, deadwood, episode, porter, show, dollar, joe, answer, conclusion, card, teegarden, u, blood, dexter, bunch, paxton, nomination, stint, group, aaron, house, kitsch, hall, palicki, look, joan, arcadia, period, end, basis, bill, guarantee, board, hollywood, right, lot, sunday, paul, ravin, record, screen, allison, movie, performer, series, stuff, percentile, market, hero, frazer, theatre, west, er, julie, siobhan, kiefer, doubt, career, mean, emilie, mantegna, capitan, lowe, continue, season, michael, britton, connie, harold, order, anything, harrison, morrison, see, combination, rob, love, dae, track, taylor, news, tv, get, pan, rate, jason, candidate, job, wyle, hickey, arm, postshow, ginnifer, kim, perrineau, github, member, ryan, friday, cable, network, amanda, image, tier, downton, janney, olyphant, matter, john, year, monaghan, time, winner, actor, soprano, baseline, award')
+
+('VBN', 'built, seyfried, done, set, show, given, launched, annualized, stayed, acclaimed, excited, filed, seen, posted')
+
+('VBP', 'think, lovelace, show, ‘, get, believe, comedy, look, leave, eke, come, tend, rank, performer, c, want, lot, prospect, jon')
+
+('VBD', 'dominated, cast, lost, finneran, got, put, let, wrapped, started, left, oscarnominated, received2, seyfried, relied, set, varied, catapulted, appeared, encompassed, score, nominated, scooped, light, accumulated, concluded, rose, took')
+
+('VB', 'see, give, show, get, take, break, run, kwanten')
+
+('JJS', 'west, least, best')
+
+('NNP', 'zeroed')
+
+('VBZ', 'anna, air, includes')
+
+('JJR', 'higher')
+
+100 most freq tokens after processing: 
+[('trump', 653), ('percent', 543), ('poll', 543), ('teamlogo', 539), ('one', 490), ('1', 475), ('data', 424), ('verdict', 380), ('said', 360), ('like', 355), ('pollster', 321), ('people', 299), ('year', 290), ('number', 277), ('get', 273), ('point', 253), ('2', 250), ('also', 239), ('10', 238), ('time', 237), ('state', 219), ('election', 213), ('11', 208), ('positive', 205), ('two', 203), ('polling', 192), ('new', 190), ('13', 188), ('donald', 185), ('film', 181), ('github', 181), ('14', 180), ('would', 178), ('%', 178), ('3', 176), ('many', 172), ('voter', 170), ('u', 169), ('12', 169), ('republican', 168), ('average', 166), ('result', 166), ('see', 163), ('make', 159), ('15', 158), ('much', 157), ('even', 151), ('woman', 149), ('rating', 149), ('candidate', 148), ('first', 147), ('may', 146), ('league', 146), ('neutral', 138), ('likely', 136), ('5', 136), ('since', 135), ('model', 132), ('week', 130), ('day', 129), ('way', 128), ('president', 127), ('player', 125), ('american', 124), ('three', 124), ('question', 123), ('last', 122), ('among', 120), ('percentage', 120), ('16', 119), ('think', 118), ('team', 116), ('take', 115), ('season', 115), ('rate', 115), ('race', 114), ('still', 114), ('17', 114), ('4', 114), ('2014', 113), ('look', 112), ('clinton', 111), ('2016', 110), ('game', 109), ('le', 109), ('group', 108), ('vote', 108), ('national', 107), ('win', 106), ('show', 105), ('every', 103), ('6', 103), ('20', 102), ('another', 101), ('least', 101), ('say', 100), ('error', 100), ('use', 100), ('19', 100), ('hillary', 99)]

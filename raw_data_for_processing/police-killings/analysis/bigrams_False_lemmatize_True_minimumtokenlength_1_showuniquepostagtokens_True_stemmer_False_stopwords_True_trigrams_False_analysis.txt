@@ -1,0 +1,55 @@
+Article: police-killings
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 841
+Raw number of types: 347
+Raw Type token ratio: 0.4126040428061831
+
+100 most freq tokens before (pre)processing: 
+[(',', 3758), ('the', 2245), ('.', 1252), ('of', 1037), ('(', 1017), (')', 1017), ('a', 910), ('in', 879), ("'", 870), ('to', 824), ('and', 744), ('’', 615), (':', 566), ('that', 495), ('our', 440), ('verdict', 377), ('s', 369), ('is', 357), ('on', 351), ('it', 343), ('trump', 338), ('for', 333), ('i', 285), ('1', 281), ('with', 258), ('at', 235), ('more', 216), ('by', 215), ('percent', 212), ('—', 210), ('we', 207), ('are', 206), ('this', 199), ('but', 199), ('as', 199), ('positive', 189), ('“', 175), ('”', 175), ('than', 173), ('like', 170), ('from', 164), ('have', 159), ('donald', 156), ('you', 154), ('was', 147), ('data', 144), ('about', 144), ('an', 138), ('or', 136), ('neutral', 133), ('be', 125), ('t', 125), ('they', 121), ('one', 118), ('has', 112), ('/', 105), ('their', 102), ('all', 101), ('not', 100), ('other', 99), ('were', 96), ('out', 96), ('who', 94), ('so', 92), ('which', 91), ('his', 89), ('when', 89), ('what', 89), ('up', 89), ('?', 87), ('people', 85), ('2', 85), ('most', 84), ('he', 84), ('my', 83), ('negative', 83), ('there', 82), ('some', 82), ('if', 81), ('how', 81), ('hillary', 81), ('get', 79), ('can', 78), ('state', 78), ('model', 77), ("'m", 76), ('me', 76), (';', 73), ('films', 73), ('only', 70), ('do', 69), ('those', 69), ('3', 69), ('just', 67), ('polls', 65), ('its', 64), ('10', 63), ("'s", 62), ('where', 62), ('also', 60)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 410
+Number of types: 259
+Type token ratio: 0.6317073170731707
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'work, data, gray, report, stop, incident, effort, rockland, life, shot, jun, country, submission, opportunity, family, york, race1, cordaro, anger, man, death, blacker, thing, information, example, u, quarter, tract, entry, them5, shephard, area, standoff, download, group, inequality, plan, census, richest, traffic, missouri, look, city, household, colleague, place, word, build, ben, police, shotgun, give, term, coverage, condition, fairfax, reuben, goldman, vincent, address, home, encounter, percent, yield, start, poorer, result, set, se, michael, building, reader, age, caution, database, scene, mckenna, love, casselman, detail, ap, link, news, majorityblack, population, iii, cause, houston, get, chance, rate, job, datacollection, neighborhood, deeply, suburb, freddie, street, sex, github, protester, medium, monday, income, case, number, call, year, code, jail, virginia')
+
+('VBD', 'died, county, opensourced, flawed, occurred, found, verified, limited, said, cited, filed, arrested, set, threatened, converted, posted, armed, killed, bottom, saw, took')
+
+('JJ', 'american, black, statistic, fatal, reliable, give, county, income4, gray, full, likely, incident, lowincome, lived, underlying, u, basic, address, public, tract, neighborhood, discriminatory, strange, available, fit, mean, large, clear, ferguson, poor, shot, journalist, memorial, demographic, easy, unarmed, guardian, interactive, whole, live, david, official, makeshift, economic, february, possible, median, frank, new, sevenhour, pattern, tuesday, educational, impressive, overall, –, narrative, white, table, tactic, natasha, racial')
+
+('NNS', 'data, verifies, datapolicekillings, people, thanks, relies, men, africanamericans, police')
+
+('VBG', 'combining, policing, going, killing, making, reporting, according')
+
+('VBP', 'makeshift, tend, incident, least, make, add, know')
+
+('VBZ', 'tract3, includes, race2, allows, happens, ap, interpret')
+
+('VBN', 'counted, fled, launched, killed, crowdsourced, written, based, emerged')
+
+('VB', 'find, happen, say, take')
+
+('JJS', 'poorest')
+
+100 most freq tokens after processing: 
+[('verdict', 379), ('trump', 354), ('1', 299), ('percent', 222), ('positive', 189), ('like', 179), ('donald', 161), ('data', 148), ('one', 142), ('neutral', 133), ('film', 123), ('state', 111), ('get', 97), ('year', 97), ('poll', 94), ('people', 93), ('2', 92), ('model', 87), ('number', 84), ('hillary', 83), ('negative', 83), ('10', 81), ('3', 78), ('candidate', 72), ('time', 71), ('woman', 69), ('said', 68), ('5', 66), ('point', 66), ('make', 64), ('also', 64), ('would', 62), ('movie', 62), ('new', 61), ('rock', 61), ('clinton', 59), ('nt', 56), ('github', 56), ('2015', 56), ('day', 54), ('2014', 53), ('6', 53), ('two', 52), ('republican', 52), ('police', 52), ('2016', 52), ('2013', 51), ('bill', 51), ('way', 49), ('election', 49), ('got', 48), ('2012', 48), ('u', 47), ('4', 47), ('much', 46), ('driver', 46), ('classic', 46), ('average', 45), ('test', 44), ('see', 44), ('show', 44), ('think', 43), ('look', 43), ('city', 43), ('first', 41), ('even', 41), ('win', 41), ('song', 41), ('national', 41), ('american', 40), ('tower', 40), ('case', 40), ('president', 39), ('come', 39), ('rating', 39), ('know', 38), ('last', 38), ('8', 38), ('race', 38), ('9', 38), ('change', 38), ('money', 37), ('obama', 37), ('likely', 37), ('set', 37), ('among', 37), ('7', 37), ('democrat', 37), ('15', 36), ('percentage', 36), ('well', 35), ('go', 35), ('use', 35), ('forecast', 35), ('every', 34), ('many', 34), ('fuck', 34), ('2008', 34), ('weather', 34), ('team', 34)]

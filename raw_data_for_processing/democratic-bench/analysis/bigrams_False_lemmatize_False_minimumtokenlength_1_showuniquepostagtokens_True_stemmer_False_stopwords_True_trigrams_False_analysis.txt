@@ -1,0 +1,57 @@
+Article: democratic-bench
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 904
+Raw number of types: 439
+Raw Type token ratio: 0.4856194690265487
+
+100 most freq tokens before (pre)processing: 
+[(',', 8427), ('the', 7495), ('.', 5146), ('of', 3799), ('a', 3206), ('to', 3088), ('and', 2795), ('in', 2773), ('’', 2597), ('that', 1733), ('s', 1420), ('(', 1337), (')', 1337), ('for', 1287), ('is', 1245), ('on', 1091), (':', 1090), ('it', 1064), ('are', 928), ('“', 865), ('”', 864), ('with', 809), ('—', 804), ('at', 801), ('we', 799), ('as', 783), ('by', 753), ('i', 741), ('but', 710), ('percent', 709), ('more', 697), ('our', 682), ("'", 665), ('this', 642), ('trump', 636), ('they', 619), ('or', 613), ('you', 592), ('have', 576), ('from', 569), ('t', 564), ('about', 536), ('team-logo', 535), ('was', 525), ('who', 523), ('than', 513), ('be', 495), ('one', 485), ('data', 477), ('were', 455), ('an', 434), ('?', 430), ('has', 414), ('their', 397), ('not', 394), ('1', 388), ('all', 384), ('verdict', 377), ('polls', 364), ('said', 360), ('like', 360), ('there', 356), ('how', 352), ('he', 341), ('so', 334), ('if', 332), ('what', 328), ('can', 327), ('other', 321), ('people', 312), ('some', 311), ('which', 303), ('most', 300), ('his', 290), ('out', 288), ('those', 286), ('when', 283), ('had', 272), ('also', 268), ('get', 259), ('each', 252), ('up', 252), ('just', 226), ('do', 222), ('only', 222), ('two', 222), ('pollsters', 214), ('new', 209), ('github', 207), ('its', 206), ('positive', 206), ('them', 204), ('these', 201), (';', 197), ('will', 194), ('time', 192), ('polling', 191), ('been', 189), ('2', 189), ('my', 188)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 504
+Number of types: 353
+Type token ratio: 0.7003968253968254
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'schatz, committee, bernie, leader, number, question, jeff, stage, mar, campaign, difference, chuck, talk, chris, competitiveness, chairman, reelection, base2, house, ability, fact, baldwin, vice, candidate, term, bit, andrew, run, clinton, deval, cuomo, murphy, tester, entrant, al, reid, reason, call, mike, john, mazie, adviser, caucus, appeal, speculation, year, bid, step, elizabeth, size, cycles3, senatorial, presidency, patrick, story, part, tammy, datademocraticbench, age, booker, tom, joe, treasury, swing, totals4, casey, state, ray, minnesota, strength, earl, line, homestate, make, lot, donor, jeanne, scandal, health, coast, amount, mccaskill, minority, office, ohio, cory, party, subject, claire, secretary, possibility, wing, murray, franken, money, case, way, election1, harry, gillibrand, sen, force, president, election, chair, bench, jon, bob')
+
+('NNS', 'democrats, bases, performers, leaders, ones, senators, williams, things, polls, powerhouses, github, sanders, sherrod, steve, variables, kirsten, data, falters, governors, bids, terms, warren, races, names, fundraisers, factors, chances, candidates, contenders, people, expectations, campaigns, problems, journalists, numbers')
+
+('VB', 'get, need, see, run, running, step, raise, say')
+
+('JJ', 'special, deval, east, powerful, crucial, major, several, particular, ready, hillary, cuomo, national, nominee, overall, democratic, happen, much, win, patty, likely, sherrod, progressive, brian, tough, incumbent, decent, simple, subject, senate, former, unlikely, list, young, clear, wealthy, little, political, menendez, blue, whole, warren, proxy, brown, actorturnedpolitician, presidential, first, future, many, baldwin, top, weak, actual, prolific, late, webb, schumer, assistant, surprising, fundraising, full, white, federal, light, malley, last')
+
+('VBD', 'raised, shaheen, merkley, filed, cuomo, outperformed, reid, chuck, beebe, kirsten, looked, managed, franken, included, menendez, warren, popped, baldwin, wondered, hirono, tomblin, schumer, andrew, exceeded, bob')
+
+('VBP', 'sherrod, tell, candidate, beat, warren, talk, affect, bench, github, let, senate, gillibrand, beshear, ohio, roll, tammy, sen, al, come, jim')
+
+('VBZ', 'comes, elizabeth, democrats')
+
+('VBG', 'preparing, keeping, going, fundraising, running, darling, organizing, controlling')
+
+('VBN', 'seen, raised, expected, thought, run, franken, wellknown, given')
+
+('NNP', 'kitzhaber')
+
+('JJS', 'least')
+
+100 most freq tokens after processing: 
+[('percent', 717), ('trump', 643), ('teamlogo', 538), ('one', 494), ('data', 480), ('1', 477), ('verdict', 378), ('polls', 368), ('said', 366), ('like', 366), ('people', 318), ('also', 271), ('get', 265), ('2', 254), ('10', 250), ('two', 225), ('11', 218), ('pollsters', 214), ('new', 212), ('github', 207), ('positive', 206), ('13', 198), ('time', 195), ('would', 193), ('polling', 192), ('us', 187), ('14', 186), ('points', 185), ('donald', 184), ('many', 183), ('%', 182), ('number', 180), ('3', 180), ('poll', 179), ('12', 176), ('much', 174), ('see', 173), ('15', 169), ('first', 164), ('even', 164), ('average', 164), ('year', 162), ('likely', 161), ('election', 158), ('may', 154), ('since', 153), ('league', 148), ('voters', 144), ('years', 142), ('5', 141), ('among', 139), ('neutral', 138), ('state', 137), ('16', 137), ('2014', 136), ('results', 135), ('states', 133), ('women', 131), ('last', 131), ('world', 130), ('three', 129), ('make', 128), ('team', 123), ('think', 122), ('still', 122), ('17', 121), ('president', 120), ('percentage', 120), ('2016', 119), ('4', 119), ('least', 116), ('less', 116), ('season', 114), ('every', 113), ('national', 113), ('respondents', 113), ('well', 112), ('clinton', 112), ('way', 111), ('6', 110), ('another', 109), ('model', 109), ('20', 108), ('use', 108), ('numbers', 107), ('pollster', 107), ('take', 105), ('win', 105), ('whether', 104), ('19', 104), ('vote', 103), ('hillary', 101), ('films', 101), ('know', 99), ('good', 99), ('better', 99), ('republican', 98), ('filed', 98), ('2015', 98), ('8', 97)]

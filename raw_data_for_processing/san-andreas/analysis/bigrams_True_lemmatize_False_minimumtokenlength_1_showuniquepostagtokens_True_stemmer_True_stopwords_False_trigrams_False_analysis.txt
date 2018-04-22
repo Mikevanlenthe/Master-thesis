@@ -1,0 +1,57 @@
+Article: san-andreas
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 627
+Raw number of types: 277
+Raw Type token ratio: 0.44178628389154706
+
+100 most freq tokens before (pre)processing: 
+[(',', 4615), ("'", 1900), ('(', 1899), (')', 1899), ('the', 664), (':', 454), ('our', 389), ('verdict', 377), ('trump', 330), ('.', 303), ('in', 283), ('a', 281), ('of', 273), ('to', 261), ('and', 235), ('1', 223), ('i', 219), ('positive', 185), ('donald', 155), ('that', 138), ('neutral', 132), ('’', 129), ('on', 122), ('like', 114), ('for', 103), ('it', 101), ('is', 99), ('/', 96), ('you', 90), ('s', 87), ('with', 85), ('at', 84), ("'m", 82), ('negative', 81), ('hillary', 79), ("'s", 75), ('my', 68), ('was', 66), ('we', 62), ('percent', 62), ('me', 62), ('but', 59), ('from', 57), ("n't", 55), ("''", 54), ('than', 54), ('``', 53), ('more', 53), ('about', 50), ('clinton', 50), ('have', 47), ('by', 47), ('--', 46), ('2015', 46), ('were', 45), ('all', 44), ('be', 44), ('data', 44), ('this', 44), ('2013', 44), ('they', 43), ('?', 42), ('up', 41), ('police', 39), ('are', 39), ('has', 39), ('“', 38), ('”', 38), ('as', 38), ('people', 38), ('do', 37), ('get', 37), ('—', 37), ('not', 37), ('2016', 37), ('who', 36), ('bill', 36), ('got', 36), ('2014', 34), ('2012', 34), ('fuck', 33), ('or', 33), ('drivers', 33), ('just', 32), ('his', 32), ('weather', 32), ('one', 31), ('out', 30), ('t', 29), ('he', 29), ('2', 29), ('!', 28), ('most', 28), ('so', 28), ('money', 28), ('tokens', 27), ("'to", 27), ('an', 27), ('2008', 27), ('obama', 27)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = True
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1069
+Number of types: 714
+Type token ratio: 0.6679139382600561
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'risk, gosh ther, box, disast, world i, california, probabl, pacific censu, treat, peopl, yellowstone whi, lifetim, am th, buying a, survey it, at th, time span, massive catastroph, last on, behind th, if it, andrea, basic disast, lifetime but, earthquak, story wil, the survey, supervolcano, is 7, hollywood, the data, the pacif, but becaus, is prob, have a, good deal, their lifetim, this survey, johnson attend, for th, lifetime y, rock, mississippi check, t, to hav, kind of, s famili, overestimate th, eric charbonneau, fault or, geologically act, my favorit, destroying california, it turn, a deck, s tecton, supervolcano and, california i, crushed it, percent, going to, percent think, jack, walt, kit, andreas fault, or extrem, yellowston, still lot, jun, andreas abid, catastrophic earthquak, of disast, state, a littl, at datasanandrea, formula, a builtin, three tim, the box, the mississippi, lower than, github github, audienc, on th, draw, plan, overall and, more lik, box offic, to break, builtin, year, situat, san andrea, by a, an earthquak, end wel, extremely worri, data for, deck and, is ok, a film, though accord, stori, lot, as buy, making an, left, for a, eon, expectations and, or larg, but it, film, film i, weekend, think it, risk of, percent wer, formula world, in hollywood, people overestim, taken precaut, over th, in on, oh mi, survey th, eons thi, people who, states ther, the prob, percent ov, survival kit, the noncontigu, survey but, into thos, isn, destroy, there i, and pul, survey, deal mor, starring dwayn, draw a, filed und, more y, s mi, the film, by walt, the rock, a man, beat, to b, region, dwayn, the idea, probably go, disaster but, thi, this kind, file, is destroy, earthquake wil, pulling in, california crush, hollywood er, movies get, coast, it at, weekend b, span california, pacif, most peopl, the premier, rebuilt but, a surveymonkey, audience pol, charbonneau, crush, major treat, immedi, respond, johnson, idea, from a, thing peopl, premier, mississippi, on may, happen in, coast and, there , larger rock, you ar, past weekend, deal, the mor, the big, thing, through 2045, get th, my gosh, favorite th, idea behind, one bi, about ‘, yellowstone supervolcano, during their, kind, precaut, abides bi, probably a, plan accord, stuff, the risk, more worri, coming eon, card, percent of, star, than most, datasanandreas dwayn, people ar, offic, worri, or mak, in a, alon, west, github data, whether it, surveymonkey audi, well for, man, a good, americans ar, famili, a bad, with a, ap, when w, situation i, in mor, enough geolog, tectonic situ, magnitud, a mass, accord, of an, andreas a, some stuff, off legitim, will not, think, are prob, geolog, about a, at 600, earthquake destroy, and th, the com, s also, attends th, movie formula, geological survey, dwayne johnson, charbonneau ap, is scientif, one y, s the, as lik, which mak, quak, to a, way, this on, movi, s go, kit or, rocking california, zero in, commissioned onli, expect, datasanandrea, pretty bas, a catastroph, check out, poll w, a jack, for thi, scientifically sound, quake wil, in their, johnson about, on github, isn t, jun 2, family i, t know, the last, bad th, film star, t alon, one wil, region respond, because peopl, the quak, such a, likely y, jack california, premiere of, gosh, the u, if you, we zero, s, github, data, region th, evacu, according to, s not, here , likely to, were worri, stuff in, catastroph, pacific region, time, playing off, think th, sound, be worri, rock isn, to th, very or, whi, a magnitud, hickey, treat th, are mor, magma, we settl, data on, is so, and if, they necessarili, s a, necessarily ne, geological tim, a disast, supervolcano ov, much magma, evacuation plan, west coast, andreas hav, domest, earthquake with, will com, big on, hickey fil, it , deck, man , lots of, really a, world, the geolog, times a, fears th, andreas on, immediate risk, probability of, alone lot, magnitude of, tcl, census region, are to, lifetimes ar, lifetimes accord, is rebuilt, more anxieti, risks ar, theatr, an evacu, west of, abid, of peopl, this stori, settle anyth, but when, littl, don t, tecton, fault, the yellowston, of th, span, break som, poll, one stil, massiv, data at, a third, are worri, are in, censu, full data, disaster movi, builtin audi')
+
+('VBP', 'are, fear, people think, out th, a pretti, california , need, if th, have, go, s, come dur, will occur, attend, play, in their, get, you know, make, you don, zero, chinese theatr, know, one and, am, buy, commiss, sense becaus, think, geolog, that play, necessarili, don, that , who think')
+
+('VBN', 'ok, taken, rebuilt, worri, have taken')
+
+('JJ', 'full, years draw, about thi, of american, no big, need to, we commiss, those fear, anyth, noncontigu, s, probabl, peopl, becaus, a major, not end, s not, the san, so much, worri, on a, not a, under yellowston, eric, surviv, andrea, ap san, card from, surveymonkey, earthquak, about th, legitim, destroy, fears lik, about thre, us stat, like san, major, about 62, said they, the immedi, about 58, random, long, theatre in, go down, not real, about a, good, geological tim, third of, thi, out th, legitimate fear, come, this past, much, one which, disaster such, basic, in for, will happen, than they, san, next, out expect, veri, pacif, us geolog, long enough, pretti, left coast, overal, precautions for, earthquakes overal, noncontiguous u, a surviv, the ful, big, ‘, at tcl, that peopl, domestically san, last, san andrea, scientif, yet a, walt hickey, extrem, american, such, the next, under movi, way even, one a, third, because oh, did w, play into, that , bad, favorit, about earthquak')
+
+('NNS', 'tcl chines, anxieti, data, andrea, sens, chines, down in, makes sens, even if')
+
+('VBZ', 'probabl, a big, accord, and 65, andrea, is, s, activ, turn')
+
+('VB', 'happen, end, play, break, come, realli, becaus, pull, argu, dure, occur, make, have, check, be, settl, go, could argu')
+
+('JJR', 'larger, more, lower, still her, they wer')
+
+('JJS', 'anything west, million domest, most, west')
+
+('VBD', 'to go, the left, more than, of 80, were, also play, somewhat veri, respondents said, said, the 206, overestim, why did, sound on, s, did, may 26')
+
+('NNP', '‘ san, ‘ the')
+
+100 most freq tokens after processing: 
+[('the', 675), ('our', 399), ('verdict', 380), ('our verdict', 377), ('trump', 356), ('in', 304), ('a', 291), ('of', 289), ('to', 288), ('and', 261), ('i', 242), ('1', 241), ('posit', 186), ('verdict posit', 178), ('s', 164), ('donald', 163), ('that', 161), ('donald trump', 147), ('like', 142), ('on', 138), ('it', 135), ('neutral', 132), ('verdict neutr', 128), ('for', 118), ('is', 114), ('you', 110), ('at', 99), ('with', 95), ('m', 92), ('we', 88), ('percent', 82), ('hillari', 82), ('neg', 82), ('i m', 81), ('in th', 79), ('my', 78), ('wa', 76), ('me', 72), ('verdict neg', 71), ('but', 69), ('nt', 69), ('have', 68), ('from', 67), ('get', 67), ('be', 64), ('than', 64), ('of th', 64), ('more', 63), ('about', 60), ('thi', 58), ('one', 58), ('by', 57), ('peopl', 56), ('clinton', 56), ('they', 55), ('were', 55), ('all', 54), ('do', 53), ('data', 52), ('up', 51), ('the trump', 51), ('go', 50), ('are', 49), ('ha', 49), ('as', 48), ('2015', 48), ('not', 47), ('who', 46), ('state', 46), ('at th', 44), ('percent of', 44), ('2013', 44), ('driver', 44), ('or', 43), ('bill', 43), ('just', 42), ('presid', 42), ('2013 our', 42), ('he', 41), ('hi', 41), ('got', 41), ('fuck', 41), ('2015 our', 41), ('if', 40), ('said', 40), ('out', 40), ('to th', 40), ('need', 39), ('polic', 39), ('so', 38), ('think', 38), ('t', 38), ('2016', 38), ('tower', 38), ('an', 37), ('their', 37), ('2', 37), ('what', 36), ('want', 36), ('year', 36)]

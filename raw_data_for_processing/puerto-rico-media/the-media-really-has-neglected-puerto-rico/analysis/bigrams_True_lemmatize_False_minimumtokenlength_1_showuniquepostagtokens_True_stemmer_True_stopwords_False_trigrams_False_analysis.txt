@@ -1,0 +1,55 @@
+Article: puerto-rico-media/the-media-really-has-neglected-puerto-rico
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 581
+Raw number of types: 268
+Raw Type token ratio: 0.4612736660929432
+
+100 most freq tokens before (pre)processing: 
+[(',', 4568), ("'", 1900), ('(', 1897), (')', 1897), ('the', 597), (':', 452), ('our', 388), ('verdict', 377), ('trump', 320), ('.', 270), ('in', 269), ('a', 254), ('of', 246), ('to', 242), ('1', 223), ('i', 219), ('and', 217), ('positive', 184), ('donald', 155), ('neutral', 132), ('that', 122), ('on', 114), ('like', 113), ('’', 103), ('for', 97), ('/', 95), ('is', 92), ('it', 92), ('you', 85), ("'m", 82), ('with', 82), ('negative', 81), ('at', 79), ('hillary', 79), ("'s", 75), ('s', 69), ('my', 66), ('was', 64), ('me', 62), ('we', 57), ("n't", 55), ('percent', 55), ("''", 54), ('but', 54), ('``', 53), ('from', 53), ('clinton', 50), ('than', 48), ('more', 47), ('--', 46), ('2015', 45), ('2013', 44), ('were', 43), ('have', 42), ('by', 42), ('all', 41), ('?', 41), ('up', 41), ('they', 40), ('be', 39), ('police', 39), ('this', 38), ('has', 38), ('do', 37), ('data', 37), ('2016', 37), ('bill', 36), ('got', 36), ('who', 35), ('2014', 34), ('get', 34), ('as', 34), ('2012', 34), ('fuck', 33), ('drivers', 33), ('are', 32), ('not', 32), ('his', 32), ('weather', 32), ('—', 30), ('just', 30), ('people', 30), ('!', 28), ('“', 28), ('”', 28), ('about', 28), ('money', 28), ('he', 28), ('or', 28), ('2', 28), ('tokens', 27), ('most', 27), ("'to", 27), ('so', 27), ('out', 27), ('2008', 27), ('obama', 27), ('state', 27), ("'and", 26), ("'we", 26)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = True
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1045
+Number of types: 700
+Type token ratio: 0.6698564593301436
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'maria, respons, attention respons, in convers, data, convers, ha, cours, puerto, media, polit, stori, googl, rico, of cours, observ, the phras')
+
+('VBP', 'are, also high, isn, attention1 tv, day show, combin, phrase n, that would, primary elect, planned in, get, collect, fail, nahj, search, rico, cloud, course but, realli, rico and, we collect, re, suffer, conversation about, cnn seem, show, pr w')
+
+('JJ', 'out of, we r, news coverag, of american, public, aired th, us nahj, s, spike in, for both, neglect, get, election in, citizen, pr, about hurrican, news arch, us media, presence wil, us did, are american, ignor, presid, natur, covered hurrican, nationallocal media, datapuertoricomedia, rel, not just, about th, datapuertoricomedia publish, weeks hurrican, a british, other natur, w, shows didn, initially ment, attention1, news publish, about puerto, american citizen, hit puerto, hit th, right a, few week, t, that puerto, a hurrican, half of, of hispan, anywhere in, dedicated to, mentioned hurrican, but compar, and hurrican, network initi, a stat, statement cal, as th, that cov, spat between, similar, british, rican, shows spok, that th, past, maria much, has been, nahj nahj, said in, tv new, territory i, after hurrican, collects new, come, publish, specul, much smal, higher for, aid th, nationalloc, wa, news than, nahj, ba, puerto, up it, that collect, recent, under puerto, significantli, hurrican, other stori, on th, equal, both th, hit bi, also much, seems to, unacceptable w, told fivethirtyeight, the past, networks did, on media, last, by a, other th, puerto rican, ha, re cal, dhrumil, worth, american, the hurrican, will br, isn t, few, compar, hispan, of th, on tv, a few, w equal, that fail, was for, national anthem, a similar, stories ar, other')
+
+('NN', 'media and, fivethirtyeight not, territori, disast, mehta fil, reveals a, spike in, is on, alabama and, statu, aid, call, rico, collected from, to cov, tv, the media, sep, may again, coverage and, recent pol, initi, than it, mainland, week perhap, network may, visit, was also, the data, outlet, t mention, rico aft, phrase, has a, published on, data hint, the lack, for th, failed to, pass a, sentences on, maria mad, hi, mani, to hav, primari, devast, the sunday, health car, after hi, lack, reason, coverage of, has been, attent, it wa, ricans ar, british network, engag, fewer sent, the nfl, in th, citizens googl, in u, the devast, excepted ha, one reason, natural disast, mentions of, state, florida on, mehta, hispanic journalist, github github, coverag, televis, ramping up, rico get, hurrican, its competitor, on th, press, internet, plan, two storm, engagement from, television a, the fiv, those st, coming week, hit, similar trend, sports play, texa, is not, of coverag, sunday aft, bbc, compar, crisi, significantly few, and a, in puerto, analysis of, but it, ignored data, delays in, compared to, rico plan, fivethirtyeight, coverage rev, maria than, all mani, disaster mor, a primari, states wa, the bbc, rico at, five show, data w, interest wa, hurricanes harvey, the cabl, s tweet, rico and, landfall al, comparatively littl, cover, issu, air, players just, devastation in, news network, and thre, s statu, initial sil, media r, trump, media fivethirtyeight, people on, archive show, maria th, on nationalloc, anthem, filed und, maria ha, hurricane maria, more than, getting compar, just to, pay, dedic, to pass, from media, internet everi, the spik, all fiv, rest, are specul, irma2 th, smaller than, thi, the tv, file, us network, delay, programs combin, combin, the network, talk, things a, half, by dhrumil, puerto, google search, issued a, cnn, harvey and, suffers aft, texas and, just th, interest, issue presid, competitors in, poll show, a databas, air mor, trump ha, crisis in, in pr, dearth of, coverage wa, and irma2, more sent, maria on, health, been rel, paying attent, spat, every day, delivery of, a rec, thing, trend, get th, rico , seem, from th, day, more coverag, hint, as a, little attention1, covering of, spike, mention puerto, the crisi, than on, bill, media outlet, presenc, associ, presid, much of, alon, rest of, talk show, maria, journalist, github data, press coverag, citizen engag, to nam, have air, mainland than, the mainland, cloud a, americans ar, did and, national associ, minut, more proport, in mor, data from, less than, care, the issu, worth cov, accord, anthem wa, many observ, on air, combined thos, perhaps hi, this disast, at al, the deliveri, nation, and th, archiv, tv new, few last, the com, nahj septemb, of texa, been occupi, its spokesperson, is get, player, news show, mention, storm, it i, has neglect, trend data, spoke significantli, program, one minut, hit wa, in alabama, harvey, florida, competitor, minute of, status a, that less, didn, after presid, tweet, did cnn, news, septemb, hurricane of, to puerto, t pay, president trump, between th, on github, are worth, attention a, us show, sunday, dearth, a spat, and florida, again b, sentences about, the presid, perhap, cable new, past few, trump , the u, more media, published sep, calling on, deliveri, cover thi, s, puerto rico, github, the nat, hurricane hit, data, as each, his initi, than puerto, according to, visit to, citizen, political talk, of maria, a health, snyder, alabama, care bil, aired mor, everi, sentenc, statement, really ha, after maria, than half, to th, and sport, proportionally and, cabl, each of, equal attent, last sunday, dhrumil mehta, silenc, of fiv, databas, disasters of, ba snyd, maria combin, a visit, data on, network, to on, week, relatively ignor, of thos, analysi, president and, media cloud, of press, the two, the storm, rico i, publish, journalists issu, than th, sport, its coverag, wa, made landfal, bbc a, media to, rico suff, nfl the, bring mor, in ment, proport, five polit, cover devast, silence on, one analysi, to produc, produce less, elect, combined to, while puerto, and delay, nfl, rico bi, sunday alon, coverage accord, outlets to, lack of, spokesperson ba, be ramp, ha, littl, the dearth, five program, of th, poll, data at, the internet, searches from, alone aft, didn t, show')
+
+('VBD', 'of aid, told, tv new, of new, said, hit, fivethirtyeight, spoke, september 25, ha, that hit, wa, was said, coverage ded, did, rico right, was hit, that th, made, sep 28, snyder told')
+
+('VBN', 'hit, ramp, been, given')
+
+('VB', 'reveal, produc, reason for, would b, puerto, be, pass, cover, call, have, name, bring, irma2, show')
+
+('VBZ', 'maria, spokesperson, that isn, that publ, peopl, his pres, is, wa, that th, even awar, and citizen, that peopl, that air, that puerto, coverag')
+
+('JJR', 'higher, smaller, more, given anywher, less, fewer')
+
+('JJS', 'the rest, public interest')
+
+100 most freq tokens after processing: 
+[('the', 608), ('our', 398), ('verdict', 380), ('our verdict', 377), ('trump', 346), ('in', 290), ('to', 269), ('a', 264), ('of', 262), ('and', 243), ('i', 242), ('1', 241), ('posit', 185), ('verdict posit', 178), ('donald', 163), ('donald trump', 147), ('s', 146), ('that', 145), ('like', 139), ('neutral', 132), ('on', 130), ('verdict neutr', 128), ('it', 126), ('for', 112), ('is', 107), ('you', 105), ('at', 94), ('with', 92), ('m', 92), ('we', 83), ('hillari', 82), ('neg', 82), ('i m', 81), ('my', 76), ('in th', 76), ('percent', 75), ('wa', 74), ('me', 72), ('verdict neg', 71), ('nt', 69), ('but', 64), ('get', 64), ('have', 63), ('from', 63), ('be', 58), ('than', 58), ('more', 57), ('clinton', 56), ('of th', 56), ('do', 53), ('were', 53), ('thi', 52), ('they', 52), ('by', 52), ('all', 51), ('up', 51), ('the trump', 51), ('one', 49), ('peopl', 48), ('ha', 48), ('go', 47), ('2015', 47), ('who', 45), ('data', 45), ('state', 45), ('as', 44), ('2013', 44), ('driver', 44), ('at th', 43), ('bill', 43), ('are', 42), ('not', 42), ('2013 our', 42), ('hi', 41), ('got', 41), ('percent of', 41), ('fuck', 41), ('2015 our', 41), ('he', 40), ('just', 40), ('polic', 39), ('about', 38), ('or', 38), ('said', 38), ('need', 38), ('2016', 38), ('tower', 38), ('so', 37), ('out', 37), ('if', 36), ('want', 36), ('2', 36), ('to th', 36), ('2014', 36), ('1 i', 36), ('what', 35), ('presid', 35), ('year', 35), ('2012', 35), ('an', 34)]

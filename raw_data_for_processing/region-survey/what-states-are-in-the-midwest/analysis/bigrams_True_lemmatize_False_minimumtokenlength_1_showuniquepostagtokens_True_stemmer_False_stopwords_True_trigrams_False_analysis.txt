@@ -1,0 +1,57 @@
+Article: region-survey/what-states-are-in-the-midwest
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 618
+Raw number of types: 276
+Raw Type token ratio: 0.44660194174757284
+
+100 most freq tokens before (pre)processing: 
+[('the', 7367), (',', 7126), ('.', 5060), ('of', 3748), ('a', 3149), ('to', 3017), ('and', 2726), ('in', 2720), ('’', 2538), ('that', 1717), ('s', 1387), ('for', 1261), ('is', 1232), ('on', 1073), (':', 1061), ('it', 1054), ('are', 913), ('“', 861), ('”', 860), ('with', 800), ('at', 789), ('—', 784), ('we', 781), ('as', 768), ('by', 740), ('(', 727), (')', 727), ('percent', 709), ('i', 708), ('but', 701), ('more', 688), ('our', 676), ('this', 638), ('trump', 636), ('they', 610), ('or', 602), ('you', 579), ('have', 565), ('from', 564), ('t', 554), ('team-logo', 535), ('about', 532), ('who', 513), ('was', 510), ('than', 507), ('be', 484), ('one', 481), ('data', 462), ('were', 449), ('an', 429), ('?', 414), ('has', 410), ('not', 390), ('1', 386), ('their', 385), ('verdict', 377), ('all', 370), ('polls', 362), ('said', 360), ('like', 356), ('there', 352), ('how', 347), ('he', 336), ('if', 328), ('so', 327), ('can', 323), ('what', 321), ('other', 320), ('people', 310), ('some', 303), ('which', 298), ('most', 292), ('his', 290), ('out', 282), ('those', 282), ('when', 279), ('had', 266), ('also', 262), ('get', 257), ('up', 245), ('each', 244), ('just', 224), ('only', 222), ('two', 217), ('do', 215), ('pollsters', 214), ('positive', 206), ('its', 204), ('new', 201), ('them', 201), ('github', 200), ('these', 197), ('will', 193), ('time', 191), ('polling', 191), (';', 190), ('2', 188), ('points', 185), ('been', 184), ('would', 183)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 798
+Number of types: 656
+Type token ratio: 0.8220551378446115
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'regrets, data, arkansas, other regions, these regions, opinions, these groupings, the states, populations, people aren, it minnesotans, selfidentified midwesterners, the data, 1357 respondents, states midwesterners, nebulous i, midwest spans, americans, dataregionsurvey, yankee regrets, midwesterners, minnesotans, midwestern sources, it seems, spans, which states, sources, selfavowed midwesterners, many opinions, which regions, of things, our respondents, substantial populations, break americans, people, of respondents, states, vast swaths, hoosiers, it comes, regions, subdivisions, respondents, more subdivisions, expands, groupings, things, midwest hoosiers, kansas, with our')
+
+('VBP', 'error, they consider, states make, contrast, say, with have, refer, acknowledge, groupings than, i m, spans further, midwesterners my, make, data on, be in, sources i, here worth, south, midwest, states are, they re, people think, you ll, boss, regions the, yankee, seems unclear, comes to, south and, tribes, appear, regrets the, michigan, consider, t say, aren t, think, about 80, regions of, subdivisions and, west, populations michigan, states it, southwest, see, americans into')
+
+('NN', 'group, core, the cut, midwestern by, and illinois, source, the question, than half, view, question, github github, appear to, but two, part of, criticized by, philadelphia the, i thought, missouri and, the region, the preeminent, when it, ask, audience to, can t, group one, indiana iowa, least 60, get this, midwest, preeminent, vote, they did, spoke with, to find, did i, potential midwest, home, rest, and any, their state, definition, their territory, one state, so i, territory, midwest this, find out, survey in, i spoke, refer to, some as, is more, coast, thought oklahoma, arkansas if, more than, northeast, national survey, by just, diversity in, to be, with 2778, more sure, there are, west of, is everybody, thought they, this yankee, city chicago, midwest i, part, half as, and a, region, regular argument, too sure, argument, s a, savoy illinois, midwest each, least one, march, question but, quarter, york, consider to, diversity, them in, new york, by walt, midwest is, audience, territory to, territory as, bordering, and minnesota, fuss ohio, many people, walt hickey, designation is, midwest so, potential albeit, can probably, percent, just about, which people, the group, midwest are, of michigan, view we, as a, bordering it, sure about, mountain, we then, midwest from, at dataregionsurvey, error indiana, from march, state and, argument i, york and, the south, break, way, i d, midwest if, the true, southern survey, ap, looking into, any state, and diversity, half, iowa and, everybody, to march, perlman ap, a lot, limited definition, the rest, seth perlman, midwestern but, illinois, midwestern city, it s, home of, be the, core of, defined but, i get, make up, decided to, minnesota each, people refer, the midwest, are a, west coast, anecdotal source, than i, to ask, group to, and northeast, contrast this, solid region, cut we, lot, american territory, percent of, wisconsin and, march 17, philadelphia, two other, coast mountain, into the, source of, midwesterner, kansas each, midwest without, hickey, region it, to break, the error, at least, as you, designation, survey, south is, walt, if half, south the, pinpoint, midwesterner we, is as, as i, without too, some of, midwest by, the vote, state, regionalism, github, albeit, ll soon, in savoy, be because, much fuss, anything, respondents of, in the, under regionalism, to pinpoint, pinpoint how, a quarter, such as, chicago, broadbased view, a cornfield, city, the core, a midwesterner, this group, surveymonkey audience, vote so, get, soon see, minnesota, rest of, cornfield in, ohio missouri, adamant about, at 926, those 1357, github data, chicago was, data at, made up, thought if, of the, southwest and, get in, fuss')
+
+('VBD', 'hickey filed, we asked, seth, than 70, selfproclaimed, cornfield, probably put, decided, selfidentified, d expected, i decided, targeted, admittedly unsophisticated, then asked, minnesotans thought, because of, by selfavowed, quarter thought, selected, half of, thought, got, michigan has, put, identified, several selfproclaimed, ask selfidentified, hoosiers thought, that targeted, each got, each pulled, asked, respondents thought, pulled, we ran, filed, march 12, everybody selected, spoke, our soontobereleased, respondents identified, state for')
+
+('JJ', 'many, identify the, michigan wisconsin, of their, nebulous as, very limited, first many, anecdotal, from new, unclear, preeminent midwestern, targeted the, falls into, asked surveymonkey, anything the, illinois seth, the potential, lot of, up which, here s, their substantial, states they, about which, dataregionsurvey a, true, too often, whether they, more nebulous, tribes such, territory, potential, more than, am which, regular, and the, there are, make the, surveymonkey, savoy, second the, perlman, to vast, sure, new, i can, identified a, of those, or some, southern, midwesterners which, pulled at, south, get the, unsophisticated, a national, t too, apr 29, american, what the, united, namely their, a solid, illinois home, far south, into tribes, solid, out which, percent, vast, swaths of, soontobereleased, iowa, unsophisticated designation, selfproclaimed midwestern, to the, in their, much, missouri, about arkansas, of these, as nebulous, the south, ran a, generally consider, illinois appear, think the, indiana, for the, wisconsin, soontobereleased southern, several, half, in which, easy to, generally acknowledge, expands this, ran, thought, south than, of american, second, states, into first, states some, one potential, thought missouri, too much, nebulous, first, percent of, often people, only to, originally of, up the, partly be, we can, except when, somewhat regular, has many, they made, on github, adamant, national, easy, substantial, albeit anecdotal, in these, limited, this several, somewhat adamant, in the, so we, asked this, identified as, consider part, put them, northeast are, selected at, south people, midwestern, swaths, as midwestern, s easy, of the, of our')
+
+('VBN', 'thought, cut, the united, was identified, this broadbased, frequently criticized, selfavowed, identified, made, broadbased, have asked, clearly defined, have a, criticized, defined, expected')
+
+('VB', 'to identify, should have, identify, than we, find, re in, to get, respondents contrast, regionalism get, consider')
+
+('JJS', 'least, true midwest, west, anything west, states southwest, the midwest, midwest, the west')
+
+('VBZ', 'illinois, comes, united states, and i, which states, where the, precisely falls, were in, even illinois, falls, seems, mountain states, definition of, how far, region expands, lot or, that may')
+
+('VBG', 'worth looking, pulling, looking, if anything, each pulling, state bordering, consider anything')
+
+('JJR', 'filed under, pulling more, say either')
+
+100 most freq tokens after processing: 
+[('of the', 834), ('in the', 760), ('percent', 709), ('trump', 637), ('teamlogo', 535), ('one', 484), ('1', 469), ('data', 462), ('verdict', 377), ('our verdict', 377), ('polls', 363), ('said', 360), ('like', 356), ('people', 310), ('percent of', 299), ('it s', 287), ('to the', 282), ('also', 262), ('get', 257), ('on the', 251), ('2', 250), ('10', 244), ('two', 217), ('11', 215), ('pollsters', 214), ('and the', 206), ('positive', 206), ('new', 201), ('github', 200), ('13', 198), ('polling', 192), ('time', 191), ('points', 185), ('would', 183), ('us', 183), ('14', 183), ('for the', 182), ('donald', 181), ('%', 181), ('poll', 179), ('many', 178), ('number', 178), ('3', 178), ('verdict positive', 178), ('12', 175), ('much', 169), ('15', 168), ('see', 168), ('average', 164), ('donald trump', 164), ('at the', 164), ('to be', 163), ('likely', 159), ('year', 159), ('even', 158), ('first', 158), ('election', 157), ('may', 152), ('the data', 151), ('since', 149), ('league', 148), ('in a', 145), ('don t', 144), ('voters', 144), ('5', 140), ('neutral', 138), ('among', 137), ('years', 137), ('the most', 137), ('results', 134), ('16', 133), ('2014', 132), ('state', 132), ('number of', 131), ('more than', 128), ('verdict neutral', 128), ('three', 127), ('world', 127), ('from the', 126), ('states', 126), ('women', 126), ('last', 125), ('i m', 124), ('still', 122), ('make', 121), ('17', 121), ('the same', 120), ('percentage', 120), ('that the', 120), ('4', 118), ('with the', 117), ('of a', 115), ('data on', 114), ('least', 114), ('think', 114), ('less', 114), ('season', 113), ('president', 112), ('national', 112), ('respondents', 112)]

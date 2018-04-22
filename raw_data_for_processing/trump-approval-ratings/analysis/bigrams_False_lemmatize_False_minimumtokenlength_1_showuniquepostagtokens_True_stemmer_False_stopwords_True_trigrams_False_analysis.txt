@@ -1,0 +1,59 @@
+Article: trump-approval-ratings
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 702
+Raw number of types: 330
+Raw Type token ratio: 0.4700854700854701
+
+100 most freq tokens before (pre)processing: 
+[(',', 3073), ('the', 1872), ('.', 1023), ('of', 860), ('(', 780), (')', 780), ('a', 763), ('in', 741), ('to', 689), ("'", 664), ('and', 604), (':', 532), ('’', 511), ('our', 434), ('that', 432), ('verdict', 377), ('trump', 337), ('s', 310), ('is', 304), ('for', 295), ('it', 294), ('on', 287), ('i', 267), ('1', 265), ('with', 222), ('more', 196), ('at', 192), ('positive', 189), ('we', 181), ('this', 178), ('percent', 176), ('by', 174), ('but', 164), ('as', 164), ('are', 159), ('—', 159), ('than', 158), ('donald', 155), ('like', 155), ('“', 149), ('”', 149), ('have', 135), ('from', 133), ('neutral', 133), ('you', 130), ('about', 130), ('was', 122), ('an', 118), ('t', 111), ('data', 111), ('be', 108), ('or', 106), ('/', 102), ('has', 101), ('one', 96), ('they', 89), ('not', 88), ('other', 83), ('negative', 83), ('his', 81), ('hillary', 80), ('2', 80), ('all', 79), ('were', 79), ('my', 76), ('state', 76), ("'m", 75), ('their', 75), ('out', 75), ('when', 75), ('who', 74), ('me', 74), ('?', 73), ('how', 71), ('films', 71), ('so', 70), ('there', 70), ('he', 70), ('which', 69), ('model', 69), ('most', 68), ('up', 68), ('3', 68), ('get', 67), ('people', 66), ('what', 65), ('polls', 65), (';', 63), ('some', 63), ('can', 63), ("'s", 60), ('if', 59), ('10', 59), ('do', 57), ('those', 57), ('only', 56), ('just', 55), ('5', 54), ('women', 53), ('clinton', 51)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 332
+Number of types: 247
+Type token ratio: 0.7439759036144579
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'tale, cranberry, atlantic, american, texas, thirtyseven, overall, old, cheese, early, foreign, nationwide, percent, likely, surveymonday, main, table, bargainbin, dish, pumpkin, pie, kim, past, cursory, little, pecan, whole, black, secret, holiday, pm, america, side, necessary, shit, float, dessert, third, give, bar, regional, high, central, definitive, great, facebook, new, southern, white, friday, sure, cornbread, last')
+
+('NN', 'point, england, variation, something, leave, farm, day, poll, menu, card, sonoma, region, family, time, github, getty, dinner, percent, mind, claus, school, midwest, rest, nation, party, macy, music, pie, christmas, end, west, walt, justin, audience, meal, roast, meat, food, versus, america, country, potato, consumption, side, centerpiece, sullivan, form, way, mac, hang, year, datathanksgiving2015, southeast, radio, sauce, spirit, home, week, poultry, gronk, get, ditch, pursuit, endorse, sweet, pick, pork, santa, beef, variety, turkey, squash, download, apple, part, california, hickey, bird')
+
+('VBZ', 'unites, eats, enjoys')
+
+('VBG', 'buying, finding, thanksgiving, saying, going, demanding, welcoming, losing, checking, confusing')
+
+('VBN', 'hit, consumed, filed, chicken, done, compared')
+
+('NNS', 'rules, sales, things, commemorates, friends, images, refugees, turkeys, factions, data, games, canadians, media, shoutouts, regions, traditions, americas, dishes, plans, associates, prefers, kids, distinctions, others, thanks, states, consumes, nfl, shores, respondents, eats')
+
+('VBP', 'include, carbs, cherry, dinner, america, leave, celebrate, see, solid, cauliflower, midst, know, start, bring, come')
+
+('VB', 'identify, parade, get, check, mass, worth, see, let, peel, carve, shop')
+
+('VBD', 'canned, parade, homemade, whole, assorted, said, got')
+
+('JJS', 'least')
+
+('JJR', 'deeper')
+
+('NNP', 'atlantic, middle')
+
+100 most freq tokens after processing: 
+[('verdict', 378), ('trump', 343), ('1', 277), ('positive', 189), ('percent', 184), ('like', 161), ('donald', 159), ('neutral', 133), ('data', 114), ('one', 105), ('2', 85), ('negative', 83), ('hillary', 81), ('state', 79), ('3', 76), ('get', 73), ('10', 73), ('people', 72), ('films', 71), ('model', 69), ('polls', 68), ('5', 63), ('women', 56), ('nt', 54), ('clinton', 54), ('also', 53), ('said', 52), ('2014', 51), ('2013', 51), ('2015', 51), ('6', 51), ('time', 50), ('would', 49), ('film', 49), ('number', 48), ('2016', 48), ('2012', 48), ('got', 46), ('year', 46), ('4', 46), ('two', 45), ('github', 45), ('points', 45), ('new', 41), ('test', 40), ('much', 40), ('average', 40), ('bill', 40), ('make', 39), ('police', 39), ('candidates', 39), ('think', 37), ('election', 37), ('9', 37), ('way', 36), ('even', 36), ('money', 36), ('obama', 36), ('likely', 36), ('president', 35), ('us', 35), ('day', 35), ('see', 34), ('last', 34), ('15', 34), ('2008', 34), ('use', 34), ('weather', 34), ('senate', 34), ('among', 33), ('7', 33), ('fuck', 33), ('candidate', 33), ('drivers', 33), ('movie', 33), ('first', 32), ('years', 32), ('republican', 32), ('8', 31), ('still', 31), ('big', 31), ('win', 31), ('know', 30), ('many', 30), ('20', 30), ('scientists', 30), ('percentage', 30), ('well', 29), ('fivethirtyeight', 29), ('polling', 29), ('gorsuch', 29), ('every', 28), ('14', 28), ('2010', 28), ('could', 27), ('black', 27), ('since', 27), ('17', 27), ('tower', 27), ('movies', 27)]

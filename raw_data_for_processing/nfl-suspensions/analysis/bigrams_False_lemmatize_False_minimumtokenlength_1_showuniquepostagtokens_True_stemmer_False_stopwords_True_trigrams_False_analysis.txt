@@ -1,0 +1,57 @@
+Article: nfl-suspensions
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1649
+Raw number of types: 577
+Raw Type token ratio: 0.34990903577926014
+
+100 most freq tokens before (pre)processing: 
+[(',', 9709), ('the', 8900), ('.', 6094), ('of', 4433), ('a', 3808), ('to', 3576), ('in', 3322), ('and', 3269), ('’', 3129), ('that', 2000), ('s', 1775), ('for', 1511), ('is', 1472), ('(', 1454), (')', 1452), ('it', 1282), ('on', 1267), (':', 1160), ('are', 1054), ('“', 1020), ('”', 1019), ('—', 939), ('at', 933), ('as', 930), ('with', 922), ('we', 887), ('but', 861), ('by', 851), ('i', 826), ('percent', 814), ('more', 785), ('trump', 754), ('this', 750), ('or', 706), ('our', 700), ('have', 689), ('they', 681), ('from', 674), ("'", 665), ('you', 656), ('was', 655), ('t', 654), ('about', 615), ('be', 604), ('than', 599), ('who', 577), ('has', 561), ('one', 553), ('data', 538), ('team-logo', 535), ('an', 518), ('were', 514), ('not', 484), ('?', 469), ('he', 457), ('all', 455), ('their', 441), ('so', 434), ('there', 433), ('how', 400), ('1', 400), ('said', 398), ('polls', 393), ('his', 392), ('like', 390), ('if', 387), ('verdict', 377), ('other', 376), ('can', 369), ('what', 363), ('which', 361), ('some', 357), ('when', 343), ('people', 343), ('most', 336), ('had', 333), ('out', 330), ('those', 318), ('also', 316), ('up', 287), ('get', 279), ('each', 276), ('only', 272), ('just', 270), ('two', 255), ('been', 248), ('do', 246), ('world', 245), ('its', 244), ('time', 242), ('these', 234), ('github', 233), ('new', 233), ('will', 231), (';', 227), ('them', 225), ('would', 221), ('year', 217), ('no', 216), ('pollsters', 214)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 811
+Number of types: 470
+Type token ratio: 0.5795314426633785
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'video, palmer, association, car, act, number, arrest, question, percent, marshawn, disparity, difference, comparison, agreement, information, guidance, george, data, pacman, baltimore, floor, spotrac, pm, conference, submit, man, wife, rice, start, semansky, star, battery, spokesman, substance, conduct, suspension1, league, variation, record, football, capiro, opportunity, tracker2, consideration, news, correction, joke, suspension, reason, bargaining, track, consequence, mccann, history, version, murder, jr, evidence, reinstatement, please, offense, year, drug, team, repeat, patrick, nfl, story, atallah, secondtime, allison, mention, offfield, policy5, janay, union, gun, kind, manslaughter, body, ban, espnw, zapruder, donte, stallworth, letter, gap, test, pay, ap, performanceenhancing, spit, ray, commissioner, mcmanus, treatment, restaurant, everything, jane, columnist, assault, sixgame, spokeswoman, reports3, crime, database, set, entirety, player, instance, darlene, season, inconsistency, violence, elevator, discipline, firsttime, someone, goodell, list, punishment, dui, roger, photo, woman, face, contrast, cba, case, banishment, abuse, gambling6, policy, lifetime, way, press, purse, incident, result, force, film, prescription, group, process, altercation, program, report, length, johnson, lynch')
+
+('JJ', 'video, evident, prevent, current, national, steroid, available, bad, effective, percent, adam, multiple, aftermath, category, little, personal, miss, average, domestic, unconscious, short, semansky, new, uniontribune, understand, handle, entire, league, complete, alongside, hard, diego, violent, indefinite, budge, old, affect, jeremy, social, comprehensive, nonspecific, consistent, wikipedia, offense, unrelated, ricky, possible, nfl, updated, collective, repeated, missed4, previous, gun, searchable, denny, good, physical, numerous, note, joint, inconsistent, threegame, open, full, guilty, last, stripper, several, in–game, offseason, espn, onegame, table, goodell, subject, harsh, clear, second, baseline, first, incommensurate, uneven, unaware, email, length, sexual, many, help')
+
+('VBG', 'cheating, holding, regarding, following, manning, dating, going, embarrassing, closing, making, excluding, punishing, citing, showing, issuing, using, according, looking, assuming, covering, corresponding, smoking, governing, mitigating, running, picking')
+
+('VBN', 'repeated, collected, categorized, punished, issued, filed, missed, bridge, suspended, suspected, given, arrested')
+
+('NNS', 'pages, regulations, commits, appeals, years, ones, beats, jones, charts, players, github, police, datanflsuspensions, bodies, owners, cases, circumstances, times, peaks, violations, offenders, kinds, bridges, guidelines, data, rounds, media, requests, altercations, peds, interviews, entries, stats, violators, knees, bans, drugs, arrests, drops, documents, seasons, steroids, factors, errors, tries, suspensions, marijuana, doors, colleagues, incidents, nfl, substances, feet, games, offenses')
+
+('VBP', 'move, thursday, league, apply, github, thengirlfriend, espn, meant, refer, abuse, perfect, involve, occur, take, result, get, note, database, make, receive, drink, catchall, compare, conduct, warrant')
+
+('VBZ', 'speaks, offenses, includes, larry, means, nfl, ends, falls, ravens')
+
+('VBD', 'repeated, forced, received, punished, caught, wrote, determined, found, missed, wanted, pleaded, assumed, felt, prompted, obtained, unprecedented, outlined, responded, unsanctioned, looked, corrected, said, cobbled, assaulted, made, verified, issued, pointed, warranted, suspended, selected, exclaimed, ranged, heavy, sept, became, announced, went, set, misstated, ped, fell, contacted')
+
+('VB', 'grantland, keep, goodell, wait, find, harshest, reduce, san, know')
+
+('JJR', 'fewer, earlier, longer, greater, less')
+
+('JJS', 'tallest, least, longest')
+
+100 most freq tokens after processing: 
+[('percent', 822), ('trump', 761), ('one', 562), ('data', 541), ('teamlogo', 538), ('1', 491), ('said', 404), ('polls', 397), ('like', 396), ('verdict', 378), ('people', 349), ('also', 319), ('get', 285), ('10', 270), ('2', 264), ('two', 258), ('world', 248), ('time', 245), ('new', 236), ('github', 233), ('would', 227), ('us', 227), ('11', 225), ('year', 218), ('much', 215), ('pollsters', 214), ('13', 210), ('positive', 207), ('number', 206), ('many', 204), ('average', 204), ('first', 203), ('team', 203), ('polling', 201), ('points', 200), ('even', 197), ('may', 191), ('14', 191), ('since', 191), ('%', 190), ('donald', 188), ('3', 186), ('poll', 184), ('12', 183), ('15', 181), ('see', 180), ('years', 180), ('likely', 174), ('league', 172), ('election', 168), ('last', 160), ('three', 159), ('among', 159), ('voters', 158), ('states', 156), ('2014', 154), ('results', 153), ('still', 148), ('16', 148), ('state', 146), ('5', 145), ('make', 143), ('national', 142), ('president', 141), ('neutral', 138), ('women', 137), ('2016', 137), ('least', 134), ('win', 133), ('republican', 132), ('less', 132), ('think', 130), ('well', 128), ('17', 128), ('way', 127), ('every', 127), ('respondents', 125), ('season', 125), ('another', 124), ('4', 124), ('group', 123), ('percentage', 123), ('ratings', 123), ('good', 122), ('cup', 122), ('clinton', 121), ('better', 120), ('whether', 119), ('might', 119), ('based', 119), ('model', 118), ('take', 117), ('2015', 116), ('numbers', 115), ('20', 114), ('6', 114), ('use', 114), ('players', 114), ('filed', 111), ('vote', 111)]

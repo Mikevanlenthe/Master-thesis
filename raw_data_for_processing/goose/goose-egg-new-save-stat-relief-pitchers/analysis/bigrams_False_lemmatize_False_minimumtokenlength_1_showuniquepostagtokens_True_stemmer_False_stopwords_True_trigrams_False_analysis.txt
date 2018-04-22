@@ -1,0 +1,59 @@
+Article: goose/goose-egg-new-save-stat-relief-pitchers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1731
+Raw number of types: 619
+Raw Type token ratio: 0.35759676487579434
+
+100 most freq tokens before (pre)processing: 
+[(',', 9859), ('the', 9077), ('.', 6219), ('of', 4504), ('a', 3923), ('to', 3627), ('in', 3419), ('and', 3325), ('’', 3219), ('that', 2035), ('s', 1819), ('for', 1550), ('is', 1505), ('(', 1464), (')', 1462), ('it', 1297), ('on', 1287), (':', 1177), ('are', 1064), ('“', 1039), ('”', 1038), ('—', 972), ('as', 953), ('with', 946), ('at', 943), ('we', 898), ('but', 879), ('by', 872), ('i', 836), ('percent', 818), ('more', 802), ('this', 760), ('trump', 754), ('or', 716), ('our', 703), ('have', 699), ('they', 693), ('was', 691), ('from', 686), ('t', 673), ("'", 665), ('you', 664), ('1', 639), ('about', 626), ('than', 612), ('be', 607), ('who', 589), ('has', 569), ('one', 569), ('data', 546), ('team-logo', 535), ('an', 525), ('were', 520), ('not', 504), ('he', 480), ('?', 473), ('all', 465), ('their', 458), ('so', 439), ('there', 437), ('his', 429), ('how', 410), ('said', 400), ('like', 396), ('if', 393), ('polls', 393), ('other', 381), ('verdict', 377), ('can', 375), ('which', 372), ('what', 365), ('some', 363), ('2', 363), ('when', 352), ('people', 343), ('most', 339), ('out', 339), ('had', 338), ('also', 321), ('those', 320), ('up', 292), ('get', 286), ('each', 278), ('only', 277), ('just', 277), ('0', 270), ('two', 260), ('been', 253), ('world', 248), ('do', 247), ('its', 245), ('time', 245), ('github', 239), ('these', 238), ('3', 237), ('new', 235), ('will', 234), (';', 230), ('them', 227), ('would', 226)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 893
+Number of types: 513
+Type token ratio: 0.574468085106383
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'relief, reardon, randy, fuzzy, lead, scoreless, montgomery, aguilera, think, leader, number, specialist, jeff, percent, post, revolution, solution, rivera, troy, pitcher10, miller, moneyball, chart, usage, side, carleton2, lee, average, fact, highestleverage, clutch, baseball, problem, word, roberto, value, robb, get, goose, use, ron, bleep, bit, gene, run, knock, francisco, share, reward, b, tug, enlightenment, rodriguez, league, save, prospectus, threerun, news, situation, highleverage, doug, embrace, goal, stu, mike, history, version, talent, john, silver, efficiency, eckersley, site, jonathan, jesse, trevor, holtzman, team, source, relationship, refusal, definition, today, tekulve, part, game, egg, sutter, mcgraw, bruce, kind, tie, joe, cleveland, course, marshall, rollie, leverage, town, mariano, state, hernandez, retrosheet, world, mcdaniel, index, rick, look, hoyt, rule, wetteland, cordero, atbat, score6, performance, commonplace, lot, instance, fame, ballclub, playbyplay, point, pitcher, building, honor, street, day, mo, everybody, stat, nate, time, github, bury, closer, papelbon, work, ballgame, benefit, perranoski, hall, percival, squeeze, ounce, jerome, sense, gossage, troll, fan, huston, henke, way, innings, franco, result, idea, dennis, hoffman, fix, credit, inning, career, yield, sing, orosco')
+
+('VBN', 'used, threerun, situations3, conditioned, ruined, tied, named, filed, pitched, designed, let, noted, based, calculated, published, built, situation8, supposed, come, compared')
+
+('VBG', 'handling, utilizing, managing, evening, doubling, following, playing, arguing, breaking, becoming, pitching, using, ing, thinking, including, ruining, trying, ninthinning, inning, throwing, defining, complaining')
+
+('JJ', 'closermonkeycom, relief, crappy, additional, randy, major, later1, complete, save, tie, heuristic, talent9, guys, lead, scoreless, formal, different, narrow, right, atbat5, next, tom, eighth, much, valuable, threerun, select, earned, quickanddirty, alltime, final, jose, outcome, table, multiple, kent, unheralded, potential, maximum, typical, moneyball, lateinning, plenty, important, ninth, todd, lifetime, first, sportswriter, opposed, average, big, basic, sparky, wagner, lindy, statistical, impact, top, large, lyle, seventh, stubborn, goose, statistic, modern, bleep, threw, stupid, inning, nfl, finish, darold, many, mlb, inherited, noble, bullpen')
+
+('NNS', 'nerds, provisions, pitchers, leagues, mesa, bullpens, intentions, egg, leaderboards, ones, years, saves, guys, eggs, contributions, jones, teams, intuitions, indians, runners, relievers, losses, times, myers, ways, data, closers, geeks, tracks, praises, fans, troubles, innings, shows, rewards, seasons, lee, means, runs, fingers, statistics, managers, enters, records, tirades, problems, situations, wins, firemen, knowles, words, games, jams')
+
+('JJS', 'biggest, best')
+
+('VBD', 'described, wilhelm, found, came, led, ended, closer, lashed, earned, expletivelaced, continued, defined, included, reached, said, made, adopted, used, fivethirtyeight, garber, threw, measured, invented, heyday, pulled, complicated, smith')
+
+('VB', 'get, target, save, see, make, like, maximize, find, take, give, decline, define, come')
+
+('VBZ', 'starts, throws, reflects, leads, saves, fastballs, holds, goes, counts, gets, gives, ranks')
+
+('VBP', 'russell, save, mo, era, lead, want, know, think, seem, base, leverage, mariano, go, furthermore, correct, find, highestleverage, give, detail, holtzman, toofrequent, imagine, get, whereas, team, goose, use, let, exaggerate, andrew')
+
+('JJR', 'pitcher, worse, wagner, closer, better, tighter')
+
+('NNP', '…')
+
+100 most freq tokens after processing: 
+[('percent', 826), ('trump', 761), ('1', 730), ('one', 578), ('data', 549), ('teamlogo', 538), ('2', 430), ('said', 406), ('like', 402), ('polls', 397), ('verdict', 378), ('people', 349), ('also', 324), ('10', 295), ('3', 295), ('get', 292), ('0', 270), ('two', 263), ('world', 251), ('11', 249), ('time', 248), ('github', 239), ('new', 238), ('would', 232), ('us', 227), ('much', 225), ('13', 225), ('year', 224), ('team', 214), ('pollsters', 214), ('number', 212), ('4', 212), ('many', 207), ('positive', 207), ('average', 206), ('first', 205), ('even', 204), ('12', 204), ('polling', 201), ('14', 200), ('points', 200), ('15', 198), ('5', 197), ('since', 196), ('may', 192), ('%', 190), ('donald', 188), ('poll', 184), ('years', 183), ('see', 182), ('league', 175), ('likely', 174), ('6', 172), ('election', 168), ('three', 166), ('last', 160), ('among', 160), ('16', 158), ('voters', 158), ('states', 156), ('2014', 154), ('results', 153), ('still', 150), ('state', 147), ('make', 145), ('national', 142), ('president', 141), ('8', 139), ('2016', 138), ('neutral', 138), ('women', 137), ('win', 136), ('every', 134), ('least', 134), ('less', 134), ('season', 134), ('17', 133), ('think', 132), ('republican', 132), ('way', 131), ('7', 130), ('well', 128), ('another', 126), ('respondents', 125), ('better', 124), ('group', 123), ('percentage', 123), ('ratings', 123), ('good', 122), ('model', 122), ('cup', 122), ('clinton', 121), ('might', 121), ('based', 121), ('game', 121), ('whether', 120), ('19', 119), ('take', 118), ('20', 118), ('use', 118)]

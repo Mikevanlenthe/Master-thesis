@@ -1,0 +1,59 @@
+Article: nba-draft-2015
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1535
+Raw number of types: 576
+Raw Type token ratio: 0.3752442996742671
+
+100 most freq tokens before (pre)processing: 
+[(',', 7798), ('the', 6399), ('.', 4267), ('of', 3225), ('a', 2695), ('to', 2649), ('in', 2422), ('and', 2368), ('’', 2160), ('that', 1505), ('(', 1430), (')', 1430), ('s', 1190), ('for', 1116), ('is', 1068), (':', 986), ('on', 940), ('it', 895), ("'", 871), ('are', 779), ('“', 746), ('”', 745), ('with', 704), ('as', 669), ('at', 666), ('we', 657), ('—', 648), ('trump', 636), ('by', 632), ('our', 630), ('more', 613), ('i', 595), ('but', 594), ('they', 557), ('this', 545), ('team-logo', 535), ('or', 522), ('you', 508), ('percent', 493), ('from', 492), ('t', 486), ('have', 467), ('who', 467), ('about', 462), ('than', 450), ('was', 449), ('be', 433), ('one', 423), ('were', 391), ('data', 390), ('an', 381), ('verdict', 377), ('1', 376), ('has', 360), ('polls', 360), ('?', 355), ('not', 348), ('all', 330), ('said', 330), ('their', 324), ('like', 313), ('he', 305), ('how', 302), ('there', 295), ('other', 292), ('if', 286), ('can', 279), ('so', 278), ('his', 274), ('what', 274), ('most', 273), ('some', 263), ('people', 262), ('those', 256), ('which', 252), ('when', 245), ('out', 231), ('get', 224), ('also', 223), ('had', 222), ('pollsters', 214), ('up', 212), ('positive', 204), ('just', 198), ('each', 196), ('only', 191), ('two', 191), ('polling', 191), ('do', 185), ('2', 183), ('donald', 180), ('%', 178), ('poll', 176), (';', 174), ('them', 174), ('points', 172), ('github', 170), ('will', 170), ('new', 168), ('number', 167)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 770
+Number of types: 467
+Type token ratio: 0.6064935064935065
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'paine, stick, work, aboveaverage, playing, duke, rookie, kind, office, datanbadraft2015, category, value, forecast, defender, point, star, instance, role, percentage, flag, jun, player2, distinction, attention, center, create, assist, bucket, dakari, anthony, everyone, nba, pick, earlycareer, weight, school, championship, program, hollisjefferson, course, play, college, efficiency, cliff, plusminus, frame, height, mind, man, shape, espn, sense, thing, shane, example, information, field, buzzer, version, pas, entry, class, jahlil, group, league, posse, opinion, prospects4, quarterback, profile, ass, minnesota, assumption, talent, university, scout, model, future, zach, battier, board, rating, story, color, word, proxy, spm, starter, debate, murray, kansa, gatekeeper, propositions6, passer, player, factor, decision, ford, alexander, leadership, replacementlevel, shooter, defy, playingtime, defensive, control, draft, tony, career, bradshaw, system, karlanthony, jarrett, percent, state, probability, dame, start, tournament, town, season, stanley, projection, beasley, method, michael, floor, crop, hunter, efficient, success, performance, age, ceiling, world, penalizing, prospect, battle, justise, combination, watch, cleveland, figure, game, fanfare, project, bust, predictor, sample, fall, rebound, rebounding, hello, bargain, grant, encompass, likelihood, pair, perfect, winslow, get, belowmarket, cameron, chance, rate, avoid, job, ideal, hawks5, process, team, le, andrew, eye, basketball, hardertomeasure, victory, superstar, github, rj, science, parker, arc, attempt, view, help, move, grade, one, test, power, turn, image, jack, rank, case, goal, arizona, johnson, plenty, number, year, rondae, june, use, time, payne, guard, perform, minute, account, today')
+
+('VBG', 'staggering, taking, putting, wing, looking, snagging, overfitting, sorting, dueling, turning, shopping, flying, using, determining, talking, closing, projecting, glaring, fascinating, shooting, including, ranking, according, scouting, becoming, predicting, separating, overriding')
+
+('JJ', 'pro, actual, great, duke, individual, jabari, shot, jerian, notre, athletic, similar, big, nba, top, variable, last, weight, young, freshman, lyon, regress, offensive, meaningful, ncaa, statistical, unenviable, bunch, mere, available, ethic, lowrisk, ninth, skillful, significant, underrated, much, model, future, used, red, particular, spm, brooklyn, statistic, first, algorithm, attribute, total, appear, defensive, small, front, chad, numbers3, poor, dame, salary, predictive, superior, little, method, third, prospect, overall, lowry, bust, strong, solid, unsuccessful, weak, effective, allow, georgia, successful, kentucky, warrior, okafor, golden, enough, demographic, late, sixth, indicator, grade, whole, good, low, arizona, johnson, steal, ball, nfl, usage, important, inside, bad, getty')
+
+('VBN', 'vaunted, megahyped, made, filed, leftcensored, projected, allen, based, correlated')
+
+('NNS', 'rebounders, belies, data, model1, others, github, men, stats, model, nba, timberwolves')
+
+('VB', 'place, mask, give, basketball, symbolic, get, check, banner, look, deeper, succeed')
+
+('VBD', 'built, came, measured, arrived, height, gifted, okafor, sounded, ranked, scheduleadjusted, shot, raised, kyle, followed, advanced, held')
+
+('JJR', 'fewer, cavalier, lower, answer, heavier')
+
+('VBP', 'see, think, winslow, contain, take, davis, noise, predict, offensive, bust, make, say, land, parker, nba, look, account, prospect')
+
+('VBZ', 'becomes, includes, wiggins, consists, acknowledges')
+
+('NNP', 'startingcaliber')
+
+('JJS', 'least')
+
+100 most freq tokens after processing: 
+[('trump', 653), ('poll', 541), ('teamlogo', 539), ('percent', 503), ('one', 471), ('1', 470), ('data', 394), ('verdict', 380), ('said', 338), ('like', 338), ('pollster', 321), ('people', 270), ('year', 267), ('number', 263), ('get', 257), ('2', 249), ('point', 246), ('10', 234), ('also', 227), ('time', 224), ('state', 216), ('election', 213), ('positive', 205), ('11', 203), ('two', 195), ('polling', 192), ('donald', 185), ('13', 181), ('%', 178), ('film', 175), ('3', 174), ('14', 174), ('new', 172), ('github', 170), ('voter', 170), ('would', 168), ('republican', 168), ('many', 166), ('average', 166), ('12', 166), ('result', 165), ('u', 157), ('15', 155), ('make', 153), ('much', 152), ('rating', 149), ('candidate', 147), ('see', 146), ('league', 146), ('first', 142), ('even', 140), ('may', 138), ('neutral', 136), ('5', 135), ('model', 132), ('likely', 129), ('since', 128), ('week', 128), ('president', 127), ('woman', 125), ('day', 125), ('player', 125), ('way', 121), ('question', 120), ('last', 120), ('three', 120), ('16', 117), ('percentage', 116), ('among', 115), ('team', 115), ('american', 114), ('4', 114), ('take', 113), ('17', 113), ('think', 112), ('race', 112), ('season', 112), ('clinton', 111), ('rate', 111), ('2016', 110), ('vote', 108), ('game', 108), ('national', 107), ('win', 105), ('group', 105), ('le', 105), ('2014', 104), ('still', 102), ('6', 102), ('look', 100), ('use', 100), ('hillary', 99), ('error', 99), ('firm', 99), ('20', 98), ('every', 97), ('another', 97), ('19', 97), ('say', 95), ('2015', 94)]

@@ -1,0 +1,59 @@
+Article: bachelorette/How To Spot A Front-Runner On The ‘Bachelor’ Or ‘Bachelorette
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2056
+Raw number of types: 592
+Raw Type token ratio: 0.28793774319066145
+
+100 most freq tokens before (pre)processing: 
+[(',', 6672), ('the', 5229), ('.', 3432), ('of', 2577), ('a', 2219), ('to', 2174), ('in', 2023), ('and', 1882), ('’', 1706), ('(', 1294), (')', 1294), ('that', 1231), ('for', 923), ('s', 911), ("'", 871), ('is', 862), (':', 847), ('on', 745), ('it', 738), ('are', 632), ('“', 617), ('”', 616), ('with', 580), ('our', 575), ('at', 542), ('team-logo', 535), ('we', 534), ('by', 534), ('more', 518), ('as', 518), ('—', 503), ('i', 481), ('but', 474), ('this', 440), ('trump', 436), ('they', 434), ('you', 413), ('t', 408), ('or', 398), ('have', 387), ('percent', 377), ('verdict', 377), ('than', 375), ('from', 375), ('was', 367), ('about', 361), ('who', 360), ('polls', 357), ('1', 356), ('one', 352), ('be', 351), ('an', 306), ('data', 287), ('has', 282), ('their', 282), ('like', 279), ('all', 278), ('were', 277), ('not', 267), ('said', 262), ('if', 252), ('he', 248), ('there', 241), ('most', 237), ('how', 235), ('other', 229), ('can', 226), ('?', 222), ('so', 222), ('pollsters', 214), ('some', 213), ('those', 206), ('when', 206), ('what', 206), ('positive', 200), ('his', 196), ('which', 194), ('out', 194), ('polling', 191), ('get', 189), ('people', 186), ('up', 184), ('also', 182), ('each', 174), ('had', 172), ('donald', 170), ('2', 170), ('poll', 170), ('just', 166), ('points', 160), ('only', 159), ('two', 159), ('%', 157), ('do', 152), (';', 151), ('will', 145), ('new', 143), ('them', 141), ('league', 141), ('its', 140)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 957
+Number of types: 471
+Type token ratio: 0.49216300940438873
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'rest, playing, gu, way, jump, chow, franchise, relationship, point, middle, gravity, television, contestant, chris, ceremony, piece, contend, leaf, rachel, opportunity, moment, viall, journey, rhythm, desert, sign, womack, find, firstimpression, desire, week, outcome, win, fabric, ganesan, course, carnage, walt, preference, prize, heart, night, episode, show, bigpicture, mind, champion, frontrunner, dallas, thing, takeaway, information, example, field, disney, person, face, keep, half, participant, grab, group, league, bachelor, databachelorette, idea, wezerek, runnerup, favorite, spot, forecasting, represent, show6, fun, look, future, speculation, air, end, mohs, happen, rating, someone, measure, koeze, player, awful, exception, mortality, co, roll, bachelorette, whittle, series, crack, roseless, path, reason, mean, percent, theory, oncamera, complexity, zeroed, invitation, probability, lurker, ella, start, compare, burst, season, meena, question, surviving, date, it2, competitor, part, see, twoonone, growth, figure, oneonone, bloodbath, analysis, fall, love, woman, position, event, grace, romance, allow, type, tv, get, advantage, competition, research, chance, protection, let, rate, jp, survivor, stand, ideal, hickey, doom, recipient, victory, check, sex, github, swim, add, view, monday, plane, matter, fivethirtyeight, case, edge, brad, number, year, time, elimination, winner, ette, difference, abc, lawyer, resource, relief, lead, obscurity, consideration')
+
+('NNP', '‘')
+
+('VBD', 'went, owned, received, learned, remained, terminated, reduced, looked, logged, happened, removed, found, awarded, scripted, left, contestant, structured, felled, dumped, eliminated, rejected, made, crowded, televised, week10, invited, helped, fivethirtyeight, picked, accumulated, highlighted, rose, toast, abc, contributed, noted, took')
+
+('VBG', 'leaving, dating, remaining, surviving, playing, analyzing, assuming, dizzying, proceeding, preparing, keeping, getting, going, receiving, looking, weighting, trying, ending, winning')
+
+('VBN', 'shared, owned, set, considered, rejected, made, published, given, received, charted, allocated, come, used, filed, gone, invited, named, eliminated, designed')
+
+('NNS', 'distributes, soules, data, people, manages, twoonones, odds, ettes')
+
+('VBZ', 'allows, bachelorette, lauren, grows, remains, happens')
+
+('VBP', 'receive, see, franchise, win, spend, spell, lindsay, sink, show, contestant, offer, tend, need, make, want, go, continue, length')
+
+('JJ', 'steady, great, dottle, stop, elusive, true, contestants3, inspire, rachael, special, receive, contestant, ceremony, next, essential, unknown, last, pick, chart, specific, lucky, buy, helpful, show, worthy, espn, distinct, impressed, nick, statistical, subject, u, precious, mere, half, valuable, second, available, negative, reach, single, vomited, favorite, fantasy, bloodthirsty, final, motivated, recent, particular, coveted, crown, right, neutral, unprecedented, give, first, frequent, ritual, want, tony, all8, mean, ondate, percent, clear, early, nut1, many, four9, poor, several, graphic, opposite, third, go, average, watch, cultural, past, brutal, overall, curious, subsequent, oneonone, strong, solid, survive, love, endofepisode, temporary, assigned, positive, hunger, kiss, advantage, active, motif, gamesstyle, recipient, quit7, maximum, dark, premiere, evident, monday, extra, maintain, pink, good, hard, important, previous')
+
+('VB', 'buy, kick, win, give, grossest, establish, get, forget, try, identify, become')
+
+('JJR', 'smaller, higher, fewer, winner, larger, earlier, viewer')
+
+('JJS', 'least, best')
+
+100 most freq tokens after processing: 
+[('teamlogo', 539), ('poll', 532), ('trump', 453), ('1', 450), ('one', 395), ('percent', 387), ('verdict', 380), ('pollster', 321), ('like', 303), ('data', 291), ('said', 270), ('2', 235), ('year', 224), ('get', 220), ('point', 219), ('number', 217), ('10', 210), ('positive', 200), ('election', 195), ('people', 194), ('11', 194), ('polling', 192), ('state', 190), ('also', 186), ('time', 179), ('donald', 175), ('two', 163), ('13', 159), ('3', 157), ('%', 157), ('14', 151), ('average', 150), ('new', 147), ('republican', 147), ('would', 144), ('12', 144), ('league', 144), ('rating', 141), ('result', 139), ('film', 136), ('candidate', 136), ('neutral', 135), ('make', 134), ('many', 133), ('15', 133), ('github', 131), ('much', 128), ('see', 124), ('first', 117), ('even', 117), ('u', 116), ('5', 116), ('week', 114), ('model', 111), ('team', 108), ('way', 107), ('last', 107), ('race', 107), ('likely', 106), ('4', 106), ('player', 104), ('day', 102), ('percentage', 102), ('american', 101), ('since', 101), ('may', 100), ('season', 100), ('game', 100), ('clinton', 99), ('national', 99), ('firm', 99), ('woman', 98), ('three', 98), ('win', 97), ('hillary', 96), ('error', 96), ('17', 96), ('16', 96), ('take', 94), ('2016', 94), ('2014', 92), ('use', 92), ('negative', 91), ('6', 91), ('another', 90), ('name', 89), ('rate', 89), ('think', 88), ('question', 87), ('look', 86), ('every', 85), ('19', 85), ('still', 83), ('go', 82), ('among', 82), ('voter', 82), ('2012', 81), ('20', 80), ('2015', 80), ('college', 80)]

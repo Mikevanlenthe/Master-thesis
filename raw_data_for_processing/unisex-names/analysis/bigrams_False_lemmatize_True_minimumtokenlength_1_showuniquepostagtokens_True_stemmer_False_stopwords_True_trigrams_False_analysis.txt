@@ -1,0 +1,55 @@
+Article: unisex-names
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 632
+Raw number of types: 271
+Raw Type token ratio: 0.4287974683544304
+
+100 most freq tokens before (pre)processing: 
+[(',', 3121), ('the', 1340), ('(', 949), (')', 949), ("'", 870), ('.', 735), ('of', 605), ('in', 587), ('a', 575), ('to', 474), (':', 468), ('our', 420), ('and', 413), ('verdict', 377), ('’', 350), ('trump', 334), ('that', 302), ('i', 251), ('is', 235), ('1', 235), ('for', 221), ('s', 216), ('it', 215), ('on', 212), ('positive', 188), ('with', 175), ('donald', 155), ('this', 147), ('like', 145), ('we', 141), ('by', 140), ('more', 139), ('at', 133), ('neutral', 133), ('percent', 127), ('but', 126), ('as', 125), ('are', 118), ('—', 118), ('you', 114), ('from', 101), ('was', 100), ('/', 99), ('about', 97), ('have', 93), ('be', 91), ('than', 90), ('or', 85), ('negative', 82), ('has', 81), ('hillary', 79), ('one', 78), ("'m", 76), ('data', 76), ('his', 76), ('an', 74), ('my', 74), ('state', 74), ('not', 73), ('“', 70), ('”', 70), ('t', 69), ('model', 68), ('me', 66), ('polls', 65), ('they', 63), ("'s", 62), ('he', 62), ('up', 61), ('all', 60), ('?', 60), ('were', 60), ('so', 58), ('how', 56), ('can', 56), ('other', 56), (';', 54), ('there', 52), ('when', 52), ('get', 51), ('which', 51), ('their', 51), ('some', 51), ("n't", 50), ('if', 50), ('out', 50), ('clinton', 50), ('most', 48), ('just', 48), ('2015', 47), ('2', 47), ('what', 46), ('who', 45), ('people', 45), ('2013', 44), ('points', 44), ('do', 43), ('2014', 42), ('--', 41), ('only', 41)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 294
+Number of types: 192
+Type token ratio: 0.6530612244897959
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'flower, work, record, jessie, man, get, show, name, maletofemale, allison, mccann, peyton, baby, data, explore, daughter, thing, example, mona, prevalent, video, andrew, split, chalabi, child, version, jody, value, edit, curry, identify, percent, receiver, state, sex, github, silver, pm, philadelphia, column, infant, jun, bell, article, result, conference, unisex, method, press, cooper, placeholder, share, nba, casey, number, colleague, year, story, postgame, ssa, riley, list, infantof, security, administration, difference, code, analysis, nate, june, stephen, ratio, jackie, male, table, gap, explanation, woman, clarification, mvp, determine')
+
+('JJ', 'living, american, infant, sure, able, name, likely, full, onethird, total, approximate, minimum, warrior, mean, percent, maximum, github, golden, common, actuarial, enough, searchable, newborn, female, unisex, pat, similar, eagle, ambiguous, recent, much, androgynous, top, unknown, social, threshold, excluded, hard, riley, unnamed, adorable, male, chart, wide, table, previous, getty')
+
+('VBN', 'removed, done, given, adjusted, taken, used, filed, named')
+
+('NNS', 'data, people, america, others, men, dataunisexnames')
+
+('VBP', 'create, riley, set, alive, name, turn, make, say')
+
+('VB', 'kerry, saw, take')
+
+('VBD', 'excluded, thought, set, balanced, left, unnamed, ranked, cut, used, notnamed, added')
+
+('VBG', 'living, thinking, building, ring, using')
+
+('JJS', 'least')
+
+('JJR', 'earlier')
+
+100 most freq tokens after processing: 
+[('verdict', 379), ('trump', 350), ('1', 244), ('positive', 188), ('donald', 160), ('like', 153), ('percent', 137), ('neutral', 133), ('state', 100), ('one', 99), ('poll', 93), ('negative', 82), ('hillary', 81), ('data', 80), ('model', 77), ('get', 69), ('year', 64), ('number', 60), ('candidate', 58), ('nt', 56), ('clinton', 55), ('point', 54), ('people', 53), ('2', 52), ('2015', 49), ('would', 47), ('bill', 47), ('republican', 46), ('time', 45), ('also', 44), ('2014', 44), ('2013', 44), ('election', 44), ('driver', 44), ('2012', 43), ('average', 42), ('make', 41), ('got', 41), ('2016', 41), ('police', 39), ('much', 38), ('show', 38), ('tower', 38), ('race', 37), ('way', 36), ('day', 36), ('president', 35), ('new', 35), ('10', 35), ('obama', 35), ('3', 35), ('win', 35), ('forecast', 35), ('fuck', 34), ('github', 33), ('2008', 33), ('weather', 33), ('said', 32), ('two', 32), ('even', 32), ('money', 32), ('city', 32), ('senate', 32), ('case', 31), ('receiver', 31), ('think', 30), ('name', 30), ('polling', 29), ('gorsuch', 29), ('know', 28), ('likely', 28), ('5', 28), ('fivethirtyeight', 28), ('democrat', 28), ('voter', 28), ('u', 27), ('2010', 27), ('estimate', 27), ('percentage', 27), ('every', 26), ('look', 26), ('bitch', 26), ('puerto', 26), ('need', 25), ('go', 25), ('last', 25), ('example', 25), ('based', 25), ('big', 25), ('2011', 25), ('rico', 25), ('officer', 24), ('mean', 24), ('want', 23), ('well', 23), ('first', 23), ('black', 23), ('ai', 23), ('remix', 23), ('party', 23)]

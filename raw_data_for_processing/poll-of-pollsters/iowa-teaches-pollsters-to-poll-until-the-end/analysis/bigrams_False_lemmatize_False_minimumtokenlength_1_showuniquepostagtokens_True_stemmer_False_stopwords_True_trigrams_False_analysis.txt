@@ -1,0 +1,57 @@
+Article: poll-of-pollsters/iowa-teaches-pollsters-to-poll-until-the-end
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1463
+Raw number of types: 527
+Raw Type token ratio: 0.36021872863978127
+
+100 most freq tokens before (pre)processing: 
+[(',', 4238), ('the', 3143), ('.', 1878), ('of', 1526), ('a', 1303), ('in', 1232), ('to', 1210), ('and', 1088), ('’', 928), ('(', 917), (')', 917), ('that', 698), ("'", 665), (':', 658), ('s', 542), ('is', 499), ('for', 498), ('it', 470), ('our', 466), ('on', 456), ('trump', 384), ('verdict', 377), ('i', 356), ('with', 348), ('at', 346), ('are', 337), ('more', 323), ('by', 317), ('as', 303), ('percent', 298), ('“', 297), ('”', 297), ('—', 293), ('1', 291), ('but', 284), ('we', 277), ('this', 275), ('you', 259), ('than', 240), ('from', 232), ('have', 225), ('about', 211), ('or', 210), ('was', 208), ('be', 204), ('data', 204), ('like', 202), ('t', 194), ('positive', 190), ('they', 183), ('an', 183), ('who', 177), ('one', 166), ('has', 164), ('donald', 163), ('all', 156), ('were', 155), ('most', 149), ('not', 140), ('other', 137), ('their', 136), ('if', 135), ('neutral', 133), ('so', 130), ('can', 130), ('?', 128), ('out', 127), ('there', 125), ('people', 125), ('those', 124), ('when', 122), ('/', 119), ('which', 119), ('up', 119), ('he', 117), ('get', 115), ('how', 114), ('what', 114), ('some', 109), ('his', 109), ('each', 100), ('my', 100), ('also', 98), ('just', 98), ('2', 97), ('only', 96), ('said', 95), ('state', 93), ('do', 91), ('polls', 91), ('me', 90), (';', 89), ('github', 87), ('its', 84), ('would', 84), ('hillary', 84), ('had', 84), ('negative', 83), ('will', 81), ('10', 80)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 705
+Number of types: 409
+Type token ratio: 0.5801418439716312
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'thomas, anyone, partner, hampshire, bernie, think, number, percent, iframe, rest, round, polling, co, lesson, hype, jackson, data, tuesday, read, episode, listen, pm, side, company, capture, unsure, newsletter, marco, frameborder, glass, b, clinton, firm, gravis, https, director, thought, event, fire, savvy, reach, wise, carl, win, advantage, correction, reason, register, kaplan, debate, article, history, version, trump, %, monday, community, silver, caucus, site, station, rubio, winner, iowa, selzer, township, feeling, approach, today, disaster, sunday, bialik, bowl, profile, singledigit, sign, fine, poll, tie, michael, choice, nominee, afternoon, public, date, pdf, period, afp, emerson, state, field, style, organization, stay, vote, everything, weekend, night, saturday, look, screening, apple, jensen, end, rss, margin, point, advisor, day, founder, nate, society, time, closer, meanwhile, work, party, pollster, list, marketing, contest, percentage, code, guess, maxwidth600px, kimball, respond, support, opinion, straight, auto, policy, fivethirtyeight, tcoqxtlnblgfe, horserace, week, president, email, fivethirtyeightcomplayerpolitics22588832, keep, success, spencer, election, job, turnout, super, problem, trend, college')
+
+('VBZ', 'des, wants, caucuses, teaches, applies, ends, ann, forecasts')
+
+('NNS', 'matthews, sounds, days, conclusions, things, polls, github, trends, challenges, watchers, sanders, clients, events, results, moines, images, predictions, voters, models, data, evangelicals, organizations, podcasts, caucuses, datapollofpollsters, people, candidates, lessons, projects, months, pollsters, poses, responses, votes, points, debates, politics, numbers, levels, jensen, resources')
+
+('VBP', 'donald, sign, podcast, poll, improve, ann, know, happen, think, github, win, espn, clare, debate, simple, emerson, go, trump, respond, tuesday, continue, find, cruz, learn, expensive, top, iowa, extrapolate, selzer, dave, matthew, jensen, end')
+
+('VBD', 'keokuk, found, thought, filed, seemed, called, finished, failed, ted, responded, showed, trump, said, underestimated, learned, predicted, modeled, asked, embed, overestimated, picked, started, defended')
+
+('VB', 'get, need, keep, ask, republican, clinton, win')
+
+('JJ', 'donald, evangelical, hey, hillary, lead, next, bad, percent, emphasized, polling, specific, standard, gop, active, christine, undercount, general, impossible, cruz, able, favorite, late, new, src, forecast, friday, weekly, height, firm, thought, hard, carl, margin20px, final, doug, trump, republican, monday, difficult, unreasonable, secret, caucus, underestimated, correct, basic, rubio, many, iowa, selzer, eventual, possible, tied, immune, arrive, primary, width, small, nominee, democratic, tom, getty, early, likely, total, app, stay, good, big, footnotes1, embed, overestimated, modern, last, questionnaire, several, glad, january, much, close, clear, second, straight, presidential, fivethirtyeight, hardto, third, towery, comfortable, february, finish, virtual, quadrennial, daveweigel')
+
+('VBG', 'trailing, consulting, daunting, burning, catching, leading, scrolling, drawing, polling, leaning, capturing, going, winning, contacting, skipping, weighting, according, managing, including, coming')
+
+('JJS', 'worst, biggest, latest, best')
+
+('VBN', 'finished, described, weigel, demoted, conducted, named, showed, expected, posted')
+
+('JJR', 'higher, bigger')
+
+100 most freq tokens after processing: 
+[('trump', 390), ('verdict', 378), ('1', 308), ('percent', 306), ('like', 208), ('data', 207), ('positive', 190), ('one', 175), ('donald', 167), ('neutral', 133), ('people', 131), ('get', 121), ('2', 103), ('said', 101), ('also', 101), ('10', 97), ('state', 96), ('polls', 94), ('would', 90), ('github', 87), ('hillary', 85), ('first', 84), ('3', 84), ('negative', 83), ('two', 82), ('new', 82), ('model', 78), ('time', 77), ('women', 77), ('films', 77), ('number', 75), ('points', 74), ('likely', 72), ('last', 71), ('national', 71), ('year', 70), ('2016', 70), ('5', 69), ('much', 68), ('clinton', 68), ('us', 67), ('2015', 67), ('even', 66), ('average', 64), ('use', 64), ('2014', 61), ('rock', 61), ('many', 60), ('see', 58), ('film', 58), ('make', 57), ('money', 56), ('nt', 55), ('2013', 55), ('6', 55), ('classic', 55), ('got', 54), ('way', 53), ('police', 53), ('among', 53), ('2012', 53), ('republican', 52), ('may', 51), ('since', 51), ('world', 50), ('candidates', 50), ('percentage', 50), ('polling', 50), ('states', 49), ('example', 49), ('election', 49), ('poll', 49), ('president', 48), ('think', 48), ('years', 48), ('still', 48), ('4', 48), ('team', 48), ('know', 46), ('day', 46), ('win', 46), ('numbers', 45), ('less', 45), ('americans', 45), ('test', 44), ('every', 44), ('20', 44), ('15', 44), ('9', 44), ('pollsters', 44), ('three', 43), ('name', 43), ('based', 43), ('bush', 42), ('take', 42), ('whether', 42), ('bill', 42), ('according', 42), ('chance', 42), ('well', 41)]

@@ -1,0 +1,59 @@
+Article: steak-survey/how-americans-order-their-steak
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 700
+Raw number of types: 322
+Raw Type token ratio: 0.46
+
+100 most freq tokens before (pre)processing: 
+[(',', 7428), ('the', 6423), ('.', 4291), ('of', 3239), ('a', 2717), ('to', 2668), ('in', 2427), ('and', 2379), ('’', 2173), ('that', 1519), ('(', 1229), (')', 1229), ('s', 1200), ('for', 1121), ('is', 1076), (':', 981), ('on', 942), ('it', 908), ('are', 781), ('“', 755), ('”', 754), ('with', 706), ('at', 673), ('as', 671), ("'", 665), ('we', 662), ('—', 652), ('trump', 636), ('by', 635), ('our', 630), ('more', 616), ('i', 597), ('but', 596), ('they', 560), ('this', 546), ('team-logo', 535), ('or', 524), ('you', 511), ('from', 496), ('percent', 493), ('t', 487), ('who', 469), ('have', 468), ('about', 464), ('than', 452), ('was', 449), ('be', 435), ('one', 425), ('data', 391), ('were', 391), ('an', 383), ('verdict', 377), ('1', 376), ('has', 363), ('polls', 360), ('?', 355), ('not', 348), ('said', 335), ('all', 331), ('their', 329), ('like', 317), ('how', 307), ('he', 305), ('there', 297), ('other', 293), ('if', 288), ('can', 283), ('so', 278), ('what', 275), ('most', 274), ('his', 274), ('people', 268), ('some', 264), ('those', 258), ('which', 254), ('when', 246), ('out', 233), ('get', 227), ('also', 224), ('had', 222), ('up', 214), ('pollsters', 214), ('positive', 204), ('just', 200), ('each', 196), ('only', 191), ('two', 191), ('polling', 191), ('do', 186), ('2', 184), ('donald', 180), ('%', 178), (';', 176), ('poll', 176), ('them', 175), ('points', 172), ('will', 171), ('github', 170), ('new', 168), ('time', 168)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 332
+Number of types: 232
+Type token ratio: 0.6987951807228916
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'ribeye, investigation, temperature, question, thermometer, campaign, anything, luger, tender, jul, mediumrare, food, house, side, rare, home, bloodiness, tbone, get, issue, beef, welldone, btus, share, hickey, director, berson, elitist, juicy, medium, holder, steakhouse, longhorn, culture, meat, distribution, year, thicker, error, part, gas, indication, rachael, tenderloin, diner, cudgel, chef, walt, mediumwell, writer, look, flavor, admission, lot, quality, negotiation, dahlmann, rib, amount, catastrophe, margin, dottle, buy, executive, office, preference, highquality, society, nail, time, order, bone, cut, nation, worth, measure, spent, steak, heat, doneness, reconsider, way, job, fiber, david, perfect')
+
+('NNS', 'americans, degrees, pounds, temperatures, cuts, supermarkets, elitists, locations, steaks, steakhouses, parties, differences, jens, cooks, data, operations, flavors, people, corners, preferences')
+
+('VBD', 'brooklyn, shared, ruined, found, divided, filed, wanted, cooked, followed, hooked, said, began, got')
+
+('VBP', 'invest, get, perform, prefer, meat, mediumrare, beef, consume, dahlmann, claim, rarer, go, peter, want, steaks, sell, look, rare, steak, say')
+
+('VBN', 'used, selfreported, aggregated, enjoyed, done, longhorn, given, ordered, come')
+
+('JJ', 'turns, low, protein, leg, different, front, rarer, know, wrong, longhorn, guess, little, environmental, political, mediumwell, steak, agreed, middle, thin, internal, important, good, fat, serious, fivethirtyeight, big, cantankerous, rare, moisture, large, fish, marbled, sweet, great, smear, prime, effete, soft, united, dahlmann, rareaverse, many, handle')
+
+('VBZ', 'works, makes, turns, cuts, lends, suggests, cooks, causes, retains, gives')
+
+('VBG', 'buying, ordering, living, taking, going, agreeing, marbling, running, cooking, revealing, according')
+
+('JJS', 'highest')
+
+('VB', 'get, ribeye, recommend, tender, porterhouse, marbled')
+
+('NNP', 'fiber')
+
+('JJR', 'longer, luger')
+
+100 most freq tokens after processing: 
+[('trump', 643), ('teamlogo', 538), ('percent', 501), ('1', 465), ('one', 434), ('data', 394), ('verdict', 378), ('polls', 364), ('said', 341), ('like', 323), ('people', 274), ('2', 249), ('get', 233), ('10', 230), ('also', 227), ('pollsters', 214), ('positive', 204), ('11', 202), ('two', 194), ('polling', 192), ('donald', 184), ('13', 181), ('%', 178), ('poll', 176), ('3', 174), ('14', 174), ('points', 172), ('time', 171), ('new', 171), ('github', 170), ('would', 168), ('number', 168), ('many', 166), ('12', 166), ('average', 157), ('election', 157), ('15', 155), ('us', 154), ('much', 151), ('see', 143), ('league', 143), ('year', 142), ('first', 141), ('even', 141), ('may', 137), ('neutral', 136), ('voters', 136), ('5', 135), ('likely', 129), ('since', 127), ('years', 124), ('state', 120), ('last', 119), ('three', 119), ('16', 117), ('results', 117), ('among', 115), ('president', 114), ('4', 114), ('17', 113), ('percentage', 113), ('2016', 110), ('clinton', 109), ('make', 108), ('pollster', 107), ('model', 106), ('women', 105), ('2014', 105), ('national', 105), ('think', 103), ('still', 103), ('6', 102), ('less', 101), ('use', 100), ('season', 100), ('films', 100), ('every', 98), ('hillary', 98), ('republican', 98), ('another', 97), ('19', 97), ('way', 96), ('20', 96), ('states', 94), ('numbers', 94), ('2015', 94), ('take', 93), ('error', 93), ('8', 92), ('negative', 92), ('least', 92), ('well', 89), ('ratings', 89), ('based', 88), ('18', 88), ('college', 88), ('whether', 87), ('found', 86), ('vote', 85), ('2012', 85)]

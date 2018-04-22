@@ -1,0 +1,55 @@
+Article: births
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 646
+Raw number of types: 304
+Raw Type token ratio: 0.47058823529411764
+
+100 most freq tokens before (pre)processing: 
+[(',', 12505), ('the', 9371), ('.', 6413), ('of', 4661), ('a', 4085), ('to', 3768), ('in', 3500), ('and', 3435), ('’', 3358), ('(', 2687), (')', 2686), ('that', 2098), ("'", 1901), ('s', 1897), ('for', 1599), ('is', 1540), ('on', 1360), ('it', 1356), (':', 1241), ('“', 1098), ('”', 1097), ('are', 1092), ('—', 1003), ('as', 992), ('with', 977), ('at', 967), ('we', 933), ('but', 911), ('by', 898), ('i', 875), ('percent', 836), ('more', 826), ('this', 795), ('or', 756), ('trump', 754), ('have', 731), ('they', 727), ('was', 719), ('our', 715), ('from', 708), ('t', 694), ('you', 693), ('about', 648), ('be', 641), ('1', 641), ('than', 638), ('who', 610), ('one', 590), ('has', 582), ('data', 570), ('an', 548), ('were', 536), ('team-logo', 535), ('not', 527), ('?', 499), ('all', 486), ('he', 483), ('their', 476), ('so', 456), ('there', 447), ('his', 430), ('how', 419), ('said', 419), ('like', 410), ('if', 406), ('other', 393), ('polls', 393), ('can', 391), ('which', 388), ('what', 382), ('verdict', 377), ('when', 371), ('some', 370), ('2', 369), ('had', 365), ('most', 358), ('people', 355), ('out', 350), ('those', 332), ('also', 328), ('up', 304), ('get', 291), ('just', 286), ('only', 285), ('each', 283), ('0', 271), ('two', 262), ('been', 261), ('its', 260), ('time', 260), ('do', 256), ('world', 249), ('github', 248), ('these', 248), ('3', 244), ('new', 239), (';', 238), ('would', 237), ('will', 237), ('no', 233)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = True
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1143
+Number of types: 778
+Type token ratio: 0.6806649168853893
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'section and, birth, a weekend, on certain, shah assist, births ar, complex method, superstitious wrot, effect, then they, the offic, t superstiti, treat, peopl, all but, of a, this household, she isn, vehtari, holidays suppress, more thinli, births1 a, a mor, to 1989, forum, on a, years reason, an analysi, a dat, babi, parents and, suppress birth, birth on, the data, he didn, have a, research, staffed mor, luck isn, fridays th, together longstand, of labor, schedule for, for th, doctors who, a veri, t, to hav, such birthday, cover of, specif, pattern, effects separ, reason, as induc, and plan, computational scientist, schedul, extens, parent forum, the doctor, avoid feb, more complex, only onc, in th, cesarean sect, by email, cesareans and, are too, found result, choic, key dat, luck ti, change it, tend to, lower than, github github, databirths thousand, this friday, would rath, were schedul, on th, plan, laughed and, website forum, the 13th, is smallest, me anoth, year, falls on, professor, fears about, second par, analysis specif, another sit, medical school, pregnanc, typic, parentstob, smallest when, me i, lot, professor of, her famili, baby on, separ, i wrot, weekend, month but, their newborn, parenting get, the cov, superstitious to, avoid or, effect i, induced deliveri, superstitious at, schedule few, be book, said on, over th, valentine , to avoid, scientist, harvard, gener, especially on, based on, either a, bialik fil, cover, a textbook, school said, isn, their find, valentin, said bi, textbook they, author, he just, rather not, when i, and found, wrote a, filed und, neel, vague on, more than, deliver their, many birth, household, made th, monthli, month do, assist, babies ar, day if, other author, base, patterns and, and gynecolog, gave birth, typically wa, statistician andrew, thi, scientist aki, on par, file, the choic, book, for avoid, of obstetr, edit, office ladi, bugs m, bad luck, children won, sorri, month ar, mom on, become a, in her, when they, christma, chance with, i m, flowers contribut, email, days and, holiday, than you, section on, try to, specifically for, sent vehtari, whammy of, belief, separating monthli, analysis they, bugging m, the effect, find, at harvard, christmas and, ward, tie, friday fal, dates their, the mor, school, labor, they cowrot, trend, by carl, get th, day, avoiding friday, then it, gelman, it lik, and gelman, chanc, vehtari and, findings bas, thinly and, researchers cov, as it, and they, mom, number, people ar, offic, asked th, and 1980, cowrote with, github data, luck, friday, scheduled less, previou, famili, we d, with a, andrew gelman, of valentin, togeth, the birth, expect if, parentstobe tri, with our, websit, andrew, mom wrot, for oth, fridays and, analysis third, pm some, longstand, won t, induct, s on, at al, and th, tri, recent gener, covering th, has becom, their chanc, on when, the numb, was twic, far mor, the month, carl bialik, at databirth, of parentstob, halloween mad, section, carl, it i, ours her, of babi, ladi, expect but, textbook, aki vehtari, gelman th, contributed analysi, another who, household said, data analysi, if par, births so, date, family neel, contribut, calendar, for thi, third edit, treated it, the second, on github, forum who, isn t, the analysi, m not, born in, are schedul, tying togeth, delivers a, attempt, land on, births1, inductions of, the u, whole calendar, at 1221, just laugh, deliveri, than leap, github, data, obstetr, dates typ, site when, calendar birth, birth effect, been in, gynecology at, a previ, her say, think th, my cesarean, double whammi, scheduled eith, of par, fewer than, one mom, weekend when, our schedul, finding ov, i sent, forum th, sorry it, they also, twice a, data on, the or, whammi, gynecolog, month, results consist, site, effects of, the whol, friday th, a babi, wrote on, choice lot, analysi, fear, very good, several oth, booked th, generation of, previous analysi, comput, births on, halloween, day and, fall, wa, other research, it , birth th, assistant professor, parent, lots of, sever, months ago, i wil, as i, planned induct, attempts to, since then, high a, pregnancy websit, some peopl, i ask, labor look, birthday onli, more rec, laugh, been bug, to schedul, i, fewer births1, can chang, ago lot, good day, ha, bayesian data, birthday, but especi, method, births far, thousands of, a doubl, their children, yea sorri, will sinc, data at, the belief, doctor, d expect, as w, aki, bialik, just bug, didn t')
+
+('VBP', 'are, deliv, birth, longterm trend, i, look, d, they gav, do, have, more say, cowrot, reran, data from, and tend, get, consistent with, birth effect, t have, obstetrics and, consist, certain d, who deliv, t think, longstanding fear, think, on th, or land, whenev, friday th, tend, say, friday, you d, ask')
+
+('JJ', 'full, birth, superstitious bad, for plan, reran th, said sh, s their, and statistician, about friday, on friday, s, in thi, second, onc, feb, if i, of a, databirth, andrew flow, said yea, whole, from 1969, notic, trends from, on a, luck, other holiday, friday, four year, a friday, often then, universal friday, avoid, obstetrician, sinc, a bad, deliveries or, high, had been, too superstiti, vagu, induc, from attempt, full for, whenever friday, about schedul, authors bayesian, t, thinli, in 2012, luck day, method for, yea, developed a, given th, are vagu, certain, given on, s been, or cesarean, friday th, that th, good, and for, schedul, thi, are staf, as high, cesarean, and halloween, s day, longterm, monthly pattern, the obstetrician, that friday, other day, that just, neel shah, doubl, the month, key, are bad, veri, shah, medic, extension of, that christma, to 2014, calendar notic, take their, recent, say on, superstiti, complex, bayesian, leap, parents would, are born, expect, recent birth, wards ar, forums for, plan, newborn, since birth, 13th, the 13th, us birth, statistician, day mani, i, under par, falls on, few month, looks ful, effect for, out calendar, us whenev, every four, said h, i can, such, a birthday, find, few, of th, about 800, third, not superstiti, a few, leap day, given birth, scheduling mi, other key, planned cesarean, d expect, another such, ran an, newborns tr, that our, for friday, bad, other')
+
+('VB', 'take, avoid, i, sinc, have, s, gelman, bug, suppress, andrew, chang, develop, superstiti, gelman develop, flower, especi, would b, land, expect, be, schedul')
+
+('NNS', 'children, and longterm, data, babi, result, t univers, had mor, births data, an extens, say, t, for teas, teas, univers')
+
+('VBN', 'had given, given, staf, been, have a, born')
+
+('JJR', 'births wer, fewer, lower')
+
+('VBZ', 'deliv, expect sinc, day in, that deliv, when deliveri, that their, is, cover, friday, s, like ani')
+
+('JJS', 'smallest')
+
+('VBD', 'the 13th, they reran, the 1970, isn, said, wrote, didn, s, parents had, lady said, were, it had, had, and had, won, do andrew, ran, also ran, here , friday in, gave, becom, feb 29, sent, less often, forum, found, harvard med, when th, friday th, and said, made, more rec, who said, who had, they found')
+
+100 most freq tokens after processing: 
+[('the', 9382), ('of', 4677), ('a', 4104), ('to', 3795), ('in', 3522), ('and', 3461), ('that', 2128), ('s', 1977), ('it', 1639), ('for', 1615), ('is', 1556), ('on', 1376), ('are', 1104), ('of th', 1053), ('as', 1002), ('in th', 992), ('with', 987), ('at', 983), ('we', 959), ('but', 921), ('by', 908), ('i', 899), ('percent', 856), ('more', 836), ('thi', 809), ('have', 805), ('poll', 798), ('trump', 781), ('or', 766), ('1', 744), ('they', 739), ('be', 739), ('our', 734), ('wa', 729), ('from', 718), ('you', 714), ('t', 707), ('one', 664), ('about', 658), ('than', 648), ('like', 627), ('who', 620), ('ha', 592), ('data', 578), ('an', 558), ('were', 546), ('teamlogo', 543), ('not', 537), ('all', 497), ('he', 495), ('their', 488), ('other', 481), ('so', 466), ('there', 458), ('2', 444), ('hi', 439), ('rate', 438), ('said', 437), ('year', 434), ('how', 429), ('if', 421), ('can', 408), ('what', 393), ('which', 391), ('get', 387), ('when', 381), ('verdict', 381), ('time', 377), ('to th', 377), ('it ', 377), ('our verdict', 377), ('had', 375), ('peopl', 373), ('some', 370), ('out', 361), ('most', 358), ('percent of', 346), ('use', 342), ('number', 340), ('also', 336), ('those', 332), ('on th', 331), ('point', 327), ('pollster', 322), ('up', 316), ('state', 312), ('10', 308), ('do', 307), ('team', 307), ('3', 305), ('just', 296), ('onli', 285), ('each', 283), ('win', 274), ('and th', 273), ('been', 272), ('0', 272), ('two', 270), ('make', 259), ('world', 258)]

@@ -1,0 +1,57 @@
+Article: obama-commutations
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 737
+Raw number of types: 337
+Raw Type token ratio: 0.45725915875169604
+
+100 most freq tokens before (pre)processing: 
+[(',', 2462), ('(', 882), (')', 882), ("'", 870), (':', 420), ('the', 420), ('our', 386), ('verdict', 377), ('trump', 318), ('1', 218), ('in', 201), ('i', 200), ('positive', 184), ('a', 179), ('of', 178), ('.', 169), ('and', 162), ('donald', 155), ('to', 154), ('neutral', 132), ('like', 110), ('that', 93), ('/', 92), ('for', 85), ('negative', 81), ('on', 79), ('hillary', 79), ('it', 78), ("'m", 76), ('is', 76), ('you', 75), ('with', 66), ("'s", 62), ('my', 62), ('at', 59), ('me', 58), ('’', 54), ('we', 51), ("n't", 50), ('clinton', 50), ('2013', 44), ('but', 43), ('was', 43), ('2015', 42), ('--', 41), ('police', 38), ('percent', 38), ('s', 37), ('2016', 37), ('than', 35), ('bill', 35), ('more', 34), ('2012', 34), ('they', 33), ('fuck', 33), ('got', 33), ('drivers', 33), ('2014', 32), ('up', 32), ('from', 31), ('?', 30), ('were', 29), ('have', 28), ('do', 28), ('get', 28), ('this', 28), ('money', 28), ('be', 27), ('as', 27), ('2', 27), ('all', 26), ('his', 26), ('2008', 26), ('obama', 26), ('by', 25), ('so', 25), ('tower', 25), ("''", 24), ('not', 24), ('just', 24), ('what', 24), ('``', 23), ('officers', 23), ('black', 23), ('are', 23), ('has', 23), ('no', 23), ('who', 23), ('he', 23), ('remix', 23), ('2011', 23), ('!', 22), ('out', 22), ('ai', 22), ('bitch', 22), ('data', 21), ('city', 21), ('can', 21), ('if', 20), ('n', 20)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 389
+Number of types: 256
+Type token ratio: 0.6580976863753213
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'petition, harry, clinton, office, prison, dealer, push, oscar, prisoner, article, truman, jimmy, december, history, create, lópez, law, faln, bomb, announcement, commutation, inmate, liberty, week, freeing, criterion, trump, chelsea, felon, pardon, information, letter, version, smart, dozen, department, group, house, union, bill, intelligence, gesture, puerto, responsibility, predecessor, police, obama, record, month, justice, day, clemency, risk, percent, state, restoration, response, rico, order, forgiveness, tuesday, part, crime, see, argue, president, administration, analysis, truman1, grant, reform, analyst, rarer, offense, get, endofpresidency, rivera, applicant, mass, approach, release, activist, enforcement, github, member, conspiracy, friday, jan, distributor, meet, independence, carter, sentence, drug, number, year, correction, time, act')
+
+('JJ', 'american, initiative, obama, guide, freedom, lowlevel, offense, fraternal, ford, pardon, total, long, gerald, le, consistent, harsh, minimum, general, certain, original, uncertain, many, pm, single, oval, significant, federal, army, thursday, sensitive, optic, recent, much, new, free, fiscal, civil, serious, tuesday, last, typical, unlikely, criminal, slated, august, white, formal, mandatory, previous, united')
+
+('VBD', 'granted, broke, received, commuted, convicted, claimed, left, said, allowed, hundred, made, issued, aimed, appeared, wanted, differed, preceded, gave, tripled, rose, announced, suggested')
+
+('VBP', 'serve, face, presidentelect, charlie, leave, tend, future, prison, commutation, include')
+
+('VBN', 'granted, charged, given, drugrelated, filed, convicted, concerned')
+
+('NNS', 'wikileaks, data, people, pardon, prepares, dataobamacommutations')
+
+('VBG', 'disclosing, according, rethinking, freeing, granting, commuting, waiting, serving, including, manning, voting, pardoning')
+
+('VB', 'reoffend, shorter, ended, inmate')
+
+('JJR', 'riskier')
+
+('JJS', 'protest')
+
+('VBZ', 'obama, follows, donald, remains')
+
+100 most freq tokens after processing: 
+[('verdict', 379), ('trump', 334), ('1', 226), ('positive', 184), ('donald', 160), ('neutral', 132), ('like', 118), ('hillary', 81), ('negative', 81), ('nt', 56), ('clinton', 55), ('percent', 48), ('2013', 44), ('2015', 44), ('driver', 44), ('bill', 42), ('get', 39), ('police', 38), ('2016', 38), ('tower', 38), ('got', 37), ('2012', 35), ('fuck', 34), ('one', 32), ('2014', 32), ('city', 32), ('state', 31), ('2', 31), ('money', 30), ('obama', 28), ('2008', 27), ('bitch', 26), ('data', 25), ('10', 24), ('officer', 24), ('2011', 24), ('black', 23), ('remix', 23), ('need', 22), ('ai', 22), ('said', 21), ('want', 21), ('2010', 21), ('would', 20), ('year', 20), ('number', 20), ('3', 20), ('n', 20), ('know', 19), ('think', 19), ('make', 19), ('live', 19), ('2000', 19), ('people', 18), ('president', 18), ('bush', 18), ('white', 18), ('hiphop', 18), ('man', 18), ('way', 17), ('call', 17), ('time', 16), ('world', 16), ('new', 16), ('look', 16), ('shit', 16), ('reference', 16), ('2006', 15), ('15', 15), ('hilary', 15), ('going', 14), ('u', 14), ('also', 14), ('even', 14), ('rich', 14), ('big', 14), ('back', 13), ('go', 13), ('every', 13), ('take', 13), ('could', 13), ('song', 13), ('still', 13), ('rodham', 13), ('involved', 13), ('2009', 13), ('fire', 13), ('2005', 13), ('insurance', 13), ('fatal', 13), ('token', 12), ('country', 12), ('figure', 12), ('2007', 12), ('bad', 12), ('commutation', 12), ('well', 11), ('let', 11), ('many', 11), ('whether', 11)]

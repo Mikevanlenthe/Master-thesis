@@ -1,0 +1,57 @@
+Article: bad-drivers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1389
+Raw number of types: 450
+Raw Type token ratio: 0.32397408207343414
+
+100 most freq tokens before (pre)processing: 
+[(',', 2430), ('(', 880), (')', 880), ("'", 870), (':', 418), ('the', 398), ('our', 385), ('verdict', 377), ('trump', 316), ('1', 218), ('i', 200), ('in', 186), ('positive', 184), ('a', 167), ('donald', 154), ('and', 151), ('of', 150), ('.', 146), ('to', 137), ('neutral', 132), ('like', 109), ('/', 92), ('negative', 81), ('that', 80), ('hillary', 79), ('it', 77), ("'m", 76), ('for', 76), ('you', 75), ('on', 71), ('is', 70), ("'s", 62), ('my', 62), ('with', 59), ('me', 58), ('at', 56), ('we', 51), ("n't", 50), ('clinton', 49), ('’', 46), ('2013', 43), ('but', 42), ('2015', 42), ('--', 41), ('was', 40), ('police', 37), ('2016', 37), ('percent', 36), ('bill', 34), ('2012', 34), ('fuck', 33), ('got', 33), ('drivers', 33), ('up', 32), ('they', 31), ('?', 30), ('2014', 30), ('s', 29), ('do', 28), ('than', 28), ('money', 28), ('get', 27), ('more', 27), ('2', 27), ('were', 26), ('2008', 26), ('all', 25), ('have', 25), ('this', 25), ('so', 25), ('from', 25), ('tower', 25), ("''", 24), ('be', 24), ('just', 24), ('as', 24), ('what', 24), ('``', 23), ('officers', 23), ('black', 23), ('no', 23), ('his', 23), ('remix', 23), ('2011', 23), ('!', 22), ('are', 22), ('out', 22), ('ai', 22), ('bitch', 22), ('by', 21), ('city', 21), ('not', 21), ('can', 20), ('who', 20), ('n', 20), ('live', 19), ('data', 19), ('if', 19), ('2000', 19), ('your', 19)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 651
+Number of types: 335
+Type token ratio: 0.5145929339477726
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'commissioner, price, thomas, way, damage, carolina, dearmona, mona, try, individual, chalabi, fatality, pm, accident, percentage, property, speeding, fivethirtyeightcom, road, country, highrisk, washington, chainreaction, ability, cellphone, driver, share, nhtsa, york, behavior, safety, datalab538, course, produce, hope, deserve, mind, answer, council, example, information, vermont, insurer, historic, highway, dc, company, region, injury, traffic, oklahoma, crash, pileup, indiana, come, end, board, perspective, measure, bear, cain, lot, idaho, term, factor, dakota, condition, total, car, vehicle, none, percent, state, fraction, fairer, premium, question, pennsylvania, focus, association, caution, average, texas, database, costing, administration, figure, assessment, motorist, jersey, detail, clearcut, insurance, determine, news, lisa, motor, multitude, research, provider, william, send, collision, base, feasterville, idahoan, help, mile, charge, indicator, anywhere, cost, image, case, loss, number, year, contrast, use, time, comparison, america, etc, distraction, need')
+
+('JJ', 'american, fatal, interested, type, involved, insured, expensive, utah, first, dakota, heard, personal, mona, total, negligent, vary, high, sorry, asheville, national, insurer, half, available, ohio, comprehensive, idahoan, irresponsible, vast, characteristic, easy, premium, north, driver, much, new, future, good, low, alcoholimpaired, average, logic, plenty, distracted, thirtyone, tricky, impressive, dear, overall, behavior, thoughtday, carolinian, apiece, worth, uninsured, answered, previous, bad, naic, getty, combined')
+
+('VBD', 'lisa, lost, paid, got, put, lived, le, occurred, worst, found, accounted, sum, registered, louisiana, divided, licensed, alcoholimpaired, distracted, recorded, traveled, united, bottom, treated, resulted, worse')
+
+('VBN', 'compared, recorded, involved, insured, speedingrelated, given, estimated, incurred, distributed, filed, licensed, based, known, distracted')
+
+('VB', 'mona, scene, like, pay, drunken, indicate, sound, reflect, help, affect')
+
+('JJR', 'fewer, higher, answer, worse')
+
+('NNS', 'data, people, america, others, jerseyans, montana')
+
+('VBP', 'think, show, bemoan, iowa, make, come, say, want, know')
+
+('VBG', 'costing, eating, dreaming, neighboring, drinking, speeding, looking, including, driving, insuring, using, according, bearing')
+
+('JJS', 'highest, worst, latest, best')
+
+('VBZ', 'dc, varies')
+
+100 most freq tokens after processing: 
+[('verdict', 379), ('trump', 332), ('1', 226), ('positive', 184), ('donald', 159), ('neutral', 132), ('like', 117), ('hillary', 81), ('negative', 81), ('nt', 56), ('clinton', 54), ('percent', 46), ('2015', 44), ('driver', 44), ('2013', 43), ('bill', 41), ('get', 38), ('tower', 38), ('got', 37), ('police', 37), ('2016', 37), ('2012', 35), ('fuck', 34), ('city', 32), ('2', 31), ('one', 30), ('state', 30), ('money', 30), ('2014', 30), ('2008', 27), ('bitch', 26), ('10', 24), ('officer', 24), ('2011', 24), ('data', 23), ('black', 23), ('remix', 23), ('need', 22), ('ai', 22), ('want', 21), ('2010', 21), ('said', 20), ('3', 20), ('n', 20), ('know', 19), ('think', 19), ('make', 19), ('live', 19), ('2000', 19), ('would', 18), ('bush', 18), ('hiphop', 18), ('man', 18), ('way', 17), ('year', 17), ('number', 17), ('white', 17), ('call', 17), ('world', 16), ('look', 16), ('shit', 16), ('reference', 16), ('time', 15), ('new', 15), ('2006', 15), ('15', 15), ('hilary', 15), ('going', 14), ('u', 14), ('even', 14), ('rich', 14), ('big', 14), ('back', 13), ('go', 13), ('also', 13), ('every', 13), ('take', 13), ('could', 13), ('song', 13), ('rodham', 13), ('involved', 13), ('2009', 13), ('fire', 13), ('2005', 13), ('insurance', 13), ('fatal', 13), ('token', 12), ('people', 12), ('country', 12), ('obama', 12), ('figure', 12), ('still', 12), ('2007', 12), ('bad', 12), ('president', 11), ('well', 11), ('let', 11), ('whether', 11), ('come', 11), ('5', 11)]

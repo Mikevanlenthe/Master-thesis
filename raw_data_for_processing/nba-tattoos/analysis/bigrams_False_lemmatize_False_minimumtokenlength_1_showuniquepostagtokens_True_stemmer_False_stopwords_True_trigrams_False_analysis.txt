@@ -1,0 +1,59 @@
+Article: nba-tattoos
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3360
+Raw number of types: 1023
+Raw Type token ratio: 0.3044642857142857
+
+100 most freq tokens before (pre)processing: 
+[(',', 5680), ('the', 4523), ('.', 2983), ('of', 2226), ('a', 1888), ('to', 1859), ('in', 1766), ('and', 1622), ('’', 1497), ('that', 1066), ('(', 1028), (')', 1028), ('s', 800), (':', 791), ('for', 785), ('is', 747), ('it', 667), ("'", 665), ('on', 632), ('our', 566), ('are', 544), ('team-logo', 535), ('“', 526), ('”', 525), ('with', 511), ('we', 480), ('by', 471), ('more', 465), ('as', 462), ('at', 459), ('i', 450), ('—', 418), ('trump', 414), ('but', 400), ('this', 395), ('they', 381), ('you', 379), ('verdict', 377), ('polls', 357), ('t', 354), ('1', 350), ('have', 341), ('percent', 337), ('or', 337), ('from', 331), ('than', 330), ('about', 329), ('was', 323), ('be', 322), ('one', 304), ('who', 304), ('an', 264), ('like', 256), ('data', 252), ('has', 243), ('said', 241), ('were', 240), ('not', 237), ('all', 236), ('if', 235), ('their', 234), ('pollsters', 214), ('he', 212), ('most', 209), ('there', 208), ('how', 198), ('other', 198), ('positive', 195), ('?', 194), ('can', 193), ('so', 191), ('polling', 191), ('some', 188), ('when', 179), ('what', 178), ('his', 175), ('people', 175), ('those', 173), ('poll', 170), ('2', 169), ('which', 166), ('donald', 166), ('out', 165), ('get', 162), ('up', 159), ('%', 157), ('also', 156), ('each', 154), ('had', 154), ('just', 147), ('points', 144), ('only', 139), ('will', 138), ('league', 137), ('do', 135), ('election', 133), ('neutral', 133), ('/', 129), ('would', 129), ('two', 129)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1529
+Number of types: 883
+Type token ratio: 0.5775016350555919
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'addiction, randy, master, dress, living, write, abe, fanboy, catalog, attention, dirk, demarre, purpose, score, task, rooting, number, skepticism, canvas, felt, participate, heard, business, percent, difference, york, image, base, reddit, revolution, judge, chest, information, bunny, talk, ‘, sociology, arm, jordana, category, chris, thing, floor, basketballreferencecom, dorell, space, art1, livingston, selfless, educator, deshawn, blog, department, lincoln, headline, bête, word, threepoint, man, reality, manner, spokespeople, band, get, hospital, wife, breakfast, andersen, gaulois, tattooed, stream, bit, harrington, anderson, yes, defender, share, instinct, beneath, foye, name, skin, pump, tell, league, camera, tattoos, research, spectator, mom, jun, art, fire, family, memory, carl, reason, joke, call, storm, ball, piece, excel, connection, gnarly, touch, history, absent, angel, rock, picture, blank, empathy, community, brooklyn, killer, tshirt, cross, ink, quentin, evidence, swan, boy, everyone, ariza, importance, shirtless, text, punk, exception, brother, year, coq, peace, guy, tumor, trevor, contributor, sweat, drug, starbury, curry, team, yahoo, alcoholism, coffee, dragon, heart, noire, position, story, approach, break, today, rooster, ribbon, dude, shirt, allison, none, bialik, per48minute, game, song, kind, father, michael, los, section, birthday, body, brief, play, sister, bear, suit, getty, baby, diner, rabbit, brain, glory, letter, premise, hotel, ethan, analysis, period, stevenson, turtleneck, response, mission, room, heartbreaking, show, field, keyboard, wolf, doing4, store, month, writer, world, country, jersey, take, skull, claim, nba, pet, count, look, argue, swirl, plot, line, chandler, performance, database, see, museum, wilson, judgment, corps, philadelphia, try, lot, phone, durant, player, health, regularseason, end, life, rip, computer, hawks, grantland3, hiphop, undershirt, point, distance, center, google, something, carroll, portrait, day, washington, road, season, stat, miami, nate, lebron, ease, subscription, hand, protest, time, violence, cope, github, hiv, magazine, twitter, practitioner, work, relationship5, rife, someone, richardson, education, rochester, list, shoulder, percentage, code, iverson, web, travel, fan, opinion, tattoo, heat, homemade, person, hip, france, project, way, decision, fall, nobody, stop, result, idea, nothing, collage, week, somebody, group, alert, unfun, archetype, interview, program, le, bore, job, career, verse, basketball, help, taste, spending, ghost, spreadsheet')
+
+('JJ', 'edgy, contact, fist, randy, activist, mental, quiet, interested, demarre, want, responsible, tumblr, pattern, uniform, bosh, nurse, chest, warm, conscious, arm, wrong, netsheat, wear, problematic, little, read, strong, sit, stressed, whole, personal, musical, ugliest, disappointment, pull, assignment, deshawn, combined, happy, blog, selfish, skyscrapersize, south, favorite, andersen, tattooed, antidote, new, anderson, polar, andrew, foye, california, method, free, complete, visible, angst, tattoos, predictable, hard, art, fouryear, old, impulse, right, inked, al, limited, carl, shaun, magic, horrible, safe, call, individual, gnarly, absent, plenty, abigail, real, freaky, ink, swan, many, sweat, trevor, hoop, original, bummed, internet, meaningful, contemporary, laptop, live, imaginable, say, bible, teamoriented, major, small, body, birthday, inspired, getty, early, chinese, dumb, allen, banal, hear, likely, dark, offensive, sketchy, ethan, died, allergy, …, reflexive, smile, good, statistical, nba, expensive, top, approachable, colleague, deron, database, upperbody, enough, open, survive, told, white, last, robinson, impression, google, carmelo, eddy, mo, guys, hair, much, defiant, disappointed, meaningless, meant, rochester, spent, clear, tattoo, black, important, anthony, assert, first, alert, worried, significant, peanut, great, egotistical, invite, casual, come')
+
+('VBD', 'collected, ran, rooted, seemed, represented, grew, called, finished, emailed, mentioned, made, linked, searched, traded, dropped, tattooed, became, andrew, opened, obscured, thought, left, inked, kept, needed, individualcentered, rose, looked, altered, examined, window, pointed, bought, worked, argued, took, went, met, got, stood, attempted, teamoriented, wrote, came, lifted, noticed, instituted, ended, trimmed, helped, mostmocked, smiled, walked, decided, backed, volunteered, died, showed, wright, offered, followed, said, posted, knew, used, struggled, lived, asked, whispered, covered, overdosed, talked, started, watched, told, uninked, unfolded, found, stat, urged, revealed, gave, loved, shot, learned, put, documented, worried, counted, zoomed, saw, checked')
+
+('VBG', 'scoring, leading, targeting, watching, sleeping, snarling, saying, going, sibling, writing, getting, wanting, driving, separating, wearing, recovering, shooting, bicycling, using, unsettling, coming, telling, tracking, mocking, looking, talking, encountering, trying, listening, controlling')
+
+('VBN', 'analyzed, found, led, thought, filed, done, drawn, consulted, treated, disprove, calculated, left, called, moved, written, encountered, loved, built, made, knew, featured, used, searched, put, known, cracked, asked, confronted, played, winged, attached, worked, shared, tied, wrapped, taken, set, arrested, published')
+
+('NNS', 'lakers, years, bands, articles, nestles, authors, zines, remarks, sixers, data, foxes, quips, hogs, datanbatattoos, bonkers, honors, nets, misfits, rates, months, tattooed, spectators, yes, points, words, siblings, foye, guards, notes, scorers, tattoos, ones, steals, goals, riverbanks, angeles, tats, times, becomes, brooklyn, fouls, verdicts, stories, likes, rebounds, pointscorers, parents, remembers, turnovers, interests, records, initials, nuggets, children, voices, knicks, birthdays, alas, groups, pancakes, days, williams, benjamins, friends, results, matches, ways, tapes, choices, throws, rolls, screenwriters, forwards, tickets, nba, people, passers, buttons, colleagues, regressions, aspirations, subgroups, manages, rebounders, games, percentages, medics, james, leaders, daggers, guys, conclusions, players, centers, images, actions, bikes, tattoo, wizards, issues, stats, categories, seasons, superlatives, barclays, photos, justthefacts, others, comparisons, sports, numbers, athletes, reveals')
+
+('VBP', 'league, dress, tajh, serve, tattoos, guys, art, lebron, sister, know, think, lose, spoken, ethan, lincolns, shoulder, jordana, go, squareinch, chris, mr, hurricane, netsheat, empathy, …, eyed, royce, tattoo, essay, ignorant, gallery, ink, search, stats, swan, twopoint, assists, find, orenstein, pass, guy, top, look, seek, selfish, argue, get, keep, reminder, peanut, make, believe, taste, see, leave, live, come, say')
+
+('JJS', 'closest, least, chest, worst, easiest')
+
+('VB', 'randy, tattoos, want, criticize, meet, root, require, drive, go, accept, project, take, playoff, asked, guy, get, keep, see, counted, make, misshapen, begin')
+
+('VBZ', 'describes, makes, fits, swan, lists, images, assists, means, try, says, draws, gets, arms, gives, puts, deserves, googles, murderer')
+
+('JJR', 'higher, interviewer, worse, shoulder, murderer, younger, deeper, answer, better, mother')
+
+('NNP', '‘')
+
+100 most freq tokens after processing: 
+[('teamlogo', 538), ('1', 439), ('trump', 421), ('verdict', 378), ('polls', 361), ('percent', 345), ('one', 313), ('like', 262), ('data', 255), ('said', 247), ('2', 233), ('pollsters', 214), ('10', 202), ('positive', 195), ('polling', 192), ('11', 188), ('people', 181), ('donald', 170), ('poll', 170), ('get', 168), ('also', 159), ('%', 157), ('3', 154), ('13', 153), ('14', 149), ('points', 144), ('12', 140), ('league', 137), ('would', 135), ('election', 133), ('neutral', 133), ('two', 132), ('number', 126), ('15', 126), ('new', 125), ('average', 120), ('github', 113), ('5', 113), ('many', 112), ('see', 110), ('year', 110), ('pollster', 107), ('time', 106), ('much', 106), ('state', 106), ('4', 103), ('first', 98), ('likely', 98), ('results', 98), ('even', 96), ('percentage', 96), ('last', 95), ('17', 94), ('national', 94), ('us', 93), ('16', 93), ('hillary', 92), ('error', 90), ('2016', 90), ('clinton', 89), ('6', 89), ('use', 88), ('negative', 87), ('model', 86), ('may', 85), ('make', 84), ('2014', 84), ('19', 84), ('republican', 82), ('ratings', 82), ('three', 81), ('since', 81), ('think', 80), ('women', 80), ('years', 78), ('states', 77), ('another', 77), ('2015', 77), ('2012', 77), ('09', 77), ('films', 77), ('20', 76), ('candidates', 76), ('18', 76), ('got', 74), ('8', 74), ('numbers', 74), ('still', 73), ('senate', 72), ('way', 70), ('every', 70), ('among', 70), ('pts', 69), ('liga', 68), ('9', 67), ('know', 66), ('whether', 66), ('race', 66), ('asked', 65), ('france', 65)]

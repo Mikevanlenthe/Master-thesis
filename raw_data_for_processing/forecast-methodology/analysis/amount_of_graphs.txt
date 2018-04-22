@@ -1,0 +1,3 @@
+Article: forecast-methodology
+
+Number of graphs: 6

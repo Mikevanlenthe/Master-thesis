@@ -1,0 +1,57 @@
+Article: nfl-elo
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 960
+Raw number of types: 399
+Raw Type token ratio: 0.415625
+
+100 most freq tokens before (pre)processing: 
+[(',', 8537), ('the', 7632), ('.', 5214), ('of', 3864), ('a', 3248), ('to', 3123), ('in', 2843), ('and', 2821), ('’', 2612), ('that', 1752), ('s', 1430), ('(', 1345), (')', 1345), ('for', 1306), ('is', 1261), ('on', 1101), (':', 1094), ('it', 1078), ('are', 941), ('“', 866), ('”', 865), ('with', 820), ('at', 812), ('—', 809), ('we', 803), ('as', 793), ('by', 759), ('i', 744), ('percent', 722), ('but', 722), ('more', 708), ('our', 684), ("'", 665), ('this', 654), ('trump', 637), ('they', 625), ('or', 624), ('you', 596), ('have', 588), ('from', 581), ('t', 566), ('about', 543), ('was', 538), ('team-logo', 535), ('who', 524), ('than', 518), ('be', 506), ('one', 491), ('data', 489), ('were', 460), ('an', 445), ('?', 431), ('has', 420), ('their', 405), ('not', 396), ('all', 388), ('1', 388), ('verdict', 377), ('polls', 364), ('there', 360), ('said', 360), ('like', 360), ('how', 358), ('so', 344), ('he', 341), ('if', 335), ('can', 334), ('what', 329), ('other', 325), ('people', 314), ('some', 312), ('which', 309), ('most', 302), ('those', 292), ('out', 291), ('his', 291), ('when', 288), ('had', 277), ('also', 273), ('get', 260), ('up', 259), ('each', 252), ('just', 232), ('two', 230), ('only', 226), ('do', 224), ('pollsters', 214), ('github', 210), ('new', 210), ('these', 207), ('its', 206), ('positive', 206), ('them', 205), (';', 203), ('will', 197), ('time', 195), ('would', 191), ('polling', 191), ('been', 190), ('my', 189)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 507
+Number of types: 318
+Type token ratio: 0.6272189349112426
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'gamebygame, england, revival, anyone, era, association, bay, longevity, professional, wasnt, peak, bevy, championship, tackle, average, chicago, conference, start, oct, decade, run, francisco, method, safety, league, record, football, teams, rating, methodology, win, reason, emmitt, zoom, stretch, history, didnt, childhood, wait, existence, year, bill, calculate, team, bottoming, elo, cowboys, smith, walker, bowl, game, chance, tom, resurgence, rate, wisconsin, exchange, creation, minnesota, franciscos, strength, herschel, count, trade, gain, reminder, russell, season, miami, time, expansion, merger, brett, aaron, measure, allamerica, project, afc, dallas, payoff, week, title, success, figure, curve, super, dynasty, perfect')
+
+('NNS', 'franchises, heights, winners, years, teams, theres, playoffs, players, ratings, deals, losses, results, rodgers, times, championships, picks, dolphins, ways, yards, vikings, fans, seasons, packers, stretches, contributors, patriots, 49ers, darren, jaguars, points, theyd, decades, cowboys, games, bears, titles')
+
+('VBP', 'lesser, title, woodson, pro, profootballreferencecom, make, win, maryland, peak, miami, slate, dallas, super, play, include, start')
+
+('JJ', 'entire, league, complete, american, racked, optimistic, long, national, january, brief, defensive, san, next, franchise, early, brady, huge, much, jacksonville, lose, lopsided, green, miamis, pro, simple, peak, choose, total, incredible, arent, read, historical, peaked, good, franciscos, immediate, average, werent, belong, patriots, high, born, defunct, favorite, become, modern, nfls, nfc, comparable, new, squad, nfl, elo, super, full, florida, last')
+
+('VBN', 'based, set, returned, selected')
+
+('VBD', 'finished, played, matched, joined, tried, sent, led, surpassed, dominated, came, captured, became, cared, emerged, went, calculated, reached, expanded, favreled, made')
+
+('JJR', 'lower, super, answer, higher')
+
+('VBG', 'depending, following, edging, living, reaching, rebuilding, seasonending, drafting, thrashing, winning, hitting, running, excluding, giving, including, coming')
+
+('VBZ', 'cowboys, wins, carries, depends')
+
+('JJS', 'greatest, highest, best, least, worst')
+
+('VB', 'peak, gotten, belichick')
+
+100 most freq tokens after processing: 
+[('percent', 730), ('trump', 644), ('teamlogo', 538), ('one', 500), ('data', 492), ('1', 477), ('verdict', 378), ('polls', 368), ('said', 366), ('like', 366), ('people', 320), ('also', 276), ('get', 266), ('2', 254), ('10', 253), ('two', 233), ('11', 218), ('pollsters', 214), ('new', 213), ('github', 210), ('positive', 206), ('13', 202), ('time', 198), ('would', 197), ('polling', 192), ('us', 189), ('number', 189), ('year', 188), ('14', 186), ('points', 186), ('many', 185), ('donald', 185), ('%', 183), ('3', 180), ('poll', 179), ('12', 178), ('much', 176), ('15', 175), ('see', 173), ('even', 169), ('average', 169), ('first', 166), ('likely', 164), ('election', 158), ('may', 155), ('league', 155), ('since', 153), ('years', 147), ('voters', 144), ('5', 142), ('last', 141), ('among', 141), ('neutral', 138), ('16', 138), ('results', 138), ('state', 137), ('2014', 137), ('three', 134), ('states', 133), ('team', 133), ('women', 131), ('2016', 131), ('world', 130), ('make', 129), ('still', 126), ('17', 126), ('least', 123), ('think', 122), ('season', 122), ('president', 120), ('4', 120), ('percentage', 120), ('less', 116), ('national', 115), ('well', 114), ('every', 114), ('respondents', 113), ('clinton', 112), ('way', 111), ('6', 111), ('another', 110), ('model', 109), ('20', 108), ('numbers', 108), ('2015', 108), ('use', 108), ('win', 107), ('pollster', 107), ('take', 105), ('whether', 105), ('19', 105), ('vote', 103), ('know', 101), ('hillary', 101), ('films', 101), ('good', 100), ('better', 99), ('filed', 99), ('republican', 98), ('18', 98)]

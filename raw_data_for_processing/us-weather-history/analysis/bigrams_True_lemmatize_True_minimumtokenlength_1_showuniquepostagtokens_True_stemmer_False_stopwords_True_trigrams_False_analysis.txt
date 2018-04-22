@@ -1,0 +1,57 @@
+Article: us-weather-history
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 521
+Raw number of types: 247
+Raw Type token ratio: 0.4740882917466411
+
+100 most freq tokens before (pre)processing: 
+[(',', 4357), ('the', 2449), ('.', 1389), ('(', 1243), (')', 1243), ('of', 1144), ("'", 1076), ('a', 1004), ('in', 947), ('to', 907), ('and', 815), ('’', 675), (':', 604), ('that', 533), ('our', 442), ('s', 408), ('is', 393), ('for', 377), ('verdict', 377), ('on', 374), ('it', 372), ('trump', 357), ('i', 296), ('with', 282), ('1', 281), ('at', 260), ('—', 243), ('are', 241), ('more', 240), ('percent', 237), ('by', 233), ('but', 225), ('as', 219), ('we', 218), ('“', 212), ('”', 212), ('this', 212), ('than', 189), ('positive', 189), ('have', 183), ('like', 177), ('from', 175), ('you', 164), ('about', 162), ('was', 162), ('donald', 159), ('data', 154), ('or', 154), ('an', 145), ('they', 141), ('t', 138), ('be', 133), ('neutral', 133), ('has', 127), ('one', 126), ('all', 111), ('their', 109), ('/', 108), ('out', 107), ('who', 107), ('not', 106), ('other', 106), ('most', 103), ('were', 103), ('so', 101), ('when', 100), ('people', 97), ('?', 95), ('get', 95), ('which', 95), ('what', 94), ('up', 93), ('there', 92), ('his', 91), ('some', 88), ('can', 88), ('he', 86), ('2', 86), ('how', 85), ('those', 85), ('if', 84), ('my', 84), ('negative', 83), ('hillary', 81), (';', 79), ('state', 79), ('me', 78), ("'m", 77), ('model', 77), ('films', 77), ('do', 76), ('only', 76), ('just', 73), ('3', 71), ('also', 70), ('its', 68), ('polls', 66), ("'s", 65), ('github', 65), ('10', 65)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 712
+Number of types: 588
+Type token ratio: 0.8258426966292135
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'get the, in aggregate, beyond a, famous new, see, spike in, experienced a, houston, spike, github, or last, experienced aboveaverage, the broad, new york, period, time, reached a, march, detail, the temperature, it was, year, half of, several heat, as houston, june on, click each, the western, spectrum chicago, to single, cold spike, temperature, the us1, stateofclimate, months or, noaanceiclimate stateofclimate, through june, datausweatherhistory, lasting beyond, this year, pictwittercomxpj8rfr8bs, setting, heat, github github, the record, s in, why when, average, fact, range, for an, month, http tcodjwfrfmmjp, past year, consistent as, houston s, chart to, handful of, range and, record, past 12, normal range, affect different, hotter, chart, june this, its yearround, warmest ever, low houston, to see, last 12, change is, since the, for each, country, the warmest, in every, broad view, most of, warm winter, the country, winter with, every city, to june, across the, records but, tcodjwfrfmmjp pictwittercomxpj8rfr8bs, to show, with a, curious to, period from, the past, in fact, each chart, janjune 2015, the other, look, most part, setting record, year march, at datausweatherhistory, january to, high and, climate it, data at, on github, snap, github data, more detail, new record, record most, in the, july 2014, with 12, globe, march in, the data, to expand, the upper, of december, data on, hot or, other end, by randy, it s, atmospheric administration, cold, did not, of large, http, state, show, a new, change, houston did, period on, july, to tell2, pictwittercomxpj8rfr8bs noaa, the most, story to, view, blue or, half, days since, tcodjwfrfmmjp, aboveaverage, first half, globe noaanceiclimate, the us, randy, janjune, if this, recorded i, i was, way, end, general climate, record high, oceanic and, each day, high, june 2015, winter, like in, climate, each city, tell2, aboveaverage or, from july, seattle, hottest on, high at, olson, randy olson, s why, story, world, june, the world, detail so, record didn, city, tie with, few of, months of, climate change, weather get, get, year each, york, was the, consequence, the average, these last, report, february when, the spectrum, if it, s not, expand los, spectrum, year janjune, administration just, so i, a report, an odd, part, such period, a record, record average, stateofclimate http, jul 22, administration, in more, on record, dot, day')
+
+('VBG', 'setting, december setting, report saying, studying, consequences lasting, recordsetting, beginning, even recordsetting, lasting, days setting, the beginning, a recordsetting, of recordsetting, these recordsetting, saying, when studying')
+
+('JJ', 'warmest january, the national, was curious, a famous, uncomfortable, charlotte north, warmest such, however few, beginning of, new, returned to, single, particular, around the, ultimately has, that way, february, previous, national, a unique, atmospheric, low blue, los, normal it, temperature, uncomfortable june, of the, expected to, fact the, unique, this year, for a, with five, such as, average, published jul, over the, experienced several, national oceanic, click, low normal, previous year, year for, cold day, unexpectedly cold, and two, chart, a previous, us1, what these, released a, in particular, and actual, broad, united, strangely warm, july 20, recordsetting low, us by, us many, across the, past, hot, particularly the, usually best, famous for, studying climate, curious, charlotte, recordsetting high, affect, you the, several, had four, as consistent, temperatures sat, different, oceanic, large, was a, not in, in the, for the, cold february, aggregate these, waves this, famous, updated a, abnormally hot, january, cold, into the, show the, handful, with record, u, even cold, setting a, last, odd, make clear, clear these, six the, experienced heat, seattle experienced, the first, there was, a tie, western, others such, tell2 click, red even, and atmospheric, unique story, that s, noaa, warm, high, north, consistent, blue, low, upper, the 12month, average high, to affect, angeles famous, normal, in general, had a, digit, way in, than normal, us1 these, examined had, actual, justright, clear, general, a handful, for globe, noaanceiclimate, under weather, weather chart, noaa noaa, particularly uncomfortable, take the, many, except for, when the')
+
+('VBD', 'experienced, that the, temperatures experienced, looked, last six, states experienced, i updated, cold, temperatures returned, sat, is expected, soared, just released, carolina had, average for, red, particular had, olson filed, cities experienced, temperature soared, ever recorded, chicago had, days reached, filed, high red, of 2015, returned, what 12, datausweatherhistory published, or cold, reached')
+
+('JJR', 'the other, filed under, weather')
+
+('NNS', 'heat waves, for its, four days, these charts, had an, single digits, city dots, recordsetting temperatures, record highs, large cities, others, indicate days, temperatures looks, two days, north carolina, high temperatures, angeles, of temperatures, had temperatures, cold snaps, justright temperatures, carolina, many cities, five days, other cities, the 90s, when temperatures, united states, set records, but others, best to, has consequences, different parts, data, chicago, year feels')
+
+('VBN', 'temperatures looked, published, examined, set, has a, expected, released, updated, western united, i examined, recorded')
+
+('VBP', 'didn t, wave, in each, that set, in november, houston, cities across, make, hotter than, a single, digits and, parts of, indicate, cities i, charts make, days with, city in, city has, highs when, feel, dots indicate, highs in, take, waves and, november, to take, charts show, odd cold, temperatures for, aggregate, were as, temperatures this')
+
+('JJS', 'hottest, best, was warmest, the hottest, warmest')
+
+('VB', 'wave, feel, expand, record low, days when, necessarily feel')
+
+('VBZ', 'heat waves, day in, actual temperatures, upper 90s, end of, just you, differently and, los angeles, s temperatures, only a, record highs, record for')
+
+100 most freq tokens after processing: 
+[('verdict', 380), ('our verdict', 377), ('trump', 375), ('1', 301), ('of the', 261), ('in the', 254), ('percent', 249), ('like', 202), ('positive', 189), ('verdict positive', 178), ('donald', 165), ('data', 159), ('one', 153), ('donald trump', 146), ('film', 137), ('neutral', 133), ('verdict neutral', 128), ('get', 118), ('state', 117), ('to the', 111), ('percent of', 111), ('people', 107), ('year', 106), ('it s', 103), ('poll', 97), ('2', 94), ('on the', 90), ('number', 88), ('model', 87), ('10', 84), ('hillary', 84), ('negative', 83), ('3', 81), ('woman', 78), ('i m', 78), ('and the', 77), ('time', 75), ('also', 75), ('said', 74), ('candidate', 74), ('verdict negative', 71), ('make', 68), ('new', 68), ('at the', 68), ('point', 67), ('movie', 67), ('5', 66), ('would', 65), ('github', 65), ('republican', 63), ('day', 62), ('2015', 61), ('rock', 61), ('clinton', 60), ('nt', 59), ('two', 59), ('2014', 58), ('the trump', 57), ('much', 55), ('6', 55), ('way', 53), ('american', 53), ('average', 53), ('2016', 53), ('u', 52), ('police', 52), ('the data', 52), ('bill', 52), ('got', 51), ('for the', 51), ('2013', 51), ('election', 50), ('more than', 50), ('city', 49), ('likely', 49), ('show', 49), ('see', 48), ('look', 48), ('even', 48), ('with a', 48), ('2012', 48), ('first', 47), ('4', 47), ('the most', 47), ('to be', 46), ('driver', 46), ('classic', 46), ('classic rock', 46), ('think', 45), ('test', 45), ('last', 45), ('in a', 44), ('from the', 44), ('president', 43), ('win', 43), ('obama', 42), ('come', 42), ('among', 42), ('national', 42), ('2013 our', 42)]

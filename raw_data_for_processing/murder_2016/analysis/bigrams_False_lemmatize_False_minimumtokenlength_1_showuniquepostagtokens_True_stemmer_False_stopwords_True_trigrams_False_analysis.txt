@@ -1,0 +1,57 @@
+Article: murder_2016
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1324
+Raw number of types: 487
+Raw Type token ratio: 0.3678247734138973
+
+100 most freq tokens before (pre)processing: 
+[(',', 8488), ('the', 7562), ('.', 5178), ('of', 3836), ('a', 3226), ('to', 3108), ('in', 2820), ('and', 2807), ('’', 2612), ('that', 1746), ('s', 1430), ('(', 1341), (')', 1341), ('for', 1300), ('is', 1257), ('on', 1096), (':', 1093), ('it', 1074), ('are', 939), ('“', 866), ('”', 865), ('with', 815), ('at', 809), ('—', 809), ('we', 801), ('as', 792), ('by', 759), ('i', 744), ('percent', 722), ('but', 716), ('more', 703), ('our', 683), ("'", 665), ('this', 653), ('trump', 637), ('or', 622), ('they', 620), ('you', 592), ('have', 581), ('from', 577), ('t', 566), ('about', 540), ('team-logo', 535), ('was', 532), ('who', 523), ('than', 516), ('be', 503), ('data', 489), ('one', 487), ('were', 457), ('an', 439), ('?', 430), ('has', 417), ('their', 398), ('not', 395), ('1', 388), ('all', 385), ('verdict', 377), ('polls', 364), ('said', 360), ('like', 360), ('there', 358), ('how', 355), ('so', 342), ('he', 341), ('if', 333), ('can', 331), ('what', 329), ('other', 324), ('people', 314), ('some', 311), ('which', 308), ('most', 301), ('his', 290), ('out', 289), ('those', 289), ('when', 286), ('had', 273), ('also', 272), ('get', 260), ('up', 258), ('each', 252), ('just', 229), ('two', 225), ('only', 224), ('do', 222), ('pollsters', 214), ('github', 210), ('new', 209), ('its', 206), ('these', 206), ('positive', 206), ('them', 205), (';', 202), ('will', 197), ('time', 193), ('polling', 191), ('would', 190), ('been', 189), ('my', 189)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 701
+Number of types: 389
+Type token ratio: 0.5549215406562055
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'last, point, easy, major, several, particular, long, local, small, violent, current, available, national, estimated, different, orlando, san, next, january, preliminary, early, stray, nationwide, percent, accounted, meanwhile, likely, true, much, luck, final, collect, midyear, recent, close, total, widespread, read, substantial, difficult, pulse, concentrated, whole, urban, mixed, half, chicago, big, average, net, large, due, top, official, able, fatal, oneyear, handful, survivable, prevalent, geographic, shortterm, dramatic, milwaukee, nightclub, exaggerate, many, wary, full, come')
+
+('NNS', 'increases, years, sources, trends, carl, centers, swings, totals, cases, results, decreases, tallies, ways, data, types, media, cities, calls, declines, drops, inches, changes, dallas, rates, statistics, websites, projections, people, patterns, populations, murders, departments, months, jumps, levels, figures, reports, numbers, rises, las, indianapolis')
+
+('VBG', 'existing, highlighting, knowing, assuming, concentrating, citing, continuing, remaining, rising, showing, shifting, sustaining, alarming, seeing, using, excluding, experiencing, defining, including, driving')
+
+('NN', 'law, increase, washington, center, decade, record, dc, atlanta, association, orlando, time, datamurder2016, github, order, number, switch, percent, police, houston, attack, yearend, campaign, difference, arlington, august, fla, date, rate, phoenix, bigcity, kansas, sense, show, %, murder, rarest, month, organization, population, contrast, baltimore, fort, america, evidence, country, increase3, rise, brennan, explanation, deterioration, city, claim, year, account, page, fall, group, get, crime, fbi, jump, southwest4, issue, variety, austin, phone, level, murders1, effect, injury, term, louisville, difficulty, quarter, memphis, end, trend, bullet, century')
+
+('VBP', 'mean, mo, spread, wise, know, jeff, june, medium, chiefs, judge, absolute, data, end, vary, murder, rise, chicago, fbi, emails, understand, october, tend')
+
+('VBN', 'seen, influenced, sent, filed, missed, measured, released, murdered')
+
+('VBZ', 'donald, makes, suggests, looks, figures, appears, holds, counts, rises')
+
+('JJS', 'greatest, least, biggest, worst')
+
+('JJR', 'broader, slower')
+
+('VBD', 'struck, killed, least, projected, ky, texas, accounted, chiefs, rose, tenn, emerged, wayne, posted, concentrated, pointed, vegas, chicago, revised, fbi, prevalent, went, set, saw')
+
+('VB', 'push, fbi, half, hold, safer, evaluate, come')
+
+100 most freq tokens after processing: 
+[('percent', 730), ('trump', 644), ('teamlogo', 538), ('one', 496), ('data', 492), ('1', 477), ('verdict', 378), ('polls', 368), ('said', 366), ('like', 366), ('people', 320), ('also', 275), ('get', 266), ('2', 254), ('10', 252), ('two', 228), ('11', 218), ('pollsters', 214), ('new', 212), ('github', 210), ('positive', 206), ('13', 201), ('would', 196), ('time', 196), ('polling', 192), ('us', 189), ('number', 189), ('year', 186), ('14', 186), ('many', 185), ('donald', 185), ('points', 185), ('%', 183), ('3', 180), ('poll', 179), ('12', 177), ('much', 175), ('15', 174), ('see', 173), ('even', 169), ('average', 165), ('first', 164), ('likely', 164), ('election', 158), ('may', 154), ('since', 153), ('league', 148), ('years', 144), ('voters', 144), ('5', 142), ('last', 140), ('among', 140), ('neutral', 138), ('state', 137), ('2014', 137), ('16', 137), ('results', 136), ('states', 133), ('women', 131), ('three', 131), ('world', 130), ('2016', 130), ('make', 128), ('still', 126), ('17', 125), ('team', 123), ('think', 122), ('least', 121), ('president', 120), ('4', 120), ('percentage', 120), ('less', 116), ('well', 114), ('national', 114), ('season', 114), ('every', 113), ('respondents', 113), ('clinton', 112), ('way', 111), ('6', 111), ('another', 110), ('model', 109), ('20', 108), ('numbers', 108), ('2015', 108), ('use', 108), ('pollster', 107), ('take', 105), ('win', 105), ('19', 105), ('whether', 104), ('vote', 103), ('know', 101), ('hillary', 101), ('films', 101), ('good', 99), ('better', 99), ('filed', 99), ('republican', 98), ('8', 97)]

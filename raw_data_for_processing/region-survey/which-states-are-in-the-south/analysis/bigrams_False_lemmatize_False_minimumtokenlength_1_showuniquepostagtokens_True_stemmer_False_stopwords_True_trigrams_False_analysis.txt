@@ -1,0 +1,57 @@
+Article: region-survey/which-states-are-in-the-south
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 560
+Raw number of types: 247
+Raw Type token ratio: 0.44107142857142856
+
+100 most freq tokens before (pre)processing: 
+[(',', 8290), ('the', 7348), ('.', 5032), ('of', 3731), ('a', 3148), ('to', 3019), ('and', 2717), ('in', 2711), ('’', 2533), ('that', 1715), ('s', 1389), ('(', 1329), (')', 1329), ('for', 1259), ('is', 1229), (':', 1074), ('on', 1072), ('it', 1050), ('are', 908), ('“', 861), ('”', 860), ('with', 797), ('at', 785), ('we', 780), ('—', 780), ('as', 760), ('by', 737), ('percent', 706), ('i', 701), ('but', 698), ('more', 683), ('our', 674), ("'", 665), ('trump', 636), ('this', 632), ('they', 606), ('or', 601), ('you', 582), ('have', 565), ('from', 562), ('t', 552), ('team-logo', 535), ('about', 526), ('who', 513), ('was', 509), ('than', 503), ('be', 483), ('one', 479), ('data', 460), ('were', 447), ('an', 429), ('?', 414), ('has', 409), ('not', 390), ('1', 386), ('their', 382), ('verdict', 377), ('all', 373), ('polls', 362), ('said', 360), ('like', 356), ('there', 350), ('how', 346), ('he', 336), ('if', 325), ('so', 325), ('can', 321), ('other', 319), ('what', 319), ('people', 306), ('some', 301), ('most', 298), ('which', 291), ('his', 290), ('out', 281), ('those', 281), ('when', 278), ('had', 266), ('also', 262), ('get', 254), ('up', 243), ('each', 241), ('just', 223), ('only', 221), ('do', 217), ('two', 216), ('pollsters', 214), ('positive', 206), ('its', 204), ('new', 200), ('them', 200), ('github', 198), ('these', 195), ('will', 193), ('time', 191), ('polling', 191), (';', 189), ('2', 188), ('points', 185), ('been', 184)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 264
+Number of types: 173
+Type token ratio: 0.6553030303030303
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'southerners, starts, results, individuals, takeaways, states, miles, carolina, midwesterners, respondents, data, people, stops')
+
+('JJ', 'census, certain, several, national, wellappointed, sample, pathetic, compose, georgia, percent, north, post, midwest, carolina, wrong, walt, consistent, half, welcome, first, big, nobody, arkansas, equivalent, top, interstate, kentucky, south, actual, louisiana, geographic, surveymonkey, arizona, new, content, southern, white, federal, mississippi, florida, last')
+
+('NN', 'hickey, census, addition, anyone, oklahoma, poll, florida, walter, maryland, texas, determine, sample, think, github, survey, question, answer, georgia, percent, skepticism, government, kid, skyline, rest, carolina, debate, state, mess, tradition, dataregionsurvey, tuesday, mexico, audience, support, half, delaware, vote, fact, southerner, arkansas, dodgeball, bureau, south, kentucky, marylander, get, marc, subsequent, alabama, louisiana, perrella, designation, feedback, dusk, lot, virginia, run, passionate, mississippi, tennessee, regionalism')
+
+('VBD', 'placed, isolated, picked, learned, garnered, filed, asked, pulled, loved, know, polled, hovered')
+
+('VBP', 'get, conclusive, maryland, atlanta, tennessee, know, think, seem, south')
+
+('VBN', 'identified, considered, selfidentified, asked, excluded, selfavowed, published')
+
+('VBZ', 'alabama, states, says, appears, blog, places, seems, disagrees')
+
+('JJS', 'west, midwest')
+
+('VB', 'take, keep')
+
+('VBG', 'judging, identifying, going, arguing, giving, according')
+
+('JJR', 'less, worse')
+
+100 most freq tokens after processing: 
+[('percent', 714), ('trump', 643), ('teamlogo', 538), ('one', 488), ('1', 475), ('data', 463), ('verdict', 378), ('said', 366), ('polls', 366), ('like', 362), ('people', 312), ('also', 265), ('get', 260), ('2', 253), ('10', 247), ('two', 219), ('11', 216), ('pollsters', 214), ('positive', 206), ('new', 203), ('github', 198), ('13', 198), ('time', 194), ('polling', 192), ('would', 189), ('us', 186), ('points', 185), ('donald', 184), ('14', 183), ('%', 181), ('many', 179), ('number', 179), ('3', 179), ('poll', 179), ('12', 174), ('much', 171), ('see', 170), ('15', 168), ('average', 164), ('first', 160), ('even', 160), ('year', 160), ('likely', 159), ('election', 157), ('may', 152), ('since', 149), ('league', 148), ('voters', 144), ('years', 140), ('5', 140), ('neutral', 138), ('among', 137), ('results', 134), ('16', 133), ('state', 132), ('2014', 131), ('world', 130), ('women', 129), ('three', 128), ('last', 126), ('still', 122), ('think', 121), ('make', 121), ('states', 121), ('17', 120), ('percentage', 120), ('president', 118), ('4', 118), ('less', 114), ('season', 113), ('least', 112), ('national', 111), ('well', 110), ('every', 110), ('2016', 110), ('clinton', 109), ('model', 109), ('way', 108), ('another', 108), ('6', 108), ('respondents', 108), ('20', 107), ('pollster', 107), ('numbers', 106), ('take', 105), ('win', 104), ('use', 104), ('19', 104), ('vote', 101), ('films', 101), ('whether', 100), ('know', 99), ('hillary', 98), ('republican', 98), ('good', 98), ('2015', 97), ('better', 96), ('18', 96), ('8', 95), ('got', 94)]

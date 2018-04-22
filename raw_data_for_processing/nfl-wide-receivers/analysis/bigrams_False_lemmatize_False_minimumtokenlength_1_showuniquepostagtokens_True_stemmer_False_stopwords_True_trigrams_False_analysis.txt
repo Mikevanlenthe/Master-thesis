@@ -1,0 +1,57 @@
+Article: nfl-wide-receivers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1971
+Raw number of types: 689
+Raw Type token ratio: 0.3495687468290208
+
+100 most freq tokens before (pre)processing: 
+[(',', 2354), ('the', 763), ('(', 705), (')', 705), ("'", 664), (':', 429), ('.', 395), ('our', 390), ('verdict', 377), ('a', 347), ('in', 335), ('of', 332), ('trump', 330), ('to', 299), ('and', 284), ('i', 229), ('1', 224), ('’', 198), ('positive', 186), ('that', 169), ('donald', 155), ('on', 136), ('s', 133), ('neutral', 132), ('for', 124), ('like', 122), ('it', 121), ('is', 116), ('with', 106), ('at', 99), ('/', 98), ('you', 90), ('negative', 81), ('was', 80), ('hillary', 79), ("'m", 75), ('but', 75), ('percent', 72), ('more', 71), ('my', 69), ('we', 67), ('by', 65), ('from', 65), ('me', 65), ('than', 61), ("'s", 60), ('about', 60), ('data', 59), ('this', 59), ('—', 53), ('his', 53), ('have', 51), ('as', 50), ('clinton', 50), ("n't", 49), ('be', 48), ('t', 48), ('were', 48), ('up', 48), ('has', 47), ('they', 46), ('are', 46), ('2015', 46), ('2013', 44), ('all', 42), ('not', 42), ('?', 41), ('an', 41), ('--', 40), ('get', 40), ('who', 40), ('police', 39), ('“', 38), ('”', 38), ('2014', 38), ('one', 38), ('or', 38), ('people', 38), ('2016', 37), ('he', 37), ('do', 36), ('bill', 36), ('got', 36), ('just', 35), ('2012', 35), ('so', 34), ('their', 34), ('out', 34), ('how', 33), ('fuck', 33), ('drivers', 33), ('weather', 32), ('2', 31), ('can', 30), ('what', 30), ('other', 29), ('when', 29), ('if', 28), ('money', 28), ('some', 27)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 970
+Number of types: 580
+Type token ratio: 0.5979381443298969
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'contact, thomas, hostetler, era, attention, treat, committee, task, number, question, production4, percent, ceremony, jeff, downfield, defense, campaign, influence, ratio, pro, difference, judge, passingefficiency, onfield, lockstep, catch, george, miller, standard, degree, moss, average, opening, volume, baseball, adjustment, production, calvin, value, get, jason, issue, logjam, effect, download, output, nut, yardage, regard, league, dvoa, record, football, passing, opportunity, fawcett, footballperspectivecom, factor, induct, reason, piece, explosion, history, talent, threat, picture, famer, efficiency, oakland, deign, class, evidence, s8, ingame, vince, year, contributor, guy, buffalo, frequency, example, cris, theorem, step, ask, jim, schroeder, team, sway, wr, position, nfl, yardagelike, enshrinement, smith, singleseason, stadium, bowl, game, carter, reevaluate, bruce, phenomenon, play, receiving, detroit, dawn, getty, dilemma, crack, peropportunity, course, andor, pertinent, rate, careers6, gannon, matter, account, performance, dozen, lot, quality, try, receiver, player, instance, rod, fame, season, increase, honor, something, carmelo, fault, lynn, hand, ignore, selection, time, jay, solve, github, canton, paine, r, benefit, hall, wowy, someone, joining, basis, indictment, discussion, anthony, reed, pass, direction, noisy, quarterback, success, johnson, postseason, norm, career, difficulty, pertarget, basketball, problem, help, perfect')
+
+('VBN', 'considered, cited, become, identified, intended, tried, involved, called, filed, associated, tied, adjusted, taken, put, qualified, targeted, ignored, given, opened, compared')
+
+('NNS', 'scores, bayes, considerations, rules, another3, environments, years, contemporaries, teams, analytics, coaches, plays, players, github, quarterbacks, targets, catches, events, sabermetrics, teammates, images, products, elections, data, ways, matters, tracks, yards, statisticians, metrics, berths, merits, questions, inductions, presents, stats, receptions, traditions, raiders, incentives, weaknesses, lions, opportunities, attempts, statistics, measures, boasts, candidates, buffalo, ranks, passcatchers, qualifications, adjusts, suspects, passes, volumes, touches, commands, receivers, careers, datanflwidereceivers, nfl, bills, differences, eras, numbers, possessions, outsiders')
+
+('JJ', 'apparent, randy, raw, inventive, defensive, fundamental, curious, huge, percent, true, pro, speech, onfield, specific, strong, personal, mixed, strengths, serious, average, efficient, superior, actual, candidate, defenseadjusted, new, prior, positive, resume, metric, entire, touchdown, devalued, league, dvoa, teams, tough, alltime, ball, individual, consequence, discrete, historical, difficult, real, half, correct, offense, conventional, secondworst, countless, wide, shaping, glossy, legendary, threw, eliminate, collective, ambiguous, thurman, chase, major, single, ranked, unsuccessful, detroit, offensive, relative, pertinent, distinguish, total, efficient5, usual, greatness, aerial, ensemble, brown, good, statistical, saturday, stuart, top, obvious, inducted, extra, modern, rudimentary, enough, receiver, full, wowy7, last, fame, sixth, several, appreciate, controversial, different, much, hall, wowy, august, fourth, rich, recent, simple, former, key, targeted, exert, clear, second, lifetime, reed, qualified, beneficiary, surging2, third, lengths, successful, great, impressive, signal, advanced, longtime')
+
+('VBP', 'point, chase, washington, league, lead, act, know, challenge, sport, select, hall, wowy, solution, funnel, tim, show, dream, introduce, boil, come, take, involve, reed, pass, give, leaguewide, jim, schedule, make, try, andre, eras, run, receiver, forget, offer, smith, tend')
+
+('VBZ', 'evans, underscores, throws, makes, seems, teammates, comes, biases, logjam, sounds, redskins, generates, goes, appears, requires, gives, quarterbacks, becomes, ranks, uses')
+
+('JJR', 'bigger, super, easier, answer, better')
+
+('JJS', 'greatest, best')
+
+('VBD', 'spiked, talented, found, came, downgraded, broke, rooted, lead, scaled, swann, perceived, retired, figured, signified, contaminated, looked, skilled, tapped, chucked, included, agreed, reacted, entangled, stopped, appeared, put, reed, supposed, played, became, took, generated, saw, advanced, checked, passed')
+
+('VBG', 'daunting, answering, eyepopping, passing, quantifying, receiving, computing, interpreting, ignoring, adjusting, competing, developing, judging, going, seeking, enacting, getting, measuring, breaking, pinning, complicating, using, disregarding, aging, looking, trying, stretching, taking, passblocking, throwing')
+
+('VB', 'increase, keep, enough, miss, take, equivalent, attempt, demonstrating')
+
+100 most freq tokens after processing: 
+[('verdict', 378), ('trump', 336), ('1', 230), ('positive', 186), ('donald', 159), ('neutral', 132), ('like', 128), ('negative', 81), ('percent', 80), ('hillary', 80), ('data', 62), ('nt', 54), ('clinton', 53), ('2015', 48), ('one', 47), ('get', 46), ('people', 44), ('2013', 44), ('2014', 40), ('got', 39), ('police', 39), ('2016', 38), ('bill', 36), ('2012', 36), ('2', 34), ('fuck', 33), ('drivers', 33), ('weather', 32), ('state', 30), ('10', 29), ('money', 29), ('said', 28), ('obama', 28), ('2008', 28), ('president', 27), ('new', 27), ('puerto', 26), ('also', 25), ('github', 25), ('tower', 25), ('2011', 25), ('rico', 25), ('big', 24), ('think', 23), ('even', 23), ('officers', 23), ('black', 23), ('ai', 23), ('remix', 23), ('would', 22), ('know', 22), ('need', 22), ('time', 22), ('2010', 22), ('bitch', 22), ('every', 21), ('last', 21), ('number', 21), ('city', 21), ('2000', 21), ('live', 20), ('show', 20), ('n', 20), ('man', 20), ('want', 19), ('us', 19), ('way', 19), ('years', 19), ('much', 19), ('3', 19), ('news', 19), ('make', 18), ('white', 18), ('hiphop', 18), ('still', 18), ('scrabble', 18), ('receiver', 18), ('2006', 17), ('15', 17), ('call', 17), ('go', 16), ('bush', 16), ('world', 16), ('year', 16), ('average', 16), ('day', 16), ('shit', 16), ('rich', 16), ('game', 16), ('reed', 16), ('going', 15), ('could', 15), ('numbers', 15), ('5', 15), ('hilary', 15), ('2005', 15), ('according', 15), ('hurricane', 15), ('take', 14), ('many', 14)]

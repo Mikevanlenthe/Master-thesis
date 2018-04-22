@@ -1,0 +1,59 @@
+Article: food-world-cup/the-fivethirtyeight-international-food-associations-2014-world-cup
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3739
+Raw number of types: 981
+Raw Type token ratio: 0.2623696175447981
+
+100 most freq tokens before (pre)processing: 
+[(',', 8441), ('the', 7046), ('.', 4834), ('of', 3605), ('a', 3057), ('to', 2925), ('in', 2629), ('and', 2628), ('’', 2432), ('that', 1671), ('(', 1491), (')', 1491), ('s', 1332), ('for', 1207), ('is', 1187), (':', 1071), ('on', 1045), ('it', 1019), ('are', 875), ("'", 871), ('“', 855), ('”', 854), ('with', 780), ('—', 761), ('at', 760), ('we', 755), ('as', 731), ('by', 696), ('i', 692), ('but', 677), ('our', 664), ('more', 663), ('percent', 651), ('trump', 636), ('this', 612), ('they', 597), ('or', 583), ('you', 563), ('have', 538), ('t', 535), ('team-logo', 535), ('from', 534), ('who', 510), ('about', 508), ('was', 494), ('than', 481), ('one', 472), ('be', 471), ('data', 438), ('were', 434), ('an', 418), ('?', 399), ('has', 396), ('1', 384), ('not', 377), ('verdict', 377), ('their', 365), ('polls', 362), ('all', 361), ('said', 358), ('like', 352), ('there', 338), ('how', 336), ('he', 336), ('if', 317), ('so', 314), ('other', 312), ('what', 310), ('can', 308), ('people', 304), ('most', 297), ('some', 292), ('his', 289), ('those', 275), ('out', 274), ('which', 271), ('when', 271), ('had', 255), ('also', 253), ('get', 246), ('up', 237), ('each', 230), ('just', 217), ('only', 215), ('pollsters', 214), ('do', 213), ('two', 213), ('positive', 204), ('them', 196), ('will', 192), ('polling', 191), ('new', 190), ('2', 187), ('github', 186), ('its', 184), (';', 182), ('time', 182), ('points', 181), ('donald', 180), ('would', 178)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1694
+Number of types: 814
+Type token ratio: 0.4805194805194805
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'everything, dive, plurality, rest, nation, highbrow, rosie, drew, majority, audience, france, beat, contender, h3, assimilate, lede, super, fond, fry, share, clash, food, flight, rule, canada, spicy, line, czech, reputation, sense, thing, facility, person, indifference, amsterdam, datafoodworldcup, fish, eater, overlook, opinion, ireland, city, firsthand, walter, borscht, matchup, choice, menu, ingredient, tradition, kick, jazeera, roll, chile, crumpet, location, mean, cheeseburger, state, recall, result, question, penalty, poll, floor, foodhipster, order, performance, association, world, sauce, argue, project, russia1, sample, round, level, peter, array, consumer, culture, thai, let, meat, oil, process, opponent2, summer, fairness, turkey, perception, waiter, collection, turn, john, fact, matter, case, goal, plenty, contrast, objection, difference, interpretation, perform, teriyaki, taste, pursuit, pasta, experience, way, ascertain, bury, life, translation, road, ice, cup, fusion, margin, meaning, cuba, deserve, heart, belgium, tortilla, option, sleeper, group, trip, head, spot, vote, wat, mexico, agree, medal, correlation, place, vegemite, achievement, ben, think, name, deliciousness, business, sin, flour, innovation, india, vulnerability, draw, advance, run, start, tournament, fight, annihilation, knowledge, homeplate, tso, see, writer, yelp, gold, detail, poutine, dog, stage, research, specialty, rate, ethiopia, chance, request, turnout, thailand, england, team, cook, le, japan, check, move, twist, bulgogi, diner, b, pad, kebab, invention, illustration, kind, defeat, steak, dude, conduct, instance, percentage, jun, country, history, guess, abcdefghklnopqrstuvwxyz, francisco, differential5, score, everyone, york, jim, massmarket, snail, course, show, travel, cameroon, champion, la, appeal, example, burrito, cowen, face, square, silver, assimilation, europe, look, greece, come, mediterranean, lotus, papa, tuna, lot, day, market, tiebreaker6, impression, doubt, reason, choose, tokyo, edam, competitor, opposite, count, part, money, bosnia, position, survey, sweep, fly, corn, get, advantage, competition, silence, brazil, divine, bit, cocktail, hockey, voter, fringe, attempt, form, argentina, representation, number, call, kangaroo, dutch, time, america, sweden, v, spain, walk, soccer, farewell, office, globe, try, hell, cabbage, point, cuisine, tourney, los, iran, rome, sripraphai, find, win, anyone, sort, something, ate, pizza, walt, knockout, mind, death, seafood, potluck, book, algeria, cut, basis, flavor, breaking, responses4, joint, cooking, nate, unfamiliarity, buysse, nobody, record, secondplace, percent, slot, respondent, surveymonkey, restaurant, methodology, interrupting, democracy, china, garden, barcelona, match, assure, russia, sound, ringer, anchor, interest, hickey, italy, github, stuffed, tyler, eat, land, guy, palate, germany')
+
+('VBD', 'came, went, got, put, soccer, disappointed, included, heard, let, impressed, experienced, resolved, shocked, drew, wrapped, specialized, qualified, escargot, expected, seemed, grilled, mentioned, served, italy, said, lamb, met, doomed, dgrade, iran, knocked, spilled, benefited, cheesebased, varied, underrated, played, schaap, knew, fivethirtyeight, weighted, developed, posted, call, picked, agreed, cured, failed, bet, b, gave, michelinstarred, decided, simulated, asked, round, thrashed, meant, preferred, took, combined')
+
+('JJ', 'american, scale, spain, pretentious, sure, regional, delicious, actual, great, democratize, faith, costa, steak, vague, category, international, winless, robbed, republic, superfresh, middle, cuisine, belgian, indian, japanese, russian, chinese, beat, diet, sad, australian, next, possible, siam, undemocratic, remix, top, olive, last, win, unfair, french, sort, different, dependent, distinct, sympathy, fivethirtyate, long, u, stunning, standard, public, close, face, mexican, broken, second, fit, general, apparent, unpretentious, vast, translate, single, huge, ireland, korea, favorite, wrong, keen, final, opt, crust, real, rican, settle, brunch, headtohead, proteinheavy, mexico, much, least, greece, new, fourth, library, particular, cameroonian, walter, vegemite, ivorian, random, nate, deep, gyro, hipster, united, checkered, interested, bestknown, else, miserable, likely, fortunate, unfamiliar, southeast, crush, unhappy, want, additional, vietnam, familiar, alone, favorable, greek, national, mean, percent, uruguayan, certain, obscure, india, many, draw, advance, south, commentary, die, pilgrim, traditional, popularity, dominant, run, compelling, tournament, entrant, respondent, several, chilean, little, foodhipster, asian, homeplate, polled, average, see, china, protein, overall, curious, fine, political, match, italian, potential, strong, undefeated, fair, solid, awkward, worse, confident, tough, korean, wish, persian, perfect, thai, tie, african, portugal, let, predictable, ethiopia, differential, le, successful, high, strange, cheese, fantastic, italy, adequate, dish, argentinian, olympic, enough, turkey, eastern, semifinal, culinary, popular, argentina, excellent, ambitious, swiss, good, versatile, fifa, call, tasty, dutch, english, san, irish, welldeserved, sushi, germany, southern, rival, previous, bad, preferred, wild')
+
+('VBP', 'v, seem, st, think, spain, lose, get, portugal, want, england, become, prefer, cuisine, chicago, reach, say, ireland, fussy, look, come, greece, know, provide, count, go, include, china, switzerland, win, walter, nate, nondutch, stay, take, cuba, make, waffle, hope')
+
+('VBN', 'rated, foodobsessed, compared, called, set, robbed, identified, described, chosen, related, come, adapted, filed, known, named, intrigued, weighted, talented, guaranteed')
+
+('NNS', 'angeles, becomes, data, let, people, thanks, potluck, india, netherlands, ricans, frites, playins, tends, greece, nigeria, koreanamericans, foodhipsters, china, australia, need, sample, delivers')
+
+('VBG', 'choosing, amazing, eating, bustling, getting, going, looking, weighting, swing, improving, drawing, aspiring, winning, sorting, opening, depending, conducting, surveying, appealing, repeating, pulling, talking, hankering, dominating, consuming, trying, assimilating, middling, commanding')
+
+('VB', 'seem, think, resolve, show, stuff, raise, claim, prove, iranian, mueslixed, cuisine, like, draw, say, consider, ensure, vote, look, agree, eat, weighted, go, see, find, win, argue, b, match, take, sort, remove, make')
+
+('JJS', 'closest, least, best')
+
+('VBZ', 'angeles, suggests, al, deserves, america, involves, requires, netherlands, seems')
+
+('NNP', 'mexico, vietnam')
+
+('JJR', 'harder, higher, tougher, better, contender')
+
+100 most freq tokens after processing: 
+[('percent', 661), ('trump', 653), ('poll', 544), ('teamlogo', 539), ('one', 521), ('1', 478), ('data', 442), ('verdict', 380), ('like', 378), ('said', 366), ('pollster', 321), ('people', 312), ('year', 292), ('number', 280), ('get', 279), ('point', 260), ('also', 257), ('2', 253), ('time', 246), ('10', 244), ('state', 232), ('two', 217), ('election', 213), ('11', 211), ('positive', 205), ('new', 194), ('13', 192), ('polling', 192), ('would', 186), ('github', 186), ('donald', 185), ('u', 184), ('14', 182), ('film', 181), ('result', 179), ('voter', 179), ('many', 178), ('%', 178), ('3', 177), ('average', 171), ('see', 170), ('12', 170), ('make', 168), ('republican', 168), ('much', 164), ('15', 164), ('likely', 159), ('even', 156), ('first', 153), ('american', 153), ('may', 150), ('woman', 149), ('rating', 149), ('candidate', 148), ('league', 146), ('group', 140), ('since', 139), ('neutral', 138), ('5', 137), ('among', 136), ('way', 132), ('model', 132), ('day', 130), ('week', 130), ('16', 128), ('president', 127), ('question', 127), ('three', 127), ('think', 126), ('vote', 125), ('player', 125), ('percentage', 124), ('last', 123), ('take', 122), ('win', 122), ('look', 119), ('2014', 119), ('team', 119), ('still', 118), ('season', 118), ('rate', 118), ('17', 117), ('4', 116), ('race', 114), ('respondent', 114), ('le', 113), ('clinton', 111), ('national', 111), ('game', 111), ('2016', 110), ('show', 110), ('least', 110), ('go', 108), ('every', 108), ('another', 107), ('say', 106), ('20', 106), ('well', 104), ('world', 104), ('6', 104)]

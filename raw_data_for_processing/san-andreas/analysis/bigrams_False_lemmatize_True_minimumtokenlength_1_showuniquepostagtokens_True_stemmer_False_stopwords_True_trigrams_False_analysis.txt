@@ -1,0 +1,57 @@
+Article: san-andreas
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 627
+Raw number of types: 277
+Raw Type token ratio: 0.44178628389154706
+
+100 most freq tokens before (pre)processing: 
+[(',', 2620), ('(', 894), (')', 894), ("'", 870), ('the', 648), (':', 429), ('our', 389), ('verdict', 377), ('trump', 330), ('.', 298), ('in', 283), ('of', 273), ('a', 270), ('to', 243), ('and', 235), ('1', 223), ('i', 214), ('positive', 185), ('donald', 155), ('that', 138), ('neutral', 132), ('’', 124), ('on', 122), ('like', 114), ('for', 103), ('it', 101), ('is', 97), ('/', 96), ('with', 85), ('you', 84), ('at', 84), ('s', 83), ('negative', 81), ('hillary', 79), ("'m", 76), ('my', 68), ('was', 66), ("'s", 62), ('percent', 62), ('me', 62), ('we', 60), ('but', 59), ('from', 57), ('than', 54), ('more', 53), ("n't", 50), ('about', 50), ('clinton', 50), ('by', 47), ('2015', 46), ('have', 45), ('were', 45), ('data', 44), ('this', 44), ('2013', 44), ('they', 43), ('be', 42), ('--', 41), ('up', 41), ('all', 39), ('police', 39), ('are', 39), ('has', 39), ('as', 38), ('people', 38), ('?', 37), ('get', 37), ('—', 37), ('not', 37), ('2016', 37), ('who', 36), ('bill', 36), ('got', 36), ('do', 34), ('2014', 34), ('2012', 34), ('“', 33), ('”', 33), ('fuck', 33), ('or', 33), ('drivers', 33), ('just', 32), ('his', 32), ('weather', 32), ('one', 31), ('out', 30), ('t', 29), ('he', 29), ('2', 29), ('so', 28), ('money', 28), ('an', 27), ('2008', 27), ('obama', 27), ('state', 27), ('their', 26), ('what', 26), ('puerto', 26), ('if', 25), ('no', 25)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 289
+Number of types: 196
+Type token ratio: 0.6782006920415224
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'think, rock, man, dwayne, get, movie, way, supervolcano, kind, office, earthquake, film, thing, sense, card, fear, quake, california, risk, evacuation, hickey, yellowstone, percent, state, audience, github, draw, probability, weekend, idea, jun, charbonneau, lifetime, plan, region, census, ap, respondent, magma, situation, poll, anxiety, span, mississippi, turn, jack, come, treat, family, end, formula, anything, kit, ok, world, disaster, johnson, coast, happen, year, story, pacific, precaution, time, deal, hollywood, deck, builtin, make, play, walt, lot, survey, expectation, gosh')
+
+('NNS', 'data, people, attends, datasanandreas, tcl, andreas')
+
+('VBD', 'left, commissioned, said, crushed, worried, know')
+
+('JJ', 'american, eric, survival, legitimate, full, likely, stuff, active, andreas, theatre, u, west, basic, box, noncontiguous, immediate, chinese, lifetime, favorite, surveymonkey, catastrophic, massive, little, ‘, tectonic, big, much, geological, good, third, worried, last, coast, pacific, san, overall, sound, major, bad')
+
+('VBN', 'worried, destroyed, taken, filed')
+
+('VBP', 'think, overestimate, dwayne, ‘, random, check, fear, go, magnitude, know, occur, abides, fault')
+
+('VBG', 'beating, playing, coming, starring, buying, going, rocking, making, destroying, according, pulling')
+
+('VBZ', 'lot, rebuilt')
+
+('VB', 'argue, need, break, settle')
+
+('JJR', 'lower, larger')
+
+('JJS', 'west')
+
+100 most freq tokens after processing: 
+[('verdict', 379), ('trump', 346), ('1', 231), ('positive', 185), ('donald', 160), ('neutral', 132), ('like', 122), ('hillary', 81), ('negative', 81), ('percent', 72), ('nt', 56), ('clinton', 55), ('one', 48), ('get', 48), ('data', 48), ('2015', 48), ('people', 46), ('2013', 44), ('driver', 44), ('bill', 43), ('state', 41), ('got', 40), ('police', 39), ('2016', 38), ('tower', 38), ('2014', 36), ('2012', 35), ('fuck', 34), ('2', 33), ('city', 32), ('weather', 32), ('president', 31), ('year', 31), ('said', 30), ('money', 30), ('obama', 29), ('10', 28), ('number', 28), ('2008', 28), ('show', 26), ('bitch', 26), ('puerto', 26), ('2011', 25), ('rico', 25), ('think', 24), ('need', 24), ('officer', 24), ('big', 24), ('u', 23), ('black', 23), ('remix', 23), ('would', 22), ('know', 22), ('time', 22), ('way', 22), ('2010', 22), ('ai', 22), ('want', 21), ('also', 21), ('make', 20), ('new', 20), ('3', 20), ('live', 20), ('2000', 20), ('n', 20), ('man', 20), ('look', 19), ('last', 19), ('github', 19), ('news', 19), ('go', 18), ('bush', 18), ('every', 18), ('white', 18), ('hiphop', 18), ('day', 18), ('still', 18), ('hurricane', 18), ('world', 17), ('even', 17), ('call', 17), ('going', 16), ('much', 16), ('figure', 16), ('2006', 16), ('shit', 16), ('reference', 16), ('15', 16), ('many', 15), ('come', 15), ('could', 15), ('hilary', 15), ('2005', 15), ('according', 15), ('country', 14), ('well', 14), ('back', 14), ('whether', 14), ('rich', 14), ('2009', 14)]

@@ -1,0 +1,59 @@
+Article: science-giving
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1698
+Raw number of types: 578
+Raw Type token ratio: 0.3404004711425206
+
+100 most freq tokens before (pre)processing: 
+[(',', 3194), ('the', 1421), ('(', 949), (')', 949), ("'", 870), ('.', 798), ('of', 642), ('in', 627), ('a', 605), ('to', 526), (':', 471), ('and', 462), ('our', 420), ('verdict', 377), ('’', 370), ('trump', 337), ('that', 316), ('i', 254), ('is', 244), ('for', 240), ('1', 235), ('s', 227), ('it', 222), ('on', 218), ('positive', 188), ('with', 187), ('more', 160), ('donald', 155), ('this', 151), ('by', 150), ('like', 146), ('we', 145), ('as', 141), ('at', 140), ('percent', 135), ('neutral', 133), ('but', 130), ('—', 121), ('are', 120), ('you', 117), ('than', 110), ('from', 110), ('have', 106), ('was', 101), ('/', 100), ('about', 98), ('be', 93), ('or', 90), ('has', 85), ('data', 82), ('negative', 82), ('an', 81), ('“', 80), ('”', 80), ('his', 80), ('hillary', 80), ('one', 79), ("'m", 76), ('t', 76), ('not', 74), ('my', 74), ('state', 74), ('they', 72), ('he', 68), ('model', 68), ('me', 66), ('were', 65), ('polls', 65), ("'s", 62), ('all', 61), ('up', 61), ('?', 60), ('other', 59), ('so', 58), ('can', 57), ('when', 57), ('how', 56), ('their', 56), ('there', 55), ('which', 54), (';', 54), ('some', 54), ('get', 53), ('most', 52), ('who', 52), ('out', 51), ('clinton', 51), ("n't", 50), ('if', 50), ('just', 48), ('2014', 47), ('2016', 47), ('2015', 47), ('what', 47), ('people', 47), ('2', 47), ('points', 45), ('do', 44), ('only', 44), ('those', 44)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 862
+Number of types: 457
+Type token ratio: 0.5301624129930395
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'expertise, antiscience, foundation, work, petition, data, rest, kind, accelerator, clinton, office, slant, organization, engineering, california, party, senator, action, point, nonprofit, election, eightterm, iran, contender, center, component, washington, involvement, ability, health, moment, assert, contest, laboratory, wieder, speak, find, trippi, list, activity, scientist, deal, something, line, trump, jerry, preference, democrat, length, dollar, bring, barack, joe, doctors2, researcher, committee, thing, example, field, u, letter, romney, face, side, finance, fec, half, worry, rep, square, group, house, bachelor, doctor, strategist, service, mcnerney, plan, kid, session, change, begin, physicist, policy, truth, cruz, race, period, look, cut, labor, bill, board, support, skew, society, march, senate, profession, organizer, grievance, restriction, importance, lot, sen, pew, mall, think, obama, donor, roll, rus, donate, decision, caroline, plunge, leadership, communication, engagement, pure, politician, engineer, percent, mitt, incumbent, run, community, issue, illinois, government, pennsylvania, funding, knowledge, credit, association, budget, world, count, decade, past, doctorate, pocket, supporter, president, administration, analysis, money, adult, holt, scope, variation, donation, bureau, identify, survey, event, clark, population, hampshire, get, stark, cycle, bid, research, cq, inflation, candidate, guidance, friend, congress, advancement, concern, recipient, street, github, member, science, amount, naughton, degree, giver, occupation, wake, discipline, training, drug, fact, campaign, goal, fund, call, year, time, platform, difference, foster, commission, perform, lawyer, deliberation')
+
+('VBZ', 'includes, democrat, support')
+
+('JJ', 'fermi, american, feingold, responsible, individual, independent, massachusetts, ideological, federal, washington, dirty, top, last, continued, pick, financial, scientist, tell, abstain, democratic, nuclear, democrat, prospective, long, u, public, side, engineers5, significant, cruz, recent, much, new, rush, support, particular, twothirds, march, senate, warren, ben, pew, presidential, unprecedented, statistic, climate, professional, generous, wisconsinite, describe, total, protest, willingness, brown, technological, shaughnessy, politician, national, percent, many, hillary, overblown, run, illinois, liberal, selfidentified, technical, texas, see, past, overall, subsequent, political, nonpartisan, former, unsuccessful, increased, elizabeth, partisan, avoid, responsive, saturday, active, fellow, le, electoral, advancement, consistent, arm, detrimental, entire, degree, scientific, republican, separate, invite, beneficiary, social, purpose, foster, doctoral, scientists4, congressional')
+
+('VBD', 'went, feingold, attended, received, donated, tended, specialized, veteran, background, started, served, accounted, fell, said, filed, topped, joked, favored, proposed, lawyers3, selfidentified, excluded, worked, provided, affiliated, gave, ted, persuade, showed, raised, scott, held, sen, took')
+
+('NNS', 'felt, data, engineer, people, organizer, github, politics, warren, mathematics, texas')
+
+('VBG', 'understanding, finding, thinking, signing, taking, jointfundraising, considering, funding, giving, going, growing, acting, leaning, datasciencegiving, running, according, aspiring')
+
+('VBP', 'think, give, show, get, weinberg, donate, saturday, want, friend, worry, say, naughton, massachusetts, geologist, provide, go, see, foster, join, take, engineering1, deep, need, make, hope, account, democrat')
+
+('VBN', 'lost, candidateaffiliated, called, considered, involved, found, imposed, given, decided, identified, described, explained, adjusted, chosen, skewed, organized, asked, enacted, shown, increased')
+
+('NNP', 'washington')
+
+('VB', 'find, use, emphasize, keep, establish, take, come, go, politicize, affect')
+
+('JJS', 'largest, least, secondlargest, biggest')
+
+('JJR', 'smaller, higher')
+
+100 most freq tokens after processing: 
+[('verdict', 379), ('trump', 353), ('1', 244), ('positive', 188), ('donald', 160), ('like', 154), ('percent', 145), ('neutral', 133), ('one', 100), ('state', 100), ('poll', 93), ('data', 86), ('hillary', 82), ('negative', 82), ('model', 77), ('candidate', 72), ('get', 71), ('year', 70), ('number', 60), ('nt', 56), ('clinton', 56), ('people', 55), ('point', 55), ('2', 52), ('republican', 52), ('bill', 50), ('2014', 49), ('2015', 49), ('time', 48), ('2016', 48), ('election', 48), ('would', 47), ('also', 46), ('2013', 44), ('2012', 44), ('driver', 44), ('said', 42), ('make', 42), ('average', 42), ('got', 41), ('much', 39), ('10', 39), ('police', 39), ('show', 39), ('president', 38), ('race', 38), ('tower', 38), ('new', 37), ('obama', 37), ('democrat', 37), ('way', 36), ('3', 36), ('github', 36), ('day', 36), ('money', 35), ('win', 35), ('forecast', 35), ('think', 34), ('two', 34), ('fuck', 34), ('2008', 34), ('senate', 34), ('even', 33), ('weather', 33), ('city', 32), ('u', 31), ('party', 31), ('case', 31), ('receiver', 31), ('name', 30), ('scientist', 30), ('polling', 29), ('gorsuch', 29), ('know', 28), ('go', 28), ('last', 28), ('likely', 28), ('5', 28), ('fivethirtyeight', 28), ('voter', 28), ('look', 27), ('2010', 27), ('estimate', 27), ('percentage', 27), ('need', 26), ('every', 26), ('example', 26), ('bitch', 26), ('puerto', 26), ('could', 25), ('political', 25), ('based', 25), ('big', 25), ('2011', 25), ('rico', 25), ('want', 24), ('well', 24), ('first', 24), ('many', 24), ('officer', 24)]

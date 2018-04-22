@@ -1,0 +1,57 @@
+Article: police-locals
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1096
+Raw number of types: 369
+Raw Type token ratio: 0.33667883211678834
+
+100 most freq tokens before (pre)processing: 
+[(',', 1243), ("'", 618), ('(', 608), (')', 608), ('the', 73), ('.', 49), ('of', 40), ('police', 35), ('to', 34), ('in', 28), ('a', 23), ('officers', 23), ('city', 21), (':', 20), ('percent', 20), ('’', 18), ('``', 15), ("''", 15), ('s', 15), ('live', 15), ('is', 14), ('cities', 11), ('on', 11), ('and', 11), ('for', 11), ("'we", 10), ('data', 10), ('tokens', 9), ("'to", 9), ("'and", 9), ("'that", 9), ("'i", 9), ('but', 9), ('are', 9), ('census', 9), ('most', 8), ("'s", 8), ("'going", 8), ("'percent", 8), ("'want", 8), ("'need", 8), ('have', 8), ('do', 8), ('ferguson', 8), ('black', 8), ('its', 8), ('—', 8), (';', 8), ('100', 7), ("'in", 7), ("'you", 7), ("'have", 7), ('we', 7), ('racial', 7), ('with', 7), ('within', 7), ('freq', 6), ('[', 6), ("'trump", 6), ("'people", 6), ("'one", 6), ("'would", 6), ("'said", 6), ("'get", 6), ("'know", 6), ("'applause", 6), ("'like", 6), ('915', 6), ("'president", 6), ("'think", 6), ("'country", 6), ("'well", 6), ("'1", 6), (']', 6), ('re', 6), ('force', 6), ('also', 6), ('limits', 6), ('there', 6), ('residency', 6), ('has', 6), ("'of", 5), ("'is", 5), ("'it", 5), ("'for", 5), ("'on", 5), ("'this", 5), ("'they", 5), ("'do", 5), ("'at", 5), ("'if", 5), ("'thank", 5), ('they', 5), ('this', 5), ('that', 5), ('outside', 5), ('from', 5), ('white', 5), ('requirement', 5), ('note', 4)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 569
+Number of types: 287
+Type token ratio: 0.5043936731107206
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'detailed, requirement, hispanic, previous, major, complete, american, st, small, missouri, nate, available, atlanta, eeoc, relax, louis, searchable, getty, github, private, birmingham, percent, likely, true, advantage, table, category, racial, suggestive, black, active, ferguson, pm, teenager, outside, average, strict, impose, large, equal, high, statistic, common, new, philadelphia, metro, white, many, live, regard, civilian')
+
+('NNS', 'degrees, regulations, readers, years, ones, resides, workers, demographics, police, events, angeles, images, reasons, details, data, gaps, officers, datapolicelocals, cities, demonstrators, sheriffs, limits, requirements, twothirds, factors, varies, forces, whereas, others, protests, asterisks, communities, differences, figures, debates, numbers, boundaries, counts, populations, memphis, boroughs')
+
+('VBP', 'census, mean, serve, miami, reflect, los, atlanta, detroit, police, aug, require, exclude, reside, stark, include, continue, ferguson, come, furthermore, charge, chicago, take, force, commute, make, philadelphia, live, tennessee')
+
+('NN', 'move, census, requirement, honolulu, washington, something, area, st, los, opportunity, district, github, geography, joe, arrest, officer, police, percent, work, disparity, diversity, government, york, divide, post, misrepresentation, require, security, gap, town, analysis, boston, debate, majority, role, jackson, article, category, version, reside, combination, tuesday, effort, differ, raedle, silver, shooting, month, population, ferguson, composition, commission, employment, half, contrast, pm, type, spotcheck, average, city, jacksonville, reporting, department, detail, force, bureau, example, error, group, get, provision, note, alabama, size, correction, figure, philadelphia, residency, share, mississippi, clause')
+
+('VBN', 'detailed, used, tied, filed, alerted, estimated, required, given, compared')
+
+('VBD', 'aug, found, discovered, missouri, flouted, set, included, louis, said, florida, enforced, allowed')
+
+('VBG', 'varying, following, living, troubling, going, using, arguing, sprawling')
+
+('JJS', 'starkest, largest')
+
+('VBZ', 'angeles, comes, suggests, includes, plays, estimates')
+
+('VB', 'margin, changed, reflect, jurisdiction, shape, vary, transit')
+
+('JJR', 'outlier, fewer')
+
+100 most freq tokens after processing: 
+[('police', 35), ('percent', 28), ('officers', 23), ('city', 21), ('live', 15), ('data', 13), ('need', 11), ('cities', 11), ('going', 10), ('tokens', 9), ('also', 9), ('census', 9), ('nt', 8), ('one', 8), ('know', 8), ('want', 8), ('think', 8), ('ferguson', 8), ('black', 8), ('100', 7), ('would', 7), ('said', 7), ('get', 7), ('racial', 7), ('within', 7), ('freq', 6), ('trump', 6), ('people', 6), ('applause', 6), ('like', 6), ('915', 6), ('president', 6), ('country', 6), ('well', 6), ('1', 6), ('us', 6), ('many', 6), ('force', 6), ('limits', 6), ('residency', 6), ('years', 5), ('thank', 5), ('new', 5), ('american', 5), ('may', 5), ('outside', 5), ('white', 5), ('requirement', 5), ('note', 4), ('2022', 4), ('1865', 4), ('1753', 4), ('1223', 4), ('1203', 4), ('1117', 4), ('1091', 4), ('1059', 4), ('980', 4), ('926', 4), ('924', 4), ('892', 4), ('855', 4), ('839', 4), ('814', 4), ('779', 4), ('770', 4), ('make', 4), ('states', 4), ('every', 4), ('492', 4), ('take', 4), ('whether', 4), ('population', 4), ('ones', 4), ('example', 4), ('converted', 3), ('lowercase', 3), ('applied', 3), ('filters', 3), ('raw', 3), ('11094', 3), ('7927', 3), ('7883', 3), ('4962', 3), ('3582', 3), ('3315', 3), ('3036', 3), ('2978', 3), ('2835', 3), ('2529', 3), ('2351', 3), ('2321', 3), ('2021', 3), ('1993', 3), ('1964', 3), ('1918', 3), ('1917', 3), ('1856', 3), ('1843', 3), ('1612', 3)]

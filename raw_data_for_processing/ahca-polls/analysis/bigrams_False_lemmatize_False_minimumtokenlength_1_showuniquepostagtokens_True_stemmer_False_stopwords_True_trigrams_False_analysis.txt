@@ -1,0 +1,61 @@
+Article: ahca-polls
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1979
+Raw number of types: 670
+Raw Type token ratio: 0.33855482566953005
+
+100 most freq tokens before (pre)processing: 
+[(',', 5033), ('the', 3730), ('.', 2380), ('of', 1862), ('to', 1551), ('a', 1510), ('in', 1450), ('and', 1339), ('’', 1183), ('(', 954), (')', 954), ('that', 869), (':', 717), ("'", 665), ('s', 657), ('is', 612), ('for', 603), ('it', 569), ('our', 530), ('on', 526), ('are', 444), ('“', 442), ('”', 442), ('with', 416), ('trump', 404), ('at', 400), ('i', 384), ('we', 379), ('more', 379), ('verdict', 377), ('by', 373), ('as', 362), ('but', 343), ('—', 342), ('this', 328), ('percent', 326), ('you', 323), ('they', 315), ('1', 302), ('have', 281), ('than', 281), ('who', 272), ('t', 271), ('about', 271), ('from', 271), ('or', 268), ('be', 260), ('was', 259), ('one', 249), ('like', 233), ('data', 227), ('said', 221), ('their', 210), ('an', 209), ('were', 197), ('positive', 195), ('all', 190), ('not', 190), ('pollsters', 187), ('polls', 185), ('most', 183), ('has', 182), ('if', 172), ('there', 166), ('can', 165), ('donald', 165), ('people', 164), ('how', 159), ('other', 158), ('?', 157), ('those', 157), ('what', 155), ('so', 153), ('some', 150), ('out', 148), ('when', 148), ('get', 141), ('which', 140), ('up', 137), ('he', 136), ('neutral', 133), ('also', 128), ('each', 126), ('/', 124), ('just', 124), ('his', 120), ('will', 119), ('do', 118), ('only', 117), ('my', 108), ('two', 108), ('number', 108), ('polling', 108), ('had', 105), ('2', 105), ('github', 104), ('would', 102), ('its', 97), ('10', 97), ('me', 95)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 982
+Number of types: 554
+Type token ratio: 0.5641547861507128
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'obamacare, prosperity, association, act, think, leader, supporters1, freedom, percent, push, payroll, campaign, influence, anything, york, agreement, divide, rifle, talk, msnbc, senate, core, thing, gop, plan, america, change, house, side, kaiser, place, charge, lee, ideology, bacon, alaska, repeal, get, effect, rhetoric, club, paint, law, impeach, conclusive, research, obama, disapprove, highprofile, jun, event, determine, aca, jordan, survey, growth, drutman, reason, control, tank, goal, coverage, congress, middleclass, mike, version, trump, effort, tax, insurance, jr, caucus, scientist, mcconnell, hellbent, year, mehta, bill, example, administration, plurality, promise, today, part, veto, care, argument, mitch, poll, kind, thenpresident, dhrumil, play, science, analysis, reform, majority, role, show, feel, ahca, murkowski, climate, route, try, congressman, medicaid, investment, set, fallout, health, leave, enrollment, antitrump, labor, life, washington, something, day, office, view, ohio, time, expansion, leery, school, cut, power, party, list, host, partyasorganization, sense, money, monkey, income, chamber, support, opinion, contrast, policy, way, fivethirtyeight, put, radio, provide, nothing, president, program, conservativemoderate, figure, agenda, rally, commentator, legislation, statement, help, college')
+
+('JJ', 'financial, obamacare, current, national, available, next, confident, effective, percent, push, divide, specific, wrong, young, academic, political, gop, everyday, impossible, lee, repeal, paris, common, ideas, new, understand, congressional, free, american, affordable, obama, hard, poorest, eager, right, drutman, regular, oval, congress, touch, trump, republican, difficult, comprehensive, liberal, moderate, give, large, high, jim, politifact, possible, weight, powerful, major, primary, democratic, promising, outlandish, popular, likely, loyal, main, public, medical, deliver, wealthy, invested, stay, good, negative, ahca, top, exhaustive, interesting, enough, consume, reluctant, latter, adopt, ineffective, white, sure, mean, several, elected, favorable, january, unpopular, conservative, much, stealthy, electoral, implement, utah, universal, recent, key, clear, anguish, advantageous, politician, pass, keep, poor, garden, titled, many, tend')
+
+('VBG', 'happening, holding, abandoning, handling, consisting, rescuing, reversing, voting, passing, meaning, pushing, organizing, competing, withdrawing, allowing, opposing, going, saying, making, emerging, appealing, getting, annoying, satisfying, reforming, keeping, knocking, casting, including, according, misleading, repealing, trying, collapsing, rolling, determining, giving, backing')
+
+('VBP', 'mean, turn, hate, want, know, github, think, seem, pittsburgh, annoy, predecessor, control, need, tend, suggest, prove, favor, cry, partyasorganization, congress, premiums, show, republican, gop, support, rep, charge, give, defines, lisa, provide, argue, repeal, oppose, get, approve, make, spend, help, perry, say')
+
+('VBD', 'pushed, reflected, basked, wrote, determined, found, conducted, filed, jazzed, contributed, ended, oped, showed, rose, boomed, knocked, spent, meant, campaigned, added, said, invested, made, gop, adopted, put, cared, brought, handled, medicaid, announced, took, promised, discussed, passed')
+
+('VB', 'point, obamacare, write, elected, enact, buy, want, left, hurt, assume, follow, subsidize, replace, support, feel, take, revolt, accomplish, minimize, repeal, identify, get, prefer, make, try, emphasize, allow')
+
+('NNS', 'tens, democrats, dataahcapolls, marketplaces, accomplishments, elites, companies, purists, liberals, markets, groups, ones, services, lowers, scientists, things, polls, goals, github, duh, customers, principles, taxes, cuts, times, unions, views, parties, voters, causes, reasons, elections, data, studies, ways, actions, premiums, trump, policies, presidents, troops, americans, races, motives, limits, incentives, constituents, conservatives, steps, volunteers, plans, millions, chambers, charles, credits, candidates, people, experts, members, officials, doors, sykes, others, promises, donors, insurers, supporters, states, votes, pledges, politics, proposals, enemies, activists, sections, republicans, fortunes, celebrations, bills, parts, politicians, dollars')
+
+('NNPS', 'republicans')
+
+('VBZ', 'covers, americans, marketplaces, redistributes, helps, increases, feels, december, includes, provides, allows, conservatives, drives, leaves, keeps, republicans')
+
+('VBN', 'associated, viewed, elected, charged, medicaid, offered, defined, told, signed, promised, passed, compared, dcbased')
+
+('NNP', '‘')
+
+('JJR', 'younger, older, cheaper')
+
+('JJS', 'suggest')
+
+100 most freq tokens after processing: 
+[('trump', 411), ('verdict', 378), ('percent', 334), ('1', 320), ('one', 258), ('like', 239), ('data', 230), ('said', 227), ('positive', 195), ('polls', 189), ('pollsters', 187), ('people', 170), ('donald', 169), ('get', 147), ('neutral', 133), ('also', 131), ('10', 114), ('2', 112), ('two', 111), ('number', 109), ('polling', 109), ('would', 108), ('github', 104), ('many', 98), ('state', 98), ('new', 97), ('poll', 95), ('3', 94), ('time', 92), ('first', 88), ('year', 88), ('points', 88), ('hillary', 87), ('election', 87), ('negative', 85), ('model', 85), ('much', 84), ('last', 82), ('us', 81), ('likely', 81), ('women', 80), ('even', 79), ('2016', 79), ('national', 79), ('5', 78), ('use', 78), ('films', 77), ('average', 75), ('make', 72), ('2014', 71), ('see', 70), ('clinton', 70), ('2015', 69), ('numbers', 68), ('think', 66), ('republican', 66), ('may', 66), ('another', 65), ('classic', 64), ('got', 63), ('6', 63), ('senate', 63), ('states', 62), ('three', 62), ('results', 62), ('among', 61), ('2012', 61), ('rock', 61), ('know', 60), ('way', 60), ('years', 60), ('asked', 60), ('bill', 60), ('4', 60), ('candidates', 59), ('less', 59), ('money', 58), ('film', 58), ('republicans', 57), ('every', 56), ('example', 56), ('found', 56), ('nt', 55), ('want', 55), ('since', 55), ('day', 55), ('2013', 55), ('win', 55), ('percentage', 54), ('americans', 54), ('president', 53), ('say', 53), ('whether', 53), ('20', 53), ('police', 53), ('still', 53), ('well', 52), ('world', 52), ('15', 51), ('vote', 51)]

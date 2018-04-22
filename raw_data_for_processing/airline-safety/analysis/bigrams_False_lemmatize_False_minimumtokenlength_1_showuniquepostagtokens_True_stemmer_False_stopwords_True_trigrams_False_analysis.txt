@@ -1,0 +1,57 @@
+Article: airline-safety
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2101
+Raw number of types: 620
+Raw Type token ratio: 0.2950975725844836
+
+100 most freq tokens before (pre)processing: 
+[(',', 7083), ('the', 6130), ('.', 4052), ('of', 3071), ('a', 2545), ('to', 2500), ('in', 2339), ('and', 2228), ('’', 2031), ('that', 1409), ('(', 1192), (')', 1192), ('s', 1109), ('for', 1050), ('is', 1008), (':', 961), ('on', 902), ('it', 840), ('are', 740), ('“', 714), ('”', 713), ("'", 665), ('with', 663), ('at', 638), ('trump', 633), ('as', 629), ('by', 610), ('our', 604), ('we', 602), ('—', 598), ('more', 596), ('i', 565), ('but', 559), ('they', 536), ('team-logo', 535), ('this', 515), ('or', 484), ('you', 474), ('percent', 469), ('t', 456), ('from', 455), ('have', 453), ('who', 447), ('about', 444), ('than', 432), ('was', 431), ('be', 412), ('one', 410), ('verdict', 377), ('were', 375), ('1', 371), ('polls', 360), ('an', 357), ('has', 346), ('data', 342), ('not', 333), ('?', 331), ('all', 319), ('their', 316), ('said', 301), ('like', 300), ('he', 292), ('how', 280), ('if', 278), ('there', 278), ('other', 277), ('so', 262), ('most', 261), ('his', 260), ('can', 258), ('some', 248), ('those', 246), ('what', 241), ('people', 238), ('which', 236), ('when', 229), ('pollsters', 214), ('get', 213), ('had', 213), ('out', 212), ('also', 208), ('up', 204), ('positive', 203), ('just', 193), ('each', 191), ('polling', 191), ('only', 182), ('two', 182), ('2', 182), ('donald', 179), ('%', 178), ('do', 176), ('poll', 176), ('points', 172), (';', 171), ('number', 166), ('time', 164), ('new', 163), ('them', 163), ('will', 162)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 980
+Number of types: 507
+Type token ratio: 0.5173469387755102
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'addition, december, amsterdam, score, number, crash, simplification, percent, disappearance, post, risk, typos, chart, jul, mh17, pm, australia, average, fact, distinction, home, russia, avoid, load, wealth, statistic, china4, extent, effect, jan, form, method, safety, persistent, china, thursday, record, insistent, aviation, blacklist, correction, call, track, article, version, series, record9, define, silver, airline, half, correlation, ordering, evidence, exception, future, year, ask, tenerife, malaysia, calculate, size, fatality, kenya, product, definition, denominator, disaster, none, union, kind, fly, understood, canada, sample, root, lumpur, rate, period, next6, ethiopia, breakup, church, country, july, carrier, morocco, take, account, look, rule, kong, database, kuala, seat, lot, conclusion, colombia, industry, set, instance, imply, study, one5, increase, something, flight, forth, pakistan, nate, fault, region, time, github, indonesia, dataairlinesafety, basis, air, kilometer, measure, list, march, contrast, way, planning, kingdom, incident, network, afford, result, eagle, credit, probability')
+
+('NNS', 'scores, regulations, passengers, prices, readers, years, miles, halves, asks, kilometers, airlines, github, subsidiaries, carriers, flies, nearmisses, nicolas, assumptions, events, fatalities, cases, outliers, images, travelers, countries, times, hijackings, causes, ways, data, studies, accidents, glows, philippines, airways, aspects, crashes, flights, categories, netherlands, qantas, changes, victims, tables, rates, factors, people, ranks, mergers, maroc, records, deviations, problems, others, candles, states, churchgoers, incidents, disasters, figures, seats, numbers, measures, injuries, standards')
+
+('VBP', 'fatalityfree, flagship, flown, pray, fly, passenger, asks, shrunk, want, affect, airlines, github, eu, crash, indicate, multiply, follow, produce, air, behavior, exclude, represent, crew, read, include, travel, transit, chart, consistent, contrast, safer, occur, rare, belong, flies1, russia, avoid, malaysia, taiwan, calculate, asfouri, see, southwest, appear, let, colombia, run, cause, definition')
+
+('VBG', 'looking, ignoring, assuming, following, involving, increasing, developing, calculating, simplifying, going, making, downing, beijing, flying, insisting, minimizing, avoiding')
+
+('JJ', 'percapita, stringent, low, december, useful, dangerous, raw, unadjusted, available, national, next, preliminary, hong, culpable, crash, preventing, true, inclined, proper, catastrophic, ‘, category, academic, standard, strong, strong8, famous, average, necessary, domestic, fatal, friday, particular, positive, predict, blame, american, soviet, highprofile, predictable, reflect, right, airlines, massive, safe, nonfatal, gross, consistent, random, memorial, future, international, regional, onequarter, high, ethiopian, break, attempted, previous, major, single, modest, incorrect, small, avianca, sample, getty, 30year, subtract, relative, public, follow, afp, european, likelihood, negative, expensive, top, identify, taiwan, surprising, square, egypt, united, significant7, couple, germany, mean, flown, pakistan, earthquakes, controversial, overall, much, table, commercial, recent, subject, simple, list, operational, past, second, constant, middle, ukraine, rational, resulted, important, global, first, third, update, delta, unseen, worst, assign, mysterious, many')
+
+('VBN', 'described, found, filed, missed, associated, achieved, defined, given, compared, grown, used, involved, put, based, combined, applied, listed, taken, united, filled, related')
+
+('VB', 'standardize, get, prefer, see, try, buy, demand, combine, result, compare, provide, better')
+
+('VBD', 'found, changed, multiplied, doublechecked, inserted, lumpur, viewed, confused, looked, operated, corrected, excluded, gdp, posted, grouped, sorted, july, reported, united, set, filled')
+
+('VBZ', 'assumes, follows, lists, australia, tells, halves, means, blacklists, gives, glows, nearmisses')
+
+('JJR', 'malaysia, safer, higher, richer, older, fewer, smaller, larger, outlier, answer')
+
+('JJS', 'worst, northwest')
+
+100 most freq tokens after processing: 
+[('trump', 640), ('teamlogo', 538), ('percent', 477), ('1', 460), ('one', 419), ('verdict', 378), ('polls', 364), ('data', 345), ('said', 307), ('like', 306), ('2', 247), ('people', 244), ('10', 224), ('get', 219), ('pollsters', 214), ('also', 211), ('positive', 203), ('11', 202), ('polling', 192), ('two', 185), ('donald', 183), ('13', 181), ('%', 178), ('poll', 176), ('14', 174), ('3', 172), ('points', 172), ('time', 167), ('number', 167), ('new', 166), ('12', 165), ('would', 164), ('github', 161), ('many', 156), ('15', 155), ('average', 153), ('election', 147), ('much', 142), ('league', 142), ('us', 141), ('first', 138), ('see', 138), ('neutral', 136), ('voters', 136), ('5', 134), ('year', 132), ('even', 130), ('since', 126), ('may', 122), ('likely', 121), ('years', 118), ('last', 116), ('16', 116), ('president', 114), ('state', 114), ('three', 114), ('17', 113), ('4', 113), ('clinton', 109), ('among', 109), ('percentage', 108), ('results', 108), ('pollster', 107), ('2016', 104), ('make', 103), ('women', 102), ('think', 101), ('2014', 101), ('national', 101), ('6', 100), ('season', 100), ('films', 100), ('still', 99), ('hillary', 98), ('republican', 98), ('less', 98), ('19', 95), ('every', 94), ('20', 94), ('use', 94), ('way', 93), ('another', 92), ('8', 92), ('negative', 92), ('numbers', 91), ('error', 90), ('least', 89), ('model', 89), ('18', 88), ('ratings', 88), ('take', 87), ('vote', 85), ('2012', 85), ('2015', 84), ('well', 82), ('states', 82), ('whether', 82), ('asked', 82), ('candidates', 82), ('based', 81)]

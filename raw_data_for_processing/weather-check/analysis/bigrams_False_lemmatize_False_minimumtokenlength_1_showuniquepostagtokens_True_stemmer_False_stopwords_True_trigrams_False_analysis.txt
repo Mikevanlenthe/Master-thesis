@@ -1,0 +1,57 @@
+Article: weather-check
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 845
+Raw number of types: 333
+Raw Type token ratio: 0.3940828402366864
+
+100 most freq tokens before (pre)processing: 
+[(',', 2128), ('(', 687), (')', 687), ("'", 664), ('the', 507), (':', 420), ('our', 387), ('verdict', 377), ('trump', 318), ('in', 245), ('.', 229), ('1', 223), ('of', 220), ('a', 218), ('i', 208), ('to', 200), ('and', 190), ('positive', 184), ('donald', 155), ('neutral', 132), ('like', 112), ('that', 104), ('/', 94), ('on', 93), ('for', 91), ('it', 86), ('is', 85), ('negative', 81), ('you', 79), ('hillary', 79), ('’', 78), ("'m", 75), ('with', 73), ('at', 71), ('my', 63), ('me', 61), ("'s", 60), ('percent', 53), ('was', 53), ('s', 52), ('we', 52), ('but', 50), ('clinton', 50), ("n't", 49), ('from', 48), ('2013', 44), ('2015', 44), ('--', 40), ('more', 40), ('than', 40), ('were', 40), ('police', 39), ('they', 38), ('have', 37), ('by', 37), ('2016', 37), ('up', 37), ('this', 36), ('got', 36), ('?', 35), ('bill', 35), ('be', 34), ('do', 34), ('2014', 34), ('2012', 34), ('fuck', 33), ('drivers', 33), ('get', 32), ('who', 32), ('weather', 32), ('all', 30), ('data', 30), ('not', 29), ('has', 29), ('money', 28), ('his', 28), ('2', 28), ('so', 27), ('are', 27), ('just', 27), ('as', 27), ('or', 27), ('people', 27), ('state', 27), ('2008', 26), ('obama', 26), ('out', 25), ('he', 25), ('tower', 25), (';', 24), ('no', 24), ('what', 24), ('2011', 24), ('officers', 23), ('black', 23), ('about', 23), ('remix', 23), ('!', 22), ('ai', 22), ('bitch', 22)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 421
+Number of types: 242
+Type token ratio: 0.5748218527315915
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'channel, years, groups, sources, customers, images, forecasts, data, nondailies, questions, eastcoasters, fees, dailies, people, difficulties, jerks, eyeballs, problems, checkers, differences, fios, points, respondents, newspapers')
+
+('VBP', 'check, get, weather, england, apps, versus, sydney, find, go, california, seem, method')
+
+('VB', 'check, get, dataweathercheck, find, data, know, end, look, volunteer')
+
+('NN', 'website, weather, point, washington, game, street, channel, trotter, day, age, region, verizon, github, getty, survey, percent, regard, news, carriage, difference, anything, storm, basis, information, piece, temperate, default, percentage, smug, category, winter, thing, walt, %, web, cassie, march, audience, app, penetration, search, check, person, versus, finding, everyone, tv, station, network, checker, radio, bracket, dig, home, spectrum, respondent, look, newsletter, television, get, report, use, internet, crowd, climate, phone, lot, cloud, let, couple, run, newspaper, super, hickey, probability')
+
+('VBD', 'climbed, checked, felt, faced, ran, filed, looked, performed, liked, aged, asked, dropped, wondered, harsh, said, assumed, got, app')
+
+('JJR', 'older, weather')
+
+('JJ', 'financial, website, weather, apps, online, particular, local, predictable, wall, overall, old, bad, generational, percent, likely, true, main, need, daily, simple, specific, wrong, young, app, journal, consistent, general, large, across, pacific, interesting, use, surveymonkey, new, stupid, many, sure, checked')
+
+('VBZ', 'covers, comes, checkers')
+
+('VBN', 'taken, inspired, compared')
+
+('VBG', 'depending, shocking, checking, interesting, sucking, according, growing, getting, flocking, weatherchecking, snapchatting')
+
+('JJS', 'least')
+
+100 most freq tokens after processing: 
+[('verdict', 378), ('trump', 324), ('1', 229), ('positive', 184), ('donald', 159), ('neutral', 132), ('like', 118), ('negative', 81), ('hillary', 80), ('percent', 61), ('nt', 54), ('clinton', 53), ('2015', 46), ('2013', 44), ('got', 39), ('police', 39), ('get', 38), ('2016', 38), ('2014', 35), ('bill', 35), ('2012', 35), ('people', 33), ('data', 33), ('fuck', 33), ('drivers', 33), ('weather', 32), ('2', 31), ('state', 30), ('money', 29), ('one', 27), ('obama', 27), ('2008', 27), ('10', 26), ('said', 25), ('tower', 25), ('2011', 25), ('officers', 23), ('black', 23), ('remix', 23), ('ai', 22), ('bitch', 22), ('need', 21), ('city', 21), ('2010', 21), ('live', 20), ('n', 20), ('would', 19), ('want', 19), ('number', 19), ('3', 19), ('2000', 19), ('man', 19), ('know', 18), ('white', 18), ('hiphop', 18), ('think', 17), ('new', 17), ('call', 17), ('president', 16), ('make', 16), ('bush', 16), ('2006', 16), ('shit', 16), ('15', 16), ('go', 15), ('world', 15), ('way', 15), ('every', 15), ('hilary', 15), ('even', 14), ('day', 14), ('still', 14), ('rich', 14), ('big', 14), ('2005', 14), ('time', 13), ('also', 13), ('look', 13), ('references', 13), ('rodham', 13), ('involved', 13), ('2007', 13), ('towers', 13), ('2009', 13), ('fire', 13), ('bad', 13), ('insurance', 13), ('fatal', 13), ('going', 12), ('back', 12), ('many', 12), ('whether', 12), ('year', 12), ('last', 12), ('could', 12), ('5', 12), ('young', 12), ('country', 11), ('take', 11), ('cities', 11)]

@@ -1,0 +1,57 @@
+Article: nfl-favorite-team
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1555
+Raw number of types: 643
+Raw Type token ratio: 0.4135048231511254
+
+100 most freq tokens before (pre)processing: 
+[(',', 8391), ('the', 7466), ('.', 5118), ('of', 3784), ('a', 3190), ('to', 3074), ('and', 2771), ('in', 2750), ('’', 2580), ('that', 1728), ('s', 1412), ('(', 1337), (')', 1337), ('for', 1276), ('is', 1238), ('on', 1088), (':', 1087), ('it', 1063), ('are', 921), ('“', 865), ('”', 864), ('with', 809), ('—', 801), ('at', 796), ('we', 795), ('as', 777), ('by', 751), ('i', 740), ('percent', 709), ('but', 705), ('more', 693), ('our', 682), ("'", 665), ('this', 642), ('trump', 636), ('they', 616), ('or', 611), ('you', 592), ('have', 571), ('from', 569), ('t', 558), ('about', 535), ('team-logo', 535), ('was', 525), ('who', 517), ('than', 509), ('be', 492), ('one', 484), ('data', 474), ('were', 453), ('an', 432), ('?', 427), ('has', 412), ('not', 392), ('their', 391), ('1', 387), ('all', 378), ('verdict', 377), ('polls', 363), ('said', 360), ('like', 360), ('there', 356), ('how', 351), ('he', 337), ('so', 332), ('if', 330), ('what', 328), ('can', 327), ('other', 321), ('people', 311), ('some', 308), ('which', 303), ('most', 300), ('his', 290), ('out', 288), ('those', 285), ('when', 283), ('had', 272), ('also', 267), ('get', 258), ('each', 252), ('up', 250), ('just', 226), ('do', 222), ('only', 222), ('two', 220), ('pollsters', 214), ('new', 209), ('its', 206), ('positive', 206), ('github', 205), ('them', 203), ('these', 200), (';', 197), ('will', 194), ('time', 192), ('polling', 191), ('2', 189), ('my', 188), ('would', 185)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 779
+Number of types: 528
+Type token ratio: 0.6777920410783055
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'next, question, uniforms, pittsburgh, uniform, pro, benign, headtohead, immersed, committed, personal, pm, seattle, able, weak, ideal, new, src, height, blythe, entire, reflected, ready, violent, old, margin20px, sorry, kid, unique, answered, behavior, dead, similar, uni, real, season2, stuck, handmade, comfort1, give, equivalent, aggregate, high, team, attached, lite, possible, nfl, live, weight, previous, width, los, sample, early, unlikely, app, puzzle, fellow, good, embed, top, hometeam, rams, extra, sweet, surprising, sure, full, last, ultimate, atrocious, fanfriendliness, neil, different, overall, much, espn, terrible, green, stan, clear, deep, fivethirtyeight, nice, many')
+
+('NNS', 'hits, marks, firms, dudes, criteria, watches, years, miles, concessions, indianapolis, days, supersonics, teams, closes, players, steelers, weights, oilers, angeles, loves, chiefs, rankings, times, imperfections, predictions, carolina, surveys, matchups, titleswins, benefits, data, kansas, standings, congratulations, tvs, questions, licenses, colts, podcasts, terms, fans, categories, seasons, packers, tickets, factors, crimes, parents, suspensions, uses, patriots, options, rams, relations, ideas, sports, supporters, wins, promotions, thanks, bills, words, siblings, bars, women, decades, permutations, dollars')
+
+('VBP', 'helps, website, turn, bruce, camp, neil, canada, reach, spoken, shop, espn, uniforms, cheer, chiefs, nope, hope, kansas, expos, dead, include, listen, population, find, matter, tickets, buffalo, ask, manner, rams, fantasy, team, use, lot, la, leave, blythe, california, perfect')
+
+('NN', 'component, england, watch, video, podcast, courtesy, bay, question, pittsburgh, board, iframe, york, influence, technology, crossstate, tradition, core, category, search, city, spirit, get, kurt, anger, ownership, datanflfavoriteteam, frameborder, run, kroenke3, blythe, form, club, likability, st, football, research, mom, turf, structure, factor, memory, rating, cheer, terrell, exercise, behavior, paul, version, history, effort, %, community, nextgeneration, versus, faulk, boy, importance, future, editor, winner, year, guy, buffalo, frequency, example, warner, team, size, cash, arizona, nfl, identity, weight, stadium, venue, sign, game, http, chance, choice, toddler, gold, wash, fool, marshall, isaac, analysis, town, discuss, times4, field, boom, show, style, blue, check, hometown, stylishness, plug, trading, strength, bettis, villain, top, rams, colleague, experience, seat, quality, lot, loyalty, husband, fandom, math, apple, player, rss, championshipsdivision, leadership, instance, tennessee, amount, appearance, price, point, season, distance, fanfriendliness, road, hand, louis, time, github, attempt, franchise, magazine, paine, fivethirtyeightcomplayerwtp17496919, school, list, jerome, honesty, aboveaverage, code, maxwidth600px, dust, fan, support, opinion, auto, case, person, way, nothing, breath, process, pick, market, basketball, problem, college, midwestern, perfect')
+
+('VBN', 'weighted, settled, created, listed, conducted, projected, shelled, filed, excited, put, taken, known, based, generated, calculated, suspected, rolled, selected, personalized')
+
+('VBG', 'including, holding, selecting, plugging, learning, fuming, feeling, scrolling, showing, longrunning, eating, rooting, leaving, winning, teampicking, according, making, appealing, ensuing, parking')
+
+('VBD', 'repeated, lukas, stadium, found, projected, came, unveiled, contributed, graded, seahawks, louis, left, titans5, spurned, dictated, introduced, showed, discovered, onfield, spent, gave, followed, domed, knew, sorted, pledged, embed, rolled, scored, voted, mattered, took, went, pulled, hauled, saw, weight, offfield')
+
+('VBZ', 'rams, loves, wins, includes, goes, suspends')
+
+('JJS', 'greatest, least')
+
+('VB', 'mind, support, pick, quantify, figure, choose, deal')
+
+('JJR', 'kroenke, smaller, bigger, better')
+
+100 most freq tokens after processing: 
+[('percent', 717), ('trump', 643), ('teamlogo', 538), ('one', 493), ('data', 477), ('1', 476), ('verdict', 378), ('polls', 367), ('said', 366), ('like', 366), ('people', 317), ('also', 270), ('get', 264), ('2', 254), ('10', 249), ('two', 223), ('11', 216), ('pollsters', 214), ('new', 212), ('positive', 206), ('github', 205), ('13', 198), ('time', 195), ('polling', 192), ('would', 191), ('us', 187), ('points', 185), ('donald', 184), ('14', 183), ('many', 182), ('%', 182), ('3', 180), ('number', 179), ('poll', 179), ('12', 176), ('much', 173), ('see', 172), ('15', 168), ('average', 164), ('even', 163), ('first', 162), ('year', 161), ('likely', 160), ('election', 157), ('may', 154), ('since', 153), ('league', 148), ('voters', 144), ('years', 142), ('5', 141), ('among', 138), ('neutral', 138), ('16', 137), ('state', 135), ('results', 135), ('states', 133), ('2014', 133), ('women', 131), ('world', 130), ('last', 129), ('three', 128), ('make', 127), ('team', 123), ('think', 122), ('still', 122), ('17', 121), ('percentage', 120), ('4', 119), ('president', 118), ('least', 115), ('less', 115), ('season', 114), ('every', 113), ('2016', 113), ('respondents', 113), ('well', 112), ('national', 112), ('way', 110), ('6', 110), ('clinton', 109), ('model', 109), ('another', 108), ('use', 108), ('20', 107), ('pollster', 107), ('numbers', 106), ('take', 105), ('win', 104), ('19', 104), ('vote', 103), ('whether', 102), ('films', 101), ('know', 99), ('good', 99), ('better', 99), ('hillary', 98), ('republican', 98), ('filed', 97), ('8', 97), ('2015', 97)]

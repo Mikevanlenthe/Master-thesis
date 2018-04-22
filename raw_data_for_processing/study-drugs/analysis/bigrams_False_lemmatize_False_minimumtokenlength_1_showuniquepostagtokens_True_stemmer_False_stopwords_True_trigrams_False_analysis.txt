@@ -1,0 +1,57 @@
+Article: study-drugs
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1573
+Raw number of types: 535
+Raw Type token ratio: 0.34011443102352196
+
+100 most freq tokens before (pre)processing: 
+[(',', 4034), ('the', 2890), ('.', 1716), ('of', 1386), ('a', 1196), ('in', 1145), ('to', 1102), ('and', 1005), ('(', 898), (')', 898), ('’', 815), ("'", 664), ('that', 651), (':', 634), ('s', 485), ('is', 474), ('for', 449), ('our', 448), ('it', 432), ('on', 426), ('verdict', 377), ('trump', 368), ('i', 329), ('with', 325), ('at', 318), ('are', 315), ('more', 302), ('by', 293), ('1', 291), ('percent', 285), ('as', 273), ('—', 268), ('“', 265), ('”', 265), ('this', 257), ('but', 256), ('we', 250), ('you', 238), ('than', 221), ('have', 218), ('from', 214), ('data', 196), ('like', 193), ('or', 193), ('about', 190), ('was', 190), ('positive', 190), ('be', 180), ('t', 173), ('an', 165), ('they', 164), ('donald', 159), ('has', 158), ('who', 149), ('were', 144), ('all', 143), ('one', 143), ('most', 134), ('neutral', 133), ('other', 129), ('not', 128), ('their', 122), ('those', 122), ('so', 120), ('there', 119), ('?', 118), ('out', 118), ('if', 117), ('people', 117), ('can', 114), ('when', 114), ('up', 113), ('/', 111), ('which', 110), ('get', 108), ('what', 106), ('his', 103), ('he', 103), ('how', 102), ('some', 99), ('only', 92), ('2', 91), ('each', 89), ('just', 89), ('my', 88), ('me', 88), ('also', 87), ('state', 86), ('do', 85), (';', 85), ('negative', 83), ('hillary', 81), ('github', 80), ('had', 80), ('its', 79), ('first', 77), ('10', 77), ('model', 77), ('films', 77), ("'m", 75)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 825
+Number of types: 437
+Type token ratio: 0.5296969696969697
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'mania, advance, attention, prevention, score, act, adderall, summer, question, percent, ritalin, government, environment, difference, depression, information, risk, emphasis, category, adhd, vs, fraternity, data, usage, food, pierson, addictive, marijuana, adult, university, niche, use, nonprescription, focus, share, clinton, amanda, gpas, research, family, factor, survey, alcohol, pharmacy, foundation, cognition, behavior, deadline, coverage, article, professor, potential, location, versus, correlation, appeal, evidence, everyone, year, frequency, example, drug, gpa, administration, repeat, doctor, part, axis, age, nsduh, horizontal, proportion, emma, analysis, nonadhd, test, draft, student, diagnosis, mountain, vyvanse, world, span, rise, divin, struggle, take, illinois, night, selectivity, performance, employee, stress, latter, nonstudent, health, range, study, enforcement, point, campus, time, github, order, school, exam, times1, support, abuse, way, causality, illustration, cocaine, cram, idea, prescription, collegebycollege, report, speed, percentile, help, assistance, trend, college')
+
+('NNS', 'scores, gpas, medications, periods, ones, jobs, sources, schools, campuses, github, trends, centers, noncollegestudents, counterparts, times, adults, weeks, treats, highachievers, surveys, backs, ways, data, adhd, studies, matters, classes, types, media, benefits, americans, regions, correlations, tweets, students, prescriptions, neighborhoods, adolescents, drugs, doses, shows, steroids, stamps, colleges, families, rates, factors, stimulants, people, patterns, gpa, members, searches, months, datastudydrugs, individuals, admissions, kelsey, differences, levels, towns, hours, study, standards')
+
+('VBG', 'snorting, finding, attempting, increasing, interesting, struggling, working, listening, abusing, falling, using, confronting, mentioning, skipping, highachieving, studying, lowerachieving, according, controlling')
+
+('JJ', 'england, previous, low, certain, single, mean, several, engage, google, long, treat, national, nsduh, focused, available, nonmedical, affect, adderall, vertical, effective, popular, likely, exam, recent, ii, multiple, unlikely, total, adhd, social, england4, young, academic, reptilia, similar, clear, wrong, risky, stressed, code, competitive, mixed, black, important, peaked, first, conventional, incoming, overwhelming, third, annual, due, high, addictive, schedule, positive, suicide, common, tempting, willing, nonprescription, significant, rocky, new, western, finish, acceptable, paradoxical, white, many, understand, epidemic, study, last')
+
+('VBD', 'spiked, wrote, found, filed, push, turned, looked, named, showed, spent, gave, cited, increased, said, read, used, caffeinefueled, depressed, dropped, recommended, sought, reported')
+
+('VB', 'get, consider, control, keep, stay, feel, blame, miss, make, struggle, use, divin, experience, improve, run, obtain, adderall, expect, seem')
+
+('VBP', 'athlete, dake, procrastinate, adderall, github, suggest, disease, behavior, choose, adhd, chart, agree, stay, older, cnn, campus3, find, take, look, selective, use, receive, believe, make, imply, study, tend')
+
+('VBN', 'used, described, considered, prescribed, thought, loomed, highincome, taken, connected, tempted, discussed')
+
+('JJR', 'higher, smaller, closer, greater, easier, answer, lower')
+
+('VBZ', 'stems, ages, classifies, represents, comes, includes, provides, shows, incomes, drives, causes, runs, academic, seems')
+
+('JJS', 'lowest, highest')
+
+100 most freq tokens after processing: 
+[('verdict', 378), ('trump', 374), ('1', 306), ('percent', 293), ('like', 199), ('data', 199), ('positive', 190), ('donald', 163), ('one', 152), ('neutral', 133), ('people', 123), ('get', 114), ('2', 97), ('10', 92), ('also', 90), ('state', 89), ('first', 83), ('3', 83), ('negative', 83), ('hillary', 82), ('github', 80), ('said', 79), ('model', 77), ('films', 77), ('new', 75), ('would', 74), ('two', 73), ('polls', 73), ('number', 71), ('5', 69), ('national', 69), ('time', 68), ('year', 68), ('likely', 67), ('points', 67), ('women', 66), ('last', 66), ('2015', 64), ('us', 62), ('use', 62), ('even', 61), ('rock', 61), ('much', 60), ('2014', 60), ('2016', 60), ('clinton', 58), ('film', 58), ('money', 56), ('average', 56), ('nt', 55), ('2013', 55), ('6', 55), ('classic', 55), ('police', 53), ('see', 52), ('make', 52), ('got', 52), ('among', 51), ('way', 50), ('many', 50), ('2012', 50), ('may', 49), ('years', 48), ('since', 48), ('4', 48), ('candidates', 47), ('republican', 45), ('example', 45), ('still', 45), ('americans', 45), ('know', 44), ('president', 44), ('test', 44), ('numbers', 44), ('9', 44), ('less', 44), ('name', 43), ('15', 43), ('percentage', 43), ('every', 42), ('day', 42), ('bill', 42), ('think', 41), ('well', 41), ('bush', 41), ('states', 41), ('obama', 41), ('20', 41), ('according', 41), ('take', 40), ('three', 40), ('8', 39), ('used', 39), ('found', 39), ('election', 39), ('candidate', 39), ('whether', 38), ('set', 38), ('least', 38), ('based', 38)]

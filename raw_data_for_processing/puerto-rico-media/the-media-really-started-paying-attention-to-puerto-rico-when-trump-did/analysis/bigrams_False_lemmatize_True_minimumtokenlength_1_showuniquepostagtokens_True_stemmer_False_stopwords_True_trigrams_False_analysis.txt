@@ -1,0 +1,53 @@
+Article: puerto-rico-media/the-media-really-started-paying-attention-to-puerto-rico-when-trump-did
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 530
+Raw number of types: 237
+Raw Type token ratio: 0.44716981132075473
+
+100 most freq tokens before (pre)processing: 
+[(',', 2593), ('(', 894), (')', 894), ("'", 870), ('the', 613), (':', 427), ('our', 389), ('verdict', 377), ('trump', 330), ('.', 280), ('in', 275), ('of', 263), ('a', 250), ('to', 235), ('and', 229), ('1', 223), ('i', 214), ('positive', 185), ('donald', 155), ('that', 134), ('neutral', 132), ('on', 117), ('like', 113), ('’', 110), ('for', 99), ('/', 95), ('it', 95), ('is', 90), ('with', 84), ('negative', 81), ('at', 80), ('you', 79), ('hillary', 79), ("'m", 76), ('s', 73), ('was', 66), ('my', 66), ("'s", 62), ('me', 62), ('we', 57), ('percent', 57), ('from', 56), ('but', 55), ('than', 51), ("n't", 50), ('clinton', 50), ('more', 48), ('by', 45), ('2015', 45), ('2013', 44), ('have', 43), ('were', 43), ('--', 41), ('they', 41), ('data', 41), ('up', 41), ('be', 40), ('all', 39), ('police', 39), ('this', 39), ('has', 39), ('2016', 37), ('?', 36), ('get', 36), ('about', 36), ('as', 36), ('bill', 36), ('got', 36), ('who', 35), ('do', 34), ('2014', 34), ('not', 34), ('2012', 34), ('fuck', 33), ('drivers', 33), ('are', 32), ('just', 32), ('his', 32), ('people', 32), ('weather', 32), ('—', 30), ('he', 29), ('money', 28), ('or', 28), ('2', 28), ('t', 27), ('so', 27), ('out', 27), ('2008', 27), ('obama', 27), ('state', 27), ('what', 26), ('puerto', 26), ('an', 25), ('one', 25), ('tower', 25), ("''", 24), (';', 24), ('no', 24), ('2011', 24)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 276
+Number of types: 169
+Type token ratio: 0.6123188405797102
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'irma, cnn, msnbc, show, island, get, tv, month, day, coverage, way, morning, decision, gotten, organization, thing, worker, florida, quarter, crisis, approval, effort, location, half, changed1, percent, merit, got2, outlet, headline, response, proportion, medium, debt, dhrumil, help, attention, hurricane, poll, network, rico, twitter, mayor, event, fake, texas, juan, rating, story, puerto, mehta, time, week, behavior, president, administration, analysis, criticism, statement, aftermath, did3, devastation, trump, account, level, recovery, news, source')
+
+('VBD', 'went, received, referenced, hit, struck, found, published, started, mentioned, said, visited, filed, set, made, handled, blasted, fivethirtyeight, harvey, highlighted, suggested, saw, covered')
+
+('VBG', 'paying, ticking, talking, following, covering, making')
+
+('VBP', 'see, puerto, give, island, disapprove, github, rico, continue')
+
+('VB', 'keep, get, slow, reach, influenced')
+
+('NNS', 'data, maria, people, tends, github')
+
+('JJ', 'full, wednesday, powerful, u, le, favorable, landfall, downward, many, immediate, burst, several, federal, online, hurricane, rican, fox, positive, territory, recent, rico, much, willing, last, average, texas, puerto, san, unfavorable, trump, controversial, feud')
+
+('VBN', 'devoted, dedicated, mentioned, started, engaged, sustained, visited')
+
+('JJR', 'higher, fewer')
+
+100 most freq tokens after processing: 
+[('verdict', 379), ('trump', 346), ('1', 231), ('positive', 185), ('donald', 160), ('neutral', 132), ('like', 121), ('hillary', 81), ('negative', 81), ('percent', 67), ('nt', 56), ('clinton', 55), ('get', 47), ('2015', 47), ('data', 45), ('2013', 44), ('driver', 44), ('bill', 43), ('people', 40), ('state', 40), ('got', 40), ('one', 39), ('police', 39), ('2016', 38), ('tower', 38), ('2014', 36), ('2012', 35), ('fuck', 34), ('2', 32), ('city', 32), ('weather', 32), ('president', 31), ('year', 30), ('money', 30), ('said', 29), ('obama', 29), ('10', 28), ('number', 28), ('2008', 28), ('show', 26), ('bitch', 26), ('puerto', 26), ('2011', 25), ('rico', 25), ('officer', 24), ('need', 23), ('black', 23), ('remix', 23), ('would', 22), ('2010', 22), ('ai', 22), ('want', 21), ('u', 21), ('way', 21), ('know', 20), ('also', 20), ('new', 20), ('3', 20), ('live', 20), ('2000', 20), ('n', 20), ('think', 19), ('time', 19), ('make', 19), ('look', 19), ('man', 19), ('news', 19), ('bush', 18), ('every', 18), ('last', 18), ('white', 18), ('hiphop', 18), ('day', 18), ('hurricane', 18), ('go', 17), ('call', 17), ('world', 16), ('even', 16), ('github', 16), ('figure', 16), ('2006', 16), ('shit', 16), ('reference', 16), ('15', 16), ('still', 16), ('much', 15), ('many', 15), ('big', 15), ('hilary', 15), ('2005', 15), ('going', 14), ('country', 14), ('back', 14), ('come', 14), ('could', 14), ('rich', 14), ('2009', 14), ('attack', 14), ('coverage', 14), ('medium', 14)]

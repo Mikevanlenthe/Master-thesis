@@ -1,0 +1,57 @@
+Article: pew-religions
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1292
+Raw number of types: 448
+Raw Type token ratio: 0.34674922600619196
+
+100 most freq tokens before (pre)processing: 
+[(',', 3217), ('the', 2041), ('.', 1144), ('of', 969), ('a', 842), ('(', 804), (')', 804), ('in', 797), ('to', 767), ('and', 674), ("'", 664), ('’', 582), (':', 542), ('that', 468), ('our', 438), ('verdict', 377), ('s', 353), ('is', 337), ('trump', 337), ('it', 325), ('on', 319), ('for', 319), ('i', 282), ('1', 280), ('with', 238), ('at', 218), ('more', 204), ('percent', 204), ('by', 193), ('this', 192), ('we', 191), ('—', 189), ('positive', 189), ('are', 185), ('but', 180), ('as', 179), ('“', 166), ('”', 166), ('like', 166), ('than', 164), ('donald', 155), ('from', 150), ('have', 146), ('you', 140), ('about', 138), ('neutral', 133), ('was', 131), ('data', 130), ('an', 128), ('t', 121), ('or', 120), ('be', 116), ('one', 107), ('has', 106), ('they', 103), ('/', 103), ('other', 93), ('not', 91), ('out', 91), ('their', 90), ('all', 89), ('which', 86), ('what', 86), ('who', 85), ('when', 85), ('2', 85), ('were', 83), ('negative', 83), ('up', 83), ('?', 82), ('people', 82), ('his', 81), ('so', 80), ('my', 80), ('hillary', 80), ('most', 78), ('state', 78), ('he', 77), ('there', 76), ('how', 76), ('me', 76), ('model', 76), ("'m", 75), ('some', 74), ('get', 73), ('films', 71), ('can', 70), ('3', 68), ('if', 67), (';', 66), ('do', 65), ('polls', 65), ('just', 63), ('10', 61), ("'s", 60), ('those', 60), ('rock', 60), ('only', 59), ('said', 59), ('also', 56)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 682
+Number of types: 353
+Type token ratio: 0.5175953079178885
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'persistent, stable, evangelical, additional, previous, single, unaffiliated, doctrinal, small, current, orthodox, different, old, childbirth, lose, nonchristian, much, percent, faiths, relative, worth, recent, projection, demographic, present, ap, unaffiliateds, clear, attractive, potential, religious, catholic, substantial, strong, lost, whole, twelve, pew, black, middle, half, second, thirdhighest, logical, first, future, big, pull, net, third, attractor, large, normal, christian, high, born, skewed, jewish, wide, calculate, mainline, possible, see, new, dramatic, united, fertility, replenish, many, steady, flow')
+
+('NNS', 'deaths, sects, mormons, winners, followers, groups, ones, disciples, conclusions, religions, demographics, nations, trends, catholics, swings, attractors, births, faiths, diminishes, converts, unaffiliateds, data, models, digits, datapewreligions, evangelicals, americans, amounts, traditions, denominations, changes, gains, factors, rates, losers, kids, people, patterns, congregations, odds, gainers, deconversions, members, conversions, shifts, protestants, states, points, emerges, respondents, christians, numbers, reveals, children')
+
+('JJS', 'biggest, highest')
+
+('VBP', 'whole, retention, pew, tell, check, model, gain, buddhist, muslims, faith, change, favor, wind, conversion, settle, grow, lose, rodrigo, start, born')
+
+('NN', 'mormon, witness, percent, ground, practice, tradition, faith, america, pm, change, place, replacement, fact, get, landscape, effect, churn, fertility, share, faiths3, adulthood, research, wind, extension, factor, survey, pack, redistribution, correction, article, version, %, immigration, half, distribution, detail, religion, conversion, story, today, equilibrium, protestant, libresco, model, chance, kind, hindu, baptism, analysis, rate, represent, state, leah, retention, tape, population, muslim, church, take, account, attractor, look, gain, mainline, abd, range, study, increase, center, multiplier, github, table, measure, percentage, woman, pew, contrast, member, way, loss, birth, jehovah, group, tomorrow, portion, report, household, problem, help')
+
+('VBN', 'used, described, born, found, filed, taken, factored, compared')
+
+('VB', 'benefit, rise, wind, describe, run, shrink, play, drop')
+
+('VBD', 'collected, pew, tilted, highlighted, raised, reported, whittled, presented, held, took, went, asked, dropped, gained, surveyed, oldfashioned, said, recruitment, lost')
+
+('VBZ', 'excludes, makes, comes, loses, adults, drives, gives, offers')
+
+('VBG', 'retaining, holding, converting, switching, drawing, factoring, succeeding, comparing, making, increasing, becoming, creating, staying, changing, losing, gaining, including, according, recruiting, looking, taking, leaving, exerting, fastforwarding')
+
+('JJR', 'better, easier, bigger, fewer')
+
+100 most freq tokens after processing: 
+[('verdict', 378), ('trump', 343), ('1', 293), ('percent', 212), ('positive', 189), ('like', 172), ('donald', 159), ('data', 133), ('neutral', 133), ('one', 116), ('2', 91), ('people', 88), ('negative', 83), ('state', 81), ('hillary', 81), ('get', 79), ('3', 76), ('model', 76), ('10', 75), ('films', 71), ('polls', 68), ('said', 65), ('5', 65), ('rock', 61), ('also', 59), ('would', 57), ('women', 56), ('nt', 54), ('clinton', 54), ('time', 53), ('new', 53), ('2014', 53), ('2015', 52), ('6', 52), ('2013', 51), ('year', 49), ('number', 49), ('film', 49), ('github', 48), ('2016', 48), ('2012', 48), ('points', 48), ('two', 47), ('4', 47), ('got', 46), ('classic', 46), ('much', 45), ('test', 42), ('make', 42), ('even', 40), ('average', 40), ('bill', 40), ('think', 39), ('see', 39), ('way', 39), ('police', 39), ('candidates', 39), ('us', 38), ('day', 38), ('9', 38), ('among', 37), ('8', 37), ('election', 37), ('money', 36), ('obama', 36), ('last', 36), ('likely', 36), ('7', 36), ('15', 36), ('president', 35), ('first', 35), ('years', 35), ('use', 35), ('2008', 34), ('weather', 34), ('senate', 34), ('fuck', 33), ('candidate', 33), ('big', 33), ('drivers', 33), ('movie', 33), ('know', 32), ('many', 32), ('republican', 32), ('percentage', 32), ('still', 31), ('win', 31), ('well', 30), ('every', 30), ('20', 30), ('set', 30), ('fivethirtyeight', 30), ('based', 30), ('scientists', 30), ('example', 29), ('according', 29), ('polling', 29), ('gorsuch', 29), ('states', 28), ('look', 28)]

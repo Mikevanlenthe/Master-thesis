@@ -1,0 +1,59 @@
+Article: riddler-castles/can-you-rule-riddler-nation
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 849
+Raw number of types: 342
+Raw Type token ratio: 0.4028268551236749
+
+100 most freq tokens before (pre)processing: 
+[(',', 3695), ('the', 2581), ('.', 1480), ('of', 1213), ('a', 1067), ('in', 974), ('to', 956), ('and', 861), ('(', 852), (')', 852), ('’', 710), ("'", 664), (':', 610), ('that', 560), ('our', 443), ('s', 433), ('is', 414), ('for', 396), ('on', 389), ('it', 387), ('verdict', 377), ('trump', 368), ('i', 304), ('with', 288), ('1', 288), ('at', 269), ('are', 257), ('by', 248), ('more', 244), ('percent', 244), ('—', 244), ('but', 228), ('we', 227), ('as', 226), ('this', 223), ('“', 213), ('”', 213), ('you', 193), ('have', 192), ('than', 189), ('positive', 189), ('from', 185), ('like', 180), ('about', 166), ('was', 164), ('or', 162), ('data', 160), ('donald', 159), ('an', 150), ('be', 145), ('t', 141), ('they', 141), ('has', 140), ('neutral', 133), ('one', 132), ('all', 123), ('who', 112), ('not', 110), ('their', 110), ('out', 109), ('most', 108), ('/', 108), ('other', 107), ('so', 105), ('were', 105), ('there', 104), ('?', 101), ('get', 100), ('when', 100), ('what', 98), ('people', 98), ('if', 97), ('which', 97), ('his', 97), ('can', 96), ('up', 96), ('those', 93), ('some', 91), ('he', 90), ('2', 89), ('how', 88), ('my', 84), ('negative', 83), ('only', 82), ('me', 82), ('state', 82), ('hillary', 81), (';', 79), ('do', 77), ('model', 77), ('films', 77), ('its', 76), ("'m", 75), ('10', 75), ('just', 74), ('3', 74), ('also', 73), ('github', 70), ('each', 70), ('said', 67)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 406
+Number of types: 254
+Type token ratio: 0.625615763546798
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'either1, mean, riddler, stephen, something, guillaume, battle, royale, game, forth, gametheory, wirajaya, day, multiplication, movement, time, github, number, pattern, block, luck, board, samuel, call, nation, submission, oneonone, participatory, solution, berkeley, tetris, discussion, oliverroeder, land, chance, war, fivethirtyeightcom, joel, p, …, express, \\, puzzle, check, pennsylvania, plan, member, chart, laurent, hint, space, distribution, baker, way, carrier, 👏, take, fight, lewisburg, microorganism, winner, fibonacci, submit, guy, illustration, week, column, rule, value, get, victory, lessard, extinction, email, conqueror, equation, twobysix, document, math, problem, beginning, california, q, probability')
+
+('VBD', 'placed, split, squared, noticed, submitted, q, suggested, welldefined, crowned, edited, got, twobyeight')
+
+('JJR', 'roeder')
+
+('VBN', 'given, chosen, filed, bitesized')
+
+('NNS', 'things, copies, datariddlercastles, multiplies, probabilities, species, tetris, matchups, wars, solutions, ways, data, soldiers, types, congratulations, troops, pieces, conquers, splits, plans, warlords, chances, castles, squares, arrangements, forces, problems, battles, wins, points, solvers, numbers, children')
+
+('JJ', 'special, distant, conditional, single, long, different, kurkdjian, riddle, next, queen, pattern, twitter, logic, empty, intrepid, alex, fantastic, tetris, former, \\begin, castle, clear, szatmary, little, archenemy, whole, puzzle, lucky, distribute, welcome, good, solid, average, q, many, equal, high, wide, victory, q2\\end, original, dear, strategic, cool, classic, receive, possible, twobyfour, ⅔, extinct, related, sure, wartorn, last, slowpuzzle')
+
+('VBP', 'enemy, adjudicate, need, hold, riddler, fill, vivek, know, 👏, send, find, begin, addict, go, want, submit, offer, form, castle, q')
+
+('VB', 'get, try, twobytwo, go, know')
+
+('VBG', 'knowing, multiplying, asking, distributing, fighting, king, solving')
+
+('VBZ', 'species, sends, wins, dies, goes, submits, castles')
+
+('JJS', 'closest')
+
+('NNP', '½, 👏, –, ≤')
+
+100 most freq tokens after processing: 
+[('verdict', 378), ('trump', 374), ('1', 303), ('percent', 252), ('positive', 189), ('like', 186), ('data', 163), ('donald', 163), ('one', 141), ('neutral', 133), ('get', 106), ('people', 104), ('2', 95), ('10', 89), ('state', 85), ('negative', 83), ('hillary', 82), ('3', 82), ('model', 77), ('films', 77), ('also', 76), ('said', 73), ('github', 70), ('polls', 69), ('new', 68), ('5', 66), ('two', 65), ('women', 64), ('time', 63), ('national', 62), ('would', 61), ('2015', 61), ('rock', 61), ('year', 59), ('number', 59), ('film', 58), ('2014', 58), ('clinton', 57), ('points', 57), ('nt', 55), ('much', 55), ('6', 55), ('classic', 55), ('police', 53), ('2016', 53), ('last', 52), ('first', 51), ('got', 51), ('2013', 51), ('average', 50), ('likely', 49), ('us', 48), ('even', 48), ('2012', 48), ('4', 48), ('see', 46), ('way', 45), ('president', 44), ('make', 44), ('years', 44), ('among', 44), ('test', 42), ('day', 42), ('bill', 42), ('9', 42), ('every', 41), ('republican', 41), ('obama', 41), ('many', 40), ('know', 39), ('think', 39), ('since', 39), ('candidates', 39), ('8', 38), ('still', 38), ('election', 38), ('three', 37), ('may', 37), ('20', 37), ('7', 37), ('numbers', 37), ('15', 37), ('money', 36), ('example', 36), ('set', 36), ('drivers', 36), ('use', 36), ('weather', 36), ('senate', 36), ('big', 35), ('men', 35), ('according', 35), ('less', 35), ('percentage', 35), ('well', 34), ('12', 34), ('least', 34), ('based', 34), ('2008', 34), ('candidate', 34)]

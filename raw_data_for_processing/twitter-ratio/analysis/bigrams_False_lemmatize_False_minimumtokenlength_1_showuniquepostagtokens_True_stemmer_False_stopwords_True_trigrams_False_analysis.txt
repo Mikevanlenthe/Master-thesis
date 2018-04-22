@@ -1,0 +1,57 @@
+Article: twitter-ratio
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1528
+Raw number of types: 581
+Raw Type token ratio: 0.38023560209424084
+
+100 most freq tokens before (pre)processing: 
+[(',', 3532), ('the', 2423), ('.', 1369), ('of', 1135), ('a', 992), ('in', 937), ('to', 897), ('(', 835), (')', 835), ('and', 809), ('’', 667), ("'", 664), (':', 591), ('that', 528), ('our', 442), ('s', 403), ('is', 392), ('verdict', 377), ('for', 371), ('on', 370), ('it', 369), ('trump', 357), ('i', 293), ('1', 281), ('with', 278), ('at', 258), ('are', 241), ('more', 239), ('—', 238), ('percent', 237), ('by', 232), ('but', 224), ('we', 218), ('as', 216), ('“', 209), ('”', 209), ('this', 208), ('positive', 189), ('than', 188), ('have', 183), ('like', 175), ('from', 174), ('you', 163), ('about', 162), ('donald', 159), ('was', 156), ('data', 152), ('or', 150), ('an', 143), ('they', 141), ('t', 137), ('be', 133), ('neutral', 133), ('one', 126), ('has', 125), ('all', 109), ('their', 109), ('/', 108), ('out', 107), ('who', 107), ('not', 104), ('other', 104), ('were', 102), ('so', 100), ('most', 97), ('people', 97), ('when', 96), ('which', 95), ('get', 94), ('?', 93), ('up', 93), ('what', 92), ('there', 91), ('his', 91), ('some', 88), ('can', 88), ('he', 86), ('2', 86), ('how', 85), ('those', 85), ('my', 84), ('negative', 83), ('if', 82), ('hillary', 81), (';', 79), ('state', 79), ('me', 78), ('model', 77), ('films', 77), ('do', 76), ("'m", 75), ('only', 75), ('just', 71), ('3', 71), ('also', 70), ('its', 67), ('polls', 66), ('10', 65), ('said', 64), ('github', 63)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 732
+Number of types: 476
+Type token ratio: 0.6502732240437158
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'donald, obamacare, attention, texas, army, summer, tweeterinchief, pattern, percent, harris, surer, post, ratio, tweet, comparison, shape, chris, chart, pennsylvania, deadspin, plan, food, gardner, lee, fact, sector, baseball, cillizza, ideology, home, bomber, repeal, huffington, get, candidate, action, proof, use, trip, bottom, clay, illustrate, la, share, race, california, message, romney, tweeter, pair, research, obama, graham, concept, universe, right, win, gravity, gauge, morning, mike, trump, lindsey, roth, retweet, democrat, distribution, everyone, originator, mcconnell, capacity, year, mehta, bill, example, pellet, administration, metaanalysis, become, mass, brzezinski, cohost, part, sixfigure, axis, j, conversation, mitch, dhrumil, phenomenon, joe, alloy, course, andor, proportion, june, realdonaldtrump, wezerek, widow, replyretweet, response, show, reply, month, world, gus, account, danger, ashley, top, look, plot, line, cassidy, corner, senator, feinberg, magnet, set, blob, congratulate, oeuvre, blend, toomey, user, kamala, stat, zone, time, cory, twitter, someone, nation, measure, b2, prize, soil, silhouette, sand, mixture, myeshia, jewelry, policy, way, direction, podium, president, service, colorado, johnson, copper, figure, balance, sargeant, problem, david, trend')
+
+('NNS', 'replies, democrats, presences, leaders, winners, followers, james, nights, senators, reactions, things, proportions, github, pebbles, flops, papers, outliers, retweets, distributions, msnbc, plots, data, actions, media, tends, tweets, tentacles, warren, likes, exceptions, tweeters, runs, averages, people, members, ratios, datatwitterratio, nice, colleagues, others, states, looks, politics, pellets, republicans')
+
+('VBP', 'echo, demonstrate, massachusetts, obama, replies5, github, indicate, twitter, buck, gold, adam, favs, ratio, senate, data, trump, gop, type, send, furthest, get, react, stack, appear, corner, row, run, …to, mitt, compare, spark')
+
+('JJR', 'higher, lengthier, roeder, worse, heavier, larger, less, outlier, lower')
+
+('VBD', 'killed, wrote, came, filed, sparked, focused, left, shifted, failed, insisted, mapped, tweeted, replied, said, posted, messed, middle, pointed, put, barackobama, inverted, generated, cillizzacnn, map, got')
+
+('JJ', 'donald, easy, lefty, current, bad, retweetlike, foreign, uniform, ratio, pat, tweet, senate, specific, little, times3, academic, batting, cruz, average, pull, broad, funding, louisiana, common, new, form, metric, endorsement, concerned, free, visible, thought, obama, concept, universe, right, inhofe, luke, rival, radical, individual, social, trump1, trump, republican, monday, silver, democrat, quadrant, high, kentucky, heavy, engagement, level, firestorms, powerful, oklahoma, happen, dunn, public, reply, friendly, feel, fellow, good, nt, big, united, feinberg, triangle, sure, esquire, dubious, last, ternary, above4, digital, certain, toomey, resemble, stat, neil, angry, utah, carolina, recent, rbis, close, former, replied, shapeless, second, straight, shot, presidential, first, expressive, –, nice, compare')
+
+('VB', 'get, tweet, take, buy, goodwill, say')
+
+('VBN', 'used, ted, rated, fucked, facelift, called, retweeted, tied, liked, stated, known, silt, taken, clustered, published, given, stretched, compared')
+
+('VBG', 'zooming, denying, bleeding, paying, joining, favoring, flinging, reaching, taking, writing, microblogging, using, governing, outpacing, retweeting, giving, according, sitting')
+
+('VBZ', 'replies, makes, addresses, retweets, likes, looks, characterizes, appears, gets, requires, buys')
+
+('JJS', 'least, highest')
+
+100 most freq tokens after processing: 
+[('verdict', 378), ('trump', 363), ('1', 294), ('percent', 245), ('positive', 189), ('like', 181), ('donald', 163), ('data', 155), ('one', 135), ('neutral', 133), ('people', 103), ('get', 100), ('2', 92), ('negative', 83), ('state', 82), ('hillary', 82), ('10', 79), ('3', 79), ('model', 77), ('films', 77), ('also', 73), ('said', 70), ('polls', 69), ('5', 66), ('new', 64), ('women', 64), ('github', 63), ('would', 61), ('rock', 61), ('time', 59), ('film', 58), ('clinton', 57), ('2014', 57), ('two', 56), ('2015', 56), ('nt', 55), ('6', 55), ('much', 53), ('year', 53), ('2016', 53), ('number', 52), ('police', 52), ('2013', 51), ('got', 49), ('likely', 49), ('2012', 48), ('points', 48), ('average', 47), ('4', 47), ('classic', 46), ('first', 44), ('see', 44), ('years', 44), ('us', 43), ('even', 43), ('test', 42), ('make', 42), ('way', 42), ('among', 42), ('bill', 42), ('republican', 41), ('last', 41), ('obama', 40), ('think', 39), ('candidates', 39), ('national', 39), ('8', 38), ('day', 38), ('still', 38), ('election', 38), ('9', 38), ('president', 37), ('every', 37), ('7', 37), ('know', 36), ('money', 36), ('example', 36), ('15', 36), ('use', 36), ('senate', 36), ('many', 35), ('20', 35), ('set', 35), ('since', 35), ('big', 35), ('men', 35), ('percentage', 35), ('well', 34), ('three', 34), ('numbers', 34), ('least', 34), ('based', 34), ('2008', 34), ('candidate', 34), ('according', 34), ('less', 34), ('weather', 34), ('movie', 34), ('may', 33), ('fuck', 33)]

@@ -1,0 +1,59 @@
+Article: antiquities-act
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 817
+Raw number of types: 341
+Raw Type token ratio: 0.4173806609547124
+
+100 most freq tokens before (pre)processing: 
+[(',', 3600), ('the', 2498), ('.', 1414), ('of', 1163), ('a', 1016), ('in', 962), ('to', 922), ('(', 844), (')', 844), ('and', 827), ('’', 681), ("'", 664), (':', 596), ('that', 544), ('our', 442), ('s', 413), ('is', 399), ('on', 382), ('for', 379), ('it', 377), ('verdict', 377), ('trump', 368), ('i', 296), ('with', 284), ('1', 281), ('at', 261), ('—', 243), ('more', 242), ('are', 242), ('by', 241), ('percent', 240), ('but', 227), ('as', 224), ('we', 218), ('this', 217), ('“', 211), ('”', 211), ('than', 189), ('positive', 189), ('have', 187), ('from', 179), ('like', 177), ('about', 166), ('you', 164), ('was', 164), ('donald', 159), ('data', 158), ('or', 156), ('an', 147), ('they', 141), ('be', 140), ('t', 139), ('has', 133), ('neutral', 133), ('one', 129), ('all', 112), ('not', 110), ('their', 109), ('who', 109), ('/', 108), ('out', 107), ('other', 107), ('were', 104), ('most', 103), ('so', 102), ('when', 100), ('people', 98), ('get', 96), ('which', 96), ('his', 95), ('what', 95), ('up', 94), ('?', 93), ('there', 92), ('some', 90), ('can', 89), ('those', 88), ('he', 88), ('how', 86), ('2', 86), ('if', 85), ('my', 84), ('negative', 83), ('hillary', 81), ('state', 81), ('only', 80), (';', 79), ('me', 78), ('model', 77), ('films', 77), ('do', 76), ("'m", 75), ('just', 74), ('also', 72), ('3', 71), ('its', 70), ('github', 67), ('said', 67), ('polls', 66), ('10', 65)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 442
+Number of types: 265
+Type token ratio: 0.5995475113122172
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'overreach, park, point, koeze, us5, roosevelt, monuments1, indication, poll, obama, kind, fishing, lead, montana, executive, office, association, status, act, hatch, order, survey, percent, ella, government, conservation, power, ground, reshape, nation, zinke, secretary, state, monument, land, review, trump, water, month, creation, orrin, half, country, giant, site, resolution, fact, popularity, department, sen, protection, drilling, home, approval, president, administration, group, rule, boss, ire, designation, coal, willingness, dataantiquitiesact, barack, reign, share, amount')
+
+('VB', 'get, abolish, first, go, damage')
+
+('JJ', 'special, mean, american, several, local, small, ban, scrap, national, natural, overall, different, executive, much, popular, teddy, wednesday, final, utah, public, recent, subject, geological, former, congress, smoothly, monument, federal, pristine, past, trump, nonprofit, symbolic, half, first, newssurveymonkey, large, regional, legal, interior, joint, database, receive, new, february, western, ryan, map, many, recreational, congressional, bears, states3')
+
+('VBD', 'owned, created, raised, revoked, roosevelt, conducted, filed, redesignated, took, managed, designated, signed, repealed, said, kept, revoke')
+
+('NNS', 'covers, companies, roosevelt, github, areas, bodies, cases, nbc, lands, activities, ears, data, policies, acres, presidents, predecessors, conservatives, cattle, administrations, aggregates, people, offers, monuments, bullets, others, parks, thanks, antiquities, sites, respondents, agencies, scholars, bears')
+
+('VBP', 'support, disagree, conservation, land4, make, land, github, designate, try, conservationist, data, operate, act, rescind, trump, responsibility')
+
+('VBN', 'established, collected, used, owned, issued, published, allowed, designated, signed, protected, called')
+
+('VBG', 'including, preventing, depending, rejecting, grazing, logging, hunting, signaling, testing, instructing, using, making, determining, according')
+
+('VBZ', 'describes, maintains, promotes, removes, evaluates, kinds, owns, means, conservatives, ears, appears, sites, lures, extends, falls')
+
+('NNP', 'teddy')
+
+('JJS', 'west, latest, largest')
+
+('JJR', 'less, easier, smaller, freer')
+
+100 most freq tokens after processing: 
+[('verdict', 378), ('trump', 374), ('1', 294), ('percent', 248), ('positive', 189), ('like', 183), ('donald', 163), ('data', 161), ('one', 138), ('neutral', 133), ('people', 104), ('get', 102), ('2', 92), ('state', 84), ('negative', 83), ('hillary', 82), ('10', 79), ('3', 79), ('model', 77), ('films', 77), ('also', 75), ('said', 73), ('polls', 69), ('new', 67), ('github', 67), ('5', 66), ('women', 64), ('national', 62), ('would', 61), ('2015', 61), ('rock', 61), ('time', 59), ('year', 59), ('film', 58), ('2014', 58), ('two', 57), ('clinton', 57), ('nt', 55), ('much', 55), ('6', 55), ('2016', 53), ('number', 52), ('police', 52), ('2013', 51), ('got', 49), ('likely', 49), ('average', 49), ('us', 48), ('first', 48), ('even', 48), ('2012', 48), ('points', 48), ('4', 47), ('classic', 46), ('see', 45), ('president', 44), ('make', 44), ('years', 44), ('way', 43), ('last', 43), ('test', 42), ('among', 42), ('bill', 42), ('republican', 41), ('obama', 41), ('day', 40), ('think', 39), ('candidates', 39), ('9', 39), ('every', 38), ('many', 38), ('8', 38), ('since', 38), ('still', 38), ('election', 38), ('7', 37), ('know', 36), ('money', 36), ('three', 36), ('20', 36), ('example', 36), ('set', 36), ('15', 36), ('use', 36), ('weather', 36), ('senate', 36), ('big', 35), ('men', 35), ('according', 35), ('less', 35), ('percentage', 35), ('well', 34), ('may', 34), ('12', 34), ('numbers', 34), ('least', 34), ('based', 34), ('2008', 34), ('candidate', 34), ('movie', 34)]

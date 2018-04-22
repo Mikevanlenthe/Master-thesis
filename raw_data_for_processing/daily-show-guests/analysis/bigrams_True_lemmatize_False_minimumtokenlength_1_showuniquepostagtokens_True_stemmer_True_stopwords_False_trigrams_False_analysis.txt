@@ -1,0 +1,57 @@
+Article: daily-show-guests
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 642
+Raw number of types: 313
+Raw Type token ratio: 0.48753894080996885
+
+100 most freq tokens before (pre)processing: 
+[(',', 4546), ("'", 1900), ('(', 1895), (')', 1895), ('the', 561), (':', 451), ('our', 388), ('verdict', 377), ('trump', 318), ('in', 258), ('.', 255), ('a', 242), ('to', 232), ('of', 230), ('1', 223), ('i', 219), ('and', 207), ('positive', 184), ('donald', 155), ('neutral', 132), ('like', 113), ('that', 106), ('on', 105), ('’', 99), ('/', 95), ('for', 94), ('it', 90), ('is', 89), ('you', 85), ("'m", 82), ('with', 81), ('negative', 81), ('hillary', 79), ('at', 77), ("'s", 75), ('s', 67), ('my', 66), ('me', 62), ('was', 58), ("n't", 55), ('we', 55), ('percent', 55), ("''", 54), ('``', 53), ('but', 52), ('clinton', 50), ('from', 49), ('--', 46), ('2015', 45), ('2013', 44), ('were', 43), ('more', 42), ('?', 41), ('have', 41), ('they', 40), ('by', 40), ('than', 40), ('up', 40), ('all', 39), ('police', 39), ('be', 37), ('do', 37), ('this', 37), ('2016', 37), ('got', 36), ('who', 35), ('bill', 35), ('2014', 34), ('has', 34), ('2012', 34), ('get', 33), ('fuck', 33), ('drivers', 33), ('data', 32), ('weather', 32), ('as', 31), ('not', 30), ('his', 30), ('—', 29), ('people', 29), ('!', 28), ('are', 28), ('just', 28), ('money', 28), ('he', 28), ('or', 28), ('2', 28), ('tokens', 27), ('most', 27), ("'to", 27), ('so', 27), ('2008', 27), ('obama', 27), ('state', 27), ("'and", 26), ("'we", 26), ('out', 26), ('what', 25), ('tower', 25), ('“', 24)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = True
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1109
+Number of types: 795
+Type token ratio: 0.7168620378719567
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'are, who , they now, a pretti, i, have, presence on, s, onc, attend, and now, fill, pull, wa, get, feel, who appear, against their, represent a, appear, of th, walk, realli, they nev, several year, is end, am, politics and, these year, the guest, who ar, ve, that year')
+
+('JJ', 'unique guests2, a plur, from th, show appear, standard formula, figur, restore san, s, onc, always been, since h, old i, now h, and brian, daili, ‘ the, to appear, whole, him i, year in, once politician, consist, as long, military figur, everi, the prospect, happen, late, had on, actors musician, comedian, politician, way to, new, not beg, four year, last appear, a head, been a, first, the mic, to th, in between, central, first four, s sat, its first, frequent, subdu, mari, a shot, the govern, hi, with our, started a, and comedian, meld happen, never r, the comedian, edwards with, come along, presence with, brian, had th, with jon, prospect, under tv, show dur, that th, old, has been, releg, walt, the lat, much th, up in, pretty much, jon, about him, often on, sucked to, it , been at, show bi, the 1600odd, their profil, years old, other chair, another 48, show wa, up for, audienc, its last, on th, at war, followed bi, years of, uniqu, william mari, follow, show with, big, i, mic, last new, last, show , there , most often, are stil, presence wa, years though, once again, comedi, pretty big, guest jon, other, bob, standard, the ral, tonight thi, ve been, showing up, show in, the first, had a, show a')
+
+('NN', 'boss, kicking myself, record, like it, to set, the washington, peopl, tv get, host, govern, evan, of a, on thre, be an, dominated th, deni, performers who, gap, fusion, at th, the showbyshow, guest, with visit, chang, a mor, actor, people with, an era, tv, figure to, rally to, ways sinc, sometime around, though actor, knowledg, authors and, visit, way it, count fare, i pul, the data, and muppet, politics cam, daily show, sinc, washington, is today, mind, a consist, for th, hi, in new, an actor, t, muppets and, started host, graduation walk, zakaria ha, and i, williams mi, percent, arm, it wa, along on, a tap, my roomm, other peopl, monarchs and, military or, a fifth, google , in th, tour to, jon, couple of, tonight at, most daili, s talk, time onc, taping juli, chair, since i, formula, appear, musicians and, attended on, profil, stewart ha, was bob, three tim, went to, part, edt on, github github, list for, chair al, relegated to, coupl, been th, list1, on th, march, he start, of grow, year, audience memb, hosting in, by deni, roommates i, mater and, changed significantli, graduat, the most, plurality of, long a, by mi, member, of stewart, emphasi, york evan, but it, shot in, guests stewart, stewart, was a, s chang, run and, to william, s knowledg, fusion h, percent wer, on polit, or polit, s appar, vucci, guests2, comedians domin, saniti, in it, air, alma mat, helping to, myself for, tonight, jon stewart, has chang, s alma, people on, author, kick, big part, sanity in, filed und, left th, friends who, domin, obama and, as an, all peopl, roommat, political figur, to restor, show actor, more subdu, by walt, tape, the gap, fareed zakaria, to b, taping of, with 800000, everyon, figures start, jam, thi, file, really left, caught, begging to, at fus, visits in, obama, dure, war, talk, with th, pretti, i m, shot, and everyon, the daili, fare, in 2005, i attend, wouldn t, interest, actor promot, changed in, metro inadvert, we v, outsized emphasi, the gradu, stewart air, mater, comedy centr, new episod, program with, and then, comedians began, mary stewart, to com, march 2014, list1 and, with hi, interview, ap an, me and, still mi, alma, in 1999, boss ha, just look, has interview, musician, politico, school, stewart drop, fifth of, denis leari, drop, and politico, s run, important they, get th, aug 6, crosschecked each, and hav, brian william, part of, datadailyshowguests presid, leari, times and, daili, tv sinc, on googl, out who, and they, presenc, presid, interesting way, talk show, github data, to grac, affiliated with, import, were soon, era, student, plural, other perform, juli, the show, look, i wa, sometim, last coupl, on comedi, government th, he , member may, ralli, militari, all th, this show, vucci ap, media figur, been on, the militari, whole tim, perform, m, dole of, i went, stewart , guests 21, and th, i jam, stewart wa, in 2008, polit, a movi, figures author, hell of, figures must, in march, the school, record with, and 2000, leaving but, when a, evan vucci, show feel, era i, bob dol, to a, way, movi, it i, soon releg, program, tour, profile on, at 1123, promoting a, start, s outsiz, a run, president obama, with friend, googl, am everi, walt hickey, between th, shut up, on github, during a, host of, of al, on tv, friends at, formula talk, wouldn, help, the last, run, gap militari, featuring th, leary and, feels lik, show a, edt, monarch, muppet, t shut, today, hell, figur, s, july 21, github, data, must hav, head, one tap, s leav, apparently som, promot, for m, in 2010, time, knowledge graph3, growing up, first polit, head in, grow, comedian, today but, prospective stud, happening with, with media, to th, the arm, showbyshow, each of, his last, was import, guests bi, hickey, washington metro, school wouldn, show ha, came to, caught on, for not, friend, inadvert, data on, students tour, find out, our friend, set a, my count, york, emphasis on, interviewed i, an audi, my boss, the whol, mic tonight, grace th, more frequ, new york, dole, ending th, stewart host, jammed onto, frequently and, have been, hickey fil, wa, it , guest list1, pulled th, politicos fil, count, to find, drops th, significantli, appear mor, arm sometim, graph3, filling th, a record, sat in, william, comedians and, i, the way, m kick, started show, the program, politicians caught, fifth, look at, ha, everyone in, metro, were media, a hel, graph3 to, stewart ev, of th, episod, data at, to monarch, guest list, some mind, list, in som, inadvertently help, were affili, as w, actors and, show')
+
+('VBD', 'at 11, featur, run had, s, mind meld, have suck, went, shut, were, had, ever had, began to, sever, began, was 8, left, around 20034, may 20, came, episode tonight, has had, meld')
+
+('NNS', 'again repres, consistent pres, data, media, all thes, elizabeth, war pretti, guests2 against')
+
+('JJS', 'every guest, s guest, datadailyshowguest, guest, at datadailyshowguest, the guest, showbyshow guest, some interest')
+
+('VBZ', 'origin, ha, on th, start, his pres, is, wa, late elizabeth, subdued pres, repres, s, what origin')
+
+('VB', 'run, appear, end, william, set, then crosscheck, come, i, grace, crosscheck, have, be, restor, show, find')
+
+('VBN', 'suck, been, beg, affili, sat')
+
+('NNP', 'zakaria')
+
+('JJR', 'years wer')
+
+100 most freq tokens after processing: 
+[('the', 572), ('our', 398), ('verdict', 380), ('our verdict', 377), ('trump', 344), ('in', 279), ('to', 259), ('a', 252), ('of', 246), ('i', 242), ('1', 241), ('and', 233), ('posit', 185), ('verdict posit', 178), ('donald', 163), ('donald trump', 147), ('s', 144), ('like', 139), ('neutral', 132), ('that', 129), ('verdict neutr', 128), ('it', 121), ('on', 121), ('for', 109), ('you', 105), ('is', 104), ('at', 92), ('m', 92), ('with', 91), ('hillari', 82), ('neg', 82), ('we', 81), ('i m', 81), ('my', 76), ('percent', 75), ('in th', 73), ('me', 72), ('verdict neg', 71), ('nt', 69), ('wa', 68), ('have', 62), ('but', 62), ('get', 62), ('from', 59), ('be', 56), ('clinton', 56), ('do', 53), ('were', 53), ('they', 52), ('more', 52), ('thi', 51), ('of th', 51), ('the trump', 51), ('by', 50), ('than', 50), ('up', 50), ('all', 49), ('peopl', 47), ('go', 47), ('2015', 47), ('one', 46), ('who', 45), ('ha', 44), ('state', 44), ('2013', 44), ('driver', 44), ('at th', 43), ('bill', 42), ('2013 our', 42), ('as', 41), ('got', 41), ('percent of', 41), ('fuck', 41), ('2015 our', 41), ('not', 40), ('he', 40), ('data', 40), ('hi', 39), ('polic', 39), ('are', 38), ('or', 38), ('just', 38), ('need', 38), ('2016', 38), ('tower', 38), ('so', 37), ('said', 37), ('if', 36), ('out', 36), ('want', 36), ('2', 36), ('2014', 36), ('1 i', 36), ('what', 35), ('year', 35), ('2012', 35), ('about', 34), ('an', 34), ('to th', 34), ('their', 33)]

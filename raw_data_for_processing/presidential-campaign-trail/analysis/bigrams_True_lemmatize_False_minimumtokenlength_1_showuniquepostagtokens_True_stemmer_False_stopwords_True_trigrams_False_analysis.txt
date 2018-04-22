@@ -1,0 +1,55 @@
+Article: presidential-campaign-trail
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 128
+Raw number of types: 98
+Raw Type token ratio: 0.765625
+
+100 most freq tokens before (pre)processing: 
+[('the', 2080), (',', 2061), ('.', 1177), ('of', 994), ('a', 861), ('in', 817), ('to', 769), ('and', 695), ('’', 604), (':', 538), ('that', 477), ('our', 438), ('verdict', 377), ('s', 362), ('is', 349), ('trump', 338), ('it', 332), ('on', 329), ('for', 320), ('i', 283), ('1', 281), ('with', 243), ('at', 224), ('percent', 207), ('(', 207), (')', 207), ('more', 206), ('—', 202), ('by', 199), ('we', 197), ('this', 196), ('are', 192), ('but', 190), ('positive', 189), ('as', 181), ('“', 169), ('”', 169), ('like', 167), ('than', 165), ('donald', 156), ('from', 155), ('have', 148), ('you', 146), ('about', 140), ('data', 135), ('or', 135), ('was', 134), ('neutral', 133), ('an', 132), ('t', 125), ('be', 117), ('they', 115), ('one', 113), ('has', 110), ('/', 103), ('their', 98), ('not', 97), ('other', 94), ('out', 93), ('all', 91), ('who', 89), ('what', 87), ('so', 86), ('which', 86), ('were', 85), ('when', 85), ('2', 85), ('his', 84), ('up', 84), ('negative', 83), ('people', 83), ('my', 82), ('there', 81), ('he', 81), ('hillary', 81), ('?', 81), ('if', 80), ('get', 78), ('how', 78), ('state', 78), ('model', 77), ('some', 76), ('me', 76), ('can', 75), ('most', 73), ('films', 73), ("'m", 72), ('3', 68), ('do', 66), (';', 66), ('only', 65), ('just', 65), ('polls', 65), ('10', 62), ('those', 61), ('rock', 60), ('said', 59), ('also', 57), ('5', 56), ('where', 54)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 187
+Number of types: 172
+Type token ratio: 0.9197860962566845
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'clinton campaign, news, campaigning, pm the, through nov, her dayaftertheelection, in one, on github, github github, can see, matthew, the data, and hillaryspeechescom1, dayaftertheelection, data on, has been, clinton made, clinton, their campaign, election, get the, campaign, york, dayaftertheelection concession, the last, conlen, matthew conlen, than clinton, main postelection, at 334, election get, she didn, inperson media, didn t, sept 1, hillaryspeechescom1 you, in the, handy, new york, hillary clinton, pm, donald trump, the main, weeks of, trump, hillaryspeechescom1, of 2016, by matthew, news and, concession, campaign has, t do, postelection, handy gif, github data, data at, datapresidentialcampaigntrail one, one of, concession speech, collected from, gif, of the, compared in, gif by, clinton he, donald')
+
+('JJ', 'campaigning donald, hillary, traveling than, according to, last, new, how their, under 2016, one handy, you can, the hillary, the conservative, inperson, conservative, stops, enough, in new, main, nov, campaign stops, from sept, and inperson, daily, that she, including her, of the')
+
+('NNS', 'appearances, data, stops rallies, media, rallies fundraisers, campaign schedules, maps, media appearances, the maps, weeks, postelection criticisms, github, to data, schedules, fundraisers, campaign stops, criticisms')
+
+('VBZ', 'daily news, rallies, only 71, stops')
+
+('VBD', 'speech in, speech, certainly did, filed, made, he made, conlen filed, last 10, dec 16, schedules compared, sept')
+
+('VB', 'maps above, get')
+
+('VBP', 'appearances from, fundraisers and, see how, github, datapresidentialcampaigntrail, criticisms of, see, stops in, at datapresidentialcampaigntrail')
+
+('VBG', 'york according, including, according, more traveling, 71 including, traveling, enough campaigning')
+
+('VBN', 'collected, i collected, compared')
+
+('JJR', 'filed under')
+
+100 most freq tokens after processing: 
+[('verdict', 377), ('our verdict', 377), ('trump', 338), ('1', 288), ('of the', 222), ('in the', 218), ('percent', 207), ('positive', 189), ('verdict positive', 178), ('like', 167), ('donald', 157), ('donald trump', 146), ('data', 135), ('neutral', 133), ('verdict neutral', 128), ('one', 116), ('to the', 97), ('percent of', 92), ('it s', 91), ('2', 88), ('negative', 83), ('people', 83), ('hillary', 81), ('get', 78), ('on the', 78), ('state', 78), ('model', 77), ('i m', 76), ('3', 75), ('10', 73), ('films', 73), ('verdict negative', 71), ('5', 65), ('polls', 65), ('and the', 64), ('rock', 61), ('at the', 61), ('said', 59), ('also', 57), ('clinton', 54), ('2014', 53), ('2015', 53), ('time', 53), ('6', 53), ('the trump', 53), ('women', 53), ('github', 52), ('new', 52), ('would', 51), ('2016', 51), ('2013', 51), ('number', 50), ('year', 48), ('2012', 48), ('points', 48), ('film', 48), ('4', 47), ('nt', 46), ('for the', 46), ('classic', 46), ('classic rock', 46), ('the data', 45), ('two', 45), ('got', 43), ('more than', 42), ('much', 42), ('2013 our', 42), ('2015 our', 41), ('average', 40), ('bill', 40), ('police', 39), ('make', 39), ('from the', 39), ('candidates', 39), ('see', 39), ('the most', 39), ('test', 39), ('8', 38), ('day', 38), ('election', 38), ('9', 38), ('among', 37), ('don t', 37), ('with a', 37), ('even', 37), ('way', 37), ('number of', 37), ('likely', 36), ('7', 36), ('years', 36), ('15', 36), ('last', 36), ('in a', 36), ('1 i', 36), ('us', 35), ('money', 35), ('obama', 35), ('to be', 35), ('use', 35), ('first', 34)]

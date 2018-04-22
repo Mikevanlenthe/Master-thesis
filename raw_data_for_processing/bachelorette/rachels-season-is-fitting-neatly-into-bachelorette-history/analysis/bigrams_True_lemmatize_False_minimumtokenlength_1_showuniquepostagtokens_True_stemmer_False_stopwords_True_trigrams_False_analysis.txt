@@ -1,0 +1,59 @@
+Article: bachelorette/rachels-season-is-fitting-neatly-into-bachelorette-history
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 678
+Raw number of types: 296
+Raw Type token ratio: 0.4365781710914454
+
+100 most freq tokens before (pre)processing: 
+[('the', 5242), (',', 5108), ('.', 3452), ('of', 2587), ('a', 2225), ('to', 2173), ('in', 2030), ('and', 1894), ('’', 1718), ('that', 1235), ('for', 924), ('s', 917), ('is', 865), (':', 829), ('on', 759), ('it', 742), ('are', 640), ('“', 616), ('”', 615), ('with', 590), ('our', 576), ('at', 546), ('by', 537), ('we', 536), ('team-logo', 535), ('more', 523), ('as', 522), ('—', 506), ('(', 492), (')', 492), ('i', 479), ('but', 477), ('this', 443), ('they', 436), ('trump', 436), ('t', 409), ('you', 409), ('or', 401), ('have', 388), ('than', 381), ('percent', 378), ('verdict', 377), ('from', 376), ('was', 369), ('who', 366), ('about', 365), ('one', 357), ('polls', 357), ('1', 356), ('be', 350), ('an', 308), ('data', 289), ('has', 288), ('their', 283), ('like', 280), ('were', 279), ('all', 276), ('not', 267), ('said', 262), ('if', 253), ('he', 249), ('there', 241), ('how', 239), ('most', 231), ('other', 229), ('can', 227), ('so', 225), ('?', 221), ('pollsters', 214), ('some', 213), ('those', 208), ('what', 208), ('when', 207), ('positive', 200), ('which', 197), ('his', 196), ('out', 194), ('polling', 191), ('get', 190), ('people', 187), ('up', 187), ('also', 182), ('each', 177), ('had', 175), ('donald', 170), ('2', 170), ('poll', 170), ('just', 167), ('two', 160), ('points', 160), ('only', 159), ('%', 157), (';', 151), ('do', 150), ('will', 146), ('new', 143), ('time', 142), ('them', 141), ('league', 141), ('its', 140)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 887
+Number of types: 752
+Type token ratio: 0.8478015783540023
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'has seen, the strongest, of a, head both, or less, check in, the competition, than smallgroup, and rachel, a oneonone, their bachelor, bachelorette, to favor, given to, him forward, re about, meet at, bestcase, one who, s gone, a point, season has, rachel s, bryan is, as half, or bachelorette, much time, television and, challenge, koeze, recipient, love at, contestant won, matt who, the field, demario who, by rachel, on no, s a, demario, half of, love, guy, or soon, on television, total of, weeks of, those tend, elimination with, on one, eliminations1 she, percent, coming up, the contestant, rachel, season, wrote more, date proper, soon enough, week six, the date, that people, data on, bit, better than, is far, head, the recipient, ella, is the, historical power, are neck, twoonone date, and so, poor adam, date, bachelor, power of, unscheduled elimination, top three, the most, the bachelorette, enough and, chance the, to check, of twoonone, to spend, her guy, go to, smallgroup, and ella, been on, week but, everyone, than her, twoonone, s late, with any, two weeks, exclusive the, recipient bryan, s season, one of, as they, preseason, so on, within the, roseceremony, jul 17, went head, lee, rigorous preseason, eric s, stretch of, roseceremony eliminations1, onethird of, further proof, have we, s about, week, as one, time each, onethird, oneonone as, at how, elimination, bryan coming, re in, are better, get the, rachel has, thing, challenge like, more but, counting a, neck in, based on, about to, each contender, break, and bachelorette, her challenge, move, the serpentine, guy the, how each, oneonone date, kenny and, day one, a threeonone, wasn t, to in, broken up, to go, man she, contender has, s held, github, dean, than no, bachelor and, with a, mean a, dates are, dean and, considering how, on twoonone, bachelorette analysis, tv, get, twoonone as, adam and, ella koeze, hickey and, kenny wasn, data at, though he, each season, than half, a date, the man, she s, people who, proper and, is further, stretch, he is, than 25, be real, to meet, eliminations1, bryan each, and lee, competition, four weeks, bachelorette by, more than, of season, bestcase scenario, tv get, this point, higher value, competition but, on how, held up, tend to, on peter, day, one date, point, time to, a bit, history now, than largegroup, six was, which are, and neck, spent with, say about, rachel with, her aggregate, three and, value, threeonone, point value, attorney, so than, history, but most, head to, a chance, reality, we ve, the data, late break, first time, date a, half, home stretch, at databachelorette, early oneonone, proof, we re, can we, power, could be, a twoonone, strongest move, field, and poor, time, percent of, dean are, speaking oneonone, firstimpression, chart is, bit more, on github, scenario, texas who, finale love, up with, dates with, history by, with demario, anything, preseason bachelor, neck and, we wrote, with rachel, point bestcase, chance, all history, to move, from texas, github github, final four, girl, she will, this chart, home, largegroup, the finale, no one, rachel last, have gone, serpentine lee, and when, with the, won the, date 95, at this, an attorney, oneonone in, but if, by walt, date with, lee was, contender, her season, to the, time as, bryan, move on, databachelorette, television, half a, just behind, has been, value to, analysis, go on, contestant who, it s, doom, the firstimpression, scenario she, man, perfect time, harsh reality, bachelorette history, hickey, as onethird, this season, walt, neck, how it, and matt, rejected by, oneonone, bachelor or, season is, t her, texas, the next, gone on, love it, in on, date and, it off, move him, when kenny, github data, of the, peter')
+
+('VBG', 'shocking thing, break getting, shocking, stand counting, following, learned anything, by assigning, going, breaking, generally speaking, assigning, getting, favor breaking, counting, were getting, four going, if anything, crazy thing, speaking, dates going, is fitting, proceeded considering, the following, most shocking, coming, the remaining, remaining, fitting, considering, before going')
+
+('VBN', 'has proceeded, everyone met, held, rejected, has won, gently rejected, seen, seen seven, better than, ‘, published, gone, was eliminated, have broken, given, has narrowed, sight, spent, are eliminated, engaged, based, one unscheduled')
+
+('VBD', 'we learned, really had, doomed, decided, rose, narrowed, koeze filed, firstimpression rose, analysis did, bounced, rachel decided, spend with, learned, proceeded, wrote, databachelorette published, are doomed, first sight, season 13, of 55, went, eliminated, has had, less for, were bounced, value based, met, filed, ve looked, men eliminated, each had, gets engaged')
+
+('NNS', 'most twoonones, data, dates, three cases, bryan, the men, weeks, folks, participants, did rachel, breaking it, numbers, rose the, hometown dates, whose families, hometowns, season reinforces, means, years, predecessors, lee, previous contestants, the dates, aggregate predecessors, oneonone dates, date survivors, adam, four gentlemen, gentlemen, in terms, twoonones, to hometowns, seven men, in years, families, terms, survivors, with men, cases, people, the numbers, those dates, of participants, men, contestants, on dates, going into, real folks, she gets')
+
+('JJ', 'assigning a, tend, following week, into hometown, before at, now we, contestant, behind the, harsh, a total, nice, how exclusive, next we, enough to, previous, one the, had an, the home, our rigorous, real, comes next, rachel s, behind eric, more than, how much, narrowed the, in week, decided kenny, and dean, where all, ve spent, next, eliminated on, threeonone as, of those, well peter, point, peter dean, historical, the final, dates which, on this, about the, next two, and bryan, finale, gone within, lee went, sight could, the historical, with bryan, walt hickey, to mean, final, to head, going on, about to, the contestant, poor, perfect, unscheduled, rachel, much, last, swiftly the, top, last week, more so, for the, head, eric, published jul, under tv, it s, rose given, bachelorette which, broken, late, time they, serpentine, within four, crazy, mean, the first, doomed no, means it, lindsay an, first, into the, up just, s all, men whose, rigorous, hometown, among the, on the, total, to four, swiftly or, what can, more or, the harsh, kenny, seems to, dates with, had to, historically those, dean, twoonone, looked, a perfect, into ‘, in the, oneonone, enough, exclusive, had a, engaged to, like previous, the rose, anything this, remaining three, makes the, with their, the top, field down, of the, getting a, won in')
+
+('VB', 'should have, check, going into')
+
+('VBP', 'folks so, predecessors her, years we, say, will have, who go, men on, cases the, terms of, dates more, reinforces the, families she, matt, survivors are, spend, go, who s, all of, peter and, favor, love, contestants rachel, so have, participants are, men stand, far behind, aggregate, oneonone, gentlemen handle, dates are, any of, numbers on, who everyone, stand, dates one, they ve, lindsay, dates has, dates love, handle, chart, meet, we say, who has, rachel lindsay, spell, rachel, twoonones spell')
+
+('VBZ', 'to dates, reinforces, comes, what comes, dates, twoonone dates, largegroup dates, here s, she seems, and 19, that rachel, makes, seems, gets, who makes, that s, smallgroup dates, no dates, that nice, which means')
+
+('JJS', 'strongest')
+
+('JJR', 'filed under, less, higher')
+
+('NNP', '‘ bachelorette')
+
+100 most freq tokens after processing: 
+[('of the', 597), ('in the', 551), ('teamlogo', 535), ('1', 439), ('trump', 437), ('percent', 378), ('verdict', 377), ('our verdict', 377), ('one', 360), ('polls', 358), ('data', 289), ('like', 280), ('said', 262), ('2', 231), ('pollsters', 214), ('to the', 207), ('10', 203), ('positive', 200), ('11', 192), ('polling', 192), ('get', 190), ('it s', 190), ('people', 187), ('also', 182), ('verdict positive', 178), ('percent of', 175), ('on the', 171), ('donald', 171), ('poll', 170), ('two', 160), ('13', 160), ('points', 160), ('%', 157), ('donald trump', 156), ('3', 155), ('and the', 152), ('14', 151), ('12', 144), ('new', 143), ('time', 142), ('average', 141), ('league', 141), ('election', 140), ('number', 140), ('would', 136), ('neutral', 135), ('github', 133), ('15', 133), ('many', 129), ('for the', 128), ('verdict neutral', 128), ('much', 125), ('at the', 122), ('to be', 122), ('year', 121), ('see', 119), ('5', 116), ('first', 115), ('even', 113), ('don t', 110), ('the most', 108), ('us', 107), ('state', 107), ('pollster', 107), ('likely', 106), ('last', 106), ('4', 106), ('in a', 102), ('results', 101), ('since', 100), ('more than', 99), ('percentage', 99), ('three', 98), ('years', 98), ('may', 97), ('the data', 97), ('17', 97), ('national', 97), ('number of', 97), ('16', 96), ('season', 96), ('2016', 94), ('hillary', 94), ('clinton', 94), ('make', 93), ('the same', 93), ('2014', 92), ('i m', 92), ('use', 92), ('6', 91), ('another', 90), ('error', 90), ('negative', 90), ('that the', 87), ('ratings', 87), ('of a', 86), ('with the', 86), ('with a', 86), ('model', 86), ('19', 86)]

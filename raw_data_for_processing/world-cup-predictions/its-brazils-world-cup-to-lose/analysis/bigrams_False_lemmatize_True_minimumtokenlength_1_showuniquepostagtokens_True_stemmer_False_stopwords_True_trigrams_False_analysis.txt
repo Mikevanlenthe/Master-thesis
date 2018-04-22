@@ -1,0 +1,59 @@
+Article: world-cup-predictions/its-brazils-world-cup-to-lose
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 5068
+Raw number of types: 1121
+Raw Type token ratio: 0.22119179163378058
+
+100 most freq tokens before (pre)processing: 
+[(',', 9664), ('the', 8414), ('.', 5782), ('of', 4194), ('a', 3620), ('to', 3434), ('in', 3156), ('and', 3118), ('’', 2899), ('that', 1901), ('(', 1619), (')', 1617), ('s', 1606), ('for', 1415), ('is', 1397), ('it', 1210), ('on', 1209), (':', 1139), ('are', 1018), ('“', 996), ('”', 995), ('—', 901), ('with', 889), ('at', 885), ('as', 875), ("'", 871), ('we', 863), ('by', 807), ('but', 806), ('i', 793), ('percent', 783), ('more', 749), ('this', 715), ('our', 694), ('or', 682), ('they', 672), ('have', 643), ('you', 642), ('trump', 640), ('from', 634), ('t', 618), ('was', 598), ('about', 579), ('be', 577), ('who', 562), ('than', 561), ('team-logo', 535), ('one', 530), ('data', 519), ('an', 499), ('has', 494), ('were', 493), ('?', 451), ('not', 451), ('all', 434), ('their', 421), ('so', 415), ('he', 412), ('1', 398), ('there', 397), ('said', 396), ('like', 384), ('how', 377), ('verdict', 377), ('if', 373), ('polls', 364), ('can', 354), ('his', 349), ('other', 348), ('what', 345), ('some', 341), ('people', 341), ('which', 337), ('most', 327), ('out', 318), ('those', 313), ('had', 313), ('when', 313), ('also', 299), ('up', 273), ('get', 270), ('each', 267), ('just', 255), ('only', 252), ('do', 242), ('two', 240), ('its', 231), ('new', 225), ('time', 225), ('world', 224), ('github', 222), ('these', 222), (';', 218), ('will', 218), ('them', 217), ('would', 215), ('been', 214), ('pollsters', 214), ('no', 206), ('year', 206)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 2428
+Number of types: 918
+Type token ratio: 0.37808896210873144
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'rest, costa, vary, slice, france, northsouth, beat, qatar, fond, miracle, quite, include, weight, line, play, ml, prone, plusminus, offensive, thing, conclusion, qualification, inconsistent, confederation, serbia, ireland, korea, ivory, topflight, jet, sneijder, couple, city, importance, tradition, conjunction, condition, chile, bayern, defensive, state, complexity, probability, definition, result, question, stage9, world, game, project, distance, pride, link, level, track, news, allow, bivariate, cycle, lag, purist, addition, summer, basketball, onward, completion, view, amount, surprise, fact, matter, loss, paraguay, edge, goal, year, contrast, use, winner, difference, deny, rival, nelson, today, composition, work, cinderella, experience, way, punchline, rica, forecast, introduction, flag, ecuador, attention, component, problem, cup, top, margin, drawn, qualify, belgium, threat, espn, birthday, prudent, u, dream, turf, size, pas, messi, group, scolari, sunderland, notion, mexico, emerge, leg, predict, antijoe, end, fluid, colleague, place, reward, bosniaherzegovina, notice, spi, math, algorithm, month, defy, home, peru, south, draw, advance, wildcat, opponent, start, tournament, projection, note, captain, dice, athlete, lack, adjustment, pessimism, see, midway, pay, principle, match7, gold, detail, preparation, stage, research, chance, rate, qualifier, favor, approach, team, england, le, eye, japan, wesley, photo, struggle, index, challenge, power, rank, homefield, unit, flaw, price, paulo, coach, instance, namath, percentage, jun, country, roster, history, guess, consensus, persie, score, host, van, list, explain, tell, course, munich, travel, cameroon, champion, sport, football, poisson, example, information, tunisia, devil, face, prolific, side, class, silver, croatia, europe, look, computer, model, greece, elo, lineup, word, effect, sao, lot, sunday, player, market, alok, doubt, klinsmann, reason, jurgen, none, ease, steer, entrant, avoidance, regression, part, drogba, affair, didier, robben, position, offense, get, advantage, competition, brazil, bit, worst, cristiano, form, argentina, number, continent, time, afp, america, pitch, spain, gain, soccer, squad, defense, parity, luiz, point, star, pm, iran, arjen, opportunity, proposition, desert, estimate, practice, win, outcome, championship, sort, something, hope, knockout, chelsea, man, death, substitution, field, upset, tomorrow, club, league, cup2, algeria, talent, copa, period, distribution, rating, story, pelé, nate, lionel, debate, improvement, range, occur, team5, exception, record, secondplace, address, roundrobin, system, percent, pattani, trophy, slot, felipe, footballer, harder, tiebreaker, weigh, credit, decade, inference, bet, barcelona, match, robin, russia, bounce, imago, elite, transfer, momentum, colombia, portugal, fear, advancement, sufficient, italy, peg, image, recommend, almeida, coast, fifa, june, germany')
+
+('VBP', 'spain, give, lose, get, colombia, brazil, costa, chile, england, hold, face, basketball, coach, villanova, south, italy, say, favorite, argentina, africa, begin, info, provide, go, fifa, include, see, find, switzerland, ie, win, follows4, match, take, tell, germany, need, make, russia, play, know, spi, uruguay')
+
+('VBN', 'fallen, established, put, taken, clinched, flawed, climbed, selected, compared, found, blown, given, filed, improved, based, allowed, calibrated, favored, called, made, defenseminded, played, used, developed, homefield, designed, constructed, held, evaluated')
+
+('JJ', 'american, scale, spain, sure, handle, updating, great, squad, anticipate, true, individual, wonderful, topheavy, international, inflated, heavy, rica, middle, star, composite, defeats3, tried, stoke, insert, midtier, ecuador, component, thursday, safe, tiny, clean, possible, big, tour, top, last, eastwest, hosted, win, upcoming, championship, pull, useless, different, reflect, know, glaze, lucky, bearish, prone, reasonable, rise, helpful, 30th, ghana, promising, travel, dangerous, offensive, ncaa, prudent, necessary, long, useful, u, upset, close, outside, fc, mere, second, available, mentioned, insist, historic, hemisphere, antipodal, huge, korea, favorite, significant, interactive, north, fancy, ivory, algeria, topflight, brazilian, forecasting, real, mexico, assigns, talent, played, final, ambiguous, recent, f, much, greece, relative, distinguish, regular, fourth, lineup, entertain, particular, red, pleased, alternative, old, euro, historical, deep, spi, uruguay, open, united, irrational, interested, give, able, underwhelming, first, continental, likely, inferior, minor, main, total, chile, small, defensive, err, national, klinsmann, madrid, mean, transcontinental, 65th, equal, clear, obscure, early, draw, many, south, advance, current, opponent, easy, predictive, common, credible, several, tournament, superior, arsenal, africa, friendly, little, transparent, third, signal, unfortunate, average, questionable, complex, past, prepare, disposed, overall, ridiculous, simple, assessment, fair, geographic, strong, computational, major, tuneup, weak, elite, optimistic, allow, colombia, brazil, african, detailed, predictable, prevent, quick, team, high, japan, consistent, alive, soft, distant, large, italy, enough, semifinal, entire, retrospective, late, sixth, resemble, israel, argentina, peg, northern, odd, european, separate, underway, senegal, rank, competitive, pose, good, almeida, homefield, plenty, fifa, hard, important, america, longterm, germany, diagonal, wide, notable, nelson, previous, bad, getty')
+
+('VBD', 'came, lost, dominated, offenseminded, paid, c, put, scored, brazil, ranked, implied, substituted, betfair, conceded, occurred, qualified, found, started, read, described, said, draw, mattered, celebrated, g, calibrated, argentina, h, hurt, set, threatened, made, mexico, played, cup, rolled, listed, santos, correlated, whereas, elo, least, rank, outright, helped, paraguay, beaten, provided, failed, b, traveled, announced, suggested, pulled, need, russia, play, advanced, meant, compiled, spi, suppose, e, united')
+
+('VBG', 'dating, taking, playing, promising, traveling, varying, letting, launching, going, assigning, hoping, seeking, basketballrating, looking, aging, playerrating, involving, drawing, winning, playerranking, finding, advancing, interesting, beating, deserving, flying, using, running, knowing, betting, evaluating, mentioning, stretching, losing, coming, qualifying, accomplishing, scoring, ranking, trying, according, placing, excluding, leading, speaking, starting, comparing, middling, predicting, booking, declining, prevailing, evening, homecoming, housekeeping')
+
+('VB', 'rise, playing, get, bit, le, team, samplesize, keep, require, klinsmann, tougher, italy, run, blow, impact, informative, accumulate6, reduce, score, look, rank, come, fluke, dictate, entertain, see, win, pull, match, take, tell, debate, need, make, bosniaherzegovina, russia, play, reflect, trick, qualify, overcome, pitch')
+
+('NNS', 'data, ghana, brazil, men, others, stats, netherlands, draw, odds, honduras, argentina, algeria, mexico, cup, whereas, nigeria, fluke, win, australia, calculates, sample, bosniaherzegovina, spi')
+
+('JJR', 'higher, weaker, lesser, lower, closer, qualifier, better, worse, easier')
+
+('VBZ', 'includes, keen, evaluates, fails, concedes, follows, requires, netherlands, ronaldo, belongs, reflects, seems')
+
+('NNP', 'v')
+
+('JJS', 'eastwest, secondhighest, worst, best, biggest, least, weakest, seventhbest, secondbest')
+
+100 most freq tokens after processing: 
+[('percent', 793), ('trump', 657), ('one', 585), ('poll', 549), ('teamlogo', 539), ('data', 523), ('1', 494), ('like', 410), ('said', 404), ('year', 384), ('verdict', 380), ('people', 349), ('pollster', 321), ('time', 316), ('get', 308), ('number', 308), ('also', 303), ('state', 296), ('point', 278), ('team', 277), ('10', 269), ('2', 263), ('two', 244), ('world', 229), ('new', 229), ('u', 228), ('11', 225), ('would', 223), ('github', 222), ('election', 216), ('result', 211), ('positive', 207), ('13', 207), ('american', 204), ('rating', 203), ('game', 197), ('much', 196), ('film', 195), ('first', 194), ('average', 193), ('make', 192), ('many', 192), ('polling', 192), ('14', 191), ('donald', 188), ('%', 188), ('3', 187), ('voter', 185), ('see', 183), ('even', 182), ('may', 182), ('12', 181), ('republican', 180), ('player', 180), ('group', 179), ('since', 177), ('15', 177), ('win', 173), ('likely', 171), ('league', 162), ('candidate', 160), ('last', 156), ('woman', 155), ('way', 154), ('three', 149), ('question', 147), ('among', 146), ('2014', 145), ('5', 144), ('16', 144), ('model', 142), ('season', 141), ('president', 140), ('think', 140), ('take', 140), ('still', 139), ('neutral', 138), ('day', 137), ('week', 137), ('national', 137), ('2016', 135), ('respondent', 135), ('vote', 132), ('le', 129), ('look', 128), ('well', 127), ('least', 127), ('17', 127), ('percentage', 127), ('rate', 127), ('every', 125), ('chance', 124), ('4', 123), ('country', 122), ('city', 122), ('say', 121), ('come', 120), ('go', 119), ('another', 118), ('race', 117)]

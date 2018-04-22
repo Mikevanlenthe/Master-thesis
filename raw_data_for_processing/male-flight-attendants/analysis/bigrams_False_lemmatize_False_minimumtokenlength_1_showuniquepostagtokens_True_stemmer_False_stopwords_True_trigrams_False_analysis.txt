@@ -1,0 +1,57 @@
+Article: male-flight-attendants
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 846
+Raw number of types: 360
+Raw Type token ratio: 0.425531914893617
+
+100 most freq tokens before (pre)processing: 
+[(',', 7504), ('the', 6479), ('.', 4345), ('of', 3285), ('a', 2747), ('to', 2701), ('in', 2451), ('and', 2405), ('’', 2193), ('that', 1532), ('(', 1239), (')', 1239), ('s', 1215), ('for', 1126), ('is', 1085), (':', 984), ('on', 948), ('it', 922), ('are', 798), ('“', 764), ('”', 763), ('with', 714), ('at', 686), ('as', 677), ('we', 667), ("'", 665), ('—', 660), ('by', 641), ('trump', 636), ('our', 631), ('more', 621), ('i', 612), ('but', 601), ('they', 567), ('this', 552), ('team-logo', 535), ('or', 529), ('you', 524), ('percent', 510), ('from', 501), ('t', 487), ('have', 479), ('who', 471), ('about', 466), ('than', 457), ('was', 451), ('be', 443), ('one', 428), ('data', 400), ('were', 398), ('an', 385), ('verdict', 377), ('1', 376), ('has', 368), ('?', 363), ('polls', 361), ('not', 351), ('their', 340), ('all', 338), ('said', 335), ('like', 322), ('how', 316), ('there', 307), ('he', 305), ('other', 295), ('if', 291), ('so', 287), ('can', 283), ('people', 277), ('most', 276), ('what', 276), ('his', 274), ('some', 265), ('those', 261), ('which', 256), ('when', 249), ('out', 238), ('get', 229), ('also', 226), ('had', 223), ('up', 215), ('pollsters', 214), ('positive', 204), ('just', 202), ('each', 196), ('only', 194), ('two', 191), ('polling', 191), ('do', 189), ('2', 184), ('donald', 180), ('%', 178), (';', 177), ('them', 177), ('poll', 176), ('github', 174), ('points', 172), ('will', 171), ('time', 170), ('number', 169)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 413
+Number of types: 274
+Type token ratio: 0.6634382566585957
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jack, census, male, multitude, center, flight, transport, kind, choice, passenger, aviation, lincolnwood, age, time, attendant, number, pilot, question, percent, reason, piece, list, gender, hope, ap, percentage, data, history, guess, cabin, crew, transportation, category, dearmona, fivethirtyeightcom, worker, datalab538, support, population, phrase, airline, split, grasp, pm, employment, change, send, chicago, fallen, illinois, sector, bureau, thousand, look, recruitment, group, kindergarten, university, database, figure, emergency, job, story, today, share, race')
+
+('JJ', 'male, hispanic, mental, major, american, raw, mona, hard, available, female, interested, different, overall, median, likely, peculiar, answered, public, category, clear, past, similar, useless, breed, civil, black, important, minnesota, administrative, dental, homogenous, unusual, top, dear, bottom, titled, white, many, prior, steady, full')
+
+('NNS', 'inspectors, companies, typists, years, ones, roles, jobs, workers, demographics, teachers, github, interviewers, drillers, chalabi, datamaleflightattendants, personnel, beverages, times, employees, reasons, hairdressers, data, resembles, laws, industries, terms, rights, occupations, races, shows, exits, changes, people, dressmakers, offers, preferences, comparisons, attendants, men, boilermakers, figures, women, surveyors, numbers, decades, standards')
+
+('VBP', 'siefer, expand, extreme, dear, earth, become, change, see, risen, mona, enumerators, texas, show, gender, go, want, help, github, john')
+
+('VBN', 'used, listed, filed, risen, dominated, fallen, stayed, furloughed')
+
+('VB', 'get, keep, see, like, mona, closer')
+
+('VBG', 'answering, pointing, working, making, according')
+
+('VBD', 'occurred, used, compiled, increased, forced, split, entered, rose, looked, pointed, cited, intrigued, april')
+
+('VBZ', 'percentages, makes, seamstresses, looks, sociologists, depends, means, emerges, hygienists, receptionists')
+
+('JJS', 'latest')
+
+('JJR', 'broader, bigger, older, fewer, greater, rarer, younger, better')
+
+100 most freq tokens after processing: 
+[('trump', 643), ('teamlogo', 538), ('percent', 518), ('1', 465), ('one', 437), ('data', 403), ('verdict', 378), ('polls', 365), ('said', 341), ('like', 328), ('people', 283), ('2', 249), ('get', 235), ('10', 232), ('also', 229), ('pollsters', 214), ('positive', 204), ('11', 202), ('two', 194), ('polling', 192), ('donald', 184), ('13', 181), ('%', 178), ('poll', 176), ('3', 175), ('github', 174), ('14', 174), ('time', 173), ('points', 172), ('would', 171), ('new', 171), ('number', 170), ('many', 169), ('12', 166), ('us', 158), ('average', 157), ('election', 157), ('15', 156), ('much', 153), ('see', 148), ('league', 143), ('even', 142), ('year', 142), ('first', 141), ('may', 139), ('neutral', 136), ('voters', 136), ('5', 135), ('likely', 132), ('since', 130), ('years', 126), ('three', 121), ('state', 120), ('last', 119), ('16', 118), ('results', 118), ('among', 115), ('percentage', 115), ('president', 114), ('4', 114), ('17', 113), ('2016', 110), ('clinton', 109), ('make', 108), ('2014', 107), ('pollster', 107), ('women', 106), ('model', 106), ('still', 105), ('national', 105), ('think', 103), ('less', 103), ('6', 102), ('use', 100), ('season', 100), ('films', 100), ('every', 99), ('hillary', 98), ('republican', 98), ('numbers', 98), ('20', 97), ('another', 97), ('19', 97), ('way', 96), ('states', 94), ('2015', 94), ('take', 93), ('8', 93), ('error', 93), ('least', 93), ('negative', 92), ('well', 91), ('whether', 91), ('ratings', 89), ('based', 88), ('18', 88), ('college', 88), ('2012', 87), ('found', 86), ('asked', 86)]

@@ -1,0 +1,57 @@
+Article: terrorism
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 993
+Raw number of types: 475
+Raw Type token ratio: 0.4783484390735146
+
+100 most freq tokens before (pre)processing: 
+[(',', 2504), ('(', 884), (')', 884), ("'", 870), ('the', 467), (':', 420), ('our', 387), ('verdict', 377), ('trump', 318), ('in', 238), ('1', 222), ('of', 204), ('a', 201), ('i', 200), ('.', 198), ('to', 184), ('positive', 184), ('and', 176), ('donald', 155), ('neutral', 132), ('like', 110), ('that', 98), ('/', 93), ('for', 88), ('on', 86), ('is', 81), ('negative', 81), ('it', 79), ('hillary', 79), ("'m", 76), ('you', 75), ('with', 70), ('at', 66), ("'s", 62), ('my', 62), ('’', 59), ('me', 58), ('we', 51), ("n't", 50), ('clinton', 50), ('but', 48), ('was', 47), ('2013', 44), ('2015', 43), ('s', 42), ('--', 41), ('police', 39), ('than', 39), ('percent', 38), ('from', 38), ('have', 37), ('2016', 37), ('more', 36), ('bill', 35), ('2014', 34), ('by', 34), ('were', 34), ('2012', 34), ('they', 33), ('fuck', 33), ('got', 33), ('up', 33), ('drivers', 33), ('?', 31), ('be', 31), ('this', 30), ('who', 30), ('all', 29), ('do', 29), ('get', 29), ('has', 28), ('money', 28), ('as', 27), ('his', 27), ('2', 27), ('state', 27), ('are', 26), ('2008', 26), ('obama', 26), ('so', 25), ('not', 25), ('just', 25), ('out', 25), ('tower', 25), ("''", 24), ('data', 24), (';', 24), ('he', 24), ('what', 24), ('2011', 24), ('``', 23), ('officers', 23), ('black', 23), ('no', 23), ('remix', 23), ('!', 22), ('ai', 22), ('bitch', 22), ('city', 21), ('can', 21)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 558
+Number of types: 393
+Type token ratio: 0.7043010752688172
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'spain, foundation, rest, bialik, london, newspaper, incident, qaeda, organization, thinktank, site, sympathizer, point, life, france, cyprus, pm, shot, property, country, article, dangerousness, religion, december, official, god, malta, tube, eu, century, tour, concert, wave, april, interview, separatism, suspect, passenger, –, thibault, activity, hand, knife, school, anyone, week, tribute, resident, figaro, fighter, belgium, rise, kosher, sajjan, man, czech, birthday, death, quarter, tunisia, half, cutter, croatia, union, train, estonia, service, ireland, terrorism, crash, europe, predict, greece, intelligence, board, carl, responsibility, surplus, august, choice, debate, police, firearm, authority, camus, rock, oneeighth, month, day, factor, coverage, series, prevalence, ukraine, director, scotland, gather, separatist, front, madrid, advisor, hostage, state, contributing, gun, corp, continue, surveillance, fight, beslan, restaurant, michael, violence, slovenia, dinner, plot, database, president, attacker, russia, terror, event, survey, rifle, finland, population, lithuania, email, get, denmark, yugoslavia, victim, weapon, attack2, dataterrorism, romania, crisis, box, arm, check, carillon, italy, github, attack, austria, hollande, supermarket, availability, luxembourg, network, latvia, plane, akbar, number, year, switzerland, june, poland, act, paris, terrorist, security, germany, passport, resource, sister, collapse')
+
+('VBN', 'died, ended, targeted, compiled, combined, killed, gone, blamed, contributed, inspired, tied')
+
+('VBD', 'came, died, aided, suspected, afflicted, climbed, claimed, andrew, found, overwhelmed, linked, committed, returned, said, filed, yelled, made, motivated, appeared, score, thwarted, brought, carried, traveled, crashed, killed, beheaded, inspired')
+
+('NNS', 'data, people, syria, others, stats, bos, jenkins')
+
+('JJ', 'injured, american, islamic, january, email, unclear, great, europol, portugal, unrestricted, parisian, saturday, separatist, u, international, le, asiapacific, western, small, plus, cambodian, republic, difficult, available, hungary, second, russian, large, many, syrian, france, allahu, friday, arrested, oslo, fight, satirical, live, next, al, involvement, northern, wale, european, possible, eu, syria, recent, various, deadly, new, occur, van, last, brian, include, suspect, branch, slovakia, cafe, paris, terrorist, expert, criminal, august, political, french, global, potential, senior, onefourth, former, sweden, democratic, corsican, inspired, ap, previous')
+
+('VB', 'shift, keep, pay, françois, dijon, estimate, go, traded')
+
+('VBG', 'plotting, attending, eating, following, preparing, visiting, shooting, killing, including, celebrating, using, bombing, according, planning')
+
+('JJS', 'least, deadliest, latest')
+
+('JJR', 'higher, fewer, larger')
+
+('VBP', 'terrorism, rand, gohel, europe, travel, england, come, train, link, surveillance, include')
+
+('VBZ', 'netherlands, represents, arson, remains')
+
+100 most freq tokens after processing: 
+[('verdict', 379), ('trump', 334), ('1', 230), ('positive', 184), ('donald', 160), ('neutral', 132), ('like', 118), ('hillary', 81), ('negative', 81), ('nt', 56), ('clinton', 55), ('percent', 48), ('2015', 45), ('2013', 44), ('driver', 44), ('bill', 42), ('get', 40), ('state', 39), ('police', 39), ('2016', 38), ('tower', 38), ('got', 37), ('2012', 35), ('one', 34), ('2014', 34), ('fuck', 34), ('city', 32), ('2', 31), ('money', 30), ('data', 28), ('obama', 28), ('number', 28), ('2008', 27), ('bitch', 26), ('people', 25), ('said', 25), ('10', 25), ('2011', 25), ('officer', 24), ('year', 23), ('black', 23), ('remix', 23), ('need', 22), ('ai', 22), ('would', 21), ('want', 21), ('2010', 21), ('president', 20), ('3', 20), ('live', 20), ('n', 20), ('know', 19), ('think', 19), ('make', 19), ('2000', 19), ('man', 19), ('bush', 18), ('white', 18), ('hiphop', 18), ('way', 17), ('new', 17), ('call', 17), ('time', 16), ('world', 16), ('look', 16), ('2006', 16), ('shit', 16), ('reference', 16), ('15', 16), ('u', 15), ('hilary', 15), ('going', 14), ('country', 14), ('go', 14), ('also', 14), ('even', 14), ('still', 14), ('rich', 14), ('big', 14), ('2005', 14), ('attack', 14), ('back', 13), ('every', 13), ('take', 13), ('last', 13), ('could', 13), ('song', 13), ('rodham', 13), ('involved', 13), ('2007', 13), ('2009', 13), ('fire', 13), ('insurance', 13), ('fatal', 13), ('token', 12), ('many', 12), ('whether', 12), ('come', 12), ('figure', 12), ('day', 12)]

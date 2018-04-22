@@ -1,0 +1,55 @@
+Article: us-weather-history
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 521
+Raw number of types: 247
+Raw Type token ratio: 0.4740882917466411
+
+100 most freq tokens before (pre)processing: 
+[(',', 3958), ('the', 2449), ('.', 1388), ('of', 1144), ('(', 1042), (')', 1042), ('a', 1004), ('in', 947), ('to', 906), ("'", 870), ('and', 815), ('’', 674), (':', 599), ('that', 533), ('our', 442), ('s', 408), ('is', 393), ('for', 377), ('verdict', 377), ('on', 374), ('it', 372), ('trump', 357), ('i', 296), ('with', 282), ('1', 281), ('at', 260), ('—', 243), ('are', 241), ('more', 240), ('percent', 237), ('by', 233), ('but', 225), ('as', 219), ('we', 218), ('this', 212), ('“', 211), ('”', 211), ('than', 189), ('positive', 189), ('have', 183), ('like', 177), ('from', 175), ('you', 164), ('about', 162), ('was', 162), ('donald', 159), ('data', 154), ('or', 154), ('an', 145), ('they', 141), ('t', 138), ('be', 133), ('neutral', 133), ('has', 127), ('one', 126), ('all', 110), ('their', 109), ('/', 108), ('out', 107), ('who', 107), ('not', 106), ('other', 106), ('were', 103), ('most', 101), ('so', 101), ('when', 100), ('people', 97), ('get', 95), ('which', 95), ('?', 94), ('what', 94), ('up', 93), ('there', 92), ('his', 91), ('some', 88), ('can', 88), ('he', 86), ('2', 86), ('how', 85), ('those', 85), ('if', 84), ('my', 84), ('negative', 83), ('hillary', 81), (';', 79), ('state', 79), ('me', 78), ('model', 77), ('films', 77), ("'m", 76), ('do', 76), ('only', 76), ('just', 73), ('3', 71), ('also', 70), ('its', 68), ('polls', 66), ('github', 65), ('10', 65), ('said', 64)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 269
+Number of types: 175
+Type token ratio: 0.6505576208178439
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'climate, seattle, temperature, record, aboveaverage, july, get, show, month, day, setting, houston, report, way, globe, high, spectrum, hotter, tell2, half, cold, spike, http, state, pictwittercomxpj8rfr8bs, github, stateofclimate, view, country, change, tcodjwfrfmmjp, look, dot, period, end, datausweatherhistory, fact, city, olson, snap, world, average, winter, consequence, year, see, june, york, time, story, janjune, heat, administration, part, march, chart, range, detail, randy')
+
+('VBG', 'recordsetting, lasting, studying, setting, beginning, saying')
+
+('JJ', 'blue, affect, january, temperature, noaa, atmospheric, upper, actual, normal, handful, unique, justright, warm, u, western, high, consistent, click, national, hot, cold, general, digit, large, clear, los, many, charlotte, single, several, broad, uncomfortable, north, february, odd, new, noaanceiclimate, low, last, average, particular, past, curious, united, us1, oceanic, chart, different, previous, famous')
+
+('VBD', 'soared, cold, returned, reached, experienced, sat, filed, looked, red')
+
+('JJR', 'weather')
+
+('NNS', 'angeles, data, chicago, others, carolina')
+
+('VBN', 'recorded, examined, released, set, published, updated, expected')
+
+('VBP', 'november, houston, take, feel, make, indicate, wave, aggregate')
+
+('JJS', 'hottest, warmest, best')
+
+('VB', 'feel, expand, wave')
+
+100 most freq tokens after processing: 
+[('verdict', 379), ('trump', 373), ('1', 299), ('percent', 247), ('like', 200), ('positive', 189), ('donald', 164), ('data', 158), ('one', 151), ('film', 136), ('neutral', 133), ('get', 116), ('state', 116), ('people', 105), ('year', 105), ('poll', 96), ('2', 93), ('number', 87), ('model', 87), ('10', 83), ('hillary', 83), ('negative', 83), ('3', 80), ('woman', 77), ('time', 74), ('also', 74), ('candidate', 73), ('said', 72), ('make', 67), ('new', 67), ('movie', 67), ('5', 66), ('point', 66), ('github', 65), ('would', 63), ('republican', 62), ('day', 61), ('2015', 61), ('rock', 61), ('clinton', 59), ('two', 58), ('2014', 58), ('nt', 57), ('6', 55), ('much', 54), ('average', 53), ('2016', 53), ('way', 52), ('american', 52), ('police', 52), ('bill', 52), ('u', 51), ('2013', 51), ('got', 50), ('city', 49), ('likely', 49), ('show', 49), ('election', 49), ('2012', 48), ('see', 47), ('look', 47), ('even', 47), ('4', 47), ('first', 46), ('driver', 46), ('classic', 46), ('test', 44), ('last', 44), ('think', 43), ('win', 42), ('among', 42), ('national', 42), ('president', 41), ('obama', 41), ('come', 41), ('song', 41), ('race', 41), ('case', 41), ('tower', 40), ('rating', 40), ('democrat', 40), ('know', 39), ('every', 39), ('set', 39), ('change', 39), ('20', 38), ('8', 38), ('still', 38), ('9', 38), ('rate', 38), ('many', 37), ('money', 37), ('since', 37), ('example', 37), ('7', 37), ('well', 36), ('go', 36), ('15', 36), ('percentage', 36), ('use', 36)]

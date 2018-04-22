@@ -1,0 +1,57 @@
+Article: trump-world-trust
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 603
+Raw number of types: 281
+Raw Type token ratio: 0.4660033167495854
+
+100 most freq tokens before (pre)processing: 
+[('the', 5288), (',', 5142), ('.', 3466), ('of', 2608), ('a', 2233), ('to', 2182), ('in', 2042), ('and', 1908), ('’', 1728), ('that', 1235), ('for', 929), ('s', 922), ('is', 866), (':', 832), ('on', 768), ('it', 743), ('are', 642), ('“', 617), ('”', 616), ('with', 592), ('our', 577), ('at', 550), ('by', 538), ('we', 537), ('team-logo', 535), ('more', 523), ('as', 523), ('—', 506), ('(', 494), (')', 494), ('i', 479), ('but', 478), ('trump', 449), ('this', 447), ('they', 439), ('t', 410), ('you', 409), ('or', 402), ('have', 393), ('than', 383), ('percent', 380), ('from', 379), ('verdict', 377), ('was', 369), ('about', 366), ('who', 366), ('one', 357), ('polls', 357), ('1', 356), ('be', 350), ('an', 310), ('has', 295), ('data', 291), ('their', 284), ('were', 280), ('like', 280), ('all', 276), ('not', 269), ('said', 262), ('if', 253), ('he', 252), ('there', 241), ('how', 239), ('other', 232), ('most', 231), ('can', 227), ('so', 226), ('?', 223), ('some', 215), ('pollsters', 214), ('what', 212), ('those', 209), ('when', 208), ('positive', 200), ('which', 198), ('his', 197), ('out', 195), ('get', 191), ('polling', 191), ('up', 189), ('people', 187), ('also', 183), ('each', 178), ('had', 175), ('donald', 170), ('2', 170), ('poll', 170), ('just', 169), ('two', 162), ('points', 162), ('only', 159), ('%', 157), (';', 153), ('do', 152), ('will', 147), ('new', 144), ('average', 143), ('time', 143), ('its', 141), ('them', 141)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 837
+Number of types: 671
+Type token ratio: 0.8016726403823178
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'body, to confidence, address, took office, office5 overall, george w, github github, correction, president trump, city this, opinion drop, trump will, world think, on average, since trump, us favorability, when it, in both, andrea jonesrooy, both america, the body, first since, annual survey, disliked average, disapprove of, global net, has a, beyond un, defense agreement, less than, net approval, favorability, approval, us and, international agenda, chart in, chart has, george, and russia, bushera, at datatrumpworldtrust, week, host an, with un, been in, of favorability, ll host, previous version, perceptions of, variety, chart, disapproval at, other hand, office, russia, sep 18, event to, and the, president, whom the, president other, his first, drop on, organization and, information, build a, the pew, year, office confidence, actual content, changed less, of any, mexico and, t just, audience by, gone down, just 13, trump is, points since, discuss, to withdraw, time1 on, best information, york, defense, also saw, percent trump, an average, terrorism, the organization, and climate, the chart, thing, new york, andrea, gus, in russia, pm, published sep, opinion, audience, agenda are, disapprove, an event, monday he, which track, to do, content of, the idea, confidence, korea, say at, percent, trump has, re trump, other world, president has, president4 second, week to, has gone, trump administration, rating, un beyond, to the, return, correction sept, both israel, jump out, syria, content, us confidence, this article, agreement, the trump, gus wezerek, favorable view, net, president have, major trade, gone up, for the, in a, germany and, has been, center, trump s, trump took, public opinion, pew, and 497, the us, world isn, have confidence, public favorability, the net, the other, percentage, at the, pew research, five of, approval of, information on, change in, mexico, article, time they, toward trump, approve of, the president4, target, skeptical audience, average net, the presidency6, world, of the, took office5, second while, idea, audience so, from the, russia and, and mexico, to discuss, version, do the, track with, of trump, time, hand, a wall, the world, issues2 we, the un, climate, variety of, decreased in, by gus, return to, the biggest, the least, pm a, this time, the past, survey, drop, down further, trade, w bushera, research, first time1, though trump, syria terrorism, jonesrooy, what trump, public confidence, third chart, tuesday he, this week, survey since, trump he, russia since, some of, he ll, research center, isn t, confidence in, york city, the current, event, as nato, than favorability, several issues2, climate change, saw a, the right, target audience, change, in the, such as, israel and, formal address, survey pew, germany, collective defense, city, organization, president to, idea of, trump, annual un, a variety, to george, administration, and on, iran agreement, current us, least disapproval, center s, github data, s target, regarding world, data at, the president, president mexico, host, and to, the iran')
+
+('VBZ', 'comes, a big, specific policies, what does, un reforms, in its, toward the, thinks')
+
+('NNS', 'data, world leaders, korea syria, while respondents, two patterns, perceptions, declines, points, un priorities, agreements, world affairs, debuts, the data, results, levels, three years, questions, years, he debuts, he ll, members, five policies, in countries, proposed policies, priorities, github, drops, publics, attitudes, percentage points, world thinks, s plans, major issues, issues2, residents, issues, policies, leaders, two questions, global attitudes, their views, the results, reforms, discuss reforms, countries, trump comes, trump, it comes, nato members, whether respondents, views, patterns, respondents, plans, both questions, bushera levels, affairs, of countries, foreign publics, trade agreements, biggest declines, 1000 residents, asked respondents, the drops')
+
+('JJ', 'uniform some, trends annual, showing the, us has, a return, global public, on global, in this, s global, of president, and andrea, annual, disapproval, of which, iran, at an, major, net approval, are not, previous, whether they, average than, global, formal, chart, the actual, russia, and the, rating of, make his, drew the, israel, international, its 2017, each in, new, current, monday, uniform, to build, on both, get the, north korea, public, the five, withdraw, the third, un, about the, what the, president4, trump our, on monday, under the, the international, and several, for their, with whom, agenda, average global, north, skeptical, to the, are north, attending the, of five, actual, the annual, body the, approximately 1000, net, a collective, a previous, for the, s specific, a skeptical, several, points us, have been, pew, israel germany, the us, general, compared the, withdrawing the, unsurprisingly also, at the, but the, disliked, second, not uniform, specific, universally disliked, in new, overall, the first, from the, big public, un this, of trump, typically has, first, agreement such, us president, does the, foreign, for two, mislabeled israel, first formal, on the, un general, and public, on github, especially when, do not, respectively 7, watching this, year the, up in, to a, right, third, favorable, in the, hand public, out first, past three, us the, big, trump, further on, think of, average, between the, from major, other major, a favorable, of the, on tuesday')
+
+('VBD', 'wall between, we compared, proposed, confidence dropped, policies mislabeled, w, of 505, s proposed, time1, dropped, confidence in, brought, sept, mislabeled, agreement drew, sept 19, saw, changed, took, asked, since 2000, drew, filed, pew asked, been updated, jonesrooy filed, since 2005')
+
+('VB', 'mexico, approve, than those, russia, wall, administration get, make, get')
+
+('VBP', 'presidency6, they have, affairs 3, respondents views, approve, favorability just, jump, say, ll make, view, thinks of, respondents have, plans to, collective, patterns jump, debuts at, week for, priorities foreign, views on, years for, questions on, data on, wezerek and, policies some, favorability for, github, attitudes trends, were almost, they re, they approve, assembly in, generally do, will say, questions whether, build, approval of, any of, comes to, residents each, favorability, terrorism and, us and, reforms to, countries for, results for, issues on, america, levels of, japan, think, declines have, america and, countries with, views, policies but, us have, trends, russia the, leaders and, members and, respondents whether, drops are, track, comes from')
+
+('VBN', 'datatrumpworldtrust published, decreased, updated, compared, published, has asked, gone, have changed, have decreased, have a, has brought')
+
+('VBG', 'of withdrawing, the opening, watching, attending, regarding, withdrawing, showing, just watching, right thing, thing regarding, is attending, article showing, approval rating, opening')
+
+('JJS', 'our best, best, biggest, least')
+
+('JJR', 'filed under, reforms other')
+
+100 most freq tokens after processing: 
+[('of the', 604), ('in the', 556), ('teamlogo', 535), ('trump', 450), ('1', 439), ('percent', 380), ('verdict', 377), ('our verdict', 377), ('one', 360), ('polls', 358), ('data', 291), ('like', 280), ('said', 262), ('2', 231), ('pollsters', 214), ('to the', 209), ('10', 203), ('positive', 200), ('11', 192), ('polling', 192), ('get', 191), ('it s', 190), ('people', 187), ('also', 183), ('verdict positive', 178), ('percent of', 175), ('on the', 174), ('donald', 171), ('poll', 170), ('two', 162), ('points', 162), ('13', 161), ('%', 157), ('3', 156), ('donald trump', 156), ('and the', 154), ('14', 151), ('new', 144), ('average', 144), ('12', 144), ('time', 143), ('league', 141), ('election', 140), ('number', 140), ('would', 136), ('github', 135), ('neutral', 135), ('15', 133), ('for the', 131), ('many', 129), ('verdict neutral', 128), ('much', 125), ('at the', 124), ('year', 122), ('to be', 122), ('us', 119), ('see', 119), ('first', 118), ('5', 116), ('even', 113), ('don t', 110), ('the most', 108), ('state', 107), ('pollster', 107), ('likely', 106), ('last', 106), ('4', 106), ('since', 104), ('in a', 103), ('results', 102), ('percentage', 100), ('three', 99), ('years', 99), ('more than', 99), ('the data', 98), ('may', 97), ('17', 97), ('national', 97), ('number of', 97), ('16', 96), ('season', 96), ('make', 94), ('2016', 94), ('hillary', 94), ('clinton', 94), ('the same', 93), ('2014', 92), ('i m', 92), ('use', 92), ('6', 91), ('another', 90), ('error', 90), ('negative', 90), ('19', 87), ('that the', 87), ('ratings', 87), ('of a', 86), ('with the', 86), ('with a', 86), ('model', 86)]

@@ -1,0 +1,55 @@
+Article: pulitzer
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 904
+Raw number of types: 357
+Raw Type token ratio: 0.39491150442477874
+
+100 most freq tokens before (pre)processing: 
+[(',', 8531), ('the', 7178), ('.', 4909), ('of', 3646), ('a', 3094), ('to', 2952), ('and', 2674), ('in', 2663), ('’', 2464), ('that', 1692), ('(', 1508), (')', 1508), ('s', 1345), ('for', 1233), ('is', 1204), (':', 1074), ('on', 1053), ('it', 1026), ('are', 886), ("'", 871), ('“', 858), ('”', 857), ('with', 786), ('at', 771), ('we', 770), ('—', 769), ('as', 747), ('by', 718), ('i', 695), ('but', 684), ('more', 667), ('our', 664), ('percent', 660), ('trump', 636), ('this', 621), ('they', 601), ('or', 590), ('you', 566), ('have', 551), ('from', 547), ('t', 540), ('team-logo', 535), ('about', 512), ('who', 510), ('was', 503), ('than', 487), ('be', 479), ('one', 475), ('data', 450), ('were', 441), ('an', 427), ('?', 404), ('has', 402), ('1', 385), ('not', 381), ('their', 377), ('verdict', 377), ('all', 365), ('polls', 362), ('said', 359), ('like', 353), ('there', 344), ('how', 340), ('he', 336), ('if', 320), ('so', 317), ('other', 316), ('can', 314), ('what', 313), ('people', 304), ('most', 297), ('some', 292), ('his', 289), ('those', 278), ('which', 277), ('out', 277), ('when', 275), ('had', 263), ('also', 255), ('get', 250), ('up', 241), ('each', 231), ('just', 221), ('only', 218), ('two', 216), ('do', 215), ('pollsters', 214), ('positive', 206), ('them', 196), ('new', 195), ('its', 194), ('will', 192), ('github', 191), ('polling', 191), ('2', 187), (';', 186), ('points', 185), ('time', 184), ('no', 181), ('would', 180)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 438
+Number of types: 250
+Type token ratio: 0.5707762557077626
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'work, way, newspaper, globe, organization, tribune, majority, category, highquality, publishing, relationship, cartoonist, los, washington, oakland, quality, journalism, noisy, york, list, win, something, chart, course, encourage, prize, straightforward, thing, strategy, mercury, edition, mct, congratulation, outlet, silver, post, afford, kevin, change, finalist, alliance, period, couple, explore, print, correlation, afternoon, nate, boston, lot, fan, sunday, editorial, name, factor, total, percent, decline, charlotte, paper, attribution, result, note, success, reader, age, count, subscription, see, part, database, contra, figure, variation, news, consumer, iii, drop, pulitzer, sale, circulation, github, datapulitzer, help, medium, number, year, winner, time, difference, foster, comparison, make, award')
+
+('VB', 'result, reinvest, keep, get, forget, otherwise, take, spin, pulitzer, inexact, succeed, prize')
+
+('VBN', 'provided, listed, gone, filed, seen')
+
+('NNS', 'angeles, publishes, data, orleans, others, github, siers')
+
+('VBP', 'see, print, win, timespicayune, github, predict, sell, say, produce, provide, continue, remain')
+
+('JJ', 'editorial, unclear, wednesday, pulitzer, costa, unfortunately, tribune, total, u, alone, quick, successful, jose, added, broken, mean, second, percent, modest, precise, many, negative, vast, commercial, entire, friday, challenging, decreased, monday, david, daily, economic, investigative, little, finalist, quality, predict, rank, much, new, top, annual, economics, digital, san, database, overall, sort, chart, different, positive, award, prize')
+
+('VBG', 'taking, topping, meaning, retaining, cartooning, hoping, struggling, counting, gravitating')
+
+('VBD', 'counted, changed, increased, searched, affected, announced, included, fell, wanted, experienced, suffered, saw, said, occurred, fivethirtyeight, looked, posted, audited')
+
+('VBZ', 'includes, result')
+
+('JJR', 'outlier, fairer')
+
+100 most freq tokens after processing: 
+[('percent', 670), ('trump', 653), ('poll', 544), ('teamlogo', 539), ('one', 527), ('1', 479), ('data', 454), ('verdict', 380), ('like', 379), ('said', 367), ('pollster', 321), ('people', 312), ('year', 297), ('number', 284), ('get', 283), ('point', 264), ('also', 259), ('time', 257), ('2', 253), ('10', 246), ('state', 238), ('two', 220), ('election', 213), ('11', 212), ('positive', 207), ('new', 199), ('13', 194), ('polling', 192), ('github', 191), ('would', 188), ('u', 185), ('donald', 185), ('result', 183), ('14', 182), ('film', 181), ('many', 179), ('voter', 179), ('3', 178), ('%', 178), ('average', 173), ('see', 172), ('12', 170), ('make', 169), ('much', 168), ('republican', 168), ('15', 165), ('rating', 163), ('likely', 159), ('even', 157), ('first', 156), ('american', 153), ('may', 153), ('woman', 149), ('league', 149), ('candidate', 148), ('since', 147), ('group', 140), ('5', 138), ('neutral', 138), ('among', 137), ('way', 133), ('model', 132), ('day', 130), ('week', 130), ('three', 129), ('win', 128), ('16', 128), ('team', 128), ('president', 127), ('question', 127), ('think', 126), ('vote', 125), ('season', 125), ('player', 125), ('take', 124), ('2014', 124), ('percentage', 124), ('last', 123), ('game', 121), ('still', 120), ('look', 119), ('rate', 119), ('17', 118), ('4', 116), ('le', 115), ('race', 114), ('respondent', 114), ('every', 111), ('clinton', 111), ('least', 111), ('national', 111), ('2016', 110), ('show', 110), ('go', 109), ('say', 107), ('another', 107), ('well', 106), ('20', 106), ('6', 105), ('world', 104)]

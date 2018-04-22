@@ -1,0 +1,59 @@
+Article: librarians
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 532
+Raw number of types: 255
+Raw Type token ratio: 0.4793233082706767
+
+100 most freq tokens before (pre)processing: 
+[(',', 9446), ('the', 7722), ('.', 5279), ('of', 3912), ('a', 3294), ('to', 3151), ('in', 2883), ('and', 2866), ('’', 2654), ('that', 1767), ('(', 1758), (')', 1758), ('s', 1461), ('for', 1325), ('is', 1272), ('on', 1115), (':', 1110), ('it', 1098), ("'", 1077), ('are', 949), ('“', 923), ('”', 922), ('with', 830), ('at', 822), ('—', 818), ('we', 807), ('as', 795), ('by', 767), ('i', 754), ('but', 734), ('percent', 726), ('more', 711), ('our', 685), ('this', 660), ('trump', 637), ('or', 633), ('they', 628), ('you', 608), ('have', 592), ('from', 590), ('t', 569), ('was', 547), ('about', 546), ('team-logo', 535), ('who', 524), ('than', 523), ('be', 519), ('data', 497), ('one', 494), ('were', 465), ('an', 454), ('?', 436), ('has', 427), ('their', 405), ('not', 400), ('all', 399), ('1', 394), ('verdict', 377), ('there', 370), ('polls', 364), ('how', 361), ('said', 360), ('like', 360), ('so', 346), ('he', 344), ('if', 342), ('can', 340), ('what', 330), ('other', 326), ('people', 318), ('some', 316), ('which', 310), ('most', 309), ('his', 300), ('out', 299), ('those', 292), ('when', 290), ('had', 283), ('also', 276), ('get', 263), ('up', 259), ('each', 253), ('just', 237), ('two', 230), ('only', 228), ('do', 226), ('github', 215), ('pollsters', 214), ('new', 212), ('its', 208), ('these', 207), ('them', 206), ('positive', 206), (';', 204), ('will', 200), ('time', 198), ('would', 193), ('my', 193), ('been', 192), ('number', 192)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 699
+Number of types: 592
+Type token ratio: 0.8469241773962805
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'get the, at change, idaho, percent, read it, if you, labor, the list, barbara bush, is idaho, phillip ap, silicon valley, github, be low, year and, college, in owensboro, the bls, time, detail, may 2013, new mexico, percent fewer, year, woman, zooming in, total might, to judge, thing, to know, become a, library, job, to may, weep and, blame, death, s worth, in 2011, owensboro, data from, use, thing of, chalabi, judge, github github, with 21, the 10, was 39, degree, a finer, library association, and rookie, bureau of, but the, every 1000, bush branch, the accuracy, the silicon, mona chalabi, concentration of, rookie, total, in 34, us average, texas david, information to, association the, picture, they are, america s, degree if, spring, measure, in michigan, year state, for each, country, state funding, constant in, can look, america, drop but, drop, percent drop, have many, of a, area the, valley of, quotient is, j, level, that basis, the past, for every, it and, getting older, annual wage, past you, library read, blame people, in to, silicon, mexico, david j, first place, detail for, age, but most, area, wage, data at, best pay, on github, basis, github data, jobs get, j phillip, was a, real number, place idaho, branch, chalabi and, can t, the data, country without, salary, didn t, can be, data on, list, funding was, quotient, percent more, it s, in 2001, association, s a, increase didn, job quotient, median age, in new, between 88, phillip, highest concentration, owensboro we, state, from the, be found, u, to a, age of, change, was either, david, and has, bls, might be, mixed picture, interested to, risen to, the barbara, concentration, metropolitan area, filed under, at 1150, occupational data, of labor, place, the top, rather than, the us, change over, texas, proclaiming the, information, or held, the number, list is, population on, owensboro but, to population, are so, looking at, t blame, has a, people owensboro, number, an increase, so are, funding, library in, us we, under jobs, held constant, top of, accuracy, owensboro ky, and 112, fresno calif, number of, to 51, the death, by 2005, from 2001, estimate, get, trying to, this information, basis with, pay, the average, judge whether, mona, find, valley, librarians in, spring texas, death of, population, librarian was, is still, a master, ap, of detail, director, a country, the bureau, bureau, specie, master, worker')
+
+('JJ', 'had 240, fewer public, new, the library, duh, in owensboro, cut or, if they, where are, mixed, by mona, library, the real, nationally from, look at, public, in 1980, of the, statistic, but are, are america, and weep, real, weep, for library, nationally the, an endangered, still helpful, to the, average, but the, the job, branch library, metropolitan, and we, were in, a mixed, pay can, duh the, helpful, quotient which, were 173, occupational, top, percent in, librarians for, at occupational, librarian, librarians relative, annual, across the, past, calif, and in, first, constant, average librarian, tested the, are 48, finer, the american, librarians are, american library, in the, s degree, quotient, foreseeing a, it s, in 2001, median, calculates a, u, last, worth, finer level, become, credentialed librarian, last year, time it, the first, there was, fell for, level of, american, the us, the total, that all, at the, know, are 167, foreseeing, average annual, will become, the number, relative to, per year, looking at, michigan, out it, there are, datalibrarians the, that the, be in, than in, seen an, you can, number of, where the, in fresno, ky, relative, measures the, librarians alike, each metropolitan, a job, use this, the median, is 79780, is the, somewhere between, fresno, many, have seen, bush, in metropolitan, we can, wage for')
+
+('VBD', 'low but, cut, noticed, credentialed, risen, master s, found, ky is, a credentialed, andrew, we tested, librarians might, you might, either cut, flowers filed, a 36, we noticed, apr 11, only had, it had, list of, read, found in, tested, and andrew, fell')
+
+('JJR', 'fewer, older, flower')
+
+('VBN', 'seen, has risen, had risen, be interested, held, endangered, risen, filed')
+
+('NNS', 'rookie librarians, the data, more librarians, for women, calculates, most places, s librarians, all of, with colleges, labor statistics, library workers, are states, state libraries, endangered species, for men, of librarians, many librarians, might be, fewer librarians, average salaries, for directors, without libraries, metropolitan areas, people, biggest concentrations, data, whether libraries, andrew flowers, are libraries, public libraries, datalibrarians, men, are librarians')
+
+('VBP', 'really an, librarians fell, people for, librarians is, statistics to, then again, where the, libraries will, t have, librarians by, women in, librarians than, retrospectively duh, that have, librarians in, areas with, owensboro, of them, workers is, librarians but, directors and, data and, librarians and, look, libraries but, libraries than, species if, risen at, salaries fell, concentrations of, alike and, librarians has, you re, men and, barbara')
+
+('VBG', 'in spring, solely looking, re trying, looking, helpful looking, zooming, a thing, according, getting, worth zooming, for proclaiming, trying, are getting, older according, and foreseeing, proclaiming')
+
+('VB', 'low, owensboro, and estimate, interested, increase')
+
+('JJS', 'the best, highest, the highest, best, biggest')
+
+('VBZ', 'librarian earns, only 100, which measures, bls calculates, earns, that librarians, at datalibrarians')
+
+('NNP', 'the number')
+
+100 most freq tokens after processing: 
+[('of the', 873), ('in the', 798), ('percent', 738), ('trump', 656), ('one', 549), ('poll', 549), ('teamlogo', 540), ('data', 502), ('1', 490), ('like', 388), ('verdict', 381), ('our verdict', 377), ('said', 370), ('year', 340), ('people', 328), ('pollster', 322), ('number', 303), ('percent of', 303), ('it s', 301), ('get', 298), ('to the', 297), ('time', 282), ('also', 281), ('state', 276), ('point', 271), ('on the', 266), ('10', 262), ('2', 259), ('two', 235), ('11', 223), ('new', 217), ('and the', 216), ('election', 215), ('github', 215), ('positive', 207), ('would', 203), ('13', 202), ('u', 198), ('result', 196), ('film', 195), ('polling', 192), ('for the', 191), ('many', 189), ('donald', 187), ('14', 187), ('%', 187), ('make', 185), ('3', 183), ('average', 181), ('much', 179), ('team', 179), ('12', 179), ('voter', 179), ('verdict positive', 178), ('see', 177), ('15', 176), ('rating', 175), ('first', 173), ('to be', 172), ('even', 171), ('at the', 170), ('republican', 169), ('donald trump', 165), ('likely', 164), ('the data', 164), ('may', 160), ('american', 159), ('league', 158), ('since', 155), ('woman', 154), ('in a', 154), ('candidate', 152), ('win', 147), ('last', 146), ('don t', 146), ('group', 144), ('game', 144), ('number of', 144), ('way', 142), ('5', 142), ('among', 141), ('season', 141), ('the most', 141), ('16', 140), ('2014', 138), ('neutral', 138), ('question', 137), ('player', 137), ('president', 136), ('three', 136), ('day', 136), ('i m', 135), ('model', 135), ('more than', 134), ('week', 134), ('think', 133), ('world', 133), ('from the', 133), ('2016', 131), ('take', 129)]

@@ -1,0 +1,57 @@
+Article: region-survey/which-states-are-in-the-south
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 560
+Raw number of types: 247
+Raw Type token ratio: 0.44107142857142856
+
+100 most freq tokens before (pre)processing: 
+[(',', 9088), ('the', 7348), ('.', 5034), ('of', 3731), ('a', 3148), ('to', 3021), ('and', 2717), ('in', 2711), ('’', 2535), ('(', 1731), (')', 1731), ('that', 1715), ('s', 1389), ('for', 1259), ('is', 1229), (':', 1084), ("'", 1077), ('on', 1072), ('it', 1050), ('are', 908), ('“', 863), ('”', 862), ('with', 797), ('at', 785), ('we', 780), ('—', 780), ('as', 760), ('by', 737), ('percent', 706), ('i', 701), ('but', 698), ('more', 683), ('our', 674), ('trump', 636), ('this', 632), ('they', 606), ('or', 601), ('you', 582), ('have', 565), ('from', 562), ('t', 552), ('team-logo', 535), ('about', 526), ('who', 513), ('was', 509), ('than', 503), ('be', 483), ('one', 479), ('data', 460), ('were', 447), ('an', 429), ('?', 416), ('has', 409), ('not', 390), ('1', 386), ('their', 382), ('verdict', 377), ('all', 375), ('polls', 362), ('said', 360), ('like', 356), ('there', 350), ('how', 346), ('he', 336), ('if', 325), ('so', 325), ('can', 321), ('other', 319), ('what', 319), ('people', 306), ('most', 302), ('some', 301), ('which', 291), ('his', 290), ('out', 281), ('those', 281), ('when', 278), ('had', 266), ('also', 262), ('get', 254), ('up', 243), ('each', 241), ('just', 223), ('only', 221), ('do', 217), ('two', 216), ('pollsters', 214), ('positive', 206), ('its', 204), ('new', 200), ('them', 200), ('github', 198), ('these', 195), ('will', 193), ('time', 191), ('polling', 191), (';', 189), ('2', 188), ('points', 185), ('been', 184)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 729
+Number of types: 587
+Type token ratio: 0.8052126200274349
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'alabama, about half, percent, with missouri, surveymonkey to, and texas, atlanta skyline, south south, although i, dataregionsurvey, north maryland, percent of, github, debate, a tradition, white is, judging by, florida georgia, mississippi tennessee, state as, walter, kentucky mississippi, pathetic 6, geographic equivalent, west virginia, maryland i, maryland north, feedback on, midwest it, lot, according to, tuesday, also maryland, answer is, carolina all, south, equivalent of, have we, is not, support, census bureau, each state, people don, consistent with, tennessee, mississippi and, federal government, and kentucky, github github, by walt, georgia and, i ve, skyline at, than arizona, s in, to the, delaware, fact, marylander, midwest, keep arguing, half from, on with, perrella, arkansas louisiana, tradition of, get this, the north, survey, tuesday we, a lot, southern than, surveymonkey audience, know not, interstate 95, midwest the, a subsequent, national sample, florida, the census, run a, oklahoma and, by some, it 57, the last, poll to, the answer, southern and, addition to, designation of, to maryland, content to, virginia, poll, vote, question, carolina, arkansas and, southern again, with a, mexico walter, mess, mess with, big government, virginia delaware, passionate, certain of, addition, in addition, subsequent poll, allow me, takeaway, carolina tennessee, marc perrella, some as, designation, feedback, result, respondent, mexico, government, percent support, hovered at, south and, during dodgeball, data at, to determine, question as, dusk marc, southerner and, worse than, arkansas, tradition, github data, conclusive although, than a, in the, of skepticism, to run, don t, marylander allow, s blog, walt, oklahoma, identifying each, kentucky, the survey, marc, delaware alabama, subsequent, georgia maryland, at dusk, despite a, state, bureau florida, determine which, their own, walter white, the feedback, percent also, this sample, at 920, as a, tennessee florida, it also, south further, rest, top few, south carolina, with texas, sample and, census, about it, half, a marylander, the top, that question, welcome you, southern state, texas, regionalism, maryland, government so, and louisiana, mississippi, going on, s worse, individuals about, and alabama, less than, perrella on, the atlanta, georgia, under regionalism, but they, that nobody, arguing we, census designation, louisiana, anyone, maryland oklahoma, walt hickey, to get, carolina south, wellappointed interstate, than 80, run, support virginia, published the, get, government the, the percent, carolina virginia, answer, louisiana oklahoma, alabama as, maryland well, a southerner, last kid, hickey, audience, virginia both, be the, i am, southerner, is more, sample, the vote, to mess, virginia arkansas, south by, passionate about, placed mississippi, stop, blog post, skyline, kid, of debate, bureau, skepticism, the south, audience poll, debate about, we also, tennessee arkansas, pulled less, poll about, the fact, people think, determine, dusk')
+
+('JJ', 'get the, south despite, percent, a pathetic, equivalent, new, percent of, despite the, wrong the, to actual, while the, new mexico, to know, national, compose, federal, according to, states people, south, on tuesday, of the, the federal, white, states are, to the, more certain, midwest, more than, pulled a, compose the, alabama kentucky, florida, stops consistent, top, and north, them which, of which, about 50, to welcome, arizona, identified georgia, that big, of a, le, wellappointed, south in, surveymonkey, carolina, well these, tuesday s, welcome, remarkably content, or some, first, are several, several, geographic, post people, on github, identified a, arkansas, lot of, dataregionsurvey the, about which, in the, isolated 1135, a surveymonkey, sample surveymonkey, kentucky, asked them, pathetic, certain, wrong, are their, conclusive, interstate, from a, so keep, from the, midwesterners so, asked surveymonkey, last, anyone know, more conclusive, dodgeball, first the, census, mile, a southern, where these, mississippi, that s, not a, north, giving it, consistent, a national, content, there are, georgia, nobody, regionally south, louisiana, southern, the geographic, south to, am which, as southern, baltimore i, individual, more southern, truly is, seems to, a few, big, what s, actual, garnered above, sample, are the, with the, post, pulled 80, re the')
+
+('VBD', 'both pulled, kentucky hovered, asked, skepticism of, loved, some of, respondents identified, and asked, me to, barely pulled, we learned, pulled, kid picked, even selfavowed, mostly excluded, to selfidentified, all garnered, also asked, than 25, garnered, hovered, audience polled, states considered, who identified, starts a, south carolina, think compose, learned, percent placed, picked, we published, placed, filed, know, always loved, polled, hickey filed, survey isolated, support despite, isolated')
+
+('NNS', 'rest stops, the data, actual southerners, these places, midwesterners, of respondents, the results, from states, percent southerners, selfidentified southerners, census says, several takeaways, according to, ve always, carolina, which states, these results, selfavowed midwesterners, census, south starts, people, further disagrees, it appears, data, few miles, midwest states, 1135 respondents, the southerners')
+
+('VBP', 'atlanta, i think, results of, data on, places are, arizona and, t know, seem, they re, oklahoma and, florida and, southerners it, respondents who, says they, get, start, what s, miles north, appears to, you to, south take, takeaways first, take, tennessee, place, disagrees with, say, southerners very, maryland, know, what have, states are, southerners seem, certainly passionate, think, well and')
+
+('VBN', 'selfavowed, published, selfidentified, excluded, asked, your wellappointed, considered, it pulled, identified')
+
+('JJS', 'the midwest, and west, virginia west, west, and midwest, midwest, few midwest')
+
+('VBZ', 'alabama, which states, nobody seems, seems, lot or, also does, that the, blog, appears, louisiana in, disagrees')
+
+('VB', 'keep, here are, regionalism get')
+
+('VBG', 'respondents identifying, s going, state according, giving, arguing, picked during, according, am according, judging, texas giving, going, learned judging, identifying, south according')
+
+('JJR', 'filed under, worse')
+
+100 most freq tokens after processing: 
+[('of the', 827), ('in the', 758), ('percent', 718), ('trump', 655), ('poll', 547), ('teamlogo', 540), ('one', 533), ('1', 482), ('data', 465), ('like', 384), ('verdict', 381), ('our verdict', 377), ('said', 370), ('pollster', 322), ('people', 316), ('year', 303), ('percent of', 298), ('get', 289), ('it s', 288), ('number', 287), ('to the', 283), ('time', 269), ('also', 267), ('point', 266), ('state', 256), ('2', 255), ('on the', 253), ('10', 252), ('two', 221), ('11', 218), ('election', 214), ('and the', 207), ('positive', 207), ('new', 205), ('github', 198), ('13', 198), ('would', 193), ('u', 193), ('result', 192), ('polling', 192), ('donald', 186), ('14', 183), ('film', 182), ('for the', 182), ('many', 181), ('3', 181), ('%', 181), ('voter', 179), ('verdict positive', 178), ('see', 174), ('make', 174), ('12', 174), ('much', 173), ('average', 173), ('republican', 169), ('15', 168), ('at the', 166), ('donald trump', 164), ('rating', 164), ('to be', 163), ('first', 162), ('even', 162), ('likely', 159), ('american', 154), ('may', 154), ('league', 151), ('woman', 150), ('since', 150), ('the data', 150), ('candidate', 149), ('in a', 147), ('don t', 144), ('group', 140), ('5', 140), ('win', 139), ('neutral', 138), ('way', 137), ('team', 137), ('among', 137), ('the most', 137), ('model', 135), ('president', 134), ('game', 134), ('world', 133), ('16', 133), ('think', 132), ('day', 132), ('week', 132), ('2014', 131), ('number of', 131), ('question', 130), ('three', 130), ('take', 128), ('last', 128), ('verdict neutral', 128), ('vote', 127), ('season', 127), ('player', 127), ('more than', 126), ('from the', 126)]

@@ -1,0 +1,59 @@
+Article: elo-blatter
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1683
+Raw number of types: 549
+Raw Type token ratio: 0.32620320855614976
+
+100 most freq tokens before (pre)processing: 
+[(',', 10012), ('the', 8808), ('.', 6040), ('of', 4387), ('a', 3764), ('to', 3555), ('in', 3299), ('and', 3240), ('’', 3107), ('that', 1988), ('s', 1757), ('(', 1649), (')', 1647), ('for', 1481), ('is', 1463), ('it', 1270), ('on', 1259), (':', 1162), ('are', 1051), ('“', 1013), ('”', 1012), ('—', 933), ('at', 926), ('as', 922), ('with', 913), ('we', 884), ("'", 871), ('but', 850), ('by', 846), ('i', 814), ('percent', 806), ('more', 783), ('trump', 754), ('this', 742), ('or', 704), ('our', 700), ('have', 686), ('they', 681), ('from', 668), ('you', 654), ('t', 650), ('was', 643), ('about', 614), ('be', 596), ('than', 596), ('who', 571), ('has', 556), ('one', 547), ('team-logo', 535), ('data', 530), ('an', 512), ('were', 504), ('not', 477), ('?', 466), ('all', 453), ('he', 451), ('their', 440), ('so', 433), ('there', 426), ('1', 400), ('said', 396), ('how', 395), ('polls', 393), ('like', 389), ('his', 386), ('if', 382), ('verdict', 377), ('other', 373), ('can', 367), ('which', 360), ('what', 360), ('some', 355), ('people', 343), ('most', 338), ('when', 336), ('had', 329), ('out', 328), ('those', 318), ('also', 315), ('up', 285), ('get', 278), ('each', 276), ('only', 270), ('just', 269), ('two', 249), ('do', 245), ('world', 245), ('been', 243), ('time', 242), ('its', 241), ('these', 234), ('github', 231), ('new', 231), (';', 226), ('them', 223), ('will', 223), ('would', 219), ('no', 215), ('pollsters', 214), ('year', 213)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 846
+Number of types: 432
+Type token ratio: 0.5106382978723404
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'concacaf, rest, soccer, nation, pop, minority, organization, caf, majority, expense, point, progress, audience, pm, jun, sepp, country, disparity, article, soccerwise, center, history, resignation, problem, now2, cup, corruption, host, top, pattern, york, find, win, week, outcome, program, chart, bottom, play, asia, command, knockout, loyalty, dollar, ghana, evidence, gdp, plutocrat, thing, field, afc, conmebol, department, confederation, silver, region, change, europe, vote, represent, mexico, university, policy, look, least, elo, revenue, relative, city, development, argument, rating, story, predecessor, structure, average4, improvement, caput, fan, lot, wealth, investigation, record, justice, day, percentile, milanović, dataeloblatter, ground, joão, percent, decline, south, state, graduate, match8, poorer, compare, entrant, losses6, result, africa, question, order, success, anything, performance, world, average, indonesia, havelange, china, president, game, analysis, money, match, principle, russia, woman, track, news, population, defend, colombia, stage, stream, gdp9, soul, lowpopulation, play10, team, economist, japan, kanaris, check, background, governing, reign, fifa3, github, member, description, turkey, blatter, highpopulation, wake, power, image, income, loss, bradley, fifa, fund, continent, decentralization, june, contrast, year, number, time, sanity, difference, ofc, america, germany, expansion, venezuela, rival, pitch')
+
+('VBD', 'stagnated, declined, represented, earmarked, counted, seemed, increased, allocated, improved, wrote, changed, argentina, made, listed, rank, divided, helped, weighted, failed, gained, doubled, regressed, became, announced, contributed, held, contested, took, combined')
+
+('VB', 'see, seem, spread, get, soccer, expect, improve, regrettable, go, become')
+
+('JJ', 'american, local, rest, related, individual, international, progress, chinese, sepp, next, qualifying, last, continued, identical, global, improve, america7, january, u, afc, measured, mexican, spread, participant, korea, north, final, much, new, relative, elo, particular, nate, caput, uruguay, united, branko, oceania, defected, first, continental, percentile, chile, small, ground, national, regard, percent, clear, south, many, poor, draw, traditional, dominant, mostpopulous, africa, little, asian, enrich, average, indonesia, overall, simple, uefa, major, level, populous, brazil, african, tenure, unchanged, italy, developmental, whole, kanarisgetty, european, competitive, good, fifa, hard, ofc, america, divide, desirable, getty')
+
+('VBN', 'populationweighted, earmarked, given, combined, tried, qualified, come, used, filed, seen, shown, improved, based, become, grown')
+
+('VBP', 'concacaf, brunei, get, brazil, caf, s1, hold, south, github, draw, india, help, richest, europe, represent, pakistan, fifa, remain, china, make, brave')
+
+('NNS', 'china, win, data, people, others, github, men, nigeria, threequarters, vietnam, quintiles, conmebol, comoros')
+
+('VBG', 'interesting, playing, advancing, judging, accumulating, allocating, descending, representing, using, according')
+
+('JJS', 'best, largest, least, highest, closest, poorest')
+
+('JJR', 'blatter, higher, lower, better, poorer, worse, wealthier')
+
+('VBZ', 'represents, includes, reflects, le')
+
+('NNP', 'zealand')
+
+100 most freq tokens after processing: 
+[('percent', 816), ('trump', 771), ('one', 608), ('poll', 582), ('teamlogo', 539), ('data', 534), ('1', 496), ('like', 415), ('said', 404), ('year', 395), ('verdict', 380), ('people', 351), ('time', 340), ('pollster', 321), ('also', 319), ('number', 318), ('get', 316), ('state', 304), ('point', 294), ('team', 290), ('10', 274), ('2', 265), ('two', 253), ('world', 250), ('new', 235), ('u', 234), ('rating', 234), ('github', 231), ('would', 227), ('11', 226), ('election', 225), ('republican', 217), ('much', 216), ('result', 214), ('american', 211), ('average', 209), ('13', 209), ('positive', 208), ('many', 201), ('polling', 201), ('first', 200), ('make', 200), ('game', 200), ('even', 195), ('film', 195), ('voter', 193), ('14', 191), ('may', 190), ('since', 190), ('%', 190), ('donald', 189), ('3', 187), ('see', 186), ('12', 183), ('player', 183), ('win', 182), ('candidate', 182), ('group', 179), ('15', 179), ('likely', 174), ('day', 167), ('league', 164), ('last', 160), ('way', 159), ('three', 159), ('woman', 157), ('among', 157), ('president', 155), ('2014', 151), ('question', 149), ('still', 148), ('16', 148), ('model', 146), ('5', 145), ('national', 145), ('take', 144), ('country', 143), ('season', 142), ('think', 140), ('neutral', 138), ('vote', 138), ('week', 138), ('2016', 137), ('race', 136), ('le', 136), ('respondent', 135), ('look', 133), ('least', 133), ('well', 129), ('cup', 129), ('17', 128), ('rate', 128), ('percentage', 127), ('chance', 127), ('go', 126), ('every', 126), ('say', 125), ('come', 124), ('4', 124), ('clinton', 123)]

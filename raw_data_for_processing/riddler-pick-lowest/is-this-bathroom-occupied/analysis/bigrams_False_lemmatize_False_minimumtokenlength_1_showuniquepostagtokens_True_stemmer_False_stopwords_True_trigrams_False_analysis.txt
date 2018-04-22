@@ -1,0 +1,59 @@
+Article: riddler-pick-lowest/is-this-bathroom-occupied
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1521
+Raw number of types: 508
+Raw Type token ratio: 0.3339907955292571
+
+100 most freq tokens before (pre)processing: 
+[(',', 4871), ('the', 3610), ('.', 2287), ('of', 1795), ('to', 1465), ('a', 1449), ('in', 1401), ('and', 1277), ('’', 1137), ('(', 949), (')', 949), ('that', 822), (':', 706), ("'", 665), ('s', 624), ('is', 578), ('for', 569), ('it', 546), ('our', 527), ('on', 510), ('“', 426), ('”', 426), ('are', 415), ('with', 400), ('trump', 391), ('at', 390), ('i', 381), ('verdict', 377), ('we', 367), ('more', 366), ('by', 363), ('as', 349), ('—', 333), ('but', 329), ('this', 322), ('percent', 319), ('they', 296), ('you', 295), ('1', 295), ('than', 275), ('have', 270), ('from', 263), ('t', 262), ('about', 261), ('who', 259), ('or', 254), ('was', 251), ('be', 249), ('one', 237), ('data', 225), ('like', 221), ('said', 219), ('their', 203), ('an', 201), ('were', 194), ('positive', 194), ('pollsters', 187), ('all', 183), ('polls', 183), ('most', 178), ('has', 176), ('not', 175), ('donald', 165), ('if', 158), ('other', 158), ('there', 155), ('can', 155), ('people', 154), ('those', 151), ('?', 150), ('how', 148), ('when', 146), ('what', 146), ('so', 145), ('some', 144), ('out', 144), ('which', 136), ('neutral', 133), ('get', 132), ('up', 130), ('he', 128), ('/', 124), ('also', 121), ('just', 121), ('each', 119), ('his', 115), ('will', 111), ('do', 110), ('only', 110), ('polling', 108), ('my', 106), ('had', 104), ('two', 103), ('github', 102), ('2', 100), ('would', 97), ('number', 97), ('state', 95), (';', 94), ('me', 93)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 710
+Number of types: 404
+Type token ratio: 0.5690140845070423
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'coin, england, massachusetts, path, movement, want, number, logic, circle, solution, round, oliverroeder, chris, matlab, thing, express, build, change, place, vacant, fact, sagemath, submit, start, column, dave, use, arbiter, bit, either1, child, guillaume, inductee, factor, enter, exit, situation, isar, integer, language, chain, hint, class, find, winner, example, repeat, approach, break, visit, exiting, none, riddler, game, sign, solver, arthur, choice, slide, insight, mitchell, puzzle, bathroom, bhattacharjee, organize, induction, set, math, moran, door, something, toilet, day, office, time, order, twitter, work, nation, cambridge, percentage, fivethirtyeightcom, potato, person, way, illustration, week, clever, process, email, program, length, credit, let, teacher, problem, probability')
+
+('VBD', 'found, broke, ran, ended, left, claimed, created, declared, offered, occupied, excluded, built, sent, held, submitted, asked, kaseorg, explained, topped, worked, took, existed')
+
+('VBN', 'finished, written, found, filed, stuck, submitted, connected, bitesized, cautioned, edited, bored, called')
+
+('VB', 'get, build, assume, make, turn, roeder, try, find, adjacent, forget, think, handle')
+
+('JJ', 'special, computational, slowpuzzle, conscientious, sign, certain, single, long, small, path, slide, hot, kurkdjian, right, next, inaugural, solve, riddle, win, popular, logic, birmingham, tough, unique, assume, multiple, ordinal, specific, occupied, educated, dust, tricky, puzzle, tails, half, potato, optimal, welcome, general, outside, unfortunately, vacant, inclusive, known, notice, combinatorial, high, avoid, dear, favorite, extra, classic, appear, mathematical, attic, teacher, related, sure, clingo, positive, last, perfect')
+
+('VBP', 'coin, stand, hold, riddler, need, child, solve, submit, make, correct, thornett, workplace, see, 👏, go, want, notice, forget, 🏅, offer')
+
+('NNS', 'rules, james, things, anders, heads, types, integers, chains, submitters, congratulations, questions, methods, trials, tosses, changes, guesses, examples, factors, chances, happens, people, users, problems, passes, others, reads, arguments, words, submissions, numbers, algorithms, spammers, children')
+
+('JJR', 'less, answer')
+
+('VBG', 'exiting, depending, holding, zooming, convincing, building, entering, remaining, trying, playing, taking, using, winning, leaving, collecting, getting, including')
+
+('VBZ', 'makes, reads, comes, means, says, holds, ends, multiples, seems, progresses')
+
+('NNP', 'know, 🏅')
+
+('JJS', 'lowest, biggest, longest')
+
+100 most freq tokens after processing: 
+[('trump', 397), ('verdict', 378), ('percent', 327), ('1', 312), ('one', 246), ('data', 228), ('like', 227), ('said', 225), ('positive', 194), ('polls', 187), ('pollsters', 187), ('donald', 169), ('people', 160), ('get', 138), ('neutral', 133), ('also', 124), ('polling', 109), ('10', 107), ('two', 106), ('2', 106), ('would', 103), ('github', 102), ('state', 98), ('number', 98), ('new', 95), ('poll', 93), ('time', 91), ('many', 89), ('first', 88), ('3', 88), ('hillary', 87), ('year', 86), ('model', 85), ('negative', 84), ('election', 84), ('women', 80), ('last', 80), ('likely', 80), ('us', 78), ('much', 78), ('national', 78), ('points', 78), ('2016', 77), ('use', 77), ('films', 77), ('even', 75), ('average', 75), ('5', 75), ('2014', 71), ('clinton', 70), ('see', 69), ('2015', 69), ('make', 67), ('numbers', 65), ('think', 64), ('another', 64), ('got', 63), ('results', 62), ('states', 61), ('2012', 61), ('rock', 61), ('years', 60), ('may', 60), ('among', 60), ('asked', 60), ('6', 60), ('senate', 60), ('classic', 60), ('know', 58), ('film', 58), ('less', 58), ('way', 57), ('money', 57), ('republican', 57), ('three', 57), ('4', 56), ('nt', 55), ('2013', 55), ('found', 54), ('day', 54), ('percentage', 54), ('every', 53), ('police', 53), ('example', 53), ('since', 53), ('well', 52), ('world', 52), ('whether', 52), ('20', 52), ('say', 51), ('candidates', 51), ('win', 51), ('president', 50), ('still', 50), ('used', 49), ('name', 49), ('race', 49), ('team', 49), ('take', 48), ('15', 48)]

@@ -1,0 +1,57 @@
+Article: historical-ncaa-forecasts
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 993
+Raw number of types: 370
+Raw Type token ratio: 0.3726082578046324
+
+100 most freq tokens before (pre)processing: 
+[(',', 8247), ('the', 7319), ('.', 5006), ('of', 3718), ('a', 3137), ('to', 3007), ('in', 2705), ('and', 2705), ('’', 2525), ('that', 1710), ('s', 1385), ('(', 1328), (')', 1328), ('for', 1259), ('is', 1226), (':', 1073), ('on', 1068), ('it', 1046), ('are', 901), ('“', 859), ('”', 858), ('with', 793), ('at', 781), ('we', 777), ('—', 775), ('as', 756), ('by', 735), ('i', 698), ('percent', 697), ('but', 697), ('more', 679), ('our', 674), ("'", 665), ('trump', 636), ('this', 631), ('they', 604), ('or', 600), ('you', 581), ('have', 564), ('from', 559), ('t', 551), ('team-logo', 535), ('about', 520), ('who', 512), ('was', 509), ('than', 499), ('be', 482), ('one', 479), ('data', 458), ('were', 445), ('an', 429), ('?', 411), ('has', 409), ('not', 388), ('1', 386), ('their', 381), ('verdict', 377), ('all', 372), ('polls', 362), ('said', 360), ('like', 356), ('there', 349), ('how', 346), ('he', 336), ('if', 325), ('so', 323), ('can', 321), ('other', 319), ('what', 316), ('people', 304), ('some', 299), ('most', 298), ('his', 290), ('which', 286), ('out', 281), ('those', 281), ('when', 278), ('had', 266), ('also', 259), ('get', 252), ('up', 243), ('each', 240), ('just', 223), ('only', 221), ('do', 217), ('two', 216), ('pollsters', 214), ('positive', 206), ('its', 204), ('new', 199), ('them', 199), ('github', 196), ('these', 193), ('will', 193), ('time', 191), ('polling', 191), (';', 189), ('2', 188), ('points', 185), ('been', 184)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 462
+Number of types: 281
+Type token ratio: 0.6082251082251082
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'ncaa, model, chance, season, game, something, madness, hallice, drawn, bin, missouri, nate, formula, texas, reflect, assistance, ohio, encourage, time, rating, san, question, win, percent, edge, work, course, espn, antonio, mar, call, york, correction, power, judge, evaluation, period, practice, tournament, state, march, silver, check, chart, baseline, change, defeat, confidence, everything, index, way, text, fact, correct, reader, year, winner, result, bracket, mercer, week, probability, example, error, calibration, favorite, team, university, database, use, term, connecticut, bit, level, apologize, virginia, lance, forecast, basketball, break, dk, advertising, computer')
+
+('VBG', 'following, evaluating, calling, simulating, adding, going, getting, winning, speaking, performing, containing, according, king, beating, checking, counting')
+
+('VBN', 'listed, expected, filed, based, supposed, published')
+
+('VB', 'get, know, explain, let, result, think, say')
+
+('NNS', 'teams, github, totals, probabilities, results, images, times, predictions, bins, intervals, forecasts, data, portrays, defends, intents, exceptions, projections, datahistoricalncaaforecasts, favorites, deviations, versions, duke, differences, numbers, games, ranges')
+
+('VBP', 'ncaa, espn, work, tell, contrast, rasheed, duke, bin, perfect, evaluate, find, think, result, include, github, mercer, expect, win, say')
+
+('JJ', 'ncaa, sulaimon, reasonable, advance, semifinal, appreciate, national, overall, happen, getty, much, percent, file, win, graphic, respective, true, probabilistic, digit, table, technical, tournament, tossup, substantive, total, tj, wrong, little, past, underdogs, shot, playin, slim, norfolk, important, random, macro, perfect, fivethirtyeight, calibrated, kentucky, actual, fifth, favorite, duke, intuitive, significant, new, michigan, emphasize, interval, run, last, cocky')
+
+('VBZ', 'hindcasts, contains, purposes, gives, upsets')
+
+('JJR', 'clearer, worse, heavier, easier, better')
+
+('VBD', 'played, duke, changed, performed, discovered, fivethirtyeight, supposed, lost')
+
+('JJS', 'heaviest')
+
+100 most freq tokens after processing: 
+[('percent', 705), ('trump', 643), ('teamlogo', 538), ('one', 488), ('1', 475), ('data', 461), ('verdict', 378), ('said', 366), ('polls', 366), ('like', 362), ('people', 310), ('also', 262), ('get', 258), ('2', 253), ('10', 247), ('two', 219), ('11', 216), ('pollsters', 214), ('positive', 206), ('new', 202), ('13', 198), ('github', 196), ('time', 194), ('polling', 192), ('would', 189), ('us', 186), ('points', 185), ('donald', 184), ('14', 183), ('%', 181), ('many', 179), ('number', 179), ('3', 179), ('poll', 177), ('12', 174), ('much', 171), ('see', 170), ('15', 168), ('average', 164), ('year', 160), ('first', 159), ('even', 159), ('likely', 159), ('election', 157), ('may', 152), ('since', 149), ('league', 148), ('voters', 144), ('years', 140), ('5', 140), ('neutral', 138), ('among', 137), ('16', 133), ('results', 132), ('world', 130), ('state', 130), ('2014', 130), ('women', 129), ('three', 128), ('last', 125), ('still', 122), ('make', 121), ('17', 120), ('percentage', 120), ('think', 119), ('president', 118), ('4', 118), ('states', 114), ('less', 113), ('season', 113), ('least', 112), ('every', 110), ('2016', 110), ('national', 110), ('clinton', 109), ('model', 109), ('well', 108), ('way', 108), ('another', 108), ('20', 107), ('6', 107), ('pollster', 107), ('numbers', 106), ('respondents', 105), ('take', 104), ('win', 104), ('use', 104), ('19', 104), ('films', 101), ('whether', 100), ('vote', 99), ('hillary', 98), ('republican', 98), ('good', 98), ('2015', 97), ('know', 96), ('better', 96), ('18', 96), ('8', 95), ('got', 94)]

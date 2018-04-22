@@ -1,0 +1,57 @@
+Article: steak-survey/how-americans-like-their-steak
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 653
+Raw number of types: 299
+Raw Type token ratio: 0.45788667687595713
+
+100 most freq tokens before (pre)processing: 
+[(',', 7861), ('the', 6445), ('.', 4321), ('of', 3254), ('a', 2731), ('to', 2689), ('in', 2436), ('and', 2391), ('’', 2185), ('that', 1522), ('(', 1432), (')', 1432), ('s', 1210), ('for', 1123), ('is', 1077), (':', 987), ('on', 945), ('it', 915), ("'", 871), ('are', 783), ('“', 758), ('”', 757), ('with', 713), ('at', 678), ('as', 672), ('we', 664), ('—', 658), ('by', 636), ('trump', 636), ('our', 631), ('more', 618), ('i', 610), ('but', 597), ('they', 564), ('this', 550), ('team-logo', 535), ('or', 528), ('you', 517), ('from', 499), ('percent', 496), ('t', 487), ('have', 475), ('who', 470), ('about', 466), ('than', 452), ('was', 451), ('be', 438), ('one', 427), ('data', 396), ('were', 392), ('an', 384), ('verdict', 377), ('1', 376), ('has', 365), ('?', 361), ('polls', 361), ('not', 350), ('their', 337), ('said', 335), ('all', 333), ('like', 321), ('how', 312), ('he', 305), ('there', 301), ('other', 293), ('if', 290), ('so', 283), ('can', 283), ('most', 276), ('people', 276), ('what', 275), ('his', 274), ('some', 265), ('those', 258), ('which', 255), ('when', 248), ('out', 237), ('get', 228), ('also', 224), ('had', 223), ('up', 214), ('pollsters', 214), ('positive', 204), ('just', 200), ('each', 196), ('only', 191), ('two', 191), ('polling', 191), ('do', 188), ('2', 184), ('donald', 180), ('%', 178), (';', 177), ('them', 176), ('poll', 176), ('github', 172), ('points', 172), ('will', 171), ('time', 169), ('new', 168)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 296
+Number of types: 217
+Type token ratio: 0.7331081081081081
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'american, nina, got, rest, actual, full, likely, steak, personal, bean, fivethirtyate, moral, small, fresh, hypothetical, insignificant, many, pm, vast, laughable, nice, interpret, respondent, surveymonkey, good, rare, lacked, dandy, foodborne, find, place, gained, simple, prime, behavior, ballpark, frivolous, green, solid, different')
+
+('NN', 'work, steak, try, jump, majority, satisfaction, relationship, life, proper, ran, audience, nothing, rareness, situation, cruise, opportunity, everyone, gender, speed, comment, anyone, datalab, chart, scott, walt, airplane, threat, sense, example, discus, side, ship, nada, superiority, download, post, idea, quest, traffic, consider, futility, look, scout, riskaverse, story, juicy, effect, almondine, lottery, risk, reason, percent, start, definition, limit, respondent, result, poll, regression, order, success, anything, age, threshold, see, bet, illness, survey, experiment, rib, get, chance, let, suchman, le, mediumrare, hickey, prefer, github, medium, datasteaksurvey, disclosure, income, hypothesis, tease, potato, time, b, commitment, america, evaluate, taste, girl, argument')
+
+('VBN', 'done, scorched, incinerated, cooked, tried, come, filed')
+
+('NNS', 'data, besides, people, crosstabs, midteens')
+
+('VBD', 'thought, picked, baked, ordered, ran, cooked, smoke, bed, excited, checked, asked, desiccated, preferred')
+
+('VBZ', 'washington')
+
+('VBP', 'see, find, appear, risk, miss, prefer, realize, know, exceed, stand, go, threshold')
+
+('VBG', 'preferring, following, playing, assuming, reinforcing, skydiving, testing, getting, indicating, risktaking, settling, running')
+
+('JJS', 'least, midwest')
+
+('VB', 'recover, know, play, prefer')
+
+('JJR', 'riskier, tougher, wound')
+
+100 most freq tokens after processing: 
+[('trump', 653), ('poll', 542), ('teamlogo', 539), ('percent', 506), ('one', 475), ('1', 470), ('data', 400), ('verdict', 380), ('like', 346), ('said', 343), ('pollster', 321), ('people', 284), ('year', 268), ('number', 263), ('get', 261), ('2', 250), ('point', 246), ('10', 235), ('also', 228), ('time', 226), ('state', 216), ('election', 213), ('positive', 205), ('11', 203), ('two', 195), ('polling', 192), ('donald', 185), ('13', 181), ('%', 178), ('film', 175), ('3', 175), ('14', 174), ('would', 172), ('new', 172), ('github', 172), ('voter', 170), ('many', 168), ('republican', 168), ('average', 166), ('12', 166), ('result', 166), ('u', 160), ('15', 155), ('make', 154), ('much', 153), ('rating', 149), ('see', 148), ('candidate', 147), ('league', 146), ('first', 142), ('even', 142), ('may', 141), ('neutral', 136), ('5', 135), ('model', 132), ('likely', 131), ('since', 128), ('week', 128), ('president', 127), ('woman', 125), ('day', 125), ('player', 125), ('way', 122), ('question', 121), ('american', 120), ('last', 120), ('three', 120), ('16', 118), ('percentage', 116), ('among', 115), ('team', 115), ('4', 114), ('take', 113), ('17', 113), ('think', 112), ('race', 112), ('season', 112), ('clinton', 111), ('rate', 111), ('2016', 110), ('vote', 108), ('game', 108), ('national', 107), ('2014', 106), ('le', 106), ('win', 105), ('group', 105), ('still', 104), ('look', 103), ('6', 102), ('error', 100), ('use', 100), ('every', 99), ('hillary', 99), ('20', 99), ('firm', 99), ('another', 97), ('19', 97), ('say', 96), ('go', 95)]

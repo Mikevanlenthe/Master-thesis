@@ -1,0 +1,57 @@
+Article: repeated-phrases-gop
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 617
+Raw number of types: 329
+Raw Type token ratio: 0.5332252836304701
+
+100 most freq tokens before (pre)processing: 
+[(',', 26928), ('.', 22225), ('the', 21204), ('to', 12454), ('and', 11094), ('a', 9995), ('of', 9975), ('in', 7927), ('that', 7883), ('i', 6678), ('you', 6478), (':', 6183), ('we', 5814), ('is', 5148), ('it', 4962), ('for', 3582), ('’', 3544), ('(', 3342), (')', 3342), ('have', 3328), ('on', 3315), ("'s", 3068), ('this', 3036), ('are', 2978), ('they', 2835), ('with', 2529), ('do', 2399), ('not', 2351), ('but', 2321), ('be', 2249), ('?', 2062), ('s', 2048), ('as', 2022), ('trump', 2021), ('at', 1993), ('our', 1964), ('if', 1918), ('was', 1917), ("n't", 1871), ('people', 1865), ('about', 1856), ('what', 1843), ('...', 1756), ('he', 1753), ('who', 1612), ('has', 1548), ('by', 1468), ("'re", 1448), ('all', 1432), ('or', 1428), ('so', 1415), ('will', 1409), ('there', 1408), ('more', 1392), ('from', 1360), ('one', 1353), ('can', 1268), ('would', 1223), ('going', 1204), ('an', 1186), ('“', 1154), ('”', 1153), ('said', 1117), ('than', 1098), ('—', 1093), ('percent', 1091), ('because', 1080), ('their', 1079), ('when', 1073), ('get', 1059), ('know', 1051), ('just', 1041), ('--', 1008), ('applause', 980), ('me', 926), ('like', 924), ('out', 921), ('were', 915), ('them', 915), ('want', 892), ('president', 888), ('think', 881), ('now', 877), ('my', 875), ('up', 859), ('how', 855), ('country', 839), ("'m", 836), ("'ve", 817), ('had', 814), ('been', 805), ('your', 785), ('no', 779), ('need', 778), ('here', 770), ('well', 751), ('his', 726), ("'", 718), ('t', 717), ('1', 700)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 289
+Number of types: 243
+Type token ratio: 0.8408304498269896
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'shoots, sales, jones, eyes, tics, github, echoes, primaries, knows, possibilities, cheers, times, datarepeatedphrasesgop, data, transcripts, chris, nightmares, karen, feels, victories, phrases, trumpisms, classics, betrays, arms, candidates, people, campaigns, politics, words, debates, points, numbers, reveals, repeats')
+
+('VBP', 'marco, candidate, say, spärck, keep, hip, ivy, electorate, christie, see, change, confirm, milo, draft, github, win, gop')
+
+('NN', 'donald, mean, season, league, game, day, record, fiction, rico3, debates1, age, string, score, ohio, reach, time, linguist, backtoback, roboprez, bush, number, kasich, brand, houston, anything, beckman, analysis, debate, measure, prototype, trump, past, john, dream, consolidate, plan, phrase, gauche, puerto, minnesota, replay, tfidf, everyone, importance, cruz, rubio, daydreams, barb, notice, home, example, man, harder, wannabe, president, script, line, candidate, nothing, team, crowd, election, repeat, momentum, entirety, fourthplace, antitrump, coalition')
+
+('VBN', 'used, elected, filed, nailed, televised, chosen, needed, published')
+
+('VB', 'identify, get, note, seem, lowenergy, rubio, underslept, fill')
+
+('VBG', 'highlighting, talking, tossing, scoring, repeating, dying, sticking, debating, drinking')
+
+('JJ', 'metric, frantic, computational, stonecold, narrative, american, found, quintessential, ready, miami, different, right, checked, bear, early, tonight, glorious, floridian, relative, crown, jeb, oftrepeated, wild, republican, good, presidential, tfidf, lengthy, cruz, dispelled, future, rubio, verbal, third, fresh, top, high, phrases2, ambitious, verbatim, instant, prime, opponent, rigorous, particular, overprepped, reference')
+
+('VBD', 'parried, used, ted, looked, responded, went, score, hammer, said, shattered, pioneered, called')
+
+('VBZ', 'lives, works, takes, talks, predicts, gives')
+
+('JJR', 'higher')
+
+('NNP', '…')
+
+100 most freq tokens after processing: 
+[('trump', 2028), ('nt', 1876), ('people', 1871), ('one', 1363), ('would', 1229), ('going', 1212), ('said', 1123), ('percent', 1099), ('get', 1065), ('know', 1058), ('applause', 986), ('like', 930), ('want', 900), ('president', 895), ('think', 888), ('us', 856), ('country', 845), ('1', 793), ('need', 786), ('well', 759), ('rubio', 686), ('say', 680), ('governor', 679), ('senator', 672), ('test', 670), ('back', 665), ('cruz', 650), ('first', 644), ('see', 641), ('let', 641), ('right', 641), ('time', 625), ('go', 599), ('data', 590), ('make', 590), ('bush', 585), ('world', 585), ('way', 584), ('also', 575), ('years', 567), ('thank', 561), ('states', 548), ('teamlogo', 538), ('two', 532), ('new', 516), ('every', 497), ('2', 495), ('america', 494), ('take', 487), ('much', 481), ('many', 469), ('question', 460), ('donald', 452), ('looks', 451), ('polls', 444), ('look', 437), ('women', 421), ('10', 420), ('clinton', 409), ('got', 408), ('even', 404), ('state', 402), ('american', 400), ('tax', 385), ('government', 383), ('verdict', 379), ('united', 379), ('kasich', 378), ('tell', 375), ('lot', 374), ('whether', 373), ('year', 372), ('money', 365), ('hillary', 361), ('republican', 354), ('obama', 354), ('last', 348), ('mr', 347), ('things', 343), ('number', 340), ('problem', 338), ('fact', 326), ('good', 325), ('great', 324), ('carson', 322), ('film', 320), ('3', 318), ('isis', 312), ('three', 307), ('come', 306), ('made', 304), ('11', 303), ('better', 302), ('could', 295), ('really', 293), ('may', 292), ('believe', 289), ('done', 286), ('win', 284), ('since', 283)]

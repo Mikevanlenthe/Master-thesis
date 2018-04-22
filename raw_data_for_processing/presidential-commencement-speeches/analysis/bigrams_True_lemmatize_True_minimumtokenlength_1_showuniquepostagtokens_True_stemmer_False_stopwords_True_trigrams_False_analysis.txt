@@ -1,0 +1,55 @@
+Article: presidential-commencement-speeches
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 541
+Raw number of types: 252
+Raw Type token ratio: 0.4658040665434381
+
+100 most freq tokens before (pre)processing: 
+[(',', 7506), ('the', 5723), ('.', 3748), ('of', 2847), ('a', 2398), ('to', 2361), ('in', 2192), ('and', 2058), ('’', 1931), ('(', 1542), (')', 1542), ('that', 1328), ("'", 1077), ('s', 1054), ('for', 995), (':', 942), ('is', 936), ('on', 828), ('it', 784), ('are', 693), ('“', 685), ('”', 684), ('with', 632), ('trump', 607), ('at', 597), ('our', 588), ('as', 572), ('by', 571), ('we', 567), ('—', 563), ('more', 561), ('team-logo', 535), ('but', 521), ('i', 519), ('this', 485), ('they', 481), ('you', 443), ('t', 439), ('or', 438), ('percent', 433), ('who', 417), ('have', 414), ('from', 413), ('than', 412), ('about', 411), ('was', 397), ('one', 386), ('verdict', 377), ('be', 374), ('1', 365), ('polls', 359), ('an', 325), ('has', 325), ('were', 324), ('not', 313), ('data', 307), ('all', 304), ('their', 303), ('like', 290), ('he', 282), ('said', 281), ('if', 267), ('there', 265), ('other', 261), ('?', 260), ('how', 259), ('most', 252), ('so', 243), ('can', 242), ('what', 229), ('some', 226), ('his', 222), ('those', 219), ('people', 219), ('which', 217), ('when', 215), ('pollsters', 214), ('get', 202), ('positive', 200), ('out', 199), ('up', 197), ('also', 195), ('polling', 191), ('had', 187), ('each', 182), ('just', 181), ('2', 177), ('only', 175), ('donald', 174), ('poll', 173), ('%', 171), ('two', 169), ('do', 167), (';', 167), ('points', 167), ('will', 157), ('time', 154), ('would', 151), ('them', 151), ('new', 150)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 783
+Number of types: 624
+Type token ratio: 0.7969348659003831
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'nixon, this sunday, give his, and a, his 24th, george hw, term before, presidency, him to, run as, and once, speak sunday, github, college, service, new york, time, may nurphoto, commencementspeech, obama and, cheriss, presidency project, richard nixon, year, making more, commencement of, loyola marymount, and jimmy, university since, the capitol, service download, once each, nixon and, year but, times and, clinton school, convocation, education, institution, house spokeswoman, clinton, joe, truman took, project s, spokeswoman, marymount, white house, the circuit, this year, is set, github github, schedule, give way, s speech, but he, lyndon johnson, range, the commencement, carter, commencement, factor, the 23rd, address, presidents since, record, two commencement, the start, commencement speech, before he, loyola, year obama, combined obama, chart, spoke at, count, rutgers university, at 1249, size of, public service, chart above, force, military academy, a president, graduation, size, fouryear term, harry truman, its location, bialik, reach a, marymount university, virginia, graduates at, at a, cheriss may, last at, trip, public institution, arkansas clinton, bill clinton, many more, on the, bush his, a private, at ivy, s run, this story, one or, in 17, pace with, bill, state college, harry, clinton for, start of, washington maryland, at howard, data at, by richard, of loyola, the school, on github, github data, and his, speeches in, hw bush, to reach, page school, higher education, download the, house, can t, imbalance, the data, dc, pm, academy, the chart, historical imbalance, at cheyney, diversity, ivy league, complete commencementspeech, gave one, address of, air, convocation cheriss, eponymous university, with 23, state, his commencement, his presidency, on june, league, clinton took, short trip, to a, states and, maryland and, the pace, and virginia, account, ninth by, year is, the size, to obama, june 2, college or, start, presidency this, set to, cheyney state, giving commencement, academy on, presidential commencement, location, he ll, carl bialik, president at, usual pace, a short, pace for, since harry, force academy, place, pm sitting, commencement convocation, speech at, george, busy so, and joe, maryland, than at, biden a, pace, way, private school, capitol page, one state, american presidency, cheyney, commencement address, black college, and dc, times they, or university, within washington, sunday by, a number, three commencement, obama s, range of, number, york but, come bill, institution and, student, image, via getty, and last, speech, he spoke, the air, story, school since, wide range, hbcus, june, his 23rd, washington, project, example, by carl, joe biden, run, air force, geographical diversity, story on, richard, term, truman, reach, office, by a, into account, circuit, york, obama is, page, and is, obama, in his, his predecessor, he took, a white, ivy, president obama, in 37, took office, university, jimmy carter, year on, howard university, capitol, is the, to speak, chance, any one, and private, howard, bush, school, predecessor, download, johnson and, graduate, president, jimmy, have many')
+
+('VBG', 'making, is giving, president giving, choosing, speaking, giving, sitting, obama seeking, the speaking, virginia making, seeking, while giving, in choosing')
+
+('VB', 'travel, take, is up, give, to take, nurphoto, get, education get, saturday at, carl, at hbcus')
+
+('VBN', 'set, scheduled, bill clinton, spoken, have spoken, used, given, combined, have given, is scheduled, has spoken, filed')
+
+('VBP', 'factors in, addresses obama, diversity of, students takes, data on, times by, universities and, academies 44, likely have, speeches is, github, speeches per, carter the, times in, counts include, give, schools 53, location and, graduations of, speeches at, presidents are, graduates in, university and, addresses no, speeches than, schools but, saturday, chances to, typically gave, take, sunday, places than, include, come, presidents have, of michelle, such as, since bill, speeches in, years to, records in')
+
+('NNS', 'the data, page addresses, colleges universities, for presidents, datapresidentialcommencementspeeches, speeches presidents, github, sitting presidents, getty images, choosing schools, commencement speeches, include colleges, than they, at rutgers, private schools, four times, the years, address graduates, office presidents, school its, at graduations, speaking schedules, chose to, military academies, three places, commencement addresses, public schools, of factors, of students, rutgers, high schools, more chances, at datapresidentialcommencementspeeches, commencementspeech records, archive presidents, data, those counts, more speeches, 37 states, his travels, three times, college presidents')
+
+('JJR', 'filed under, higher')
+
+('JJ', 'get the, in those, to 41, for his, getty, of his, hbcus 11, of military, new, for this, s final, of arkansas, another public, give, when jimmy, geographical, and high, university s, the capitol, not the, final year, public, clinton, of public, of the, in geographical, speeches such, complete, usual, on sunday, sunday, under higher, times those, right the, are busy, presidents give, gives the, white, in 1945, spoken at, includes the, takes into, commencement, more than, even his, short, spoke at, scheduled to, biden, ninth, black, the historical, travels can, archive, takes him, eponymous, said obama, to come, more commencement, saturday, private, giving the, fouryear, used for, his fouryear, a military, the american, on github, schools 9, than three, in the, obama has, final, wide, michelle obama, up this, chose, historically black, university of, the eponymous, or two, last, university on, as a, giving commencement, american, to address, as the, historical, the usual, at the, per year, high, images president, on saturday, s archive, for example, spoke last, graced four, the ninth, obama s, imbalance in, used to, of presidential, in 1993, than in, speech, seeking to, number of, take a, saturday three, right, was the, upped the, military, s 148th, obama, speak, presidential, nurphoto via, those three, datapresidentialcommencementspeeches president, busy, account a, of complete, capitol, in any, johnson, many, howard, other public, last saturday, to give, widely in')
+
+('VBD', 'schools for, took, said, state new, t right, bialik filed, they used, graced, sunday at, they chose, example spoke, since 1979, upped, howard was, data used, school graced, office in, spoke, may 11, schools 54, gave, carter spoke, so 36, spokeswoman said, significantly upped, states combined, hw, sunday to, used')
+
+('VBZ', 'circuit takes, obama gives, includes, school of, league schools, above includes')
+
+100 most freq tokens after processing: 
+[('of the', 650), ('trump', 626), ('in the', 605), ('teamlogo', 540), ('poll', 538), ('1', 461), ('percent', 445), ('one', 432), ('verdict', 381), ('our verdict', 377), ('pollster', 322), ('like', 317), ('data', 312), ('said', 291), ('2', 244), ('get', 236), ('year', 236), ('point', 234), ('number', 231), ('to the', 230), ('people', 229), ('10', 222), ('percent of', 210), ('it s', 208), ('time', 203), ('election', 203), ('11', 202), ('also', 200), ('positive', 200), ('state', 197), ('polling', 192), ('on the', 190), ('donald', 180), ('verdict positive', 178), ('film', 176), ('two', 174), ('%', 171), ('and the', 170), ('voter', 170), ('republican', 167), ('3', 167), ('13', 167), ('would', 161), ('14', 160), ('donald trump', 160), ('12', 158), ('average', 157), ('new', 155), ('rating', 148), ('github', 147), ('result', 146), ('league', 145), ('make', 144), ('many', 144), ('candidate', 143), ('u', 142), ('for the', 141), ('much', 140), ('15', 140), ('neutral', 135), ('at the', 133), ('see', 132), ('to be', 131), ('first', 129), ('president', 128), ('verdict neutral', 128), ('even', 126), ('5', 124), ('week', 124), ('woman', 120), ('last', 117), ('likely', 116), ('since', 115), ('don t', 114), ('the most', 114), ('way', 112), ('4', 112), ('model', 112), ('race', 111), ('in a', 110), ('team', 109), ('percentage', 109), ('three', 108), ('season', 108), ('clinton', 107), ('may', 107), ('vote', 107), ('american', 106), ('day', 106), ('among', 106), ('the data', 105), ('player', 105), ('think', 104), ('take', 103), ('i m', 103), ('question', 102), ('more than', 102), ('number of', 102), ('win', 101), ('16', 101)]

@@ -1,0 +1,57 @@
+Article: endorsements-june-30
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1431
+Raw number of types: 492
+Raw Type token ratio: 0.3438155136268344
+
+100 most freq tokens before (pre)processing: 
+[(',', 4219), ('the', 2701), ('.', 1578), ('of', 1287), ('a', 1124), ('(', 1064), (')', 1064), ('in', 1046), ('to', 999), ('and', 908), ("'", 870), ('’', 755), (':', 621), ('that', 588), ('s', 459), ('our', 443), ('is', 440), ('for', 417), ('on', 400), ('it', 400), ('verdict', 377), ('trump', 368), ('i', 309), ('with', 302), ('1', 290), ('are', 287), ('at', 282), ('percent', 263), ('by', 261), ('more', 258), ('—', 252), ('but', 239), ('as', 236), ('we', 232), ('this', 232), ('“', 221), ('”', 221), ('you', 212), ('have', 205), ('than', 200), ('from', 197), ('positive', 189), ('like', 183), ('about', 180), ('or', 173), ('was', 170), ('data', 162), ('donald', 159), ('be', 154), ('an', 153), ('t', 151), ('has', 149), ('they', 147), ('all', 137), ('one', 136), ('neutral', 133), ('who', 122), ('were', 119), ('not', 118), ('their', 116), ('most', 115), ('other', 115), ('out', 113), ('/', 110), ('so', 109), ('there', 109), ('if', 107), ('?', 106), ('up', 105), ('when', 104), ('people', 104), ('can', 103), ('his', 102), ('get', 101), ('what', 101), ('those', 100), ('which', 99), ('he', 99), ('some', 96), ('how', 90), ('2', 90), ('only', 87), ('me', 85), ('my', 84), ('state', 84), ('negative', 83), (';', 81), ('hillary', 81), ('do', 78), ('its', 78), ('just', 78), ('model', 77), ('films', 77), ("'m", 76), ('also', 76), ('10', 76), ('each', 75), ('3', 74), ('github', 71), ('had', 70)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 698
+Number of types: 366
+Type token ratio: 0.5243553008595988
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'everything, citizen, foretell, jeb, harry, backing, minority, echo, florida, party, senator, action, relationship, point, ran, shot, percentage, jun, election, attention, piece, rudy, official, problem, super, share, contest, raft, pick, week, anyone, tell, something, course, mccain, cash, thirteen, rubio, explosion, frontrunner, kickoff, thing, information, dick, field, gramm, option, endorser, raise, romney, size, endorsement, half, years5, nomination, grab, group, fundraising, house, gephardt, pol, bigwig, homestate, gop, vote, nominee, race, plosz, end, gov, development, marco, support, story, word, choice, effect, spending, lot, sen, month, decision, home, haul, none, percent, mitt, state, triply, nonincumbent, fight, delegation, poll, anything, joel, judge, see, robertson, analysis, money, pay, sample, donation, position, fare, court, caucus, strength, hampshire, primary, chance, giuliani, study, candidate, bush, bit, process, congress, le, envision, summer, pac, check, governor, github, member, leader, help, form, crane, pat, power, tier, john, matter, campaign, goal, edge, number, year, brother, june, time, raised3, comparison, phil, iowa, pie, lead, account, today, george')
+
+('NNS', 'data, poll, besides, frontrunners, decides, differs, freeforalls, florida, postcitizens')
+
+('VBP', 'see, kerry, rand, super, look, say, candidate, predictive, bush, know, go')
+
+('JJ', 'weak, reasonable, paul, eric, give, determinative, dukakis, sure, floridian, supreme, primary, great, likely, meaningful, candidate, true, bush, fellow, previous, u, individual, additional, endorsement, small, applemandemocracy, national, independent, second, mean, clear, large, early, shot, gephardt, current, predictive, easy, homestate, gop, official, republican, extra, super, nowhere, big, recent, future, new, safest, third, eventual, last, plenty, particular, weight, impressive, organizational, win, hard, explain, important, dismiss, past, potential, former, democratic, selffunding4, representative, lead, ok, open, sen, presidential, united')
+
+('VBD', 'unveiled, weight, endorsement, went, weighted, plagued, speck, made, michael, donor, declared, w, filed, began, hit, led, elected, wrapped, split')
+
+('VB', 'hold, past, see, result, impressive, foretell, put, plosz, candidate, top, bush, talk')
+
+('VBZ', 'enters, seems')
+
+('VBG', 'gobbling, losing, polling, raising, taking, chairing, winning, serving, telling, keeping, fundraising, going, struggling, including, counting, making, using, running, trying, voting')
+
+('JJS', 'closest, weakest, least')
+
+('VBN', 'considered, given, raised, taken, used, based, earned, combined')
+
+('JJR', 'easier')
+
+100 most freq tokens after processing: 
+[('trump', 384), ('verdict', 379), ('1', 310), ('percent', 273), ('like', 206), ('positive', 189), ('data', 166), ('donald', 164), ('one', 161), ('film', 136), ('neutral', 133), ('state', 127), ('get', 122), ('people', 112), ('year', 109), ('number', 102), ('poll', 101), ('2', 97), ('10', 94), ('point', 92), ('model', 87), ('candidate', 86), ('hillary', 83), ('3', 83), ('negative', 83), ('time', 82), ('also', 80), ('woman', 78), ('said', 75), ('github', 71), ('make', 70), ('two', 70), ('new', 70), ('republican', 68), ('would', 67), ('5', 67), ('national', 67), ('movie', 67), ('day', 64), ('2015', 63), ('u', 61), ('first', 61), ('rock', 61), ('2016', 60), ('clinton', 59), ('2014', 58), ('nt', 57), ('much', 57), ('money', 56), ('driver', 56), ('way', 55), ('last', 55), ('6', 55), ('classic', 55), ('american', 54), ('win', 54), ('average', 54), ('even', 53), ('police', 53), ('race', 53), ('election', 53), ('got', 52), ('2013', 52), ('bill', 52), ('see', 51), ('likely', 51), ('president', 50), ('show', 50), ('look', 49), ('city', 49), ('2012', 49), ('4', 48), ('since', 46), ('may', 45), ('among', 45), ('marriage', 45), ('know', 44), ('think', 44), ('test', 44), ('go', 43), ('bush', 43), ('every', 43), ('many', 43), ('9', 43), ('case', 43), ('percentage', 43), ('obama', 42), ('come', 41), ('song', 41), ('week', 41), ('three', 40), ('set', 40), ('15', 40), ('still', 40), ('tower', 40), ('rating', 40), ('democrat', 40), ('20', 39), ('8', 39), ('change', 39)]

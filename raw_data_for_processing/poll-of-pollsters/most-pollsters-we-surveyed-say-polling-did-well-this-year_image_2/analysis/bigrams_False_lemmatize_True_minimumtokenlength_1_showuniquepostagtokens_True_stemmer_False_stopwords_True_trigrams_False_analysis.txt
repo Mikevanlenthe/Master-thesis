@@ -1,0 +1,59 @@
+Article: poll-of-pollsters/most-pollsters-we-surveyed-say-polling-did-well-this-year_image_2
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1760
+Raw number of types: 589
+Raw Type token ratio: 0.3346590909090909
+
+100 most freq tokens before (pre)processing: 
+[(',', 4832), ('the', 3325), ('.', 2054), ('of', 1632), ('a', 1353), ('to', 1311), ('in', 1309), ('and', 1171), ('(', 1129), (')', 1129), ('’', 1011), ("'", 871), ('that', 738), (':', 675), ('s', 575), ('for', 522), ('is', 519), ('it', 496), ('our', 485), ('on', 479), ('trump', 384), ('verdict', 377), ('at', 366), ('with', 365), ('are', 365), ('i', 361), ('“', 349), ('”', 349), ('by', 339), ('more', 333), ('as', 320), ('we', 318), ('—', 308), ('percent', 306), ('but', 305), ('this', 293), ('1', 291), ('you', 264), ('than', 250), ('have', 249), ('from', 239), ('was', 230), ('or', 226), ('they', 225), ('about', 223), ('t', 219), ('be', 216), ('data', 213), ('like', 213), ('who', 209), ('one', 192), ('an', 191), ('positive', 190), ('were', 177), ('has', 168), ('all', 166), ('most', 166), ('donald', 163), ('their', 157), ('not', 153), ('said', 149), ('other', 144), ('polls', 143), ('if', 138), ('people', 137), ('?', 136), ('out', 136), ('there', 135), ('can', 135), ('those', 134), ('neutral', 133), ('so', 132), ('when', 131), ('what', 131), ('which', 126), ('how', 126), ('some', 125), ('/', 123), ('he', 123), ('up', 122), ('get', 120), ('his', 112), ('also', 111), ('just', 110), ('each', 106), ('only', 102), ('my', 102), ('pollsters', 100), ('do', 98), ('had', 98), ('2', 97), ('will', 96), ('github', 93), ('two', 93), ('state', 93), (';', 91), ('me', 90), ('would', 88), ('its', 86), ('new', 84)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 844
+Number of types: 455
+Type token ratio: 0.5390995260663507
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'work, bialik, handle, website, ensue, nation, experience, way, defense, brief, organization, majority, party, direction, forecast, conduct, masondixon, point, implication, percentage, election, article, problem, consensus, cellphone, joseph, everyone, share, language, wave, heading1, absolute, speed, win, quote, error2, yougov, college, know, night, emotion, ask, rout, enema, respond, thing, river, tom, ernst, house, dc, error, company, change, vote, anzalone, policy, race, look, model, p, rating, colleague, phone, carl, turbulent, polling, joni, nate, senate, procedure, kansa, right, anonymity, lot, foresaw, jensen, name, day, wednesday, month, geography, business, willingness, economy, home, thought, control, industry, pollster, reason, pressure, mean, movement, carvalho, equation, muhlenberg, response, respondent, result, surveymonkey, question, online, mention, method, poll, methodology, bias, seat, performance, third, count, tuesday, average, battle, postelection, part, see, target, database, supporter, president, barbara, money, analysis, principle, electorate, liszt, learn, detail, loser, inc, firm, woman, ap, colorado, determine, news, return, cycle, research, provider, study, request, job, towery, preelection, le, insideradvantage, victory, github, ppp, marist, science, view, christopher, trend, borick, correct, decisive, struggle, surprise, twoparty, challenge, ‘, cost, turn, john, case, campaign, edge, reticent, call, year, number, fuck, time, winner, difference, gabriel, coker, iowa, need, sleep, statehouse')
+
+('VBN', 'yielded, pointed, taken, named, deviated, thought, surveyed, found, assessed, enjoyed, published, filed, done, elaborated, requested, made, combined, focused, weighted, balanced, stuck, conducted, checked, asked, answered, spotted, tied')
+
+('VBP', 'appear, see, finetune, github, come, make, say, decide, end, love, want, know')
+
+('VBG', 'determining, leading, polling, moving, depicting, calling, predicting, giving, trailing, digging, ccadvertising, testing, going, spotting, unskewing, counting, answering, ignoring, headscratching')
+
+('VB', 'work, spend, republican, get, answer, take, look, need, improve, play, identify')
+
+('NNS', 'yes, data, people, others, moines, github, know, datapollofpollsters, democrat')
+
+('JJ', 'reliable, consecutive, related, independent, beat, washington, next, valid, possible, worried, variable, last, selzer, senelect, tighten, different, predicted, specific, ethical, worthy, full, long, u, public, close, prolific, mute, second, general, underestimated, irresponsible, wrong, fox, pleased, polling, senate, saw, right, matt, presidential, else, first, name, wednesday, thirdhighest, anonymous, national, mean, carvalho, partial, many, early, several, online, pessimistic, little, poll, mississippi, unusual, tuesday, average, seventeen, priori, political, electorate, willing, ap, neibergall, wish, magnitude, active, towery, successful, le, colorful, correct, whole, surprise, republican, neverending, universe, raw, good, gubernatorial, brad, call, evaluate, iowa, unreleased, lead, answered, previous, bad')
+
+('VBZ', 'speaks, charlie, douglas')
+
+('JJS', 'thirdlowest, west, least')
+
+('VBD', 'came, went, zagged, pointed, got, included, tended, overstated, argued, looked, le, drowned, stumbled, thought, assessed, voted, encountered, ran, said, skewed, silver, ernst, closed, wrote, dissatisfied, predicted, credited, made, grove, responded, wanted, reported, spoke, followed, polled, anticipated, muted, prompted, selzer, light, felt, underperformed, captured, balanced, concluded, gave, onesided, suggested, showed, asked, embarrassed, answered')
+
+('JJR', 'winner, larger, closer, better, cheaper, easier')
+
+('NNP', 'yougov, …, democrat, zogby')
+
+100 most freq tokens after processing: 
+[('trump', 400), ('verdict', 379), ('percent', 316), ('1', 313), ('like', 236), ('one', 221), ('data', 217), ('poll', 211), ('positive', 190), ('donald', 168), ('said', 157), ('state', 156), ('people', 145), ('get', 143), ('year', 139), ('film', 136), ('neutral', 133), ('number', 131), ('pollster', 131), ('also', 115), ('time', 109), ('point', 106), ('10', 105), ('2', 104), ('model', 98), ('two', 97), ('would', 96), ('github', 93), ('woman', 91), ('republican', 90), ('candidate', 90), ('new', 88), ('election', 87), ('first', 86), ('make', 86), ('hillary', 86), ('3', 86), ('negative', 83), ('polling', 81), ('name', 80), ('american', 78), ('u', 77), ('average', 76), ('day', 76), ('national', 76), ('many', 75), ('likely', 74), ('2016', 74), ('last', 73), ('much', 72), ('clinton', 70), ('win', 70), ('5', 70), ('rating', 69), ('way', 68), ('even', 68), ('2014', 67), ('2015', 67), ('use', 67), ('movie', 67), ('race', 65), ('rate', 65), ('see', 64), ('show', 62), ('team', 62), ('rock', 61), ('drug', 61), ('look', 60), ('think', 59), ('2012', 59), ('got', 58), ('money', 58), ('nt', 57), ('6', 57), ('president', 56), ('among', 56), ('driver', 56), ('result', 56), ('2013', 55), ('classic', 55), ('percentage', 54), ('le', 54), ('know', 53), ('may', 53), ('since', 53), ('police', 53), ('senate', 53), ('world', 52), ('city', 52), ('example', 52), ('bill', 52), ('say', 50), ('go', 50), ('well', 49), ('every', 49), ('three', 49), ('take', 48), ('another', 48), ('used', 48), ('still', 48)]

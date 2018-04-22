@@ -1,0 +1,59 @@
+Article: poll-of-pollsters/pollsters-predict-greater-polling-error-in-midterm-elections
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2666
+Raw number of types: 823
+Raw Type token ratio: 0.30870217554388596
+
+100 most freq tokens before (pre)processing: 
+[(',', 4764), ('the', 3257), ('.', 1978), ('of', 1592), ('a', 1333), ('in', 1279), ('to', 1274), ('and', 1139), ('(', 1126), (')', 1126), ('’', 980), ("'", 871), ('that', 722), (':', 669), ('s', 564), ('for', 516), ('is', 515), ('it', 485), ('our', 475), ('on', 466), ('trump', 384), ('verdict', 377), ('are', 360), ('with', 359), ('i', 358), ('at', 356), ('by', 334), ('more', 331), ('“', 320), ('”', 320), ('as', 315), ('percent', 306), ('—', 306), ('we', 301), ('but', 294), ('1', 291), ('this', 284), ('you', 260), ('than', 247), ('have', 241), ('from', 236), ('or', 223), ('was', 218), ('about', 217), ('data', 210), ('like', 210), ('be', 208), ('they', 208), ('t', 207), ('who', 196), ('positive', 190), ('an', 188), ('one', 179), ('all', 166), ('has', 166), ('donald', 163), ('were', 161), ('most', 158), ('their', 152), ('not', 147), ('other', 140), ('if', 137), ('people', 136), ('neutral', 133), ('there', 132), ('out', 132), ('can', 132), ('those', 132), ('?', 131), ('so', 131), ('when', 127), ('what', 123), ('up', 122), ('/', 121), ('which', 121), ('said', 121), ('how', 120), ('get', 117), ('some', 117), ('he', 117), ('polls', 116), ('his', 110), ('also', 109), ('just', 104), ('each', 103), ('my', 101), ('only', 100), ('2', 97), ('do', 94), ('state', 93), ('github', 90), ('me', 90), ('had', 90), (';', 89), ('will', 89), ('two', 87), ('would', 85), ('its', 84), ('new', 84), ('hillary', 84)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1335
+Number of types: 658
+Type token ratio: 0.49288389513108616
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'work, calculator, bialik, website, rest, experience, way, kind, newspaper, durham, gotten, nonlower, organization, permanent, california, majority, party, florida, ancestry, hold, emergence, forecast, conduct, point, life, transparency, instance, television, percentage, fivethirtyeightcom, election, country, columbus, center, guess, washington, consolidation, roper, midterm, cellphone, law, hardtoreach, everyone, interview, pattern, margin, merriman, speak, selzer, autumn, york, pioneer, speed, quote, win, outcome, pick, hand, comment, booth, internet, something, course, line, encourage, resident, college, function, initiative, stranger, ask, show, bring, evidence, cross, answer, protect, increase, council, respond, strategy, river, aapor, transition, size, tom, side, station, area, bloc, group, echoed, student, union, silver, dc, post, opinion, error, simulation, plan, company, region, head, suggestion, hawaii, vote, makeup, university, nationalelection, anzalone, policy, race, map, predict, couple, model, revenue, city, huffington, p, voting, household, board, rating, colleague, phone, story, carl, place, participate, integrity, polling, choice, nate, senate, client, timeconsuming, profession, rowland, anonymity, lot, nobody, think, record, month, day, name, baby, mother, factor, tend, business, inform, industry, pollster, mislabel, fifteen, reason, smith, none, antitelemarketing, percent, state, decline, muhlenberg, response, run, gregg, issue, battleground, definition, illinois, technique, believer, respondent, cbialik, result, online, question, j, pennsylvania, mention, poll, requirement, block, schedule, date, seat, methodology, anything, dispatch, complement, association, count, world, editor, budget, blame, see, database, president, join, affair, liszt, room, inc, dial, firm, survey, accuracy, track, talk, denominator, determine, sponsor, ton, population, email, hampshire, get, advantage, research, drop, rate, numerator, turnout, job, interest, england, preelection, le, approval, andrew, release, victory, chicken, github, lament, member, voter, reliability, filipino, difficulty, proportion, view, christopher, medium, borick, move, survey1, church, ban, cost, power, overtake, image, maintain, frequency, matter, brad, number, year, payne, use, time, act, code, difference, confidentiality, afp, coker, davis, america, slim, account, holdout, participation')
+
+('JJR', 'smaller, consider, higher, fewer, pollster, greater, looser, lower, answer, easier')
+
+('VBG', 'expecting, asking, rising, belttightening, saying, weighting, hitting, handling, covering, reaching, identifying, attempting, using, challenging, occurring, shrinking, forecasting, moving, protecting, funding, estimating, beginning, tying, making, voting, upcoming, speaking, polling, increasing, predicting, formatting, declining, falling, barging, decreasing, sending, responding')
+
+('JJ', 'american, black, cyclical, granted, expensive, actual, christian, vary, darrel, stuart, japanese, chinese, nonncpp, broad, hardest, next, midterm, cellphone, quality, big, eligible, unannounced, top, downloadable, key, radar, democratic, different, alaska, structural, resident, specific, initiative, imminent, standard, u, dead, public, qualified, prolific, side, difficult, second, ohio, hispanic, participant, error, commercial, newsmedia, nevadan, represent, overweight, predict, agree, much, new, median, cite, happen, red, particular, unresponsive, polling, nate, senate, kansa, present, open, racial, presidential, monthly, jensen, accurate, rosenthal, nonaapor, likely, ethnic, want, small, pollster, anonymous, national, percent, partial, decline, many, poor, common, several, premise, respondent, archive, online, little, seth, seat, unusual, various, upshot, average, oversample, political, strong, potential, firm, primary, active, landline, le, consistent, peek, multiple, counterpart, lean, downward, republicanheld, write, republican, louisiana, john, nevada, raw, persuasive, low, torment, typical, use, hard, important, acceptable, crucial, narrow, congressional, southern, emmert, answered, urban, getty')
+
+('VBD', 'got, put, remained, heard, obsoleted, named, added, expected, ten, severed, measured, masondixon, mentioned, left, reached, said, cited, filed, differentiated, signed, attributed, wrote, untested, shared, made, grove, responded, wanted, reported, used, told, divided, fivethirtyeight, dialed, march, answered, geared, saw, asked, disagreed, predicted, contested, headed, took, sponsor')
+
+('NNS', 'adjusts, data, method, people, twothirds, others, alaska, happens, datapollofpollsters')
+
+('VBP', 'think, show, believe, tend, respond, arkansas, florida, metamora, reach, say, continue, borick, harder, cellphone, predict, turn, dispatch, include, place, expect, leave, make, denominator')
+
+('VBN', 'fallen, yielded, defined, pollbased, internetbased, named, expected, compared, found, forecast, sanctioned, overtaken, given, mentioned, realize, requested, contacted, managed, used, divided, posted, completed, asked, predicted, headed')
+
+('JJS', 'biggest, strictest, latest, least, highest, loosest, suggest')
+
+('NNP', 'la, ‘, …')
+
+('VB', 'find, result, specify, database, keep, roper, get, take, grim, decline, aberration, come, reach, make, sound, call')
+
+('VBZ', 'includes, arrives, defines, add, happens, provides')
+
+100 most freq tokens after processing: 
+[('trump', 400), ('verdict', 379), ('percent', 316), ('1', 313), ('like', 233), ('data', 214), ('one', 207), ('positive', 190), ('poll', 178), ('donald', 168), ('state', 156), ('people', 144), ('get', 140), ('film', 136), ('neutral', 133), ('year', 131), ('said', 129), ('number', 129), ('also', 113), ('2', 104), ('pollster', 104), ('time', 103), ('point', 103), ('10', 102), ('model', 96), ('would', 93), ('two', 91), ('woman', 90), ('github', 90), ('candidate', 90), ('new', 88), ('hillary', 86), ('first', 85), ('make', 85), ('3', 85), ('republican', 84), ('negative', 83), ('american', 78), ('name', 78), ('election', 78), ('national', 75), ('u', 74), ('likely', 74), ('day', 73), ('much', 72), ('last', 72), ('average', 71), ('polling', 71), ('clinton', 70), ('2016', 70), ('5', 70), ('many', 69), ('win', 69), ('even', 68), ('rating', 68), ('way', 67), ('2015', 67), ('use', 67), ('movie', 67), ('rate', 65), ('2014', 64), ('show', 62), ('team', 62), ('see', 61), ('rock', 61), ('drug', 61), ('think', 59), ('look', 58), ('race', 58), ('2012', 58), ('nt', 57), ('money', 57), ('6', 57), ('got', 56), ('driver', 56), ('president', 55), ('among', 55), ('2013', 55), ('classic', 55), ('may', 53), ('since', 53), ('police', 53), ('percentage', 53), ('world', 52), ('city', 52), ('example', 52), ('bill', 52), ('know', 50), ('go', 50), ('le', 50), ('say', 48), ('used', 48), ('still', 48), ('4', 48), ('result', 48), ('every', 47), ('take', 47), ('20', 47), ('senate', 47), ('chance', 47)]

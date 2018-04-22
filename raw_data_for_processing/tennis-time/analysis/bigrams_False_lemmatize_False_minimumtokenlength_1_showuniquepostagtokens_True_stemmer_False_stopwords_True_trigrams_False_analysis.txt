@@ -1,0 +1,57 @@
+Article: tennis-time
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2209
+Raw number of types: 681
+Raw Type token ratio: 0.30828429153463105
+
+100 most freq tokens before (pre)processing: 
+[(',', 5899), ('the', 4744), ('.', 3130), ('of', 2333), ('a', 1992), ('to', 1980), ('in', 1825), ('and', 1720), ('’', 1579), ('that', 1134), ('(', 1044), (')', 1044), ('s', 849), ('for', 831), (':', 809), ('is', 794), ('it', 695), ('on', 677), ("'", 665), ('“', 575), ('”', 574), ('are', 574), ('our', 570), ('team-logo', 535), ('with', 533), ('we', 501), ('at', 492), ('by', 492), ('as', 488), ('more', 482), ('i', 471), ('—', 445), ('trump', 435), ('but', 421), ('this', 407), ('you', 398), ('they', 397), ('verdict', 377), ('t', 369), ('polls', 357), ('have', 356), ('or', 355), ('1', 353), ('about', 346), ('from', 346), ('than', 344), ('percent', 340), ('was', 337), ('be', 330), ('one', 322), ('who', 311), ('an', 275), ('like', 268), ('has', 262), ('data', 259), ('said', 254), ('all', 246), ('were', 246), ('their', 245), ('he', 245), ('not', 241), ('if', 240), ('how', 220), ('there', 216), ('most', 215), ('pollsters', 214), ('other', 211), ('can', 209), ('?', 206), ('so', 204), ('some', 201), ('positive', 196), ('his', 193), ('when', 191), ('what', 191), ('polling', 191), ('those', 183), ('which', 178), ('people', 178), ('out', 172), ('up', 171), ('get', 170), ('donald', 170), ('poll', 170), ('2', 169), ('also', 166), ('each', 161), ('%', 157), ('had', 155), ('points', 154), ('just', 152), ('do', 143), ('two', 143), ('only', 141), ('will', 140), ('league', 137), ('election', 136), (';', 133), ('neutral', 133), ('/', 131)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1024
+Number of types: 553
+Type token ratio: 0.5400390625
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pete, rain, surface, watch, anyone, area, era, dustin, speedy, number, question, jeff, stopwatch, difference, post, slowdown, rest, pat, tomic, lendl, promote, change, defeat, side, foot, baseball, clock, conference, company, television, goran, umpire, get, agassi, create, effect, clay, recovery, knock, regression, friday, slowest, chang, blame, rosol, jun, fiveset, fivesetter, champ, sport, racket, news, storm, ball, federer, history, match10, match, john, tour, czech, head, monday, rafael, half, patience, correlation, wait, access, everyone, nadal, winner, year, guy, querrey, djokovic, wimbledon, topic, throw, level, cash, andre, break, all4, sock, tick, part, today, shirt, jack, sign, game, darkness, toss, play, fourset, mcenroe, require, analysis, marin, gael, ap, response, show, style, bernard, errant, sackmann, camus, take, matter, shrink, analyst, towel, rush, point5, thibault, nonetheless, lot, sound, player, extreme6, enforcement, point, mean, washington, building, mine, forth, serve, hand, smartphone, time, tennis, sam, pace, sweatiest, tock, join, function, walk, albeit, percentage, murray, rafa, roger, court, face, baseline, way, tournaments7, grass, yeah, force, illustration, thinking, nothing, massu, breath, keep, speed, success, rally, career')
+
+('NNS', 'umpires, rallies, schedules, rules, tactics, years, serves, cohorts, ones, days, michael, servers, things, seconds, players, github, plays, opponents, events, maintains, matches, variables, sampras, outliers, blocks, monfils, violations, connors, times, explayers, ears, sweats, data, shorts, matters, games, lacks, puts, questions, amounts, slams2, stats, fans, runs, minutes, factors, thinks, floodlights, tournaments, estimates, balls, breaks, others, determines, battles, men, quantities, spectators, spin, sports, seniors, points, findings, multipleslamwinners, figures, sets, women, hours, greats, shoes, cries, parts')
+
+('VBP', 'lukas, chang, exceed, serve, coach, play, plays, know, github, think, request, want, sport, push, racket, relative, ball, federer, add, stretch, go, fast, sense, match, tour, atp, check, rafael, consider, jimmy, take, find, nadal, grass, jim, length, bit, see, break, roof, tease')
+
+('VB', 'move, bialik, get, disadvantage, racket, become, engage, good, squeeze, serve, take, row, slow, go, play')
+
+('VBN', 'finished, used, bestoffiveset, cleaned, expected, squared, filed, missed, protracted, ended, set, cracked, required, remained, granted, guessed, compared')
+
+('JJ', 'easy, ran, tired, next, novak, retired, faster, rhythm, tournament, catch, tomic, add, gotten, fast, young, little, wrong, ump, pm, average, official, actual, paris, threshold, french, spend, american, uploaded, right, affect, annoyed, final, call, tactic, ball, match, monday, tour, correlation, nadal, large, rubbed, andy, high, querrey, djokovic, wimbledon, cilic, topic, worked, urgent, break, encouraging, semifinal, vexed, correlated, grand, lose, early, ivan, nicolas, upcoming, popular, relative, usual, australian, fellow, brown, good, fast1, big, trusty, joint, extra, epic, ninetime, enough, open, points8, last, forth, long, serve, local, several, ritual, github, much, fourth, murray, roger, second, typical, baseline, first, imminent, weapon, slow, net, equal, return, length, ivanisevic, great, finish, many')
+
+('VBZ', 'rallies, knows, wishes, encourages, matches, wins, serves, monfils, takes, goes, affects, appears, play9, gets, plays')
+
+('JJR', 'bigger, quicker, slower, fewer, longer, less, courier')
+
+('VBD', 'caught, raised, taught, peeved, liked, rushed, assumed, shifted, grew, needed, called, finished, slowpaced, answered, showed, recalled, offered, tapped, timed, said, posted, hit, bounced, suspended, sped, asked, removed, studied, supposed, allowed, slowed, dried, played, picked, rocked, took, went, rejected, told, servedandvolleyed, served, got')
+
+('VBG', 'defending, suggesting, winning, forcing, mixing, playing, stopwatching, serving, testing, capturing, thrilling, going, correlating, deciding, counting, using, rocking, changing, including, waiting, starting, talking, enforcing, interesting, adding, taking, pressing, throwing, picking')
+
+('JJS', 'greatest, least, biggest, slowest, fastest')
+
+100 most freq tokens after processing: 
+[('teamlogo', 538), ('trump', 442), ('1', 442), ('verdict', 378), ('polls', 361), ('percent', 348), ('one', 331), ('like', 274), ('data', 262), ('said', 260), ('2', 233), ('pollsters', 214), ('10', 203), ('positive', 196), ('polling', 192), ('11', 189), ('people', 184), ('get', 176), ('donald', 174), ('poll', 170), ('also', 169), ('%', 157), ('3', 154), ('13', 154), ('points', 154), ('14', 150), ('two', 146), ('12', 141), ('would', 137), ('league', 137), ('election', 136), ('neutral', 133), ('number', 129), ('time', 128), ('15', 128), ('average', 126), ('new', 125), ('github', 120), ('year', 116), ('much', 115), ('many', 115), ('5', 114), ('see', 112), ('state', 107), ('pollster', 107), ('first', 103), ('4', 103), ('results', 100), ('us', 99), ('last', 99), ('likely', 98), ('even', 97), ('percentage', 97), ('clinton', 95), ('hillary', 95), ('national', 95), ('17', 94), ('16', 94), ('2016', 93), ('use', 91), ('error', 90), ('6', 90), ('may', 87), ('negative', 87), ('years', 86), ('2014', 86), ('since', 86), ('model', 86), ('three', 85), ('19', 85), ('make', 84), ('another', 84), ('think', 82), ('women', 82), ('republican', 82), ('ratings', 82), ('2015', 79), ('2012', 79), ('way', 78), ('states', 77), ('20', 77), ('candidates', 77), ('09', 77), ('films', 77), ('every', 76), ('still', 76), ('18', 76), ('got', 75), ('take', 74), ('8', 74), ('numbers', 74), ('among', 72), ('senate', 72), ('know', 69), ('example', 69), ('pts', 69), ('president', 68), ('say', 68), ('liga', 68), ('whether', 67)]

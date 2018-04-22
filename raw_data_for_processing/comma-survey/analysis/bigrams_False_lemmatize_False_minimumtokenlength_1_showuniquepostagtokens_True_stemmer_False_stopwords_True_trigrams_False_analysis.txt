@@ -1,0 +1,57 @@
+Article: comma-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 889
+Raw number of types: 370
+Raw Type token ratio: 0.4161979752530934
+
+100 most freq tokens before (pre)processing: 
+[(',', 6958), ('the', 5982), ('.', 3954), ('of', 2974), ('a', 2496), ('to', 2445), ('in', 2289), ('and', 2182), ('’', 1973), ('that', 1381), ('(', 1168), (')', 1168), ('s', 1076), ('for', 1022), ('is', 980), (':', 949), ('on', 872), ('it', 832), ('are', 722), ('“', 711), ('”', 710), ("'", 665), ('with', 656), ('at', 627), ('trump', 607), ('as', 605), ('our', 599), ('by', 594), ('we', 592), ('more', 577), ('—', 574), ('i', 549), ('but', 547), ('team-logo', 535), ('they', 527), ('this', 501), ('or', 469), ('percent', 466), ('you', 462), ('t', 449), ('who', 445), ('have', 441), ('from', 430), ('was', 425), ('about', 424), ('than', 416), ('be', 400), ('one', 399), ('verdict', 377), ('1', 368), ('were', 366), ('polls', 359), ('an', 341), ('data', 331), ('has', 331), ('?', 326), ('not', 322), ('their', 312), ('all', 311), ('said', 300), ('like', 297), ('he', 283), ('how', 277), ('there', 272), ('if', 271), ('other', 270), ('most', 257), ('so', 255), ('can', 250), ('those', 244), ('some', 240), ('what', 235), ('people', 234), ('his', 228), ('when', 228), ('which', 226), ('pollsters', 214), ('get', 212), ('out', 210), ('up', 201), ('also', 200), ('positive', 200), ('had', 196), ('just', 193), ('polling', 191), ('each', 187), ('2', 179), ('only', 178), ('poll', 176), ('donald', 174), ('two', 173), ('%', 172), ('do', 171), (';', 171), ('points', 169), ('new', 163), ('time', 160), ('will', 160), ('github', 158), ('them', 158)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 377
+Number of types: 277
+Type token ratio: 0.7347480106100795
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'think, blunt, percent, trouble, birthplace, columbia, york, sentence, speech, grammar, datacommasurvey, usage, baltimore, blight, type, dictionary, edit, clarity, blog, company, excellent, victory, caleb, get, university, percentagepoint, use, issue, effect, follower, particular, hickey, mcintyre, jun, survey, noun, etc, goal, language, professor, writing, series, journalism, audience, half, ink, merrill, editor, peace, cantor, comma, none, poll, kind, editorial, passion, author, june, rabid, middleoftheroad, majority, sun, stalin, walt, owner, knowing, vote, explanation, conjunction, matter, rule, note, adjunct, lot, latter, loyalty, omit, end, oxford, margin, point, preference, view, github, school, prooxford, perlman, middle, relevant, opinion, split, person, preposition, press, put, suspect, result, jfk, stylebook')
+
+('JJ', 'exotic, unambiguous, american, conclusive, mcintyre, controversial, old, bad, ahistoric, formative, much, popular, percent, hear, serial, say, superfluous, loyal, latinate, final, list, sentence, eric, simple, former, preferred, sun, grammatical, graduate, vast, clear, zealous, personal, important, pm, deep, good, correct, coherent, veteran, average, instill, comic, ungrammatical, email, plural, extra, singular, insufferable, humble, pure, surveymonkey, new, english, passionate, exist, many, unnecessary, oxford, longtime')
+
+('VBP', 'tyranny, start, tell, prefer, crowd, believe, camp, involve, ap, data, exist, know, elitist, think, john, oxford, tend, say')
+
+('VBN', 'seen, used, associated, found, thought, filed, polled, published')
+
+('NNS', 'dancers, raps, rules, years, minds, jones, things, linguistics, hearts, partisans, oxfordians, times, references, data, americans, terms, mouths, people, experts, interests, pros, respondents, rivals, numbers, opponents, parts')
+
+('VBD', 'feigned, taught, learned, escaped, ran, performed, drummed, fivethirtyeight, weighed, put, took, spilled, dressed, asked, wondered, fell, said, accompanied, lost')
+
+('VBZ', 'partisans, comes, follows, goes, says, seems')
+
+('VBG', 'consulting, knowing, parsing, following, pressing, preferring, asking, grabbing, using, posturing, winning, commanding, liking')
+
+('JJS', 'honest')
+
+('VB', 'less, defeat, knuckle')
+
+('NNP', '‘')
+
+100 most freq tokens after processing: 
+[('trump', 614), ('teamlogo', 538), ('percent', 474), ('1', 457), ('one', 408), ('verdict', 378), ('polls', 363), ('data', 334), ('said', 306), ('like', 303), ('2', 244), ('people', 240), ('10', 219), ('get', 218), ('pollsters', 214), ('also', 203), ('11', 200), ('positive', 200), ('polling', 192), ('13', 181), ('donald', 178), ('two', 176), ('poll', 176), ('14', 174), ('%', 172), ('3', 169), ('points', 169), ('new', 166), ('time', 163), ('12', 163), ('would', 161), ('github', 158), ('15', 154), ('many', 151), ('number', 150), ('average', 150), ('election', 146), ('league', 142), ('us', 141), ('much', 139), ('neutral', 136), ('voters', 136), ('first', 133), ('see', 131), ('year', 130), ('5', 130), ('even', 127), ('likely', 121), ('may', 119), ('last', 116), ('since', 116), ('years', 115), ('16', 115), ('state', 114), ('president', 113), ('4', 113), ('three', 109), ('17', 109), ('among', 108), ('percentage', 108), ('results', 108), ('pollster', 107), ('clinton', 104), ('make', 102), ('think', 101), ('women', 101), ('2016', 101), ('6', 100), ('national', 100), ('season', 100), ('films', 100), ('2014', 99), ('hillary', 97), ('still', 97), ('republican', 96), ('every', 94), ('use', 94), ('19', 94), ('20', 93), ('less', 93), ('another', 92), ('error', 90), ('negative', 90), ('way', 89), ('model', 89), ('8', 88), ('ratings', 88), ('least', 87), ('18', 87), ('numbers', 86), ('take', 85), ('vote', 85), ('2015', 83), ('2012', 83), ('asked', 82), ('states', 81), ('team', 81), ('college', 81), ('well', 80), ('got', 80)]

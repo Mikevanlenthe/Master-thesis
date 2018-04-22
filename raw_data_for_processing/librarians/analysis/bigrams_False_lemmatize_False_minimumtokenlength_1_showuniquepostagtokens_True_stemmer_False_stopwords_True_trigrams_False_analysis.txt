@@ -1,0 +1,57 @@
+Article: librarians
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 532
+Raw number of types: 255
+Raw Type token ratio: 0.4793233082706767
+
+100 most freq tokens before (pre)processing: 
+[(',', 8648), ('the', 7722), ('.', 5277), ('of', 3912), ('a', 3294), ('to', 3149), ('in', 2883), ('and', 2866), ('’', 2652), ('that', 1767), ('s', 1461), ('(', 1356), (')', 1356), ('for', 1325), ('is', 1272), ('on', 1115), (':', 1100), ('it', 1098), ('are', 949), ('“', 921), ('”', 920), ('with', 830), ('at', 822), ('—', 818), ('we', 807), ('as', 795), ('by', 767), ('i', 754), ('but', 734), ('percent', 726), ('more', 711), ('our', 685), ("'", 665), ('this', 660), ('trump', 637), ('or', 633), ('they', 628), ('you', 608), ('have', 592), ('from', 590), ('t', 569), ('was', 547), ('about', 546), ('team-logo', 535), ('who', 524), ('than', 523), ('be', 519), ('data', 497), ('one', 494), ('were', 465), ('an', 454), ('?', 434), ('has', 427), ('their', 405), ('not', 400), ('all', 397), ('1', 394), ('verdict', 377), ('there', 370), ('polls', 364), ('how', 361), ('said', 360), ('like', 360), ('so', 346), ('he', 344), ('if', 342), ('can', 340), ('what', 330), ('other', 326), ('people', 318), ('some', 316), ('which', 310), ('most', 305), ('his', 300), ('out', 299), ('those', 292), ('when', 290), ('had', 283), ('also', 276), ('get', 263), ('up', 259), ('each', 253), ('just', 237), ('two', 230), ('only', 228), ('do', 226), ('github', 215), ('pollsters', 214), ('new', 212), ('its', 208), ('these', 207), ('them', 206), ('positive', 206), (';', 204), ('will', 200), ('time', 198), ('would', 193), ('my', 193), ('been', 192), ('number', 192)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 243
+Number of types: 185
+Type token ratio: 0.7613168724279835
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'master, j, blame, area, death, texas, age, association, valley, time, drop, number, percent, chalabi, public, basis, silicon, information, spring, list, pay, judge, ap, state, total, library, concentration, picture, mexico, estimate, thing, population, quotient, bls, america, country, change, degree, branch, place, year, detail, bureau, idaho, funding, use, wage, level, job, accuracy, david, phillip, labor')
+
+('VBZ', 'librarians, earns')
+
+('JJ', 'american, ky, mona, noticed, librarian, median, know, bush, relative, finer, worth, weep, past, library, calif, constant, fresno, mixed, real, quotient, first, average, metropolitan, annual, top, foreseeing, new, helpful, many, last, occupational')
+
+('VBD', 'cut, found, risen, tested, andrew, read, credentialed, fell')
+
+('NNS', 'jobs, workers, places, github, calculates, directors, areas, librarians, libraries, species, data, flowers, colleges, salaries, statistics, people, concentrations, men, states, women, measures, datalibrarians')
+
+('VBN', 'seen, endangered, filed, risen, held')
+
+('VBP', 'get, become, owensboro, find, rookie, barbara, duh, github, look')
+
+('JJR', 'older, fewer')
+
+('VBG', 'zooming, looking, trying, proclaiming, getting, according')
+
+('VB', 'owensboro, interested, increase, low')
+
+('JJS', 'biggest, highest, best')
+
+100 most freq tokens after processing: 
+[('percent', 734), ('trump', 644), ('teamlogo', 538), ('one', 503), ('data', 500), ('1', 483), ('verdict', 378), ('polls', 368), ('said', 366), ('like', 366), ('people', 324), ('also', 279), ('get', 269), ('2', 257), ('10', 257), ('two', 233), ('11', 221), ('new', 215), ('github', 215), ('pollsters', 214), ('positive', 206), ('13', 202), ('time', 201), ('would', 199), ('number', 193), ('polling', 192), ('us', 191), ('year', 190), ('many', 187), ('14', 187), ('%', 187), ('points', 186), ('donald', 185), ('3', 181), ('12', 179), ('poll', 179), ('much', 177), ('15', 176), ('see', 173), ('average', 172), ('first', 171), ('even', 169), ('likely', 164), ('may', 158), ('election', 158), ('league', 155), ('since', 154), ('years', 147), ('last', 144), ('voters', 144), ('5', 142), ('among', 141), ('16', 140), ('state', 139), ('2014', 138), ('neutral', 138), ('results', 138), ('states', 134), ('three', 134), ('women', 133), ('team', 133), ('2016', 131), ('make', 130), ('world', 130), ('still', 128), ('17', 127), ('least', 124), ('think', 122), ('season', 122), ('4', 121), ('president', 120), ('percentage', 120), ('every', 118), ('less', 116), ('national', 115), ('well', 114), ('respondents', 113), ('clinton', 112), ('way', 111), ('6', 111), ('another', 110), ('20', 109), ('2015', 109), ('model', 109), ('use', 109), ('numbers', 108), ('win', 107), ('pollster', 107), ('take', 106), ('whether', 106), ('19', 106), ('films', 106), ('vote', 103), ('know', 102), ('hillary', 101), ('good', 101), ('filed', 101), ('better', 99), ('might', 99), ('18', 99)]

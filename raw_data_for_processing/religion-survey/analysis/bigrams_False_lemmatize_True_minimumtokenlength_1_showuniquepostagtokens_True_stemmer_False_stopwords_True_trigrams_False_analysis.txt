@@ -1,0 +1,57 @@
+Article: religion-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1066
+Raw number of types: 423
+Raw Type token ratio: 0.3968105065666041
+
+100 most freq tokens before (pre)processing: 
+[(',', 4483), ('the', 2927), ('.', 1748), ('of', 1417), ('a', 1210), ('in', 1165), ('to', 1140), ('(', 1103), (')', 1103), ('and', 1020), ("'", 870), ('’', 839), ('that', 664), (':', 640), ('s', 492), ('is', 478), ('for', 461), ('our', 449), ('it', 437), ('on', 433), ('verdict', 377), ('trump', 368), ('i', 347), ('with', 331), ('at', 328), ('are', 318), ('more', 303), ('by', 297), ('1', 291), ('percent', 288), ('as', 277), ('“', 275), ('”', 275), ('but', 268), ('—', 268), ('this', 258), ('we', 250), ('you', 244), ('than', 224), ('from', 220), ('have', 219), ('or', 203), ('data', 199), ('about', 199), ('like', 196), ('was', 192), ('positive', 190), ('be', 186), ('t', 178), ('an', 175), ('they', 167), ('donald', 159), ('has', 158), ('who', 153), ('were', 149), ('all', 148), ('one', 148), ('most', 138), ('not', 133), ('neutral', 133), ('other', 131), ('their', 128), ('if', 122), ('so', 122), ('out', 122), ('those', 122), ('?', 121), ('there', 120), ('when', 119), ('can', 118), ('people', 118), ('up', 114), ('/', 113), ('get', 111), ('which', 111), ('he', 111), ('what', 108), ('his', 107), ('how', 104), ('some', 100), ('my', 97), ('only', 93), ('each', 93), ('2', 91), ('just', 90), ('me', 90), ('also', 88), ('state', 86), ('do', 85), (';', 85), ('github', 83), ('negative', 83), ('hillary', 81), ('its', 80), ('had', 80), ('first', 77), ('10', 77), ('model', 77), ('films', 77), ("'m", 76)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 467
+Number of types: 303
+Type token ratio: 0.6488222698072805
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBG', 'causing, showing, forthcoming, thinking, crossing, praying, anticipating, assuming, witnessing, legitimizing, saying, creating, seeing, treating, loving, using, trying, making')
+
+('JJ', 'american, give, able, offense, likely, nonreligious, professional, nationwide, christian, faith, follow, unbothered, atheist, individual, statistical, orthodox, fear, reluctant, agnostic, public, want, underestimate, silverman, mixed, alienate, half, percent, eastern, resembled, france, sake, cautious, many, implicit, ordinary, getty, nice, wrong, invisible, uncomfortable, surveymonkey, david, comfortable, little, ‘, ban, god, coastal, preparatory, intense, clash, much, new, good, worried, visible, leah, tricky, rosary, august, bbc, nun, table, burkini, different, right, pray, prayed, religious, participatory, united')
+
+('VBP', 'see, ask, prefer, expect, feel, make, decide, say, atheist, believer, want')
+
+('NNS', 'corner, clothes, data, people, hears, others, threequarters, grace')
+
+('NN', 'catholicism, convert, rest, marker, experience, way, kind, christian, faith, conversation, hold, silverman, action, crunchy, audience, france, feel, meal, circumstance, conversion, religion, guess, discomfort, prayer, god, habit, sign, interview, practice, york, week, anyone, something, course, fork, deputy, courthouse, kitchen, ask, stranger, offer, sense, thing, example, option, person, side, half, respect, group, reach, book, jewelry, sensibility, head, change, acquaintance, look, thicker, city, someone, patrick, secularism, reaction, pray, lot, libresco, freedom, benedict, day, affection, atheist, datareligionsurvey, burkinis, feeling, protest, home, author, mean, percent, state, dreher, response, invitation, believer, government, town, rod, question, set, poll, con, display, bus, anything, mayor, beach, worship, world, see, part, baz, scene, president, intolerance, grace, survey, nativity, court, st, offense, tie, get, fear, friend, consistency, street, github, controversy, atheism, church, hackle, image, awkwardness, eat, thank, care, spark, engage, act, commitment, afp, etc, need, strength, religiosity, panel')
+
+('VBN', 'struck, thought, guessed, considered, filed, asked, spotted, based')
+
+('VBD', 'sprang, lifted, faith, backed, found, seemed, explained, tried, said, led, overestimated, neglected, prayer, rejected, spoke, felt, carried, commissioned, laïcité, saw, banned')
+
+('VBZ', 'faith, offends')
+
+('VB', 'listen, performed, cause, get, sixtytwo, feel, make, pray, raise, untroubled')
+
+('JJS', 'oddest, best')
+
+('JJR', 'fewer, better, answer')
+
+100 most freq tokens after processing: 
+[('trump', 384), ('verdict', 379), ('1', 312), ('percent', 298), ('like', 219), ('data', 203), ('positive', 190), ('one', 176), ('donald', 164), ('film', 136), ('state', 133), ('neutral', 133), ('get', 132), ('people', 126), ('year', 118), ('number', 116), ('poll', 102), ('2', 98), ('10', 96), ('point', 94), ('also', 92), ('time', 89), ('model', 87), ('candidate', 86), ('first', 84), ('3', 84), ('hillary', 83), ('github', 83), ('negative', 83), ('said', 82), ('make', 81), ('woman', 79), ('would', 78), ('new', 77), ('name', 77), ('american', 76), ('two', 74), ('national', 71), ('likely', 69), ('5', 69), ('u', 68), ('republican', 68), ('day', 68), ('last', 67), ('movie', 67), ('way', 66), ('2015', 64), ('much', 63), ('even', 63), ('use', 62), ('2016', 61), ('rock', 61), ('drug', 61), ('clinton', 60), ('2014', 60), ('average', 60), ('nt', 57), ('see', 57), ('money', 57), ('show', 57), ('driver', 56), ('look', 55), ('2013', 55), ('6', 55), ('classic', 55), ('many', 54), ('win', 54), ('got', 53), ('police', 53), ('race', 53), ('election', 53), ('bill', 52), ('president', 51), ('may', 51), ('among', 51), ('city', 50), ('2012', 50), ('since', 49), ('go', 48), ('example', 48), ('4', 48), ('know', 47), ('still', 47), ('think', 46), ('test', 46), ('rate', 46), ('marriage', 45), ('le', 45), ('country', 44), ('9', 44), ('percentage', 44), ('well', 43), ('bush', 43), ('every', 43), ('take', 43), ('come', 43), ('20', 43), ('set', 43), ('15', 43), ('week', 43)]

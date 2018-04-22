@@ -1,0 +1,3 @@
+Article: riddler-pick-lowest/is-this-bathroom-occupied
+
+Number of graphs: 1

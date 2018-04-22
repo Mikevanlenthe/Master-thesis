@@ -1,0 +1,59 @@
+Article: riddler-pick-lowest/pick-a-number-any-number
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1149
+Raw number of types: 416
+Raw Type token ratio: 0.36205395996518713
+
+100 most freq tokens before (pre)processing: 
+[(',', 5348), ('the', 3652), ('.', 2325), ('of', 1818), ('to', 1503), ('a', 1472), ('in', 1412), ('and', 1298), ('(', 1153), (')', 1153), ('’', 1152), ("'", 871), ('that', 831), (':', 720), ('s', 636), ('for', 589), ('is', 585), ('it', 550), ('our', 528), ('on', 512), ('“', 430), ('”', 430), ('are', 426), ('with', 410), ('at', 392), ('trump', 391), ('i', 383), ('verdict', 377), ('we', 371), ('more', 369), ('by', 368), ('as', 354), ('—', 336), ('but', 331), ('this', 325), ('you', 320), ('percent', 319), ('they', 302), ('1', 301), ('have', 278), ('than', 275), ('from', 267), ('t', 263), ('about', 263), ('who', 263), ('or', 261), ('be', 251), ('was', 251), ('one', 243), ('data', 225), ('like', 222), ('said', 219), ('their', 204), ('an', 203), ('were', 195), ('positive', 195), ('all', 187), ('pollsters', 187), ('most', 183), ('polls', 183), ('has', 177), ('not', 175), ('if', 165), ('donald', 165), ('there', 163), ('can', 160), ('other', 158), ('?', 156), ('people', 155), ('how', 154), ('those', 153), ('what', 149), ('so', 147), ('out', 146), ('when', 146), ('some', 145), ('which', 137), ('up', 135), ('get', 134), ('neutral', 133), ('he', 128), ('each', 126), ('/', 124), ('just', 123), ('also', 121), ('his', 116), ('will', 114), ('only', 113), ('do', 111), ('my', 108), ('two', 108), ('number', 108), ('polling', 108), ('had', 104), ('2', 104), ('github', 102), ('would', 98), ('10', 97), ('me', 95), ('state', 95)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 546
+Number of types: 307
+Type token ratio: 0.5622710622710623
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'solver, effective, give, 👏, perfect, daniel, tie, primary, classic, related, unique, dust, attic, candidate, \ufeffpick, total, u, mathematical, intriguing, rugby, multiple, general, choose, ordinal, certain, equal, collect, many, poor, enough, favorite, submission, inclusive, north, excellent, next, conquer, troop, extra, possible, legal, much, good, kurkdjian, select, last, logic, castle, strategic, win, welcome, simple, fine, slowpuzzle, archenemy, exclusive, worth, need, different, atlarge, positive, capable, previous, bad')
+
+('NN', 'cast, illustration, organize, everything, daniel, nation, way, kind, either1, iteration, hold, value, point, chain, village, column, election, troop, problem, share, twitter, rule, find, outcome, week, program, something, participatory, length, itay, offer, spy, …, thing, example, ballot, field, intuition, strategy, person, hint, congratulation, abijith, krishnan, solution, combat, simulation, vote, riddler, soldier, distribution, city, band, voting, express, spent, place, submit, conqueror, math, factor, dakota, war, want, puzzle, enemy, bavly, markley, josiah, choose, movement, warlord, probability, advance, opponent, slot, start, technique, town, graph, seat, riddler4x3default, knowledge, order, credit, battle, folk, castle, distribute, figure, zack, integer, colorado, news, solver, segel, type, candidate, send, eg, bar, victory, eriksson, snowmass, voter, description, attempt, guillaume, zero, army, cost, jack, image, matter, case, loss, number, use, winner, code, commission, need, argument')
+
+('VBN', 'called, set, required, given, finished, edited, filed, bitesized')
+
+('VB', 'win, vote, roeder, get, build, reduce, deal, voter, make, start, adjacent')
+
+('VBP', 'see, castle, find, chainlink, dear, winner, 👏, win, give, send, desire, build, need, end, want, know, correct')
+
+('JJR', 'cooper, longer, answer, soldier')
+
+('VBG', 'leaving, excluding, involving, meaning, conquering, separating, requiring, annealing, competing, building, representing, adding, using, running, collecting')
+
+('VBZ', 'win, arrives, mat, sends, submits')
+
+('JJS', 'worst, best, lowest, least, longest')
+
+('VBD', 'provided, ruled, choose, started, left, converged, described, inducted, suffered, let, simulated, approached, split')
+
+('NNP', '🏅, 👏')
+
+('NNS', 'conquers, conquer, people, economics, jenkins')
+
+100 most freq tokens after processing: 
+[('trump', 407), ('verdict', 379), ('percent', 329), ('1', 323), ('poll', 281), ('one', 274), ('like', 245), ('data', 229), ('pollster', 229), ('said', 227), ('positive', 195), ('number', 178), ('donald', 170), ('people', 163), ('state', 161), ('get', 159), ('year', 148), ('film', 136), ('neutral', 133), ('also', 125), ('time', 118), ('10', 118), ('point', 117), ('two', 112), ('2', 111), ('election', 110), ('polling', 109), ('would', 106), ('model', 104), ('github', 102), ('candidate', 102), ('make', 99), ('republican', 97), ('new', 96), ('many', 95), ('woman', 93), ('3', 93), ('first', 89), ('hillary', 88), ('u', 85), ('negative', 84), ('last', 83), ('name', 83), ('american', 81), ('much', 80), ('likely', 80), ('average', 80), ('day', 80), ('national', 80), ('win', 78), ('5', 78), ('use', 78), ('rating', 78), ('result', 78), ('even', 77), ('2016', 77), ('way', 76), ('race', 74), ('see', 72), ('clinton', 72), ('2014', 71), ('vote', 71), ('rate', 71), ('question', 70), ('think', 69), ('2015', 69), ('movie', 67), ('know', 65), ('got', 64), ('may', 64), ('another', 64), ('classic', 64), ('6', 63), ('team', 63), ('three', 62), ('show', 62), ('look', 61), ('among', 61), ('2012', 61), ('rock', 61), ('drug', 61), ('say', 60), ('asked', 60), ('senate', 60), ('voter', 60), ('le', 59), ('money', 58), ('example', 58), ('4', 58), ('nt', 57), ('want', 57), ('every', 57), ('week', 57), ('respondent', 57), ('president', 56), ('work', 56), ('driver', 56), ('take', 55), ('since', 55), ('2013', 55)]

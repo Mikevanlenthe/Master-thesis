@@ -1,0 +1,57 @@
+Article: sandy-311-calls
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 964
+Raw number of types: 365
+Raw Type token ratio: 0.37863070539419086
+
+100 most freq tokens before (pre)processing: 
+[(',', 7315), ('the', 5938), ('.', 3935), ('of', 2950), ('a', 2477), ('to', 2429), ('in', 2280), ('and', 2165), ('’', 1954), ('that', 1372), ('(', 1367), (')', 1367), ('s', 1069), ('for', 1016), ('is', 972), (':', 946), ("'", 871), ('on', 866), ('it', 821), ('are', 717), ('“', 696), ('”', 695), ('with', 652), ('at', 619), ('trump', 607), ('as', 599), ('our', 597), ('by', 590), ('we', 587), ('more', 574), ('—', 572), ('but', 542), ('i', 536), ('team-logo', 535), ('they', 521), ('this', 497), ('percent', 462), ('or', 462), ('you', 458), ('t', 442), ('who', 441), ('have', 438), ('from', 429), ('about', 423), ('was', 422), ('than', 416), ('one', 398), ('be', 393), ('verdict', 377), ('1', 368), ('were', 365), ('polls', 359), ('an', 334), ('has', 330), ('data', 324), ('?', 319), ('not', 317), ('all', 311), ('their', 308), ('said', 297), ('like', 297), ('he', 283), ('how', 277), ('if', 271), ('there', 270), ('other', 270), ('most', 257), ('so', 251), ('can', 247), ('those', 241), ('some', 239), ('what', 232), ('people', 229), ('his', 228), ('when', 224), ('which', 223), ('pollsters', 214), ('get', 211), ('out', 209), ('up', 201), ('positive', 200), ('also', 197), ('had', 194), ('just', 192), ('polling', 191), ('each', 187), ('2', 179), ('only', 177), ('poll', 175), ('donald', 174), ('two', 172), ('%', 172), ('do', 170), (';', 169), ('points', 169), ('new', 162), ('time', 160), ('will', 159), ('github', 156), ('them', 156)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 575
+Number of types: 290
+Type token ratio: 0.5043478260869565
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'scale, first, normal, destroyed, mental, sandy, related, responsible, total, dead, public, ten, lowered, midatlantic, landfall, large, significant, hurricane, next, represent, onefifth, info, new, nov, april, structural, untold, texas, red, overall, tail, oct, restorednearly, roof, boardwalk, august, unsafe, major, feb, environmental, unfold, open')
+
+('NN', 'work, website, jul, damage, report, florida, effort, caller, life, owner, property, jun, road, health, hook, child, york, school, week, program, tell, line, inspection, evening, recovery, dollar, july, tax, death, information, example, sticker, dozen, department, finance, half, storm, vacate, loan, house, train, service, plan, head, hall, reinspection, hurricane, hover, hygiene, agency, bill, city, development, harvey, someone, story, enter, color, roof, structure, hotline, effect, purview, rebuilt, irma, roeder, month, day, arrival, business, florida2, fraud, home, water, volunteer, path, car, julia, restoration, community, start, government, november, aug, date, order, nov, building, management, beach, disaster, texas, aid, dec, fall, feb, detail, devastation, jersey, grant, return, protection, sandy, nonemergency, housing, request, mar, steep, congress, member, weekend, jan, help, wolfe, status, power, emergency, tragedy, fund, call, year, june, sep, oct, relief, today, customer')
+
+('VBD', 'came, lost, received, included, sept, hit, replaced, placed, downloaded, left, fell, restored, kid, called, made, kept, directed, red, dialed, stormrelated, affected, sandyrelated, damaged')
+
+('VBN', 'stormrelated, considered, zoomed, started, sandyrelated, reached, related, reviewed, asked, restored, placed, devastated')
+
+('VBP', 'spend, boardwalk, fluke, beach, continue, manhattan')
+
+('VBG', 'causing, finding, requesting, asking, coming, calling, beginning, lingering, leftpointing')
+
+('VBZ', 'approves, continues, arrives')
+
+('NNP', 'yorksandy')
+
+('NNS', 'lingers, yorkers, data, connects, rockaways')
+
+('VB', 'see, june, 2016, september, request, 2013')
+
+('JJR', 'arrowfewer, sewer')
+
+100 most freq tokens after processing: 
+[('trump', 624), ('teamlogo', 539), ('poll', 539), ('percent', 472), ('1', 462), ('one', 444), ('verdict', 380), ('data', 328), ('like', 322), ('pollster', 321), ('said', 305), ('year', 246), ('2', 245), ('get', 243), ('point', 239), ('people', 237), ('number', 236), ('10', 223), ('time', 212), ('election', 202), ('also', 201), ('11', 201), ('positive', 200), ('state', 197), ('polling', 192), ('13', 181), ('donald', 179), ('two', 176), ('film', 175), ('14', 174), ('%', 172), ('voter', 170), ('3', 169), ('new', 166), ('republican', 166), ('would', 163), ('12', 163), ('average', 158), ('github', 156), ('15', 154), ('result', 153), ('many', 151), ('rating', 148), ('u', 146), ('league', 145), ('make', 144), ('candidate', 142), ('much', 139), ('neutral', 136), ('first', 134), ('see', 133), ('5', 129), ('even', 128), ('president', 126), ('week', 125), ('woman', 121), ('likely', 121), ('may', 120), ('last', 117), ('since', 116), ('16', 115), ('way', 114), ('model', 114), ('4', 113), ('team', 112), ('race', 111), ('season', 111), ('percentage', 111), ('three', 109), ('question', 108), ('among', 108), ('17', 108), ('american', 107), ('day', 107), ('vote', 107), ('clinton', 106), ('game', 106), ('player', 105), ('take', 104), ('think', 103), ('win', 103), ('national', 102), ('2016', 101), ('6', 100), ('firm', 99), ('hillary', 98), ('2014', 98), ('group', 97), ('still', 97), ('error', 96), ('le', 96), ('every', 95), ('20', 95), ('19', 94), ('use', 93), ('date', 93), ('another', 92), ('name', 92), ('look', 91), ('negative', 91)]

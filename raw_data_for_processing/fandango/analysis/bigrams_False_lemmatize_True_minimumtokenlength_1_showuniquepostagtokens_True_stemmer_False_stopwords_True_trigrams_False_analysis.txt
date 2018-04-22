@@ -1,0 +1,57 @@
+Article: fandango
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2656
+Raw number of types: 735
+Raw Type token ratio: 0.2767319277108434
+
+100 most freq tokens before (pre)processing: 
+[(',', 10489), ('the', 9321), ('.', 6392), ('of', 4648), ('a', 4061), ('to', 3744), ('in', 3495), ('and', 3417), ('’', 3341), ('that', 2091), ('s', 1889), ('(', 1681), (')', 1679), ('for', 1592), ('is', 1537), ('it', 1351), ('on', 1344), (':', 1214), ('“', 1088), ('”', 1087), ('are', 1085), ('—', 1000), ('as', 987), ('with', 974), ('at', 963), ('we', 930), ('but', 908), ('by', 895), ("'", 871), ('i', 864), ('percent', 836), ('more', 820), ('this', 793), ('trump', 754), ('or', 753), ('have', 727), ('they', 722), ('was', 718), ('our', 714), ('from', 705), ('t', 690), ('you', 685), ('about', 645), ('1', 641), ('be', 638), ('than', 635), ('who', 607), ('one', 588), ('has', 581), ('data', 565), ('an', 546), ('were', 535), ('team-logo', 535), ('not', 525), ('?', 494), ('he', 481), ('all', 480), ('their', 471), ('so', 455), ('there', 447), ('his', 430), ('how', 419), ('said', 414), ('like', 409), ('if', 404), ('polls', 393), ('can', 390), ('which', 388), ('other', 388), ('what', 382), ('verdict', 377), ('some', 369), ('2', 369), ('when', 367), ('had', 361), ('people', 354), ('out', 349), ('most', 348), ('those', 332), ('also', 327), ('up', 304), ('get', 290), ('only', 284), ('just', 284), ('each', 283), ('0', 271), ('two', 262), ('its', 260), ('time', 260), ('been', 259), ('do', 252), ('world', 249), ('these', 248), ('github', 246), ('3', 244), ('new', 239), (';', 236), ('will', 236), ('would', 235), ('no', 233)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1188
+Number of types: 575
+Type token ratio: 0.484006734006734
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'american, scale, website, halfstar, great, tomatoes1, personal, true, impossible, heuristic, ftc, federal, forth, next, similar, possible, apps, indicative, last, rounded, logic, unfair, pull, suspicious, nbcuniversal, different, tongueincheek, tomato, specific, todd, reasonable, full, fandangocom, excited, sat, long, useful, u, rightward, unsurprising, public, endorsement, decimal, second, general, single, wrong, innocent, increment, servecastfirecoms5l8r1audio2600169whatsthepoint2015102216210964kmp3, couple, showtime, critical, user, nash, red, critic, consistency5, right, sway, present, decent, first, likely, professional, extreme, favorable, devoted, mean, fandango, clear, poor, charitable, start, aggregate, several, inaccurate, emailed, online, live, imdb, average, imdb3, expect, freelance, round, major, perfect, email, promote, normal, normalized, scale4, rotten, weird, high, box, hickey, mobile, fantastic, ultron, connected, maximum, avenger, immediate, enough, entire, mary, popular, whole, metacritic, vanderwerff, deceptive, good, fivethirtyeight, serious, code, hard, act, ballpark, important, subjective, equivalent, seventyeight, bad, ratingvalue, skeptical')
+
+('NN', 'scale, work, glitch, playing, website, studio, halfstar, nation, finality, way, kind, experience, app, office, film, try, halfstar10, nonmisleading, site, value, score13, minimum, point, life, star, engle, metacritic2, flag, alison, country, disparity, attention, problem, review, breakdown, fivestar, continuum, moment, score, aggregator, logic, practice, beneath, bug, desire, list, behavior, criterion, meaning, comment, relation, take, sort, something, division, theater, walt, tomato, tomatometer, voxcom, backend, ask, fandangocom, answer, offer, io, sense, thing, access, information, example, standard, strategy, quarter, version, wordofmouth, area, half, http, rating12, opinion, profile, idea, plan, company, head, reality, spot, look, couple, software, air, user, board, shorthand, rating, colleague, critic, skew, place, society, wisdom, effect, hollywood, statement, ben, explanation, ver, source, shift, investigation, product, math, movie, month, datafandango, advertising, business, engagement, reviews9, industry, reason, none, system, percent, fandango, issue, limit, aggregate, today, anticompetitive, online, question, imdb, restaurant, subsidiary, date, break, competitor, methodology, page, kenigsberg, order, %, reader, age, amateur, fivepoint, dinner, world, ticket, average, editor, curve, poster, overall, trade, figure, coordinator, analysis, money, expect, pay, yelp, sample, fall, survive, round, sound, vacation, seller, track, consumer, culture, analyst, ratingvalue, get, promote, interference, rate, sale, purport, deliberate, interest, rotten, opening, box, hickey, occasion, speculate, check, release, avenger, html, github, ultron, weekend, attempt, medium, truthful, purchase, limitation, monday, ratings6, syndrome, maintain, case, fivethirtyeight, intent, number, year, use, time, code, purpose, moviegoer, commission, subscribe, expectation, customer, hour')
+
+('VBN', 'built, paid, created, presented, related, taken, flawed, represented, compared, found, given, meulen, filed, based, listed, used, expressed, gained, ted, pulled, round, shown')
+
+('NNS', 'stars11, data, star, people, schema, nowadays, fandango, directs, adparamszones, generates, podcasts, rotten, electronics, operates')
+
+('VBD', 'got, received, accused, analyzed, displayed, looked, stockholm, occurred, added, thought, happened, found, eg, seemed, started, fandango, described, said, skewed, github, blamed, bought, starbased, noticed, score, reviewed, least, focused, handled, told, rounded, picked, mortdecai, gained, ted, decided, pulled, raised, checked, asked, round, unnoticed')
+
+('VBG', 'rounding, playing, getting, going, saying, releasing, looking, hitting, finding, opening, boiling, selling, using, inventing, missing, juicing, combining, picking, aggregaterating, including, building, aggregating, according, returning, writing, increasing')
+
+('VBP', 'seem, thenumberscom, think, tomato, fail, bruce, become, earn, require, fandango, feel, say, bell, aggregate, fix, review, somehow, fivestar, display, come, matter, go, include, see, crowd, make, know')
+
+('VB', 'hold, differ, higher, show, thousand, website, expect, fandango, sell, round, extreme, material')
+
+('JJR', 'higher, fewer')
+
+('JJS', 'highest, nearest, least')
+
+('VBZ', 'provides, halfstar, appears, protects')
+
+100 most freq tokens after processing: 
+[('percent', 846), ('trump', 771), ('1', 737), ('one', 652), ('poll', 582), ('data', 569), ('teamlogo', 539), ('2', 440), ('like', 435), ('year', 428), ('said', 422), ('verdict', 380), ('time', 367), ('people', 362), ('number', 335), ('get', 334), ('also', 331), ('pollster', 321), ('10', 307), ('team', 306), ('state', 305), ('point', 305), ('3', 304), ('rating', 273), ('0', 272), ('two', 266), ('world', 254), ('11', 253), ('github', 246), ('would', 243), ('new', 243), ('u', 241), ('average', 236), ('game', 236), ('much', 230), ('republican', 229), ('election', 227), ('13', 227), ('american', 223), ('result', 222), ('4', 218), ('film', 217), ('make', 211), ('even', 211), ('first', 209), ('many', 209), ('win', 209), ('positive', 209), ('12', 206), ('may', 205), ('5', 205), ('%', 205), ('since', 204), ('14', 201), ('15', 201), ('polling', 201), ('voter', 199), ('player', 194), ('see', 192), ('donald', 189), ('candidate', 184), ('group', 183), ('league', 181), ('likely', 177), ('way', 176), ('6', 173), ('day', 170), ('three', 168), ('–', 163), ('last', 162), ('among', 161), ('woman', 160), ('16', 160), ('president', 159), ('season', 159), ('still', 156), ('question', 155), ('2014', 155), ('take', 152), ('think', 150), ('model', 150), ('national', 146), ('country', 144), ('le', 142), ('8', 141), ('vote', 141), ('look', 139), ('2016', 138), ('neutral', 138), ('week', 138), ('respondent', 137), ('race', 136), ('least', 136), ('every', 135), ('percentage', 135), ('17', 134), ('well', 133), ('rate', 133), ('go', 132), ('good', 132)]

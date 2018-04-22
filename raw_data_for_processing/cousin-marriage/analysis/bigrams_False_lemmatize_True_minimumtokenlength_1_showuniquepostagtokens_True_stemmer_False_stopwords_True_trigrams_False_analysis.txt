@@ -1,0 +1,55 @@
+Article: cousin-marriage
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1233
+Raw number of types: 465
+Raw Type token ratio: 0.3771289537712895
+
+100 most freq tokens before (pre)processing: 
+[(',', 4155), ('the', 2627), ('.', 1522), ('of', 1246), ('a', 1094), ('(', 1061), (')', 1061), ('in', 1006), ('to', 981), ('and', 882), ("'", 870), ('’', 726), (':', 617), ('that', 578), ('our', 443), ('s', 442), ('is', 429), ('for', 407), ('on', 399), ('it', 393), ('verdict', 377), ('trump', 368), ('i', 308), ('with', 298), ('1', 289), ('at', 277), ('are', 277), ('percent', 254), ('more', 251), ('by', 250), ('—', 248), ('as', 232), ('but', 230), ('we', 227), ('this', 225), ('“', 220), ('”', 220), ('you', 209), ('have', 199), ('than', 194), ('positive', 189), ('from', 187), ('like', 183), ('about', 176), ('or', 172), ('was', 166), ('data', 160), ('donald', 159), ('an', 153), ('be', 151), ('they', 146), ('has', 146), ('t', 142), ('one', 135), ('neutral', 133), ('all', 129), ('who', 119), ('their', 113), ('not', 112), ('most', 111), ('out', 111), ('/', 110), ('other', 110), ('were', 109), ('so', 107), ('there', 107), ('?', 105), ('people', 104), ('if', 103), ('get', 101), ('can', 100), ('when', 100), ('what', 100), ('his', 99), ('which', 98), ('up', 98), ('those', 97), ('some', 96), ('he', 92), ('how', 89), ('2', 89), ('me', 85), ('only', 84), ('my', 84), ('negative', 83), ('state', 82), ('hillary', 81), (';', 80), ('do', 77), ('model', 77), ('films', 77), ("'m", 76), ('its', 76), ('also', 75), ('just', 75), ('10', 75), ('3', 74), ('each', 71), ('github', 70), ('said', 67)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 568
+Number of types: 353
+Type token ratio: 0.6214788732394366
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'american, interested, give, aspect, socioeconomic, filmmagic, duval, consanguineous, genetic, first, great, related, iceland, personal, shawkat, relevant, mona, individual, u, reluctant, hidden, western, unaware, high, small, national, second, mean, percent, unable, biological, niece, indian, many, centre, download, stable, common, coefficient, getty, maternal, unrelated, uncomfortable, little, romantic, map, various, much, relative, human, rare, social, plenty, inlaws, konsanggwineeuh, ii, greatgrandparent, genealogical, dear, statutory, recessive, hard, financial, global, america, answered, major, secret, cowan, united')
+
+('VBD', 'married, spoiler, related, le, occurred, found, estimated, closer, studied, filed, allowed, favored, pronounced, told, prohibited, developed, spent, fred, concluded, united, treated, began, became, introduced')
+
+('NN', 'benchmark, london, app, dearmona, shawkat, brief, mona, individual, party, chalabi, ancestry, relationship, marriage, los, percentage, fivethirtyeightcom, country, antimiscegenation, consensus, health, law, share, monachalabi, estimate, canada, counselor, child, practice, hand, anyone, cera, stay, deal, hope, script, stranger, birth, thing, example, u, blood, union, idea, ass, trip, stigma, daryn, alan, notion, parent, reminder, university, map, couple, relative, basis, user, development, someone, society, perspective, restriction, institute, mortality, product, consanguinity, factor, war, education, prevalence, cousin, burkina, disease, risk, sociological, reason, percent, state, coefficient, paper, result, question, michael, aug, anything, age, caution, world, winter, intermarriage, part, database, figure, woman, uk, population, type, alia, get, research, chance, rate, study, interest, send, attend, reproduce, concern, cocktail, check, nsgc, convention, science, firstcousin, queen, help, mentalcapacity, force, acceptance, immigration, status, ban, image, fact, matter, case, number, year, topic, time, incest, security, need, today, task')
+
+('VBN', 'changed, confused, emailed, attempted, considered, summarized, set, published, estimated, conducted, controlled, stigmatized, related, born, asked, arrested, based, known, associated')
+
+('VBP', 'think, edith, risk, marriage, say, view, nephew, kevin, note, look, maintain, pose, arizona, child, include, dear, postcivil, america, take, need, make, know')
+
+('VBG', 'hooking, finding, browsing, asking, reading, researching, offspring, shifting, naming, inbreeding, spacing, struggling, undercounting, legislating, including')
+
+('NNS', 'angeles, bittles, australia, people, notice, genetics, daryn')
+
+('VBZ', 'includes, bittles, appears, cousin, elizabeth')
+
+('JJR', 'older, higher')
+
+('VB', 'rise, keep, like, make, mona, correlate, affect')
+
+100 most freq tokens after processing: 
+[('trump', 384), ('verdict', 379), ('1', 309), ('percent', 264), ('like', 206), ('positive', 189), ('data', 164), ('donald', 164), ('one', 160), ('film', 136), ('neutral', 133), ('state', 125), ('get', 122), ('people', 112), ('year', 106), ('number', 100), ('poll', 97), ('2', 96), ('10', 93), ('model', 87), ('hillary', 83), ('3', 83), ('negative', 83), ('time', 79), ('also', 79), ('woman', 78), ('point', 76), ('said', 75), ('candidate', 73), ('make', 70), ('github', 70), ('new', 69), ('two', 68), ('movie', 67), ('5', 66), ('national', 65), ('would', 64), ('day', 64), ('republican', 62), ('2015', 62), ('first', 61), ('rock', 61), ('clinton', 59), ('2014', 58), ('nt', 57), ('much', 57), ('u', 56), ('driver', 56), ('way', 55), ('6', 55), ('classic', 55), ('american', 54), ('average', 54), ('last', 53), ('win', 53), ('police', 53), ('2016', 53), ('got', 52), ('2013', 52), ('bill', 52), ('president', 50), ('even', 50), ('likely', 50), ('show', 50), ('city', 49), ('election', 49), ('see', 48), ('look', 48), ('2012', 48), ('4', 48), ('marriage', 45), ('think', 44), ('test', 44), ('may', 44), ('among', 44), ('know', 43), ('every', 43), ('many', 43), ('9', 43), ('case', 43), ('go', 42), ('obama', 42), ('since', 42), ('come', 41), ('song', 41), ('race', 41), ('set', 40), ('tower', 40), ('week', 40), ('rating', 40), ('democrat', 40), ('three', 39), ('20', 39), ('change', 39), ('rate', 39), ('example', 38), ('8', 38), ('15', 38), ('still', 38), ('money', 37)]

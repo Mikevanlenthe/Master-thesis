@@ -1,0 +1,3 @@
+Article: study-drugs
+
+Number of graphs: 2

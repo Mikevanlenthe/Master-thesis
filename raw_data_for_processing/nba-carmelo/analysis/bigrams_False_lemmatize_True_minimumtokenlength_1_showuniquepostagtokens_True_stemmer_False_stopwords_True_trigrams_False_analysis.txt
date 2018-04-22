@@ -1,0 +1,59 @@
+Article: nba-carmelo
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 799
+Raw number of types: 366
+Raw Type token ratio: 0.45807259073842305
+
+100 most freq tokens before (pre)processing: 
+[(',', 6461), ('the', 4985), ('.', 3258), ('of', 2442), ('a', 2073), ('to', 2071), ('in', 1937), ('and', 1790), ('’', 1628), ('(', 1279), (')', 1279), ('that', 1171), ('for', 886), ('s', 877), ("'", 871), (':', 827), ('is', 806), ('it', 717), ('on', 694), ('are', 589), ('“', 584), ('”', 583), ('our', 573), ('with', 550), ('team-logo', 535), ('we', 514), ('at', 514), ('by', 510), ('as', 506), ('more', 494), ('i', 481), ('—', 466), ('but', 436), ('trump', 436), ('this', 427), ('they', 410), ('you', 404), ('t', 378), ('verdict', 377), ('or', 373), ('have', 371), ('from', 367), ('was', 359), ('polls', 357), ('1', 355), ('than', 354), ('percent', 352), ('about', 350), ('be', 337), ('one', 334), ('who', 334), ('an', 292), ('has', 278), ('like', 276), ('data', 273), ('were', 269), ('their', 267), ('said', 262), ('all', 253), ('not', 252), ('he', 248), ('if', 242), ('there', 227), ('most', 225), ('how', 224), ('other', 220), ('can', 216), ('pollsters', 214), ('?', 213), ('so', 211), ('some', 204), ('when', 200), ('his', 196), ('positive', 196), ('what', 194), ('polling', 191), ('those', 187), ('which', 185), ('people', 183), ('out', 176), ('get', 175), ('up', 175), ('also', 170), ('donald', 170), ('2', 170), ('poll', 170), ('each', 167), ('had', 165), ('points', 158), ('%', 157), ('just', 155), ('only', 150), ('two', 150), ('do', 146), ('will', 141), ('election', 140), ('league', 140), (';', 139), ('new', 138), ('number', 138)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 430
+Number of types: 279
+Type token ratio: 0.6488372093023256
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'weak, peak, aboveaverage, first, consecutive, nbas, great, slump, active, title, total, upset, long, le, western, lackluster, celtic, warrior, respect, los, league, golden, common, current, semifinal, smooth, several, modern, next, final, double, similar, walt, little, elo, relative, complete, nba, good, select, new, regular, nov, average, fourth, san, win, simple, championship, old, aba, former, rapid, lead')
+
+('NN', 'work, wilt, title, franchise, bull, point, streak, los, awhile, closest, history, glory, moment, score, nba, greatness, margin, zoom, york, win, championship, play, jerry, zerosum, era, sport, rocket, thing, chamberlain, dont, close, digit, chicago, retirement, league, hung, begin, span, elo, end, rating, elgin, measure, achievement, boston, lot, baylor, playoff, record, net, hit, spur, west, veteran, state, dominance, opponent, season, result, method, credit, average, decade, part, game, aba, feb, peak, get, competition, rate, team, basketball, victory, antonio, perception, jan, prediction, sixth, regularseason, doesnt, conference, surprise, linsanity, gamebygame, formula, care, johnson, year, dave, time, expansion, strength')
+
+('VBN', 'taken, lost, gone, based')
+
+('VBD', 'went, put, peaked, lived, hit, supposed, daylight, maintained, calculated, led, surpassed, expanded, input, buck, played, unparalleled, watered, stomped, explore, picked, gained, anchored, meant, reeled, strengthened')
+
+('VB', 'fallen, gain, get, improve, bulls5')
+
+('VBG', 'losing, raising, depending, middling, going, ring, aging, clinching, approaching, winning')
+
+('JJR', 'frazier, lower, higher, larger')
+
+('VBZ', 'angeles, houston, knicks')
+
+('NNS', 'angeles, seattle, lakers, knicks, bestknicks, willis, nba, supersonics, baylors')
+
+('VBP', 'clipper, franchise, larry, take, reed, go')
+
+('JJS', 'highest, least, best')
+
+('NNP', 'knock')
+
+100 most freq tokens after processing: 
+[('teamlogo', 539), ('poll', 532), ('trump', 453), ('1', 449), ('verdict', 380), ('one', 374), ('percent', 362), ('pollster', 321), ('like', 300), ('data', 277), ('said', 270), ('2', 235), ('year', 217), ('point', 217), ('number', 215), ('10', 208), ('get', 206), ('positive', 196), ('election', 195), ('11', 192), ('polling', 192), ('people', 191), ('state', 190), ('donald', 175), ('also', 174), ('time', 169), ('3', 157), ('13', 157), ('%', 157), ('two', 154), ('14', 151), ('republican', 147), ('average', 143), ('league', 143), ('new', 142), ('12', 142), ('rating', 140), ('would', 139), ('result', 137), ('film', 136), ('candidate', 136), ('neutral', 133), ('15', 130), ('github', 124), ('much', 123), ('many', 123), ('see', 120), ('make', 120), ('5', 115), ('u', 113), ('first', 111), ('model', 111), ('team', 108), ('race', 107), ('last', 105), ('4', 105), ('way', 104), ('even', 103), ('player', 103), ('day', 102), ('since', 101), ('percentage', 101), ('game', 100), ('clinton', 99), ('american', 99), ('national', 99), ('firm', 99), ('likely', 98), ('woman', 96), ('hillary', 96), ('error', 96), ('16', 96), ('may', 95), ('17', 95), ('take', 93), ('win', 93), ('2016', 93), ('three', 92), ('use', 92), ('2014', 91), ('6', 91), ('another', 89), ('name', 89), ('think', 88), ('negative', 88), ('question', 86), ('19', 85), ('every', 83), ('look', 82), ('voter', 82), ('2015', 80), ('2012', 80), ('rate', 80), ('say', 79), ('20', 79), ('still', 79), ('got', 78), ('president', 77), ('season', 77), ('09', 77)]

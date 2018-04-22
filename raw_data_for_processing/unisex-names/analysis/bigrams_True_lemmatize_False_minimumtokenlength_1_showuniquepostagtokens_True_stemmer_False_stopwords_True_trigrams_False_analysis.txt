@@ -1,0 +1,59 @@
+Article: unisex-names
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 632
+Raw number of types: 271
+Raw Type token ratio: 0.4287974683544304
+
+100 most freq tokens before (pre)processing: 
+[(',', 1525), ('the', 1324), ('.', 731), ('of', 603), ('in', 587), ('a', 567), ('to', 460), (':', 448), ('our', 420), ('and', 413), ('verdict', 377), ('’', 346), ('trump', 334), ('that', 302), ('i', 249), ('1', 235), ('is', 233), ('for', 221), ('it', 215), ('on', 212), ('s', 212), ('positive', 188), ('with', 175), ('donald', 155), ('this', 147), ('(', 145), (')', 145), ('like', 145), ('by', 140), ('more', 139), ('we', 137), ('at', 133), ('neutral', 133), ('percent', 127), ('but', 126), ('as', 125), ('are', 118), ('—', 118), ('you', 110), ('from', 101), ('was', 100), ('/', 99), ('about', 97), ('have', 91), ('than', 90), ('be', 89), ('or', 85), ('negative', 82), ('has', 81), ('hillary', 79), ('one', 78), ('data', 76), ('his', 76), ('an', 74), ('my', 74), ('state', 74), ('not', 73), ("'m", 72), ('t', 69), ('model', 68), ('me', 66), ('“', 66), ('”', 66), ('polls', 65), ('they', 63), ('he', 62), ('up', 61), ('were', 60), ('so', 58), ('how', 56), ('can', 56), ('other', 56), ('all', 56), ('?', 56), (';', 54), ('there', 52), ("'s", 52), ('when', 52), ('get', 51), ('which', 51), ('their', 51), ('some', 51), ('if', 50), ('out', 50), ('clinton', 50), ('just', 48), ('2015', 47), ('2', 47), ('what', 46), ("n't", 46), ("'", 46), ('who', 45), ('people', 45), ('2013', 44), ('points', 44), ('2014', 42), ('only', 41), ('do', 41), ('those', 41), ('most', 40)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 833
+Number of types: 683
+Type token ratio: 0.8199279711884754
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'nate, mvp stephen, most unisex, number of, hard to, of them, of zero, determine whether, may be, common unisex, silver, a recent, cooper, we thought, pat are, github github, value of, baby and, prevalent, chart below, colleague mona, number, is neither, man s, and child, infantof, riley curry, total number, cooper and, infant, infant infantof, recent video, each name, america is, onethird of, five people, riley, this analysis, code behind, riley cooper, column, stephen, work, have a, maximum of, minimum value, like baby, the lower, security administration, code, ratio is, jackie peyton, curry the, this was, postgame press, the number, chart, analysis as, list, clarification, ratio, explore, top 20, more than, child we, and the, in america, mona, method, jody kerry, cut at, alive in, make the, removed them, and female, the full, pm an, name, table of, between the, peyton jody, difference, you re, to make, the maletofemale, gap column, make sure, have one, of unisex, woman s, to create, chalabi i, whether it, bell, to determine, data set, riley is, them in, and nate, edit, able to, the chart, my colleague, nba, s name, thing, riley and, a woman, pm, set at, these unknown, casey riley, social security, to at, example, but i, of riley, percent, split if, colleague, value, both it, as a, riley jessie, three more, table below, too and, the philadelphia, this article, determine, least onethird, administration to, ambiguous and, golden state, the data, we ve, ssa has, zero and, data on, for the, i set, method my, mccann and, nate silver, and at, analysis, to 49, conference, s hard, the ssa, a man, male and, is but, maletofemale ratio, the male, most common, five of, it s, mvp, gap, article, and pat, you saw, explore the, full data, casey, andrew, unisex, set my, s the, below the, split, and riley, can explore, people with, and so, earlier version, has data, more infant, peyton, ssa, man, mona chalabi, conference or, a method, version, the name, baby, if riley, daughter of, it was, percent of, philadelphia, wide receiver, the most, with my, the difference, jody, jun, data, jessie, at 916, done with, story, jun 10, curry, june, can be, a postgame, work done, with each, for a, at least, the code, an explanation, on github, female it, infantof and, explanation, difference in, riley for, ssa i, that name, cooper the, percent split, them by, chalabi, name this, stephen curry, similar to, video, unknown and, state, of nba, threshold at, am the, be because, a unisex, be hard, off work, child, getty casey, percent to, people but, lower the, with a, filed under, maletofemale, to a, data too, the wide, security, in the, a result, by the, github clarification, americans are, a name, receiver, s it, because you, nba mvp, clarification june, woman, daughter, administration, take riley, thing riley, unisex name, github data, jackie, is pretty, curry riley, one of, data at, press conference, the top, the more, of the, of people, the gap, placeholder, jessie and, previous story, video of')
+
+('JJ', 'number of, table, it may, adorable, taken those, is between, in this, nearly 1, similar, and as, living with, given to, common, infant, list of, androgynous, riley, neither a, enough to, able, previous, name to, story for, pretty much, hard, perhaps you, actuarial, was similar, onethird, ranked by, minimum threshold, in america, social, shares the, name, name was, sure, allison mccann, least five, were male, to make, a number, golden, you can, were female, name nor, was prevalent, get the, the 20, my minimum, nor a, currently alive, names unknown, the searchable, used in, name which, getty, at a, wide, of riley, names are, percent, searchable table, unnamed infant, ambiguous, about 3333, the social, much, threshold, behind this, actually unisex, least onethird, of these, used over, excluded three, were able, name is, top, recent, identify five, names the, a previous, number the, more ambiguous, named riley, maximum, living, and maximum, left them, most common, mccann, searchable, press, unisex, male, from the, shows the, added, because these, the golden, thinking of, approximate the, it can, adjusted the, using actuarial, dataunisexnames riley, at github, at least, in you, female, total, added an, most androgynous, that s, notnamed we, pat, unnamed, github, keough getty, unnamed but, minimum, unknown, saw a, with a, in the, enough, balanced with, not edit, balanced the, excluded, nearly 3, a minimum, the adorable, are these, the total, unisex name, for example, full, as the, likely, of the, in 109')
+
+('NNS', 'million people, data, these men, riley rings, of names, colleagues, newborns, data others, or women, state warriors, it turns, edit its, the data, of newborns, create this, years, americans, rings, living americans, tables, github, people to, unisex names, under names, my colleagues, had to, result records, shares, dataunisexnames, of americans, the names, flowers, ssa does, sexes, much unisex, placeholder names, names, these names, years of, people, others, america, andrew flowers, warriors, actuarial tables, records, but should, men, the sexes, women')
+
+('VBP', 'its list, this list, say, name, curry of, data to, names and, alive, to say, make, allison, women it, warriors at, as well, should have, approximate, github, riley curry, tables also, ve now, names in, sexes with, rings a, men or, riley, what the, unisex take, names get, what are, lists the, america, colleagues allison, to have, records a, ssa, set, americans or, identify, postgame, receiver for, create, kerry and, people have, result')
+
+('VBD', 'least 25000, ranked, and unnamed, left, cut, that at, and added, notnamed, unnamed, than 900, i used, balanced, article excluded, america had, thought, so left, evenly balanced, flowers filed, excluded, and notnamed, by andrew, silver used, june 10, filed, pretty balanced, i adjusted, names ranked, unknown unnamed, set, at 100, a 51')
+
+('VB', 'to identify, to approximate, take, does not, kerry, saw, get')
+
+('VBN', 'used, removed, taken, have it, are most, given, and removed, have excluded, adjusted, done, now taken, named, are named')
+
+('VBG', 'name building, 155000 living, currently living, building, thinking, unisex using, living, using, the thing, re thinking')
+
+('VBZ', 'lists, is yours, means, at dataunisexnames, that name, column shows, female shares, turns, philadelphia eagles, below lists, that a, androgynous names, shows, eagles, which means')
+
+('JJS', 'least')
+
+('JJR', 'earlier, lower, an earlier')
+
+('NNP', 'the number')
+
+100 most freq tokens after processing: 
+[('verdict', 377), ('our verdict', 377), ('trump', 334), ('1', 236), ('positive', 188), ('verdict positive', 178), ('donald', 156), ('in the', 151), ('like', 145), ('donald trump', 145), ('of the', 134), ('neutral', 133), ('verdict neutral', 128), ('percent', 127), ('negative', 82), ('one', 81), ('hillary', 79), ('data', 76), ('i m', 75), ('state', 74), ('verdict negative', 71), ('model', 68), ('polls', 65), ('to the', 63), ('percent of', 60), ('it s', 56), ('on the', 53), ('the trump', 52), ('get', 51), ('clinton', 50), ('2015', 49), ('2', 48), ('nt', 46), ('people', 45), ('2014', 44), ('2013', 44), ('points', 44), ('2012', 43), ('at the', 43), ('2013 our', 42), ('2016', 41), ('2015 our', 41), ('also', 40), ('number', 40), ('police', 39), ('would', 39), ('average', 39), ('and the', 37), ('bill', 37), ('got', 37), ('year', 36), ('1 i', 36), ('election', 35), ('much', 34), ('time', 34), ('github', 33), ('fuck', 33), ('2008', 33), ('obama', 33), ('3', 33), ('drivers', 33), ('weather', 33), ('for the', 32), ('senate', 32), ('new', 31), ('10', 31), ('candidate', 31), ('2016 our', 31), ('money', 30), ('day', 30), ('number of', 30), ('2012 our', 30), ('win', 29), ('polling', 29), ('gorsuch', 29), ('make', 28), ('likely', 28), ('the data', 28), ('even', 28), ('republican', 28), ('5', 28), ('two', 28), ('fivethirtyeight', 28), ('to be', 28), ('2010', 27), ('candidates', 27), ('in a', 27), ('like donald', 27), ('2014 our', 27), ('way', 26), ('2008 our', 26), ('cases', 26), ('percentage', 26), ('puerto', 26), ('show', 25), ('based', 25), ('tower', 25), ('big', 25), ('president', 25), ('2011', 25)]

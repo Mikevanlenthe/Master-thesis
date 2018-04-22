@@ -1,0 +1,55 @@
+Article: soccer-spi/club-soccer-predictions
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 978
+Raw number of types: 327
+Raw Type token ratio: 0.3343558282208589
+
+100 most freq tokens before (pre)processing: 
+[(',', 5866), ('the', 4314), ('.', 2787), ('of', 2135), ('to', 1770), ('a', 1768), ('in', 1696), ('and', 1536), ('’', 1405), ('(', 1212), (')', 1212), ('that', 1015), ("'", 871), (':', 771), ('for', 746), ('s', 742), ('is', 734), ('it', 637), ('on', 590), ('our', 564), ('are', 537), ('with', 484), ('we', 473), ('“', 472), ('”', 472), ('by', 454), ('more', 451), ('as', 443), ('at', 436), ('i', 421), ('trump', 414), ('—', 392), ('but', 386), ('verdict', 377), ('this', 375), ('they', 369), ('you', 367), ('polls', 357), ('have', 336), ('percent', 334), ('t', 332), ('or', 328), ('1', 327), ('than', 321), ('be', 314), ('about', 312), ('from', 309), ('who', 293), ('was', 290), ('one', 285), ('an', 252), ('like', 250), ('data', 246), ('said', 233), ('all', 232), ('were', 229), ('has', 229), ('not', 228), ('their', 225), ('if', 220), ('pollsters', 214), ('most', 203), ('there', 203), ('positive', 195), ('polling', 191), ('how', 190), ('can', 187), ('other', 187), ('some', 184), ('?', 181), ('so', 181), ('those', 171), ('poll', 170), ('people', 169), ('what', 168), ('donald', 166), ('when', 166), ('which', 161), ('out', 160), ('get', 158), ('%', 157), ('up', 154), ('he', 151), ('also', 150), ('had', 142), ('points', 141), ('each', 138), ('just', 136), ('will', 136), ('only', 135), ('election', 133), ('neutral', 133), ('do', 131), ('his', 131), ('/', 127), ('two', 125), ('2', 125), ('number', 124), (';', 122), ('would', 120)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 864
+Number of types: 303
+Type token ratio: 0.3506944444444444
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'usa, united65, updated, europa, la, gijón49, bayern, allsvenskan, napoli70, madrid, nwsl, ✓, ligue, nürnberg45, bundesliga, arsenal, serie, north, eredivisie, pt, \ufeffclub, real, eliteserien, super, teamlogo, quality, primeira, superliga, nîmes55, see, leaguelogo, global, uanl21, liga, ml, rapid, young, psv68')
+
+('NN', 'spain, soccer, juventus71, allsvenskan, forecast, nwsl, empoli54, read, france, carolina0, portland0, santos, roma56, primeira, superliga, aik0, boys58, championship, liga, ml, psg77, fc0, gallen39, sarpsborg3, fortuna50, man, clausura, champion, la, independiente35, reims66, jay, seattle0, cska, club, schalke, league, munich66, dortmund45, süper, sporting62, city73, mexico, teamlogo, orlando0, aston, city, başakşehir50, rating, leaguelogo, boca, importance, madrid57, porto67, basel41, cardiff, reuben, scotland, marseille59, bayern, barcelona72, premier, mx, julia, monaco63, ligue, aberdeen53, molde3, bundesliga, frosinone53, season, vallecano54, palermo50, eliteserien, talleres38, methodology, boice, %, wolverhampton76, rayo, madrid64, galatasaray53, atlético, see, rosenborg0, lorient50, liverpool60, match, russia, juniors46, celtic67, sturm, st, graz51, toronto, malmö0, portugal, lig, rangers58, england, fischerbaum, américa21, atlanta3, az, italy, austria, huesca57, turkey, rb, vienna40, prediction, serie, argentina, index, pt, beşiktaş50, premiership, wolfe, power, spartak, villa69, ajax61, switzerland, b, moscow41, holstein, germany, sweden, alkmaar56, benfica65')
+
+('VBD', 'munich, eredivisie, pt, barcelona, super, leaguelogo, lokomotiv49, kiel41, tier, liga, ligue, spi, salzburg59, atlético, marseille, serie')
+
+('VBG', 'ranking, standing, sporting')
+
+('JJR', 'süper, premier')
+
+('VBZ', 'pt, city81, tigres, liga, laguna23')
+
+('VBP', 'see, europa, teamlogo')
+
+('NNS', 'netherlands, bundesliga')
+
+('NNP', 'östersund0')
+
+('VBN', 'rated')
+
+100 most freq tokens after processing: 
+[('poll', 532), ('trump', 431), ('verdict', 379), ('1', 351), ('percent', 344), ('one', 322), ('pollster', 321), ('like', 273), ('data', 250), ('said', 241), ('number', 197), ('positive', 195), ('polling', 192), ('election', 187), ('get', 186), ('point', 186), ('state', 185), ('people', 177), ('year', 172), ('donald', 171), ('%', 157), ('also', 154), ('republican', 146), ('2', 137), ('film', 136), ('time', 135), ('candidate', 133), ('neutral', 133), ('two', 129), ('10', 129), ('would', 128), ('average', 125), ('rating', 120), ('result', 118), ('new', 117), ('make', 114), ('model', 111), ('github', 110), ('many', 109), ('race', 107), ('see', 106), ('3', 105), ('much', 102), ('firm', 99), ('u', 96), ('first', 96), ('likely', 96), ('error', 96), ('percentage', 96), ('last', 95), ('even', 94), ('american', 94), ('woman', 93), ('hillary', 93), ('clinton', 91), ('national', 91), ('2016', 90), ('day', 88), ('negative', 88), ('use', 87), ('way', 86), ('name', 86), ('win', 85), ('5', 84), ('may', 83), ('2014', 83), ('voter', 82), ('think', 81), ('three', 80), ('teamlogo', 79), ('since', 79), ('look', 77), ('vote', 75), ('question', 74), ('another', 74), ('2012', 74), ('rate', 72), ('senate', 72), ('bill', 71), ('2015', 71), ('president', 70), ('week', 70), ('take', 69), ('pt', 69), ('know', 68), ('say', 68), ('got', 68), ('example', 68), ('among', 68), ('6', 68), ('still', 67), ('movie', 67), ('want', 66), ('show', 66), ('case', 66), ('whether', 65), ('4', 65), ('le', 65), ('well', 64), ('every', 64)]

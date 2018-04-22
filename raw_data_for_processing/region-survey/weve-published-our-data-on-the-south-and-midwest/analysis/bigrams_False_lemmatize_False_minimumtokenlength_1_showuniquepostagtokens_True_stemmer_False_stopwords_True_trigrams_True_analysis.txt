@@ -1,0 +1,57 @@
+Article: region-survey/weve-published-our-data-on-the-south-and-midwest
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 327
+Raw number of types: 174
+Raw Type token ratio: 0.5321100917431193
+
+100 most freq tokens before (pre)processing: 
+[(',', 7933), ('the', 7399), ('.', 5074), ('of', 3757), ('a', 3161), ('to', 3036), ('and', 2736), ('in', 2725), ('’', 2549), ('that', 1721), ('s', 1394), ('for', 1262), ('is', 1235), ('(', 1129), (')', 1129), ('on', 1079), (':', 1073), ('it', 1054), ('are', 915), ('“', 863), ('”', 862), ('with', 801), ('we', 791), ('at', 790), ('—', 789), ('as', 771), ('by', 741), ('i', 713), ('percent', 709), ('but', 701), ('more', 689), ('our', 680), ('this', 638), ('trump', 636), ('they', 612), ('or', 604), ('you', 586), ('have', 567), ('from', 565), ('t', 555), ('team-logo', 535), ('about', 534), ('who', 514), ('was', 512), ('than', 507), ('be', 488), ('one', 481), ('data', 468), ("'", 459), ('were', 449), ('an', 429), ('?', 419), ('has', 410), ('not', 390), ('their', 387), ('1', 386), ('verdict', 377), ('all', 372), ('polls', 363), ('said', 360), ('there', 356), ('like', 356), ('how', 348), ('he', 336), ('so', 329), ('if', 328), ('can', 325), ('what', 325), ('other', 320), ('people', 311), ('some', 305), ('which', 299), ('most', 296), ('his', 290), ('out', 282), ('those', 282), ('when', 279), ('had', 266), ('also', 264), ('get', 257), ('up', 246), ('each', 244), ('just', 224), ('only', 222), ('do', 220), ('two', 218), ('pollsters', 214), ('positive', 206), ('its', 204), ('github', 202), ('new', 202), ('them', 201), ('these', 198), ('will', 194), ('time', 191), ('polling', 191), (';', 190), ('2', 188), ('points', 185), ('been', 184)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = True
+
+Token analysis after pre-processing 
+Number of tokens: 424
+Number of types: 394
+Type token ratio: 0.9292452830188679
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'i didn t, point, gender, respondent, pm we ve, also a column, what we re, use, analysis, at 515 pm, zip, the data we, didn t use, two surveymonkey audience, as respondent zip, tuesday and wednesday, interest, want to do, information i didn, endeavor was to, respondent zip code, we might post, github, page, especially interested in, filed under remix, posts i wrote, to me the, the southern and, s a file, might post interesting, code, gender and region, how split are, identity, to walterhickey fivethirtyeightcom, pm, hickey, income gender and, bechdel, data available on, missouri and virginia, research, to people who, who want to, to agree on, by walt hickey, on the core, on the south, their own identity, excited to see, test, the midwest we, some language analysis, re making the, there s a, lot, that may be, region, ross, kickoff, language analysis we, a lot of, wednesday using the, as missouri and, and the bechdel, and midwest by, bob ross and, in csv format, ross and the, to learn more, please, see, endeavor, make up the, information, to the south, code income gender, the midwestern inability, they live in, available on github, agree on the, our github page, making the data, wrote tuesday and, github page you, zip code data, states and how, audience, south and the, the bechdel test, a kickoff point, our endeavor was, walt, the whole point, the south and, may be of, s some information, zip code income, the zip code, midwestern inability to, such as respondent, and how split, send any data, midwest by walt, midwest we re, inability, you can make, was a lot, with the data, walterhickey fivethirtyeightcom the, our research as, do some language, language, income, own identity please, me the data, core, csv format so, such as missouri, please send any, was to learn, interest to people, insight will be, do with the, s also a, use our research, of our endeavor, some information i, remix')
+
+('VBN', 'm especially interested, published, filed, we re excited')
+
+('NNS', 'approaches, surveymonkey audience polls, responses, tails, articles, for interesting approaches, polls, results, the core states, in the posts, interested in approaches, things, or new findings, in fantastic remixes, split are residents, posted from articles, heads, their own words, definitions, words, people, regions, states, residents, any data remixes, data, and midwest surveys, folks, find the responses, send any questions, questions, do local definitions, heads or tails, published our data, kickoff point you, surveys, about which states, see what folks, we asked respondents, of difficulttocategorize states, particularly nebulous regions, can make heads, findings, using the results, post interesting things, definitions of regions, respondents, posts, remixes')
+
+('JJS', 'be of interest, lot of interest, and the midwest, south and midwest, midwest')
+
+('VBD', 'asked, split, walt hickey filed, data we posted, bechdel test resulted, analysis we asked, appreciated, resulted, posted, research as a, wrote, we ve published, regions so insight, will be appreciated')
+
+('JJ', 'of interest to, live, excited, states make up, tuesday, use the zip, also send any, asked respondents to, responses to the, these particularly nebulous, new, polls about which, so insight will, data on the, surveys in csv, available, say where they, interested, re excited to, fantastic, south, apr 30 2014, there s some, of what they, inability to agree, where are the, difficulttocategorize states such, on their own, there was a, zip, i wrote tuesday, mean there s, fivethirtyeightcom the whole, more about these, on our github, in their own, explain the midwestern, midwestern, whole, so you can, use such as, that use our, southern, up the south, questions or new, resulted in fantastic, that use the, you can also, wednesday, articles on bob, nebulous, github, regions explain the, format so you, we posted from, virginia, where they live, ll find the, test resulted in, and we might, results of two, to do some, findings to walterhickey, interest in the, github on our, local, there s also, are the southern, the data available, format, of two surveymonkey, folks do with, southern and midwestern, midwestern expatriates do, interesting, expatriates do local, states such as, t use such, surveymonkey, fivethirtyeightcom, could make for')
+
+('VBG', 'using, and wednesday using, a file explaining, make for interesting, we re making, making, explaining')
+
+('VBP', 'column, can also send, find, approaches there s, the results of, of regions explain, point you can, page you ll, make, make heads or, local definitions of, the responses to, things that use, what folks do, identity please send, any questions or, explain, use, what they mean, mean, send, say, the posts i, core states and, data remixes to, fantastic remixes and, missouri, learn, walterhickey, people who want, agree, data, approaches that use, explaining what is, midwest surveys in, our data on, is what we, respondents to say, from articles on, which states make, are residents of, or tails of, and virginia on, csv, want, point of our')
+
+('VB', 'remixes and we, bob, send, words i m, post, that could make, make, remixes to me, difficulttocategorize, residents of difficulttocategorize')
+
+('VBZ', 'data there s, expatriates, data where are, remix there was, region that could, column that may, and midwestern expatriates')
+
+('JJR', 'hickey filed under')
+
+100 most freq tokens after processing: 
+[('percent', 715), ('trump', 641), ('teamlogo', 537), ('one', 488), ('1', 473), ('data', 470), ('verdict', 377), ('polls', 366), ('said', 364), ('like', 360), ('people', 315), ('also', 266), ('get', 261), ('2', 252), ('10', 246), ('two', 220), ('11', 215), ('pollsters', 214), ('positive', 206), ('new', 204), ('github', 202), ('13', 198), ('time', 193), ('polling', 192), ('would', 187), ('us', 185), ('points', 185), ('donald', 183), ('14', 183), ('%', 181), ('many', 180), ('poll', 179), ('number', 178), ('3', 178), ('our verdict positive', 178), ('12', 175), ('see', 171), ('much', 171), ('15', 168), ('average', 164), ('first', 160), ('even', 160), ('likely', 159), ('year', 159), ('election', 157), ('may', 153), ('since', 149), ('league', 148), ('voters', 144), ('5', 140), ('years', 139), ('neutral', 138), ('among', 137), ('results', 135), ('state', 134), ('2014', 133), ('16', 133), ('states', 131), ('world', 129), ('women', 128), ('our verdict neutral', 128), ('three', 127), ('make', 126), ('last', 125), ('still', 122), ('17', 121), ('think', 120), ('percentage', 120), ('4', 118), ('president', 116), ('least', 114), ('less', 114), ('respondents', 113), ('season', 113), ('national', 112), ('2016', 110), ('every', 109), ('model', 109), ('well', 108), ('way', 108), ('clinton', 108), ('another', 108), ('6', 108), ('20', 107), ('use', 107), ('pollster', 107), ('numbers', 106), ('take', 104), ('win', 104), ('19', 104), ('vote', 103), ('films', 101), ('whether', 100), ('know', 97), ('republican', 97), ('hillary', 97), ('2015', 97), ('good', 97), ('filed', 96), ('asked', 96)]

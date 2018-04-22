@@ -1,0 +1,55 @@
+Article: puerto-rico-media/the-media-really-started-paying-attention-to-puerto-rico-when-trump-did
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 530
+Raw number of types: 237
+Raw Type token ratio: 0.44716981132075473
+
+100 most freq tokens before (pre)processing: 
+[(',', 2992), ('(', 1095), (')', 1095), ("'", 1076), ('the', 613), (':', 432), ('our', 389), ('verdict', 377), ('trump', 330), ('.', 281), ('in', 275), ('of', 263), ('a', 250), ('to', 236), ('and', 229), ('1', 223), ('i', 214), ('positive', 185), ('donald', 155), ('that', 134), ('neutral', 132), ('on', 117), ('like', 113), ('’', 111), ('for', 99), ('/', 95), ('it', 95), ('is', 90), ('with', 84), ('negative', 81), ('at', 80), ('you', 79), ('hillary', 79), ("'m", 77), ('s', 73), ('was', 66), ('my', 66), ("'s", 64), ('me', 62), ('we', 57), ('percent', 57), ('from', 56), ('but', 55), ("n't", 51), ('than', 51), ('clinton', 50), ('more', 48), ('by', 45), ('2015', 45), ('2013', 44), ('have', 43), ('were', 43), ('--', 42), ('they', 41), ('data', 41), ('up', 41), ('all', 40), ('be', 40), ('police', 39), ('this', 39), ('has', 39), ('?', 37), ('2016', 37), ('get', 36), ('about', 36), ('as', 36), ('bill', 36), ('got', 36), ('who', 35), ('do', 34), ('2014', 34), ('not', 34), ('2012', 34), ('fuck', 33), ('drivers', 33), ('are', 32), ('just', 32), ('his', 32), ('people', 32), ('weather', 32), ("''", 30), ('—', 30), ('``', 29), ('he', 29), ('money', 28), ('or', 28), ('2', 28), ('t', 27), ('so', 27), ('out', 27), ('2008', 27), ('obama', 27), ('state', 27), ('what', 26), ('puerto', 26), ('an', 25), ('one', 25), ('tower', 25), ('!', 24), ('“', 24)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 753
+Number of types: 584
+Type token ratio: 0.7755644090305445
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'however the, rico crisis, same data, percent, response for, the coverage, coverage wasn, t all, the immediate, that coverage, some of, morning but, analysis found, over half, news, rico however, percent of, effort, an average, when president, trump in, time, did3 puerto, attention to, mentioned trump, president more, source, thing, hurricane harvey, could be, the mayor, media attention, two weeks, behavior and, organization, fivethirtyeight analysis, rating, cnn and, puerto rico, on a, puerto, the territory, coverage should, the puerto, irma when, at datapuertoricomedia, island, handled the, media coverage, back to, landfall in, of coverage, mayor of, in puerto, he said, much of, average of, github github, people disapprove, week we, about puerto, to the, criticism of, continue to, we went, month, mehta, and florida, it still, devastation, rico also, msnbc did3, burst of, did by, was criticism, trump did, headlines also, being too, favorable coverage, merit media, did3, florida, debt, of attention, coverage, aftermath of, network, dhrumil, trump about, to see, statement, hurricane irma, since the, twitter, mentioned puerto, by dhrumil, harvey and, poll, response, quarter of, attention, analysis, level, immediate aftermath, got2, made about, got2 once, a quarter, s twitter, of texas, what he, all tv, reach the, a wednesday, to merit, higher proportion, about how, data at, federal response, though it, github data, recovery effort, rico when, the media, in the, administration has, have hurricane, much should, changed1 and, the island, to help, cnn, on twitter, of puerto, trump, willing to, highlighted criticism, paying attention, just over, and the, and how, criticism, dhrumil mehta, recovery will, msnbc, president, show, the same, account, decision, president s, t reach, get a, s debt, some was, s recovery, week just, hurricane s, this week, location, fake, s devastation, changed1, half, texas and, president trump, hurricane, juan, texas, event, after hurricane, island last, downward since, way, proportion, fake and, rico on, s approval, disapprove of, effort and, the people, a feud, behavior, crisis, outlet, trump and, it wasn, twitter account, hurricane an, approval, by other, rico fewer, and msnbc, all of, irma, story, to get, in a, talking about, made landfall, rico trump, the president, give the, proportion than, when trump, the administration, people of, get, the two, help, trump a, morning, week, wasn t, florida not, mayor, medium, from it, tv, than we, to puerto, merit, of hurricane, media s, san juan, day also, several recent, trump made, positive some, should be, aftermath, just some, gotten, to keep, rico s, recovery, weeks after, rico, headline, but it, administration, the hurricane, said on, went back, media and, quarter, and some, the recovery, day, the story, worker')
+
+('VBD', 'received, said, fivethirtyeight, harvey, be dedicated, made, visited, and blasted, started, saw, really started, referenced, highlighted, published, set, outlets started, found, hurricanes had, half of, things had, repeatedly referenced, hit, a sustained, juan suggested, handled, trump visited, covered, rating had, hurricane struck, struck, debt engaged, blasted, filed, mehta filed, datapuertoricomedia published, that mentioned, some highlighted, mentioned, twitter in, rico had, we saw, feud with, be devoted, went, coverage mentioned, suggested, also mentioned, be influenced')
+
+('VBG', 'been ticking, making, talking, following, toward covering, keep making, t willing, wednesday morning, covering, for being, ticking, started paying, the following, weeks following, started talking, approval rating, paying')
+
+('VBP', 'maria made, data on, levels of, will continue, see, workers weren, as fake, days later, github, recently hit, sources to, give, efforts to, times than, organizations will, tends to, statements and, about 10, wasn t, disapprove, maria than, devastation and, puerto, events as, they have, island, crisis and, networks have, rico, will have, in our, about florida, continue, polls show')
+
+('VB', 'rico get, data set, keep, reach, get, slow, influenced, help with')
+
+('NNS', 'the data, if things, s efforts, our data, coverage as, and they, tends, online news, fox news, github, rican workers, maria, news headlines, fewer times, other events, many months, tv networks, which tends, making decisions, the efforts, two weeks, the levels, of headlines, five days, once outlets, people, florida also, other hurricanes, hurricane maria, us locations, months news, news organizations, data sources, controversial statements, data, texas headlines, the headlines, powerful hurricanes, s statements')
+
+('JJ', 'get the, of online, influenced by, weren t, not all, engaged in, unfavorable coverage, mentioned trump, federal, for many, had changed1, that puerto, last week, a fivethirtyeight, news which, puerto, recent, of the, too slow, the federal, have to, how much, landfall, published oct, average, unfavorable, territory, saw when, immediate, sustained burst, struck though, to president, full five, full, about the, puerto rican, mentioned puerto, statements president, hit by, favorable, le, efforts went, hurricanes got2, referenced puerto, and behavior, several, online, recover from, on github, in the, far less, following monday, s just, didn t, trump, it much, about a, and the, from the, started to, u, by powerful, last, rican, dedicated to, downward, that people, way the, san, other us, more favorable, mentioned the, controversial, than cnn, much, hurricane, texas, that mentioned, covering the, gotten this, following the, that s, blasted unfavorable, under puerto, wednesday, the controversial, less media, until the, had been, that the, feud, burst, a full, covered the, powerful, immediately after, equally fox, positive, willing, was positive, coverage was, visited texas, visited the, that could, with the, see if, about 5, of san, rico, ticking downward, many, fox, slow several, devoted to, to give')
+
+('VBN', 'have covered, dedicated, started, mentioned, had received, devoted, visited, engaged, has handled, had gotten, sustained')
+
+('JJR', 'fewer, filed under, higher, far higher')
+
+('VBZ', 'still didn, recent polls, that day, of the, that puerto, criticism of, that other')
+
+100 most freq tokens after processing: 
+[('verdict', 380), ('our verdict', 377), ('trump', 348), ('1', 233), ('positive', 185), ('verdict positive', 178), ('donald', 161), ('donald trump', 145), ('neutral', 132), ('verdict neutral', 128), ('like', 123), ('hillary', 82), ('negative', 81), ('i m', 77), ('in the', 75), ('verdict negative', 71), ('percent', 69), ('nt', 58), ('of the', 57), ('clinton', 56), ('the trump', 51), ('get', 49), ('2015', 47), ('data', 46), ('2013', 44), ('driver', 44), ('percent of', 43), ('bill', 43), ('people', 42), ('2013 our', 42), ('one', 41), ('state', 41), ('got', 41), ('2015 our', 41), ('at the', 40), ('police', 39), ('2016', 38), ('tower', 38), ('2014', 36), ('1 i', 36), ('2012', 35), ('to the', 34), ('fuck', 34), ('president', 33), ('2', 33), ('city', 32), ('weather', 32), ('said', 31), ('year', 31), ('money', 31), ('2016 our', 31), ('obama', 30), ('2012 our', 30), ('10', 29), ('number', 29), ('2008', 28), ('like donald', 27), ('2014 our', 27), ('on the', 26), ('show', 26), ('bitch', 26), ('2008 our', 26), ('puerto', 26), ('need', 25), ('it s', 25), ('2011', 25), ('rico', 25), ('would', 24), ('officer', 24), ('puerto rico', 24), ('want', 23), ('and the', 23), ('black', 23), ('remix', 23), ('know', 22), ('u', 22), ('way', 22), ('2010', 22), ('ai', 22), ('ai nt', 22), ('2011 our', 22), ('think', 21), ('also', 21), ('new', 21), ('3', 21), ('trump tower', 21), ('time', 20), ('make', 20), ('look', 20), ('live', 20), ('2000', 20), ('n', 20), ('hillary clinton', 20), ('bush', 19), ('every', 19), ('last', 19), ('day', 19), ('man', 19), ('news', 19), ('go', 18)]

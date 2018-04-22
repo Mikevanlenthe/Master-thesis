@@ -1,0 +1,59 @@
+Article: goose/kenley-jansen-is-the-model-of-a-modern-reliever
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3659
+Raw number of types: 1112
+Raw Type token ratio: 0.30390817163159334
+
+100 most freq tokens before (pre)processing: 
+[(',', 10210), ('the', 9000), ('.', 6168), ('of', 4470), ('a', 3869), ('to', 3611), ('in', 3381), ('and', 3302), ('’', 3176), ('that', 2020), ('s', 1801), ('(', 1660), (')', 1658), ('for', 1530), ('is', 1491), ('it', 1286), ('on', 1278), (':', 1174), ('are', 1056), ('“', 1032), ('”', 1031), ('—', 954), ('with', 940), ('at', 939), ('as', 939), ('we', 896), ("'", 871), ('but', 868), ('by', 859), ('i', 827), ('percent', 816), ('more', 794), ('this', 756), ('trump', 754), ('or', 709), ('our', 703), ('have', 696), ('was', 687), ('they', 683), ('from', 683), ('you', 662), ('t', 660), ('1', 639), ('about', 621), ('be', 606), ('than', 604), ('who', 588), ('has', 565), ('one', 557), ('data', 543), ('team-logo', 535), ('an', 523), ('were', 516), ('not', 494), ('he', 476), ('?', 472), ('all', 464), ('their', 447), ('so', 436), ('there', 434), ('his', 418), ('how', 407), ('said', 399), ('like', 394), ('polls', 393), ('if', 389), ('other', 377), ('verdict', 377), ('can', 371), ('which', 366), ('what', 365), ('2', 363), ('some', 360), ('when', 346), ('people', 343), ('most', 340), ('had', 337), ('out', 336), ('also', 320), ('those', 320), ('up', 290), ('get', 282), ('each', 277), ('only', 275), ('just', 271), ('0', 270), ('two', 256), ('been', 251), ('do', 247), ('world', 247), ('its', 244), ('time', 243), ('github', 237), ('3', 237), ('new', 235), ('these', 235), ('will', 234), (';', 230), ('them', 226), ('would', 224)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = True
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 3225
+Number of types: 950
+Type token ratio: 0.29457364341085274
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pelfrey, alvarez, rest, gomez, blake, phisea, oberg, ellington, giovanny, drew, trevor, col, collmenter, sherfy, bridwell, randall, mccarthy, bell, gallardo, evan, hoover, goeddel, resume, leone, chc, turner, mcfarland, jacob, rule, yusmeiro, kelvin, pattern, det, sea, ramos, lyle, perranoski, mcgrath, vizcaino, yovani, ty, replacement, brock, thing, shane, junichi, aquino, jose, madson, middleton, rodriguez, brach, bleier, marinez, haley, percival, congratulation, reymin, heller, kevin, austin, robby, alec, caleb, feliz, morris, colome, verhagen, ernesto, cle, sammy, matt, hart, leiter, statistic, goody, howell, rosenthal, mitchell, roberto, hader, alvarado, series, team▲▼, dyson, vincent, mcgowan, smith, morgan, putnam, minter, watson, probability, vance, tepera, raisel, definition, glover, season, result, steckenrider, jordan, luis, bud, brett, craig, world, bolsinger, game, holland, eggs▲▼, swarzak, pagan, peter, cahill, gustave, josh, addison, bush, seunghwan, romo, dodger, andrew, minaya, base, marc, dario, leader, maurer, jake, callahan, oliver, dayton, ottavino, john, johnson, kimbrel, year, winkler, edwin, gabriel, glasnow, davis, loup, aj, seator, daniel, way, edubray, bruce, scribner, alltime, chapman, erasmo, soria, chris, shawn, baumann, ryne, hudson, anthony, chrichton, petit, quackenbush, odrisamer, jackson, stephen, justin, joaquin, corey, mehs▲▼, jerry, greene, troy, liam, osuna, derek, musgrove, oh, miguel, romine, diego, jhan, knebel, estevez, wilson, broxton, bibensdirkx, mcallister, kc, norris, shackelford, jeurys, motte, companion, p, correlation, joakim, johnny, benoit, ben, anderson, paul, chatwood, harris, lucas, shae, cedeno, workman, halloffame, danny, leclerc, conley, schugel, rafael, hendriks, jansen, laa, strahm, mil, boyer, pill, cam, maton, britton, kela, tseng, rhame, suarez, blach, jimenez, hector, cory, ross, taylor, stefan, barnette, zych, brook, kolarek, carlos, archie, guduan, garton, reliever, alburquerque, pitching, adam, gauge, boxberger, willie, cecil, mcgee, brice, hernandez, antonio, help, travis, rank, diaz, flaherty, strickland, krol, scoreless, brad, gsellman, jean, garrett, usage, freeman, neshek, gearrin, cin, romero, george, gwar, robbie, price, nlcs, duke, claudio, value, dunn, rusin, instance, barbato, edgin, maple, akeel, francisco, brebbia, ricardo, law, rzepczynski, dillon, worley, mayza, whitley, felix, herrera, jim, hand, tim, kintzler, arano, milwaukee, scott, moreno, coulombe, rivero, baez, juan, mostever, verrett, fien, gossagelike, enny, emilio, francis, tom, broken, pitcher, chicago, silver, brewer, hunt, rex, jimmie, casilla, peralta, model, standpoint, buchter, zach, goldberg, greg, peacock, wood, luke, gee, cain, keone, source, hardy, sergio, shaw, morrow, mark, petricka, pit, playoff, day, garcia, warwick, rubby, sparky, melancon, tommy, fister, appearance, montgomery, jayson, carson, gregerson, textor, clutch, jeffress, miller, blaine, ramirez, axford, strop, koehler, biagini, pace, hatcher, nicolino, mariano, suter, rob, goose, bryan, koji, grace, ariel, koda, doug, otero, perfect, get, jason, spring, ziegler, castro, iglesias, fernando, pinto, hildenberger, vidal, stu, robert, ryan, sherriff, devenski, singleseason, santiago, pat, sewald, leblanc, jonathan, kenley, wilhelmsen, steve, casey, despaigne, sam, brother, time, brent, dellin, bradford, chafin, mike, scahill, prof, jandel, chasen, hoby, arodys, pitch, velazquez, pedro, hansel, nicasio, harry, hembree, pounder, cub, nuno, cingrani, richard, cody, jeremy, los, ronald, avilan, article, jimmy, socolovich, montero, runzler, doolittle, david, oak, situation, sipp, santos, amir, phi, find, notveryclutch, ynoa, clippard, dustin, victor, jenho, c, stewart, dan, lyon, eduardo, wade, seattle, grilli, joe, bowman, increase, maddox, buddy, treinen, highleverage, field, stephenson, pena, ron, aaron, download, league, gwar▲▼, tanner, beliveau, alan, tor, adleman, median, frieri, grimm, jarlin, barrett, nate, boone, mychal, farquhar, egg, chavez, rodney, blanton, ravin, jorge, record, beck, exception, mia, cletor, alexander, infante, junis, jeff, chase, rowley, abad, delgado, chad, percent, bummer, yacabonis, bergman, moll, liriano, stumpf, felipe, j, michael, harrell, milner, seamheadscom, hunter, inning, asher, olson, tuivailala, robertson, altavilla, sf, retrosheet, mariner, pitcher▲▼, diekman, lawrence, dermody, nyy, rivera, cishek, bastardo, tazawa, duffey, moya, moylan, smoker, github, kahnle, parker, tyler, guerra, stanek, rondon, postseason, al, morin, phelps, jamie, jesse, image, recommend, bradley, brandon, frankie, holder, baseball, corbett, matthew, heath, relief, jeanmar, gossage, pruitt, getty, clevinger')
+
+('JJ', 'american, eric, bal, christian, pazos, alltime, neil, alex, streak, mostvaluable, francisco, david, next, neverauskas, marshalllike, sharp, wandy, pattern, det, win, goosetoric, green, different, albert, young, kenyan, full, hybrid, …, nick, highleverage, jose, rodriguez, broken, pitcher, sean, crick, glimpse, final, peralta, osich, much, new, complete, rundown, regular, wojciechowski, german, jumbo, matt, aroldis, statistic, roble, donnie, minor, total, grady, lad, neris, tony, happy, original, belisle, danny, many, dull, simon, jansen, modern, threefold, rich, neftali, bedrosian, siegrist, goose, eggs▲▼, bryan, kyle, major, steven, formal, lead, grant, perfect, josh, abernathy, javy, okert, nyy, andrew, save, uehara, adam, alive, breslow, golden, logan, ryan, robert, guerra, creative, bosnym, extra, jared, ian, min, dominic, brian, domingo, kirby, phil, erik, honor, cin, hoyt, allen, gwar')
+
+('VBN', 'paired, blown, broken, given, ted, finished, detailed, pitched, used, filed, named, extrapolated, added, tied')
+
+('NNS', 'angeles, data, simmons, wittgren, rogers, salas, scheppers, darren, giles, blevins, dovydas, boshers, jones, andrew, torres, paredes, offdays, ken, yates, stats, kontos, bos, machi, barnes, gallegos, kevin, stammen, mil, nlds, albers, qualls, james, jennings, morris, deolis, hughes, craig, montas, carl, lyles, martes, warren, kyle, familia, betances, matt, storen, chasen')
+
+('VBP', 'kittredge, pit, drake, nyy, want, dodger, col, save, nym, shreve, laasd, meh, laa, mil, oak, hou, look, pitsf, chc, atl, min, provide, go, chwtb, see, find, sea, win, edwin, datagoose, phistl, goose, need, table, cin, tex')
+
+('JJR', 'runner, better, closer, xavier')
+
+('VBG', 'pitching, throwing, searching, duensing, advocating, inning, stripling, multiinning')
+
+('VB', 'viable, result, work, keep, extrapolate, get, overused, kenley, look, enable')
+
+('VBD', 'came, went, sd, pit, kelley, bal, mia, justconcluded, nyy, miltex, reed, laanym, lad, seatb, chwkc, col, knebel, clemin, nym, oakwas, chad, lorenzen, saupold, chwmil, finished, ladpit, perez, lined, threw, chwhou, tb, solis, bos, kcsd, laa, phipit, chwnyy, jansen, allowed, called, mil, oak, busenitz, stl, kc, tor, hou, ari, santiago, made, chw, generated, appeared, chc, atl, used, mianym, min, colphi, milpit, det, phi, chwtb, sea, cinlad, entered, chcdet, cole, arilaa, ladoak, ladtb, sftex, goose, sf, kcmil, cle, minwas, cin, tex, miasea, introduced')
+
+('VBZ', 'col, pit, oak, postseason, nym, laa, ari, det, cin, lad, egg')
+
+('JJS', 'highest, best')
+
+('NNP', 'knebel, mehs')
+
+100 most freq tokens after processing: 
+[('percent', 826), ('trump', 771), ('1', 735), ('one', 619), ('poll', 582), ('data', 547), ('teamlogo', 539), ('2', 431), ('like', 420), ('year', 408), ('said', 407), ('verdict', 380), ('people', 351), ('time', 344), ('also', 324), ('number', 323), ('get', 322), ('pollster', 321), ('state', 304), ('10', 299), ('3', 296), ('point', 294), ('team', 291), ('0', 270), ('two', 260), ('world', 252), ('11', 248), ('new', 239), ('github', 237), ('u', 234), ('rating', 234), ('would', 232), ('election', 225), ('13', 225), ('game', 223), ('much', 219), ('result', 219), ('republican', 217), ('american', 213), ('average', 213), ('4', 212), ('positive', 208), ('many', 207), ('first', 205), ('12', 204), ('make', 202), ('polling', 201), ('even', 200), ('14', 200), ('15', 198), ('5', 197), ('film', 196), ('may', 194), ('since', 194), ('player', 194), ('voter', 193), ('win', 191), ('%', 190), ('donald', 189), ('see', 187), ('candidate', 182), ('group', 181), ('league', 178), ('likely', 174), ('6', 172), ('day', 169), ('way', 163), ('last', 161), ('three', 161), ('woman', 160), ('among', 160), ('16', 158), ('president', 155), ('season', 155), ('2014', 154), ('question', 150), ('model', 150), ('still', 149), ('national', 146), ('take', 145), ('country', 143), ('think', 141), ('8', 139), ('neutral', 138), ('vote', 138), ('week', 138), ('le', 138), ('2016', 137), ('race', 136), ('look', 135), ('respondent', 135), ('least', 134), ('every', 132), ('17', 132), ('well', 130), ('7', 130), ('chance', 129), ('cup', 129), ('rate', 128), ('go', 127)]
