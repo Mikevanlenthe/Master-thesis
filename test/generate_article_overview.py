@@ -11,23 +11,13 @@ from collections import defaultdict
 import argparse
 import errno
 
-
-def find_text_files(directory):
+def find_files(directory):
     paths = []
     for root, directories, files in os.walk(directory):
         for filename in files:
             filepath = os.path.join(root, filename)
             paths.append(filepath)
-    return [path for path in paths if path.endswith(".txt") and not path.endswith("analysis.txt") and not path.endswith("amount.txt") and not path.endswith("_graphs.txt")]
-
-
-def find_image_files(directory):
-    paths = []
-    for root, directories, files in os.walk(directory):
-        for filename in files:
-            filepath = os.path.join(root, filename)
-            paths.append(filepath)
-    return [path for path in paths if path.endswith(".png")]
+    return [path for path in paths if path.endswith(".txt") and not path.endswith("analysis.txt") and not path.endswith("amount.txt")]
 
 
 def remove_article_words(tokens):
@@ -71,7 +61,6 @@ def minimum_length(tokens, length):
     tokens = [token for token in tokens if len(token) >= length]
     return tokens
 
-
 def create_args_filter_name(args):
     args = str(args)
     args = args[10:-1]
@@ -85,20 +74,7 @@ def create_args_filter_name(args):
     return filter_name
 
 
-def create_filter_names(args_filter_options):
-    filters = ["".join(name) for name in args_filter_options.split("_")]
-    names = []
-    options = []
-    for filter in filters:
-        if filter == "True" or filter == "False" or not filter.isalpha():
-            options.append(filter)
-        else:
-            names.append(filter)
-
-    return names, options
-
-
-def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token_length, use_stemmer, use_bigrams, use_trigrams, unique_pos_tokens, args):
+def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token_length, use_stemmer, use_bigrams, use_trigrams, args):
     print("Running pre-processing in following order:")
     print("Lowercase text")
     print("Tokenize by nltk.word_tokenize")
@@ -109,7 +85,7 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
     print()
 
     # Collect article text files
-    txt_files = find_text_files(read_path)
+    txt_files = find_files(read_path)
 
     # Line graph intended message indicators from articles
     article_filter_line = []
@@ -126,17 +102,14 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
     stemmer = PorterStemmer()
 
     # count tokens from all articles:
-    c_raw = Counter()  # count tokens for each without pre-processing
-    c_raw_total = Counter()  # count all article tokens without pre-processing
+    c_raw = Counter()  # count tokens without pre-processing
     c_article1 = Counter()  # count tokens with stemming and pos_tags NN, VB, JJ
-    c_processed = Counter()  # count tokens for each article after pre-processing
-    c_processed_total = Counter()  # count all article tokens after pre-processing
+    c_processed = Counter()  # count tokens after pre-processing
 
     # scrape tokens from articles in txt format
     for txt_file in txt_files:
         filename = txt_file.split(".")  #  save filename
         print("Read file:", filename[1])
-
 
         ########### open txt file from article:
         infile = open(txt_file, 'r', encoding="utf8", errors='ignore')
@@ -144,19 +117,12 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
 
         ########### tokenize by NLTK
         tokens = nltk.word_tokenize(content)
-        print(tokens)
 
         # count raw tokens by NLTK tokenizer
         # NOTE, count for all articles
         for token in tokens:
-            c_raw_total[token] += 1
-
-        # count raw tokens by NLTK tokenizer
-        # NOTE, count for each article
-        for token in tokens:
             c_raw[token] += 1
 
-        ########### raw token information
         raw_total_tokens = len(tokens)
         raw_types = len(set(tokens))
         raw_ttr = raw_types/raw_total_tokens
@@ -197,6 +163,7 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
         for pos_tag in pos_tags:
             tag = pos_tag[1]
             token = pos_tag[0]
+            # store all POS tags in dictionary
             pos_dict[tag].append(token)
 
         ########### token information
@@ -207,12 +174,8 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
         ########### count tokens after processing
         # NOTE, count for all articles
         for token in tokens:
-            c_processed_total[token] += 1
-
-        ########### count tokens after processing
-        # NOTE, count for each article
-        for token in tokens:
             c_processed[token] += 1
+
 
         ######### article 1:
         """ article simple bar charts:
@@ -236,23 +199,19 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
         #     c_article1[stemmed] += 1
 
         ######################################################
-        #create directory name to store analysis in
         new_filename = str(filename[1])
         new_filename = new_filename.split("/")
         new_filename = "".join(new_filename[1:-1])
-        if not os.path.exists(new_filename+"/analysis/"):
+        print(new_filename)
+        if not os.path.exists(new_filename):
             new_filename = str(filename[1])
             new_filename = new_filename.split("/")
             new_filename = "/".join(new_filename[1:-1])
+
+            print(new_filename)
             os.makedirs(new_filename+"/analysis/", exist_ok=True)
-
-        # Collect number of graphs from article
-        image_files = find_image_files(new_filename)
-
-        #create lists to store applied filters and options
-        names, options = create_filter_names(filter_name)
-
         # write article summaries
+        # with open("."+filename[1]+"_"+filter_name+"_analysis.txt", "w") as outfile:
         with open(new_filename+"/analysis/"+filter_name+"_analysis.txt", "w") as outfile:
             outfile.write("Article: "+new_filename+"\n\n")
             outfile.write("Tokenized by nltk.word_tokenize \n")
@@ -260,7 +219,6 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
             outfile.write("Raw number of tokens: "+str(raw_total_tokens)+"\n")
             outfile.write("Raw number of types: "+str(raw_types)+"\n")
             outfile.write("Raw Type token ratio: "+str(raw_ttr)+"\n\n")  # higher = more diverse in language
-            outfile.write("100 most freq tokens before (pre)processing: \n"+str(c_raw.most_common(100))+"\n\n")
 
             outfile.write("Applied pre-processing:\n")
             outfile.write("Lowercased all tokens \n")
@@ -268,10 +226,10 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
             outfile.write("Punctuation filtered out "+str(removed_punctuation)+"\n")
             outfile.write("Words filtered out: "+str(removed_article_words)+"\n\n")
 
-            outfile.write("Applied filters: \n")
-            for name, option in zip(names, options):
-                outfile.write(name+" = "+option+"\n")
-            outfile.write("\n")
+            outfile.write("Applied filters:\n")
+            outfile.write("Using stopwords filter = "+str(remove_stopwords)+"\n")
+            outfile.write("Using lemmatizer = "+str(use_lemmatizer)+"\n")
+            outfile.write("Using stemmer = "+str(use_stemmer)+"\n\n")
 
             outfile.write("Token analysis after pre-processing \n")
             outfile.write("Number of tokens: "+str(total_tokens)+"\n")
@@ -283,34 +241,27 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
             outfile.write("(tokens separated by , ) \n")
             for tag, tokens in pos_dict.items():
                 if tag.startswith("NN") or tag.startswith("V") or tag.startswith("J"):
-                    # enable to show unique pos tagged tokens in analysis file
-                    if unique_pos_tokens:
-                        tokens = set(tokens)
                     line = tag,', '.join(tokens)
                     outfile.write(str(line)+'\n\n')
-
-            outfile.write("100 most freq tokens after processing: \n"+str(c_processed.most_common(100))+"\n")
-
-        # write amount of graphs in article
-        with open(new_filename+"/analysis/amount_of_graphs.txt", "w") as outfile:
-            outfile.write("Article: "+new_filename+"\n\n")
-            outfile.write("Number of graphs: "+str(len(image_files))+"\n")
 
     ####### print results in terminal
     print()
     print("NOTE: All tokens converted to lowercase!")
     print()
-    print("Raw token count: \n", c_raw_total.most_common(100))
+    print("Raw token count: \n", c_raw.most_common(100))
     print()
-    print("Processed token count: \n", c_processed_total.most_common(100))
+    print("Processed token count: \n", c_processed.most_common(100))
     print()
 
     # write general overview
-    with open("general_analysis"+filter_name+".txt", "w") as outfile:
+    with open(filter_name+"_general_analysis.txt", "w") as outfile:
         outfile.write("NOTE: All tokens converted to lowercase!\n")
-        outfile.write("Applied filters: "+filter_name+"\n\n")
-        outfile.write("Raw 100 most freq tokens: \n"+str(c_raw_total.most_common(100))+"\n\n")
-        outfile.write("Processed 100 most freq tokens: \n"+str(c_processed_total.most_common(100))+"\n")
+        outfile.write("Filters:\n")
+        outfile.write("Using stopwords filter = "+str(remove_stopwords)+"\n")
+        outfile.write("Using lemmatizer = "+str(use_lemmatizer)+"\n")
+        outfile.write("Using stemmer = "+str(use_stemmer)+"\n\n")
+        outfile.write("Raw 100 most freq tokens: \n"+str(c_raw.most_common(100))+"\n\n")
+        outfile.write("Processed 100 most freq tokens: \n"+str(c_processed.most_common(100))+"\n")
 
     # print("Article 1 token count: \n", c_article1_raw.most_common(50))
     # print()
@@ -323,13 +274,12 @@ def main():
     parser.add_argument('--stopwords', action='store_true', help='Filter stop words')
     parser.add_argument('--lemmatize', action='store_true', help='Use lemmatizer')
     parser.add_argument('--stemmer', action='store_true', help='Use stemmer')
-    parser.add_argument('--minimumtokenlength', '--tl', type=int, default=1, help='Set minimum token length')
+    parser.add_argument('--tokenlength', '--tl', type=int, default=3, help='Set minimum token length')
     parser.add_argument('--bigrams', action='store_true', help='Use bigrams')
     parser.add_argument('--trigrams', action='store_true', help='Use trigrams')
-    parser.add_argument('--showuniquepostagtokens', '--upos', action='store_true', help='Show unique pos tagged tokens instead of all pos tagged tokens')
     args = parser.parse_args()
 
-    generate_overview("./", remove_stopwords = args.stopwords, use_lemmatizer = args.lemmatize, use_stemmer = args.stemmer, minimum_token_length = args.minimumtokenlength, use_bigrams = args.bigrams, use_trigrams = args.trigrams, unique_pos_tokens = args.showuniquepostagtokens, args = args)
+    generate_overview("./", remove_stopwords = args.stopwords, use_lemmatizer = args.lemmatize, use_stemmer = args.stemmer, minimum_token_length = args.tokenlength, use_bigrams = args.bigrams, use_trigrams = args.trigrams, args = args)
     print("Done.")
 
 if __name__ == '__main__':

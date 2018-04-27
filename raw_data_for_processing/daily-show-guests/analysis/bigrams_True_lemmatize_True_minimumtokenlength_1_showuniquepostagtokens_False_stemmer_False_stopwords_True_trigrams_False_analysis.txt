@@ -1,0 +1,57 @@
+Article: daily-show-guests
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 642
+Raw number of types: 313
+Raw Type token ratio: 0.48753894080996885
+
+100 most freq tokens before (pre)processing: 
+[(',', 4945), ("'", 2106), ('(', 2096), (')', 2096), ('the', 561), (':', 456), ('our', 388), ('verdict', 377), ('trump', 318), ('in', 258), ('.', 256), ('a', 242), ('to', 234), ('of', 230), ('1', 223), ('i', 220), ('and', 207), ('positive', 184), ('donald', 155), ('neutral', 132), ('like', 113), ('that', 106), ('on', 105), ('’', 100), ('/', 95), ('for', 94), ('it', 90), ('is', 89), ('you', 85), ("'m", 84), ('with', 81), ('negative', 81), ('hillary', 79), ("'s", 78), ('at', 77), ('s', 67), ('my', 66), ('me', 62), ("''", 60), ('``', 59), ('was', 58), ("n't", 56), ('we', 55), ('percent', 55), ('but', 52), ('clinton', 50), ('from', 49), ('--', 47), ('2015', 45), ('2013', 44), ('were', 43), ('?', 42), ('more', 42), ('have', 41), ('all', 40), ('they', 40), ('by', 40), ('than', 40), ('up', 40), ('police', 39), ('be', 37), ('do', 37), ('this', 37), ('2016', 37), ('got', 36), ('who', 35), ('bill', 35), ('2014', 34), ('has', 34), ('2012', 34), ('get', 33), ('fuck', 33), ('drivers', 33), ('data', 32), ('weather', 32), ("'to", 31), ('as', 31), ('tokens', 30), ('not', 30), ('his', 30), ('!', 29), ('most', 29), ("'and", 29), ('—', 29), ('people', 29), ("'we", 28), ('are', 28), ('just', 28), ('money', 28), ('he', 28), ('or', 28), ('2', 28), ('so', 27), ('2008', 27), ('obama', 27), ('state', 27), ("'that", 26), ("'i", 26), ('out', 26), ('“', 25)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 851
+Number of types: 734
+Type token ratio: 0.8625146886016452
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'guest, jon, show, walt, hickey, tv, get, github, github, president, stewart, show, york, evan, vucci, ap, era, show, air, episode, tonight, show, tv, year, stewart, alma, student, tour, graduation, school, shut, show, audience, member, washington, metro, record, way, sanity, stewart, part, hell, way, look, stewart, showbyshow, list1, guests2, profile, google, knowledge, graph3, chair, year, friend, fusion, everyone, way, today, formula, talk, show, actor, list, year, stewart, arm, sometime, figure, grace, program, presence, performer, year, presence, medium, figure, author, politico, figure, presence, show, war, time, caught, show, show, emphasis, head, percent, government, percent, medium, figure, actor, movie, year, year, actor, comedian, plurality, show, count, denis, williams, time, appearance, march, jon, drop, comedy, at 1123, am every, jon stewart, stewart ever, by walt, walt hickey, tv get, get the, the data, data on, on github, github github, github data, data at, president obama, obama and, jon stewart, stewart host, host of, taping july, july 21, in new, new york, york evan, evan vucci, vucci ap, ap an, an era, era is, jon stewart, new episode, this show, show has, has been, been on, tv since, since i, i was, i went, went to, to william, mary stewart, stewart s, s alma, alma mater, mater and, the graduation, graduation walk, the school, school wouldn, wouldn t, t shut, shut up, him i, attended one, taping of, of the, the show, an audience, audience member, member may, featuring the, the late, late elizabeth, still my, the washington, helping to, to set, set a, a record, record with, with 800000, people on, to the, to restore, restore sanity, stewart was, was a, big part, part of, growing up, for me, me and, he s, but it, it was, was a, hell of, of a, a run, daily show, some interesting, ways since, since he, hosting in, in 1999, just look, look at, at the, stewart has, interviewed i, the showbyshow, guest list1, list1 and, and then, crosschecked each, each of, profile on, on google, google s, s knowledge, knowledge graph3, graph3 to, to find, find out, out who, sat in, in the, the other, other chair, chair all, some mind, mind meld, at fusion, fusion he, he s, between the, the show, it s, the way, way it, it is, is today, today but, but it, it s, started as, as a, formula talk, talk show, guest list, stewart s, s run, shot in, in the, the arm, arm sometime, sometime around, political figure, to grace, grace the, the program, program with, with his, his presence, presence was, bob dole, dole of, all people, people with, and 2000, the show, relegated to, to a, subdued presence, presence with, with media, the gap, showing up, in 2005, and have, have been, been a, consistent presence, presence on, the show, show as, long as, as we, we ve, at war, the whole, whole time, time once, caught on, the show, show was, was important, important they, the show, show s, outsized emphasis, emphasis on, to a, a head, head in, in 2008, when a, a fifth, the government, government the, military or, were media, to be, be an, an actor, a movie, the last, last couple, couple of, represent a, a plurality, the show, my count, zakaria has, the most, by denis, leary and, brian williams, williams my, my boss, boss has, has been, been on, i m, for not, to come, come along, his last, last appearance, in march, march 2014, jon stewart, mic tonight, tonight at, comedy central')
+
+('VBP', 'stewart, walk, friend, find, show, feel, represent, show, daily show, daily show, students tour, edwards with, who are, roommates i, sanity in, and now, a hell, run and, guests stewart, of the, against their, who s, there s, monarchs and, muppets and, feels like, always been, actors and, first four, years of, visits in, comedians and, performers who, often on, authors and, really left, politics came, fifth of, guests 21, politics and, figures must, that year, year in, musicians and, comedians began, frequently and, they now, plurality of, guests by, times and')
+
+('JJ', '‘, daily, jon, daily, new, daily, jon, last, new, old, william, mary, prospective, late, big, interesting, pulled, unique, sat, meld, monarch, standard, comedian, shot, first, political, bob, dole, comedian, several, gap, military, consistent, long, much, whole, politician, important, outsized, fifth, affiliated, military, last, couple, musician, appear, daily, leary, brian, last, stewart, tonight, edt, central, guest jon, had on, ‘ the, show by, under tv, datadailyshowguests president, during a, ending the, show with, with jon, its last, last new, tonight this, on tv, years old, old i, william mary, from the, the prospective, to the, about him, show as, as an, friends who, are still, onto the, other people, in 2010, pretty big, up for, now he, leaving but, changed in, in some, pulled the, the 1600odd, unique guests2, their profile, s sat, all these, apparently some, happening with, with our, friends at, talked to, everyone in, in between, like it, been the, standard formula, dominated the, for the, of stewart, had a, a shot, the first, first political, figure to, was bob, of all, in 1999, most often, on the, show in, first several, filling the, gap military, up in, a consistent, as long, ve been, been at, pretty much, much the, that the, left the, came to, all the, with the, the military, percent were, sucked to, promoting a, in the, began to, once again, again represent, show s, by my, had the, followed by, denis leary, and brian, on three, and i, myself for, begging to, on his, drops the, the mic, edt on, on comedy')
+
+('VBN', 'filed, set, started, started, dominated, show, subdued, come, i jammed, has changed, has interviewed, significantly what, originally started, soon relegated, more subdued, s outsized, were affiliated, have sucked')
+
+('NNS', 'data, data, datadailyshowguests, elizabeth, jammed, people, muppets, people, politics, politics, zakaria, bos, airs its, prospective students, elizabeth edwards, with friends, my roommates, show has, interesting ways, the guests, guests2 against, these years, our friends, to monarchs, and muppets, show feels, s always, show actors, and comedians, four years, with visits, the comedians, other performers, in its, several years, figures authors, military figures, once politicians, on politics, the guests, or politics, media figures, though actors, actors musicians, and comedians, and they, s guests, fareed zakaria, show appearances, three times')
+
+('VBD', 'host, went, attended, changed, interviewed, crosschecked, talked, changed, appeared, relegated, started, left, came, began, fareed, followed, mic, ever had, hickey filed, episode tonight, i attended, may 20, he started, i pulled, then crosschecked, s talked, s changed, comedians dominated, list for, run had, around 20034, who appeared, figures started, war pretty, politicians caught, count fareed, has had, at 11')
+
+('VBG', 'taping, ending, taping, featuring, helping, growing, leaving, hosting, happening, filling, showing, promoting, kicking, begging, show during, a taping, is ending, one taping, inadvertently helping, of growing, s leaving, started hosting, meld happening, politicos filling, started showing, actor promoting, m kicking, not begging')
+
+('VB', 'roommate, run, show, run, sucked, daily show, the way, must have')
+
+('JJS', 'guest, guest, guest, guest, guest, every guest, showbyshow guest, the guest')
+
+('JJR', 'filed under')
+
+('VBZ', 'at datadailyshowguests, stewart airs, washington metro, rally to, media figures, of years, daily show, stewart drops')
+
+100 most freq tokens after processing: 
+[('verdict', 380), ('our verdict', 377), ('trump', 346), ('1', 243), ('positive', 184), ('verdict positive', 178), ('donald', 163), ('donald trump', 145), ('like', 133), ('neutral', 132), ('verdict neutral', 128), ('hillary', 82), ('i m', 82), ('negative', 81), ('percent', 77), ('nt', 71), ('in the', 71), ('verdict negative', 71), ('get', 56), ('clinton', 56), ('the trump', 51), ('of the', 49), ('one', 48), ('2015', 47), ('people', 46), ('state', 45), ('2013', 44), ('driver', 44), ('at the', 42), ('bill', 42), ('2013 our', 42), ('got', 41), ('percent of', 41), ('2015 our', 41), ('need', 40), ('data', 40), ('said', 39), ('police', 39), ('2016', 38), ('tower', 38), ('want', 36), ('year', 36), ('2', 36), ('2014', 36), ('1 i', 36), ('know', 35), ('2012', 35), ('think', 34), ('fuck', 34), ('would', 33), ('number', 32), ('to the', 32), ('city', 32), ('weather', 32), ('money', 31), ('2016 our', 31), ('token', 30), ('president', 30), ('obama', 30), ('2012 our', 30), ('going', 28), ('10', 28), ('2008', 28), ('it s', 27), ('like donald', 27), ('2014 our', 27), ('on the', 26), ('bitch', 26), ('2008 our', 26), ('make', 25), ('look', 25), ('2011', 25), ('time', 24), ('way', 24), ('new', 24), ('officer', 24), ('100', 23), ('country', 23), ('go', 23), ('black', 23), ('remix', 23), ('well', 22), ('bush', 22), ('and the', 22), ('2010', 22), ('ai', 22), ('ai nt', 22), ('2011 our', 22), ('u', 21), ('3', 21), ('trump tower', 21), ('freq', 20), ('915', 20), ('world', 20), ('every', 20), ('100 most', 20), ('most freq', 20), ('freq tokens', 20), ('live', 20), ('2000', 20)]

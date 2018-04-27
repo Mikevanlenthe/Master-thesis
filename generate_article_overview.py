@@ -144,7 +144,6 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
 
         ########### tokenize by NLTK
         tokens = nltk.word_tokenize(content)
-        print(tokens)
 
         # count raw tokens by NLTK tokenizer
         # NOTE, count for all articles

@@ -1,0 +1,59 @@
+Article: infrastructure-jobs
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 460
+Raw number of types: 219
+Raw Type token ratio: 0.47608695652173916
+
+100 most freq tokens before (pre)processing: 
+[(',', 10861), ('the', 7086), ('.', 4859), ('of', 3612), ('a', 3076), ('to', 2948), ('(', 2699), (')', 2699), ('in', 2639), ('and', 2637), ('’', 2447), ("'", 2107), ('that', 1673), ('s', 1342), ('for', 1215), ('is', 1196), (':', 1101), ('on', 1048), ('it', 1021), ('are', 878), ('“', 863), ('”', 862), ('with', 781), ('—', 765), ('at', 764), ('we', 761), ('as', 733), ('by', 705), ('i', 698), ('but', 680), ('more', 664), ('our', 664), ('percent', 654), ('trump', 636), ('this', 616), ('they', 597), ('or', 584), ('you', 569), ('have', 547), ('t', 537), ('from', 536), ('team-logo', 535), ('who', 510), ('about', 509), ('was', 494), ('than', 485), ('be', 473), ('one', 473), ('data', 445), ('were', 434), ('an', 420), ('?', 405), ('has', 397), ('1', 384), ('not', 377), ('verdict', 377), ('all', 367), ('their', 366), ('polls', 362), ('said', 358), ('like', 352), ('there', 341), ('how', 336), ('he', 336), ('if', 319), ('so', 315), ('other', 313), ('what', 312), ('most', 309), ('can', 309), ('people', 304), ('some', 292), ('his', 289), ('out', 276), ('those', 275), ('which', 274), ('when', 271), ('had', 255), ('also', 253), ('get', 247), ('up', 237), ('each', 230), ('just', 218), ('do', 216), ('only', 216), ('two', 214), ('pollsters', 214), ('positive', 204), ('them', 196), ('will', 192), ('polling', 191), ('new', 190), ('github', 188), ('2', 187), ('its', 184), (';', 182), ('time', 182), ('points', 181), ('donald', 180), ('would', 179)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 604
+Number of types: 509
+Type token ratio: 0.8427152317880795
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, pm, infrastructure, job, statelevel, spending, infrastructure, get, github, github, datainfrastructurejobs, overpass, south, cheyenne, mead, gruver, ap, article, infrastructure, investment, realtime, state, census, bureau, report, bureau, construction, spending, year, information, create, infrastructure, spending, employment, bls, employment, industry, construction, industry, engineering, construction, subsector, infrastructure, job, description, job, activity, construction, engineering, project, number, infrastructure, job, sector, government, percent, april, april, drop, construction, employment, period, trough, infrastructure, job, percent, worker, job, recession, bls, employment, subsector, state, state, worker, sample, mining, energy, industry, prominence, example, change, infrastructure, job, variation, stand, boom, oklahoma, oil, gasheavy, state, reiterate, mean, reflection, realtime, infrastructure, spending, anything, measure, job, state, energy, industry, energy, industry, infrastructure, job, at 323, ‘ infrastructure, infrastructure jobs, jobs as, measuring stick, stick for, for statelevel, by andrew, github github, github data, data at, at datainfrastructurejobs, datainfrastructurejobs a, built overpass, overpass just, just south, south of, mead gruver, gruver ap, ap in, my article, article on, on lackluster, lackluster infrastructure, infrastructure investment, investment it, it would, to have, have realtime, realtime data, data by, by state, the census, census bureau, bureau s, constructionspending report, report doesn, doesn t, breakdown the, the bureau, publishes statelevel, nonresidential construction, with 2012, being the, the latest, latest year, year for, which information, information is, available but, but we, can create, create a, a proxy, for infrastructure, albeit an, imperfect one, one by, at employment, employment the, the bls, by industry, industry and, the construction, construction industry, industry as, a whole, heavy and, and civil, engineering construction, construction subsector, subsector infrastructure, infrastructure jobs, jobs by, by the, the bls, bls s, s description, these are, are jobs, jobs for, which the, primary activity, the construction, construction of, of entire, of infrastructure, infrastructure jobs, jobs whether, the private, private sector, sector or, in government, government has, by 95, between april, roughly the, the peak, peak and, and april, this is, is better, than the, the more, more than, percent drop, drop in, overall construction, construction employment, period and, and since, which came, in april, these infrastructure, infrastructure jobs, little over, percent but, but about, their peak, the recession, recession the, the bls, this subsector, states in, in the, the other, representative sample, sample so, so we, data on, wyoming because, the mining, mining and, and energy, energy industry, industry s, s prominence, but in, in maryland, maryland for, for example, we don, don t, analyzing statebystate, these infrastructure, infrastructure jobs, the peak, peak and, the trough, wide variation, the boom, boom in, in north, dakota and, and oklahoma, two oil, oil and, and gasheavy, reiterate by, by no, this an, ideal reflection, reflection of, realtime infrastructure, it s, proxy if, this measure, jobs by, by state, state because, energy industry, is if, if we, energy industry, industry s, actual infrastructure, infrastructure jobs, jobs have, by less, less than')
+
+('VBG', 'using, measuring, wyoming, constructionspending, looking, wyoming, analyzing, pm using, a measuring, statelevel spending, cheyenne wyoming, monthly constructionspending, construction spending, infrastructure spending, by looking, civil engineering, entire engineering, employment during, on wyoming, data analyzing, infrastructure spending, if anything')
+
+('JJ', '‘, stick, lackluster, useful, monthly, private, nonresidential, available, proxy, imperfect, organizes, heavy, civil, bls, primary, entire, dam, nationwide, private, peak, percent, overall, april, little, peak, collect, representative, statebystate, peak, wide, north, dakota, ideal, proxy, actual, le, jun 3, using ‘, spending by, under infrastructure, get the, on github, recently built, wyoming mead, in my, have been, been useful, useful to, unfortunately the, provide a, annually for, for private, private nonresidential, spending with, for which, is available, we can, proxy for, spending albeit, looking at, organizes employment, employment by, for the, as a, there are, are three, call the, the heavy, description these, the primary, is the, nationwide the, number of, in the, or in, fallen by, percent between, in overall, that period, the trough, trough which, roughly in, risen a, a little, in these, at their, before the, collects employment, of this, for 32, states there, too few, have a, a representative, of the, there but, have such, in these, from the, from the, stands out, is the, north dakota, oklahoma two, to reiterate, is this, an ideal, of realtime, spending it, merely a, a proxy, anything this, of the, the energy, out the, the energy, affect actual, recovered by')
+
+('VBD', 'andrew, whole, fallen, came, risen, employed, stripped, recovered, flowers filed, whether in, april 2007, april 2014, than 21, since the, april 2010, over 10, subsector for, other 18, because of, because of, we stripped, probably recovered')
+
+('JJR', 'flower, better, fewer, filed under')
+
+('VBN', 'filed, built, has fallen, have risen, are employed, have data')
+
+('NNS', 'data, data, data, publishes, data, subsectors, data, data, data, reveals, andrew flowers, the data, statelevel data, three subsectors, engineering projects, eg highways, and dams, fewer workers, these jobs, employment data, there is, few workers, such data, statebystate changes, trough reveals, gasheavy states, no means, what appears')
+
+('VBP', 'provide, statelevel, let, maryland, affect, data on, would have, an imperfect, subsectors let, for which, activity is, projects eg, highways and, dams nationwide, jobs have, workers are, jobs than, data of, is too, workers to, to have, we have, example we, t have, changes in, reveals wide, states to, means is, s affect')
+
+('JJS', 'latest')
+
+('VB', 'call, infrastructure get, let s, than at')
+
+('VBZ', 'eg, overstates, appears, only publishes, bls organizes, and for, bls collects, what stands, measure overstates, that is')
+
+('NNP', 'the number')
+
+100 most freq tokens after processing: 
+[('of the', 788), ('in the', 735), ('percent', 676), ('trump', 665), ('poll', 550), ('teamlogo', 543), ('one', 534), ('1', 490), ('data', 453), ('like', 390), ('verdict', 381), ('said', 378), ('our verdict', 377), ('pollster', 322), ('people', 321), ('year', 299), ('get', 292), ('number', 285), ('it s', 284), ('percent of', 278), ('to the', 276), ('point', 264), ('also', 261), ('2', 257), ('time', 252), ('on the', 252), ('10', 246), ('state', 243), ('two', 222), ('election', 214), ('11', 212), ('and the', 205), ('positive', 205), ('would', 199), ('new', 198), ('13', 192), ('polling', 192), ('u', 190), ('donald', 188), ('github', 188), ('film', 185), ('14', 182), ('many', 181), ('3', 179), ('result', 179), ('voter', 179), ('verdict positive', 178), ('%', 178), ('see', 174), ('make', 174), ('for the', 174), ('republican', 172), ('average', 171), ('12', 170), ('much', 168), ('at the', 165), ('15', 164), ('donald trump', 164), ('to be', 163), ('likely', 159), ('first', 157), ('even', 157), ('american', 157), ('woman', 152), ('may', 150), ('candidate', 149), ('rating', 149), ('in a', 148), ('league', 146), ('the data', 145), ('think', 141), ('since', 140), ('group', 140), ('don t', 140), ('neutral', 138), ('5', 137), ('president', 136), ('way', 136), ('among', 136), ('the most', 136), ('model', 132), ('question', 131), ('day', 131), ('week', 130), ('number of', 130), ('three', 129), ('i m', 129), ('16', 128), ('verdict neutral', 128), ('take', 126), ('look', 125), ('vote', 125), ('player', 125), ('last', 124), ('percentage', 124), ('win', 123), ('from the', 123), ('that the', 121), ('2014', 121), ('team', 120)]

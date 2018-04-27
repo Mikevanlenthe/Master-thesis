@@ -1,0 +1,57 @@
+Article: nba-winprobs
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 289
+Raw number of types: 163
+Raw Type token ratio: 0.5640138408304498
+
+100 most freq tokens before (pre)processing: 
+[(',', 9634), ('the', 5857), ('.', 3858), ('of', 2912), ('(', 2565), (')', 2565), ('a', 2470), ('to', 2424), ('in', 2245), ('and', 2125), ("'", 2107), ('’', 1952), ('that', 1362), ('s', 1066), ('for', 999), (':', 974), ('is', 965), ('on', 847), ('it', 809), ('are', 714), ('“', 701), ('”', 700), ('with', 647), ('at', 618), ('trump', 607), ('our', 597), ('as', 588), ('we', 583), ('by', 582), ('more', 567), ('—', 567), ('i', 541), ('but', 538), ('team-logo', 535), ('they', 506), ('this', 491), ('you', 463), ('percent', 461), ('or', 458), ('t', 442), ('who', 439), ('have', 435), ('from', 422), ('about', 418), ('than', 415), ('was', 411), ('one', 394), ('be', 388), ('verdict', 377), ('1', 365), ('polls', 359), ('were', 340), ('an', 330), ('has', 330), ('data', 322), ('not', 315), ('all', 313), ('their', 307), ('said', 297), ('like', 295), ('he', 282), ('?', 280), ('how', 274), ('if', 271), ('other', 269), ('most', 268), ('there', 267), ('so', 251), ('can', 247), ('those', 239), ('some', 235), ('what', 231), ('people', 227), ('his', 224), ('when', 221), ('which', 219), ('pollsters', 214), ('get', 210), ('out', 207), ('positive', 200), ('up', 199), ('also', 197), ('had', 193), ('just', 191), ('polling', 191), ('each', 185), ('2', 177), ('only', 175), ('poll', 175), ('donald', 174), ('do', 172), ('two', 171), ('%', 171), (';', 169), ('points', 169), ('time', 159), ('will', 157), ('github', 155), ('would', 155), ('no', 154)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 386
+Number of types: 340
+Type token ratio: 0.8808290155440415
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'nba, team, chance, minute, game, mike, beuoy, allison, mccann, basketball, get, github, github, season, chart, game, possession, play, season, win, probability, point, game, team, probability, time, score, situation, ie, foul, chart, team, ingame, probability, regulation, time, winloss, record, time, probability, model, chart, nba, season, model, simulation, game, state, atlanta, hawk, share, winloss, record, path, get, point, dominance, game, lead, hawk, contrast, quarter, comment, at 748, am every, every nba, nba team, team s, s chance, chance of, in every, every minute, minute across, across every, every game, game by, mike beuoy, beuoy and, and allison, allison mccann, basketball get, get the, the data, data on, on github, github github, github data, data at, can you, the nba, nba season, one chart, chart with, with 794, games more, more than, possessions and, and some, but we, it a, a shot, above is, is the, the 201415, season s, s win, any point, point in, in an, an nba, game each, each team, team has, has a, a probability, probability of, based on, on the, the time, remaining the, the score, the situation, situation ie, ie after, after a, shooting foul, foul etc, the chart, chart each, each team, team s, s ingame, win probability, probability is, each minute, minute of, of regulation, regulation time, time it, it s, s like, a winloss, winloss record, in real, real time, time the, the win, win probability, probability model, the foundation, the chart, data from, the model, model is, is not, rather it, best to, to reflect, reflect how, how nba, played won, won and, golden state, atlanta hawks, hawks share, similar winloss, winloss record, record but, but they, get to, that point, point the, more dominance, dominance throughout, hawks in, in contrast, contrast don, don t, t pull, pull away, the fourth, fourth quarter, quarter let, let us')
+
+('VBG', 'winning, winning, remaining, watching, finding, building, of winning, of winning, time remaining, shot shooting, like watching, often building')
+
+('VBN', 'filed, given, summarized, based, based, lost, taken, shown, probabilities summarized, not based, actually played, have shown')
+
+('NNS', 'data, data, datanbawinprobs, win probabilities, nba seasons, on simulations, it does, nba games, favorite findings, state warriors, different paths, the warriors, throughout games, insurmountable leads, own discoveries, the comments')
+
+('VBP', 'summarize, see, win, win, data, reflect, you see, score and, etc in, seasons 2000, simulations but, games are, of our, findings the, warriors and, they ve, paths to, warriors have, games often, leads the, discoveries in')
+
+('JJ', 'nba, shot, nba, shot, shooting, minute, real, foundation, nba, favorite, golden, warrior, similar, different, warrior, early, insurmountable, fourth, u, discovery, winning in, under basketball, at datanbawinprobs, datanbawinprobs can, summarize the, in one, probably not, not but, given it, at any, nba game, and the, made shot, in the, ingame win, over each, watching a, develop in, provides the, of the, uses data, to 2012, based on, lost one, our favorite, the golden, and atlanta, share a, a similar, ve taken, taken different, early insurmountable, the hawks, until the, us know, about your, your own, in the')
+
+('VBD', 'made, averaged, played, let, feb 18, mccann filed, season in, than 152000, some 372000, we ve, winning based, a made, is averaged, foundation of, from 13, and lost')
+
+('VB', 'develop, pull, know, you summarize, see above, record develop, to get, comments below')
+
+('VBZ', 'provides, what you, that provides, chart uses, does its')
+
+('JJS', 'best, its best')
+
+('JJR', 'filed under')
+
+100 most freq tokens after processing: 
+[('of the', 663), ('trump', 636), ('in the', 617), ('poll', 545), ('teamlogo', 543), ('percent', 483), ('1', 471), ('one', 452), ('verdict', 381), ('our verdict', 377), ('like', 332), ('data', 330), ('pollster', 322), ('said', 317), ('get', 254), ('year', 249), ('2', 247), ('people', 244), ('point', 243), ('number', 240), ('to the', 236), ('10', 222), ('percent of', 222), ('time', 217), ('it s', 213), ('also', 205), ('state', 203), ('election', 203), ('11', 202), ('positive', 200), ('on the', 199), ('polling', 192), ('donald', 182), ('two', 179), ('film', 179), ('verdict positive', 178), ('and the', 177), ('would', 175), ('%', 171), ('republican', 170), ('voter', 170), ('3', 169), ('13', 168), ('14', 162), ('new', 160), ('12', 160), ('donald trump', 160), ('average', 157), ('github', 155), ('u', 152), ('many', 152), ('result', 152), ('make', 149), ('rating', 148), ('league', 145), ('much', 143), ('for the', 143), ('candidate', 143), ('15', 142), ('at the', 141), ('first', 136), ('see', 136), ('president', 135), ('neutral', 135), ('to be', 133), ('even', 128), ('5', 128), ('verdict neutral', 128), ('woman', 124), ('week', 124), ('likely', 120), ('in a', 119), ('think', 117), ('way', 117), ('last', 117), ('the most', 116), ('since', 115), ('don t', 115), ('model', 114), ('team', 112), ('4', 112), ('question', 111), ('american', 111), ('race', 111), ('season', 111), ('percentage', 111), ('the data', 110), ('may', 109), ('take', 108), ('three', 108), ('i m', 108), ('clinton', 107), ('vote', 107), ('that the', 106), ('day', 106), ('among', 106), ('game', 106), ('player', 105), ('win', 104), ('number of', 104)]

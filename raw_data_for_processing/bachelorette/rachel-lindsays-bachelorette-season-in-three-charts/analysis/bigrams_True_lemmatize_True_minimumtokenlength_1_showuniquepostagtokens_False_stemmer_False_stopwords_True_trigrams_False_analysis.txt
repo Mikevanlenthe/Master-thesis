@@ -1,0 +1,59 @@
+Article: bachelorette/rachel-lindsays-bachelorette-season-in-three-charts
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 542
+Raw number of types: 267
+Raw Type token ratio: 0.492619926199262
+
+100 most freq tokens before (pre)processing: 
+[(',', 8999), ('the', 5122), ('.', 3371), ('of', 2514), ('(', 2489), (')', 2489), ('a', 2160), ('to', 2148), ("'", 2107), ('in', 1988), ('and', 1853), ('’', 1688), ('that', 1201), ('for', 911), ('s', 903), (':', 867), ('is', 836), ('it', 729), ('on', 716), ('are', 613), ('“', 606), ('”', 605), ('our', 574), ('with', 570), ('team-logo', 535), ('at', 532), ('by', 526), ('we', 520), ('as', 514), ('more', 511), ('i', 487), ('—', 484), ('but', 466), ('trump', 436), ('this', 432), ('they', 424), ('you', 415), ('t', 405), ('have', 384), ('or', 380), ('verdict', 377), ('than', 368), ('from', 368), ('percent', 366), ('was', 363), ('about', 357), ('polls', 357), ('1', 356), ('be', 348), ('who', 345), ('one', 340), ('an', 297), ('data', 281), ('has', 280), ('their', 279), ('like', 279), ('all', 275), ('were', 273), ('said', 262), ('not', 261), ('if', 251), ('he', 248), ('most', 245), ('there', 237), ('how', 230), ('other', 229), ('?', 224), ('can', 222), ('so', 218), ('pollsters', 214), ('some', 211), ('when', 203), ('those', 201), ('what', 199), ('his', 196), ('positive', 196), ('polling', 191), ('which', 187), ('people', 185), ('get', 183), ('out', 183), ('up', 182), ('also', 179), ('had', 172), ('donald', 170), ('2', 170), ('poll', 170), ('each', 167), ('just', 163), ('points', 158), ('%', 157), ('only', 155), ('do', 152), ('two', 151), (';', 146), ('new', 143), ('will', 143), ('its', 140), ('election', 140), ('league', 140)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = True
+lemmatize = True
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = True
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 723
+Number of types: 629
+Type token ratio: 0.8699861687413555
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'rachel, data, data, men, men, men, men, rachel, men, others, rachel, men, aug, three charts, and rachel, two men, sent suitors, windswept vineyards, it seems, hopeful men, other men, the men, ticklemonster weren, rachel shudders, persevered rachel, the men, first impressions, the others, date roses, to suitors, on oneonones, of suitors, her men, international destinations, hometown dates, reporting contributions')
+
+('VBP', 'lindsay, lindsay, peter, rachel lindsay, charts she, rachel lindsay, men she, eric and, peter home, vineyards of, seems like, men and, we end, all those, whaboom and, weren t, shudders despite, men who, who made, impressions and, others of, that rachel, rachel gave, suitors who, who didn, of the, oneonones as, suitors not, you re, peter in, were also, were all, dates it, we re, contributions by')
+
+('NNP', '‘, …, ‘ bachelorette, … who')
+
+('NN', 'bachelorette, season, chart, ella, koeze, gu, wezerek, tv, get, github, github, databachelorette, threehour, conclusion, season, bachelorette, rachel, love, choice, suitor, peter, home, abasolo, proposal, vineyard, la, rioja, spain, year, doll, love, week, end, eric, end, bryan, season, get, appreciation, everything, rachel, endure, whaboom, ticklemonster, jack, stone, dream, lock, door, shudder, rachel, impression, waste, time, date, season, suitor, end, picking, date, week, example, rachel, oneonone, date, matt, adam, group, date, peter, chart, show, rachel, attention, number, suitor, strategy, find, husband, tv, everyone, bachelorette, bracket, pool, dean, bryan, drama, rachel, globe, journey, find, love, travel, season, destination, europe, rachel, slice, ol, hometown, date, ride, rachel, bachelor, nation, love, story, bachelor, pm, article, season, reporting, contribution, walt, s ‘, bachelorette season, wasn t, messing around, around by, by ella, ella koeze, koeze and, and gus, gus wezerek, tv get, get the, the data, data on, on github, github github, github data, data at, at databachelorette, finale the, the threehour, live conclusion, conclusion to, to season, of the, the bachelorette, bachelorette and, s quest, quest for, for love, love didn, down to, to a, typical choice, choice between, bryan abasolo, abasolo s, s proposal, the windswept, la rioja, rioja spain, one doll, stepped out, out of, for love, love and, weeks have, passed how, did we, end up, eric peter, peter and, the end, end bryan, happened to, to all, looking back, back at, this season, season we, we get, get a, fresh appreciation, everything rachel, to endure, remember how, how whaboom, remember jack, jack stone, stone s, s dream, dream to, to just, just lock, lock the, the door, door and, and lay, lay in, with rachel, this rachel, didn t, t waste, much time, time on, on the, the 18, gave out, the season, five went, went to, t end, end up, final four, four she, selective in, picking who, who she, go on, with in, in week, example rachel, rachel could, given one, one of, available oneonone, to matt, matt or, or adam, adam who, been on, on group, she spent, spent them, dean bryan, bryan and, and peter, peter who, already gone, gone on, the chart, her attention, on a, worst strategy, strategy if, if you, trying to, to find, a husband, husband but, but it, it made, made for, predictable tv, tv almost, almost everyone, the fivethirtyeight, fivethirtyeight bachelorette, bachelorette bracket, bracket pool, bryan and, and peter, final four, four throughout, throughout all, all the, the drama, drama rachel, rachel and, roaming the, the globe, metaphorical journey, journey to, find love, love would, watching without, actual travel, travel this, this season, western europe, europe and, was some, fighting but, but rachel, rachel did, to see, substantial slice, the good, good ol, ol usa, choosing a, final four, four for, been a, wild ride, ride for, for rachel, rachel and, and bachelor, bachelor nation, nation but, but we, ready to, to move, move on, on to, to a, love story, story so, so …, to be, be the, next bachelor, bachelor 1, pm this, this article, article was, after the, the season, additional reporting, by walt, walt hickey')
+
+('VBG', 'messing, accepting, lastmanstanding, looking, looking, trying, roaming, watching, viking, fighting, choosing, going, t messing, before accepting, accepting lastmanstanding, limo looking, men looking, for everything, out during, in picking, re trying, also roaming, worth watching, pretty boring, some viking, viking fighting, by choosing, s going')
+
+('VBN', 'filed, published, bed, persevered, made, given, gone, have passed, t eliminated, rachel focused, have given, rachel concentrated, was updated')
+
+('JJ', 'oof, finale, live, typical, eric, bryan, hopeful, limo, peter, fresh, rachel, strong, first, much, final, selective, available, dean, bryan, oneonones, limited, predictable, fivethirtyeight, final, metaphorical, actual, international, boring, see, substantial, good, usa, diverse, final, wild, ready, new, next, update, finale, additional, hickey, lindsay s, in three, she wasn, under tv, published aug, what a, a finale, threehour live, lindsay s, t come, come down, a typical, between two, she sent, suitors eric, lastmanstanding bryan, amongst the, of la, spain it, like 11, that limo, looking for, how did, up with, with eric, in the, at the, eliminated this, a fresh, had to, the ticklemonster, immediately remember, bed with, all this, on the, made strong, strong first, and didn, waste much, of the, during the, only five, didn t, in the, the final, similarly selective, would go, dates with, for example, the three, three available, dates to, only been, dates instead, instead she, them with, with dean, had already, as the, limited number, number of, not the, the worst, find a, for predictable, in the, had dean, dean bryan, in their, their final, globe no, no metaphorical, be worth, without actual, s international, all in, in western, there was, get to, see a, a substantial, of the, usa by, geographically diverse, diverse final, for hometown, it s, s been, a wild, re ready, new love, going to, the next, update aug, updated after, season finale, finale additional')
+
+('JJS', 'quest, worst')
+
+('VB', 'come, remember, remember, go, worth, get, move, endure remember, despite all, could have, did get')
+
+('VBD', 'sent, stepped, passed, happened, eliminated, eliminated, lay, focused, rose, gave, went, spent, concentrated, made, updated, season in, wezerek filed, databachelorette published, season 13, doll stepped, what happened, men eliminated, rachel had, in bed, rachel persevered, she was, she would, week 7, who had, who had, a limited, everyone in, pool had, would be, season s, slice of, a new')
+
+('VBZ', 'amongst, seems, didn t, that 31, only 11, and in, on dates, oneonone dates, group dates, chart shows, who s')
+
+('JJR', 'filed under, those other, concentrated her')
+
+100 most freq tokens after processing: 
+[('of the', 575), ('teamlogo', 543), ('poll', 538), ('in the', 538), ('trump', 465), ('1', 462), ('one', 394), ('percent', 388), ('verdict', 381), ('our verdict', 377), ('pollster', 322), ('like', 315), ('data', 289), ('said', 282), ('2', 239), ('year', 229), ('get', 226), ('point', 221), ('number', 220), ('10', 210), ('to the', 203), ('people', 202), ('state', 196), ('election', 196), ('positive', 196), ('11', 195), ('polling', 192), ('it s', 189), ('also', 187), ('donald', 178), ('verdict positive', 178), ('time', 177), ('percent of', 168), ('on the', 166), ('two', 159), ('3', 158), ('13', 158), ('%', 157), ('would', 156), ('donald trump', 156), ('and the', 155), ('new', 151), ('republican', 151), ('14', 151), ('average', 149), ('12', 143), ('league', 143), ('film', 140), ('rating', 140), ('result', 139), ('candidate', 137), ('make', 136), ('many', 135), ('neutral', 133), ('much', 132), ('for the', 130), ('15', 130), ('github', 129), ('verdict neutral', 128), ('see', 125), ('at the', 124), ('to be', 123), ('u', 120), ('first', 117), ('even', 117), ('5', 115), ('model', 111), ('team', 109), ('don t', 109), ('way', 108), ('last', 107), ('race', 107), ('likely', 106), ('the most', 106), ('american', 105), ('4', 105), ('think', 103), ('day', 103), ('player', 103), ('percentage', 102), ('since', 101), ('clinton', 100), ('game', 100), ('woman', 99), ('i m', 99), ('in a', 99), ('national', 99), ('firm', 99), ('take', 98), ('may', 98), ('hillary', 97), ('error', 96), ('17', 96), ('16', 96), ('number of', 96), ('three', 95), ('more than', 95), ('win', 94), ('the data', 94), ('use', 93)]
