@@ -1,0 +1,64 @@
+
+
+
+May 19, 2017
+						at
+						8:00 AM
+
+
+
+							The Battle For Riddler Nation, Round 2						
+
+
+
+Edited by Oliver Roeder
+Filed under The Riddler
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Illustration by Guillaume Kurkdjian
+
+
+
+Welcome to The Riddler. Every week, I offer up problems related to the things we hold dear around here: math, logic and probability. There are two types: Riddler Express for those of you who want something bite-sized and Riddler Classic for those of you in the slow-puzzle movement. Submit a correct answer for either,1 and you may get a shoutout in the next column. That’ll be in two weeks — the Riddler and I are headed on vacation. If you need a hint, or if you have a favorite puzzle collecting dust in your attic, find me on Twitter.
+Riddler Express
+From Jerry Meyers, a careening commute problem:
+Four co-workers carpool to work each day. A driver is selected randomly for the drive to work and again randomly for the drive home. Each of the drivers has a lead foot, and each has a chance of being ticketed for speeding. Driver A has a 10 percent chance of getting a ticket each time he drives, Driver B a 15 percent chance, Driver C a 20 percent chance, and Driver D a 25 percent chance. The state will immediately revoke the license of a driver after his or her third ticket, and a driver will stop driving in the carpool once his license is revoked. Since there is only one police officer on the carpool route, a maximum of one ticket will be issued per morning and a max of one per evening.
+Assuming that all four drivers start with no tickets, how many days can we expect the carpool to last until all the drivers have lost their licenses?
+Submit your answer
+Riddler Classic
+Back by popular demand, it’s the Battle for Riddler Nation! The benevolent reign of Cyrus Hettle, who won the inaugural battle back in February, is over, and it’s time for a new king or queen to be crowned. Here are the rules:
+In a distant, war-torn land, there are 10 castles. There are two warlords: you and your archenemy, with whom you’re competing to collect the most victory points. Each castle has its own strategic value for a would-be conqueror. Specifically, the castles are worth 1, 2, 3, …, 9, and 10 victory points. You and your enemy each have 100 soldiers to distribute, any way you like, to fight at any of the 10 castles. Whoever sends more soldiers to a given castle conquers that castle and wins its victory points. If you each send the same number of troops, you split the points. You don’t know what distribution of forces your enemy has chosen until the battles begin. Whoever wins the most points wins the war. Submit a plan distributing your 100 soldiers among the 10 castles.
+But this time, you’ve got some valuable game theoretic intel. We posted all the earlier battle plans on GitHub, and the chart below shows the distributions of soldiers from the first battle.
+Once I receive all your battle plans, I’ll adjudicate all the possible one-on-one matchups. Whoever wins the most wars wins the battle royal and is crowned king or queen of Riddler Nation! Analyze. Adapt. Conquer. Rule!
+Submit your plan
+
+
+
+Solution to last week’s Riddler Express
+Congratulations to 👏 Tahna Hekhuis 👏 of Santa Barbara, California, winner of last week’s Express puzzle!
+You are handed a particular strange shape. Can you cut it into three pieces and reassemble them to form a square? The puzzle’s submitter, Diarmuid Early, provided the following solution, which first appeared in a book of math puzzles he co-authored.
+It’s hard to have a systematic approach to this problem. All we can really do is experiment. Because there were 81 individual squares, it’s easy to see that that the square to be formed must of be side length nine. (\(9^2 = 81\).) If we remove a strip of nine squares from the bottom of the figure, we can then deconstruct the rest of the shape into an eight-by-nine rectangle, and add our strip to the side like so:
+
+
+
+Solution to last week’s Riddler Classic
+Congratulations to 👏 Haydon Bambury 👏 of London, winner of last week’s Classic puzzle!
+This week, it’s a video solution!
+
+Want to submit a riddle?
+Email me at oliver.roeder@fivethirtyeight.com.
+
