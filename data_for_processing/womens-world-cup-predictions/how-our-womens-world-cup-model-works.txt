@@ -1,0 +1,126 @@
+
+
+
+Jun. 2, 2015
+						at
+						11:03 AM
+
+
+
+							How Our Women’s World Cup Model Works						
+
+
+
+By Jay Boice and Nate Silver
+Filed under Soccer
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Christine Sinclair of Canada beats Hope Solo of the United States during a match at the 2012 Olympic Games.							Jamie McDonald / FIFA / Getty Images
+
+
+				Christine Sinclair of Canada beats Hope Solo of the United States during a match at the 2012 Olympic Games.									Jamie McDonald / FIFA / Getty Images
+
+
+
+Check out FiveThirtyEight’s Women’s World Cup predictions.
+Women’s sports don’t have the same rich data that men’s sports do. So what do you do if you want to forecast the Women’s World Cup? You gather up everything you can get.
+We put together a database of about 8,000 international women’s soccer matches since 1971 — as many games as we could find. And we used these to develop a set of women’s national team ratings — we call them WSPI (Women’s Soccer Power Index) — and projections for the 2015 World Cup. The United States and Germany enter as front-runners, and you can read more about all the elite teams, the dark horses and the players to watch in our colleague Allison McCann’s World Cup preview. We’re here to take you through the methodology behind these projections.
+WSPI ratings are based on a simplified version of the Soccer Power Index (SPI), a system that Nate developed in conjunction with ESPN in 2009 to rate men’s soccer teams. Men’s SPI is based on two components: a team rating derived from scores of international matches and a player rating, which is primarily based on results from club play for the individual players on each national team’s roster. For WSPI, we use only the team ratings component because detailed data on club play is not readily available for women’s soccer.
+Otherwise, the major features of WSPI are similar to the team-rating component of SPI:
+
+Ratings account for the final score of each match, including whether the match went into extra time or a shootout, and the location of the game.
+Ratings also account for the importance of the match: A World Cup match counts far more than a friendly.
+A team’s rating varies continuously over time. For example, China had a considerably stronger WSPI in 1999, when it played the United States in the World Cup final, than they do now.
+WSPI ratings, like SPI ratings, are broken down into offensive and defensive components. The offensive rating can be interpreted as how many goals we would expect the team to score in an average competitive international match,1 while the defensive rating is how many goals it would concede in such a match, controlling for strength of schedule. Higher offensive ratings are better. Lower defensive ratings are better.
+The offensive and defensive components are combined into an overall WSPI rating, which reflects the percentage of possible points we would expect the team to score in a hypothetical round-robin tournament against every other team in the world.
+
+Let’s look at a more detailed example of how a team’s WSPI rating is calculated. Here are some of the United States’ recent results, along with the ratings the team received for each match and the weight WSPI gives to the match:
+
+
+
+
+DATE
+LOCATION
+COMPETITION
+OPPONENT
+SCORE
+WEIGHT
+OFF. RATING
+DEF. RATING
+
+
+
+
+7/25/12
+Glasgow, Scotland
+Olympics
+France
+4-2
+0.80
+8.1
+1.3
+
+
+7/28/12
+Glasgow, Scotland
+Olympics
+Colombia
+3-0
+0.80
+3.1
+0.1
+
+
+10/15/14
+Kansas City, Kansas
+World Cup qualifier
+Trinidad & Tobago
+1-0
+0.96
+0.3
+0.4
+
+
+10/24/14
+Chester, Pennsylvania
+World Cup qualifier
+Mexico
+3-0
+0.96
+3.1
+0.1
+
+
+3/11/15
+Faro, Portugal
+Friendly
+France
+2-0
+0.28
+4.3
+-0.3
+
+
+
+You can see some of the key features of WSPI in these examples (a team’s overall offensive and defensive ratings are a weighted average of these game-by-game ratings). The USWNT’s March 11, 2015, match against France receives relatively little weight, even though it was played fairly recently, because it was a friendly. The 2012 Olympics still receive quite a lot of weight, however, given their importance.2 (The maximum possible weight for a match, in case you’re wondering, is 1.68.)
+Meanwhile, you can see how much strength of schedule matters in WSPI. The USWNT gets a higher offensive rating for beating France 2-0 than for beating Mexico 3-0 because France has a tougher defense. It’s not uncommon for a team to win a match against a weak opponent but receive poor adjusted ratings because it didn’t win by as much as WSPI expected. Conversely, a team can receive a good offensive rating just by scoring on a very good team, even if it loses. The location of a match is also important: Home advantage in competitive matches has historically been worth about 0.35 goals and would make the home team about a 60-40 favorite in a matchup between two equally rated teams.
+Once we’ve generated WSPI ratings for every team in the world, we can estimate the probability that any team will beat any other team.3 More specifically, we first calculate the expected number of goals that each team will score in a given match and then convert these into a matrix of possible outcomes using Poisson distributions. Thus, in any given match, we’ve estimated the probability that it will end in a 0-0 tie, a 1-0 victory, a 2-3 loss or any other possible scoreline. Knowing this distribution of possible scores is important because the tiebreaker to advance to the knockout stage of the World Cup takes goals scored and allowed into account.
+With these individual match probabilities in hand, we can calculate the chance that each team in the tournament will advance to the knockout round or eventually win the tournament. To do so, we simulate the tournament 20,000 times: If the U.S. has a 28 percent chance of winning the tournament, this means that it won in approximately 5,600 out of 20,000 simulations. As simulations are played out, each team’s WSPI is updated to reflect its results in that simulation. Loosely speaking, this accounts for the possibility that a team will “get hot” during the tournament and considerably outperform its pre-World Cup WSPI.4
+Matches in the knockout round continue into extra time if they are tied at the end of regulation and a shootout if tied after that, so we’ve spent some time making sure our simulations handle these cases accurately. Extra time is treated as a shortened match in which teams score at a slower rate than during regulation.5 Shootout win probabilities are also derived from WSPI instead of being treated as random. There is evidence that shootouts are skill-based — the team with the better WSPI rating has won 58 percent of shootouts in our database — but good teams don’t tend to be as dominant in shootouts as they are in regular time. For example, the USWNT would be more than a 90 percent favorite to beat Thailand in a regular game, but only a 71 percent favorite to win in a shootout. For this reason, it’s usually in the interest of the weaker team to play for a shootout even though it’d be an underdog if one occurred.
+Have any more questions? See Nate’s 2009 article and FAQ for more of the technical details and philosophy behind SPI, most of which also apply to WSPI. Or drop us a note here. We hope you’ll enjoy following the women’s tournament with us.
+

@@ -1,0 +1,84 @@
+
+
+
+Oct. 13, 2014
+						at
+						6:02 AM
+
+
+
+							Comic Books Are Still Made By Men, For Men And About Men
+
+
+
+By Walt Hickey
+Filed under Comic Books
+
+Get the data on GitHub
+GitHub data at data/comic-characters
+
+
+
+FacebookTwitterEmail
+
+
+
+
+
+
+
+
+
+
+
+
+
+			Cosplayers attend Comic-Con International 2014 on July 25, 2014 in San Diego, California.							Mark Davis / Getty Images
+
+
+				Belinda Sainz, left, and Bersain Gutierrez portray the characters Phoenix and Superman during the 45th annual San Diego Comic-Con on July 24, 2014 in San Diego, California.									T.J. Kirkpatrick / Getty Images
+
+
+
+To say the comic book industry has a slight gender skew is like saying Superman is kind of strong. Comic books — much like the film industry they now fuel — vastly under-represent women. The people who write comic books, particularly for major publishers, are overwhelmingly men. The artists who draw them are, too. The characters within them are also disproportionately men, as are the new characters introduced each year.
+The big two comic publishers, DC Comics and Marvel,1 have taken note of this disparity and are trying to diversify their offerings. Marvel just published the first issue of a series introducing a new, female Thor, and the science fiction blog io9 recently praised DC Comics for upgrading Batgirl’s costume to “the best damn superheroine outfit ever.”
+But these recent advancements don’t make up for the fact that women have been ignored in comic books for decades. And they still don’t bring women anywhere close to parity: Females2 make up about one in four comic book characters.
+Among comic-creators, the numbers are even more discouraging. Tim Hanley, a comics historian and researcher, analyzes who’s behind each month’s batch of releases, counting up writers, artists, editors, pencilers and more. In August, Hanley found that men outnumbered women nine-to-one behind the scenes at both DC and Marvel. He also estimated that 79 percent of people working on comics this year were white.
+Part of this strong skew towards male comic book characters — and male writers — may be due to whom publishers have perceived their audience to be. Jason Aaron, who has been writing “Thor” for about two years and is heading up the new female-led series, explained that the comic book business painted itself into a demographic corner. “Over time, we started to appeal to the same, dwindling fans,” he said, adding, “I don’t say that derisively, because I’m at the heart of that dwindling group of fans, and always have been.” (Aaron is male, white and 40 years old.) During the 1960s and ’70s, comic books moved from grocery store newsstands to specialized shops, which mostly catered to a young, white, male audience. Once that happened, Aaron said, the industry lost a way to attract new fans.
+Because the vast majority of the $365 million market is spent in those comic book shops, many of which are independently owned, demographic data on buyers has been difficult to track. What information does exist — collected by DC, Marvel or Diamond Comic Distributors3 — isn’t publicly available. Consequently, it’s been particularly difficult for the comic book industry to find out who its readers are, said John Jackson Miller, who runs Comichron, a site that monitors detailed sales data for the comic book industry. There have been a number of attempts to count how many readers are women, but none was comprehensive enough.
+And yet, comic book convention attendance breaks close to even between genders, Aaron said. This could be evidence that the audience is broader than the industry has long believed, or that its efforts to appeal to new and more diverse readers are working. New readers, who may have been intimidated by the traditional comic book shop, can now find comics online, and digital sales are booming.
+“Digital becoming the new newsstand for us has been huge,” Aaron said. “You see a book like ‘Ms. Marvel’ doing so well digitally. That book has great digital sales. Clearly it’s reaching an audience we haven’t been reaching before through our longstanding distribution system.”
+“Ms. Marvel,” created by G. Willow Wilson, frequently comes up in talk about how the industry is changing. It stars a Muslim Pakistani girl living in Jersey City named Kamala Khan who becomes an unlikely superhero. Even more unlikely is the series’ success.
+“I think when we were discussing the creation of this character, she was the trifecta of death,” Wilson said. “She was a new character, and new characters do not tend to do well. She was a girl — female characters do not tend to do well. And she was a minority, and minority characters do not tend to do well.”
+Wilson and the rest of the book’s creative team went into the project thinking they’d be lucky to get seven issues out of the character. But the book has developed a devoted following online, and has posted solid numbers for a newcomer. With the ninth issue coming out mid-October and a trade paperback collection coming soon, “Ms. Marvel” has vastly exceeded those expectations. “We never assumed she would become the bestselling female-led title at Marvel,” Wilson said. “That was not even on our radar.”
+Ms. Marvel is one of just 3,599 female characters in Marvel’s universe. To arrive at that number, I pulled data from the Marvel and DC Wikia databases. The sites are fan-maintained, so as with any data of this nature, take it with the standard caveat that it’s only as good as the people updating it. Still, these two sites are the best resources for this kind of information.
+I pulled a list of characters6 from the two mainstream universes of each publisher. This left me with 6,896 unique characters from DC and 16,376 unique characters from Marvel.
+Once I had the list of characters of interest, I also pulled data from different categories on each Wikia — sex and sexuality, hair color, eye color, whether the characters were good guys or bad guys or neutral, whether they had secret identities, and whether they were alive or dead.
+The Wikias also count up the number of appearances of each character in the comic books they have in their databases. I was able to pull appearance counts for 6,541 of the DC characters and 15,280 Marvel characters. Since I’m also interested in how female representation has changed over time, I pulled the month and year of the first issue each character appeared in. I got first-appearance data for 6,827 DC characters and 15,561 Marvel characters.
+<bar>Women were substantially underrepresented among characters with at least one appearance. Among the characters for which we have gender data,12 females made up only 29.3 percent of the DC character list and 24.7 percent of the Marvel roster.</bar>
+<bar>The same trend bears out when we look at characters with higher appearance counts. When we zero in on the 2,415 DC and 3,342 Marvel characters with gender data who appear at least 10 times — the set of characters that probably gives the most consistent view of what we see on the page — female characters make up only 30.9 percent of the DC universe and 30.6 percent of the Marvel universe.</bar>
+When we focus on only the most frequently appearing characters in each universe — the stars of the show — the data changes. <bar>Of characters with gender data and 100 or more appearances (294 DC characters and 414 Marvel characters), only 29.0 percent of DC’s are female, and a similar 31.1 percent of the Marvel crowd is.</bar>
+Miller says one possible reason we see DC with a slight advantage over Marvel in the raw character counts is that DC was more willing to create female counterparts to its well-known heroes — Batwoman, Supergirl, etc. — while Marvel avoided derivative characters early on. When Marvel did start creating female versions of its mainstream heroes in the 1970s, it was for strictly financial reasons. For example, Spider-Woman and She-Hulk, Miller said, “were eyed as attempts by Marvel to stake out trademarks.”
+And even then, the characters were often neglected. “‘Spider-Woman’s’ cancellation in 1983 after 50 issues was notoriously unceremonious,” Miller said. “A single line of text declared the series was ending, pasted onto a story page that established that Spider-Woman had never existed in the Marvel universe, and that everyone would magically forget her!”
+<line>So we know that, historically speaking, the two big publishers don’t have an awesome relationship with women. Has much changed? Looking at each year since 1961 — the year that modern Marvel comics start — we can see the number of characters introduced each year for each publisher.
+
+Counting up the aggregate number of male, female and gender non-conforming characters (more on gender and sexual minorities later) released each year, we can figure out how the state of gender parity has changed over time in each universe. Both universes have steadily come closer to gender parity, but each still faces a difficult-to-overcome imbalance.</line>
+
+We can then get an annual rate of the percentage of new characters introduced each year who are female.
+
+You’ll see that — despite public attempts to pivot toward diversity — neither Marvel nor DC is introducing female characters at a rate approaching gender parity. While each publisher is certainly beating earlier ratios, new characters introduced still don’t reflect reality, where men and women each make up about half the population.
+Still, there has been some negative reaction from longtime fans to the industry’s move to include more female characters. Marvel published one letter criticizing the story change in “Thor #1”: “I can’t recall another moment where my perception of a particular creator (i.e., you) shifted so quickly and so negatively,” wrote Oscar Nunez, who went on to call the new Thor an obvious gimmick. “You’ve veered off course and so quickly alienated at least this one long-time, die-hard fan.”
+“I think if we’re going to say ‘a new character is going to pick up the hammer and it’s a random dude,’ I don’t think we would have got the same backlash from folks,” Aaron said. “I think just the fact that it was a female character had a lot to do with that. And that’s really disappointing.” (The backlash hasn’t stopped the book from being one of the top-selling digital titles for two weeks straight.)
+When we look at what kinds of characters women are, another unfortunate picture emerges: There’s evidence that women are more passive than men on the page.
+<bar>Women and men were almost exactly equally likely to have a secret identity in the Marvel universe (49.4 percent of males and 49.5 percent of females), while in the DC universe 51 percent of males had a secret identity and 45 percent of females did. While it’s not a perfect stand-in, we can also infer that men may be slightly more likely to be superheroes or villains — rather than just normal, unpowered side characters — than women in the DC universe.</bar>
+In both DC and Marvel, women were of neutral allegiance at a higher rate than men. Men were also more likely to be bad in each universe — in fact, bad-aligned men alone outnumbered all women combined. In other words, there’s something of a paucity of female villains.
+
+Publishing houses have also sought to introduce more gay, lesbian, bisexual and transgender characters into their stories. In some cases, both DC and Marvel have retroactively categorized a longstanding character as LGBT. <line>But in recent years, a number of explicitly gender- and sexual-minority characters have been introduced. While it’s barely a blip in the whole data set, the chart below shows the recent introduction of LGBT characters over time.</line>
+
+The work to get more women in comics — and more women creating comics — has been going on for years. Decades of scholarship have looked into how women are portrayed on the page, and thriving communities are discussing each and every one of these points and more.
+And while it’s not too surprising that so few women appear in comics today, people are talking about characters like the new Thor and Ms. Marvel because they feel change is happening in an industry and community that for years has had unwelcoming attitudes toward women.
+Both Aaron and Wilson credit much of this change to the fans. Wilson saw a major leap forward as people within the industry and fans themselves became more vocal about the harassment of women at comic book conventions. And in the past several years, comics have been rocked by a series of scandals when writers were called out by women for harassment. The fact that people now feel comfortable enough to report these events — or even to talk about them a tall — is a win, Wilson said.
+Wilson said attitudes among creators have come a long way over the last decade, too. In the early 2000s, she said, open misogyny, and pornography, generally ruled creator forums, and discussions about gender were promptly spiked. Compare that with this past weekend at New York Comic Con, where Wilson and a dozen other female panelists spoke onstage about women and comics. “There’s at least an acknowledgment that these issues exist,” she said.
+But the goal is still to see women hit the top of the charts. “I think we know that things are excellent when we can get at least one female-led comic book title into the top 10 or even the top five monthly bestselling comic book titles,” Wilson said. “That would be great.”
+CORRECTION (Oct. 14, 9:30 a.m.): An earlier version of this article and one of its charts misstated the name of the universe continuity analyzed for DC Comics. It was New Earth, not Earth-Two.
+

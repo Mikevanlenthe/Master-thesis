@@ -1,0 +1,114 @@
+
+
+
+Jul. 25, 2014
+						at
+						6:01 AM
+
+
+
+							What is Americans’ Favorite Global Cuisine?
+
+
+
+By Nate Silver and Walt Hickey
+Filed under FiveThirtyAte
+
+
+FacebookTwitterEmail
+
+
+
+
+
+
+
+
+
+
+
+
+
+Illustration by Ben Buysse
+
+
+Illustration by Ben Buysse
+
+
+
+During the World Cup, we wondered how the countries would fare if it wasn’t their soccer teams but their national cuisines playing for glory. So we launched the FiveThirtyEight International Food Association’s (FIFA) 2014 World Cup.
+The group phase of the competition identified a few front-runners. Some, such as Italy, are also good at soccer. (The Italians might have done better in the soccer World Cup, but Uruguay’s Luis Suarez, apparently confused about which tournament he was playing in, decided to take a bite out of one of them). Others countries, like Mexico, will have a chance to avenge their soccer disappointments. We also introduced a few ringers, such as China, that didn’t qualify for the soccer World Cup but that belong in any discussion of the world’s best cuisines.
+Because the competition is based on surveying Americans, we mostly wound up with a bracket full of the general pantheon of takeout cuisine; the competition will get tougher now that almost all the remaining cuisines are familiar to Americans. The United States itself is also a threat, having skated through the group stage undefeated. It will face Belgium in the Round of 16, just as it did in the soccer World Cup.
+To play out the rest of the tournament, we ran a fresh series of surveys through SurveyMonkey Audience, each with about 725 respondents. We put each country head to head, just as they would be in the knockout phase of the World Cup. Respondents were also allowed to say they couldn’t choose between the two.
+In addition to revealing their food preferences, respondents were rated on a six-point scale depending on how much interest and experience they claimed to have in international cuisine. As during the group phase, we weighted the results of more experienced voters more heavily — we called those voters “likely eaters.” This turned out to make a big difference in at least one knockout-phase matchup.
+Here’s how it went down.
+
+Round of 16
+Total of 723 respondents, weighted by likely eaters, June 26
+
+<pie>Mexico beats Ethiopia, 81 percent to 9 percent (10 percent undecided)</pie>
+<pie>Japan beats Vietnam, 58 percent to 21 percent (21 percent undecided)</pie>
+<pie>France beats Argentina, 54 percent to 23 percent (23 percent undecided)</pie>
+<pie>United States beats Belgium, 68 percent to 16 percent (17 percent undecided)</pie>
+<pie>Spain beats Brazil, 42 percent to 22 percent (36 percent undecided)</pie>
+<pie>Italy beats Greece, 62 percent to 19 percent (19 percent undecided)</pie>
+<pie>China beats Cuba, 59 percent to 26 percent (15 percent undecided)</pie>
+<pie>Thailand beats Germany, 52 percent to 33 percent (15 percent undecided)</pie>
+
+Generally speaking, there was nothing too shocking in this round. All of the favorites won, just as in the Round of 16 in the soccer World Cup.
+The closest contest was Thailand against Germany. <bar>Had we used unweighted responses, it would have been even closer, with Thailand winning by 45 percent to 37 percent — but its margin increased when weighting by culinary experience</bar>. Germany will have to content itself with having possibly the best national soccer team ever assembled.
+Spain vs. Brazil produced a lot of equivocation; more than a third of respondents couldn’t choose between them. But Spain won over people able to choose by a 2-to-1 margin. Still, this was an underwhelming win for Spain after having gone undefeated in the group stage. They’ll have to cook up a better result to have any chance against Italy in the quarterfinals.
+Mexico crushed Ethiopia, taking 81 percent of the vote. The battle of the Ionian Sea — Italy vs. Greece — proved to be nearly as one-sided.
+More gratifyingly, the U.S. routed Belgium, racking up 68 percent of the vote to Belgium’s frankly laughable 16 percent. When we consider a matchup between the Belgians and the U.S., the limitations of Belgian cuisine come out in force. Their most well-known breakfast food, the waffle, is the Spirit Airlines of the breakfast buffet: You go with it only when there’s nothing else available. And Belgian fries are even worse. When “pour mayonnaise on it” is how a civilization tries to spice up its food, something is wrong.
+In fairness to Belgium, we’re probably not over that soccer game.
+There are some epic matchups in the quarterfinals. This round is where the titans of the takeout menu go at it.
+
+Quarterfinals
+727 respondents, weighted by likely eaters, July 1
+Three of the matches had a clear winner:
+
+<pie>Italy beats Spain, 79 percent to 10 percent (11 percent undecided)</pie>
+
+We saw Italy as the favorite going into the competition, but we didn’t expect such a dominant performance (it’s not just Americans gorging themselves on all-you-can-eat mozzarella sticks either). <bar>Among respondents rated at five or above on the six-point likely eater scale, Italy won by nearly as wide a margin, 75 percent to 11 percent.</bar>
+
+<pie>Mexico beats Japan, 57 percent to 29 percent (15 percent undecided)</pie>
+
+We’re happy about Mexico advancing, but there is some evidence that Japanese food involves more of a learning curve. <bar>Mexico won 73 percent to 13 percent among the least adventurous eaters — those who rated themselves two or below on the likely eater scale. But it was considerably closer — Mexico 45 percent, Japan 31 percent — among those rated at five or above.</bar>
+
+<pie>United States beats France, 60 percent to 28 percent (12 percent undecided)</pie>
+
+In defense of the French, the survey population may have included a few of those people who called fried potatoes “freedom fries” a few years ago. <bar>Among voters rated at two or below on the likely eater scale, the U.S. won 80 percent to 10 percent. But France edged the U.S., 46 percent to 42 percent, among respondents rated at five or above.</bar>
+
+<pie>Thailand beats China, 46 percent to 39 percent (15 percent undecided)</pie>
+
+Finally, we have a contest where the likely eater adjustment swung the outcome. <bar>The raw vote count slightly favored China, 44 percent to 38 percent. But Thailand did better among the likeliest eaters.</bar>
+Actually, the story is slightly more nuanced than that. Let’s look at the vote in more detail:
+
+China crushed Thailand among the voters lowest on the likely eater scale, although there were a significant number of undecideds. Thailand dominated among voters rated at four or five. Because those votes are weighted more heavily, it prevailed in our contest.
+But look at what happened among the voters rated at six on the likely eater scale. It’s a tiny sample size — only 16 respondents — but the vote was nearly even (Thailand eight votes, China seven, one undecided). It may be a statistical fluke — but it seems plausible to us that these super-foodies may have been able to experience the sort of Chinese food only available in a few parts of the country, such as New York and California. We’re talking places like Spicy & Tasty and Xi’an Famous Foods, which venture beyond General Tso’s chicken and into all sorts of regional delights.
+Not to take anything away from Thailand, which retains its undefeated record in the tournament and advances to the semifinals against Italy. In the other semifinal, Mexico and the U.S. will engage in a battle for North American culinary supremacy.
+Semifinals
+732 respondents, weighted by likely eaters, conducted July 2
+
+<pie>Italy beats Thailand, 61 percent to 24 percent (15 percent undecided)</pie>
+
+Let’s take a moment to appreciate Thailand. Its miracle run started with its seeding as a wildcard squad — Thailand is known for many things, and one of them is not soccer — and continued with going 4 and 0 against Belgium, South Korea, Algeria and Russia in its division. We saw it knock out Germany and then shock everyone by downing culinary juggernaut China. But in this battle of peninsular nations with strong culinary traditions, Italy pulls off a decisive win.
+<bar>The results were somewhat closer among the likeliest eaters — Italy won 47 percent to 33 percent among respondents rated at five or above on the scale.</bar> But as we identified at the outset of the competition, what makes Italy so dangerous is that it’s the cuisine that food snobs and food noobs can agree on.
+The other result was much closer:
+
+<pie>United States beats Mexico, 44 percent to 38 percent (18 percent undecided)</pie>
+
+It was fun to see the U.S. crush Belgium. We were fine with it beating France. But we think this result is a gross injustice, like that Arjen Robben dive.
+
+<bar>Mexico gained ground with every tick of the likely eater scale, and it won voters rated at five or above by 55 percent to 30 percent.</bar> The Americans, however, built up too large of a lead among less experienced eaters for Mexico to overcome. We’re hopeful that our quest to improve Americans’ burrito knowledge will help Mexico next time around.
+Third-place match
+727 respondents, weighted by likely eaters, conducted July 2
+<pie>Mexico beats Thailand, 51 percent to 35 percent (15 percent undecided)</pie>
+The soccer World Cup, for no good reason, plays a third-place consolation game between the semifinal losers. We decided to do so as well. The Mexicans get a bit of redemption by beating Thailand and winning … a bronze skillet?
+Final
+727 respondents, weighted by likely eaters, conducted July 2
+<pie>Italy beats United States, 60 percent to 27 percent (13 percent undecided)</pie>
+Home-plate advantage only goes so far. It turns out that Americans like Italian food better than their own.
+<bar>The Italians’ margin was boosted some by the likely voter weighting — the raw tallies favored them 53 percent to 34 percent.</bar> Nevertheless, this was a definitive result. <bar>The Italians played eight matches throughout the tournament and won by an average margin of 70 percent to 13 percent; the U.S. came closer than everyone else and still lost by a 2-to-1 margin.</bar> Americans reportedly planned to celebrate the win by consuming unlimited mozzarella sticks at TGI Fridays.
+
+

@@ -1,0 +1,72 @@
+
+
+
+Feb. 3, 2017
+						at
+						8:00 AM
+
+
+
+							Can You Rule Riddler Nation?						
+
+
+
+Edited by Oliver Roeder
+Filed under The Riddler
+
+Get the data on GitHub
+GitHub data at data/riddler-castles
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+Illustration by Guillaume Kurkdjian
+
+
+
+Welcome to The Riddler. Every week, I offer up problems related to the things we hold dear around here: math, logic and probability. There are two types: Riddler Express for those of you who want something bite-sized and Riddler Classic for those of you in the slow-puzzle movement. Submit an answer for either,1 and you may get a shoutout in next week’s column. If you need a hint, you can try asking me nicely on Twitter.
+Riddler Express
+A classic participatory game-theory problem:
+Submit a whole number between 1 and 1,000,000,000. I’ll then take all those numbers and find the average submission. Whoever submits the number closest to ⅔ of the mean of all of the submitted numbers wins.
+Submit your number
+Riddler Classic
+Suggested by Joel Baker, a very special Riddler Nation battle royale!
+In a distant, war-torn land, there are 10 castles. There are two warlords: you and your archenemy. Each castle has its own strategic value for a would-be conqueror. Specifically, the castles are worth 1, 2, 3, …, 9, and 10 victory points. You and your enemy each have 100 soldiers to distribute, any way you like, to fight at any of the 10 castles. Whoever sends more soldiers to a given castle conquers that castle and wins its victory points. If you each send the same number of troops, you split the points. You don’t know what distribution of forces your enemy has chosen until the battles begin. Whoever wins the most points wins the war.
+Submit a plan distributing your 100 soldiers among the 10 castles. Once I receive all your battle plans, I’ll adjudicate all the possible one-on-one matchups. Whoever wins the most wars wins the battle royale and is crowned king or queen of Riddler Nation!
+Submit your plan
+Solution to last week’s Riddler Express
+Congratulations to 👏 Stephen Carrier 👏 of Berkeley, California, winner of last week’s Express puzzle!
+In the game Tetris, if you’re lucky, you can clear the board after the first five pieces are placed. Knowing that, how many arrangements of Tetris pieces are there that form a solid block that’s two squares high by 10 squares wide?
+There are 64. Here is an illustration of all the arrangements, from Vivek M.:
+
+
+
+A number of intrepid solvers also noticed a lovely pattern. The number of ways to fill a two-by-two, two-by-four, two-by-six, two-by-eight, and so forth, empty space with Tetris pieces is equal to the Fibonacci numbers squared: 1, 4, 9, 25, 64, 169, and so on. For a fantastic discussion of this pattern and Tetris math, check out this document from solver and “former Tetris addict” Samuel Wirajaya. Math is cool.
+Solution to last week’s Riddler Classic
+Congratulations to 👏 Alex Szatmary 👏 of Lewisburg, Pennsylvania, winner of last week’s Classic puzzle!
+At the beginning of time, there is a single microorganism. Every day, a member of its species either splits into two copies of itself or dies. If the probability of multiplication is p, what are the chances that this species goes extinct?
+If p ≤ ½, the species will go extinct for sure. If p > ½, it’s got a fighting chance. Specifically, it will go extinct with probability (1/p)-1.\(\)
+Why? Call the probability that the species goes extinct q. That’s the probability that the original microorganism dies (1-p) plus the conditional probability that, if it multiplies, both of its “children” go extinct. Therefore,
+\begin{equation}q = (1 – p) + p q^2\end{equation}
+Solving that for q, we get two solutions: q = (1/p) – 1 and q = 1. The former is a well-defined probability (that is, it’s between 0 and 1) only as long as p > ½. If p ≤ ½, we know the probability of extinction is 1.
+Here’s a chart, from Laurent Lessard, of the probability of extinction given the different probabilities of a single microorganism successfully multiplying:
+
+
+
+Good luck out there, little guy.
+Want to submit a riddle?
+Email me at oliver.roeder@fivethirtyeight.com.
+
