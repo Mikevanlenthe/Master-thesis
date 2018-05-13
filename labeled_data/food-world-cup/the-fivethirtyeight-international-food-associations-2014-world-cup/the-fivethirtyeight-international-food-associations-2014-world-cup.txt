@@ -7,7 +7,7 @@ Jun. 25, 2014
 
 
 
-							The FiveThirtyEight International Food Association’s 2014 World Cup						
+							The FiveThirtyEight International Food Association’s 2014 World Cup
 
 
 
@@ -19,7 +19,7 @@ GitHub data at data/food-world-cup
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
@@ -45,14 +45,14 @@ Inevitably, we combined our two favorite pursuits. After my request to fly aroun
 We polled 1,373 Americans through SurveyMonkey Audience and asked them to rate the national cuisines of the 32 teams that qualified for the World Cup, as well as eight additional nations with bad soccer but great food: China, Cuba, Ethiopia, India, Ireland, Thailand, Turkey and Vietnam.
 Nate: Nate here. I’ll be interrupting Walter to provide further detail on our methodology and commentary about the cuisines.
 We were intrigued by the apparent correlation between countries that are good at soccer and those that are good at food. Consider the past four World Cup champions: Spain, Italy, France and Brazil. Great food! By contrast, the past four countries to win an Olympic gold medal in ice hockey: Canada, Sweden, the Czech Republic and Russia.1 Unless you have a hankering for poutine or borscht, not so appealing.
-The eight countries that Walter mentioned are what we call our “potluck” entrants. If you’re a fringe contender like Belgium, you really do not want to draw China or India into your group. We also included Ireland in the potluck draw — a much more favorable opponent.2
+The eight countries that Walter mentioned are what we call our “potluck” entrants. If you’re a fringe contender like Belgium, you really do not want to draw China or India into your group. We also included Ireland in the potluck draw — a much more favorable opponent.
 Walter: Respondents were asked to rate each country’s cuisine on a scale from 1 to 5. A five means that the respondents “love this country’s traditional cuisine” and “think it’s one of the best in the world” and a one means the opposite. Since these are Americans we’re talking about here, we let them opt out of the question if they were unfamiliar with a particular cuisine.
-After randomly sorting each of our play-ins into Groups A through H,3 we simulated their performance in the group stage by looking at respondents familiar with both nations’ cuisines.
+After randomly sorting each of our play-ins into Groups A through H, we simulated their performance in the group stage by looking at respondents familiar with both nations’ cuisines.
 Nate: That last point is worth repeating. The results we’ll show you are solely among people who had an opinion about both cuisines in a particular matchup. We call this the “turnout rate,” and it varied anywhere from 7 percent to 65 percent depending on the matchup.
-And there’s another twist to ensure that this isn’t purely a popularity contest. Just as political polls are weighted toward likely voters, ours is weighted toward people who are most interested in actually consuming these foods — likely eaters. We asked our respondents two questions, one related to their level of interest in cuisine from around the world and another related to their knowledge about it. Their votes could be weighted by a multiple anywhere from zero to six depending on their responses.4 If you find this horribly undemocratic or want to remix the numbers in a different way, we’ve posted all our data on Github.
+And there’s another twist to ensure that this isn’t purely a popularity contest. Just as political polls are weighted toward likely voters, ours is weighted toward people who are most interested in actually consuming these foods — likely eaters. We asked our respondents two questions, one related to their level of interest in cuisine from around the world and another related to their knowledge about it. Their votes could be weighted by a multiple anywhere from zero to six depending on their responses. If you find this horribly undemocratic or want to remix the numbers in a different way, we’ve posted all our data on Github.
 Walter: We then played out the 10 head-to-head matches from each group, much as they do in the soccer World Cup, except nobody took a dive. Also as in soccer, a draw was possible if the plurality of respondents rated both cuisines equally.
-As an example, let’s say 100 people had an opinion about the traditional cuisine of two countries, A and B. If 20 preferred A over B, 45 preferred B over A, and 35 rated them equally, B would win that “match.” If 20 preferred A over B, 25 preferred B over A, and 55 rated them equally, the match would be a draw.
-Nate: The rules are otherwise the same as in the soccer World Cup. In the group stage, a win counts for three points and a draw counts for one. The two countries with the most points from each group will advance to the knockout stage (American translation: the playoffs). Just as ties in World Cup groups are broken on the basis of goal differential, ours are broken on vote differential.5
+<bar>As an example, let’s say 100 people had an opinion about the traditional cuisine of two countries, A and B. If 20 preferred A over B, 45 preferred B over A, and 35 rated them equally, B would win that “match.” If 20 preferred A over B, 25 preferred B over A, and 55 rated them equally, the match would be a draw.</bar>
+Nate: The rules are otherwise the same as in the soccer World Cup. In the group stage, a win counts for three points and a draw counts for one. The two countries with the most points from each group will advance to the knockout stage (American translation: the playoffs). Just as ties in World Cup groups are broken on the basis of goal differential, ours are broken on vote differential.
 Let’s look at our groups and their performances.
 
 Nate: Perhaps not everyone shares our love of Mexican food. But this is Mexico’s group to lose. And they got a rather fortunate potluck draw in Ireland.
@@ -93,13 +93,13 @@ Walter: This is another example, like Italy, of a national cuisine that might wi
 Nate: In my experience, Americans are every bit as likely to settle for middling interpretations of French food. If you have a barely adequate steak frites, a few brunch cocktails and a waiter who goes by Pierre (even if he’s really named Peter), you can have a bustling business.
 
 Nate: France did just fine, it turns out. In fact, it almost beat China outright although “draw” just barely took the plurality in that match.
-France benefited in part from weighting for likely eaters; it got an average of 53 percent of the vote in our weighted sample as compared with 49 percent in the overall sample. That isn’t a huge difference and it didn’t swing any matches at this stage. But France will face some tougher competition down the road.
+<bar>France benefited in part from weighting for likely eaters; it got an average of 53 percent of the vote in our weighted sample as compared with 49 percent in the overall sample. That isn’t a huge difference and it didn’t swing any matches at this stage. But France will face some tougher competition down the road.</bar>
 
 Walter: Cuba totally deserves to win this one, but the second-place contender is anyone’s guess. I’d go with Argentinian food, but only because most Americans have at least some sort of flavor anchor when it comes to South American cuisine. Also, Argentina is known for its steaks, which are the best food.
 Nate: You seem fairly keen on this group. By contrast, another person in our office — not an aspiring food-hipster like we are! — described it as the “Group of Death,” meaning that he’d rather die than eat the food from any of these countries.
 That’s totally unfair, of course. But these are the sorts of countries that Americans may not like for reasons having little to do with the cuisine. Several of them have a checkered political history with the United States: Would Iranian food have better chances if we’d called it “Persian” instead?
 
-Walter: This is, indeed, the hipster group. The food is great, but you probably haven’t heard of it. The vast majority of respondents had never experienced the cuisines of Bosnia (88 percent), Nigeria (87 percent), Iran (75 percent) or Argentina (62 percent). Cuba goes on to the next round, where it regrettably — but almost definitely — goes down to Chinese food.
+Walter: This is, indeed, the hipster group. The food is great, but you probably haven’t heard of it. <bar>The vast majority of respondents had never experienced the cuisines of Bosnia (88 percent), Nigeria (87 percent), Iran (75 percent) or Argentina (62 percent). Cuba goes on to the next round, where it regrettably — but almost definitely — goes down to Chinese food.</bar>
 Nate: That unfamiliarity seemed to translate into indifference as most of the results in the group were draws. Iran’s results, 0-0-4, were particularly strange. Like India, it’s knocked out despite being undefeated, but like England it went winless.
 
 Walter: You’d think that if the U.S. wins our tournament it’s only because we’re exclusively surveying Americans. However, don’t put this on home-plate advantage alone: America has successfully adapted other cuisines — Chinese and Italian come to mind — and besides, it’s a steak country. Does this nation have culinary sins? Of McCourse. But it absolutely deserves to be a contender.
@@ -116,7 +116,7 @@ Walter: This is a sleeper group. Any nation here could claim the top spot. Belgi
 Nate: I agree that this is among the harder groups to call. I doubt very many Americans will share your sympathies for Russia, however.
 The one I’m curious about is Korean food. Tyler Cowen said Korean food tends to be reasonably good in the United States precisely because it isn’t very popular: There isn’t much of a market for it beyond Korean-Americans and food-hipsters, who have high standards. I’m not sure how a cuisine like that will perform under our rules. By contrast, there’s a lot of mediocre Pad Thai served in the United States, although one trip to SriPraPhai or Lotus of Siam should assure you of Thai cuisine’s potential.
 
-Nate: Looks like the sleeper was Thailand. With a 4-0-0 record and some commanding margins in a tough group, Thailand might have the stuff to make a run to the semifinals or beyond. Belgium goes in ahead of South Korea, meanwhile, after winning the vote differential tiebreaker.6
+Nate: Looks like the sleeper was Thailand. With a 4-0-0 record and some commanding margins in a tough group, Thailand might have the stuff to make a run to the semifinals or beyond. Belgium goes in ahead of South Korea, meanwhile, after winning the vote differential tiebreaker.
 Walter: We’ll move on to the knockout round soon. Here’s what the matches looks like. There are a lot of extremely compelling regional fights going on in the Round of 16.
 
 Mexico vs. Ethiopia

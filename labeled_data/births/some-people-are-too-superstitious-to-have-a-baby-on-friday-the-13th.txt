@@ -7,7 +7,7 @@ May 13, 2016
 
 
 
-							Some People Are Too Superstitious To Have A Baby On Friday The 13th						
+							Some People Are Too Superstitious To Have A Baby On Friday The 13th
 
 
 
@@ -19,11 +19,11 @@ GitHub data at data/births
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
-Thousands of babies are born in the U.S. whenever Friday falls on the 13th of the month — but about 800 fewer than you’d expect if parents and the doctors who deliver their newborns treated it like any other day.
+<bar>Thousands of babies are born in the U.S. whenever Friday falls on the 13th of the month — but about 800 fewer than you’d expect if parents and the doctors who deliver their newborns treated it like any other day.</bar>
 Many births are scheduled, either as induced deliveries or cesarean section. And given the choice, lots of parents would rather not take their chance with a date that delivers a double whammy of superstitious bad luck, tying together longstanding fears about Fridays and the number 13.
 Births on the 13th of the month are lower than you’d expect, but especially on Fridays; the effect is smallest when the 13th falls on a weekend, when delivery wards are staffed more thinly and tend to schedule fewer births.1
 
@@ -32,7 +32,7 @@ Births on the 13th of the month are lower than you’d expect, but especially on
 As I wrote a few months ago, lots of parents-to-be try to avoid Feb. 29 births so that their children won’t have a birthday only once every four years. Reasons given on parent forums for avoiding Friday the 13th are vague. One mom wrote on a pregnancy website forum, “The office lady said yea sorry it’s on a bad luck day if I can change it I will. Since then it’s been bugging me. I’m not superstitious at all but her saying that just bugs me.” Another, who said she isn’t superstitious, wrote on another site, “When I asked the [obstetrician] about scheduling my [cesarean section] on the 13th, he just laughed and said he didn’t think the OR would be booked :)”
 The belief that Friday the 13th births are bad luck isn’t universal. “Friday the 13th has become a very good day in this household,” said one mom on the second parent forum who had given birth on a Friday the 13th and had another such birthday in her family. Neel Shah, assistant professor of obstetrics and gynecology at Harvard Medical School, said by email that “our schedule for planned cesareans and planned inductions of labor looks full” for this Friday.
 In 2012, computational scientist Aki Vehtari and statistician Andrew Gelman developed a more complex method for teasing out calendar birth effects, separating monthly patterns and long-term trends from attempts to avoid or land on certain dates. Their findings based on U.S. births data from 1969 to 1989 — an extension of a previous analysis by other researchers covering the birth effects of Valentine’s Day and Halloween — made the cover of a textbook they co-wrote with several other authors, “Bayesian Data Analysis” (third edition).
-I sent Vehtari and Gelman the more recent births data, from 2000 to 2014, and they reran the analysis. They found that the more recent generation of parents had more say on when they gave birth: The effect for the 13th and for other key dates typically was twice as high as it had been in the 1970s and 1980s, as we’d expect since births were scheduled less often then. They also ran an analysis specifically for Friday the 13th and found results consistent with ours. Here’s their finding over the whole calendar; notice that Christmas and other holidays suppress births far more than leap days and the 13th of the month do.
+<line>I sent Vehtari and Gelman the more recent births data, from 2000 to 2014, and they reran the analysis. They found that the more recent generation of parents had more say on when they gave birth: The effect for the 13th and for other key dates typically was twice as high as it had been in the 1970s and 1980s, as we’d expect since births were scheduled less often then.</line> <bar>They also ran an analysis specifically for Friday the 13th and found results consistent with ours. Here’s their finding over the whole calendar; notice that Christmas and other holidays suppress births far more than leap days and the 13th of the month do.</bar>
 
 
 

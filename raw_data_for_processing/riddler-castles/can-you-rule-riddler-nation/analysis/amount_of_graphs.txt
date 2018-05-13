@@ -1,3 +1,0 @@
-Article: riddler-castles/can-you-rule-riddler-nation
-
-Number of graphs: 2

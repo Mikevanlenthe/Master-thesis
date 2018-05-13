@@ -7,7 +7,7 @@ Aug. 6, 2015
 
 
 
-							Every Guest Jon Stewart Ever Had On ‘The Daily Show’						
+							Every Guest Jon Stewart Ever Had On ‘The Daily Show’
 
 
 
@@ -19,7 +19,7 @@ GitHub data at data/daily-show-guests
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
@@ -40,11 +40,12 @@ FacebookTwitterEmail
 An era is ending: “The Daily Show with Jon Stewart” airs its last new episode tonight.
 This show has been on TV since I was 8 years old. I went to William & Mary, Stewart’s alma mater, and from the prospective students tour to the graduation walk, the school wouldn’t shut up about him. I attended one taping of the show as an audience member — May 20, 2009, featuring the late Elizabeth Edwards — with friends who are still my roommates. I jammed onto the Washington Metro — inadvertently helping to set a record — with 800,000 other people on the way to the “Rally to Restore Sanity” in 2010. Stewart was a pretty big part of growing up for me, and now he’s leaving.
 But it was a hell of a run. And “The Daily Show” has changed in some interesting ways since he started hosting in 1999.
-Just look at the guests Stewart has interviewed. I pulled the show-by-show guest list1 and then cross-checked each of the 1,600-odd unique guests2 against their profile on Google’s Knowledge Graph3 to find out who’s sat in the other chair all these years. (There’s apparently some mind meld happening with our friends at Fusion.)
+Just look at the guests Stewart has interviewed. I pulled the show-by-show guest list and then cross-checked each of the 1,600-odd unique guests against their profile on Google’s Knowledge Graph to find out who’s sat in the other chair all these years. (There’s apparently some mind meld happening with our friends at Fusion.)
 He’s talked to monarchs and Muppets and everyone in between. The show feels like it’s always been the way it is today, but it’s changed significantly. What originally started as a standard formula talk show — actors and comedians dominated the guest list for the first four years of Stewart’s run — had a shot in the arm sometime around 2003.4
 
 The first political figure to grace the program with his presence was Bob Dole, of all people, with visits in 1999 and 2000. The comedians and other performers who appeared most often on the show in its first several years were soon relegated to a more subdued presence, with media figures, authors and politicos filling the gap. Military figures started showing up in 2005 and have been a consistent presence on the show as long as we’ve been at war (pretty much the whole time).
-Once politicians caught on that the show was important, they never really left. The show’s outsized emphasis on politics came to a head in 2008, when a fifth of all the guests — 21 percent — were affiliated with the government, the military or politics, and another 48 percent were media figures. Must have sucked to be an actor promoting a movie that year.
+
+<bar>Once politicians caught on that the show was important, they never really left. The show’s outsized emphasis on politics came to a head in 2008, when a fifth of all the guests — 21 percent — were affiliated with the government, the military or politics, and another 48 percent were media figures. Must have sucked to be an actor promoting a movie that year.</bar>
 In the last couple of years, though, actors, musicians and comedians began to appear more frequently, and they now once again represent a plurality of the show’s guests.
 By my count, Fareed Zakaria has had the most “Daily Show” appearances — 19 — followed by Denis Leary and Brian Williams. My boss has been on three times, and I’m kicking myself for not begging to come along on his last appearance in March 2014.
 Jon Stewart drops the mic tonight at 11 EDT on Comedy Central.

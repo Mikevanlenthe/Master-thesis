@@ -7,7 +7,7 @@ Jul. 30, 2015
 
 
 
-							Buster Posey’s Pitch Framing Makes Him A Potential MVP						
+							Buster Posey’s Pitch Framing Makes Him A Potential MVP
 
 
 
@@ -19,7 +19,7 @@ GitHub data at data/buster-posey-mvp
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
@@ -38,7 +38,7 @@ FacebookTwitterEmail
 
 
 At the top of FanGraphs’ wins above replacement leaderboard, you will find the two leading candidates for MLB’s Most Valuable Player, Mike Trout and Bryce Harper. But despite his comparative lack of WAR, San Francisco Giants catcher Buster Posey may be just as deserving of the MVP. He possesses a secret skill that WAR doesn’t detect: He’s the league’s best pitch framer.
-Posey is not an MVP candidate solely on the basis of his hitting (.325/.387/.494), even though it’s about 50 percent better than the league average.1 Trout and Harper are 89 percent and 106 percent better than average, respectively. It’s only once you begin to consider the defensive value of each player that Posey begins to look like a contender.
+<bar>Posey is not an MVP candidate solely on the basis of his hitting (.325/.387/.494), even though it’s about 50 percent better than the league average. Trout and Harper are 89 percent and 106 percent better than average, respectively. It’s only once you begin to consider the defensive value of each player that Posey begins to look like a contender.</bar>
 No current version of WAR accounts for framing, a catcher’s art of carefully receiving the pitch in such a way as to cause the umpire to call it a strike. That happens to be Posey’s most important defensive talent. Good framers turn pitches outside of the zone into strikes and keep pitches within the zone from being called incorrectly as balls. This ability, in turn, scares opposing batters into swinging at less-optimal pitches, making the impact of good framing significant. Our best estimates put a good framer as worth up to three or four wins per year.
 So far this season, Posey has racked up 11.8 runs in value from his framing, more than an entire win’s worth to add to his total and putting him within a win of Trout. Catchers who consistently earn strikes where umps usually call balls are clearly good at manipulating the umpires, but there’s some mystery as to how good framers like Posey get those calls. I wanted to understand not just what Posey does when a pitch comes in, but also what he does that other catchers don’t do.
 Veterans and coaches have described quality framing as being all about stillness. As an example, consider this pitch from Giants starting pitcher Chris Heston to Posey:
@@ -48,7 +48,7 @@ Posey is especially valuable to his team because his backup, Andrew Susac, is es
 
 The pitch Posey received was called a strike, Susac’s a ball, and you can see the difference in technique. Susac tries the same maneuver as Posey, pulling his glove up into the zone, but does so in a slightly more exaggerated manner. And watch his back as he moves the pitch up — he lifts the ball by standing a bit, while Posey stays more or less at the same level.
 Former journeyman MLB catcher Jason Kendall famously argued that “there’s no such thing as pitch framing,” chalking up any differences in ability to get called strikes to the catcher’s reputation. It’s difficult to disprove Kendall’s argument. Previous studies of catcher framing technique have universally relied upon anecdotes and GIFs. There is some opportunity here for confirmation bias to creep in: Because we know that Posey is a better framer, we are looking for reasons why.
-But what if we found a way to quantify Posey’s greatness in terms of his actual technique? I did just that. I took 24 receptions of Posey’s and six of Susac’s,3 all to nearly the exact same location in the strike zone. These strict criteria limited the total number of catches, but removed many potentially complicating factors.4 I then wrote some code to calculate the total amount of movement in each frame for the second after each pitch was caught.5 The sample is small because I don’t yet have the ability to contrast two catchers’ framings across all the places they can receive a pitch. Still, if catchers agree that stillness is good, then Posey should grade out as more motionless than Susac.
+But what if we found a way to quantify Posey’s greatness in terms of his actual technique? I did just that. I took 24 receptions of Posey’s and six of Susac’s, all to nearly the exact same location in the strike zone. These strict criteria limited the total number of catches, but removed many potentially complicating factors. I then wrote some code to calculate the total amount of movement in each frame for the second after each pitch was caught. The sample is small because I don’t yet have the ability to contrast two catchers’ framings across all the places they can receive a pitch. Still, if catchers agree that stillness is good, then Posey should grade out as more motionless than Susac.
 
 Good framing isn’t as simple as a quiet catch. Both Posey and Susac dampen the momentum of the ball for about a tenth of a second. Then each pauses, as I noted in the videos above, before motion accelerates again as they toss the ball back to the pitcher.
 Posey is stiller at every stage of the catch. Posey also transitions more smoothly from trapping the ball into a pause as he holds it and then from out of the pause into his return throw. Susac’s path is jagged by comparison, snatching the ball suddenly before quieting it briefly and returning to his throw. Even at his most motionless, Susac falls considerably short of Posey.

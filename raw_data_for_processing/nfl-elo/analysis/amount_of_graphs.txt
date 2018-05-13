@@ -1,3 +1,0 @@
-Article: nfl-elo
-
-Number of graphs: 4

@@ -1,3 +1,0 @@
-Article: nba-elo
-
-Number of graphs: 4

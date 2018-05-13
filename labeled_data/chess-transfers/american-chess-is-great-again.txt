@@ -2,8 +2,8 @@
 
 
 
-							American Chess Is Great Again						
-A wealthy patron and a trio of grandmasters are coming for Bobby Fischer’s legacy. 
+							American Chess Is Great Again
+A wealthy patron and a trio of grandmasters are coming for Bobby Fischer’s legacy.
 
 
 By Oliver Roeder
@@ -17,7 +17,7 @@ GitHub data at data/chess-transfers
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
@@ -43,7 +43,7 @@ But this string of misfortune may be about to end, thanks to some quintessential
 Those three, along with the reigning Norwegian world champion, are currently assembled in St. Louis for one of the strongest chess competitions ever held. And that American city has become a lighthouse for the game, featuring top-flight tournaments, world-class venues and varsity chess programs. And fueling it all is an aging multimillionaire who has made the success of American chess his life’s quest after growing up in an orphanage and falling in love with the game as a teenager.
 Can the American dream be leveraged into chess glory?
 
- 
+
 Wilhelm Steinitz, right, was a chess great who adopted the U.S. as his own after emigrating from Europe. Getty Images
 
 
@@ -56,7 +56,7 @@ It’s not easy to describe what makes So’s game unique — or Caruana’s or 
 That being said, some differences do remain. Caruana and Nakamura have very aggressive styles, and Donaldson said occasionally they have to remind themselves to temper this aggression. But a more placid temperament comes naturally to So, and it’s precisely this cool on the board that distinguishes him. His play is consistent, calm and highly theoretical. Unlike the world champion, Magnus Carlsen, who is known for not being especially well prepared when it comes to his opening moves, So takes theoretically established lines and adds in his own fresh strategic ideas.
 The three U.S. players’ journeys to the precipice of a world championship have differed, too, but all have been long and some occasionally scandalous. But all hope they’ll end with a world title. Nakamura, 29, is the old hand. He first clinched the country’s No. 1 spot in 2005, and has suffered the Fischer comparisons for years now. “There are very few people out there who have the ability to, I don’t want to say change the world, but make a very big impact, and with chess I feel like I really have that chance,” Nakamura told the Riverfront Times in 2011. So came next, switching his chess allegiances from the Filipino team to the U.S. in 2014. (At the time, he was No. 14 in the world.) Caruana, 25, followed shortly after, defecting from the Italian squad in 2015. “I think I will be world champion someday,” Caruana told The New Yorker.
 
-
+<bar>
 More players transfer to the U.S. than to any other country
 Nations that received the highest number of player transfers, 2000-17
 
@@ -148,7 +148,7 @@ Austria
 
 –
 
-
+</bar>
 
 
 
@@ -175,7 +175,7 @@ The meeting was orchestrated, Key told the Star Tribune, by Wesley So’s former
 Several years before, Truong, in a separate incident, had been accused of posting obscene messages online under the name of a rival in a campaign to get elected to the U.S. Chess Federation board. (Truong continues to deny those accusations, although they were confirmed by a private investigator hired by U.S. Chess.) He was later ousted from the federation, and the legal dispute was settled.
 Despite a strained relationship with So, Truong was optimistic about his future. “Out of all the current players in the United States today, I believe that [So] would have the best chance to be the next world champion,” he said.
 
- 
+
 Hikaru Nakamura and Wesley So playing in the London Chess Classic in 2016. Ray Tang / Anadolu Agency / Getty Images
 
 
@@ -185,7 +185,7 @@ As I sought to find out more about America’s best chess player, Key got wind o
 I never did reach So’s birth family, and my efforts to arrange more meaningful time with the grandmaster through his adoptive mother were unsuccessful. Key insisted that all communication be funneled through her. “You probably consider our precautions extraordinary,” she said. “Yet consider that when you want to stop an elite skater you try to break her leg. With a chess player, you must break something else.”
 The World Chess Championship operates like a fiefdom. The reigning champion, currently the Norwegian Carlsen, is the overlord. He sits in his throne waiting while the rest of the super-grandmasters bloody each other over the course of a grueling two-year cycle. A triumphant performance in several Grand-Prix tournaments, the Chess World Cup or the official world rankings lands a contender in the Candidates Tournament, in which eight survivors battle each other one final time. Exactly one of them wins the right to challenge the defending champion for the title in yet another lengthy series of games. The next Candidates is slated for March 2018 and the next championship match for the following November. Their locations have not yet been announced.
 
-
+<pie>
 Who might challenge Carlsen?
 Top players’ chance of winning Candidates Tournament (and challenging Carlsen), based on Elo ratings
 
@@ -248,7 +248,7 @@ Karjakin
 3.3
 
 
-
+</pie>
 
 Includes the most highly rated players as of Aug. 1, and the defending world runner-up, Karjakin.
 Based on data from 2700chess.com
@@ -261,7 +261,7 @@ Last year, Caruana missed a Candidates victory by one devastating game. The worl
 Only So himself struck a melancholy note at the whole prospect. “I sometimes feel sorry for [Carlsen] because the pressure is terrible,” he told me over email. “If he even draws a game, people are disappointed. People think they have a right to every bit of his life. I don’t want to live like that.”
 But a world championship is the goal. And it’s being pursued with that most American of fuels: money. “A world championship would be spectacular,” said Walters, the U.S. Chess president. “And there are forces here in St. Louis who would put that very near the top of the list.”
 
- 
+
 The three best American chess players: Hikaru Nakamura, Wesley So and Fabiano Caruana. Getty Images
 
 

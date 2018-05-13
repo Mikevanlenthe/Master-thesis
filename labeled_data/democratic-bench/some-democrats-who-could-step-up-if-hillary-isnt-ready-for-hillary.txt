@@ -7,7 +7,7 @@ Mar. 27, 2015
 
 
 
-							Some Democrats Who Could Step Up If Hillary Isn’t Ready For Hillary						
+							Some Democrats Who Could Step Up If Hillary Isn’t Ready For Hillary
 
 
 
@@ -19,7 +19,7 @@ GitHub data at data/democratic-bench
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
@@ -41,8 +41,9 @@ Hillary Clinton is probably going to run for president, and she’s probably goi
 Martin O’Malley, Bernie Sanders and Jim Webb are preparing for such a possibility. But they’re not exactly political powerhouses, and so we come to another question: Is the Democratic bench really that weak?
 One way to look at that question is via fundraising. A late entrant in 2016 would need to raise money quickly, and the ability to raise money is a decent proxy for appeal and organizing strength. It’s part of the reason Elizabeth Warren is thought of as such a powerful force in the Democratic Party. She raised over $42 million in her 2012 bid for Senate.
 Warren’s is a clear case, but simple fundraising numbers don’t always tell the whole story. Factors such as whether a candidate is running for statewide or federal office, whether she’s an incumbent, the competitiveness of her election1 and the size of her home-state donor base2 all affect fundraising.
-Keeping all these variables in mind, I looked at how much Democratic governors and senators who won their last campaign raised during the 2010, 2012 and 2014 cycles3 and who outperformed their expected fundraising totals.4
-Besides Democratic Party leaders in the Senate — such as former Democratic Senatorial Campaign Committee Chair Bob Menendez, Minority Leader Harry Reid and Vice Chairman of the Senate Democratic Caucus Chuck Schumer — many of the candidates who greatly outperformed fundraising expectations are the ones we normally talk about as contenders for the presidency. Here’s the data in full. And here are the top 25 Democrats who beat expectations:
+Keeping all these variables in mind, I looked at how much Democratic governors and senators who won their last campaign raised during the 2010, 2012 and 2014 cycles and who outperformed their expected fundraising totals.
+Besides Democratic Party leaders in the Senate — such as former Democratic Senatorial Campaign Committee Chair Bob Menendez, Minority Leader Harry Reid and Vice Chairman of the Senate Democratic Caucus Chuck Schumer — many of the candidates who greatly outperformed fundraising expectations are the ones we normally talk about as contenders for the presidency.
+<bar>Here’s the data in full. And here are the top 25 Democrats who beat expectations:
 
 
 
@@ -205,7 +206,9 @@ Brian Schatz
 
 
 
-Warren, Andrew Cuomo and Deval Patrick are all unlikely to run in 2016, but they’ve been included in a lot of polls. And all three have been prolific fundraisers. Warren raised over $18 million more than expected. Cuomo and Patrick were also among the top performers, even after controlling for their wealthy East Coast donor bases.
+Warren, Andrew Cuomo and Deval Patrick are all unlikely to run in 2016, but they’ve been included in a lot of polls. And all three have been prolific fundraisers. Warren raised over $18 million more than expected. Cuomo and Patrick were also among the top performers, even after controlling for their wealthy East Coast donor bases.</bar>
+
+
 Two names popped up, though, that were more surprising. Senators Sherrod Brown of Ohio and Al Franken of Minnesota both raised a lot more money in their 2012 and 2014 campaigns, respectively, than we might have expected. Would they be running in 2016 if Clinton wasn’t?
 Some journalists have, in fact, wondered why Brown doesn’t run. He’s seen as a darling of the progressive wing of the Democratic Party, and he’s managed to win two terms in Ohio, a crucial swing state.
 Franken, too, has been the subject of a bit of presidential speculation. He easily won re-election in Minnesota, not an overwhelmingly blue state, in 2014, a very tough year for Democrats nationally. And he wouldn’t be the first actor-turned-politician to make a run for the White House.

@@ -2,8 +2,8 @@
 
 
 
-							How To Spot A Front-Runner On The ‘Bachelor’ Or ‘Bachelorette’						
-What we learned from analyzing all 33 seasons. 
+							How To Spot A Front-Runner On The ‘Bachelor’ Or ‘Bachelorette’
+What we learned from analyzing all 33 seasons.
 
 
 By Ella Koeze and Walt Hickey
@@ -17,7 +17,7 @@ GitHub data at data/bachelorette
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
@@ -28,7 +28,7 @@ First, although the motives of “Bachelor” and “Bachelorette” contestants
 Second, ABC helped us out with some of the data (FiveThirtyEight is owned by ESPN; ESPN and ABC are owned by the Walt Disney Co.). Here’s how we logged it2: For every week of competition in every season, we noted which contestants3 went on which dates (a one-on-one date, a two-on-one date or a group date),4 who received roses on dates (protection from elimination that week),5 and who left the show.6
 Let’s get to it.
 The first week
-Only 7 percent of contestants on “The Bachelorette” and “The Bachelor” win or quit7 — which leaves the remaining 796 going out the hard way. Nearly 9 in 10 of those are felled at a rose ceremony — that’s the ritual ending to each week of competition in which the bachelor or bachelorette distributes roses to the contestants they want to keep dating the next week. The rest are either dumped on a date, rejected outside of a rose ceremony or removed by the show.
+<pie>Only 7 percent of contestants on “The Bachelorette” and “The Bachelor” win or quit — which leaves the remaining 796 going out the hard way.</pie> Nearly 9 in 10 of those are felled at a rose ceremony — that’s the ritual ending to each week of competition in which the bachelor or bachelorette distributes roses to the contestants they want to keep dating the next week. The rest are either dumped on a date, rejected outside of a rose ceremony or removed by the show.
 
 
 
@@ -45,7 +45,7 @@ It’s against these dizzying odds that our players persevere. Week one in parti
 This coveted prize — a rose allocated to the contestant that most impressed the bachelor or bachelorette in week one — is not awful at forecasting the future. Looking strictly at the 23 seasons in which a single contestant was given the first-impression rose, four recipients went on to win, and another four went on to be the runner-up. That means 35 percent of recipients made it to the final episode. Rachel Lindsay herself received the first-impression rose in the most recent season of “The Bachelor,” and she made it to the final three before bachelor Nick Viall rejected her.
 Indeed, just over half of those who get first-impression roses reach the final four, which is a vastly higher rate than the overall 15 percent of contestants who make a final four.
 Dating
-Once week two rolls around, the shows fall into a rhythm. Contestants are invited to go on dates with the bachelor/ette. These opportunities to spend time with (and hopefully inspire love in) the bachelor or bachelorette are a precious resource. For that reason, it’s considered ideal to be invited on dates that allow for maximum face time — one-on-one dates and smaller group dates rather than larger ones. We were curious about each winner’s path to victory: Do champions tend to get the best date opportunities early in their season? Or do they tend to burst out of date obscurity into strong positions toward the end? To find out, we assigned points to each date, weighting dates with fewer contestants more highly, and then charted the points that each contestant accumulated over the course of their season in the “roses” below. The winner’s journey for each season is highlighted in dark pink.
+Once week two rolls around, the shows fall into a rhythm. Contestants are invited to go on dates with the bachelorette. These opportunities to spend time with (and hopefully inspire love in) the bachelor or bachelorette are a precious resource. For that reason, it’s considered ideal to be invited on dates that allow for maximum face time — one-on-one dates and smaller group dates rather than larger ones. We were curious about each winner’s path to victory: Do champions tend to get the best date opportunities early in their season? Or do they tend to burst out of date obscurity into strong positions toward the end? To find out, we assigned points to each date, weighting dates with fewer contestants more highly, and then charted the points that each contestant accumulated over the course of their season in the “roses” below. The winner’s journey for each season is highlighted in dark pink.
 
 
 
@@ -73,7 +73,7 @@ Getting a date rose is one of four things that can happen to a contestant in a g
 We zeroed in on weeks when at least one rose was up for grabs on at least one date and then looked at what positive or negative events happened to the recipient of the date rose next — keeping in mind that rose ceremony roses are neutral, so the next positive thing (winning or getting a date rose) or negative thing (leaving the show) that happens to a contestant might not be for several more weeks of competition.
 Winning a date rose is only a temporary relief: 60 percent of the time, contestants were eliminated in a subsequent week; 33 percent of the time, they won a date rose in a subsequent week; and 8 percent of the time, the next thing that happened was that they won the competition.
 But compare that 60 percent elimination rate with the elimination rate for all the competitors who did not win a date rose in a given week: 70 percent of the time, those contestants were eliminated that week or a later week. The date rose advantage is that 10-point difference.
-We can also measure this advantage over time by looking at competitors’ chances of elimination week by week. Those who receive a date rose maintain a steady advantage over contestants who do not. Indeed, a rose buys you about two weeks. You can see this in the chart below, which shows the probability that a contestant who received a date rose — and one who didn’t — in a given episode will be eliminated in each of the next six weeks. For example, a person who is one week out from a roseless week10 has just over a 40 percent chance of being eliminated that week — roughly the same chance of elimination as a contestant who is three weeks out from receiving a date rose.
+We can also measure this advantage over time by looking at competitors’ chances of elimination week by week. Those who receive a date rose maintain a steady advantage over contestants who do not. Indeed, a rose buys you about two weeks. You can see this in the chart below, which shows the probability that a contestant who received a date rose — and one who didn’t — in a given episode will be eliminated in each of the next six weeks. For example, a person who is one week out from a roseless week 10 has just over a 40 percent chance of being eliminated that week — roughly the same chance of elimination as a contestant who is three weeks out from receiving a date rose.
 
 
 

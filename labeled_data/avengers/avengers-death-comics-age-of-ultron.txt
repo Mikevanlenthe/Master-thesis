@@ -7,7 +7,7 @@ May 12, 2015
 
 
 
-							Joining The Avengers Is As Deadly As Jumping Off A Four-Story Building						
+							Joining The Avengers Is As Deadly As Jumping Off A Four-Story Building
 
 
 
@@ -19,7 +19,7 @@ GitHub data at data/avengers
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
@@ -59,12 +59,12 @@ If all the Avengers are sent to a pocket dimension after seemingly being killed 
 If someone’s consciousness was merged with, say, a killer robot or their alternate-dimension older self or Doc Ock — destroying them in the process — they died.
 
 All of these things happened. Comics are weird.
-So I combed through the faithfully updated Marvel Wikia to analyze 173 current and former Avengers. We’re measuring the mortality rate of of characters after they joined the team, however briefly.4
-Out of 173 listed Avengers, my analysis found that 69 had died at least one time after they joined the team.5 That’s about 40 percent of all people who have ever signed on to the team. Let’s put it this way: If you fall from four or five stories up, there’s a 50 percent chance you die. Getting a membership card in the Avengers is roughly like jumping off a four-story building.
+So I combed through the faithfully updated Marvel Wikia to analyze 173 current and former Avengers. We’re measuring the mortality rate of of characters after they joined the team, however briefly.
+<pie>Out of 173 listed Avengers, my analysis found that 69 had died at least one time after they joined the team.5 That’s about 40 percent of all people who have ever signed on to the team.</pie> Let’s put it this way: If you fall from four or five stories up, there’s a 50 percent chance you die. Getting a membership card in the Avengers is roughly like jumping off a four-story building.
 What’s more, if you’re a fan of the MCU, nobody is safe. Of the nine Avengers we see on screen — Iron Man, Hulk, Captain America, Thor, Hawkeye, Black Widow, Scarlet Witch, Quicksilver and The Vision — every single one of them has died at least once in the course of their time Avenging in the comics. In fact, Hawkeye died twice!6
 But the recovery rate? It is remarkable. Not only did all those top-tier Avengers get better after their first death, but so did most other heroes across the roster. Avenger life insurance is divine. Often literally.
-I counted 89 total deaths — some unlucky Avengers7 are basically Meat Loaf with an E-ZPass — and on 57 occasions the individual made a comeback. Maybe they didn’t actually die and were secretly in the Microverse, or they stayed on Franklin Richards‘s or the Scarlet Witch‘s good side in life, or they were dragged back into Avenging by the Chaos King or the Grim Reaper, or perhaps a colleague made a deal with time travelers. Who knows!
-But you can only tempt death so many times. There’s a 2-in-3 chance that a member of the Avengers returned from their first stint in the afterlife, but only a 50 percent chance they recovered from a second or third death.8
+I counted 89 total deaths — some unlucky Avengers are basically Meat Loaf with an E-ZPass — and on 57 occasions the individual made a comeback. Maybe they didn’t actually die and were secretly in the Microverse, or they stayed on Franklin Richards‘s or the Scarlet Witch‘s good side in life, or they were dragged back into Avenging by the Chaos King or the Grim Reaper, or perhaps a colleague made a deal with time travelers. Who knows!
+But you can only tempt death so many times. There’s a 2-in-3 chance that a member of the Avengers returned from their first stint in the afterlife, but only a 50 percent chance they recovered from a second or third death.
 The MVP of the Earth-616 Marvel Universe Avengers has to be Jocasta — an android based on Janet van Dyne and built by Ultron — who has been destroyed five times and then recovered five times.
 Given the Avengers’ 53 years in operation and overall mortality rate, fans of the comics can expect one current or former member to die every seven months or so, with a permanent death occurring once every 20 months.
 Keep in mind this rate may very well increase in the next several months. Marvel Comics is in the throes of destroying and merging two of its universes, and, you know, generally speaking the annihilation of universes is accompanied by a few casualties.

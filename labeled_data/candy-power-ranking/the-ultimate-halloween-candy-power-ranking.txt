@@ -2,8 +2,8 @@
 
 
 
-							The Ultimate Halloween Candy Power Ranking						
-These treats will make you the most popular house in the neighborhood. 
+							The Ultimate Halloween Candy Power Ranking
+These treats will make you the most popular house in the neighborhood.
 
 
 By Walt Hickey
@@ -17,15 +17,15 @@ GitHub data at data/candy-power-ranking
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
 Video by Christine Laskowski, Tony Chow and Emily Scherer
-The social contract of Halloween is simple: Provide adequate treats to costumed masses, or be prepared for late-night tricks from those dissatisfied with your offer. To help you avoid that type of vengeance, and to help you make good decisions at the supermarket this weekend, we wanted to figure out what Halloween candy people most prefer. So we devised an experiment: Pit dozens of fun-sized candy varietals against one another, and let the wisdom of the crowd decide which one was best.1
-While we don’t know who exactly voted, we do know this: 8,371 different IP addresses voted on about 269,000 randomly generated matchups.2 So, not a scientific survey or anything, but a good sample of what candy people like. And here’s what they said:
+The social contract of Halloween is simple: Provide adequate treats to costumed masses, or be prepared for late-night tricks from those dissatisfied with your offer. To help you avoid that type of vengeance, and to help you make good decisions at the supermarket this weekend, we wanted to figure out what Halloween candy people most prefer. So we devised an experiment: Pit dozens of fun-sized candy varietals against one another, and let the wisdom of the crowd decide which one was best.
+While we don’t know who exactly voted, we do know this: 8,371 different IP addresses voted on about 269,000 randomly generated matchups. So, not a scientific survey or anything, but a good sample of what candy people like. And here’s what they said:
 
-
+<bar>
 How often did a fun-sized candy of a given type win its matchups against the rest of the field?
 
 
@@ -726,7 +726,7 @@ Good & Plenty
 
 –
 
-
+</bar>
 
 
 
@@ -799,12 +799,12 @@ Hard candy
 
 
 The table adjacent to this paragraph simplifies that “coef.” column. If a hypothetical candy had chocolate in it, we’d expect its win percentage to rise by about 20 points. If it’s fruity, we’d expect it to rise by 10. If it had nuts, we’d also expect its win percentage to rise by 10, with wafers or crisped rice rising by 9. And nougat and caramel don’t bring a ton to the table. A candy being hard — like a lollipop or jawbreaker — actually knocks about 5 points off its win percentage. Whether it’s in bar form or a bunch of little candies makes no major difference.
-Note that a candy can be one or two or all of these things: A Snickers is a chocolate (+20), peanut (+10), caramel (+3), nougat (+2) candy that we’d expect to have in the ballpark of a 70 percent win rate, and it does in fact have a 77 percent win rate.
+Note that a candy can be one or two or all of these things: <bar>A Snickers is a chocolate (+20), peanut (+10), caramel (+3), nougat (+2) candy that we’d expect to have in the ballpark of a 70 percent win rate, and it does in fact have a 77 percent win rate.</bar>
 Which brings up an obvious question: Can we build the perfect Frankencandy based on this information?
 On one hand, no, that’s a ridiculous oversimplification of a somewhat scientific process and is likely to result only in an abomination.
 On the other hand, that exact ethical dilemma did not stop Dr. Frankenstein, and ’tis the season!
-We’ve got to have chocolate — the win percentage of contenders containing chocolate was about 11 points higher than the average contender and 19 points higher than contenders that did not have chocolate. The same goes for both crispiness and nuttiness: Entrants with peanuts or almonds had win percentages about 13 points higher than the average contender, and ones with crispy wafers or puffed rice were nearly 16 points higher than average. Nougat and caramel are net positives for sure, so throw them in.
-Now we get to some major qualitative components. Candies in bar form generally had a higher overall win rate than those in pieces, so we’ll want a bar. Yes, fruitiness can be fine, but things that had a fruity taste had a win percentage 11 points lower than those that did not. This is due to the near mutual exclusivity of fruity flavors and chocolate, with Tootsie Pops being the sole exception.3
+<bar>We’ve got to have chocolate — the win percentage of contenders containing chocolate was about 11 points higher than the average contender and 19 points higher than contenders that did not have chocolate.</bar> <bar>The same goes for both crispiness and nuttiness: Entrants with peanuts or almonds had win percentages about 13 points higher than the average contender, and ones with crispy wafers or puffed rice were nearly 16 points higher than average.</bar> Nougat and caramel are net positives for sure, so throw them in.
+Now we get to some major qualitative components. Candies in bar form generally had a higher overall win rate than those in pieces, so we’ll want a bar. <bar>Yes, fruitiness can be fine, but things that had a fruity taste had a win percentage 11 points lower than those that did not.</bar> This is due to the near mutual exclusivity of fruity flavors and chocolate, with Tootsie Pops being the sole exception.
 So, in the end, the best Frankencandy has the chocolate of a Hershey bar, the nougat of a Baby Ruth, the caramel of a Milky Way, the peanut butter of a Reese’s Cup and the wafer of a Twix, and it’s assembled in a castle looming over an Eastern European village. Or if you’re trying to make this at home: Maybe take a Twix bar and smush it on a PayDay, or roll a Snickers around in rice crispies.
 Call me what you will — the modern Prometheus, a contemporary, pre-diabetic Frankenstein — but I think I have the next big idea in Halloween candy. So what I’m trying to say is, yes, Mr. Wonka, I am available to consult if you’re interested in entering the abomination business.
 

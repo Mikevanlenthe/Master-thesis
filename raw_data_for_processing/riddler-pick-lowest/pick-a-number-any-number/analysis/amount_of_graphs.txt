@@ -1,3 +1,0 @@
-Article: riddler-pick-lowest/pick-a-number-any-number
-
-Number of graphs: 1
