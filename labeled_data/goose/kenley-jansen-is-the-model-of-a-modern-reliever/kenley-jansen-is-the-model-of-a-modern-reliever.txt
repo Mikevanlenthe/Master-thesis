@@ -7,7 +7,7 @@ Nov. 7, 2017
 
 
 
-							Kenley Jansen Is The Model Of A Modern Reliever						
+							Kenley Jansen Is The Model Of A Modern Reliever
 
 
 
@@ -19,7 +19,7 @@ GitHub data at data/goose
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
@@ -3283,5 +3283,5 @@ Sources: Retrosheet, The Baseball GAUGE
 Jansen’s also the exception that proves the rule, however; it’s hard to provide all that much value when you pitch only 70 innings or so, which is about how much the best relievers pitch nowadays. After Jansen, the next most-valuable season came from Knebel, who finished with 3.9 GWAR — which ranks just 200th among relief pitching seasons all-time.
 If you want a model for a more Gossage-like usage pattern, you need to look no further than … how Jansen was used in the postseason. Jansen appeared in 13 of the Dodgers’ 15 playoff games and threw 16.2 innings. Extrapolated out to a full, 162-game regular season, that would work out to a Mike Marshall-like total of 180 relief innings.
 Jansen didn’t keep his perfect streak alive in the playoffs. Instead, he allowed 2 broken eggs to go with 6 goose eggs. He was also used in some situations that we wouldn’t recommend — for instance, to close out an 11-1 lead against the Chicago Cubs in the NLCS. Still, his postseason goose egg pace would extrapolate to 65 goose eggs over a 162-game regular season.
-What I’m really advocating for is a hybrid between how pitchers like Jansen are currently used in the regular season and the entirely different way that they’re used in the postseason. The extra off-days the playoffs provide help to enable more creative usage patterns that might not be viable in the regular season. And even with those extra rest days, Jansen may have been overused in not-very-clutch situations in the NLCS and NLDS; perhaps as a result, he was not especially sharp in the World Series. At the same time, he went from throwing 4.7 percent of the Dodgers’ regular season innings to 12.3 percent of their postseason innings — almost a threefold increase. Surely there’s a happy median somewhere in between?But congratulations to Jansen and Knebel, and we’ll resume our hunt for goose eggs next year. In the meantime, you can download detailed data on goose eggs and broken eggs for all pitchers since 1930 here.
+What I’m really advocating for is a hybrid between how pitchers like Jansen are currently used in the regular season and the entirely different way that they’re used in the postseason. The extra off-days the playoffs provide help to enable more creative usage patterns that might not be viable in the regular season. And even with those extra rest days, Jansen may have been overused in not-very-clutch situations in the NLCS and NLDS; perhaps as a result, he was not especially sharp in the World Series. <line>At the same time, he went from throwing 4.7 percent of the Dodgers’ regular season innings to 12.3 percent of their postseason innings — almost a threefold increase.</line> Surely there’s a happy median somewhere in between? But congratulations to Jansen and Knebel, and we’ll resume our hunt for goose eggs next year. In the meantime, you can download detailed data on goose eggs and broken eggs for all pitchers since 1930 here.
 
