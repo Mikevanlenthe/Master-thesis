@@ -1,0 +1,59 @@
+Article: mlb-elo
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1332
+Raw number of types: 531
+Raw Type token ratio: 0.39864864864864863
+
+100 most freq tokens before (pre)processing: 
+[(',', 2530), ('the', 2185), ('.', 1243), ('of', 1020), ('a', 888), ('in', 847), ('to', 796), ('and', 733), ('’', 605), (':', 547), ('that', 485), ('our', 440), ('(', 413), (')', 413), ('verdict', 377), ('s', 362), ('is', 352), ('on', 340), ('it', 338), ('trump', 338), ('for', 329), ('i', 283), ('1', 281), ("'", 252), ('with', 249), ('at', 227), ('more', 210), ('by', 206), ('percent', 203), ('—', 202), ('are', 201), ('this', 198), ('we', 198), ('but', 195), ('as', 189), ('positive', 189), ('“', 170), ('”', 170), ('than', 168), ('like', 167), ('from', 163), ('donald', 156), ('have', 154), ('you', 149), ('about', 141), ('was', 141), ('data', 136), ('an', 136), ('or', 136), ('neutral', 133), ('t', 124), ('be', 120), ('they', 118), ('one', 115), ('has', 112), ('/', 103), ('their', 101), ('not', 99), ('all', 97), ('out', 96), ('other', 96), ('were', 94), ('who', 92), ('so', 91), ('when', 88), ('what', 88), ('up', 88), ('which', 87), ('his', 87), ('2', 85), ('?', 84), ('negative', 83), ('people', 83), ('there', 82), ('my', 82), ('if', 81), ('how', 81), ('he', 81), ('hillary', 81), ('state', 79), ('get', 78), ('some', 78), ('model', 78), ('most', 77), ('can', 76), ('me', 76), ("'m", 74), ('<', 74), ('films', 73), ('only', 71), ('>', 70), (';', 69), ('3', 68), ('polls', 67), ('do', 66), ('just', 66), ('those', 63), ('10', 63), ('rock', 60), ('its', 59)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1210
+Number of types: 523
+Type token ratio: 0.4322314049586777
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'elo, favorite, different, simple, final, total, mlb, average, actual, national, american, defunct, american, national, league, only, national, peak, 19th, national, national, red, new, national, dominant, major, mlb, national, official, special, national, first, professional, major, national, controversial, inaugural, national, current, national, national, elo, mlb, white, nowhere, late1990s, electrifying, several, good, great, japanese, transplant, freddie, other, current, red, sox, white, seattle, able, outstanding, regular, only, current, young, first, national, temple, young, other, bad, final, mlb, national, expos, new, first, alou, pitching, young, national, high, next, unstoppable, new, bad, american, difficult, dominant, additional, al, franchisehigh, only, professional, dominant, nba, nfl, multigenerational, final, mickey')
+
+('NNS', 'ratings, fivethirtyeights, teams, eras, ratings, teams, games, franchises, years, ratings, predictions, picks, teams, ratings, details, results, results, franchises, championships, titles, braves, titles, stockings, records, franchises, braves, franchises, calculations, belongs, mariners, mariners, mariners, games, players, seasons, games, stars, mariners, wins, cubs, wins, seattles, twins, tigers, mariners, yankees, games, mariners, playoffs, nationals, spiders, baseballs, spiders, spiders, baseballs, franchises, spiders, wins, finishes, orioles, seasons, spiders, owners, cardinals, players, spiders, teams, spiders, games, teams, spiders, years, runs, leagues, days, playoffs, nationals, bombers, yankees, yankees, fans, franchises, years, yankees, yankees, titles, pennants, yankees, sports, celtics, titles, eras, yankees, yankees, years, dimaggios, mantles')
+
+('VBP', 'are, weve, are, weve, astros, elo, start, are, are, are, are, are, include, are, beat, ask, weve, exclude, come, seattle, have, are, disaster, didnt, rookie')
+
+('NN', 'method, history, nba, measure, team, strength, score, location, date, baseball, history, mlb, team, rating, league, average, expansion, rating, mean, onethird, end, season, methodology, game, retrosheetorg, league, history, association, association, world, series, world, series, team, history, history, atlanta, milwaukee, boston, franchise, inauguration, association, franchise, world, series, dominance, century, association, league, franchise, elo, rating, interactive, team, boston, haven, elm, citys, record, winning, percentage, elo, rating, association, squad, league, history, doesnt, association, part, history, decree, mlb, baseball, committee, association, league, league, mlb, league, decision, league, cubs, association, elo, association, peak, history, cubs, rating, record, end, season, sox, world, series, history, seattle, center, fielder, griffey, jr, shortstop, alex, rodriguez, fastballer, randy, johnson, season, schedule, record, season, ichiro, suzuki, rookie, year, mvp, slugger, boone, mlb, season, duo, jamie, moyer, garcia, team, rating, hit, peak, sox, mlb, wasnt, season, alcs, havent, washington, mlb, world, series, cleveland, season, history, cleveland, percentage, manager, patsy, tebeau, star, pitcher, cy, team, franchise, league, title, secondplace, cup, firstplace, baltimore, postseason, exhibition, series, league, st, louis, franchise, tebeau, star, cleveland, sideshow, home, attendance, revenue, cleveland, road, season, elo, history, league, season, expos, history, mlb, franchise, montreal, expos, existence, making, postseason, appearance, everything, offense, marquis, grissom, larry, walker, wil, cordero, game, staff, butch, henry, hill, jeff, fassero, pedro, martinez, era, aug, expos, pace, season, franchise, baseball, strike, world, series, season, grissom, hill, season, expos, franchise, expos, team, washington, history, york, baseball, team, seventh, league, stay, season, didnt, team, winning, percentage, equivalent, season, mlb, schedule, time, world, series, elo, rating, season, team, stretch, bill, montantayoung, career, arc, streak, babe, ruth, career, debut, joe, dimaggio, season, year')
+
+('VBG', 'comparing, including, being, including, tying, starting, dropping, winning, beating, going, playing, joining, coming, losing, peaking')
+
+('VBN', 'used, based, calculated, calibrated, added, reverted, included, played, played, won, known, credited, created, originated, chosen, upset, ken, gone, set, combined, compared, touched, appeared, led, kicked, been, led, canceled, departed, shortened, disappointed, come, stacked')
+
+('VB', 'explore, nfl, read, have, bring, count, consider, be, chicago, include, have, bret, capitalize, have, manage, become, be, travel, have, reach, become, be, overstate, have')
+
+('JJR', 'more, more, more, higher, more, walker')
+
+('VBZ', 'works, is, has, depends, leagues, wins, braves, has, pennants, boasts, depends, is, begins, continues, thats, franchises, franchises, is, moises, russells')
+
+('VBD', 'were, was, came, picked, was, had, had, was, won, were, began, went, won, had, improved, made, were, were, got, captured, did, captured, held, purchased, shipped, declared, were, were, refused, ended, finished, contracted, were, struggled, was, scored, put, improved, reached, went, was, started, had, went, left, were, went, finished, were, posted, snagged, arent, covered, was, ended, was')
+
+('JJS', 'greatest, highest, highest, best, worst, worst, best')
+
+('NNP', 'ken')
+
+100 most freq tokens after processing: 
+[('the', 2187), ('of', 1022), ('a', 890), ('in', 849), ('to', 798), ('and', 735), ('that', 488), ('our', 442), ('s', 419), ('verdict', 377), ('is', 354), ('on', 342), ('it', 340), ('trump', 340), ('for', 331), ('1', 290), ('i', 285), ('with', 251), ('at', 229), ('more', 212), ('percent', 209), ('by', 208), ('are', 203), ('we', 200), ('this', 200), ('but', 197), ('as', 191), ('positive', 189), ('than', 170), ('like', 169), ('from', 165), ('donald', 157), ('have', 156), ('you', 151), ('was', 143), ('about', 143), ('or', 138), ('an', 138), ('data', 136), ('neutral', 133), ('t', 128), ('be', 123), ('they', 120), ('one', 120), ('has', 114), ('their', 103), ('not', 101), ('all', 99), ('out', 98), ('other', 97), ('were', 96), ('who', 94), ('so', 93), ('what', 90), ('when', 90), ('up', 90), ('his', 89), ('which', 89), ('2', 88), ('people', 85), ('there', 84), ('my', 84), ('if', 83), ('he', 83), ('how', 83), ('negative', 83), ('hillary', 81), ('get', 80), ('m', 79), ('state', 79), ('can', 78), ('me', 78), ('some', 78), ('model', 78), ('most', 77), ('10', 74), ('3', 74), ('<', 74), ('films', 73), ('only', 71), ('>', 70), ('do', 68), ('just', 68), ('polls', 67), ('5', 66), ('those', 64), ('said', 61), ('rock', 61), ('its', 59), ('also', 58), ('would', 56), ('time', 56), ('new', 55), ('2014', 54), ('where', 54), ('clinton', 54), ('2015', 54), ('bar', 53), ('women', 53), ('been', 52)]

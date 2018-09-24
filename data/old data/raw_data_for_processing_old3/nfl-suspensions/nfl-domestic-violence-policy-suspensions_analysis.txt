@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1649
+Raw number of types: 577
+Raw Type token ratio: 0.34990903577926014
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1148
+Number of types: 512
+Type token ratio: 0.445993031358885
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'aug history violence allison mccann github github photo baltimore ray rice wife janay news conference patrick semansky photo baltimore ray rice wife janay news conference patrick elevator floor man woman purse body way budge football league video video aftermath altercation ray rice thengirlfriend wife janay palmer offseason film video arrest nfl commissioner roger goodell rice star baltimore rice palmer league conduct policy punishment incommensurate crime joke espnw columnist jane rice test marijuana discipline goodell press conference rice suspension discipline policy letter team league treatment rice case conduct policy assault battery violence assault force suspension pay offense consideration suspension rice suspension offense ban league opportunity apply reinstatement year sixgame suspension suspension violence consequence offense kind ban league repeat offense punishment rice incident nfl suspension1 league history rice substance abuse abuse conduct season someone body track player length suspension spokeswoman darlene capiro email list grantland information group information entirety spokesman nfl george atallah union help diego list suspension tracker2 process news reports3 reason suspension number player isn perfect start evidence punishment conduct drug percent firsttime suspension percent repeat suspension question number player miss length suspension league policy substance percent firsttime percent year league policy5 contrast variation length conduct category everything murder violence league instance conduct suspension group johnson drink woman face manning man restaurant percent gun stripper marshawn lynch percent threegame suspension car assault dui suspension pacman season police difference treatment drug conduct league bargaining agreement cba conduct policy policy program disparity covering league bridge gap guidance drug prescription player violence banishment process player year lifetime substance abuse gambling6 comparison donte stallworth dui manslaughter league year inconsistency punishment violence conduct league number conduct violence number suspension goodell doesn violence suspension record violence nfl player woman smoking joint data set database please submit correction oct version story set substance abuse ray rice substance abuse')
+
+('JJ', 'nfl uneven domestic open unconscious unconscious national nfl personal personal bad possible many entire other consistent other new goodell short effective personal domestic sexual physical first current second average domestic unprecedented first secondtime understand unrelated steroid domestic entire wrong nfl comprehensive several unaware complete espn san uniontribune nfl wikipedia spotrac good corresponding hard many nfl personal inconsistent average harsh punishment little ped secondtime personal catchall unsanctioned in–game social first percent onegame larry ricky denny sexual multiple adam entire first numerous nfl collective personal evident other new meant clear handle violent offfield second act nfl available previous guilty previous domestic clear personal average personal domestic old nonspecific average baseline domestic previous domestic caught full searchable table complete possible last updated many indefinite many lifetime')
+
+('VBG', 'punishing running running closing holding using picking running showing running citing cheating performanceenhancing smoking issuing regarding mitigating according following looking governing dating using making using embarrassing having assuming mitigating going excluding')
+
+('VBN', 'filed given been suspended consistent given collected been determined suspended repeated cobbled missed been punished arrested received ranged suspended been repeated issued suspended been punished corrected repeated')
+
+('NNS', 'suspensions data data datanflsuspensions doors knees feet doors tries feet tries bodies rounds ravens games interviews mcmanus games players games drugs peds seasons cases cases owners games factors circumstances data times offenders violations ones games violations games games colleagues espn nfl data stats incidents players data requests arrests incidents suspensions games data offenses games violations offenses peaks charts offenders games offenders games games steroids violations violations offenders games offenders suspensions violations media violators players games bridges players players games cases jones games games arrests altercations violations substances documents drugs regulations years offenses offenses commits appeals bans violations games violations cases guidelines games games factors errors entries suspensions suspensions data bans')
+
+('VBP', 'get prevent move thursday involve warrant report association database note note occur receive receive are receive receive are jeremy receive percent result abuse compare pages are database have know')
+
+('VBZ', 'ravens speaks ravens speaks drops falls ends has violations has kinds has peds includes arrests does does has has means beats')
+
+('VBD', 'semansky won made were prompted suspended felt wrote was was exclaimed had said was announced obtained wrote fell went issued wanted were warranted warranted assumed suspended was was contacted responded were set did selected said had did found verified missed4 categorized had suspected outlined received spit assaulted received pointed was was went was were were was pleaded was became looked was had suspended was punishment were missed sept misstated were were were were')
+
+('VB', 'heavy make goodell subject affect result keep have have provide forced find gun mention refer result wait reduce double take')
+
+('JJR', 'zapruder less more greater fewer earlier')
+
+('JJS', 'harshest least tallest longest')
+

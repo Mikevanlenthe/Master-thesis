@@ -1,0 +1,3 @@
+Article: pollster-ratings/how-fivethirtyeight-calculates-pollster-ratings
+
+Number of graphs: 3

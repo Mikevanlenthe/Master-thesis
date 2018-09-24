@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1750
+Raw number of types: 633
+Raw Type token ratio: 0.3617142857142857
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1096
+Number of types: 505
+Type token ratio: 0.4607664233576642
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VB', '2015 read quit qatar give come take see aggregate compare argue give happen require need mean percent happen bluff motivate')
+
+('JJ', 'break fifa beautiful fifa getty last afp bozonafpgetty bozon first corrupt european fifa fifa other african asian uefa credible european handful united economic responsible fifa current organizational much proportion fifa quadrennial reliable reasonable lucrative africa wide different comprehensive fifa high disposable valuable lucrative else gdp united top belowaverage large wealthy gdpweighted japan germany united gdpweighted percent gdpweighted global afc uefa uefa italy uefa uefa uefa uefa south uefa uefa uefa taiwan africa uefa uefa sweden uefa uefa afc greece uefa portugal continental fifa african underrepresented fifa gdpweighted isn bad fifa few first fifa second favorable stark official few responsible uefa european tense international required many fifa uefa gdpweighted align particular unlikely fifa russian european couldn transcontinental oecd new oecd large european germany united asiapacific korea oecd gdpweighted gdpweighted last critical other nigeria new flee english first favorable seamless meant new english institutional hard')
+
+('NN', 'nate silver game github github datafifa headquarters bozon afp picture logo fifa organisation head office zurich september day meeting executive committee president batter candidature mandate head fifa condition attribution world cup qatar photo sebastien bozon photo credit sebastien afp getty indictment bunch fifa justice department wednesday step fifa end thursday platini president football federation uefa sepp blatter president fifa world cup world rogue football fifa blatter threat japan leverage soccer future fifa structure power brazil development country population gdp percent money world plurality television licensing lot world pay world cup1 country market world cup south fifa audience world cup television fifa data world cup fifa size countries2 estimate television country country gdp4 country income nation nation world cup fifa world cup viewership population5 population make total percent audience world cup percent china percent percent brazil percent kingdom italy france percent world cup audience audience table share country body population world cup audience audience concacaf japan china germany brazil conmebol france russia spain korea afc indonesia mexico concacaf turkey thailand afc argentina conmebol poland saudi arabia canada concacaf colombia conmebol venezuela conmebol south caf malaysia afc switzerland belgium uefa vietnam afc iran afc chile conmebol romania austria uefa fifa share confederation percent fifa world cup percent tournament audience contrast asia south uefa audience course thing representation doesn square decision world cup qatar world percapita gdp colleague carl bialik week suit parity ppp version wealth exchange viewership world cup club football audience game world soccer roster world cup percent club football country club part winter world cup qatar club season fifa defect break percent world cup audience start russia break world cup president vladimir putin derail blatter reelection competition world cup foundation football federation doesn france italy spain region japan latin america chile percent world cup audience percent clubteam representation world cup convince brazil argentina breakaway foundation world cup audience knockout stage year world cup mass pick zealand fifa formation premier league england division masse then104yearold football league take advantage deal end change fan point view6 period prosperity club football power break money change')
+
+('VBN', 'filed discussed reelected considered backed lot published detailed reached report weighted played used based been awarded most reached')
+
+('VBP', 'get are sebastien know have have brazil have doesn make cup isn televise china are relative github caf afc are measure measure have make run make purchasingpower furthermore reflect are are are don include have south mexico account join have have have colombia are')
+
+('NNS', 'data data images officials countries nations organizations presidents federations indictments countries others states china revenues funds claims rights men fees estimates data countries data audiences sponsors rights viewers data viewers states countries figures countries countries nigeria australia numbers confederations members countries members america countries counterarguments estimates procedures interests plutocrats ways estimates assumptions countries differences gdp rates figures countries players relations teams fifa clubs players matches countries countries interests indictments nations members russia economies states australia members countries countries parallels teams')
+
+('NNP', 'zurich')
+
+('VBZ', 'ebastien images shows front images gives distributes comes networks has reflects comes download netherlands has has shows compensates represents includes does has')
+
+('VBD', 'sepp formalized said awarded weight percapita reached had was represented followed accounted represented gdpweighted afc represented was gdpweighted wrote gdp opposed talent played responded rival used foothold advanced wanted won occurred resigned was')
+
+('JJR', 'less more purchasingpower better worse viewer wealthier more more more less more more')
+
+('VBG', 'beginning footballing going including bringing voting selling licensing reporting following listing going developing making according developing governing developing bringing cultivating interrupting releasing having accusing trying having including doing')
+
+('JJS', 'highest')
+

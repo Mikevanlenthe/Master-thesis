@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1000
+Raw number of types: 386
+Raw Type token ratio: 0.386
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 697
+Number of types: 336
+Type token ratio: 0.48206599713055953
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'dec walt hickey bar walt github github york half game england jersey bill karaoke online shopping drink bar column life culture barroom research conclusion question conundrum corner author york makeshift shrine odell beckham expense philadelphia couple nfl season super interesting pack promise mediocre football argument question meaningless end season reason stubhub online ticket market ticket price game year home game ticket price team year home team playoff contention discount ticket rest season price week game york season average bar muse havas pictwittercomrk4dhi2sue walter hickey walthickey december mark fugger season ticket holder joe namath end season metlife stadium lot christmas shopping result end year football game event party wasn parking lot day game place party group fan fan spectacle nfl canada york work team play metlife gillette stadium patriots fan deal fan time game tom mcgarr season ticket holder travel visiting team pittsburgh town stubhub location season percentage york jersey home turf gang standin region denver pittsburgh england yorknew jersey share home game york buffalo majority fugger contingent hometown budget metlife case dec game contingent tank gas')
+
+('VBZ', 'goes goes has looks comes')
+
+('JJ', 'nfl new second new rutherford new argument walt only dumb pop logical statistical typical fight new last regular many frigid nfl obvious secondary average divisional average total divisional divisional eliminated average other average average other expensive new lifelong kevin kevinhavas many casual wrong full many local new good diehard last spit many nearby front new new green perfect many new new fifth western new vast large massive massachusetts full')
+
+('NNS', 'games fights data data datanflticketprices jets fans patriots friends fights questions arguments rants data arguments haunts giants eagles fans weeks teams playoffs stadiums temperatures games people games tickets data games games matches hosts prices games prices motivations jets patriots fights jets years days jets fans sundays things partiers people jets fans frenchcanadians patriots fans jets steelers patriots fans professionals games tickets christmas presents kids games patriots teams afc bases jets games fans steelers broncos data data tickets jets games tickets buyers broncos steelers fans dips games jets bills tickets games diehards fans fans festivities patriots fans plates')
+
+('VBN', 'filed done devoted eliminated eliminated compared been fan come come fan played mcgarr sold')
+
+('VBP', 'get cheer dec use fan schadenfreude attend are are fan faithful take don have come have home are are home are live see get don want')
+
+('VB', 'kostroun matter take pick see play denver see see see increase')
+
+('JJS', 'best')
+
+('VBG', 'solving erecting soaking recurring seeing seeing hosting')
+
+('VBD', 'developed hashed found were appeared prompted sent were was had saw went host was met explained said were said spoke asked brought was said had spoke had moved said was said came got were said came got said asked bought sold said hosted')
+
+('JJR', 'submit cheaper higher lower cheaper matter younger')
+

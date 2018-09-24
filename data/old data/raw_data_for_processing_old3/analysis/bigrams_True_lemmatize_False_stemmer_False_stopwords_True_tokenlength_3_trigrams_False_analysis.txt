@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 617
+Raw number of types: 329
+Raw Type token ratio: 0.5332252836304701
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 701
+Number of types: 648
+Type token ratio: 0.9243937232524965
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'phrases repeats data github data datarepeatedphrasesgop words politics words debates campaigns points sales primaries eyes echoes nightmares knows feels times candidates repeats transcripts karen jones words times phrases phrases candidates classics arms trumpisms reveals tics possibilities victories shoots betrays points chris people times numbers phrases cheers the,phrases candidate,repeats matter,politics those,words televised,debates talking,points good,sales the,primaries this,works the,eyes electorate,echoes that,feels three,times the,candidates wannabe,repeats used,transcripts the,1970s linguist,karen spärck,jones which,words number,times oftrepeated,phrases while,phrases other,candidates stonecold,classics bear,arms quintessential,trumpisms analysis,reveals verbal,tics cruz,daydreams the,possibilities fourthplace,victories trump,shoots cruz,betrays just,talks talking,points more,lives dream,its four,times the,numbers most,phrases analysis,gives debate,cheers')
+
+('VBP', 'gop milo github draft electorate marco see spärck keep win candidate hip say ivy christie change confirm these,are phrases,each repeats,most politics,and words,are debates,campaigns points,then sales,team they,hammer primaries,when eyes,the knows,how feels,when times,one plan,and repeats,himself karen,spärck words,and phrases,score candidates,have arms,and trumpisms,don reveals,each shoots,from with,have betrays,his kasich,well people,and lives,than its,entirety they,not would,seem numbers,confirm over,and')
+
+('NN', 'candidate beckman election mar age team home brand candidate bush day fiction debate man plan prototype roboprez time momentum consolidate antitrump coalition barb donald trump debate repeat houston crowd time wannabe debates1 tfidf linguist candidate number score everyone phrase measure importance score mean anything score analysis daydreams president rubio string fourthplace president trump cruz league past john record ohio rubio gauche replay rubio script debate season example rubio line reach dream entirety harder notice backtoback candidate minnesota puerto rico3 nothing analysis game debate gop,candidate milo,beckman election,get get,the the,data data,github github,github github,data data,datarepeatedphrasesgop published,mar mar,2016 words,matter the,age campaigns,draft draft,and any,good them,home through,the can,brand brand,candidate candidate,his his,opponent the,electorate might,fill fill,jeb jeb,bush day,and and,when when,doesn doesn,well well,different marco,rubio dispelled,the the,same same,fiction one,debate like,man man,with with,plan prototype,roboprez roboprez,not ready,for for,prime prime,time the,momentum consolidate,the frantic,antitrump antitrump,coalition coalition,and tossing,the the,same same,barb barb,donald donald,trump trump,later later,debate debate,you you,repeat parried,houston houston,the the,crowd crowd,went went,wild debating,again this,time time,miami presidential,wannabe the,most republican,debates1 debates1,see called,tfidf each,candidate high,number high,while that,other also,said said,score score,lower don,get get,the the,everyone top,phrase phrase,tfidf tfidf,measure relative,importance importance,score higher,than score,beyond keep,and this,analysis president,while while,rubio fresh,off third,and and,fourthplace glorious,future future,when when,president president,trump the,hip hip,with ivy,league league,past past,with would,note note,and and,john john,kasich about,his his,record record,ohio ohio,but verbatim,rubio crown,chris chris,christie him,for for,the the,gauche instant,replay replay,but but,rubio rubio,been the,script throughout,debate debate,season example,rubio the,line line,reach reach,more more,people and,change change,more before,reference american,dream for,rubio rubio,harder harder,notice when,they confirm,the the,rubiobot which,candidate candidate,has has,the the,most scoring,over that,rubio rubio,has than,just just,minnesota minnesota,and and,puerto puerto,rico3 rico3,and this,analysis drinking,game tonight,debate')
+
+('VBN', 'filed published chosen televised needed used used elected nailed used are,chosen metric,called have,also possibilities,elected have,say has,won')
+
+('VB', 'get lowenergy fill rubio underslept identify get note seem and,underslept jones,identify don,win')
+
+('VBG', 'talking dying tossing debating highlighting repeating talking sticking scoring drinking polltest,talking his,dying responded,tossing candidates,debating mean,anything beyond,highlighting off,string far,repeating lengthy,talking been,sticking phrases,scoring and,nothing rigorous,drinking')
+
+('JJ', 'good opponent jeb different ambitious floridian overprepped dispelled early ready prime frantic wild tonight miami presidential first republican metric computational phrases2 high particular oftrepeated high top tfidf relative stonecold right bear quintessential verbal cruz fresh third glorious future lengthy verbatim crown instant reference american rubio narrative checked rubio rigorous tonight are,the each,gop most,milo under,2016 and,those carefully,the like,any team,they hammer,them when,this works,can opponent,the until,his dying,day different,ambitious ambitious,floridian when,marco underslept,dispelled fiction,three looked,less more,like early,prototype not,ready shattered,the needed,consolidate increasingly,frantic with,the tonight,this miami,which which,presidential himself,the from,the the,first first,republican used,metric pioneered,the computational,linguist identify,which phrases2,each surprisingly,high times,particular long,oftrepeated score,high that,don everyone,top measure,relative score,doesn doesn,mean highlighting,some some,stonecold classics,right right,keep and,quintessential win,this each,candidate candidate,verbal ted,cruz about,the elected,president string,third the,glorious from,the say,cruz his,ivy with,would mostly,just repeating,lengthy points,verbatim takes,the the,crown nailed,him gauche,instant sticking,the consistently,throughout season,for for,example used,the reference,the the,american entirety,four fortunately,for backtoback,would that,the rubiobot,narrative checked,which more,than nothing,else else,this statistically,rigorous game,for for,tonight')
+
+('VBD', 'hammer looked shattered responded parried went used called pioneered said ted found beckman,filed datarepeatedphrasesgop,published age,televised lowenergy,might likely,overprepped debate,looked time,shattered momentum,needed and,responded yourself,parried wild,with again,tonight most,used see,for myself,used tfidf,pioneered candidate,used tics,ted rubio,fresh christie,nailed rubio,used narrative,checked')
+
+('VBZ', 'works predicts talks takes lives gives bush,nightmares floridian,knows victories,predicts rubio,takes')
+
+('JJR', 'higher filed,under than,higher')
+
+('NNP', 'kasich')
+

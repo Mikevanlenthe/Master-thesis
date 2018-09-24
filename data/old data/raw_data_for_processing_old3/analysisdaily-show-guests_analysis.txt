@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 642
+Raw number of types: 313
+Raw Type token ratio: 0.48753894080996885
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 710
+Number of types: 620
+Type token ratio: 0.8732394366197183
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'aug guest jon hickey president stewart show york evan vucci era show stewart episode tonight show stewart alma graduation school shut show audience member elizabeth washington metro record way sanity stewart part hell look list1 guests2 profile google knowledge graph3 chair fusion everyone show way today formula talk show list arm sometime figure grace program presence presence gap presence show war time show show emphasis head percent government percent actor movie year couple plurality show brian appearance march jon stewart tonight edt comedy jon,stewart stewart,ever walt,hickey under,get get,the the,data data,github github,github github,data president,obama obama,and jon,stewart stewart,host new,york york,evan evan,vucci vucci,era jon,stewart new,episode this,show show,has been,since since,was went,william mary,stewart stewart,alma alma,mater mater,and the,graduation graduation,walk the,school school,wouldn wouldn,shut shut,about about,him attended,one the,show show,audience audience,member member,may the,late late,elizabeth the,washington helping,set set,record record,with with,800000 other,people people,the the,way restore,sanity big,part for,and leaving,but but,was was,hell hell,run daily,show some,interesting ways,since hosting,1999 just,look look,the stewart,has the,showbyshow guest,list1 list1,and and,then crosschecked,each each,the the,1600odd profile,google google,knowledge knowledge,graph3 graph3,find find,out out,who other,chair some,mind mind,meld friends,fusion monarchs,and between,the the,show the,way way,today today,but started,standard standard,formula formula,talk talk,show guest,list shot,the the,arm arm,sometime sometime,around political,figure figure,grace grace,the the,program program,with with,his his,presence presence,was bob,dole dole,all all,people people,with and,2000 the,show relegated,more subdued,presence presence,with with,media the,gap showing,2005 and,have been,consistent consistent,presence presence,the the,show been,war the,whole whole,time time,once the,show was,important important,they the,show outsized,emphasis head,2008 when,fifth fifth,all all,the the,government government,the sucked,actor promoting,movie the,last represent,plurality plurality,the the,show count,fareed fareed,zakaria zakaria,has the,most leary,and brian,williams williams,boss boss,has for,not begging,come come,along along,his his,last last,appearance appearance,march jon,stewart mic,tonight tonight,edt edt,comedy comedy,central')
+
+('VBP', 'stewart github walk stewart find mind run politicos represent count show boss datadailyshowguests,president host,the daily,show years,old students,tour edwards,with who,are rally,restore sanity,2010 and,now run,and guests,stewart against,their muppets,and feels,like always,been actors,and first,four stewart,run visits,1999 comedians,and performers,who authors,and really,left politics,came guests,percent politics,and figures,must that,year musicians,and frequently,and they,now guests,count times,and')
+
+('VB', 'show get run show sucked daily,show that,the must,have')
+
+('JJ', 'walt jon daily july new daily jon last new old william mary prospective tour late jammed big interesting guest unique sat meld monarchs standard shot first political bob dole first several military consistent long much whole important outsized fifth affiliated military last fareed denis leary last mic central guest,jon show,walt july,new ending,the show,with with,jon its,last last,new tonight,this has,been old,went william,mary from,the the,prospective tour,the taping,the featuring,the friends,who are,still onto,the inadvertently,helping stewart,was pretty,big growing,for changed,some pulled,the unique,guests2 their,profile sat,the chair,all all,these apparently,some happening,with with,our talked,monarchs everyone,between been,the dominated,the for,the had,shot the,first first,political was,bob first,several filling,the gap,military have,been show,long long,been pretty,much much,the show,was left,the came,head with,the the,military another,percent were,media year,the last,couple comedians,began once,again again,represent had,the followed,denis denis,leary and,brian has,been been,three myself,for drops,the the,mic')
+
+('VBN', 'filed set started interviewed started show subdued come had,the has,changed has,interviewed significantly,what originally,started most,often soon,relegated more,subdued show,outsized were,affiliated have,sucked')
+
+('NNS', 'data github data datadailyshowguests airs years students edwards friends people ways guests years friends muppets feels actors comedians years people visits comedians performers years media authors figures politicians politics guests politics media figures years actors musicians comedians zakaria appearances williams times data,datadailyshowguests airs,its was,years prospective,students elizabeth,edwards with,friends still,roommates show,has interesting,ways the,guests guests2,against these,years our,friends and,muppets show,feels like,always show,actors and,comedians four,years with,visits the,comedians other,performers show,its several,years figures,authors military,figures once,politicians emphasis,politics the,guests military,politics media,figures couple,years though,actors actors,musicians and,comedians and,they show,appearances three,times')
+
+('VBD', 'host went attended changed pulled crosschecked talked changed dominated appeared relegated started caught left came began followed ever,had hickey,filed episode,tonight him,attended may,2009 roommates,jammed since,started interviewed,pulled then,crosschecked who,sat fusion,talked but,changed comedians,dominated list,for run,had around,20034 who,appeared figures,started war,pretty politicians,caught has,had appearances,followed march,2014')
+
+('VBG', 'taping ending taping featuring helping growing leaving hosting happening filling showing promoting kicking begging show,during during,taping era,ending one,taping part,growing now,leaving started,hosting meld,happening politicos,filling started,showing actor,promoting and,kicking not,begging')
+
+('VBZ', 'roommates figures guests drops stewart,airs washington,metro media,figures show,guests daily,show stewart,drops')
+
+('JJS', 'guest every,guest showbyshow,guest the,guest')
+
+('JJR', 'filed,under')
+

@@ -1,0 +1,59 @@
+Article: mlb-allstar-teams
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1232
+Raw number of types: 506
+Raw Type token ratio: 0.4107142857142857
+
+100 most freq tokens before (pre)processing: 
+[(',', 4728), ('the', 4376), ('.', 2857), ('of', 2161), ('a', 1797), ('to', 1785), ('in', 1714), ('and', 1559), ('’', 1423), ('that', 1028), (':', 761), ('s', 757), ('for', 754), ('is', 733), ('it', 641), ('(', 621), (')', 621), ('on', 601), ('our', 566), ('are', 540), ('team-logo', 535), ('with', 490), ('we', 476), ('“', 471), ('”', 471), ('by', 463), ('more', 454), ('as', 454), ('at', 440), ('i', 423), ('trump', 414), ('—', 404), ('but', 389), ('this', 381), ('verdict', 377), ('they', 373), ('you', 364), ('polls', 359), ('1', 350), ('have', 334), ('t', 332), ('percent', 331), ('or', 329), ('than', 322), ('from', 319), ('be', 316), ('about', 315), ('was', 297), ('who', 293), ('one', 286), ("'", 253), ('an', 253), ('like', 251), ('data', 249), ('said', 233), ('were', 232), ('not', 232), ('all', 231), ('if', 229), ('has', 229), ('their', 229), ('pollsters', 214), ('there', 203), ('most', 201), ('how', 195), ('positive', 195), ('other', 192), ('polling', 192), ('can', 191), ('some', 184), ('?', 182), ('so', 181), ('those', 171), ('poll', 171), ('what', 169), ('people', 169), ('when', 168), ('2', 168), ('donald', 166), ('which', 165), ('out', 161), ('get', 159), ('%', 157), ('up', 154), ('also', 153), ('he', 151), ('each', 148), ('had', 143), ('points', 143), ('only', 136), ('just', 136), ('will', 136), ('election', 135), ('his', 134), ('league', 134), ('neutral', 133), ('do', 131), ('/', 129), ('1.1', 129), ('two', 127)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1073
+Number of types: 492
+Type token ratio: 0.45852749301025164
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, mlb, allstar, paine, baseball, league, outfielder, mike, trout, los, mvp, trophy, team, victory, league, mlb, baseball, game, tuesday, ohio, paul, sancya, league, allstar, mike, trout, los, mlb, allstar, game, tuesday, ball, park, cincinnati, ohio, rob, carr, occasion, week, s, league, allstar, game, baseball, s, abundance, talent, display, hello, mike, question, allstar, allstar, game, answer, handle, talent, league, allstar, game, i, components1, baseballreference, s, replacement, war, projection, system, complexity, monkey, adjust, player, s, performance, mean, player, s, talent, season, projection, season, age, progression, basis, player, allstar, game, team, proportion, playing, time, player, game, itself2, talent, season, contest, help, expectation, run, winning, allstar, roster, rate, team, slate, season, question, competition, context, league, allstar, team, talent, schedule, seattle, marinersesque, season, expectation, team, amount, luck, allstar, talent, bill, formula, matchup, allstar, squad, assortment, past, data, github, allstar, team, method, roster, league, koufax, game, mound, marichal, jim, bunning, gaylord, hall, outfield, willie, aaron, roberto, clemente, ron, santo, mccovey, infield, baseman, jim, nearhall, fame, catcher, joe, torre3, link, lineup, jim, ray, hart, willie, stargell, bench, nl, collection, allstar, history, year, level, hall, predecessor, allstar, study, allstar, war, paul, goldschmidt, bryce, harper, zack, greinke, year, s, nl, team, alltime, project, al, team, bit, record, trout, talent, rating, player, rest, al, roster, isn, t, allstar, tide, talent, baseball, time, baseball, silver, phenomenon, baseball, adjustment, sport, s, league, nate, s, timeline, adjustment, average, player, percent, average, player, today, year, s, competition, fact, timeline, adjustment, allstar, team, talent, rating4, al, nl, powerhouse, al, squad, place, team, higuera, peak, lineup, hall, ripken, jr, rickey, henderson, puckett, league, allstar, roster, relative, era, question, crossera, quality, time, exhibition, allstar, timeline, adjustment, talent, allstar')
+
+('VBP', 'am, stand, use, i, represent, play, s, play, log5, are, check, perry, lefebvre, dick, say, tweak, are, fare, attempt, fivethirtyeight, apply, emerge, do, think, rank, are, ranks')
+
+('JJS', 'best, best, best')
+
+('NNS', 'teams, angels, angels, celebrates, images, teams, terms, groups, wins, terms, projections, years, data, effects, projections, ratings, ratings, ratings, runs, differentials, wins, percentages, wins, opponents, squads, teams, teams, games, mariners, teams, ratings, james, probabilities, games, teams, standings, belongs, famers, mays, corners, mashers, simulations, allstars, squads, teams, squads, leaguers, teams, games, squads, standards, teams, sports, numbers, beginnings, implies, allstars, leaguers, clemens, famers, boggs, comparisons, changes, contests, ratings, teams, games')
+
+('JJ', 'neil, american, national, cincinnati, ap, american, great, american, getty, past, major, absurd, young, full, worth, gifted, first, available, runbased, simple, intricate, multiple, true, following, talent, much, s, average, little, pythagorean, expected, typical, allstar, regular, average, normal, top, mean, true, tremendous, historical, other, aforementioned, pythagorean, random, other, allstar, raw, national, hard, sandy, juan, outrageous, second, weak, fearsome, random, fellow, same, famerladen, other, national, talented, s, mccutchen, pitcher, other, allstar, nl, individual, impressive, historical, s, athletic, other, editorinchief, nate, timeline, major, present, good, weak, national, aforementioned, second, great, teddy, cal, national, talented, absolute, tuesday, s, talentladen, combined')
+
+('VBN', 'filed, held, expected, used, given, compiled, runbased, turned, forced, relieved, allen, forced, considered, led, arrived, talented, benefitted, powered, winfield, settled')
+
+('VBZ', 'angeles, holds, angeles, falls, converts, mantle, s, ranks, lags, possesses, pertains, slopes, means, drops, represents, is')
+
+('VBD', 's, was, was, did, assembled, was, used, formed, logged, generated, were, possessed, played, expected, won, were, benefitted, had, represented, started, was, hank, manned, was, came, s, s, andrew, attempted, mlb, was, were, s, was, included, wade, staged')
+
+('VBG', 'scoring, asking, aging, taking, subtracting, using, using, according, starting, starting, losing, according, starting, ranking, rising, facing, ranking, sliding, pitching, accounting')
+
+('VB', 'surprise, get, build, marcel, be, pecota, regress, be, estimate, appear, post, face, demolish, go, win, remember, construct, simulate, fare, play, see, be, willie, go, be, take, do, go, adjust, quantify, third, kirby, dave, i, deal, talent, appreciate')
+
+('JJR', 'better, better, roger')
+
+('NNP', 'methodology')
+
+100 most freq tokens after processing: 
+[('the', 4378), ('of', 2163), ('a', 1804), ('to', 1787), ('in', 1716), ('and', 1561), ('that', 1032), ('s', 817), ('for', 756), ('is', 735), ('it', 645), ('on', 603), ('our', 568), ('are', 543), ('teamlogo', 535), ('with', 492), ('we', 478), ('by', 465), ('as', 456), ('more', 456), ('at', 442), ('1', 435), ('i', 425), ('trump', 417), ('but', 391), ('this', 383), ('verdict', 377), ('they', 375), ('you', 366), ('polls', 360), ('percent', 337), ('t', 337), ('have', 336), ('or', 331), ('than', 324), ('from', 321), ('be', 319), ('about', 317), ('was', 299), ('who', 295), ('one', 291), ('an', 255), ('like', 253), ('data', 249), ('said', 235), ('not', 234), ('were', 234), ('all', 233), ('if', 231), ('has', 231), ('their', 231), ('2', 229), ('pollsters', 214), ('there', 205), ('most', 201), ('how', 197), ('other', 196), ('10', 195), ('positive', 195), ('can', 193), ('polling', 193), ('11', 186), ('some', 184), ('so', 183), ('those', 172), ('people', 171), ('what', 171), ('poll', 171), ('when', 170), ('which', 167), ('donald', 167), ('out', 163), ('get', 161), ('%', 157), ('up', 156), ('he', 153), ('also', 153), ('13', 153), ('3', 150), ('14', 149), ('each', 148), ('had', 145), ('points', 143), ('12', 140), ('will', 138), ('just', 138), ('his', 136), ('only', 136), ('election', 135), ('league', 134), ('do', 133), ('neutral', 133), ('would', 127), ('two', 127), ('15', 126), ('number', 124), ('average', 121), ('<', 121), ('>', 120), ('my', 115)]

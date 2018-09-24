@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1000
+Raw number of types: 386
+Raw Type token ratio: 0.386
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 605
+Number of types: 506
+Type token ratio: 0.8363636363636363
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'meaningless cheer england jersey kostroun argument shopping column culture barroom research conclusion submit question conundrum corner author makeshift shrine philadelphia season super mediocre football question meaningless season reason ticket market price ticket price playoff contention average discount ticket season price season average havas kevinhavas pictwittercomrk4dhi2sue walter hickey fugger season ticket holder namath fugger season stadium faithful result football event allday party place party group canada metlife gillette stadium season ticket holder broncos location season percentage standin region denver pittsburgh increase yorknew share fifth buffalo majority hometown budget metlife contingent massachusetts filed,under during,second second,against jersey,kostroun kostroun,argument about,culture hashed,barroom statistical,conclusion conclusion,submit submit,question question,conundrum conundrum,corner corner,author erecting,makeshift makeshift,shrine shrine,odell expense,philadelphia regular,season season,super promise,mediocre mediocre,football argument,question question,meaningless obvious,reason stubhub,online secondary,ticket ticket,market market,average average,ticket ticket,price divisional,average average,ticket ticket,price playoff,contention higher,average lower,average prices,average average,discount discount,ticket compared,season other,price expensive,season season,average havas,kevinhavas kevinhavas,pictwittercomrk4dhi2sue pictwittercomrk4dhi2sue,walter walter,hickey december,fugger fugger,season season,ticket ticket,holder namath,fugger metlife,stadium stadium,while while,faithful shopping,result allday,party brought,place party,spoke spoke,group their,metlife seeing,gillette gillette,stadium season,ticket ticket,holder denver,broncos stubhub,location perfect,standin hosting,denver denver,pittsburgh pittsburgh,england england,mcgarr mcgarr,increase increase,yorknew yorknew,jersey jersey,share during,fifth western,buffalo contingent,hometown hometown,budget budget,younger younger,metlife massive,contingent contingent,massachusetts')
+
+('NNS', 'games fights datanflticketprices patriots friends fights questions arguments rants arguments haunts giants eagles weeks teams playoffs stadiums temperatures games people games tickets games games matches hosts prices games prices motivations patriots fights years sundays things towards partiers people frenchcanadians steelers patriots professionals patriots games tickets presents games patriots teams bases games steelers tickets games tickets buyers steelers games bills tickets games diehards festivities meaningless,games under,fights github,datanflticketprices england,patriots shopping,friends drink,fights solving,questions matter,arguments barroom,rants these,arguments typical,haunts fight,giants giants,besides philadelphia,eagles couple,weeks interesting,teams eliminated,playoffs appeared,stadiums frigid,temperatures meaningless,games these,games games,tickets divisional,games there,games divisional,matches eliminated,hosts average,prices average,prices there,motivations recurring,fights holder,years season,looks casual,sundays sundays,things result,towards towards,partiers patriots,steelers canada,patriots local,professionals stadium,patriots games,tickets christmas,presents diehard,patriots teams,bases travel,games pittsburgh,steelers bought,tickets tickets,games percentage,tickets tickets,buyers broncos,steelers region,games buffalo,bills majority,tickets comes,games clearly,diehards metlife,festivities massachusetts,plates')
+
+('VBP', 'hickey github rutherford drink odell promise attend cheaper christmas patriots spectacle christmas mcgarr travel denver jersey england patriots fights,github datanflticketprices,cheer against,england patriots,rutherford friends,drink rants,research haven,found temperatures,promise games,season people,attend tickets,cheaper lifelong,kevin looks,metlife things,christmas partiers,football steelers,spectacle which,christmas patriots,mcgarr bases,travel played,front steelers,denver buyers,jersey steelers,region bills,still diehards,fugger festivities,patriots')
+
+('VBN', 'filed devoted hashed eliminated compared played games,played broncos,asked')
+
+('JJ', 'github second online matter logical statistical typical fight schadenfreude expense couple regular frigid argument obvious stubhub online secondary average ticket divisional average total divisional divisional average other average other expensive lifelong kevin walthickey metlife casual wrong spoke brought local nearby pittsburgh stubhub green perfect broncos mcgarr jersey western large contingent massive games,hickey github,github rutherford,jersey karaoke,online truly,matter developed,hashed research,these arguments,their their,logical logical,statistical author,typical soaking,schadenfreude schadenfreude,expense found,couple weeks,regular stadiums,despite despite,frigid prompted,argument there,obvious reason,people attend,these cheaper,stubhub online,secondary price,divisional price,total total,divisional eliminated,playoff those,divisional season,there uncover,patriots nominally,expensive kevin,havas hickey,walthickey since,namath explained,season there,casual football,event event,allday party,wrong spoke,people parking,asked asked,brought strictly,party frenchcanadians,patriots because,canada patriots,local seeing,their tickets,which games,diehard another,season holder,nearby nearby,teams particularly,pittsburgh asked,stubhub games,season season,percentage jersey,green green,perfect definitely,broncos hosted,western still,majority fugger,large large,contingent patriots,massive')
+
+('VBD', 'karaoke developed found eliminated appeared prompted eliminated explained asked spoke moved asked bought hosted hickey,filed argument,karaoke column,devoted culture,developed haunts,fight teams,eliminated playoffs,appeared football,prompted where,eliminated contention,those matches,eliminated ticket,compared fugger,explained wrong,spoke professionals,moved location,bought fifth,hosted')
+
+('VBG', 'solving erecting soaking interesting recurring shopping parking seeing seeing visiting hosting cheer,during online,shopping devoted,solving besides,erecting beckham,soaking super,interesting average,recurring christmas,shopping around,parking moved,seeing cheaper,seeing mostly,visiting games,hosting share,during')
+
+('JJR', 'higher lower younger games,lower')
+
+('NNP', 'december walthickey,december')
+
+('VBZ', 'looks comes plates group,frenchcanadians rarely,games locally,comes')
+
+('VB', 'presents,never')
+

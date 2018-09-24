@@ -1,0 +1,59 @@
+Article: drug-use-by-age
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1055
+Raw number of types: 397
+Raw Type token ratio: 0.376303317535545
+
+100 most freq tokens before (pre)processing: 
+[(',', 2249), ('the', 1812), ('.', 1022), ('of', 835), ('a', 744), ('in', 734), ('to', 670), ('and', 591), (':', 517), ('’', 495), ('our', 432), ('that', 419), ('verdict', 377), ('(', 374), (')', 374), ('trump', 337), ('s', 299), ('is', 296), ('for', 292), ('it', 290), ('on', 281), ('1', 265), ('i', 262), ("'", 252), ('with', 214), ('more', 194), ('positive', 189), ('at', 185), ('this', 174), ('we', 174), ('by', 171), ('but', 161), ('percent', 160), ('as', 160), ('than', 157), ('are', 156), ('donald', 155), ('—', 154), ('like', 154), ('“', 147), ('”', 147), ('neutral', 133), ('from', 131), ('have', 130), ('about', 126), ('you', 123), ('was', 122), ('an', 118), ('data', 109), ('t', 107), ('or', 105), ('be', 104), ('/', 101), ('has', 99), ('one', 96), ('not', 88), ('they', 86), ('negative', 83), ('other', 81), ('his', 81), ('hillary', 80), ('2', 80), ('were', 78), ('state', 77), ('all', 76), ('my', 76), ("'m", 74), ('me', 74), ('who', 73), ('when', 72), ('how', 71), ('their', 71), ('films', 71), ('out', 70), ('he', 70), ('model', 70), ('there', 69), ('so', 68), ('which', 68), ('3', 68), ('?', 67), ('up', 67), ('polls', 67), ('people', 66), ('get', 65), (';', 62), ('some', 62), ('can', 62), ('<', 62), ('>', 62), ('most', 61), ('what', 61), ('if', 59), ('10', 59), ('those', 56), ("'s", 55), ('only', 55), ('do', 55), ('just', 55), ('5', 54)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 950
+Number of types: 378
+Type token ratio: 0.39789473684210525
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, get, have, drink, smoke, do, tend, change, archive, are, are, are, use, alcohol, d, d, versus, do, drink, alcohol, are, ve, use, d, make, are, are, say, download')
+
+('NN', 'baby, barryjester, health, github, github, datadrugusebyage, decade, drug, use, street, journal, article, month, woodstock, mentality, drug, age, look, data, plenty, baby, pot, percentage, consume, alcohol, analysis, alcohol, marijuana, lot, availability, perception, drug, use, age, group, time, survey, drug, use, substance, abuse, health, samhda, baby, use, age, babyboomer, cohort1, drug, use, bar, drug, use, drug, alcohol, marijuana, age, use, percent, chart, bar, bar, >, baby, line, prescription, pain, percent, nonprescription, year, percentage, pain, group, age, use, ritalin, bar, >, bar, use, age, cocaine, year, number, age, group, potsmoking, boomer, year, age, use, bar, >, reporting, week, drug, use, line, babyboom, generation, lot, drug, use, percent, percent, rate, percent, percent, period, line, >, use, difference, drug, use, use, bar, >, painkiller, category, survey, prescription, set, addiction, abuse, standpoint, percent, oxycontin, year, percent, nature, drug, illicit, use, cause, concern, subgroup, something, analysis, doesn, t, answer, bar, data, isn, t, equivalent, health, standpoint, week, night, puff, marijuana, cause, concern, addiction, share, drug, treatment, share, population, baby, overdose, research, richard, miech, professor, university, miech, lack, information, death, drug, use, population, generation, pain, loss, isolation, brain, identifying, drug, generation, predilection, data, story, github')
+
+('NNS', 'boomers, maria, flowers, data, data, reports, rates, admissions, overdoses, boomers, years, generations, americans, habits, boomers, drugs, reveals, boomers, drugs, drugs, data, drugs, boomers, patterns, groups, people, boomers, rates, contemporaries, drugs, groups, boomers, differences, drugs, boomers, relievers, purposes, boomers, relievers, respondents, hallucinogens, tranquilizers, stimulants, amphetamines, respondents, drugs, boomers, groups, users, boomers, days, days, days, days, days, days, groups, boomers, drinkers, days, errors, people, boomers, respondents, people, drugs, parents, grandparents, boomers, boomers, marijuana, boomers, reports, painkillers, people, boomers, painkillers, boomers, ones, dozens, drugs, questions, drugs, boomers, drinks, drinks, adults, admissions, facilities, boomers, generations, certificates, drugs, deaths, reasons, users, researchers, people, effects, traits, boomers, problems, substances')
+
+('JJ', 'high, anna, andrew, public, past, illicit, hospital, baby, previous, wall, last, youthful, middle, small, other, public, different, difficult, able, federal, mental, different, other, similar, overall, individual, high, other, next, previous, other, <, common, other, frequent, crowd, many, previous, other, median, high, median, same, hard, potential, comfortable, <, illicit, same, high, narcotic, true, different, additional, common, problematic, previous, high, addictive, deadly, likely, oxycontin, public, occasional, debilitating, present, funded, likely, other, hard, responsible, overdose, different, high, chronic, social, baby, different, narrative')
+
+('VBN', 'filed, detailed, given, used, used, used, reported, aged, asked, used, compared, given, done, shared')
+
+('VB', 'get, carry, marijuana, use, use, compare, analyze, see, have, remove, be, quadruple, notice, default, be, be, use, use, abuse, die, know, reveal')
+
+('JJR', 'higher, later, lower, younger, less, smaller, lower, younger, less, more, younger, more, younger, more, older, younger, older, older, younger, older, smaller, older, younger, older')
+
+('VBD', 'drugrelated, described, were, aged, were, was, dwarfed, opted, was, used, aged, reported, reported, got, was, turned, did, increased, went, started, began, found, said, said, were')
+
+('VBZ', 's, shows, comes, s, s, seems, grows, represents, is, is, relates, is, is, makes, s')
+
+('VBG', 'causing, aging, including, making, taking, saying, using, including, saying, reporting, including, turning, warning, dropping, concerning, binging, according, getting, coping, aging, mindaltering')
+
+('NNP', '<, >, <, >, <, <, >, <, >, <, <, >, michigan')
+
+('JJS', 'least')
+
+100 most freq tokens after processing: 
+[('the', 1814), ('of', 837), ('a', 746), ('in', 736), ('to', 672), ('and', 593), ('our', 434), ('that', 421), ('verdict', 377), ('s', 356), ('trump', 339), ('is', 298), ('for', 294), ('it', 292), ('on', 283), ('1', 273), ('i', 264), ('with', 216), ('more', 196), ('positive', 189), ('at', 187), ('we', 176), ('this', 176), ('by', 173), ('percent', 166), ('but', 163), ('as', 162), ('than', 159), ('are', 158), ('like', 156), ('donald', 156), ('from', 133), ('neutral', 133), ('have', 132), ('about', 128), ('you', 125), ('was', 124), ('an', 120), ('t', 110), ('data', 109), ('be', 107), ('or', 107), ('has', 101), ('one', 101), ('not', 90), ('they', 88), ('his', 83), ('negative', 83), ('other', 82), ('2', 82), ('were', 80), ('hillary', 80), ('m', 79), ('all', 78), ('my', 78), ('state', 77), ('me', 76), ('who', 75), ('when', 74), ('3', 74), ('their', 73), ('how', 73), ('he', 72), ('out', 72), ('there', 71), ('films', 71), ('so', 70), ('which', 70), ('10', 70), ('model', 70), ('up', 69), ('people', 68), ('get', 67), ('polls', 67), ('can', 64), ('what', 63), ('5', 63), ('some', 62), ('<', 62), ('>', 62), ('most', 61), ('if', 61), ('do', 57), ('just', 57), ('those', 57), ('only', 55), ('women', 53), ('2014', 52), ('2013', 51), ('clinton', 51), ('also', 50), ('2015', 50), ('6', 50), ('bar', 50), ('no', 49), ('nt', 48), ('2016', 48), ('time', 48), ('2012', 48), ('film', 48)]

@@ -1,0 +1,55 @@
+Article: soccer-spi/club-soccer-predictions
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 978
+Raw number of types: 327
+Raw Type token ratio: 0.3343558282208589
+
+100 most freq tokens before (pre)processing: 
+[(',', 4676), ('the', 4298), ('.', 2802), ('of', 2133), ('a', 1760), ('to', 1757), ('in', 1696), ('and', 1536), ('’', 1402), ('that', 1015), (':', 756), ('for', 746), ('s', 738), ('is', 732), ('it', 638), ('(', 609), (')', 609), ('on', 590), ('our', 564), ('are', 537), ('with', 484), ('“', 469), ('”', 469), ('we', 469), ('by', 454), ('more', 451), ('as', 443), ('at', 436), ('i', 419), ('trump', 414), ('—', 392), ('but', 386), ('verdict', 377), ('this', 375), ('they', 369), ('you', 363), ('polls', 359), ('have', 334), ('t', 331), ('percent', 330), ('or', 328), ('1', 327), ('than', 321), ('about', 312), ('be', 312), ('from', 309), ('who', 293), ('was', 290), ('one', 285), ("'", 253), ('an', 252), ('like', 250), ('data', 247), ('said', 233), ('all', 229), ('were', 229), ('has', 229), ('not', 228), ('their', 225), ('if', 220), ('pollsters', 214), ('there', 203), ('most', 197), ('positive', 195), ('polling', 192), ('how', 190), ('can', 187), ('other', 187), ('some', 184), ('so', 181), ('?', 178), ('those', 171), ('poll', 171), ('people', 169), ('what', 168), ('donald', 166), ('when', 166), ('which', 161), ('out', 160), ('get', 158), ('%', 157), ('up', 154), ('he', 151), ('also', 150), ('points', 143), ('had', 142), ('each', 138), ('only', 136), ('just', 136), ('will', 136), ('election', 135), ('neutral', 133), ('his', 131), ('do', 129), ('/', 127), ('two', 125), ('2', 125), ('number', 124), (';', 122), ('<', 121)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 968
+Number of types: 321
+Type token ratio: 0.33161157024793386
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', '\ufeffclub, global, united65, <, <, >, >, >, <, teamlogo, real, >, <, leaguelogo, teamlogo, leaguelogo, madrid, teamlogo, arsenal, europa, bayern, >, >, <, <, >, napoli70, >, <, >, >, <, <, usa, usa, teamlogo, north, nwsl, uanl21, >, liga, psv68, >, <, young, >, <, >, rapid, <, allsvenskan, teamlogo, >, >, <, <, <, <, leaguelogo, teamlogo, gijón49, nürnberg45, >, nîmes55, <, ligue, jay')
+
+('NN', 'soccer, soccer, power, index, match, see, club, soccer, league, season, england, teamlogo, man, city81, ✓, %, teamlogo, man, %, %, teamlogo, liverpool60, %, %, league, leaguelogo, la, season, spain, teamlogo, barcelona72, %, %, teamlogo, atlético, madrid64, %, %, madrid57, %, %, la, liga, season, teamlogo, %, %, teamlogo, bayern, %, %, man, city, %, %, europa, league, season, teamlogo, %, %, %, %, teamlogo, %, %, league, leaguelogo, bundesliga, season, germany, teamlogo, munich66, %, %, teamlogo, schalke, %, %, teamlogo, dortmund45, %, %, bundesliga, leaguelogo, season, italy, teamlogo, juventus71, %, %, teamlogo, %, %, teamlogo, roma56, %, %, serie, leaguelogo, ligue, season, france, teamlogo, psg77, %, %, teamlogo, monaco63, %, %, teamlogo, marseille59, %, %, ligue, leaguelogo, mls, season, teamlogo, toronto, fc0, %, %, teamlogo, seattle0, %, %, teamlogo, atlanta3, %, %, mls, leaguelogo, nwsl, season, teamlogo, portland0, %, %, carolina0, %, %, teamlogo, orlando0, %, %, leaguelogo, clausura, season, mexico, teamlogo, %, %, teamlogo, santos, laguna23, %, %, teamlogo, club, américa21, %, %, mx, leaguelogo, superliga, season, argentina, teamlogo, boca, juniors46, %, teamlogo, talleres38, %, teamlogo, independiente35, %, superliga, leaguelogo, primeira, season, portugal, teamlogo, porto67, %, %, teamlogo, benfica65, %, %, teamlogo, sporting62, %, %, primeira, liga, leaguelogo, season, %, %, teamlogo, ajax61, %, %, teamlogo, az, alkmaar56, %, %, eredivisie, leaguelogo, premier, league, season, russia, teamlogo, lokomotiv49, %, %, teamlogo, spartak, moscow41, %, %, teamlogo, cska, moscow41, %, %, league, leaguelogo, süper, lig, season, turkey, teamlogo, galatasaray53, %, %, teamlogo, beşiktaş50, %, %, teamlogo, başakşehir50, %, %, lig, leaguelogo, league, season, switzerland, teamlogo, boys58, %, %, teamlogo, basel41, %, %, teamlogo, st, gallen39, %, %, league, leaguelogo, bundesliga, season, austria, teamlogo, rb, salzburg59, %, %, teamlogo, sturm, graz51, %, %, teamlogo, vienna40, %, %, bundesliga, leaguelogo, allsvenskan, season, sweden, teamlogo, malmö0, %, %, teamlogo, aik0, %, %, teamlogo, %, %, leaguelogo, eliteserien, season, rosenborg0, %, %, teamlogo, molde3, %, %, teamlogo, sarpsborg3, %, %, eliteserien, leaguelogo, premiership, season, scotland, teamlogo, celtic67, %, %, teamlogo, rangers58, %, %, teamlogo, aberdeen53, %, %, premiership, championship, season, england, teamlogo, wolverhampton76, %, %, teamlogo, cardiff, city73, %, %, aston, villa69, %, %, championship, leaguelogo, la, season, spain, teamlogo, huesca57, %, %, teamlogo, rayo, vallecano54, %, %, teamlogo, %, %, la, leaguelogo, bundesliga, season, germany, teamlogo, fortuna50, %, %, teamlogo, %, %, teamlogo, holstein, %, %, bundesliga, leaguelogo, serie, b, season, italy, teamlogo, empoli54, %, %, teamlogo, frosinone53, %, %, teamlogo, palermo50, %, %, serie, b, leaguelogo, ligue, season, france, teamlogo, reims66, %, %, teamlogo, %, %, teamlogo, lorient50, %, %, methodology, quality, importance, match, boice, reuben, fischerbaum, julia, wolfe')
+
+('NNS', 'predictions, forecasts, ratings, leagues, rankings, standings, matches, pts, champions, champions, pts, pts, pts, pts, netherlands, pts, pts, pts, pts, pts, pts, pts, pts, forecasts')
+
+('VBD', 'spi, >, liga, barcelona, munich, atlético, marseille, serie, liga, liga, eredivisie, super, liga, tier, tier, kiel41, tier, tier, read, rated')
+
+('VBN', 'updated')
+
+('VBP', 'leaguelogo, see, see, league, see, league, see, see, see, see, see, see, see, see, see, teamlogo, see, see, see, see, see, see, see, see, see, see, see, see, see')
+
+('JJR', 'premier, premier, premier, süper, super')
+
+('VBZ', 'pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, tigres, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts, pts')
+
+('NNP', 'östersund0')
+
+('VBG', 'sporting')
+
+100 most freq tokens after processing: 
+[('the', 4300), ('of', 2135), ('a', 1767), ('to', 1759), ('in', 1698), ('and', 1538), ('that', 1019), ('s', 797), ('for', 748), ('is', 734), ('it', 642), ('on', 592), ('our', 566), ('are', 540), ('with', 486), ('we', 471), ('by', 456), ('more', 453), ('as', 445), ('at', 438), ('i', 421), ('trump', 417), ('but', 388), ('this', 377), ('verdict', 377), ('they', 371), ('you', 365), ('polls', 360), ('1', 342), ('have', 336), ('percent', 336), ('t', 336), ('or', 330), ('than', 323), ('be', 315), ('about', 314), ('from', 311), ('who', 295), ('was', 292), ('one', 290), ('an', 254), ('like', 252), ('data', 247), ('said', 235), ('all', 231), ('has', 231), ('were', 231), ('not', 230), ('their', 227), ('if', 222), ('pollsters', 214), ('there', 205), ('most', 197), ('positive', 195), ('polling', 193), ('how', 192), ('other', 191), ('can', 189), ('some', 184), ('so', 183), ('those', 172), ('people', 171), ('poll', 171), ('what', 170), ('when', 168), ('donald', 167), ('which', 163), ('out', 162), ('get', 160), ('%', 157), ('up', 156), ('he', 153), ('also', 150), ('had', 144), ('points', 143), ('will', 138), ('just', 138), ('each', 138), ('only', 136), ('election', 135), ('his', 133), ('neutral', 133), ('2', 133), ('do', 131), ('two', 125), ('number', 124), ('would', 122), ('10', 122), ('<', 121), ('>', 120), ('average', 117), ('my', 115), ('its', 115), ('them', 113), ('new', 113), ('these', 112), ('github', 110), ('pollster', 107), ('many', 105), ('been', 104)]

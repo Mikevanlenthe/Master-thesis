@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2262
+Raw number of types: 786
+Raw Type token ratio: 0.34748010610079577
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1528
+Number of types: 716
+Type token ratio: 0.468586387434555
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'aug biopic github github drama compton rap group invision laylaw doc ice cube ren yella pose photo outta compton tour kemper arena city missouri raymond boyd michael compton story hiphop group compton california rap place mainstream music industry film dre mainstream biopic color release summer1 dozen decade footage interpretation hollywood statement significance funding feature fare genre biopic woman summer3 quarter biopic analysis imdb century percent biopicture race ethnicity determine genre improvement presence color hollywood fusion hollywood space report diversity change university representation race gender lgbt status film speaking color group analysis color biopic person color actress cast cleopatra color queen actress time marlon brando emiliano zapata viva zapata film mighty heart journalist mariane pearl descent mother side imdb feature biography genre canada profile audience sample film person name subject information list drama something example rae drama drama romance number result analysis place information methodology footnotes5 imbalance isn product industry film biopic century time context macro sense production culture society industry filmmaker negrónmuntaner columbia university extent world contest color time annie oakley marie curie madame curie film status woman man field bingham english professor director film university amount dialogue fact woman show bread mother leadership role field film genre midcentury world abraham lincoln thomas edison model actress sedgwick boxer muhammad ali number decade person color decade color factor ratio decade sweden queen christina female film mgm transition culture trend hairy subject life bingham research approach lot trouble doesn ideology isn bingham percent life man manhattan sedgwick artist warhol fame fame shame tag line subject cry tomorrow drug addiction business perspective history life story drama entertainment value theater industry power structure bingham ceiling color studio subject film reach viewer studio money color sample fall race ethnicity sample malcolm king percent richard pryor film industry vision america history york university hollywood promote scientist artist world leader sample president nelson mandela selena quintanillaperez latino remainder sample descent see madonna perón evita genre improvement diversity work color produce hollywood bingham trend television color mass audience scale latifah singer bessie smith hbo bessie candelabra liberace grandin expert autism diversity gender lgbt status sample television television hollywood bingham correction aug version article summer testament youth june year')
+
+('VBD', 'straight straight nwa nwa revolutionized hollywood made deemed spotlight was found maledominated found were were looked made play was was played searched categorized released was were were found imbalanced told were controlled were said were were were were was rattled made said said thought shifted was outnumbered was came struck did said featured propelled were were were featured were said included was were was were were were netflix starred said said came was')
+
+('VBP', 'compton hannah get dre ochs friday ice color include are offer try ignore don color are are have have tend reproduce degree society know initiative are have color angelina afrochinesecuban get hollywood overlap are are are start are see are indiana indianapolis color edie have color aim are are fit are are come have fill glass are america professor don are get refer spaniards direct remain reach reflect are work look are')
+
+('JJ', 'rare white outta chris pizzello front eazye straight getty straight young original nwa exceptional only wide couple raw reallife actual important profitable historical cultural biographical important white early 20th able white percent vast white similar white social southern top white male worstrepresented demographic biopic white subject egyptian white white other mexican revolutionary recent united total actual real demographic comprehensive many biographical other such musical classified true imdb biographical sample racial gender societal several early prominent public great white early 20th social political economic other important great great modern much few famous sharpshooter social latter particular clear subject exceptional dennis university–purdue male exceptional modern cultural single many white white male female first subject biographical popular new such personal common right serious much successful interesting twentythree sample showgirls many public ciao stardom andy actress lillian downward catastrophic high recreate subject enough successful past particular multiple reticent particular known black african africanamerican black other africanamerican athletes comedian instrumental jeffrey new want strong forceful confident bright black only black former south african hispanic latina usborn hispanic latin many european white eva write stark such additional queen other madefortv biographical such pianist temple animalhusbandry racial feature many theatrical last')
+
+('NNS', 'dudes movies data data databiopics rappers archives images theaters rappers members cube producers people people documentaries interviews biopics dramatizations events people biopics lives subjects filmmakers matters women people theaters subjects women data films people lives men subjects men women people biopics stories men corners friends results biopics media threequarters characters movies women subjects biopics women films women actors people biopics jolie numbers films people films subjects characters films genres stories films biopics structures values historians subjects figures men structures words films biopics frances biopics people men men heroes women people subjects anomalies women norms studies people films women people leaders figures films digits times subjects subjects subjects subjects studios subjects people warts films details biopics women women lives lives movies women biopics entertainers dancers singers women perils spirals relationships biopics costs moments seats biopics thinks budgets films people women demographics people biopics entertainers musicians athletes activists categories subjects subjects women films activists subjects entertainers blacks sammons executives heroes people musicians subjects latina people americans women people discrepancies films films people opportunities audiences films films films filmmakers projects wouldn biopics women theaters')
+
+('VBN', 'filed left based released been been seen acclaimed named been played played included based based classified made celebrated devoted made emerged released given been been produced noticed made considered shown given made decided featured been marginalized stigmatized latino seen made made pitched made released')
+
+('VBZ', 'profiles tells counts figures does one2 subjects has california states means reflects lives has has has subjects has has actresses experiences puts roth faces chosen has has has has has hispanics has believes joins has ends')
+
+('VBG', 'performing according shocking analyzing highgrossing highestgrossing looking featuring missing marveling having being pointing portraying portraying depicting suffering failing depending going spending including promoting starring emerging going interesting going')
+
+('NNP', 'kansas')
+
+('VB', 'make get chose belle separate think films physicist bake keep have succeed result martin believe statesmen determine have offer appear see get')
+
+('JJR', 'more greater more larger farther luther smaller earlier')
+
+('JJS', 'latest least')
+

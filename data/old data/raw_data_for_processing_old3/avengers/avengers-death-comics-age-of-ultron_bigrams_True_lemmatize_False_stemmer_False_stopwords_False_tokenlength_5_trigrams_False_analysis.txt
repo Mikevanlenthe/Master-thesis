@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1071
+Raw number of types: 431
+Raw Type token ratio: 0.4024276377217554
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 723
+Number of types: 604
+Type token ratio: 0.8354080221300139
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('VBG', 'joining,jumping,asking,getting,going,avenging,realitywarping,talking,kicking,shapeshifting,being,destroying,measuring,getting,jumping,avenging,occurring,destroying,speaking,having,portraying,deadly jumping,fourstory building,spoilers asking,theaters getting,probably going,there thing,years avenging,presumably realitywarping,dried talking,reader kicking,skrull shapeshifting,seemingly being,older destroying,avengers measuring,chance getting,roughly jumping,fourstory building,dragged avenging,death occurring,throes destroying,destroying merging,generally speaking,because thing,studios having')
+
+('NNS', 'avengers,movies,dataavengers,spoilers,avengers,spoilers,questions,avengers,theaters,avengers,years,films,contracts,avengers,years,friends,issues,criteria,allies,friends,cases,fakes,friends,years,writers,adventures,avengers,adventures,things,comics,avengers,characters,avengers,people,stories,avengers,avengers,comics,avengers,heroes,deaths,occasions,richards,travelers,times,avengers,avengers,android,times,times,avengers,years,comics,months,months,months,comics,throes,universes,universes,casualties,movies,avengers,studios,rights,joining avengers,under movies,github dataavengers,dataavengers spoilers,involved avengers,intentional spoilers,asking questions,questions avengers,ultron theaters,number avengers,planned years,films actors,their contracts,couple avengers,realitywarping friends,mortal issues,their allies,closest friends,through cases,while friends,someone appears,thinks years,later writers,follow adventures,stasis avengers,their adventures,these things,happened comics,former avengers,mortality characters,listed avengers,signed stories,membership avengers,nobody avengers,avenging comics,toptier avengers,other heroes,total deaths,ezpass occasions,franklin richards,colleague travelers,death times,member avengers,universe avengers,destroyed times,recovered times,given avengers,avengers years,mortality comics,several months,marvel comics,comics throes,merging universes,annihilation universes,accompanied casualties,couple movies,movies avengers,marvel studios,having rights')
+
+('NN', 'fourstory,building,hickey,article,anyone,point,universe,number,number,thing,comic,death,fleeting,health,insurance,death,books3,character,death,chill,someone,everyone,character,model,decoy,character,future,stasis,dimension,someone,consciousness,killer,alternatedimension,process,marvel,wikia,mortality,team5,percent,chance,membership,building,nobody,captain,america,hawkeye,widow,scarlet,witch,quicksilver,vision,course,recovery,death,roster,avenger,insurance,divine,comeback,franklin,chaos,reaper,death,chance,member,stint,afterlife,percent,chance,death8,earth616,marvel,janet,operation,mortality,member,death,merging,annihilation,couple,captain,avenger,witch,magic,weird,thing,marvel,character,performer,jumping fourstory,building hickey,before anyone,getting point,point marvel1,cinematic universe,where number,avenging death,death fleeting,fantastic health,health insurance,define death,comic books3,books3 criteria,criteria character,killed their,believe through,fakes death,death chill,alien model,model decoy,decoy robot,robot character,character future,hidden stasis,pocket dimension,dimension after,counterearth someone,someone consciousness,merged killer,their alternatedimension,alternatedimension older,marvel wikia,wikia analyze,current former,measuring mortality,joined however,however briefly4,found least,least after,joined team5,team5 about,percent people,percent chance,getting membership,jumping fourstory,building nobody,screen captain,captain america,hawkeye black,black widow,widow scarlet,scarlet witch,quicksilver vision,vision every,every single,single least,their avenging,hawkeye twice,twice recovery,remarkable those,those toptier,after their,first death,death other,avenger insurance,insurance divine,individual comeback,comeback maybe,stayed franklin,avenging chaos,chaos reaper,tempt death,first stint,stint afterlife,percent chance,second third,third death8,death8 earth616,marvel universe,jocasta android,based janet,janet built,built ultron,overall mortality,current former,former member,member every,permanent death,months increase,speaking annihilation,named captain,captain america,civil avenger,remember scarlet,scarlet witch,tempestuous weird,rights character,character performer,performer portraying')
+
+('VBN', 'filed,researched,involved,planned,dried,considered,shown,implied,killed,killed,killed,updated,joined,listed,found,joined,counted,stayed,based,built,destroyed,given,named,article conceived,comic learned,directly implied,implied killed,character killed,being killed,faithfully updated,after joined,divine often,literally counted,microverse stayed,android based,ominously named')
+
+('VBP', 'github,ultron,ultron,films,actors,handle,define,closest,believe,reader,decide,robot,pocket,follow,counterearth,analyze,analysis,screen,hawkeye,avengers7,scarlet,jocasta,expect,marvel,watch,ultron,movies github,spoilers article,avengers ultron,avengers ultron,avengers films,actors their,issues define,allies closest,sincerely believe,cases fakes,appears everyone,years later,writers decide,avengers pocket,adventures counterearth,characters after,avengers analysis,avengers screen,america hawkeye,avengers better,heroes across,basically ezpass,richards scarlet,there chance,avengers jocasta,years operation,comics expect,months marvel,casualties watch,avengers ultron,witch magic')
+
+('JJ', 'github,intentional,cinematic,couple,fantastic,shuffled,mortal,comic,skrull,alien,follow,hidden,weird,current,former,percent,fourstory,black,single,avenging,remarkable,toptier,first,other,total,unlucky,ezpass,individual,microverse,colleague,tempt,first,second,third,universe,ultron,recovered,overall,current,former,permanent,several,accompanied,civil,scarlet,tempestuous,avenger,github github,ultron there,there intentional,marvel1 cinematic,universe where,films planned,exceeds number,number films,started already,going couple,thing comic,learned 50odd,signed team2,team2 fantastic,prematurely shuffled,shuffled mortal,pretty dried,about comic,considered shown,somewhere someone,everyone thinks,actually skrull,shapeshifting alien,future follow,secretly hidden,killed onslaught,follow their,robot their,destroying process,process these,comics weird,combed through,updated marvel,analyze current,about percent,there percent,course their,comics hawkeye,recovery remarkable,their first,counted total,deaths unlucky,unlucky avengers7,occasions individual,secretly microverse,perhaps colleague,knows tempt,chance member,returned their,their first,afterlife percent,recovered second,earth616 marvel,ultron destroyed,times given,operation overall,expect current,seven months,months permanent,occurring every,every months,increase several,universes accompanied,watch couple,america civil,magic tempestuous,avenger marvel')
+
+('VBD', 'conceived,started,learned,signed,merged,happened,combed,signed,dragged,returned,recovered,hickey filed,conceived researched,anyone involved,pretty started,fleeting signed,character considered,consciousness merged,things happened,weird combed,briefly4 listed,after joined,people signed,least course,witch dragged,avengers returned,chance recovered,times recovered')
+
+('VBZ', 'exceeds,appears,thinks,knows,years exceeds,reaper perhaps,travelers knows')
+
+('VB', 'robot,witch,increase,remember,chill while,killer robot,scarlet witch,avenger remember')
+
+('JJS', 'least,least')
+
+('JJR', 'filed under,better after,roster avenger,truly avenger')
+

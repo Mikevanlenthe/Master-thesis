@@ -1,0 +1,55 @@
+Article: presidential-commencement-speeches
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 541
+Raw number of types: 252
+Raw Type token ratio: 0.4658040665434381
+
+100 most freq tokens before (pre)processing: 
+[(',', 5919), ('the', 5707), ('.', 3759), ('of', 2845), ('a', 2390), ('to', 2347), ('in', 2191), ('and', 2058), ('’', 1927), ('that', 1328), ('s', 1050), ('for', 995), ('is', 934), (':', 922), ('on', 828), ('it', 785), ('(', 738), (')', 738), ('are', 693), ('“', 681), ('”', 680), ('with', 632), ('trump', 607), ('at', 597), ('our', 588), ('as', 572), ('by', 571), ('—', 563), ('we', 563), ('more', 561), ('team-logo', 535), ('but', 521), ('i', 517), ('this', 485), ('they', 481), ('you', 439), ('t', 438), ('or', 438), ('percent', 429), ('who', 417), ('from', 413), ('than', 412), ('have', 412), ('about', 411), ('was', 397), ('one', 387), ('verdict', 377), ('be', 372), ('1', 365), ('polls', 361), ('an', 325), ('has', 325), ('were', 324), ('not', 313), ('data', 308), ('their', 303), ('all', 300), ('like', 290), ('he', 282), ('said', 281), ('if', 267), ('there', 265), ('other', 261), ('how', 259), ('?', 256), ("'", 253), ('most', 244), ('so', 243), ('can', 242), ('what', 229), ('some', 226), ('his', 222), ('those', 219), ('people', 219), ('which', 217), ('when', 215), ('pollsters', 214), ('get', 202), ('positive', 200), ('out', 199), ('up', 197), ('also', 195), ('polling', 192), ('had', 187), ('each', 182), ('just', 181), ('2', 177), ('only', 176), ('donald', 174), ('poll', 174), ('%', 171), ('two', 169), ('points', 169), (';', 167), ('do', 165), ('will', 157), ('<', 155), ('time', 154), ('>', 154), ('would', 151)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 478
+Number of types: 244
+Type token ratio: 0.5104602510460251
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, way, university, sunday, carl, bialik, education, data, github, github, president, commencement, speech, howard, university, convocation, cheriss, president, obama, commencement, address, presidency, sunday, university, air, force, academy, june, howard, university, commencement, year, pace, bill, clinton, office, george, predecessor, pace, term, office, commencement, year, obama, year, circuit, academy, institution, school, harry, truman, office, start, commencementspeech, presidency, project, capitol, page, school, johnson, richard, nixon, jimmy, chart, capitol, page, s, speech, howard, president, college, university, jimmy, carter, cheyney, state, college, hbcus, league, obama, commencement, state, york, imbalance, diversity, commencement, trip, washington, maryland, virginia, range, account, number, commencement, size, school, location, speaking, michelle, obama, joe, house, spokeswoman, run, president, commencement, year, bill, clinton, example, saturday, commencement, loyola, marymount, university, sunday, university, school, service, story, github')
+
+('VBG', 'sitting, giving, giving, making, seeking, choosing, giving')
+
+('NNS', 'presidents, speeches, rutgers, data, datapresidentialcommencementspeeches, images, rutgers, speeches, presidents, speeches, presidents, speeches, records, presidents, graduations, academies, times, schools, times, schools, times, counts, colleges, universities, schools, times, presidents, speeches, schools, states, dc, times, travels, speeches, presidents, times, speeches, places, states, students, factors, schools, speeches, schedules, speeches, chances, graduates, years, graduates, data')
+
+('JJ', 'give, commencement, commencement, getty, last, saturday, usual, fouryear, final, military, public, private, complete, american, archive, military, other, public, private, high, lyndon, obama, ninth, black, commencement, ivy, new, historical, geographical, presidential, busy, short, wide, such, white, obama, s, likely, many, last, eponymous, arkansas, clinton, public')
+
+('VBD', 'used, spoke, took, hw, upped, took, gave, s, took, graced, was, spoke, chose, said, spoke, download')
+
+('VB', 'obama, give, nurphoto, t, take, reach, address, come, speak')
+
+('VBZ', 'is, gives, is, is, takes, s, includes, addresses, has, addresses, takes, is, ll, is')
+
+('VBN', 'set, filed, spoken, given, spoken, combined, scheduled, used')
+
+('JJR', 'higher, more, more')
+
+('VBP', 'get, obama, s, have, include, carter, have, are, biden, have')
+
+100 most freq tokens after processing: 
+[('the', 5709), ('of', 2847), ('a', 2399), ('to', 2349), ('in', 2194), ('and', 2060), ('that', 1334), ('s', 1110), ('for', 998), ('is', 936), ('on', 830), ('it', 790), ('are', 696), ('with', 634), ('trump', 610), ('at', 600), ('our', 590), ('as', 574), ('by', 573), ('we', 565), ('more', 563), ('teamlogo', 535), ('but', 523), ('i', 520), ('this', 487), ('they', 483), ('1', 450), ('t', 443), ('you', 441), ('or', 440), ('percent', 435), ('who', 419), ('from', 415), ('have', 414), ('than', 414), ('about', 413), ('was', 399), ('one', 392), ('verdict', 377), ('be', 375), ('polls', 362), ('has', 327), ('an', 327), ('were', 326), ('not', 315), ('data', 308), ('their', 305), ('all', 302), ('like', 292), ('he', 284), ('said', 283), ('if', 269), ('there', 267), ('other', 265), ('how', 261), ('so', 245), ('most', 244), ('can', 244), ('2', 239), ('what', 231), ('some', 226), ('his', 224), ('people', 221), ('those', 220), ('which', 219), ('when', 217), ('10', 215), ('pollsters', 214), ('get', 204), ('out', 202), ('positive', 200), ('up', 199), ('11', 199), ('also', 195), ('polling', 193), ('had', 189), ('just', 183), ('each', 182), ('only', 176), ('donald', 175), ('poll', 174), ('%', 171), ('two', 169), ('points', 169), ('do', 167), ('13', 167), ('3', 162), ('14', 160), ('will', 159), ('12', 158), ('time', 156), ('<', 155), ('>', 154), ('would', 153), ('them', 153), ('new', 150), ('average', 149), ('its', 148), ('election', 148), ('github', 147)]

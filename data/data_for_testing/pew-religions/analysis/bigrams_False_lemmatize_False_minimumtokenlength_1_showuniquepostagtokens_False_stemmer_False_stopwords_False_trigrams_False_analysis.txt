@@ -1,0 +1,57 @@
+Article: pew-religions
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1292
+Raw number of types: 448
+Raw Type token ratio: 0.34674922600619196
+
+100 most freq tokens before (pre)processing: 
+[(',', 2426), ('the', 2025), ('.', 1166), ('of', 967), ('a', 834), ('in', 797), ('to', 755), ('and', 674), ('’', 580), (':', 532), ('that', 468), ('our', 438), ('(', 402), (')', 402), ('verdict', 377), ('s', 349), ('trump', 337), ('is', 335), ('it', 326), ('on', 319), ('for', 319), ('i', 280), ('1', 280), ("'", 252), ('with', 238), ('at', 218), ('more', 204), ('percent', 200), ('by', 193), ('this', 192), ('—', 189), ('positive', 189), ('we', 187), ('are', 185), ('but', 180), ('as', 179), ('like', 166), ('“', 164), ('”', 164), ('than', 164), ('donald', 155), ('from', 150), ('have', 144), ('about', 138), ('you', 136), ('neutral', 133), ('data', 131), ('was', 131), ('an', 128), ('t', 120), ('or', 120), ('be', 114), ('one', 107), ('has', 106), ('they', 103), ('/', 103), ('other', 93), ('not', 91), ('out', 91), ('their', 90), ('all', 87), ('which', 86), ('what', 86), ('who', 85), ('when', 85), ('2', 85), ('were', 83), ('negative', 83), ('up', 83), ('people', 82), ('his', 81), ('?', 80), ('so', 80), ('my', 80), ('hillary', 80), ('state', 79), ('he', 77), ('model', 77), ('there', 76), ('how', 76), ('me', 76), ('most', 74), ("'m", 74), ('some', 74), ('get', 73), ('<', 72), ('films', 71), ('can', 70), ('3', 68), ('>', 68), ('if', 67), ('polls', 67), (';', 66), ('do', 63), ('just', 63), ('10', 61), ('only', 60), ('those', 60), ('rock', 60), ('said', 59)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1145
+Number of types: 432
+Type token ratio: 0.377292576419214
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, are, change, get, grow, shrink, are, pew, have, change, are, are, are, don, tell, are, are, are, have, are, pew, settle, do, do, re, born, re, wind, favor, wind, are, s, gain, lose, have, buddhist, gain, wind, have, are, have, do, have, are, wind, are, re, lose, pew, are')
+
+('JJ', 'evangelical, ap, united, many, other, recent, pew, oldfashioned, new, current, t, other, potential, present, logical, religious, pew, current, religious, unaffiliated, religious, unaffiliated, present, dramatic, additional, current, whole, attractive, new, large, small, different, first, unaffiliated, same, unaffiliated, catholic, catholic, large, third, catholic, s, possible, nonchristian, steady, demographic, logical, present, new, normal, religious, new, old, other, doctrinal, other, steady, religious, stable, present, christian, little, present, substantial, christian, evangelical, present, current, other, christian, other, s, catholic, catholic, evangelical, twelve, evangelical, mainline, evangelical, big, new, faith, s, relative, s, different, different, big, faiths3, current, catholic, evangelical, black, jewish, orthodox, christian, unaffiliated, religious, current, mainline, same, strong, faiths, evangelical, new, new, strong, enough, other, single, s, clear, evangelical, high, wide, faiths, previous, evangelical, second')
+
+('NNS', 'protestants, winners, people, faiths, data, datapewreligions, religions, states, births, deaths, factors, religions, members, members, religions, followers, people, faiths, data, religions, people, rates, factors, religions, converts, trends, conclusions, americans, respondents, americans, members, americans, americans, christians, points, swings, data, denominations, numbers, patterns, denominations, people, numbers, groups, unaffiliateds, followers, unaffiliateds, people, people, data, unaffiliateds, adults, points, americans, members, people, data, religions, religions, trends, members, ones, factors, shifts, data, conversions, factors, demographics, unaffiliateds, denominations, groups, protestants, catholics, evangelicals, sects, people, catholics, protestants, people, faiths, data, rates, people, evangelicals, people, evangelicals, protestants, evangelicals, congregations, protestants, religions, numbers, religions, members, denominations, rates, unaffiliateds, unaffiliateds, kids, children, gains, deconversions, protestants, mormons, children, models, reveals, traditions, attractors, people, protestants, unaffiliateds, members, members, mormons, muslims, catholics, losers, odds, children, people, faiths, people, digits, data, gainers, protestants, unaffiliateds, disciples, nations, converts, rates, catholics, protestants, rates, religions')
+
+('JJS', 'biggest, best, highest, biggest, biggest, thirdhighest')
+
+('NN', 'leah, libresco, religion, data, github, github, baptism, rodrigo, abd, immigration, report, research, center, chance, detail, way, look, tape, forward, rise, model, projection, future, account, way, pull, today, landscape, study, practice, tradition, pew, group, religion, net, churn, percent, household, percent, adulthood, share, whole, percentage, percent, birth, percent, pew, table, pew, help, story, gain, loss, net, place, fact, chance, percent, do, percent, pew, half, percent, share, percentage, population, contrast, church, group, survey, pew, distribution, equilibrium, extension, persistent, kind, analysis, chance, factor, change, recruitment, retention, immigration, model, github, today, america, distribution, ground, percent, percent, percent, percent, equilibrium, redistribution, percent, percent, share, population, percent, percent, model, tradition, percent, retention, percent, percent, mainline, attractor, conversion, percent, wind, percent, flow, mainline, percent, wind, percent, mainline, model, multiplier, effect, play, conversion, fertility, member, church, doesn, t, share, today, population, share, church, tomorrow, fertility, childbirth, equilibrium, state, model, change, religion, portion, population, equilibrium, fertility, equilibrium, fertility, %, %, %, protestant, hindu, <, <, protestant, jehovah, s, mainline, protestant, mormon, muslim, ground, conversion, model, churn, share, population, fertility, account, rate, replacement, woman, problem, fertility, fertility, rate, woman, fertility, model, faith, middle, pack, attractor, share, conversion, range, correction, pm, version, article, fertility')
+
+('VBN', 'filed, gained, lost, raised, gained, reported, born, unaffiliated, presented, skewed, raised, data, held, compared, raised, born, tilted, raised, taken, whittled, factored, born')
+
+('VBZ', 'offers, isn, doesn, s, loses, amounts, makes, has, is, emerges, gives, drives, excludes, is, reveals, comes, changes, makes, is, is, is, diminishes, makes')
+
+('VB', 'look, run, see, be, take, measure, s, describe, be, wind, start, gain, lose, calculate, check, wind, wind, drop, be, wind, pew, increase, represent, benefit, replenish')
+
+('VBG', 'gaining, losing, recruiting, switching, exerting, taking, being, looking, staying, staying, according, including, fastforwarding, gaining, gaining, losing, holding, leaving, according, becoming, increasing, factoring, comparing, changing, creating, converting, retaining, leaving, succeeding, making, drawing')
+
+('VBD', 'took, used, kept, s, surveyed, asked, were, found, described, dropped, highlighted, collected, raised, raised, lost, lost, went, were, witness, said, had')
+
+('JJR', 'more, easier, fewer, bigger, more, better, stronger, better')
+
+100 most freq tokens after processing: 
+[('the', 2027), ('of', 969), ('a', 836), ('in', 799), ('to', 757), ('and', 676), ('that', 471), ('our', 440), ('s', 406), ('verdict', 377), ('trump', 339), ('is', 337), ('it', 328), ('for', 321), ('on', 321), ('1', 289), ('i', 282), ('with', 240), ('at', 220), ('more', 206), ('percent', 206), ('by', 195), ('this', 194), ('we', 189), ('positive', 189), ('are', 187), ('but', 182), ('as', 181), ('like', 168), ('than', 166), ('donald', 156), ('from', 152), ('have', 146), ('about', 140), ('you', 138), ('was', 133), ('neutral', 133), ('data', 131), ('an', 130), ('t', 124), ('or', 122), ('be', 117), ('one', 112), ('has', 108), ('they', 105), ('other', 94), ('not', 93), ('out', 93), ('their', 92), ('all', 89), ('what', 88), ('which', 88), ('2', 88), ('who', 87), ('when', 87), ('were', 85), ('up', 85), ('people', 84), ('his', 83), ('negative', 83), ('so', 82), ('my', 82), ('hillary', 80), ('he', 79), ('m', 79), ('state', 79), ('there', 78), ('me', 78), ('how', 78), ('model', 77), ('get', 75), ('most', 74), ('some', 74), ('3', 74), ('can', 72), ('10', 72), ('<', 72), ('films', 71), ('if', 69), ('>', 68), ('polls', 67), ('do', 65), ('just', 65), ('5', 65), ('said', 61), ('those', 61), ('rock', 61), ('only', 60), ('also', 56), ('2014', 54), ('would', 53), ('where', 53), ('its', 53), ('bar', 53), ('women', 53), ('2015', 52), ('time', 52), ('each', 51), ('2013', 51), ('clinton', 51)]

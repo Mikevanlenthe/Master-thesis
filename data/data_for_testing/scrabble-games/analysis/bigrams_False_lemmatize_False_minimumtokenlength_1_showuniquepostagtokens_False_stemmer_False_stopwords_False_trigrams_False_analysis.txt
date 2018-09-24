@@ -1,0 +1,59 @@
+Article: scrabble-games
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 860
+Raw number of types: 403
+Raw Type token ratio: 0.4686046511627907
+
+100 most freq tokens before (pre)processing: 
+[(',', 1480), ('the', 675), (':', 416), ('our', 389), ('verdict', 377), ('trump', 330), ('.', 318), ('in', 302), ('(', 293), (')', 293), ('of', 289), ('a', 278), ('and', 259), ("'", 252), ('to', 243), ('1', 224), ('i', 222), ('positive', 185), ('donald', 155), ('that', 142), ('’', 133), ('neutral', 132), ('on', 124), ('like', 116), ('for', 107), ('it', 103), ('is', 102), ('/', 96), ('with', 90), ('at', 89), ('s', 85), ('you', 84), ('negative', 81), ('hillary', 79), ("'m", 74), ('was', 71), ('my', 69), ('me', 65), ('but', 64), ('percent', 61), ('more', 60), ('from', 60), ('we', 57), ('than', 56), ("'s", 55), ('about', 53), ('by', 52), ('data', 52), ('this', 51), ('clinton', 50), ("n't", 47), ('2015', 46), ('have', 45), ('were', 45), ('they', 44), ('2013', 44), ('up', 43), ('are', 42), ('—', 42), ('has', 42), ('be', 40), ('police', 39), ('get', 39), ('as', 39), ('all', 38), ('?', 38), ('--', 38), ('people', 38), ('not', 37), ('2016', 37), ('“', 36), ('”', 36), ('who', 36), ('bill', 36), ('got', 36), ('or', 35), ('2014', 34), ('2012', 34), ('do', 33), ('one', 33), ('his', 33), ('fuck', 33), ('drivers', 33), ('t', 32), ('just', 32), ('weather', 32), ('an', 31), ('out', 31), ('so', 30), ('he', 30), ('2', 30), ('their', 29), ('money', 28), ('if', 27), ('what', 27), ('2008', 27), ('obama', 27), ('state', 27), ('puerto', 26), ('there', 25)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 730
+Number of types: 390
+Type token ratio: 0.5342465753424658
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, get, i, emerge, become, take, are, are, have, i, i, love, evans, clinchy, think, are, have, read, ve, find')
+
+('JJ', '‘, scrabble, oliver, grand, quantitative, webscraped, scrabble, scrabble, full, unanswered, scrabble, economic, please, past, great, technological, new, effective, dramatic, technological, scrabble, empty, scrabble, lettered, scrabble, dictionary, full, scrabble, actual, technological, digital, early, nowindispensable, first, scrabble, ai, same, new, dictionary, second, official, valid, scrabble, north, american, fe, additional, scrabble, s, scrabble, new, dictionary, average, other, technical, lexical, new, mediocre, rich, scrabble, suspected, scrabble, complex, new, dictionary, top, distributional, new, scrabble, weak, average, scrabble, macroeconomy, french, twentyfirst, skeptical, scrabble, fivethirtyeight, scratch, interesting')
+
+('NN', 'qi, roeder, data, github, github, plan, reader, i, light, problem, income, inequality, i, tournament, bestlaid, rack, i, pile, core, concept, bear, data, party, favor, end, inequality, halfcentury, detail, theory, gap, percent, percent, change, notion, work, gulf, change, weekend, hotel, fastfood, country, tournament, board, game, economy, economy, book, thicker, s, technology, decade, revolution, game, training, version, zyzzyva, wordstudy, tool, analysis, engine, sparring, partner, change, year, march, edition, tournament, club, word, list, effect, edition, za, play, ki, oi, twoletter, building, dna, q, z, juicy, highpoint, game, data, set, i, tournament, online, clearinghouse, tournament, scene, average, score, player, game, score, data, set, revolution, average, weekend, scrabble, get, richer, income, ahem, inequality, increase, i, metagame, time, development, update, everyone, game, player, oregon, i, economy, evidence, fact, skill, word, scoring, board, light, keyhole, thomas, economist, author, capital, century, example, technology, explanation, income, inequality, mind, count, game, isn, t, book, work, piece, paper, anything, dissertation, dhrumil, mehta, research')
+
+('NNP', '‘, za')
+
+('VBD', 'changed, had, planned, was, s, was, went, was, was, happened, took, christened, evolved, hit, grew, overnight, did, did, did, did, spoke, told, ran, was, seemed, went, didn, mentioned, s, posted, contributed')
+
+('VBN', 'filed, planned, left, skyrocketed, documented, higherskilled, been, allowed, publicized, released, created, betterequipped, expanded')
+
+('NNS', 'games, data, datascrabblegames, games, data, vowels, questions, data, turns, sorts, folks, technologies, workers, dictionaries, ballrooms, offices, restaurants, players, seats, tiles, interactions, tens, thousands, words, tools, players, words, strategies, qi, words, words, words, blocks, tiles, games, years, results, points, effects, players, words, counterparts, experts, reasons, changes, players, changes, ones, numbers, effects, words, players, levels, lists, questions, t, pages, data, economics')
+
+('VB', 'shed, do, leave, play, t, explain, adapt, exploit, earn, place, learn, quackle, see, exploit, s, adapt, i, exploit, uncover, benefit, shine, github, end, know')
+
+('VBZ', 'plans, s, has, is, goes, widens, has, involves, is, is, gets, improves, is, is, has, does, piketty, is, believes, is')
+
+('VBG', 'holding, widening, higherearning, governing, allowing, scraping, covering, crosstablescom, increasing, pointscoring, trying, inequalityexacerbating, showing, using')
+
+('JJS', 'biggest, best')
+
+('JJR', 'longer, better, stronger, weaker, larger')
+
+100 most freq tokens after processing: 
+[('the', 677), ('our', 391), ('verdict', 377), ('trump', 332), ('in', 304), ('of', 291), ('a', 280), ('and', 261), ('to', 245), ('1', 226), ('i', 224), ('positive', 185), ('donald', 156), ('that', 144), ('s', 142), ('neutral', 132), ('on', 126), ('like', 118), ('for', 109), ('it', 105), ('is', 104), ('with', 92), ('at', 91), ('you', 86), ('negative', 81), ('hillary', 79), ('m', 78), ('was', 73), ('my', 71), ('me', 67), ('but', 66), ('percent', 66), ('more', 62), ('from', 62), ('we', 59), ('than', 58), ('about', 55), ('by', 54), ('this', 53), ('data', 52), ('clinton', 50), ('nt', 48), ('2015', 48), ('have', 47), ('were', 47), ('they', 46), ('up', 45), ('are', 44), ('has', 44), ('2013', 44), ('be', 42), ('as', 41), ('get', 41), ('all', 40), ('people', 40), ('not', 39), ('police', 39), ('who', 38), ('one', 38), ('2016', 38), ('or', 37), ('2014', 36), ('bill', 36), ('got', 36), ('do', 35), ('his', 35), ('2012', 35), ('just', 34), ('t', 34), ('an', 33), ('out', 33), ('fuck', 33), ('drivers', 33), ('he', 32), ('so', 32), ('weather', 32), ('their', 31), ('2', 30), ('if', 29), ('what', 29), ('money', 28), ('2008', 28), ('there', 27), ('can', 27), ('no', 27), ('obama', 27), ('state', 27), ('how', 26), ('puerto', 26), ('when', 25), ('been', 25), ('10', 25), ('tower', 25), ('2011', 25), ('rico', 25), ('said', 24), ('other', 24), ('big', 24), ('president', 23), ('your', 23)]

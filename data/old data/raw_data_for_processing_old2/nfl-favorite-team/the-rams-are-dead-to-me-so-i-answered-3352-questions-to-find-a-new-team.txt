@@ -1,0 +1,291 @@
+
+
+
+Sep. 8, 2016
+						at
+						3:49 PM
+
+
+
+							The Rams Are Dead To Me, So I Answered 3,352 Questions To Find A New NFL Team						
+
+
+
+By Blythe Terrell
+Filed under NFL
+
+Get the data on GitHub
+GitHub data at data/nfl-favorite-team
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Here I am holding a sweet handmade sign in the early days of the Rams. My parents also showed up with their home-team spirit.							
+
+
+What do you do when your pro sports team goes away? It’s a question fans have had to ask again and again, when a Colts or an Oilers or a SuperSonics or an Expos team closes up shop and hits the road. This year, it was a question I had to ask myself.
+I’ve been a St. Louis Rams fan since they rolled into my hometown in 1995. I was 12 years old and knew next to nothing about football, but my mom, who loves the sport almost as much as she loves college basketball, was more than ready to board the Rams bus. My parents shelled out the cash for the personal seat licenses and then the tickets, and my siblings and I took turns eating nachos and learning the game in domed comfort1 over the ensuing two decades. I was introduced to football by Jerome Bettis and Isaac Bruce, and was fully immersed by the time Kurt Warner, Marshall Faulk and the Greatest Show on Turf rolled through town. After the boom times, we stuck it out through seasons of weak, sometimes atrocious, football (what’s up, 2009?). And we had a next-generation fan in the making: My toddler niece went to her first — and last — St. Louis Rams game last season.2
+So when hometown villain Stan Kroenke3 pulled the plug and hauled the Rams back to California — leaving behind some choice words that left fans fuming — my fellow fans and I were left to puzzle out what’s next. The way I saw it, these were my options:
+
+Support the Los Angeles Rams (nope).
+Give up the NFL, or, the lite version, be the person who watches solely to cheer for the dudes on her fantasy team but has no real loyalty.
+Back my husband’s team, the cross-state Kansas City Chiefs — the NFL equivalent of the nice Midwestern boy I knew as a kid but who went to a different high school.
+Pick the more appealing New York team, since I live in the city, and even bars with, like, two TVs would probably be showing the game.
+Turn it into a math problem.
+
+Since I’m an editor at FiveThirtyEight, the choice was clear.
+In search of the analysis, I went hat in hand to my colleague Neil Paine. Could we figure out the ideal team for me to support? A team with less terrible ownership that was unlikely to leave me (and a city full of supporters) feeling like a fool? And could I pick a team based also on other factors that matter to me, such as whether a team’s players are publicly known or suspected to have committed violent crimes against women?
+It was all possible, and Neil was on board. I pledged to support the team dictated by the data for at least one full season, even if it was the Seahawks or — deep breath — the Patriots.
+Neil’s analysis graded each team in 16 categories — some of which were taken from ESPN the Magazine’s long-running “ultimate standings” (which use surveys conducted by opinion research firms in a similar attempt to quantify the benefits of rooting for each pro franchise in the U.S. and Canada), and some we calculated ourselves. Each reflected a component of a team’s identity, including ownership, uniforms, the club’s fan-friendliness and winning tradition. Plugging those factors into the website All Our Ideas, he created a form that would be able to weight each category by its importance to my own fandom.
+
+Podcast: Listen to Blythe discuss how she discovered her new team.
+
+
+By Blythe Terrell
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+		More: Apple Podcasts |
+		ESPN App |
+RSS
+					| Embed
+
+
+Embed Code
+<iframe frameborder="0" width="100%" height="180" style="margin:20px auto 25px;max-width:600px;" scrolling="no" src="http://fivethirtyeight.com/player/wtp/17496919/"></iframe>
+
+
+Then it was my turn. I went through randomly generated head-to-head matchups among those 16, selecting the factor that mattered more to me in each case. For example, I might have to choose between player behavior and fan relations, and then uniforms versus ownership. I repeated this exercise with different randomly selected permutations until I had voted 3,352 times,4 at which point I had personalized rankings of — and weights for — each of the 16 factors. Here they are, sorted by the amount of influence each had on the team-picking process; you can find a sample version here.
+
+
+
+
+CRITERIA
+WEIGHT
+
+
+
+
+Suspensions of players since 2007; extra weight to crimes against women
+1.98
+
+
+Ownership honesty and loyalty to core players and the community
+1.92
+
+
+Players’ effort on the field and likability off it
+1.74
+
+
+Projected wins over next five seasons
+1.62
+
+
+Are the team’s next five years likely to be better than their previous five?
+1.28
+
+
+Championships/division titles/wins in team’s entire history
+1.20
+
+
+Wins per fan dollars spent
+1.16
+
+
+Courtesy toward fans; how well a team uses technology to reach them
+1.02
+
+
+Distance from team’s stadium to New York, in miles
+1.00
+
+
+Distance from team’s stadium to St. Louis, in miles
+0.94
+
+
+Price of tickets, parking and concessions
+0.62
+
+
+Size of market in terms of population, where smaller is better
+0.52
+
+
+Quality of venue; fan-friendliness; frequency of promotions
+0.46
+
+
+Strength of on-field leadership
+0.42
+
+
+Stylishness of uniform, according to Uni Watch’s Paul Lukas
+0.12
+
+
+Size of market in terms of population, where bigger is better
+0.04
+
+
+Blythe’s criteria for a perfect team
+
+
+Not all of these are perfect — for instance, the NFL suspends players for all manner of benign behavior — but imperfections like that should wash out somewhat in the aggregate.
+
+ 
+Thanks a lot, Kroenke, you’ve put my niece fully in the Packers’ camp. 
+
+When the dust settled on the data analysis, my 2016 team was unveiled: the Green Bay Packers. OK, I could deal with that. My football memory didn’t include a lot of anger toward the team or its fans (which always helps), and I don’t mind having the chance to cheer for a winner. Their appearance at the top wasn’t altogether surprising, partly because of their unique ownership structure. They also scored high in player likability, future wins and team tradition, with above-average marks in off-field behavior as well.
+Green Bay was followed by the Pittsburgh Steelers, Kansas City Chiefs, New England Patriots and Buffalo Bills. In dead last? The Tennessee Titans.5 (Check out our 2016 NFL predictions for every team.) Here were my top 10 rankings, along with each team’s score in the four categories I gave the most weight:
+
+
+
+
+
+TEAM RATING
+
+
+
+TEAM
+PLAYER SUSPENSIONS
+OWNERSHIP
+PLAYER EFFORT AND LIKABILITY
+PROJECTED WINS
+OVERALL
+
+
+
+
+1
+Green Bay
+69
+100
+97
+77
+79.7
+
+
+2
+Pittsburgh
+69
+97
+84
+81
+72.9
+
+
+3
+Kansas City
+44
+87
+71
+94
+68.8
+
+
+4
+New England
+77
+65
+94
+87
+68.4
+
+
+5
+Buffalo
+69
+77
+58
+68
+66.5
+
+
+6
+Carolina
+44
+74
+77
+90
+64.0
+
+
+7
+Seattle
+29
+94
+100
+100
+62.8
+
+
+8
+Indianapolis
+16
+48
+87
+26
+60.1
+
+
+9
+Arizona
+56
+71
+81
+84
+59.8
+
+
+10
+Baltimore
+6
+90
+90
+42
+56.8
+
+
+Top teams by Blythe’s most heavily weighted criteria
+
+
+Overall includes rankings from all criteria, not just those listed here.
+
+
+(If you’d like to run this exercise yourself, you can find a list of every team’s rating in every category on GitHub.)
+So the data has spoken: I’m trading in the blue and gold for the green and gold. As for the fans in L.A., congratulations. I hope your experience with the Rams is a good one, and I’m sure many of you are excited to have them back. I’m just sorry they came attached to this guy.
+Neil Paine contributed data analysis.
+[
+
+VIDEO: How one spurned Rams fan found a new team
+
+

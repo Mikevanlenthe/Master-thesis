@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 587
+Raw number of types: 253
+Raw Type token ratio: 0.43100511073253833
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 481
+Number of types: 357
+Type token ratio: 0.7422037422037422
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NNS', 'dallas police flowers grieves colleagues years officers numbers officers killings officers states years counts dallas deaths officers officers officers statistics officers deaths collisions deaths officers shootings officers police officers years officers workers statistics times workers dozens professions pilots drivers loggers officers officers attacks officers officers territories police officers officers dallas thieves officers andrew,flowers after,colleagues otero,years police,officers those,numbers police,officers demonstration,dallas recent,killings police,officers death,counts which,makes police,officers number,officers police,officers justice,statistics number,officers officer,deaths deliberate,collisions officer,deaths officer,continues investigation,officers dallas,shootings police,officers police,officers patrol,officers fulltime,workers labor,statistics times,workers other,professions truck,drivers drivers,loggers police,officers since,officers terrorist,attacks enforcement,officers memorial,officers incident,territories police,officers police,officers deadlier,dallas suspected,thieves killed,officers')
+
+('VBG', 'shooting protesting policing shooting according growing happening according including policing according shooting shooting dallas,shooting dallas,protesting officer,policing dallas,shooting percent,according statistics,during percent,growing deaths,happening workers,according professions,including incident,policing attacks,according single,shooting killed,during revolt,shooting')
+
+('JJ', 'deadliest thursday statistic steady common recent other vicious despicable recent overall singular decline police fulltime sworn local accidental onduty police memorial police further federal dallas friday national available overall dangerous other single national memorial single political shooting,among among,deadliest under,enforcement killed,thursday thursday,night declined,statistic statistic,steady significantly,thursday thursday,night protesting,recent states,president called,vicious calculated,despicable policing,become years,overall suggest,which shooting,singular singular,horrific number,deaths occurred,number number,fulltime fulltime,sworn sworn,local increased,percent according,bureau during,period growing,share share,officer happening,accidental accidental,deliberate comes,officer officer,memorial started,college maintain,database further,federal updated,dallas shootings,friday afternoon,national officers,available years,bialikflowerskingpolicedeaths2 patrol,dangerous dozens,other including,pilots dallas,among among,largest single,incident according,national national,enforcement officers,memorial shooting,incident since,seven during,political arrest,missouri')
+
+('NN', 'history bialik ritchie enforcement aptopix police dallas police officer night number police cause death night police demonstration dallas police president attack enforcement bialikflowerskingpolicedeaths1 officer become death horrific massacre number number number police percent bureau justice period number percent share officer deliberate officer officer college student officer bureau investigation state afternoon number police population today country police patrol death fulltime bureau labor truck number incident history incident police enforcement number incident revolt police missouri deadliest,police police,history history,bialik bialik,ritchie enforcement,aptopix aptopix,police shootingsprotest,dallas dallas,police police,officer night,otero number,police steady,common common,cause cause,death death,homicide night,police killed,demonstration killings,police president,obama despicable,attack attack,enforcement enforcement,bialikflowerskingpolicedeaths1 bialikflowerskingpolicedeaths1,officer become,safer safer,recent overall,death horrific,massacre massacre,because because,decline deaths,police local,police bureau,justice period,number declined,percent collisions,onduty onduty,police police,officer college,student student,police police,officer federal,bureau bureau,investigation killed,state number,police available,police overall,population bialikflowerskingpolicedeaths2,today deadliest,country country,police police,sheriff sheriff,patrol death,100000 according,bureau bureau,labor pilots,truck largest,number policing,history deadliest,incident incident,police police,since largest,number killed,single territories,since seven,police political,revolt shooting,police missouri,which')
+
+('VBD', 'andrew declined called calculated occurred increased killed declined started killed declined sheriff suspected killed ritchie,andrew flowers,filed colleagues,killed officers,declined homicide,those officers,killed obama,called officers,occurred officers,increased officers,killed officers,killed number,killed which,suspected thieves,killed')
+
+('VBN', 'filed killed killed updated killed killed killed attempted vicious,calculated killed,declined memorial,started state,updated population,declined number,killed puerto,killed dallas,attempted')
+
+('JJS', 'shootingsprotest deadliest largest deadliest largest arrest police,shootingsprotest dangerous,deadliest history,deadliest dallas,largest')
+
+('VBP', 'homicide thursday safer suggest risen maintain patrol police dallas terrorist dallas puerto deadlier officers,other counts,suggest makes,dallas officers,risen continues,maintain friday,afternoon officers,overall today,patrol officers,death workers,below loggers,police officers,dallas officers,terrorist officers,dallas officers,puerto officers,deadlier')
+
+('VBZ', 'makes comes continues extends officer,grieves other,states recent,years deaths,comes database,extends significantly,years below,dozens')
+
+('VB', 'database risen,number')
+
+('JJR', 'grieves,after')
+
+('NNP', 'years,number decline,number national,number')
+

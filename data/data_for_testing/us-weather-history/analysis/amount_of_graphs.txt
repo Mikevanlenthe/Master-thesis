@@ -1,0 +1,3 @@
+Article: us-weather-history
+
+Number of graphs: 10

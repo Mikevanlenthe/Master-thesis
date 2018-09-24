@@ -1,0 +1,57 @@
+Article: tarantino
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1516
+Raw number of types: 573
+Raw Type token ratio: 0.3779683377308707
+
+100 most freq tokens before (pre)processing: 
+[(',', 7834), ('the', 7677), ('.', 5257), ('of', 3894), ('a', 3278), ('to', 3128), ('in', 2867), ('and', 2855), ('’', 2643), ('that', 1761), ('s', 1453), ('for', 1316), ('is', 1264), ('on', 1113), ('it', 1096), (':', 1089), ('(', 951), (')', 951), ('are', 941), ('“', 916), ('”', 915), ('with', 828), ('—', 817), ('at', 816), ('we', 800), ('as', 795), ('by', 764), ('i', 752), ('but', 728), ('percent', 715), ('more', 710), ('our', 685), ('this', 659), ('trump', 637), ('or', 632), ('they', 627), ('you', 601), ('have', 588), ('from', 588), ('t', 566), ('about', 546), ('was', 544), ('team-logo', 535), ('who', 524), ('than', 520), ('be', 513), ('one', 495), ('data', 494), ('were', 461), ('an', 452), ('?', 430), ('has', 425), ('their', 405), ('not', 400), ('all', 394), ('1', 394), ('verdict', 377), ('polls', 366), ('there', 363), ('how', 361), ('said', 360), ('like', 360), ('so', 345), ('he', 344), ('if', 340), ('can', 337), ('what', 330), ('other', 326), ('some', 316), ('people', 316), ('which', 309), ('his', 300), ('most', 299), ('out', 298), ('those', 292), ('when', 290), ('had', 281), ('<', 279), ('also', 276), ('>', 273), ('get', 262), ('up', 259), ("'", 253), ('each', 251), ('just', 237), ('two', 231), ('only', 227), ('do', 223), ('pollsters', 214), ('github', 213), ('new', 211), ('its', 208), ('these', 207), ('positive', 206), ('them', 205), (';', 203), ('will', 199), ('time', 196), ('would', 193), ('my', 193)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1218
+Number of types: 551
+Type token ratio: 0.4523809523809524
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, get, brutal, frozen, die, swear, ve, i, cursedeath, re, django, want, do, want, slice, s, re, give, s, m, s, dick, dick, s')
+
+('JJ', 'complete, oliver, first, occasional, strong, frequent, new, first, next, s, s, eighth, hateful, civil, good, bad, ugly, ready, i, blue, venomous, few, essential, old, mild, necessary, medical, numerous, direct, foreign, chinese, japanese, french, inglourious, theatrical, difficult, mild, potent, full, reservoir, inglourious, total, few, equal, reservoir, onscreen, other, deaths5, much, half, reservoir, hateful, n–, salad, reservoir, remarkable, regular, eclectic, healthy, scatological, f, fantastic, single, useful, english, transitive, intransitive, adjective, adjective, different, tarantino, s, favorite, fuck, fuckhead, next, reservoir, few, last, evergreen, yogic, top, typical, vincent, back, brainandskullspattered, red, i, dangerous, hateful, proud, leaked, esquire, theatrical, consistent, leaked, hateful, fuckless, hateful, shit, significant, last, early, reservoir, dick, brown, first, first, many, mr, white, exact, full')
+
+('NN', 'catalog, time, someone, quentin, tarantino, movie, roeder, word, count, data, github, github, datatarantino, quentin, tarantino, john, travolta, samuel, l, jackson, pulp, fiction, minute, multiplex, feature, director, quentin, tarantino, interest, ire, language, violence, york, film, reservoir, film, pulp, fiction, los, something, wearing, repetitive, film, reliance, shock, value, posturing, attention, tarantino, feature, film, christmas, story, bounty, refuge, blizzard, war, week, couch, tarantino, s, streak, someone, gun, sword, snake, someone, motherfucker, cocksucker, i, note, event, time, tempos, tarantino, s, guy, s, bloodier, age, project, i, doctor, i, someone, blade, torso, samurai, sword, battle, person, die2, profanity, kill, bill, subtitles3, profane, language, eyeball, example, i, word, horror, i, damns, data, set, github, film, ratio, jackie, pulp, fiction, kill, bill, django, kill, bill, tarantino, film, plenty, language4, tarantino, hand, part, dozen, fbombs, celluloid, dozen, samurais, cheap, budget, today, imdb, django, budget, cost, word, count, %, %, fuck, goddamn, motherfucker, bitch, es, hell, damn, tarantino, pulp, fiction, s, bill, stretch, death, profanity, place, pimp, brothel, prostitute, era, filmography, tarantino, profaner, carnal, fond, variety, tarantino, doesn, t, fuck, fuck, word, word, word, language, verb, verb, noun, interjection, fucking, intensifier, gerund6, meaning, fuck, deliciously, vulgar, type, count, %, %, motherfucker, fucker, fuckup, fuckface, total, table, paragraph, fuck, tarantino, utterance, django, flexibility, spot, tarantino, deployment, word, courtesy, vega, seat, car, pulp, fiction, fucking, race, car, m, race, car, fucking, s, tradition, script, movie, magazine, paltry, search, script, word, release, script, guarantee, tarantino, film, s, bill, fbomb, count, script, bitch, hell, ass, damn, profanity, gauge, downtick, film, cry, pulp, fiction, jackie, tarantino, nostalgic, tarantino, dick, dick, dick, dick, dick, dick, character, tarantino, coffee, scene, tarantino, s, feature, mr, blue, lot, tarantino, catalog')
+
+('VBD', 'cursed, bled, called, wrote, was, s, spent, was, was, made, did, resulted, was, showed, were, assumed, had, cut, took, had, plucked, screamed, did, unchained, was, unchained, was, shit, s, s, ed, s, ed, fuck, fucked, s, fucked, got, s, red, had, put, revealed, had, mr')
+
+('VBN', 'filed, pulled, ignited, killed, called, hardwon, changed, relied, understood, rrated, created, been, unchained, made, chilled, scarred, fucked, uttered, been, fucked, unchained, done, leaked, given, eased, forgiven, hyperpottymouthed, played')
+
+('NNS', 'data, critics, films, times, dogs, times, hunters, meets, people, seconds, data, films, assumptions, limbs, languages, films, basterds, curses, hells, shits, fucks, nwords, curses, deaths, dogs, basterds, features, deaths, fucks, deaths, dogs, deaths, profanities, profanities, films, budgets, audiences, people, dogs, dollars, curses, measures, days, dogs, curses, doses, words, expletives, hundreds, varietals, fucks, motherfuckers, fucks, fuckers, fucks, inflections, films, dogs, times, fucks, versions, versions, versions, nwords, days, dogs, obscenities, days, dogs, dicks, dicks')
+
+('VBZ', 'curtains, has, angeles, comes, s, asses, vol, vol, has, matures, features, has, is, does, has, does, comes, is, s, gives, is, s, s, is, breaks, earns, i, is, s, contains, has, explains, is, deadpans, says')
+
+('VB', 'badboy, maintain, get, say, bleed, make, have, count, find, drop, drop, jolt, do, appear, kill, s, stuff, take, be, be, be, be, have, continue, be, be, kill, be, be, reservoir, be')
+
+('VBG', 'seeking, wyoming, watching, getting, remaining, trading, growing, swearing, fucking, motherfucking, talking, driving, using, fucking, motherfucking, fucking, saying, fucking, according, feeling')
+
+('JJS', 'best, least, quietest, best, earliest')
+
+('JJR', 'cheaper, more')
+
+100 most freq tokens after processing: 
+[('the', 7679), ('of', 3896), ('a', 3287), ('to', 3130), ('in', 2871), ('and', 2857), ('that', 1767), ('s', 1513), ('for', 1319), ('is', 1268), ('on', 1115), ('it', 1102), ('are', 945), ('with', 830), ('at', 819), ('we', 802), ('as', 797), ('by', 766), ('i', 755), ('but', 730), ('percent', 725), ('more', 712), ('our', 687), ('this', 661), ('trump', 640), ('or', 634), ('they', 629), ('you', 604), ('have', 590), ('from', 590), ('t', 572), ('about', 548), ('was', 546), ('teamlogo', 535), ('who', 526), ('than', 522), ('be', 517), ('one', 500), ('data', 494), ('1', 479), ('were', 463), ('an', 454), ('has', 427), ('their', 407), ('not', 402), ('all', 397), ('verdict', 377), ('polls', 367), ('there', 365), ('how', 363), ('said', 362), ('like', 362), ('so', 347), ('he', 346), ('if', 342), ('can', 339), ('what', 332), ('other', 330), ('people', 318), ('some', 316), ('which', 311), ('his', 302), ('out', 301), ('most', 300), ('those', 293), ('when', 292), ('had', 283), ('<', 279), ('also', 276), ('>', 273), ('get', 264), ('up', 262), ('10', 254), ('2', 254), ('each', 252), ('just', 239), ('two', 231), ('only', 227), ('do', 226), ('11', 219), ('pollsters', 214), ('github', 213), ('new', 211), ('its', 208), ('them', 207), ('these', 207), ('positive', 206), ('13', 202), ('will', 201), ('time', 199), ('would', 195), ('my', 195), ('been', 195), ('polling', 193), ('no', 188), ('year', 188), ('number', 188), ('points', 188), ('us', 187), ('14', 187)]

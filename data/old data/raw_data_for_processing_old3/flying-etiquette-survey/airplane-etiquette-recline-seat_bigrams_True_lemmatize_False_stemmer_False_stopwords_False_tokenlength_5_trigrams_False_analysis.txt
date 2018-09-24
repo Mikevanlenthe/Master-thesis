@@ -1,0 +1,47 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 863
+Raw number of types: 332
+Raw Type token ratio: 0.3847045191193511
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 5 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = False
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 619
+Number of types: 467
+Type token ratio: 0.7544426494345718
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'percent hickey etiquette github github dataflyingetiquettesurvey vincenzo pinto getty surprise undertaking cranky anything contract source strife audience question percent percent recline percent percent percent flight percent option recline passenger obligation person passenger intent percent stretch someone slumber switch buddy flight percent percent plane plane person person window percent person percent percent percent child fortytwo percent person window percent everyone status percent direction flight question opportunity break github recline,hickey etiquette,github github,github github,dataflyingetiquettesurvey plane,vincenzo vincenzo,pinto pinto,getty shouldn,surprise pressurized,cranky cranky,people people,recipe social,contract potential,source source,strife disagree,about surveymonkey,audience tackle,question recline,percent percent,recline recline,about about,percent percent,while while,percent percent,never never,recline impasse,percent people,percent percent,would eliminate,option option,recline flier,behind behind,passenger passenger,obligation obligation,person person,behind people,about about,common waking,passenger intent,percent thought,neighbor neighbor,bathroom trying,stretch disturbing,someone someone,slumber impolite,while impolite,switch relative,buddy children,flight whether,children children,younger younger,percent children,plane percent,people children,under bringing,plane person,window first,percent people,aisle aisle,window shared,percent youngest,child child,fortytwo fortytwo,percent acknowledged,person person,window shade,percent thought,everyone everyone,should status,percent landing,violation violation,direction ageold,question there,opportunity further,github')
+
+('NNS', 'fliers passengers weeks confrontations travelers seats people skies people people passengers respondents seats respondents respondents respondents respondents people seats people passengers people behaviors flights actions respondents seats people folks children passengers babies people responses questions children parents children people passengers children times people rests answers questions controls questions fliers seats rests respondents sadists people seats socialists responses respondents respondents electronics attendants people bathrooms respondents responses percent,fliers dataflyingetiquettesurvey,passengers couple,weeks spate,confrontations among,travelers reclining,seats strife,skies could,people asked,passengers passengers,respondents reclining,seats seats,respondents percent,always split,respondents recline,respondents percent,respondents seats,flights percent,passengers aggravating,behaviors behaviors,flights those,actions percent,respondents switch,seats surprised,folks percent,passengers charitable,babies people,responses responses,questions percent,parents without,passengers three,times people,asked middle,rests correct,answers these,questions middle,rests window,controls these,questions percent,fliers three,seats middle,rests percent,respondents percent,sadists window,seats percent,socialists wrote,responses percent,respondents percent,respondents personal,electronics flight,attendants question,always smoke,bathrooms seven,respondents these,responses')
+
+('VBP', 'think plane shouldn recipe disagree flown impasse flights determine somewhat leave consider window shade america whoever think aisle think fliers,think passengers,plane weeks,spate seats,shouldn skies,could vastly,disagree actually,consider respondents,flown always,recline respondents,while passengers,should flights,determine passenger,leave seats,people passengers,without likely,consider rests,window window,shade questions,person rests,person controls,shade questions,america fliers,three seats,person sadists,think seats,rests socialists,think always,people responses,further')
+
+('JJ', 'recline couple spate stressful pressurized social nebulous potential surveymonkey first tackle percent split recline recline percent asked common waking bathroom super impolite relative unruly charitable depended unruly percent likely middle obvious correct middle middle first window percent other shade personal violation ageold think,recline under,etiquette images,couple confrontations,among flying,become somewhat,stressful undertaking,cramped anything,social flying,nebulous nebulous,potential considered,people consider,surveymonkey flown,first first,tackle respondents,percent usually,percent respondents,recline never,impasse somewhat,recline during,flight flight,people flights,people people,percent asked,people whether,those really,about about,intent considered,impolite super,impolite toward,relative folks,thought unruly,children whopping,percent passengers,charitable interestingly,people depended,whether unruly,children compared,percent without,children under,three somewhat,people control,middle shade,obvious obvious,correct answers,these person,middle screwed,these america,percent seated,middle rests,percent whoever,their their,first think,people rests,percent other,wrote control,shade shade,status respondents,personal settling,ageold actually,smoke bathrooms,seven there,there break,these')
+
+('VBN', 'filed involved considered interpreted considered considered thought compared screwed shared admitted smoked cramped,pressurized about,considered leave,interpreted really,screwed person,seated should,shared respondents,admitted illegally,smoked')
+
+('VBZ', 'images recline rests fascists rests getty,images recline,seats respondents,fascists')
+
+('VBG', 'reclining flying quibbling flying reclining aggravating trying disturbing moving bringing whopping bringing bringing landing settling travelers,reclining surprise,flying stressful,undertaking recipe,quibbling quibbling,anything involved,flying question,reclining recline,during common,aggravating somewhat,waking bathroom,trying stretch,disturbing people,moving knowingly,bringing flight,whopping thought,bringing consider,bringing electronics,during during,landing attendants,settling')
+
+('VB', 'become consider recline eliminate recline control control shade would,eliminate should,recline should,control should,control')
+
+('VBD', 'cramped asked thought thought surprised thought asked seated responded wrote acknowledged thought smoke hickey,filed contract,involved audience,asked remarkably,split respondents,thought behind,asked respondents,thought slumber,considered while,considered buddy,surprised about,depended parents,thought plane,compared percent,responded respondents,acknowledged percent,thought should,shade direction,flight')
+
+('JJR', 'flier younger filed,under recline,flier considered,super')
+
+('JJS', 'largest youngest whoever,largest largest,youngest')
+

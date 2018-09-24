@@ -1,0 +1,49 @@
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 846
+Raw number of types: 360
+Raw Type token ratio: 0.425531914893617
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum length: 3 filtered out
+
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '<', '=', '>', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters:
+Using stopwords filter = True
+Using lemmatizer = False
+Using stemmer = False
+
+Token analysis after pre-processing 
+Number of tokens: 1136
+Number of types: 803
+Type token ratio: 0.7068661971830986
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by whitespace) 
+('NN', 'oct flight hope data pilot flight attendant airline passenger choice flight chicago april dear flight jack lincolnwood illinois jack history aviation male flight thousand kind question number flight fallen guess percentage flight look story percent flight figure percent gender employment percent census bureau population center multitude share flight today age flight cabin crew time percentage age flight change university flight group share airline recruitment reason change age race emergency percent flight airline sector look job transportation percent male flight attendant transport kind grasp percent sector male gender split population center database job category flight split percent percent male support percent male percent male list phrase percent percent percent list share piece jack flight number worker hope question send dearmona fivethirtyeightcom datalab538 oct3 dearmona mona howmany monachalabi filedunder underhope hopethe githubgithub githubdata dataat facebooktwitteremailjohn johnsiefer siefer furloughedpilot workingas asa fora majorairline airline herchoice choiceof aflight flightover chicagoon onapril april15 dearmona mona maleflight tobe jack jack lincolnwood lincolnwood illinois dearjack jack farback backwe wego thehistory historyof ofaviation aviationpersonnel thereare maleflight buta afew fewthousand fewerthan in2009 butraw kindof ofuseless yourquestion thenumber femaleflight risensince fallensince iguess interestedin inis thepercentage percentageof ofus thanit tobe whenwe welook lookat differentstory percentof thatfigure risensince sincethen percent overallgender gendersplit splitin inus employment percentof malein in2012 thepast pastthree tocensus censusbureau bureaudata bythe theminnesota minnesotapopulation populationcenter center to2000 availableevery iswhy whythe thechange steadybefore beforethen area amultitude agreater greatershare today oneof ofthem themis probablyage age in1980 youngerflight tobe stayedin thecabin overtime timethey theiroverall overallpercentage percentage and2007 medianage ageof ofall snot notthe changeto tohave thepast past30 texasa muniversity outin in2009 flight agroup withblack blackand makingup abigger biggershare share forcedairline theirrecruitment importantreason thechange change ingender gender age ageand andrace race thepeople theemergency percentof ofall theairline airlinesector welook lookat atall jobcategory publictransportation male ofall bytransport graspjust justhow itis percentof ofthe thesector ismale malewithout makingbroader lookedat atthe thegender gendersplit inthe theminnesota minnesotapopulation populationcenter center sdatabase database thejob jobcategory splitis percentof ofwhom administrativesupport supportjobs male male thetop topof thelist listbut butthey byno female inthe theus wantof ofa abetter betterphrase phrase just26 percentof percentof percentof ofthe fulllist listof theirmale maleshare shareat thebottom bottomof piece jack jack ifyou byhow manymale maleflight thisdata area rarerbreed americanworker worker hopethe aquestion questionyou wouldlike sendit itto todearmona dearmona fivethirtyeightcom fivethirtyeightcomor datalab538 datalab538')
+
+('JJ', 'dear many right major male back available american raw useless female interested different male overall male minnesota prior available steady likely overall median past white black hispanic civil important homogenous white peculiar category public clear unusual hard unusual minnesota similar administrative top female dental kindergarten titled full male bottom many male mental male breed american answered at1231 pmdear attendantsare getthe ongithub flightattendant attendantfor amajor passengerher beverageson ona apdear moremale usedto illinoisdear howfar inthe see latestavailable from2012 americanmale sthree werein in1980 werein answeringyour becausethe numberof offemale alsorisen andfallen whetherthe usflight whoare higherthan usedto slightlydifferent in1980 offlight weremale male figurehas to242 theoverall usemployment weremale overthe accordingto compiledby priorto onlyavailable whichis looksso sosteady thereare multitudeof whya ofall allflight attendantsare likelyto thatas crew increasedtheir themedian to44 onlychange overthe attexas asa becomeless lesswhite white andhispanic upa thatforced expandtheir asan animportant forthe despitethose pointingyou towardthe relativelyhomogenous homogenous allus usflight arewhite makesthe peculiar oncewe samejob categoryof public percentmale thatflight flightattendant areunusual unusualby skind tograsp howunusual unusualit sectoris ilooked ofall listedin resemblesflight gendersplit whomare othersimilar percentmale male administrative percentmale percentmale tothe ofthe themost forwant ofdental ofkindergarten otherextreme extreme titled ofearth earth seethe thefull andtheir atthe thispiece intriguedby howmany youmight keepa amental ofthe becausethis thoseare amuch ofamerican')
+
+('NNS', 'attendants men chalabi numbers data github datamaleflightattendants offers beverages attendants personnel numbers attendants times numbers attendants attendants men attendants workers decades data figures years reasons attendants men attendants men ones men attendants years attendants employees rights laws companies preferences changes people exits attendants women industries attendants inspectors races demographics standards comparisons occupations resembles attendants terms interviewers surveyors men roles teachers jobs dressmakers roles jobs hygienists teachers men boilermakers drillers men occupations attendants hairdressers typists data shows numbers flightattendants aremen men thenumbers thedata atdatamaleflightattendants offers flightattendants personnel availablenumbers flightattendants attendants threetimes rawnumbers flightattendants flightattendants aremen atpercentages storyemerges flightattendants ofworkers threedecades decades thefigures years ofreasons flightattendants aremen flightattendants bemen olderones ones asmen flightattendants rosefrom years flightattendants hispanicemployees cited1960s civilrights airlinecompanies recruitmentpreferences thosechanges emergencyexits flightattendants whitewomen women allindustries industries transportationattendants andinspectors inspectors allraces races attendantdemographics transportstandards standards broadercomparisons comparisons 320occupations mostresembles flightattendants interms ofits interviewers interviewers enumerators andsurveyors surveyors aremen men similarroles teachers teachers jobs dressmakers seamstresses thoseroles mightbe nomeans jobs dentalhygienists percentof kindergartenteachers aremen men ofboilermakers drillers aremen men ofoccupations flightattendants mightalso malereceptionists hairdressers andtypists datashows breedof thenumbers mona')
+
+('VBP', 'mona help github john dear see show risen change texas become expand gender gender enumerators want percent extreme earth see help bymona numbershelp dataon datamaleflightattendantsfacebooktwitteremail apassenger attendantsthan dependshow goin see numbersfrom morethan numbersare attendantshas iswhether attendantswho menis reasonswhy weremore itcould menhave sociologistsat attendantsas grouphave rightslaws companiesto toexpand preferencesas changesin exitsare attendantsare thatmakes thesame attendantsand is406 sclear demographicsare butit todo splitof attendantsin termsof itsgender enumeratorsand only241 rolesare dressmakersand closerto reby meansthe jobsin hygienistsand teachersare atthe boilermakersand drillersof see occupationsand attendantsyou yousee alsokeep tallyof hairdressersand typistsyou showsthose hope numbershelp youwould')
+
+('VBN', 'filed furloughed used used risen fallen stayed listed dominated chalabifiled afurloughed thereused hasalso reallyinterested hasrisen steadilyfallen haveentered presumablystayed haveoccurred havebecome dominated reintrigued havea likeanswered')
+
+('VB', 'get siefer closer see keep mona like helpget couldbe attendantsrose from30 see ofmale help monahave send')
+
+('VBG', 'working answering according making pointing making pilotworking inanswering according employeesmaking peoplepointing withoutmaking')
+
+('VBZ', 'depends percentages emerges looks sociologists makes seamstresses means receptionists ofbeverages itdepends are25268 whatyou percentages emerges changelooks shareof evenin associologists slightlypeculiar hardto that24 andseamstresses receptionists')
+
+('JJS', 'latest')
+
+('JJR', 'fewer greater younger older bigger broader better rarer thousandfewer younger thanolder muchrarer')
+
+('VBD', 'split compiled entered increased rose occurred pointed cited forced looked intrigued manyflight aflight since1980 since2009 itused datacompiled menthan entered cabincrew graduallyincreased between1980 allflight universitypointed theycited reasonfor occupationslisted thatmost rolesmight femaledominated bizarrelytitled')
+
+('NNP', 'thenumber')
+

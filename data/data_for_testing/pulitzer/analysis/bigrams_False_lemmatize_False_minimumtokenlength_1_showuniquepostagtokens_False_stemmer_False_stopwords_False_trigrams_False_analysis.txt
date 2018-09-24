@@ -1,0 +1,55 @@
+Article: pulitzer
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 904
+Raw number of types: 357
+Raw Type token ratio: 0.39491150442477874
+
+100 most freq tokens before (pre)processing: 
+[(',', 7346), ('the', 7162), ('.', 4905), ('of', 3644), ('a', 3086), ('to', 2939), ('and', 2674), ('in', 2663), ('’', 2461), ('that', 1692), ('s', 1341), ('for', 1233), ('is', 1201), (':', 1059), ('on', 1053), ('it', 1028), ('(', 905), (')', 905), ('are', 886), ('“', 855), ('”', 854), ('with', 786), ('at', 771), ('—', 769), ('we', 766), ('as', 747), ('by', 718), ('i', 693), ('but', 684), ('more', 667), ('our', 664), ('percent', 653), ('trump', 636), ('this', 621), ('they', 601), ('or', 590), ('you', 562), ('have', 549), ('from', 547), ('t', 539), ('team-logo', 535), ('about', 512), ('who', 510), ('was', 503), ('than', 487), ('be', 477), ('one', 476), ('data', 451), ('were', 441), ('an', 427), ('has', 402), ('?', 401), ('1', 385), ('not', 381), ('their', 377), ('verdict', 377), ('polls', 364), ('all', 362), ('said', 359), ('like', 353), ('there', 344), ('how', 340), ('he', 336), ('if', 320), ('so', 317), ('other', 316), ('can', 314), ('what', 313), ('people', 304), ('some', 292), ('most', 290), ('his', 289), ('those', 278), ('which', 277), ('out', 277), ('when', 275), ('<', 271), ('>', 265), ('had', 263), ('also', 255), ("'", 253), ('get', 250), ('up', 241), ('each', 230), ('just', 221), ('only', 219), ('two', 217), ('pollsters', 214), ('do', 212), ('positive', 206), ('them', 196), ('new', 195), ('its', 194), ('will', 192), ('polling', 192), ('github', 191), ('2', 187), ('points', 187), (';', 186), ('time', 183)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 792
+Number of types: 340
+Type token ratio: 0.4292929292929293
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, do, get, re, re, produce, remain, are, produce, are, i, have, ve, have, decline, win, have, don, win, are, are, win, continue, are, encourage, ve, ve, re, predict, ve, timespicayune, ve, ve')
+
+('NNS', 'pulitzers, newspapers, readers, awards, data, siers, prizes, congratulations, finalists, winners, fans, organizations, economics, prizes, consumers, outlets, newspapers, others, figures, newspapers, winners, finalists, newspapers, ranks, times, winners, finalists, totals, variations, times, subscriptions, media, figures, times, subscriptions, times, winners, finalists, subscriptions, times, winners, finalists, winners, finalists, prizes, changes, times, subscriptions, times, newspapers, newspapers, prizes, newspapers, years, newspapers, circulations, ones, pulitzers, ones, newspapers, pulitzers, readers, newspapers, ones, pulitzers, readers, sales, sorts, factors, data, notes, prizes, periods, pulitzers, changes, things, newspapers, categories, sales, pulitzers, numbers, results, orleans, wednesdays, fridays, sundays, sales, times, figures, times, numbers, totals, figures')
+
+('VB', 'help, keep, see, succeed, see, be, list, be, be, be, mean, forget, spin, have, explore, t, be, predict, be, afford, reinvest, provide')
+
+('JJ', 'nate, editorial, monday, annual, fivethirtyeight, challenging, i, commercial, pulitzer, daily, top, much, many, new, inexact, different, unclear, print, digital, audited, total, digital, same, noisy, modest, positive, new, digital, other, economic, vast, much, negative, positive, quick, digital, further, successful, investigative, other, entire, little, second, new, daily, daily, jose, s, san, jose')
+
+('NN', 'silver, data, github, github, datapulitzer, charlotte, cartoonist, kevin, pulitzer, award, editorial, cartooning, david, t, foster, iii, charlotte, pulitzer, afternoon, journalism, highquality, journalism, newspaper, publishing, course, relationship, pulitzer, newspaper, success, news, work, quality, circulation, circulation, i, pulitzer, database, data, github, pulitzer, york, count, pulitzer, database, newspaper, name, attribution, award, circulation, percent, paper, alliance, part, circulation, percent, something, washington, post, pulitzer, circulation, percent, los, circulation, drop, percent, period, boston, globe, percent, decline, relationship, pulitzer, circulation, chart, correlation, chart, result, york, correlation, quality, strategy, data, relationship, pulitzer, circulation, correlation, relationship, hasn, t, majority, lot, result, highquality, journalism, take, course, newspaper, circulation, age, couple, file, pulitzer, s, number, circulation, onward, journalism, meaning, way, pulitzer, period, difference, percent, drop, circulation, s, paper, print, edition, san, mercury, news, contra, costa, oakland, tribune, part, fairer, comparison, contra, costa, oakland, tribune, circulation, mercury, news, circulation, oakland, tribune, s, pulitzer, prize, mercury, news')
+
+('VBN', 'filed, announced, increased, decreased, had, had, had, seen, counted, listed, seen, suffered, affected, straightforward, provided, broken, listed, gone, included')
+
+('VBD', 'won, were, wanted, was, looked, had, searched, posted, fell, were, was, saw, experienced, were, changed, said, occurred, experienced, added')
+
+('VBG', 'hoping, gravitating, struggling, topping, counting, counting, doing, retaining, struggling, counting, being, taking, having')
+
+('VBZ', 's, is, has, sells, includes, is, has, angeles, is, is, does, s, says, is, is, s, is, is, makes, publishes, publishes, counts')
+
+('JJR', 'outlier, better, more')
+
+100 most freq tokens after processing: 
+[('the', 7164), ('of', 3646), ('a', 3095), ('to', 2941), ('and', 2676), ('in', 2667), ('that', 1698), ('s', 1401), ('for', 1236), ('is', 1205), ('on', 1055), ('it', 1034), ('are', 890), ('with', 788), ('at', 774), ('we', 768), ('as', 749), ('by', 720), ('i', 696), ('but', 686), ('more', 669), ('our', 666), ('percent', 663), ('trump', 639), ('this', 623), ('they', 603), ('or', 592), ('you', 565), ('have', 551), ('from', 549), ('t', 545), ('teamlogo', 535), ('about', 514), ('who', 512), ('was', 505), ('than', 489), ('be', 481), ('one', 481), ('1', 470), ('data', 451), ('were', 443), ('an', 429), ('has', 404), ('not', 383), ('their', 379), ('verdict', 377), ('polls', 365), ('all', 364), ('said', 361), ('like', 355), ('there', 346), ('how', 342), ('he', 338), ('if', 322), ('other', 320), ('so', 319), ('can', 316), ('what', 315), ('people', 306), ('some', 292), ('most', 291), ('his', 291), ('out', 280), ('which', 279), ('those', 279), ('when', 277), ('<', 271), ('had', 265), ('>', 265), ('also', 255), ('get', 252), ('2', 249), ('up', 243), ('10', 240), ('each', 231), ('just', 223), ('only', 219), ('two', 217), ('do', 215), ('pollsters', 214), ('11', 210), ('positive', 206), ('them', 198), ('new', 195), ('will', 194), ('its', 194), ('13', 194), ('polling', 193), ('github', 191), ('points', 187), ('time', 186), ('no', 183), ('would', 182), ('14', 182), ('been', 181), ('donald', 181), ('these', 180), ('number', 178), ('%', 178), ('poll', 178)]

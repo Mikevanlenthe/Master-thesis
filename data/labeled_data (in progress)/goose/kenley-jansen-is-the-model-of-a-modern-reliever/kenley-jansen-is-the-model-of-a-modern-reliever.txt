@@ -1,0 +1,3287 @@
+
+
+
+Nov. 7, 2017
+						at
+						11:39 AM
+
+
+
+							Kenley Jansen Is The Model Of A Modern Reliever
+
+
+
+By Nate Silver
+Filed under Baseball
+
+Get the data on GitHub
+GitHub data at data/goose
+
+
+
+FacebookTwitterEmail
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Kenley Jansen was used in high-leverage situations — not exclusively in save situations like many closers.									Harry How / Getty Images
+
+
+
+After a year of searching, we didn’t our find our new Goose Gossage. But we did get a glimpse of what one might look like in baseball’s just-concluded postseason.
+This spring, we introduced a new pitching statistic called the goose egg — named in honor of Gossage, the Hall-of-Fame reliever, who had a record 82 goose eggs in 1975. Essentially, a pitcher gets a goose egg for every clutch, scoreless relief inning (see the original article for a more formal definition). Goose eggs have a substantially better correlation with relievers’ win probability added than saves do, especially if paired with their companion statistic, the broken egg.
+This year’s major leader in goose eggs was the Milwaukee Brewers’ Corey Knebel, who finished with 47 of them. The American League leader was the Seattle Mariners’ Edwin Diaz, who had 40. You can find a complete rundown of this year’s final goose stats in the table below. (A “broken egg” is essentially the blown save of goose stats, and a “meh” is any situation which doesn’t result in either a goose egg or a broken egg.)
+
+
+Corey Knebel gets the golden egg
+Final goose egg stats for 2017
+
+
+
+
+
+
+PITCHER▲▼
+
+TEAM▲▼
+
+GOOSE EGGS▲▼
+
+BROKEN EGGS▲▼
+
+MEHS▲▼
+
+GWAR▲▼
+
+
+
+
+
+Corey Knebel
+MIL
+47
+8
+2
++3.9
+
+
+Kenley Jansen
+LAD
+44
+0
+1
++6.3
+
+
+Edwin Diaz
+SEA
+40
+7
+4
++3.4
+
+
+Alex Colome
+TB
+38
+6
+6
++3.5
+
+
+Brad Hand
+SD
+38
+6
+6
++3.2
+
+
+Felipe Rivero
+PIT
+37
+4
+2
++3.9
+
+
+Addison Reed
+BOS/NYM
+35
+6
+7
++3.0
+
+
+Brandon Kintzler
+MIN/WAS
+34
+6
+4
++2.9
+
+
+Fernando Rodney
+ARI
+33
+4
+5
++3.5
+
+
+Andrew Miller
+CLE
+33
+5
+3
++3.5
+
+
+Raisel Iglesias
+CIN
+31
+2
+2
++3.8
+
+
+Craig Kimbrel
+BOS
+31
+4
+0
++3.5
+
+
+Archie Bradley
+ARI
+31
+4
+8
++3.2
+
+
+Hector Neris
+PHI
+31
+7
+4
++1.9
+
+
+Brad Brach
+BAL
+31
+8
+2
++1.9
+
+
+Roberto Osuna
+TOR
+31
+10
+1
++1.1
+
+
+Wade Davis
+CHC
+30
+3
+1
++3.2
+
+
+Tommy Hunter
+TB
+30
+6
+1
++2.3
+
+
+Bryan Shaw
+CLE
+29
+8
+5
++1.8
+
+
+Cody Allen
+CLE
+29
+8
+5
++1.8
+
+
+Joakim Soria
+KC
+29
+8
+2
++1.6
+
+
+Pat Neshek
+COL/PHI
+28
+4
+8
++2.8
+
+
+Nick Vincent
+SEA
+28
+5
+6
++2.4
+
+
+David Robertson
+CHW/NYY
+28
+6
+2
++2.1
+
+
+Mike Minor
+KC
+28
+7
+4
++1.8
+
+
+Arodys Vizcaino
+ATL
+28
+8
+2
++1.1
+
+
+Greg Holland
+COL
+27
+6
+2
++2.1
+
+
+Kelvin Herrera
+KC
+27
+7
+3
++1.6
+
+
+Sam Dyson
+SF/TEX
+27
+11
+2
+-0.1
+
+
+Alex Claudio
+TEX
+26
+4
+8
++2.6
+
+
+Hunter Strickland
+SF
+26
+6
+1
++1.5
+
+
+Michael Lorenzen
+CIN
+26
+7
+2
++1.2
+
+
+Jacob Barnes
+MIL
+26
+9
+4
++0.5
+
+
+Chris Devenski
+HOU
+26
+10
+6
++0.1
+
+
+Ryan Tepera
+TOR
+25
+3
+1
++2.8
+
+
+Trevor Rosenthal
+STL
+25
+8
+1
++0.6
+
+
+Sean Doolittle
+OAK/WAS
+24
+3
+7
++2.4
+
+
+Anthony Swarzak
+CHW/MIL
+24
+4
+4
++2.1
+
+
+Ryan Madson
+OAK/WAS
+24
+4
+1
++2.1
+
+
+Ken Giles
+HOU
+24
+5
+3
++1.7
+
+
+Justin Wilson
+CHC/DET
+24
+6
+3
++1.4
+
+
+Dellin Betances
+NYY
+24
+8
+2
++0.9
+
+
+Yusmeiro Petit
+LAA
+23
+4
+2
++2.0
+
+
+Blake Parker
+LAA
+23
+5
+2
++1.6
+
+
+Tony Watson
+LAD/PIT
+23
+9
+6
+-0.0
+
+
+AJ Ramos
+MIA/NYM
+22
+4
+4
++1.6
+
+
+Seung-hwan Oh
+STL
+22
+5
+6
++1.3
+
+
+Matt Belisle
+MIN
+22
+6
+3
++1.1
+
+
+Kyle Barraclough
+MIA
+22
+6
+1
++0.9
+
+
+Juan Nicasio
+PHI/PIT
+22
+8
+8
++0.2
+
+
+Carl Edwards
+CHC
+22
+8
+3
++0.1
+
+
+Blake Treinen
+OAK/WAS
+22
+10
+3
+-0.4
+
+
+Shane Greene
+DET
+20
+4
+5
++1.6
+
+
+Jose Ramirez
+ATL
+20
+6
+6
++0.7
+
+
+Joe Smith
+CLE/TOR
+19
+2
+1
++2.2
+
+
+Pedro Strop
+CHC
+19
+3
+5
++1.6
+
+
+Aroldis Chapman
+NYY
+19
+4
+3
++1.5
+
+
+Matthew Bowman
+STL
+19
+7
+7
++0.1
+
+
+Jim Johnson
+ATL
+19
+9
+3
+-0.6
+
+
+Brandon Maurer
+KC/SD
+19
+10
+0
+-1.0
+
+
+Zach Britton
+BAL
+18
+2
+0
++2.1
+
+
+Mychal Givens
+BAL
+18
+3
+4
++1.7
+
+
+Will Harris
+HOU
+18
+3
+0
++1.5
+
+
+Jerry Blevins
+NYM
+18
+5
+13
++0.7
+
+
+Taylor Rogers
+MIN
+18
+7
+6
++0.2
+
+
+Bud Norris
+LAA
+18
+7
+1
++0.1
+
+
+Matt Barnes
+BOS
+18
+8
+4
+-0.0
+
+
+Joaquin Benoit
+PHI/PIT
+18
+11
+0
+-1.5
+
+
+Matt Bush
+TEX
+17
+6
+3
++0.5
+
+
+Santiago Casilla
+OAK
+17
+8
+3
+-0.4
+
+
+Luis Garcia
+PHI
+16
+6
+4
++0.1
+
+
+Tommy Kahnle
+CHW/NYY
+16
+9
+2
+-0.9
+
+
+David Phelps
+MIA/SEA
+16
+9
+4
+-1.1
+
+
+Mike Dunn
+COL
+15
+0
+3
++2.4
+
+
+David Hernandez
+ARI/LAA
+15
+1
+5
++1.9
+
+
+Matt Albers
+WAS
+15
+2
+4
++1.4
+
+
+Wandy Peralta
+CIN
+15
+4
+4
++0.7
+
+
+Brett Cecil
+STL
+15
+4
+3
++0.7
+
+
+Jake McGee
+COL
+15
+5
+2
++0.6
+
+
+Mark Melancon
+SF
+15
+5
+0
++0.3
+
+
+Ryan Buchter
+KC/SD
+15
+6
+4
+-0.1
+
+
+Koji Uehara
+CHC
+15
+6
+3
+-0.1
+
+
+Mike Montgomery
+CHC
+14
+2
+2
++1.3
+
+
+Danny Farquhar
+CHW/TB
+14
+4
+2
++0.6
+
+
+Enny Romero
+WAS
+14
+4
+6
++0.5
+
+
+Kirby Yates
+LAA/SD
+14
+6
+2
+-0.2
+
+
+Junichi Tazawa
+MIA
+14
+7
+0
+-0.6
+
+
+Pedro Baez
+LAD
+14
+7
+8
+-0.6
+
+
+Darren O’Day
+BAL
+13
+3
+2
++0.9
+
+
+Chris Rusin
+COL
+13
+4
+4
++0.6
+
+
+James Pazos
+SEA
+13
+4
+5
++0.5
+
+
+Cam Bedrosian
+LAA
+13
+5
+4
++0.1
+
+
+Adam Ottavino
+COL
+13
+7
+3
+-0.5
+
+
+Alex Wilson
+DET
+13
+7
+7
+-0.6
+
+
+Sam Freeman
+ATL
+12
+2
+6
++1.0
+
+
+Cory Gearrin
+SF
+12
+3
+2
++0.6
+
+
+Brad Ziegler
+MIA
+12
+3
+3
++0.6
+
+
+Joe Kelly
+BOS
+12
+4
+5
++0.5
+
+
+Josh Hader
+MIL
+12
+4
+5
++0.3
+
+
+Brandon Morrow
+LAD
+12
+4
+2
++0.2
+
+
+Jorge De La Rosa
+ARI
+12
+5
+1
+-0.0
+
+
+Liam Hendriks
+OAK
+12
+6
+1
+-0.4
+
+
+George Kontos
+PIT/SF
+12
+8
+3
+-1.3
+
+
+Paul Sewald
+NYM
+12
+8
+3
+-1.3
+
+
+Drew Steckenrider
+MIA
+11
+1
+1
++1.2
+
+
+Derek Law
+SF
+11
+3
+1
++0.5
+
+
+Tyler Lyons
+STL
+11
+3
+2
++0.5
+
+
+Hector Rondon
+CHC
+11
+3
+2
++0.4
+
+
+Tyler Duffey
+MIN
+11
+4
+3
++0.2
+
+
+Marc Rzepczynski
+SEA
+11
+4
+12
++0.2
+
+
+Peter Moylan
+KC
+10
+0
+5
++1.6
+
+
+Juan Minaya
+CHW
+10
+1
+3
++1.1
+
+
+Steve Cishek
+SEA/TB
+10
+2
+4
++0.8
+
+
+Kenyan Middleton
+LAA
+10
+2
+1
++0.8
+
+
+Craig Stammen
+SD
+10
+2
+3
++0.7
+
+
+Keone Kela
+TEX
+10
+3
+2
++0.5
+
+
+Adam Warren
+NYY
+10
+4
+1
++0.1
+
+
+Jared Hughes
+MIL
+10
+4
+2
+-0.0
+
+
+Heath Hembree
+BOS
+10
+5
+6
+-0.2
+
+
+Neftali Feliz
+KC/MIL
+10
+6
+0
+-0.7
+
+
+Luke Gregerson
+HOU
+10
+6
+2
+-0.8
+
+
+Ross Stripling
+LAD
+10
+9
+1
+-2.0
+
+
+Tyler Clippard
+CHW/HOU
+10
+11
+7
+-2.5
+
+
+Miguel Castro
+BAL
+9
+1
+2
++1.0
+
+
+Adam Morgan
+PHI
+9
+1
+0
++0.9
+
+
+Joe Biagini
+TOR
+9
+3
+2
++0.3
+
+
+Trevor Hildenberger
+MIN
+9
+3
+3
++0.3
+
+
+Dominic Leone
+TOR
+9
+4
+6
+-0.1
+
+
+Jose Alvarado
+TB
+9
+4
+3
+-0.1
+
+
+Hansel Robles
+NYM
+9
+5
+2
+-0.6
+
+
+Chris Hatcher
+LAD/OAK
+9
+6
+3
+-0.9
+
+
+Edubray Ramos
+PHI
+9
+11
+1
+-2.8
+
+
+Joe Musgrove
+HOU
+8
+0
+0
++1.2
+
+
+Kevin Siegrist
+PHI/STL
+8
+1
+3
++0.8
+
+
+Koda Glover
+WAS
+8
+2
+2
++0.4
+
+
+Jeurys Familia
+NYM
+8
+2
+2
++0.4
+
+
+Josh Smoker
+NYM
+8
+2
+3
++0.4
+
+
+Scott Alexander
+KC
+8
+4
+4
+-0.2
+
+
+Tony Zych
+SEA
+8
+5
+3
+-0.6
+
+
+Daniel Hudson
+PIT
+8
+6
+4
+-1.1
+
+
+Fernando Salas
+LAA/NYM
+8
+6
+4
+-1.1
+
+
+Danny Barnes
+TOR
+8
+9
+3
+-2.1
+
+
+Carlos Ramirez
+TOR
+7
+0
+0
++1.1
+
+
+Erasmo Ramirez
+TB
+7
+1
+2
++0.7
+
+
+Scott Oberg
+COL
+7
+2
+5
++0.4
+
+
+Brandon Workman
+BOS
+7
+2
+2
++0.4
+
+
+Deolis Guerra
+LAA
+7
+2
+0
++0.3
+
+
+Jeanmar Gomez
+PHI
+7
+2
+1
++0.3
+
+
+Tony Cingrani
+CIN/LAD
+7
+2
+4
++0.3
+
+
+Jose Leclerc
+TEX
+7
+3
+3
++0.0
+
+
+Tony Barnette
+TEX
+7
+3
+1
++0.0
+
+
+Phil Maton
+SD
+7
+3
+2
+-0.1
+
+
+Steven Okert
+SF
+7
+4
+12
+-0.5
+
+
+Jake Diekman
+TEX
+6
+0
+1
++0.9
+
+
+Blaine Boyer
+BOS
+6
+1
+1
++0.6
+
+
+Jonathan Holder
+NYY
+6
+1
+1
++0.6
+
+
+Oliver Perez
+WAS
+6
+1
+5
++0.5
+
+
+Nick Wittgren
+MIA
+6
+1
+1
++0.5
+
+
+Chasen Shreve
+NYY
+6
+2
+3
++0.2
+
+
+T. J. McFarland
+ARI
+6
+2
+2
++0.2
+
+
+Ian Krol
+ATL
+6
+2
+3
++0.1
+
+
+Shawn Kelley
+WAS
+6
+2
+1
++0.1
+
+
+J. J. Hoover
+ARI
+6
+3
+3
+-0.2
+
+
+Ryan Dull
+OAK
+6
+3
+4
+-0.2
+
+
+Sergio Romo
+LAD/TB
+6
+3
+0
+-0.2
+
+
+Brian Duensing
+CHC
+6
+3
+1
+-0.3
+
+
+Chase Whitley
+TB
+6
+4
+1
+-0.6
+
+
+Carlos Torres
+MIL
+6
+4
+3
+-0.6
+
+
+Luis Avilan
+LAD
+6
+4
+4
+-0.7
+
+
+Jumbo Diaz
+TB
+6
+5
+3
+-0.9
+
+
+Josh Fields
+LAD
+6
+5
+2
+-1.0
+
+
+Hector Velazquez
+BOS
+5
+0
+0
++0.8
+
+
+Randall Delgado
+ARI
+5
+0
+0
++0.8
+
+
+Fernando Abad
+BOS
+5
+1
+1
++0.4
+
+
+Jarlin Garcia
+MIA
+5
+1
+7
++0.3
+
+
+Robby Scott
+BOS
+5
+2
+12
++0.1
+
+
+Jacob Turner
+WAS
+5
+2
+0
+-0.0
+
+
+Joely Rodriguez
+PHI
+5
+2
+4
+-0.0
+
+
+Josh Edgin
+NYM
+5
+2
+5
+-0.0
+
+
+Aaron Loup
+TOR
+5
+3
+12
+-0.3
+
+
+Ryan Pressly
+MIN
+5
+3
+2
+-0.3
+
+
+Dovydas Neverauskas
+PIT
+5
+3
+0
+-0.4
+
+
+Brian Ellington
+MIA
+5
+3
+0
+-0.4
+
+
+Jose Alvarez
+LAA
+5
+5
+5
+-1.1
+
+
+Jose Torres
+SD
+5
+5
+2
+-1.2
+
+
+Andrew Chafin
+ARI
+5
+8
+7
+-2.2
+
+
+Logan Verrett
+BAL
+4
+0
+0
++0.6
+
+
+Austin Brice
+CIN
+4
+0
+0
++0.6
+
+
+Nate Jones
+CHW
+4
+1
+0
++0.2
+
+
+Francis Martes
+HOU
+4
+1
+2
++0.2
+
+
+Justin Grimm
+CHC
+4
+1
+2
++0.2
+
+
+Dustin McGowan
+MIA
+4
+1
+2
++0.2
+
+
+Doug Fister
+BOS
+4
+2
+0
+-0.1
+
+
+Donnie Hart
+BAL
+4
+2
+3
+-0.1
+
+
+Richard Bleier
+BAL
+4
+2
+2
+-0.1
+
+
+Austin Pruitt
+TB
+4
+2
+0
+-0.1
+
+
+Drew Storen
+CIN
+4
+2
+3
+-0.2
+
+
+Sammy Solis
+WAS
+4
+2
+2
+-0.2
+
+
+Josh Osich
+SF
+4
+2
+6
+-0.2
+
+
+Bruce Rondon
+DET
+4
+3
+0
+-0.5
+
+
+Dan Altavilla
+SEA
+4
+3
+1
+-0.5
+
+
+Blake Wood
+CIN
+4
+3
+2
+-0.5
+
+
+Joe Blanton
+WAS
+4
+3
+0
+-0.5
+
+
+Albert Suarez
+SF
+4
+3
+0
+-0.6
+
+
+Jason Grilli
+TEX/TOR
+4
+4
+3
+-0.8
+
+
+Brad Boxberger
+TB
+4
+4
+3
+-0.9
+
+
+Oliver Drake
+MIL
+4
+4
+1
+-0.9
+
+
+Sam Tuivailala
+STL
+4
+4
+1
+-0.9
+
+
+Aaron Bummer
+CHW
+4
+5
+6
+-1.2
+
+
+Daniel Coulombe
+OAK
+4
+5
+6
+-1.3
+
+
+Carlos Estevez
+COL
+3
+0
+0
++0.5
+
+
+Matt Dermody
+TOR
+3
+0
+2
++0.5
+
+
+Jimmy Yacabonis
+BAL
+3
+0
+0
++0.5
+
+
+Alan Busenitz
+MIN
+3
+0
+2
++0.5
+
+
+Bryan Morris
+SF
+3
+0
+0
++0.4
+
+
+Chasen Bradford
+NYM
+3
+0
+1
++0.4
+
+
+Jen-Ho Tseng
+CHC
+3
+0
+0
++0.4
+
+
+Alex Wood
+LAD
+3
+0
+1
++0.4
+
+
+Alec Asher
+BAL
+3
+1
+1
++0.1
+
+
+Mike Bolsinger
+TOR
+3
+1
+0
++0.1
+
+
+Tom Koehler
+TOR
+3
+1
+2
++0.1
+
+
+Chris Rowley
+TOR
+3
+1
+0
++0.1
+
+
+Drew VerHagen
+DET
+3
+1
+2
++0.1
+
+
+Buddy Baumann
+SD
+3
+1
+1
++0.1
+
+
+John Brebbia
+STL
+3
+1
+3
++0.1
+
+
+Chad Green
+NYY
+3
+2
+2
+-0.3
+
+
+Greg Infante
+CHW
+3
+2
+7
+-0.3
+
+
+Jhan Marinez
+MIL/PIT
+3
+2
+0
+-0.3
+
+
+Casey Fien
+PHI/SEA
+3
+2
+0
+-0.3
+
+
+Travis Wood
+KC
+3
+3
+1
+-0.6
+
+
+Rex Brothers
+ATL
+3
+3
+1
+-0.7
+
+
+Emilio Pagan
+SEA
+3
+4
+2
+-1.0
+
+
+Francisco Rodriguez
+DET
+3
+8
+2
+-2.5
+
+
+Dan Otero
+CLE
+2
+0
+0
++0.3
+
+
+Tyler Olson
+CLE
+2
+0
+4
++0.3
+
+
+Carson Smith
+BOS
+2
+0
+0
++0.3
+
+
+Austin Maddox
+BOS
+2
+0
+0
++0.3
+
+
+Dario Alvarez
+TEX
+2
+0
+1
++0.3
+
+
+Jake Junis
+KC
+2
+0
+0
++0.3
+
+
+Trevor Cahill
+KC
+2
+0
+0
++0.3
+
+
+Jake Barrett
+ARI
+2
+0
+3
++0.3
+
+
+Zach Putnam
+CHW
+2
+0
+0
++0.3
+
+
+Asher Wojciechowski
+CIN
+2
+0
+0
++0.3
+
+
+A. J. Schugel
+PIT
+2
+0
+1
++0.3
+
+
+Ty Blach
+SF
+2
+0
+1
++0.3
+
+
+Jamie Callahan
+NYM
+2
+0
+1
++0.3
+
+
+Brock Stewart
+LAD
+2
+0
+1
++0.3
+
+
+Chad Qualls
+COL
+2
+1
+0
+-0.0
+
+
+Jordan Lyles
+COL
+2
+1
+0
+-0.0
+
+
+Luis Santos
+TOR
+2
+1
+0
+-0.1
+
+
+Kyle Ryan
+DET
+2
+1
+0
+-0.1
+
+
+Andrew Kittredge
+TB
+2
+1
+0
+-0.1
+
+
+Eduardo Paredes
+LAA
+2
+1
+0
+-0.1
+
+
+Josh Smith
+OAK
+2
+1
+0
+-0.1
+
+
+Eric O’Flaherty
+ATL
+2
+1
+1
+-0.1
+
+
+Jason Motte
+ATL
+2
+1
+2
+-0.1
+
+
+Matt Grace
+WAS
+2
+1
+2
+-0.1
+
+
+Victor Arano
+PHI
+2
+1
+0
+-0.1
+
+
+Robert Gsellman
+NYM
+2
+1
+0
+-0.1
+
+
+Jacob Rhame
+NYM
+2
+1
+0
+-0.1
+
+
+Ricardo Rodriguez
+TEX
+2
+2
+1
+-0.4
+
+
+Jake Petricka
+CHW
+2
+2
+3
+-0.4
+
+
+Simon Castro
+OAK
+2
+2
+1
+-0.4
+
+
+Francisco Liriano
+HOU
+2
+2
+1
+-0.4
+
+
+Robert Stephenson
+CIN
+2
+2
+0
+-0.5
+
+
+Ryan Sherriff
+STL
+2
+2
+1
+-0.5
+
+
+Matt Strahm
+KC
+2
+3
+1
+-0.8
+
+
+Wade LeBlanc
+PIT
+2
+3
+2
+-0.8
+
+
+Daniel Stumpf
+DET
+2
+4
+5
+-1.2
+
+
+Jeremy Jeffress
+MIL/TEX
+2
+5
+1
+-1.5
+
+
+Dan Jennings
+CHW/TB
+2
+5
+9
+-1.5
+
+
+Boone Logan
+CLE
+1
+0
+4
++0.2
+
+
+Tyler Anderson
+COL
+1
+0
+0
++0.2
+
+
+Ben Taylor
+BOS
+1
+0
+1
++0.2
+
+
+David Price
+BOS
+1
+0
+1
++0.2
+
+
+Robbie Ross
+BOS
+1
+0
+0
++0.2
+
+
+Tanner Scheppers
+TEX
+1
+0
+1
++0.2
+
+
+Ben Heller
+NYY
+1
+0
+1
++0.2
+
+
+Chris Young
+KC
+1
+0
+0
++0.2
+
+
+Kevin McCarthy
+KC
+1
+0
+0
++0.2
+
+
+Dillon Gee
+MIN
+1
+0
+0
++0.2
+
+
+Gabriel Moya
+MIN
+1
+0
+0
++0.2
+
+
+Jimmie Sherfy
+ARI
+1
+0
+0
++0.2
+
+
+Brooks Pounders
+LAA
+1
+0
+0
++0.2
+
+
+Jean Machi
+SEA
+1
+0
+1
++0.2
+
+
+Mike Morin
+LAA
+1
+0
+1
++0.2
+
+
+Yovani Gallardo
+SEA
+1
+0
+0
++0.2
+
+
+Brad Peacock
+HOU
+1
+0
+1
++0.1
+
+
+Jackson Stephens
+CIN
+1
+0
+0
++0.1
+
+
+Luke Jackson
+ATL
+1
+0
+0
++0.1
+
+
+A. J. Cole
+WAS
+1
+0
+0
++0.1
+
+
+Matt Cain
+SF
+1
+0
+0
++0.1
+
+
+Miguel Socolovich
+STL
+1
+0
+1
++0.1
+
+
+Kyle McGrath
+SD
+1
+0
+0
++0.1
+
+
+Kyle Crick
+SF
+1
+0
+0
++0.1
+
+
+Felix Pena
+CHC
+1
+0
+0
++0.1
+
+
+Dillon Maples
+CHC
+1
+0
+0
++0.1
+
+
+Odrisamer Despaigne
+MIA
+1
+0
+0
++0.1
+
+
+Chris O’Grady
+MIA
+1
+0
+1
++0.1
+
+
+Tyler Chatwood
+COL
+1
+1
+0
+-0.2
+
+
+Caleb Smith
+NYY
+1
+1
+0
+-0.2
+
+
+Jeff Beliveau
+TOR
+1
+1
+1
+-0.2
+
+
+Tyler Wilson
+BAL
+1
+1
+1
+-0.2
+
+
+Justin Haley
+MIN
+1
+1
+0
+-0.2
+
+
+Warwick Saupold
+DET
+1
+1
+3
+-0.2
+
+
+Tom Wilhelmsen
+ARI
+1
+1
+2
+-0.2
+
+
+Frankie Montas
+OAK
+1
+1
+0
+-0.2
+
+
+James Hoyt
+HOU
+1
+1
+0
+-0.2
+
+
+Michael Feliz
+HOU
+1
+1
+0
+-0.2
+
+
+Tony Sipp
+HOU
+1
+1
+1
+-0.2
+
+
+Rob Scahill
+MIL
+1
+1
+0
+-0.2
+
+
+Amir Garrett
+CIN
+1
+1
+0
+-0.2
+
+
+Dan Winkler
+ATL
+1
+1
+1
+-0.2
+
+
+A.J. Minter
+ATL
+1
+1
+0
+-0.2
+
+
+Hoby Milner
+PHI
+1
+1
+5
+-0.2
+
+
+Zach Duke
+STL
+1
+1
+2
+-0.2
+
+
+Grant Dayton
+LAD
+1
+1
+2
+-0.2
+
+
+Javy Guerra
+MIA
+1
+1
+2
+-0.2
+
+
+Josh Ravin
+LAD
+1
+1
+0
+-0.2
+
+
+Zach McAllister
+CLE
+1
+2
+1
+-0.6
+
+
+Al Alburquerque
+CHW/KC
+1
+2
+1
+-0.6
+
+
+Jesse Chavez
+LAA
+1
+2
+1
+-0.6
+
+
+John Axford
+OAK
+1
+2
+0
+-0.6
+
+
+Wily Peralta
+MIL
+1
+2
+0
+-0.6
+
+
+Kevin Shackelford
+CIN
+1
+2
+0
+-0.6
+
+
+Ricardo Pinto
+PHI
+1
+2
+1
+-0.6
+
+
+Erik Goeddel
+NYM
+1
+2
+1
+-0.6
+
+
+Jonathan Broxton
+STL
+1
+2
+0
+-0.6
+
+
+Kevin Quackenbush
+SD
+1
+2
+0
+-0.6
+
+
+Blaine Hardy
+DET
+1
+3
+1
+-1.0
+
+
+Rafael Montero
+NYM
+1
+3
+1
+-1.0
+
+
+Akeel Morris
+ATL
+0
+0
+1
++0.0
+
+
+Andrew Romine
+DET
+0
+0
+1
++0.0
+
+
+Brent Suter
+MIL
+0
+0
+1
++0.0
+
+
+Chad Bell
+DET
+0
+0
+1
++0.0
+
+
+Dan Runzler
+PIT
+0
+0
+1
++0.0
+
+
+Gabriel Ynoa
+BAL
+0
+0
+1
++0.0
+
+
+Justin Nicolino
+MIA
+0
+0
+2
++0.0
+
+
+Lucas Harrell
+TOR
+0
+0
+1
++0.0
+
+
+Mike Pelfrey
+CHW
+0
+0
+1
++0.0
+
+
+Parker Bridwell
+LAA
+0
+0
+1
++0.0
+
+
+Brad Goldberg
+CHW
+0
+0
+1
++0.0
+
+
+Ariel Hernandez
+CIN
+0
+0
+1
++0.0
+
+
+Reymin Guduan
+HOU
+0
+0
+1
++0.0
+
+
+Troy Scribner
+LAA
+0
+0
+1
++0.0
+
+
+Austin Bibens-Dirkx
+TEX
+0
+0
+1
++0.0
+
+
+Tim Mayza
+TOR
+0
+0
+1
++0.0
+
+
+Mike Clevinger
+CLE
+0
+1
+0
+-0.4
+
+
+Nick Goody
+CLE
+0
+1
+2
+-0.4
+
+
+Ernesto Frieri
+TEX
+0
+1
+0
+-0.4
+
+
+Bryan Mitchell
+NYY
+0
+1
+0
+-0.4
+
+
+Giovanny Gallegos
+NYY
+0
+1
+0
+-0.4
+
+
+Ronald Herrera
+NYY
+0
+1
+0
+-0.4
+
+
+J. P. Howell
+TOR
+0
+1
+0
+-0.4
+
+
+Jayson Aquino
+BAL
+0
+1
+0
+-0.4
+
+
+Stefan Chrichton
+BAL
+0
+1
+0
+-0.4
+
+
+Vidal Nuno
+BAL
+0
+1
+0
+-0.4
+
+
+Craig Breslow
+CLE/MIN
+0
+1
+2
+-0.4
+
+
+Hector Santiago
+MIN
+0
+1
+0
+-0.4
+
+
+Rubby De La Rosa
+ARI
+0
+1
+1
+-0.4
+
+
+Chase De Jong
+SEA
+0
+1
+0
+-0.4
+
+
+Christian Bergman
+SEA
+0
+1
+0
+-0.4
+
+
+Diego Moreno
+TB
+0
+1
+0
+-0.4
+
+
+Ryne Stanek
+TB
+0
+1
+3
+-0.4
+
+
+Xavier Cedeno
+TB
+0
+1
+3
+-0.4
+
+
+Sam Moll
+OAK
+0
+1
+1
+-0.4
+
+
+Jandel Gustave
+HOU
+0
+1
+0
+-0.4
+
+
+Antonio Bastardo
+PIT
+0
+1
+0
+-0.4
+
+
+Johnny Barbato
+PIT
+0
+1
+0
+-0.4
+
+
+Tyler Glasnow
+PIT
+0
+1
+0
+-0.4
+
+
+Mark Leiter
+PHI
+0
+1
+0
+-0.4
+
+
+Miguel Diaz
+SD
+0
+1
+0
+-0.4
+
+
+Neil Ramirez
+NYM
+0
+1
+2
+-0.4
+
+
+Tyler Pill
+NYM
+0
+1
+0
+-0.4
+
+
+Adam Conley
+MIA
+0
+1
+0
+-0.4
+
+
+Vance Worley
+MIA
+0
+1
+0
+-0.4
+
+
+Domingo German
+NYY
+0
+2
+0
+-0.7
+
+
+Buddy Boshers
+MIN
+0
+2
+0
+-0.7
+
+
+Casey Lawrence
+SEA/TOR
+0
+2
+0
+-0.7
+
+
+Joe Jimenez
+DET
+0
+2
+0
+-0.7
+
+
+Adam Kolarek
+TB
+0
+2
+1
+-0.7
+
+
+Chris Beck
+CHW
+0
+2
+2
+-0.7
+
+
+Evan Scribner
+SEA
+0
+2
+0
+-0.7
+
+
+J. C. Ramirez
+LAA
+0
+2
+0
+-0.7
+
+
+Shae Simmons
+SEA
+0
+2
+0
+-0.7
+
+
+Tim Adleman
+CIN
+0
+2
+1
+-0.7
+
+
+Josh Collmenter
+ATL
+0
+2
+0
+-0.7
+
+
+Ryan Garton
+SEA/TB
+0
+3
+1
+-1.1
+
+
+
+
+
+SOURCE: SEAMHEADS.COM
+
+
+However, from an efficiency standpoint, the best season came not from Knebel or Diaz but from the Los Angeles Dodgers’ Kenley Jansen, who finished with a perfect record of 44 goose eggs and no broken eggs. That’s the most-ever goose eggs without a broken egg. The Dodgers used Jansen smartly and lined up his 68.1 innings pitched to coincide with mostly high-leverage situations. He made 15 multi-inning appearances, entered with runners on base 12 times, and often pitched in tied games — all things that closers weren’t doing much of a few years ago. And Jansen generated 6.3 goose wins above replacement (GWAR) in the regular season, the 7th-highest total of all-time.
+
+
+Kenley Jansen’s season was Goose-toric
+Highest single-season goose wins above replacement (GWAR)
+
+
+
+
+PITCHER
+YEAR
+GOOSE EGGS
+BROKEN EGGS
+MEHS
+GWAR
+
+
+
+
+Stu Miller
+1965
+79
+7
+3
++7.5
+
+
+Rich Gossage
+1975
+82
+11
+8
++6.7
+
+
+Mariano Rivera
+1996
+54
+6
+2
++6.6
+
+
+Ron Perranoski
+1969
+79
+13
+9
++6.6
+
+
+Troy Percival
+1996
+47
+3
+1
++6.5
+
+
+Willie Hernandez
+1984
+65
+7
+7
++6.4
+
+
+Kenley Jansen
+2017
+44
+0
+1
++6.3
+
+
+Doug Corbett
+1980
+68
+10
+3
++6.3
+
+
+Ted Abernathy
+1967
+51
+3
+14
++6.2
+
+
+Sparky Lyle
+1977
+66
+8
+13
++6.1
+
+
+
+
+Sources: Retrosheet, The Baseball GAUGE
+
+
+Jansen’s also the exception that proves the rule, however; it’s hard to provide all that much value when you pitch only 70 innings or so, which is about how much the best relievers pitch nowadays. After Jansen, the next most-valuable season came from Knebel, who finished with 3.9 GWAR — which ranks just 200th among relief pitching seasons all-time.
+If you want a model for a more Gossage-like usage pattern, you need to look no further than … how Jansen was used in the postseason. Jansen appeared in 13 of the Dodgers’ 15 playoff games and threw 16.2 innings. Extrapolated out to a full, 162-game regular season, that would work out to a Mike Marshall-like total of 180 relief innings.
+Jansen didn’t keep his perfect streak alive in the playoffs. Instead, he allowed 2 broken eggs to go with 6 goose eggs. He was also used in some situations that we wouldn’t recommend — for instance, to close out an 11-1 lead against the Chicago Cubs in the NLCS. Still, his postseason goose egg pace would extrapolate to 65 goose eggs over a 162-game regular season.
+What I’m really advocating for is a hybrid between how pitchers like Jansen are currently used in the regular season and the entirely different way that they’re used in the postseason. The extra off-days the playoffs provide help to enable more creative usage patterns that might not be viable in the regular season. And even with those extra rest days, Jansen may have been overused in not-very-clutch situations in the NLCS and NLDS; perhaps as a result, he was not especially sharp in the World Series. <line>At the same time, he went from throwing 4.7 percent of the Dodgers’ regular season innings to 12.3 percent of their postseason innings — almost a threefold increase.</line> Surely there’s a happy median somewhere in between? But congratulations to Jansen and Knebel, and we’ll resume our hunt for goose eggs next year. In the meantime, you can download detailed data on goose eggs and broken eggs for all pitchers since 1930 here.
+

@@ -1,0 +1,57 @@
+Article: daily-show-guests
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 647
+Raw number of types: 315
+Raw Type token ratio: 0.4868624420401855
+
+100 most freq tokens before (pre)processing: 
+[(',', 1354), ('the', 529), (':', 411), ('our', 388), ('verdict', 377), ('trump', 318), ('(', 287), (')', 287), ('in', 258), ("'", 252), ('.', 238), ('of', 228), ('a', 223), ('1', 223), ('i', 212), ('and', 207), ('to', 201), ('positive', 184), ('donald', 155), ('neutral', 132), ('like', 113), ('that', 106), ('on', 105), ('/', 95), ('for', 94), ('’', 91), ('it', 90), ('is', 85), ('with', 81), ('negative', 81), ('hillary', 79), ('at', 77), ('you', 75), ("'m", 74), ('my', 66), ('me', 62), ('s', 59), ('was', 58), ("'s", 55), ('percent', 52), ('but', 52), ('clinton', 50), ('from', 49), ('we', 49), ("n't", 47), ('2015', 45), ('2013', 44), ('were', 43), ('more', 42), ('they', 40), ('by', 40), ('than', 40), ('up', 40), ('police', 39), ('--', 38), ('this', 37), ('have', 37), ('2016', 37), ('got', 36), ('who', 35), ('bill', 35), ('2014', 34), ('has', 34), ('2012', 34), ('?', 33), ('get', 33), ('be', 33), ('fuck', 33), ('drivers', 33), ('data', 32), ('do', 32), ('weather', 32), ('all', 31), ('as', 31), ('not', 30), ('his', 30), ('—', 29), ('people', 29), ('are', 28), ('just', 28), ('money', 28), ('he', 28), ('or', 28), ('2', 28), ('so', 27), ('2008', 27), ('obama', 27), ('state', 27), ('out', 26), ('what', 25), ('tower', 25), ('an', 24), ('about', 24), (';', 24), ('no', 24), ('2011', 24), ('officers', 23), ('black', 23), ('remix', 23), ('their', 22)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 561
+Number of types: 301
+Type token ratio: 0.5365418894830659
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, get, tour, walk, are, i, stewart, s, s, have, ve, caught, represent')
+
+('NN', 'guest, jon, stewart, show, walt, hickey, tv, data, github, github, president, obama, stewart, host, show, july, york, evan, vucci, era, show, stewart, episode, tonight, show, tv, i, stewart, s, alma, mater, graduation, school, wouldn, t, taping, show, audience, member, elizabeth, washington, record, way, rally, sanity, stewart, part, hell, run, show, look, showbyshow, list, profile, google, s, knowledge, graph, chair, mind, fusion, everyone, show, way, today, formula, talk, show, list, stewart, s, shot, arm, sometime, figure, program, presence, dole, show, presence, politicos, gap, presence, show, war, time, bar, >, show, show, emphasis, head, fifth, percent, government, military, percent, actor, movie, year, bar, >, couple, plurality, show, count, fareed, zakaria, show, denis, boss, m, appearance, march, jon, stewart, tonight, comedy')
+
+('VBD', 'had, was, went, shut, attended, was, was, started, pulled, crosschecked, meld, talked, s, s, started, dominated, had, was, appeared, were, started, was, left, came, were, were, began')
+
+('JJ', 'daily, jon, daily, new, daily, jon, last, new, old, i, mary, prospective, late, other, big, daily, interesting, guest, unique, other, standard, first, first, political, bob, other, first, several, subdued, military, consistent, whole, important, last, s, daily, leary, brian, i, last, mic, central')
+
+('VBN', 'filed, been, jammed, changed, interviewed, sat, been, changed, relegated, been, been, outsized, affiliated, sucked, had, followed, been')
+
+('NNS', 'data, datadailyshowguests, years, students, edwards, friends, roommates, people, ways, guests, i, guests, years, friends, muppets, actors, comedians, years, people, visits, comedians, performers, years, media, figures, authors, figures, politicians, politics, guests, politics, media, figures, years, actors, musicians, comedians, guests, williams, times, edt')
+
+('VBG', 'taping, ending, featuring, helping, growing, leaving, hosting, happening, filling, showing, promoting, kicking, begging')
+
+('VBZ', 'is, airs, has, metro, s, has, has, s, feels, is, s, has, appearances, has, drops')
+
+('VB', 'william, i, set, restore, find, monarchs, run, grace, have, be, appear, come')
+
+('JJS', 'guest')
+
+('NNP', '<, <')
+
+100 most freq tokens after processing: 
+[('the', 531), ('our', 390), ('verdict', 377), ('trump', 320), ('in', 260), ('of', 230), ('a', 225), ('1', 225), ('i', 214), ('and', 209), ('to', 203), ('positive', 184), ('donald', 156), ('neutral', 132), ('s', 116), ('like', 115), ('that', 108), ('on', 107), ('for', 96), ('it', 92), ('is', 87), ('with', 83), ('negative', 81), ('at', 79), ('hillary', 79), ('m', 78), ('you', 77), ('my', 68), ('me', 64), ('was', 60), ('percent', 57), ('but', 54), ('we', 51), ('from', 51), ('clinton', 50), ('nt', 48), ('2015', 47), ('were', 45), ('more', 44), ('2013', 44), ('they', 42), ('by', 42), ('than', 42), ('up', 42), ('have', 39), ('this', 39), ('police', 39), ('2016', 38), ('who', 37), ('has', 36), ('2014', 36), ('got', 36), ('be', 35), ('get', 35), ('bill', 35), ('2012', 35), ('do', 34), ('all', 33), ('as', 33), ('fuck', 33), ('drivers', 33), ('not', 32), ('his', 32), ('data', 32), ('weather', 32), ('people', 31), ('are', 30), ('he', 30), ('or', 30), ('just', 30), ('so', 29), ('out', 28), ('money', 28), ('2008', 28), ('2', 28), ('what', 27), ('obama', 27), ('state', 27), ('about', 26), ('an', 26), ('no', 26), ('tower', 25), ('2011', 25), ('one', 24), ('their', 24), ('if', 23), ('can', 23), ('how', 23), ('t', 23), ('officers', 23), ('black', 23), ('10', 23), ('remix', 23), ('now', 22), ('your', 22), ('2010', 22), ('ai', 22), ('bitch', 22), ('<', 22), ('>', 22)]

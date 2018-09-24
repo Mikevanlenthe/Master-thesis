@@ -1,0 +1,57 @@
+Article: nba-draft-2015
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1535
+Raw number of types: 576
+Raw Type token ratio: 0.3752442996742671
+
+100 most freq tokens before (pre)processing: 
+[(',', 6610), ('the', 6383), ('.', 4271), ('of', 3223), ('a', 2687), ('to', 2636), ('in', 2421), ('and', 2368), ('’', 2157), ('that', 1505), ('s', 1186), ('for', 1116), ('is', 1066), (':', 971), ('on', 940), ('it', 896), ('(', 827), (')', 827), ('are', 779), ('“', 743), ('”', 742), ('with', 704), ('as', 669), ('at', 666), ('we', 653), ('—', 648), ('trump', 636), ('by', 632), ('our', 630), ('more', 613), ('but', 594), ('i', 593), ('they', 557), ('this', 545), ('team-logo', 535), ('or', 522), ('you', 504), ('from', 492), ('percent', 488), ('t', 485), ('who', 467), ('have', 465), ('about', 462), ('than', 450), ('was', 449), ('be', 431), ('one', 424), ('data', 391), ('were', 391), ('an', 381), ('verdict', 377), ('1', 376), ('polls', 362), ('has', 360), ('?', 352), ('not', 348), ('said', 330), ('all', 327), ('their', 324), ('like', 313), ('he', 305), ('how', 302), ('there', 295), ('other', 292), ('if', 286), ('can', 279), ('so', 278), ('his', 274), ('what', 274), ('most', 266), ('some', 263), ('people', 262), ('those', 256), ("'", 253), ('which', 252), ('when', 245), ('out', 231), ('get', 224), ('also', 223), ('had', 222), ('pollsters', 214), ('up', 212), ('positive', 204), ('just', 198), ('each', 196), ('only', 192), ('polling', 192), ('two', 191), ('<', 187), ('do', 183), ('2', 183), ('>', 181), ('donald', 180), ('%', 178), ('poll', 177), (';', 174), ('them', 174), ('points', 174), ('github', 170), ('will', 170)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1343
+Number of types: 563
+Type token ratio: 0.41921072226358896
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, nba, draft, class, paine, zach, bradshaw, basketball, data, github, github, datanbadraft2015, karlanthony, university, kentucky, game, dame, basketball, tournament, university, kentucky, game, dame, basketball, tournament, sooner, closing, buzzer, state, victory, cleveland, time, world, attention, draft, brooklyn, june, year, crop, fanfare, class, plenty, example, minnesota, s, karlanthony, jahlil, okafor, pick, process, okafor, espn, s, information, group, model1, college, player2, ford, plusminus, spm, career, time, frame, player, team, control, belowmarket, rookie, team, draft, projection, model, player, s, college, height, weight, ranking, proxy, think, github, draft, method, draft, chance, nba, sample, time, distinction, method, performance, college, assumption, player, league, s, playingtime, assumption, prospects4, model, probability, player, s, earlycareer, spm, anthony, davis, draft, class, starter, bucket, shane, battier, lowry, class, role, player, jarrett, world, class, bust, hello, michael, beasley, bucket, everyone, replacementlevel, nba, category, case, quarterback, success, s, ranking, variable, future, lot, noise, projection, player, s, program, age, weight, school, college, minute, assist, percentage, rebounding, percentage, rate, efficiency, floor, field, goal, percentage, percentage, eye, test, value, arc, rebounding, talent, role, hawks5, mind, model, college, year, class, draft, spm, draft, case, debate, draft, model, answer, chance, superstar, percent, probability, role, player, bust, okafor, height, model, defender, combination, man, today, draft, battle, model, pair, justise, winslow, s, stanley, johnson, nba, projection, model, year, draft, andrew, jabari, parker, ceiling, likelihood, parker, percent, bust, probability, s, percent, sense, draft, class, whole, figure, year, rookie, crop, year, aboveaverage, account, star, power, year, model, year, class, percent, future, starter, place, shopping, draft, center, dakari, johnson, example, version, s, model, chance, superstar, percent, model, percent, probability, startingcaliber, player, percent, chance, outright, bust, story, kansas, s, cliff, alexander, pair, hollisjefferson, scouting, model, murray, state, cameron, payne, dame, s, grant, pair, point, model, chance, aboveaverage, player, percent, probability, bust, georgia, state, guard, rj, hunter, probability, role, player, bust, course, nba, draft, science, instance, model, account, work, leadership, bunch, hardertomeasure, prospect, career, method, success, start, front, office, s, job')
+
+('VBP', 'am, get, s, karlanthony, s, getty, championship, hasn, are, take, use, superstar, re, are, are, fall, forecast, s, are, are, pass, are, s, are, grade, kentucky, defy, watch, are, s')
+
+('VBG', 'projecting, sorting, according, penalizing, putting, playing, talking, including, determining, scouting, predicting, scouting, ranking, shooting, snagging, flying, looking, sorting, dueling, overriding, becoming, becoming, according, being, fascinating, glaring, taking, according, using, becoming, turning, becoming, turning, shooting, scouting, ranking, becoming, overfitting, separating')
+
+('JJ', 'top, neil, notre, ncaa, andy, getty, notre, ncaa, andy, golden, nba, vaunted, big, kentucky, s, overall, good, bad, chad, top, statistical, nba, young, poor, bad, other, statistical, numbers3, demographic, such, top, scouts, few, stick, meaningful, important, nba, important, successful, unsuccessful, solid, tony, first, important, nfl, prospect, important, nba, significant, predictive, demographic, scheduleadjusted, offensive, defensive, individual, important, shot, offensive, usage, effective, steal, other, young, athletic, ideal, underrated, skillful, offensive, actual, defensive, efficient, ball, s, freshman, big, great, okafor, mere, nono, superior, good, big, nba, big, top, small, duke, s, arizona, likely, winslow, particular, overall, last, much, low, statistical, red, profile, symbolic, future, available, s, banner, solid, superior, nba, same, ford, top, late, sixth, overall, similar, overall, arizona, johnson, third, rondae, such, lowrisk, notre, jerian, top, little, total, red, staggering, percent, advanced, perfect, ethic, other, s, pro, pro, good, nba, unenviable, strong, weak')
+
+('NNS', 'players, data, towns, men, lyons, images, towns, men, lyons, warriors, cavaliers, prospects, t, decisions, timberwolves, towns, towns, prospects, stats, prospects, seasons, years, salaries, players, numbers, systems, data, data, models, data, prospects, prospects, predictors, attributes, gatekeepers, distinctions, categories, players, players, jacks, allens, players, factors, players, opinions, scouts, factors, ratings, statistics, attempts, words, prospects, colors, players, shots, others, rebounders, rebounds, indicators, boards, shooters, factors, entries, prospects, years, men, timberwolves, towns, towns, towns, men, forwards, wings, wiggins, wiggins, flags, s, superstars, players, projects, players, kinds, players, bargains, ranks, scouts, forwards, grades, propositions6, guards, scouts, flags, belies, algorithms, factors, things, prospects, ones')
+
+('VBN', 'filed, sounded, held, arrived, ranked, leftcensored, made, based, based, followed, measured, gifted, projected, megahyped, ranked, raised, measured, correlated')
+
+('VBZ', 'images, is, s, is, uses, acknowledges, is, regresses, has, possesses, assesses, includes, consists, is, is, s, s, assesses, is, says, is, has, is, is, thinks, is, is, is, gives, is, has, has, ranks, has, s, views, sees, becomes, looks, is')
+
+('VBD', 'had, was, built, s, was, came, s, s, had, used, s')
+
+('VB', 'turn, be, be, make, duke, help, predict, perform, encompass, avoid, check, get, play, get, allow, move, mask, land, kyle, appear, create, team, take, okafor, passer, succeed, bust, be, be, be, contain, be, look, turn, t, shape, be')
+
+('JJR', 'deeper, less, more, lower, heavier, better, fewer, more, better')
+
+('JJS', 'most, least')
+
+100 most freq tokens after processing: 
+[('the', 6385), ('of', 3225), ('a', 2696), ('to', 2638), ('in', 2425), ('and', 2370), ('that', 1511), ('s', 1246), ('for', 1119), ('is', 1069), ('on', 942), ('it', 902), ('are', 783), ('with', 706), ('as', 671), ('at', 669), ('we', 655), ('trump', 639), ('by', 634), ('our', 632), ('more', 615), ('i', 596), ('but', 596), ('they', 559), ('this', 547), ('teamlogo', 535), ('or', 524), ('you', 507), ('percent', 495), ('from', 494), ('t', 490), ('who', 469), ('have', 467), ('about', 464), ('1', 461), ('than', 452), ('was', 451), ('be', 434), ('one', 429), ('were', 393), ('data', 391), ('an', 383), ('verdict', 377), ('polls', 363), ('has', 362), ('not', 350), ('said', 332), ('all', 329), ('their', 326), ('like', 315), ('he', 307), ('how', 304), ('there', 297), ('other', 296), ('if', 288), ('can', 281), ('so', 280), ('what', 276), ('his', 276), ('most', 267), ('people', 264), ('some', 263), ('those', 257), ('which', 254), ('when', 247), ('2', 245), ('out', 234), ('10', 228), ('get', 226), ('had', 224), ('also', 223), ('up', 214), ('pollsters', 214), ('positive', 204), ('11', 201), ('just', 200), ('each', 196), ('polling', 193), ('only', 192), ('two', 191), ('<', 187), ('do', 185), ('donald', 181), ('13', 181), ('>', 181), ('%', 178), ('poll', 177), ('them', 176), ('14', 174), ('points', 174), ('will', 172), ('github', 170), ('3', 170), ('time', 169), ('no', 168), ('new', 168), ('number', 167), ('12', 166), ('its', 163), ('would', 162)]
