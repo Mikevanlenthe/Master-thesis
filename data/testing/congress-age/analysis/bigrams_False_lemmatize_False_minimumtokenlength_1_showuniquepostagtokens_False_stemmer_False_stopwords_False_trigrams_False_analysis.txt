@@ -1,0 +1,61 @@
+Article: congress-age
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1515
+Raw number of types: 511
+Raw Type token ratio: 0.3372937293729373
+
+100 most freq tokens before (pre)processing: 
+[(',', 9265), ('the', 9244), ('.', 6356), ('of', 4584), ('a', 4054), ('to', 3701), ('in', 3509), ('and', 3410), ('’', 3313), ('that', 2075), ('s', 1868), ('for', 1592), ('is', 1526), ('it', 1332), ('on', 1305), (':', 1191), ('are', 1087), ('(', 1085), (')', 1083), ('“', 1043), ('”', 1042), ('—', 1005), ('as', 984), ('with', 974), ('at', 959), ('we', 914), ('but', 904), ('by', 887), ('i', 850), ('percent', 823), ('more', 819), ('this', 784), ('or', 759), ('trump', 754), ('have', 721), ('they', 710), ('was', 709), ('our', 705), ('from', 697), ('t', 687), ('you', 685), ('about', 646), ('1', 646), ('than', 627), ('be', 623), ('who', 601), ('one', 588), ('has', 578), ('data', 554), ('an', 540), ('team-logo', 535), ('were', 529), ('not', 513), ('he', 494), ('?', 489), ('all', 472), ('their', 471), ('so', 450), ('there', 448), ('his', 439), ('how', 416), ('if', 410), ('like', 405), ('polls', 402), ('said', 401), ('which', 389), ('can', 386), ('other', 386), ('what', 377), ('verdict', 377), ('some', 371), ('2', 369), ('when', 364), ('<', 359), ('>', 353), ('had', 352), ('out', 349), ('people', 346), ('most', 339), ('also', 329), ('those', 329), ('up', 297), ('get', 294), ('just', 287), ('only', 286), ('each', 278), ('0', 272), ('two', 268), ('been', 258), ("'", 253), ('time', 252), ('do', 250), ('its', 249), ('these', 249), ('world', 249), ('3', 245), ('github', 241), ('will', 241), (';', 239), ('new', 237)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1339
+Number of types: 489
+Type token ratio: 0.36519790888722925
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, age, problem, nate, silver, dhrumil, mehta, age, data, github, github, datacongressage, senate, committee, chuck, grassley, patrick, leahy, dianne, feinstein, testimony, chip, somodevilla, getty, committee, chuck, grassley, patrick, leahy, dianne, feinstein, testimony, hearing, mark, wilson, getty, york, feature, month, election, president, barack, obama, office, article, reporting, evidence, question, trend, congress, bit, line, >, variety, govtrackus, sunlight, foundation, york, congress, compilation, population, member, congress, start, term, jan, high, congress, office, obama, contrast, age, bill, office, ronald, reagan, line, bar, >, bar, line, >, term, congress, office, contract, election, gap, obama, youth, gop, number, congress, time, congress, average, jan, average, congress, line, age, congress, measure, bar, >, time, average, start, bar, >, evidence, party, electorate, age, obama, age, percentage, mistake, congress, representative, subset, obama, president, party, time, scope, activity, news, anything, marriage, contrast, office, definition, deeply, order, survey, view, congress, line, >, survey, number, disposition, democrat, republican, percent, sample, frequency, age, percent, tendency, republican, age, slope, curve, flatter, contrast, number, age, line, data, way, democrat, republican, approximation, pool, data, survey, president, time, survey, bucket, bar, >, vshaped, pattern, reagan, george, hw, bush, richard, nixon, gerald, ford, average, republican, survey, age, president, nixon, bush, age, obama, bar, bar, interest, survey, bit, deal, average, bar, >, ron, paul, s, street, push, gay, marriage, role, congress, record, bush, term, obama, s, approval, youth, rest, banner, street, instance, group, left, party, obama, office, question, cycle, congress')
+
+('NNPS', 'republicans, democrats, democrats')
+
+('NNS', 'democrats, data, members, charles, images, members, charles, times, people, years, data, sources, times, members, data, people, years, years, democrats, years, republicans, democrats, republicans, congresses, years, seats, members, incumbents, years, years, members, members, democrats, democrats, congresses, years, terms, republicans, aren, democrats, voters, preferences, years, voters, democrats, voters, points, democrats, voters, americans, partisans, independents, parties, partisans, years, issues, rights, candidates, parties, people, politics, supporters, parties, nominations, views, americans, leanings, data, republicans, democrats, respondents, ways, independents, americans, partisans, partisans, americans, parties, candidates, years, groups, respondents, tables, voters, years, versions, democrats, years, years, americans, partisans, politics, americans, politics, politics, years, republicans, years, results, people, affairs, movements, campaigns, people, voters, parties, rates, highs, ratings, americans, parties, interests, years, people, activities, americans, democrats, participants, people, interests, americans')
+
+('VBP', 'have, get, schumer, senate, schumer, s, congress, api, ve, represent, are, clinton, are, have, wave, are, are, have, have, run, are, say, are, vote, follow, re, seek, are, ll, need, agendas, are, are, identified, ve, follow, have, identify, take, are, do, are, have, disapproval, remain, george, have, aren, ll, neither, become')
+
+('VBN', 'filed, listen, listen, done, been, achieved, been, older, widened, older, preferred, varied, favored, closet, affiliated, counted, immersed, been, conducted, given, aged, aged, affiliated, decreased, drawn, presented, compared, grown, been, steadier, increased, been, played, been, increased, made, identified, seen')
+
+('JJ', 'judiciary, judiciary, right, new, long, little, young, strong, much, statistical, simple, recent, gotten, worse, obama, new, congress, whole, average, current, old, alltime, average, january, <, congress, average, old, <, congressional, america, current, previous, relative, huge, new, first, 113th, old, previous, average, new, first, past, old, <, counterintuitive, young, partisan, young, random, many, same, soft, narrow, political, evennumbered, political, unlikely, interested, underlying, gay, federal, partisan, strong, heterodox, general, social, nuanced, partisan, <, partisan, strong, strong, likely, strong, identified, strong, strong, little, soft, major, <, old, average, strong, strong, congressional, different, general, social, general, social, same, actuarial, old, nonagenarian, <, strong, old, strong, w, average, strong, active, general, social, informed, strong, great, old, strong, same, old, <, important, young, uninterested, political, political, wall, full, young, skeptical, major, w, unpopular, second, major, presidential, late, young, interested, political, partisan, wall, major, active, vicious, full, old')
+
+('VBD', 'left, left, ran, had, did, s, collected, posted, was, was, came, was, took, did, came, won, were, served, were, were, won, collected, began, increased, increased, was, used, were, became, was, >, asked, were, described, said, knew, were, said, were, was, was, took')
+
+('VB', 'right, hatch, inspire, run, cite, think, replace, correct, seem, be, think, label, be, vote, engage, donate, campaigns, volunteer, be, gun, be, win, take, be, label, identify, identify, frame, be, estimate, george, emphasize, imply, occupy, be, feel, vote, be, become, serve')
+
+('VBG', 'hearing, claiming, getting, including, serving, taking, serving, serving, voting, dating, topping, dating, aggregating, serving, ranging, ranging, serving, organizing')
+
+('VBZ', 'images, has, is, has, is, has, republicans, reflects, <, comes, has, provides, is, turns, is, is, is, republicans, has, has, s, has, has, is')
+
+('JJR', 'younger, older, better, older, older, younger, less, older, more, younger, older, older, better, older, younger, older, older, younger, younger, younger')
+
+('NNP', '<, >, <, >, <, <, <, >, <')
+
+('JJS', 'most, most')
+
+100 most freq tokens after processing: 
+[('the', 9246), ('of', 4586), ('a', 4069), ('to', 3703), ('in', 3513), ('and', 3412), ('that', 2082), ('s', 1929), ('for', 1595), ('is', 1530), ('it', 1341), ('on', 1307), ('are', 1091), ('as', 986), ('with', 976), ('at', 962), ('we', 916), ('but', 906), ('by', 889), ('i', 853), ('percent', 834), ('more', 821), ('this', 786), ('or', 761), ('trump', 757), ('1', 734), ('have', 723), ('they', 712), ('was', 711), ('our', 707), ('from', 699), ('t', 694), ('you', 688), ('about', 648), ('than', 629), ('be', 627), ('who', 603), ('one', 593), ('has', 580), ('data', 554), ('an', 542), ('teamlogo', 535), ('were', 531), ('not', 516), ('he', 496), ('all', 475), ('their', 473), ('so', 452), ('there', 450), ('his', 441), ('2', 436), ('how', 418), ('if', 412), ('like', 407), ('said', 403), ('polls', 403), ('which', 391), ('other', 390), ('can', 388), ('what', 379), ('verdict', 377), ('some', 371), ('when', 366), ('<', 359), ('out', 354), ('had', 354), ('>', 353), ('people', 348), ('most', 340), ('those', 330), ('also', 329), ('10', 307), ('3', 303), ('up', 300), ('get', 296), ('just', 289), ('only', 286), ('each', 279), ('0', 272), ('two', 268), ('been', 261), ('11', 256), ('time', 255), ('do', 253), ('its', 249), ('these', 249), ('world', 249), ('will', 243), ('github', 241), ('would', 238), ('new', 237), ('no', 235), ('them', 234), ('year', 233), ('13', 230), ('us', 228), ('%', 228), ('much', 226), ('4', 221), ('team', 221)]

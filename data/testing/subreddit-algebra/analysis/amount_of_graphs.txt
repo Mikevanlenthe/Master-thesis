@@ -1,0 +1,3 @@
+Article: subreddit-algebra
+
+Number of graphs: 3

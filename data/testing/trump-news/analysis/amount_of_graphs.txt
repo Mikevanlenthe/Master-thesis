@@ -1,0 +1,3 @@
+Article: trump-news
+
+Number of graphs: 4

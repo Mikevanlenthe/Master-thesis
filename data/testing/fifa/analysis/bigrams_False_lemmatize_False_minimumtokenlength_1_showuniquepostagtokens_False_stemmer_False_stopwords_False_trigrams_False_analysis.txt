@@ -1,0 +1,59 @@
+Article: fifa
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1764
+Raw number of types: 634
+Raw Type token ratio: 0.35941043083900226
+
+100 most freq tokens before (pre)processing: 
+[(',', 7420), ('the', 7246), ('.', 4956), ('of', 3691), ('a', 3108), ('to', 2976), ('and', 2698), ('in', 2687), ('’', 2503), ('that', 1699), ('s', 1366), ('for', 1253), ('is', 1210), ('on', 1064), (':', 1059), ('it', 1041), ('(', 920), (')', 920), ('are', 893), ('“', 855), ('”', 854), ('with', 788), ('at', 776), ('—', 774), ('we', 768), ('as', 753), ('by', 731), ('i', 696), ('but', 691), ('more', 676), ('percent', 668), ('our', 664), ('trump', 636), ('this', 624), ('they', 603), ('or', 595), ('you', 572), ('have', 557), ('from', 553), ('t', 547), ('team-logo', 535), ('about', 517), ('who', 511), ('was', 506), ('than', 494), ('be', 480), ('one', 478), ('data', 457), ('were', 441), ('an', 429), ('has', 406), ('?', 403), ('1', 386), ('not', 383), ('their', 379), ('verdict', 377), ('all', 365), ('polls', 364), ('said', 360), ('like', 353), ('there', 347), ('how', 344), ('he', 336), ('if', 324), ('so', 319), ('can', 319), ('other', 318), ('what', 315), ('people', 304), ('some', 298), ('most', 292), ('his', 290), ('which', 282), ('those', 279), ('out', 278), ('when', 277), ('<', 275), ('>', 269), ('had', 264), ('also', 258), ("'", 253), ('get', 251), ('up', 243), ('each', 235), ('just', 222), ('only', 221), ('two', 217), ('do', 214), ('pollsters', 214), ('positive', 206), ('its', 201), ('them', 199), ('new', 198), ('github', 194), ('will', 193), ('polling', 192), (';', 188), ('2', 188), ('points', 187), ('these', 185)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1552
+Number of types: 600
+Type token ratio: 0.3865979381443299
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, silver, game, data, github, github, datafifa, fifa, headquarters, ebastien, bozon, afp, picture, logo, fifa, front, organisation, head, office, zurich, september, day, meeting, committee, president, batter, candidature, mandate, head, fifa, condition, attribution, world, cup, qatar, photo, sebastien, bozon, photo, credit, sebastien, afp, getty, indictment, bunch, fifa, justice, department, wednesday, step, fifa, beginning, end, platini, president, football, federation, uefa, blatter, president, fifa, world, cup, world, footballing, rogue, football, fifa, blatter, threat, handful, japan, lot, leverage, soccer, fifa, structure, bahrain, power, brazil, development, country, proportion, population, doesn, t, percent, money, world, cup, plurality, television, licensing, lot, reporting, world, pay, world, cup, country, tv, market, world, cup, fifa, audience, world, cup, television, fifa, data, world, cup, s, size, tv, estimate, television, country, country, purchasingpower, gdp, viewer, country, income, nation, nation, tv, bar, world, cup, china, gdp, world, cup, viewership, population, population, percent, audience, world, cup, japan, percent, china, percent, germany, percent, brazil, percent, kingdom, italy, france, percent, half, world, cup, audience, bar, >, percent, audience, table, github, share, country, body, population, world, tv, audience, audience, %, %, %, japan, china, germany, brazil, conmebol, italy, france, russia, spain, afc, indonesia, mexico, concacaf, turkey, thailand, poland, saudi, arabia, taiwan, canada, colombia, conmebol, venezuela, conmebol, south, malaysia, switzerland, belgium, iran, chile, conmebol, romania, singapore, afc, greece, s, share, confederation, percent, world, cup, africa, percent, tournament, s, tv, audience, contrast, asia, south, fifa, tv, audience, population, course, thing, fifa, representation, square, decision, world, cup, world, s, percapita, gdp, colleague, carl, bialik, week, fifa, s, parity, ppp, version, i, wealth, exchange, viewership, world, cup, football, audience, game, world, s, soccer, talent, bar, >, roster, world, cup, percent, club, football, country, bar, >, club, part, winter, world, cup, qatar, club, season, fifa, fifa, percent, world, cup, audience, start, t, russia, world, cup, president, vladimir, putin, blatter, reelection, t, competition, world, cup, foundation, football, federation, oecd, doesn, t, germany, france, italy, spain, foothold, region, japan, latin, america, chile, percent, world, cup, audience, percent, clubteam, representation, world, cup, convince, brazil, argentina, breakaway, foundation, percent, world, cup, audience, knockout, stage, year, world, cup, mass, pick, zealand, bluff, formation, premier, league, england, s, division, masse, then104yearold, football, league, advantage, tv, deal, end, change, fan, point, view6, period, prosperity, club, football, power, money, change')
+
+('VB', 'break, read, know, be, quit, qatar, give, make, t, televise, come, report, do, take, fifa, make, see, download, aggregate, compare, argue, give, make, give, qatar, happen, suit, club, require, do, need, defect, break, break, derail, mean, couldn, be, rival, join, be, flee, fifa, happen, take, meant, break, motivate')
+
+('JJ', 'fifa, nate, beautiful, s, zurich, getty, last, executive, 5th, afp, bozonafpgetty, bozon, hard, first, corrupt, thursday, michel, european, 54, fifa, sepp, fifa, welloff, other, african, asian, uefa, credible, european, united, economic, responsible, fifa, s, current, organizational, much, gdp, fifa, quadrennial, reliable, reasonable, lucrative, south, africa, detailed, wide, different, comprehensive, fifa, s, percapita, high, disposable, valuable, lucrative, else, united, top, belowaverage, relative, large, wealthy, enough, total, gdpweighted, united, gdpweighted, gdpweighted, …, global, uefa, uk, uefa, uefa, uefa, uefa, uefa, south, korea, uefa, uefa, uefa, africa, uefa, uefa, sweden, uefa, uefa, uefa, uefa, portugal, uefa, fifa, continental, fifa, african, fifa, uefa, gdpweighted, bad, few, first, t, fifa, s, second, favorable, stark, official, few, responsible, uefa, european, international, many, uefa, gdpweighted, align, particular, unlikely, fifa, russian, s, european, transcontinental, oecd, new, large, european, uk, united, asiapacific, korea, oecd, gdpweighted, gdpweighted, last, critical, other, nigeria, new, t, english, first, favorable, seamless, s, new, english, institutional, hard')
+
+('VBN', 'filed, discussed, reelected, considered, backed, published, reached, weighted, followed, played, underrepresented, used, based, opposed, tense, required, been, awarded, most, reached')
+
+('VBP', 'get, are, sebastien, have, have, brazil, have, future, re, s, isn, fifa, i, m, are, cup, concacaf, are, measure, measure, i, d, have, run, make, purchasingpower, ve, furthermore, reflect, are, are, are, don, include, have, south, mexico, account, re, d, d, have, d, have, d, have, colombia, are')
+
+('NNS', 'data, images, officials, countries, nations, organizations, presidents, federations, indictments, countries, others, states, china, s, revenues, funds, claims, rights, men, fees, estimates, data, countries, data, audiences, countries, viewers, sponsors, rights, viewers, s, data, viewers, states, countries, figures, countries, countries, argentina, netherlands, nigeria, vietnam, austria, australia, numbers, confederations, members, countries, members, america, countries, counterarguments, estimates, procedures, interests, plutocrats, ways, estimates, assumptions, countries, differences, gdp, rates, figures, countries, players, relations, teams, fifa, clubs, players, matches, countries, countries, interests, indictments, nations, members, russia, economies, states, australia, members, countries, countries, parallels, teams')
+
+('VBZ', 'images, shows, images, s, is, s, is, gives, distributes, comes, networks, s, is, has, is, is, reflects, is, comes, caf, has, is, isn, t, doesn, has, shows, compensates, represents, s, includes, is, does, has, s, is')
+
+('VBD', 'sepp, formalized, said, awarded, weight, s, s, >, reached, had, was, represented, accounted, represented, gdpweighted, afc, afc, afc, afc, conmebol, afc, afc, concacaf, afc, caf, afc, represented, was, gdpweighted, wrote, gdp, played, responded, used, advanced, s, wanted, won, occurred, resigned, was')
+
+('VBG', 'going, including, bringing, voting, selling, licensing, following, listing, going, developing, making, according, developing, governing, developing, bringing, cultivating, interrupting, releasing, having, accusing, trying, having, including, doing')
+
+('JJR', 'more, better, worse, wealthier, more, more, more, less, more, more')
+
+('NNP', '<, <, <, <')
+
+('JJS', 'least, highest')
+
+100 most freq tokens after processing: 
+[('the', 7248), ('of', 3693), ('a', 3117), ('to', 2978), ('and', 2700), ('in', 2691), ('that', 1705), ('s', 1426), ('for', 1256), ('is', 1214), ('on', 1066), ('it', 1047), ('are', 897), ('with', 790), ('at', 779), ('we', 770), ('as', 755), ('by', 733), ('i', 699), ('but', 693), ('more', 678), ('percent', 678), ('our', 666), ('trump', 639), ('this', 626), ('they', 605), ('or', 597), ('you', 575), ('have', 559), ('from', 555), ('t', 553), ('teamlogo', 535), ('about', 519), ('who', 513), ('was', 508), ('than', 496), ('be', 484), ('one', 483), ('1', 471), ('data', 457), ('were', 443), ('an', 431), ('has', 408), ('not', 385), ('their', 381), ('verdict', 377), ('all', 367), ('polls', 365), ('said', 362), ('like', 355), ('there', 349), ('how', 346), ('he', 338), ('if', 326), ('other', 322), ('so', 321), ('can', 321), ('what', 317), ('people', 306), ('some', 298), ('most', 293), ('his', 292), ('which', 284), ('out', 281), ('those', 280), ('when', 279), ('<', 275), ('>', 269), ('had', 266), ('also', 258), ('get', 253), ('2', 250), ('up', 245), ('10', 245), ('each', 236), ('just', 224), ('only', 221), ('do', 217), ('two', 217), ('11', 215), ('pollsters', 214), ('positive', 206), ('them', 201), ('its', 201), ('new', 198), ('13', 198), ('will', 195), ('github', 194), ('polling', 193), ('points', 187), ('time', 186), ('would', 185), ('these', 185), ('no', 183), ('14', 183), ('been', 182), ('us', 181), ('donald', 181), ('%', 181), ('number', 178)]

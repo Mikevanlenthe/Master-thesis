@@ -1,0 +1,57 @@
+Article: police-locals
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1096
+Raw number of types: 369
+Raw Type token ratio: 0.33667883211678834
+
+100 most freq tokens before (pre)processing: 
+[(',', 445), ('(', 206), ("'", 206), (')', 206), ('the', 57), ('.', 47), ('of', 38), ('police', 35), ('in', 28), ('officers', 23), ('to', 22), ('city', 21), ('percent', 20), ('’', 16), ('live', 15), ('a', 15), ('is', 12), ('cities', 11), ('on', 11), ('s', 11), ('and', 11), ('for', 11), (':', 10), ('data', 10), ('but', 9), ('are', 9), ('census', 9), ('ferguson', 8), ('black', 8), ('its', 8), ('—', 8), (';', 8), ('racial', 7), ('with', 7), ('within', 7), ('force', 6), ('also', 6), ('limits', 6), ('have', 6), ('there', 6), ('do', 6), ('residency', 6), ('has', 6), ('``', 5), ("''", 5), ('they', 5), ('this', 5), ('that', 5), ('outside', 5), ('from', 5), ('white', 5), ('requirement', 5), ('most', 4), ('t', 4), ('by', 4), ('an', 4), ('more', 4), ('than', 4), ('population', 4), ('only', 4), ('it', 4), ('about', 4), ('ones', 4), ('example', 4), ('not', 4), ('just', 4), ('may', 4), ('tokens', 3), ('100', 3), ("'s", 3), ('aug.', 3), ('github', 3), ('where', 3), ('likely', 3), ('many', 3), ('u.s.', 3), ('forces', 3), ('town', 3), ('hispanic', 3), ('bureau', 3), ('which', 3), ('we', 3), ('75', 3), ('these', 3), ('detailed', 3), ('boundaries', 3), ('philadelphia', 3), ('whether', 3), ('category', 3), ('note', 2), ('freq', 2), ('[', 2), ("'the", 2), ("'to", 2), ("'and", 2), ("'a", 2), ("'of", 2), ("'in", 2), ("'that", 2), ("'i", 2)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 956
+Number of types: 358
+Type token ratio: 0.37447698744769875
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, don, t, nate, silver, ferguson, data, github, github, group, arrest, tuesday, missouri, joe, raedle, ferguson, missouri, shooting, teenager, police, officer, month, population, percent, police, force, disparity, type, misrepresentation, gap, police, city, ferguson, something, police, majority, police, town, statistic, diversity, police, force, york, example, percent, police, force, figure, divide, percent, york, police, city, percent, percent, data, employment, opportunity, commission, eeoc, census, bureau, detail, composition, government, washington, post, analysis, city, census, detail, average, police, percent, police, city, honolulu, residency, share, city, city, percent, police, city, percent, percent, percent, district, percent, miami, city, combination, city, s, composition, residency, requirement, police, geography, average, percent, police, percent, city, percent, police, disparity, detroit, example, percent, police, city, percent, tennessee, alabama, jackson, mississippi, majority, likewise, gaps, police, residency, example, los, doesn, t, police, city, philadelphia, city, boston, residency, requirement, police, example, census, bureau, half, boston, s, police, city, geography, role, jacksonville, florida, percent, police, city, city, proper, share, area, s, population, contrast, city, atlanta, atlanta, s, population, percent, police, force, living, town, city, louis, ferguson, residency, requirement, clause, city, force, police, advantage, provision, percent, st, percent, t, ferguson, population, reporting, eeoc, effort, census, data, police, residency, requirement, debate, requirement, town, ferguson, outlier, regard, table, category, note, pm, census, bureau, census, category, police, jurisdiction, city, s, police, department, census, category, security, census, police, size, margin, error, census, correction, pm, version, article, police, city')
+
+('JJ', 'police, ferguson, getty, civilian, black, racial, own, suggestive, ferguson, s, racial, likely, many, outside, common, major, american, black, hispanic, likely, white, new, high, stark, racial, seventyseven, black, new, hispanic, same, true, white, equal, racial, large, american, racial, many, detailed, available, chicago, philadelphia, los, washington, major, racial, black, hispanic, white, black, black, white, birmingham, black, large, racial, such, high, metro, small, metro, st, white, likely, outside, whereas, black, available, small, detailed, many, strict, active, searchable, github, other, same, t, private, complete, previous, philadelphia')
+
+('VBP', 'live, serve, get, police, charge, continue, live, commute, are, police, live, do, provide, s, force, live, serve, reside, exclude, live, do, live, live, reflect, live, do, live, do, have, live, live, furthermore, are, live, are, have, live, do, have, are, mean, aug, are, are, include, are, are, are')
+
+('NNS', 'cities, data, datapolicelocals, officers, demonstrators, images, protests, twothirds, officers, limits, cities, twothirds, cities, officers, officers, cities, ones, resides, boroughs, officers, ones, officers, workers, cities, data, demographics, police, data, police, officers, cities, cities, forces, officers, figures, data, officers, boundaries, angeles, police, officers, limits, differences, factors, cities, officers, officers, limits, officers, cities, populations, officers, ones, officers, cities, requirements, officers, boundaries, regulations, degrees, data, officers, officers, limits, boundaries, police, years, officers, ones, data, communities, events, debates, years, details, cities, asterisks, officers, readers, numbers, counts, reasons, officers, sheriffs, police, others, data, forces, numbers, estimates, counts, officers, limits')
+
+('VBN', 'filed, given, tied, alerted, set, starkest, used, enforced, flouted, compared, allowed, been, detailed, required, included, found, estimated, changed, required')
+
+('VB', 'make, have, work, reside, do, memphis, vary, require, live, require, reflect, move, take, isn, have, spotcheck, relax, impose, shape, come, be, differ, transit, be, have, live')
+
+('VBG', 'following, troubling, varying, living, sprawling, arguing, using, going')
+
+('JJR', 'more, more, fewer')
+
+('VBZ', 'is, is, is, s, s, forces, is, s, is, comes, includes, limits, varies, has, is, angeles, has, s, suggests, plays, has, has, is, has, has, is, is, is, includes, officers, is, is')
+
+('JJS', 'most, largest, largest')
+
+('VBD', 'were, was, louis, discovered, were, won, aug, said')
+
+100 most freq tokens after processing: 
+[('the', 59), ('of', 40), ('police', 35), ('in', 30), ('to', 24), ('officers', 23), ('percent', 22), ('city', 21), ('a', 17), ('live', 15), ('is', 14), ('s', 14), ('and', 13), ('for', 13), ('on', 13), ('are', 11), ('but', 11), ('cities', 11), ('data', 10), ('with', 9), ('census', 9), ('have', 8), ('do', 8), ('has', 8), ('there', 8), ('ferguson', 8), ('black', 8), ('its', 8), ('that', 7), ('this', 7), ('they', 7), ('from', 7), ('racial', 7), ('within', 7), ('it', 6), ('not', 6), ('about', 6), ('by', 6), ('more', 6), ('an', 6), ('than', 6), ('just', 6), ('t', 6), ('force', 6), ('also', 6), ('limits', 6), ('residency', 6), ('we', 5), ('which', 5), ('outside', 5), ('white', 5), ('requirement', 5), ('most', 4), ('be', 4), ('at', 4), ('so', 4), ('one', 4), ('their', 4), ('were', 4), ('us', 4), ('population', 4), ('only', 4), ('ones', 4), ('example', 4), ('may', 4), ('all', 3), ('tokens', 3), ('100', 3), ('as', 3), ('our', 3), ('if', 3), ('was', 3), ('who', 3), ('can', 3), ('would', 3), ('going', 3), ('said', 3), ('get', 3), ('out', 3), ('them', 3), ('how', 3), ('been', 3), ('no', 3), ('aug', 3), ('pm', 3), ('github', 3), ('where', 3), ('likely', 3), ('many', 3), ('forces', 3), ('town', 3), ('hispanic', 3), ('bureau', 3), ('75', 3), ('these', 3), ('detailed', 3), ('boundaries', 3), ('philadelphia', 3), ('whether', 3), ('category', 3)]

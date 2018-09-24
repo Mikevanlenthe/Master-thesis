@@ -1,0 +1,47 @@
+
+
+
+Jun. 3, 2014
+						at
+						3:23 PM
+
+
+
+							Using ‘Infrastructure Jobs’ as a Measuring Stick For State-Level Spending
+
+
+
+By Andrew Flowers
+Filed under Infrastructure
+
+Get the data on GitHub
+GitHub data at data/infrastructure-jobs
+
+
+
+FacebookTwitterEmail
+
+
+
+
+
+
+
+
+
+
+
+
+
+				A recently built overpass just south of Cheyenne, Wyoming.									Mead Gruver / AP
+
+
+
+In my article on lackluster infrastructure investment, it would have been useful to have real-time data by state. Unfortunately, the Census Bureau’s monthly construction-spending report doesn’t provide a breakdown. The bureau only publishes state-level data annually for private nonresidential construction spending, with 2012 being the latest year for which information is available.
+But we can create a proxy for infrastructure spending, albeit an imperfect one, by looking at employment. The BLS organizes employment by industry, and for the construction industry as a whole, there are three subsectors. Let’s call the Heavy and Civil Engineering Construction subsector “infrastructure jobs.” By the BLS’s description, these are jobs for which the “primary activity is the construction of entire engineering projects (e.g., highways and dams).”
+<line>Nationwide, the number of infrastructure jobs — whether in the private sector or in government — has fallen by 9.5 percent between April 2007 (roughly the peak) and April 2014. This is better than the more than 21 percent drop in overall construction employment during that period. And since the trough, which came roughly in April 2010, these infrastructure jobs have risen a little over 10 percent. But about 100,000 fewer workers are employed in these jobs than at their peak, before the recession.</line>
+
+The BLS collects employment data of this subsector for 32 states — in the other 18 states, there is too few workers to have a representative sample. So, we have data on Wyoming because of the mining and energy industry’s prominence there. But in Maryland, for example, we don’t have such data.
+Analyzing state-by-state changes in these infrastructure jobs, from the peak and from the trough, reveals wide variation. What stands out is the boom in North Dakota and Oklahoma, two oil- and gas-heavy states.
+
+To reiterate, by no means is this an ideal reflection of real-time infrastructure spending. It’s merely a proxy. If anything, this measure overstates jobs by state because of the energy industry — that is, if we stripped out the energy industry’s affect, actual infrastructure jobs have probably recovered by less than what appears here.

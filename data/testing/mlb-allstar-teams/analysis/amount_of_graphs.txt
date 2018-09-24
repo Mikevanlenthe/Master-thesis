@@ -1,0 +1,3 @@
+Article: mlb-allstar-teams
+
+Number of graphs: 1

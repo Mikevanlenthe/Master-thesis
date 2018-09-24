@@ -1,0 +1,57 @@
+Article: sleeping-alone-data
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1276
+Raw number of types: 479
+Raw Type token ratio: 0.37539184952978055
+
+100 most freq tokens before (pre)processing: 
+[(',', 6035), ('the', 5809), ('.', 3852), ('of', 2905), ('a', 2446), ('to', 2387), ('in', 2237), ('and', 2120), ('’', 1936), ('that', 1360), ('s', 1054), ('for', 999), ('is', 958), (':', 928), ('on', 844), ('it', 807), ('(', 754), (')', 754), ('are', 713), ('“', 692), ('”', 691), ('with', 646), ('at', 615), ('trump', 607), ('our', 596), ('as', 588), ('by', 581), ('we', 576), ('—', 567), ('more', 565), ('but', 535), ('team-logo', 535), ('i', 533), ('they', 505), ('this', 491), ('or', 458), ('percent', 457), ('you', 451), ('t', 440), ('who', 439), ('have', 430), ('from', 421), ('about', 417), ('than', 414), ('was', 411), ('one', 393), ('be', 384), ('verdict', 377), ('1', 365), ('polls', 361), ('were', 340), ('an', 329), ('has', 329), ('data', 320), ('not', 313), ('their', 307), ('all', 304), ('said', 297), ('like', 294), ('he', 282), ('how', 273), ('if', 271), ('?', 270), ('other', 269), ('there', 267), ("'", 253), ('so', 251), ('most', 250), ('can', 246), ('those', 239), ('some', 234), ('what', 230), ('people', 227), ('his', 224), ('when', 221), ('which', 219), ('pollsters', 214), ('get', 208), ('out', 207), ('positive', 200), ('up', 199), ('also', 197), ('had', 193), ('polling', 192), ('just', 191), ('each', 182), ('2', 177), ('only', 176), ('poll', 176), ('donald', 174), ('two', 171), ('%', 171), ('points', 171), (';', 169), ('do', 167), ('will', 157), ('time', 156), ('would', 155), ('<', 155), ('no', 154)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1110
+Number of types: 464
+Type token ratio: 0.418018018018018
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, pm, dear, mona, chalabi, hope, github, github, datasleepingalonedata, merle, oberon, melvin, movie, mona, wife, motion, picture, association, america, don, ts, item, section, list, man, woman, bed, scene, organization, thought, vulgarity, suggestiveness, tv, lucy, ricky, offscreen, journalist, couple, bed, onscreen, reality, offscreen, sleep, foundation, percent, sleep, poll, someone, sleep, bed, couch, ask, survey, topic, month, audience, partnership, union, data, github, page, half, partner, percent, partner, home, night, i, look, age, percent, percent, status, story, percentage, rate, arrangement, wife, girlfriend, number, percent, night, percent, course, function, age, vice, versa, i, idea, wife, i, room, percent, share, bedroom, percent, percent, couch, way, space, point, paul, rosenblatt, professor, emeritus, university, wealth, class, role, rosenblatt, research, sleep, bed, sharing, house, master, question, couple, half, place, list, option, list, percent, percent, percent, i, bedroom, behavior, i, response, question, wife, sex, sleep, euphemism, link, sex, sleep, bedtime, network, online, community, bressler, relationship, sleeping, sextime, theory, statement, sex, life, result, percent, percent, bedtime, network, comfort, result, evolution, doctor, laboratory, norfolk, university, link, sex, sleep, trend, phenomenon, arrangement, lack, space, idea, sex, bedroom, connection, sleep, sex, reason, mind, time, ‘, sense, shameembarrassment, therefore, sleep, sex, bedroom, door, one, place, privacy, bedroom, sleep, sex, status, kingdom, question, fivethirtyeightcom, datalab538')
+
+('VBD', 'mona, required, was, were, s, found, were, were, did, was, thought, was, asked, gathered, were, said, said, was, were, partnered, mentioned, had, said, slept, had, said, specified, slept, slept, said, said, were, s, said, found, tried, applied, was, was, realized, had, tested, agreed, responded, agreed, said, disagreed, managed, carried, became, started, were, were, was, became')
+
+('JJ', 'many, separate, twin, dear, i, different, many, anonymous, dear, anonymous, carefuls, careful, separate, i, high, anonymous, many, national, america, separate, t, worth, new, detailed, surveymonkey, american, domestic, civil, significant, other, curious, married, likely, s, likely, possible, marital, different, few, separate, other, anonymous, surprising, long, anonymous, setup, outdated, separate, separate, worth, minnesota, large, different, several, several, first, comprehensive, possible, high, illness, anonymous, different, i, bizarre, cindy, lisa, overall, sacrosanct, separate, optimistic, social, neil, sleep, norwich, uniquely, human, thoroughly, modern, sleep, other, separate, different, different, human, same, closed, plenty, other, marital, separate, animal')
+
+('NNS', 'couples, beds, numbers, data, data, douglas, censors, beds, beds, couples, beds, times, t, data, chances, bedrooms, people, arrangements, data, respondents, couples, data, responses, adults, respondents, couples, respondents, stereotypes, couples, years, ones, factors, respondents, respondents, reasons, points, couples, couples, beds, factors, years, chances, couples, years, couples, years, results, beds, respondents, beds, people, bedrooms, choices, arrangements, patterns, challenges, people, bedrooms, wings, people, reasons, boxes, arguments, cofounders, tips, mercurio, couples, respondents, beds, respondents, effects, responses, norms, hospitals, animals, activities, times, locations, bedrooms, adults, couples, arrangements, couples, numbers, mona')
+
+('VBP', 'sleep, help, ap, sleep, are, love, have, take, have, find, have, are, are, sleep, are, have, ll, separate, sleep, affect, have, have, love, sleep, have, are, play, rosenblatt, are, sleep, are, say, are, england, are, are, have, do, hope, help, have')
+
+('VBN', 'filed, issued, shown, married, changed, seen, tucked, told, married, conducted, married, slept, been, compared, spent, been, compared, been, been, constrained, made, checked, posed, used, overstated, dedicated, held, scheduled, prioritized, improved, caused, lead, linked, linked, linked, answered')
+
+('VB', 'get, be, be, risk, work, gauge, help, conform, sleep, let, sleep, get, be, find, afford, decide, sleep, offer, tick, be, sleep, be, achieve, be, stanley, get, like, send, dearmona')
+
+('VBZ', 'decades, doesn, is, is, comes, didn, is, is, does, turns, is, is, does, is, is, is, has, suggests, s, is, has, is, is')
+
+('VBG', 'being, having, sharing, happening, sleeping, existing, living, sleeping, getting, cohabiting, doing, cohabiting, sleeping, sleeping, remembering, sleeping, referring, snoring, thinking, according, sharing, sleeping, asking, sleeping, sleeping, according, sleeping, building, developing, sleeping')
+
+('JJR', 'harder, more, older, older, less, more, better')
+
+('JJS', 'best, least, best, least, most')
+
+100 most freq tokens after processing: 
+[('the', 5811), ('of', 2907), ('a', 2455), ('to', 2389), ('in', 2240), ('and', 2122), ('that', 1366), ('s', 1114), ('for', 1002), ('is', 960), ('on', 846), ('it', 812), ('are', 716), ('with', 648), ('at', 618), ('trump', 610), ('our', 598), ('as', 590), ('by', 583), ('we', 578), ('more', 567), ('but', 537), ('i', 536), ('teamlogo', 535), ('they', 507), ('this', 493), ('percent', 463), ('or', 460), ('you', 453), ('1', 450), ('t', 445), ('who', 441), ('have', 432), ('from', 423), ('about', 419), ('than', 416), ('was', 413), ('one', 398), ('be', 387), ('verdict', 377), ('polls', 362), ('were', 342), ('has', 331), ('an', 331), ('data', 320), ('not', 315), ('their', 309), ('all', 306), ('said', 299), ('like', 296), ('he', 284), ('how', 275), ('if', 273), ('other', 273), ('there', 269), ('so', 253), ('most', 250), ('can', 248), ('those', 240), ('2', 239), ('some', 234), ('what', 232), ('people', 229), ('his', 226), ('when', 223), ('which', 221), ('10', 215), ('pollsters', 214), ('get', 210), ('out', 210), ('up', 201), ('positive', 200), ('11', 199), ('also', 197), ('had', 195), ('just', 193), ('polling', 193), ('each', 182), ('only', 176), ('poll', 176), ('donald', 175), ('two', 171), ('%', 171), ('points', 171), ('do', 169), ('13', 167), ('3', 164), ('14', 162), ('12', 160), ('will', 159), ('time', 158), ('would', 157), ('no', 156), ('them', 155), ('<', 155), ('>', 154), ('github', 153), ('its', 152), ('new', 152), ('average', 149)]

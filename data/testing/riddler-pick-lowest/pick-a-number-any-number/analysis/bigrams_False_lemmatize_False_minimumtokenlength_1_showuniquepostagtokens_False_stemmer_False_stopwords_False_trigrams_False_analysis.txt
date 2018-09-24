@@ -1,0 +1,59 @@
+Article: riddler-pick-lowest/pick-a-number-any-number
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1149
+Raw number of types: 416
+Raw Type token ratio: 0.36205395996518713
+
+100 most freq tokens before (pre)processing: 
+[(',', 4158), ('the', 3636), ('.', 2344), ('of', 1816), ('to', 1490), ('a', 1464), ('in', 1412), ('and', 1298), ('’', 1149), ('that', 831), (':', 705), ('s', 632), ('for', 589), ('is', 583), ('it', 551), ('(', 550), (')', 550), ('our', 528), ('on', 512), ('“', 427), ('”', 427), ('are', 426), ('with', 410), ('at', 392), ('trump', 391), ('i', 381), ('verdict', 377), ('more', 369), ('by', 368), ('we', 367), ('as', 354), ('—', 336), ('but', 331), ('this', 325), ('you', 316), ('percent', 315), ('they', 302), ('1', 301), ('have', 276), ('than', 275), ('from', 267), ('about', 263), ('who', 263), ('t', 262), ('or', 261), ("'", 253), ('was', 251), ('be', 249), ('one', 243), ('data', 226), ('like', 222), ('said', 219), ('their', 204), ('an', 203), ('were', 195), ('positive', 195), ('pollsters', 187), ('polls', 185), ('all', 184), ('most', 177), ('has', 177), ('not', 175), ('if', 165), ('donald', 165), ('there', 163), ('can', 160), ('other', 158), ('people', 155), ('how', 154), ('?', 153), ('those', 153), ('what', 149), ('so', 147), ('out', 146), ('when', 146), ('some', 145), ('which', 137), ('up', 135), ('get', 134), ('neutral', 133), ('he', 128), ('each', 126), ('/', 124), ('just', 123), ('also', 121), ('his', 116), ('only', 114), ('will', 114), ('do', 109), ('polling', 109), ('my', 108), ('two', 108), ('number', 108), ('had', 104), ('2', 104), ('github', 102), ('would', 98), ('10', 97), ('state', 96), ('me', 95)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 981
+Number of types: 402
+Type token ratio: 0.40978593272171254
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VB', '\ufeffpick, riddler, get, find, submit, organize, use, be, build, place, build, 👏, vote, reduce, november, s, start, vote, select, select, choose, s, vote, november, 👏, conquer, distribute, send, castle, have, have, win, win, have, need, figure, be, win, get, make, cost, make, conquer, deal, win, see, jack, find, combat, have')
+
+('NN', 'number, number, oliver, roeder, riddler, riddler4x3default, illustration, welcome, riddler, week, i, math, logic, probability, express, something, movement, submit, correct, answer, either1, shoutout, week, column, hint, puzzle, dust, twitter, riddler, express, simple, participatory, problem, integer, person, number, winner, order, 🏅, riddler, nation, number, riddler, itay, chainlink, number, problem, chain, building, chain, number, number, chain, example, chain, chain, length, chain, credit, submit, answer, solution, week, riddler, express, 👏, snowmass, village, winner, express, puzzle, town, primary, atlarge, city, commission, voter, election, field, voter, ballot, election, let, number, voter, candidate, way, election, solution, week, riddler, josiah, winner, puzzle, archenemy, value, conqueror, …, victory, enemy, castle, victory, number, spy, archenemy, news, though, army, battle, order, matter, distribution, opponent, s, total, …, victory, jack, markley, description, intuition, solution, knowledge, battle, strategy, enemy, case, war, everything, enemy, doesn, t, castle, number, soldier, desire, number, enemy, castle, victory, point, distribution, distribution, i, distribution, victory, eriksson, zack, segel, problem, technique, annealing, kind, enough, share, code, graphs, image, argument, enemy, s, troop, distribution, program, distribution, spy, band, …, distribution, spy')
+
+('VBN', 'edited, filed, related, bitesized, inducted, finished, given, ruled, required, called, described')
+
+('JJ', 'guillaume, kurkdjian, dear, classic, slowpuzzle, next, s, favorite, attic, abijith, intriguing, positive, unique, exclusive, ordinal, classic, inclusive, only, adjacent, extra, last, previous, certain, fine, many, different, legal, many, different, s, general, capable, choose, choose, possible, s, general, choose, last, classic, rugby, north, dakota, previous, classic, victory, own, strategic, wouldbe, worth, same, many, bad, previous, many, solver, excellent, effective, many, possible, poor, perfect, daniel, s, s, mathematical, good')
+
+('VBP', 'offer, hold, are, riddler, want, need, have, start, want, are, have, eg, are, are, vote, are, vote, are, vote, are, up, advance, are, are, re, collect, are, have, castle, send, split, have, know, do, need, need, are, need, need, want, want, want, want, give, daniel')
+
+('NNS', 'problems, things, types, submissions, integers, rules, factors, multiples, numbers, numbers, congratulations, mats, folks, seats, candidates, candidates, ways, outcomes, ties, candidates, candidates, ways, ways, ways, candidates, ballots, candidates, candidates, slots, equals, outcomes, congratulations, jenkins, warlords, castles, points, castles, castles, points, soldiers, castles, soldiers, conquers, points, troops, points, points, wins, soldiers, soldiers, losses, soldiers, soldiers, soldiers, castles, points, points, soldiers, people, things, economics, points, points, numbers, soldiers, soldiers, soldiers, soldiers, castles, points, solvers, simulations, attempts, iterations, bars')
+
+('VBG', 'collecting, leaving, running, excluding, separating, voting, adding, competing, meaning, involving, requiring, being, conquering, using, representing')
+
+('VBD', 'submit, left, started, s, colorado, cast, s, suffered, provided, spent, won, approached, simulated, were, converged, s')
+
+('VBZ', 'submits, is, is, is, advances, is, gives, has, sends, wins, ends, is, is, is, sets, arrives')
+
+('JJS', 'lowest, longest, least, worst, best')
+
+('NNP', '🏅')
+
+('JJR', 'cooper, more, more, soldier')
+
+100 most freq tokens after processing: 
+[('the', 3638), ('of', 1818), ('to', 1492), ('a', 1470), ('in', 1414), ('and', 1300), ('that', 835), ('s', 691), ('for', 591), ('is', 585), ('it', 554), ('our', 530), ('on', 514), ('are', 429), ('with', 412), ('at', 394), ('trump', 393), ('i', 383), ('verdict', 377), ('more', 371), ('by', 370), ('we', 369), ('as', 356), ('but', 333), ('this', 327), ('percent', 321), ('you', 318), ('1', 314), ('they', 304), ('have', 278), ('than', 277), ('from', 269), ('t', 267), ('about', 265), ('who', 265), ('or', 263), ('was', 253), ('be', 252), ('one', 248), ('data', 226), ('like', 224), ('said', 221), ('their', 206), ('an', 205), ('were', 197), ('positive', 195), ('pollsters', 187), ('all', 186), ('polls', 186), ('has', 179), ('most', 177), ('not', 177), ('if', 167), ('donald', 166), ('there', 165), ('can', 162), ('other', 162), ('people', 157), ('how', 156), ('those', 154), ('what', 151), ('so', 149), ('when', 148), ('out', 148), ('some', 145), ('which', 139), ('up', 137), ('get', 136), ('neutral', 133), ('he', 130), ('each', 126), ('just', 125), ('also', 121), ('his', 118), ('will', 116), ('only', 114), ('do', 111), ('10', 111), ('my', 110), ('polling', 110), ('two', 108), ('number', 108), ('2', 107), ('had', 106), ('github', 102), ('would', 100), ('me', 97), ('state', 96), ('its', 94), ('poll', 94), ('new', 92), ('<', 92), ('many', 91), ('no', 90), ('time', 90), ('3', 90), ('>', 90), ('points', 90), ('them', 89), ('election', 89)]

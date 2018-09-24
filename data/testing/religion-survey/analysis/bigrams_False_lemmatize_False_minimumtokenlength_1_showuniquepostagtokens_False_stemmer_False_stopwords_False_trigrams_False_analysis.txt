@@ -1,0 +1,57 @@
+Article: religion-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1066
+Raw number of types: 423
+Raw Type token ratio: 0.3968105065666041
+
+100 most freq tokens before (pre)processing: 
+[(',', 3293), ('the', 2911), ('.', 1767), ('of', 1415), ('a', 1202), ('in', 1165), ('to', 1127), ('and', 1020), ('’', 836), ('that', 664), (':', 625), ('(', 500), (')', 500), ('s', 488), ('is', 476), ('for', 461), ('our', 449), ('it', 438), ('on', 433), ('verdict', 377), ('trump', 368), ('i', 345), ('with', 331), ('at', 328), ('are', 318), ('more', 303), ('by', 297), ('1', 291), ('percent', 284), ('as', 277), ('“', 272), ('”', 272), ('but', 268), ('—', 268), ('this', 258), ("'", 252), ('we', 246), ('you', 240), ('than', 224), ('from', 220), ('have', 217), ('or', 203), ('data', 200), ('about', 199), ('like', 196), ('was', 192), ('positive', 190), ('be', 184), ('t', 177), ('an', 175), ('they', 167), ('donald', 159), ('has', 158), ('who', 153), ('were', 149), ('one', 148), ('all', 145), ('not', 133), ('neutral', 133), ('most', 132), ('other', 131), ('their', 128), ('if', 122), ('so', 122), ('out', 122), ('those', 122), ('there', 120), ('when', 119), ('?', 118), ('can', 118), ('people', 118), ('up', 114), ('/', 113), ('get', 111), ('which', 111), ('he', 111), ('what', 108), ('his', 107), ('how', 104), ('some', 100), ('my', 97), ('only', 94), ('each', 93), ('2', 91), ('just', 90), ('me', 90), ('<', 90), ('also', 88), ('>', 88), ('state', 87), (';', 85), ('github', 83), ('do', 83), ('negative', 83), ('hillary', 81), ('its', 80), ('had', 80), ('model', 78), ('first', 77), ('10', 77)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 930
+Number of types: 412
+Type token ratio: 0.443010752688172
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, make, expect, get, burkinis, are, ve, decide, are, feel, make, etc, are, ll, silverman, re, ll, say, i, m, prefer, get, hold, haven, eat, i, ve, wind, public, don, want, see, want, want, need')
+
+('VBZ', 'does, is, means, protests, says, feels, d, dreher, is, offers, ll, cares, is, does, looks, says, is, makes, s, feels')
+
+('VBG', 'praying, being, using, praying, praying, legitimizing, anticipating, loving, treating, showing, being, causing, trying, creating, seeing, praying, assuming, witnessing, saying, making, crossing, thinking, having, being, being')
+
+('JJ', 'public, uncomfortable, leah, getty, few, august, coastal, burkini, intense, nice, united, aren, religious, public, religious, public, visible, much, statistical, i, religious, nonreligious, uncomfortable, surveymonkey, individual, ordinary, wrong, likely, likely, david, american, religious, christian, different, religious, isn, silverman, s, i, ‘, religious, eastern, crunchy, cautious, silverman, many, other, same, christian, s, many, public, much, forthcoming, st, many, reluctant, religious, uncomfortable, religious, unbothered, right, ok, new, nationwide, comfortable, comfortable, i, good, mixed, implicit, uncomfortable, tried, invisible, own, visible, tricky, same, tricky, i, uncomfortable, able, hard, i, other, public, preparatory, few')
+
+('NNS', 'others, believers, data, images, weeks, towns, nuns, habits, bans, states, clashes, sides, kinds, faith, experiences, others, offends, sensibilities, practices, questions, acts, acts, groups, scenes, data, responses, christians, actions, actions, hackles, christians, others, atheists, invitations, hears, people, cons, reactions, friends, christians, friends, ones, christians, interviews, ties, believers, professionals, signs, christians, others, markers, christians, clothes, threequarters, atheists, agnostics, atheists, agnostics, circumstances, christians, groups, atheists, agnostics, meals, god, ways, displays, friends, strangers, i, forks, i, conversations, friends')
+
+('VBD', 's, banned, considered, saw, struck, was, commissioned, asked, led, worried, were, were, seemed, resembled, said, neglected, spoke, spoke, were, overestimated, were, spotted, were, was, wouldn, saw, sixtytwo, felt, prayed, guessed, found')
+
+('NN', 'libresco, religion, data, github, github, datareligionsurvey, patrick, baz, afp, course, france, s, burkinis, beach, ban, sake, consistency, court, controversy, sprang, france, s, commitment, something, secularism, deputy, mayor, bbc, france, religion, affair, home, church, street, t, freedom, freedom, church, freedom, practice, faith, convert, catholicism, atheism, i, awkwardness, discomfort, i, i, atheist, guess, kind, guess, poll, sense, i, audience, panel, prayer, believer, course, day, rosary, bus, feeling, acquaintance, etc, government, nativity, courthouse, github, offense, discomfort, response, anything, invitation, silverman, president, act, intolerance, i, pray, pray, person, t, conversion, corner, thank, religion, silverman, pray, rod, orthodox, christian, author, s, pray, dreher, prayer, part, someone, atheist, way, dreher, experience, faith, fear, fear, offense, book, benedict, option, example, benedict, thicker, strength, rest, world, religiosity, spark, discomfort, faith, percent, observer, jewelry, i, rosary, subway, york, city, thing, someone, day, percent, half, percent, way, observer, prayer, t, way, grace, invitation, half, survey, someone, grace, prayer, table, kitchen, i, head, anyone, religiosity, affection, t, something, day, church, home, table, grace, prayer, participatory, lot, god')
+
+('VBN', 'filed, explained, banned, been, based, performed, carried, backed, rejected, thought, untroubled, set, lifted')
+
+('VB', 'laïcité, worship, make, get, ask, answer, be, pray, see, cause, raise, underestimate, prayer, i, change, ask, i, respect, pray, be, pray, christians, follow, give, engage, out, be, feel, be, feel, navigate, feel, prayer, feel, see, be, alienate, be, reach, listen, god, explain, say, make, have')
+
+('JJR', 'more, better, fewer')
+
+('JJS', 'best, oddest')
+
+100 most freq tokens after processing: 
+[('the', 2913), ('of', 1417), ('a', 1204), ('in', 1167), ('to', 1129), ('and', 1022), ('that', 667), ('s', 546), ('is', 478), ('for', 463), ('our', 451), ('it', 440), ('on', 435), ('verdict', 377), ('trump', 370), ('i', 347), ('with', 333), ('at', 330), ('are', 320), ('more', 305), ('1', 303), ('by', 299), ('percent', 290), ('as', 279), ('but', 270), ('this', 260), ('we', 248), ('you', 242), ('than', 226), ('from', 222), ('have', 219), ('or', 205), ('about', 201), ('data', 200), ('like', 198), ('was', 194), ('positive', 190), ('be', 187), ('t', 181), ('an', 177), ('they', 169), ('has', 160), ('donald', 160), ('who', 155), ('one', 153), ('were', 151), ('all', 147), ('not', 135), ('other', 133), ('neutral', 133), ('most', 132), ('their', 130), ('if', 124), ('so', 124), ('out', 124), ('those', 123), ('there', 122), ('when', 121), ('people', 120), ('can', 120), ('up', 116), ('he', 113), ('get', 113), ('which', 113), ('what', 110), ('his', 109), ('how', 106), ('some', 100), ('my', 99), ('only', 94), ('2', 94), ('each', 93), ('just', 92), ('me', 92), ('<', 90), ('10', 89), ('also', 88), ('>', 88), ('state', 87), ('do', 85), ('m', 83), ('github', 83), ('negative', 83), ('had', 82), ('first', 81), ('hillary', 81), ('3', 81), ('its', 80), ('model', 78), ('films', 77), ('said', 76), ('new', 73), ('would', 72), ('polls', 72), ('two', 70), ('number', 70), ('likely', 69), ('5', 69), ('national', 69), ('points', 69)]

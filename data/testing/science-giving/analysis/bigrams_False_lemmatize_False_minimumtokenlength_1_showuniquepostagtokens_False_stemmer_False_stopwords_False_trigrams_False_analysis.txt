@@ -1,0 +1,57 @@
+Article: science-giving
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1698
+Raw number of types: 578
+Raw Type token ratio: 0.3404004711425206
+
+100 most freq tokens before (pre)processing: 
+[(',', 2002), ('the', 1405), ('.', 829), ('of', 640), ('in', 627), ('a', 597), ('to', 513), ('and', 462), (':', 456), ('our', 420), ('verdict', 377), ('’', 367), ('(', 346), (')', 346), ('trump', 337), ('that', 316), ("'", 252), ('i', 252), ('is', 242), ('for', 240), ('1', 235), ('s', 223), ('it', 222), ('on', 218), ('positive', 188), ('with', 187), ('more', 160), ('donald', 155), ('this', 151), ('by', 150), ('like', 146), ('we', 141), ('as', 141), ('at', 140), ('neutral', 133), ('percent', 132), ('but', 130), ('—', 121), ('are', 120), ('you', 113), ('than', 110), ('from', 110), ('have', 104), ('was', 101), ('/', 100), ('about', 98), ('be', 91), ('or', 90), ('has', 85), ('data', 83), ('negative', 82), ('an', 81), ('his', 80), ('hillary', 80), ('one', 79), ('“', 77), ('”', 77), ('t', 76), ('state', 75), ("'m", 74), ('not', 74), ('my', 74), ('they', 72), ('model', 69), ('he', 68), ('polls', 67), ('me', 66), ('were', 65), ('up', 61), ('other', 59), ('all', 58), ('so', 58), ('?', 57), ('can', 57), ('when', 57), ('how', 56), ('their', 56), ("'s", 55), ('there', 55), ('which', 54), (';', 54), ('some', 54), ('get', 53), ('who', 52), ('out', 51), ('clinton', 51), ('if', 50), ('2014', 48), ('just', 48), ("n't", 47), ('2016', 47), ('2015', 47), ('what', 47), ('people', 47), ('2', 47), ('points', 47), ('most', 46), ('only', 45), ('those', 44), ('2013', 44)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 1 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]
+Words filtered out: ['facebooktwitteremail', '']
+
+Applied filters: 
+bigrams = False
+lemmatize = False
+minimumtokenlength = 1
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1506
+Number of types: 566
+Type token ratio: 0.3758300132802125
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, donate, get, foster, do, have, i, am, see, have, have, abstain, avoid, think, are, shouldn, tell, re, have, have, barack, obama, mitt, have, have, are, have, have, bring, face, have, take, think, need, look, identify, donate, account, don, think, have, worry, s, worry, say, have, emphasize, have, weinberg')
+
+('NNS', 'scientists, politicians, data, politicians, friends, friends, scientists, elections, years, scientists, engineers, data, plans, thousands, scientists, supporters, streets, communities, policies, restrictions, scientists, cuts, scientists, politics, years, data, shows, scientists, engineers, candidates, parties, candidates, committees, donations, committees, parties, donors, disciplines, mathematics, scientists, donations, committees, groups, t, amounts, dollars, data, candidates, candidates, mathematics, scientists, scientists, scientists, concerns, scientists, politics, politics, holt, contenders, beneficiaries, scientists, candidates, contests, scientists, engineers, campaigns, elections, republicans, engineers, geologists, warren, democrats, scientists, engineers, candidates, recipients, scientists, professions, donations, times, scientists, engineers, doctors, lawyers, data, statistics, doctors, candidates, parties, scientists, engineers, lawyers, scientists, engineers, years, scientists, members, members, members, politicians, deliberations, scientists, politics, decisions, scientists, politics, naughton, races, scientists, petitions, letters, politics, members, scientists, candidates, candidates, republicans, platforms, scientists, politics, scientists, democrats, members, givers, differences, donors, givers, politics, people, politics, variations, disciplines, engineers, candidates, parties, democrats, engineers, candidates, groups, democrats, scientists, candidates, groups, leanings, scientists, twothirds, adults, scientists, findings, years, organizers, politicians, grievances, policies, people, sides')
+
+('VBD', 's, did, asked, laboratory, were, gave, took, joked, proposed, donated, fell, were, excluded, were, received, mcnerney, raised, said, said, said, topped, received, gave, did, feingold, served, lost, gave, gave, gave, gave, was, skewed, won, said, provided, said, lost, said, held, attended, said, said, felt, had, found, were, showed, gave, accounted, went, were, increased, s, said, shouldn, said')
+
+('VB', 'democrats, run, give, join, take, assert, society, foster, keep, begin, candidate, find, support, affect, perform, donate, texas, trump, warren, feingold, lawyers3, find, use, fellow, see, persuade, run, provide, go, get, establish, support, pick, be, be, republicans, republican, politicize, make, be, invite, speak')
+
+('NN', 'ben, wieder, campaign, finance, data, github, github, bill, democrat, illinois, physicist, bill, clark, cq, roll, call, rep, bill, congress, money, illinois, physicist, accelerator, fact, candidate, congress, foster, time, analysis, election, commission, pocket, truth, foster, science, mall, washington, world, importance, science, detrimental, field, march, wake, communication, president, trump, administration, government, budget, funding, moment, engagement, community, arm, s, length, percent, party, analysis, occupation, science, engineering1, science, foundation, purpose, analysis, analysis, leadership, jointfundraising, party, donation, inflation, github, decade, community, willingness, science, background, house, support, community, bachelor, s, degree, science, engineering, analysis, california, democrat, jerry, engineer, doctorate, amount, involvement, holt, member, congress, president, association, advancement, science, organization, world, holt, public, square, scope, expertise, worry, funding, ability, work, kid, science, community, obama, list, money, clinton, bid, year, romney, year, community, texas, sen, s, campaign, president, sen, massachusetts, russ, support, decade, cruz, scott, brown, massachusetts, bid, hampshire, senate, doctors2, bureau, labor, percent, cycle, period, engagement, community, percent, election, cycle, lot, congress, foster, member, degree, field, house, scientists4, house, senator, engineers5, research, service, foster, congress, expertise, guidance, deal, example, kind, knowledge, component, naughton, pennsylvania, democrat, drug, researcher, plunge, house, nonprofit, action, goal, office, support, i, community, s, group, strategist, joe, trippi, board, training, session, thursday, washington, run, office, group, session, group, naughton, fund, party, climate, change, difference, naughton, side, line, pew, research, center, survey, association, advancement, science, community, skew, rest, population, analysis, center, difference, percent, community, preference, percent, percent, party, percent, decade, percent, money, slant, pew, survey, survey, community, activity, saturday, march, science, issue, something, i, lot, foster, march, event, march, trump, administration, antiscience, aisle, time, caroline, health, researcher, organizer, march, event, washington, acting, thing, credit, administration')
+
+('VBN', 'filed, decided, continued, raised, organized, imposed, been, described, given, considered, identified, excluded, affiliated, adjusted, shown, been, favored, received, raised, ted, received, been, increased, worked, worked, started, called, involved, explained, tended, chosen, been, enacted')
+
+('VBG', 'datasciencegiving, aspiring, according, going, according, thinking, taking, going, taking, according, giving, running, giving, according, growing, understanding, signing, considering, according, giving, giving, giving, according, giving')
+
+('JJ', 'rep, former, many, former, fermi, national, many, subsequent, past, selfidentified, federal, scientific, saturday, foster, national, protest, american, s, federal, scientific, unprecedented, political, scientific, such, don, t, past, federal, democratic, political, individual, selfidentified, national, social, candidateaffiliated, independent, political, particular, past, scientific, scientific, foster, political, rush, former, eightterm, american, professional, political, overblown, t, dirty, pure, scientific, presidential, democratic, past, presidential, hillary, unsuccessful, last, taking, last, scientific, generous, cruz, s, wisconsinite, senate, past, new, top, republican, t, active, other, political, selfidentified, many, recent, political, entire, 10year, scientific, political, last, presidential, incumbent, democratic, other, past, t, only, doctoral, scientific, other, congressional, scientific, technical, iran, nuclear, specialized, significant, technological, shaughnessy, former, political, financial, scientific, electoral, naughton, veteran, democratic, prospective, democratic, separate, stark, many, american, half, describe, liberal, liberal, political, scientific, democratic, political, top, political, responsive, republican, overall, scientific, responsible, overall, scientific, democratic, total, past, democratic, political, american, t, ideological, consistent, same, scientific, political, partisan, nonpartisan, particular, long, recent, new, much')
+
+('VBZ', 'is, democrat, has, has, aren, has, goes, thinks, is, is, does, includes, elizabeth, comes, is, points, wants, has, is, is, counts, says, supports, hopes, s, s, is, goes, is, is')
+
+('JJR', 'more, more, more, more, more, more, more, more, more, less, more, more, higher, more, more, more, more, smaller, more, less, more')
+
+('JJS', 'least, secondlargest, largest, biggest')
+
+100 most freq tokens after processing: 
+[('the', 1407), ('of', 642), ('in', 629), ('a', 599), ('to', 515), ('and', 464), ('our', 422), ('verdict', 377), ('trump', 339), ('that', 318), ('s', 280), ('i', 254), ('is', 244), ('for', 242), ('1', 238), ('it', 224), ('on', 220), ('with', 189), ('positive', 188), ('more', 162), ('donald', 156), ('this', 153), ('by', 152), ('like', 148), ('we', 143), ('as', 143), ('at', 142), ('percent', 137), ('neutral', 133), ('but', 132), ('are', 122), ('you', 115), ('from', 112), ('than', 112), ('have', 106), ('was', 103), ('about', 100), ('be', 94), ('or', 92), ('has', 87), ('one', 84), ('an', 83), ('data', 83), ('his', 82), ('negative', 82), ('hillary', 80), ('m', 78), ('t', 78), ('not', 76), ('my', 76), ('state', 75), ('they', 74), ('he', 70), ('model', 69), ('me', 68), ('were', 67), ('polls', 67), ('up', 63), ('all', 60), ('so', 60), ('other', 60), ('can', 59), ('when', 59), ('their', 58), ('how', 58), ('there', 57), ('which', 56), ('get', 55), ('who', 54), ('some', 54), ('out', 53), ('if', 52), ('clinton', 51), ('just', 50), ('2014', 50), ('people', 49), ('what', 49), ('2015', 49), ('nt', 48), ('2016', 48), ('2', 48), ('points', 47), ('most', 46), ('those', 45), ('only', 45), ('do', 44), ('2013', 44), ('2012', 44), ('been', 43), ('also', 42), ('would', 41), ('average', 40), ('bill', 40), ('number', 40), ('police', 39), ('candidates', 39), ('year', 39), ('election', 39), ('where', 38), ('time', 38)]
