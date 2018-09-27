@@ -1,0 +1,39 @@
+
+
+
+
+							These Are The Phrases Each GOP Candidate Repeats Most						
+
+
+
+By Milo Beckman
+Filed under 2016 Election
+
+Get the data on GitHub
+GitHub data at data/repeated-phrases-gop
+
+
+								Published Mar. 10, 2016
+
+
+
+FacebookTwitterEmail  
+
+
+
+Words matter in politics, and those words are chosen carefully. In the age of televised debates, campaigns draft and poll-test talking points. Then, like any good sales team, they hammer them home through the primaries.
+When this works, it can brand a candidate or his opponent in the eyes of the electorate — echoes of “low-energy” might fill Jeb Bush’s nightmares until his dying day. And when it doesn’t? Well, a different ambitious Floridian knows how that feels.
+When Marco Rubio, likely over-prepped and under-slept, dispelled the same fiction three times in one debate, he looked less like a man with a plan and more like an early prototype robo-prez not ready for prime time. He shattered the momentum he needed to consolidate the increasingly frantic anti-Trump coalition and responded by tossing the same barb to Donald Trump at a later debate. No, you repeat yourself, he parried in Houston. The crowd went wild.
+So, with the candidates debating again tonight — this time in Miami — which presidential wannabe repeats himself the most? I used transcripts from the first 11 Republican debates1 to see for myself. I used a metric called tf-idf, pioneered in the 1970s by computational linguist Karen Spärck Jones, to identify which words and phrases2 each candidate used a surprisingly high number of times. In particular, long, oft-repeated phrases score high, while phrases that other candidates have also said score lower (so that we don’t get “of the” as everyone’s top phrase). Tf-idf is a measure of relative importance, so a score of 50 doesn’t mean anything other than “higher than a score of 40.”
+
+
+
+
+Beyond highlighting some stone-cold classics — “right to keep and bear arms” — and quintessential Trumpisms — “we don’t win” — this analysis reveals each candidate’s verbal tics. Ted Cruz daydreams about the possibilities “if I am elected president,” while Rubio, fresh off a string of third- and fourth-place victories, predicts the glorious future “when I’m president.” Trump shoots from the hip with “I have to say”; Cruz betrays his Ivy League past with “I would note.” And John Kasich … well, he mostly just talks about his record in Ohio.
+But as far as repeating lengthy talking points verbatim, Rubio takes the crown. Chris Christie nailed him for the gauche instant replay, but Rubio’s been sticking to the script pretty consistently throughout debate season. For example, Rubio used the line “to reach more people and change more lives than ever before” (in reference to the American Dream) in its entirety four times. Fortunately for Rubio, it’s harder to notice when they’re not back-to-back.
+So it would seem that the numbers confirm the Rubio-bot narrative. I checked which candidate has the most phrases scoring over 20 and found that Rubio has won more than just Minnesota and Puerto Rico.3
+
+
+
+And, if nothing else, this analysis gives us a statistically rigorous drinking game for tonight’s debate. Cheers!
+

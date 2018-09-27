@@ -1,0 +1,54 @@
+
+
+
+Mar. 27, 2017
+						at
+						5:59 AM
+
+
+
+							For A Trump Nominee, Neil Gorsuch’s Record Is Surprisingly Moderate On Immigration						
+And employment discrimination. 
+
+
+By Kevin Cope and Joshua Fischman
+Filed under Supreme Court
+
+Get the data on GitHub
+GitHub data at data/tenth-circuit
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Supreme Court nominee Judge Neil Gorsuch faces the Senate Judiciary Committee on Capitol Hill in Washington on Wednesday.									J. Scott Applewhite / AP
+
+
+
+President Trump nominated Judge Neil Gorsuch to the Supreme Court just over seven weeks ago. Since then, pundits have been trying to convince us that Gorsuch is either a brilliant, independent-minded jurist, or a right-wing ideologue and Trump lackey. Like other recent nominees, Gorsuch revealed very little about his judicial philosophy during his Senate confirmation hearings, which ended on Thursday. In turn, Democratic senators focused their attack on his judicial record, painting him as “no friend of the little guy.” When Sen. Dianne Feinstein questioned Gorsuch about that record, he insisted that he was a “fair” judge and rattled off a list of cases in which he had sided with the little guy.
+So what do we really know about Gorsuch’s judicial philosophy? Many smart people have looked at his writings and concluded that he’s conservative. But how conservative? Instead of arguing over cherry-picked cases and anecdotes, we took a closer look at his record. Gorsuch has participated in more than 2,700 cases since he joined the Tenth Circuit Court of Appeals in 2006. Because cases in the circuit courts are randomly assigned to three-judge panels, each judge in the circuit hears a roughly comparable mix of cases. By analyzing their votes, we can compare Gorsuch’s judicial ideology with those of his colleagues on the Tenth Circuit.
+We reviewed more than 900 Tenth Circuit cases decided during Gorsuch’s tenure, including 119 in which he participated.1 We focused on two areas: immigration and employment discrimination law. Why those areas in particular? First, both are frequently litigated in the circuit courts, so they generate large sets of cases to analyze. Moreover, many academic studies have found that liberal and conservative circuit judges vote differently in both of these areas,2 making them useful in examining Gorsuch’s ideology. Finally, given concerns about the Trump administration’s approach to civil rights and the recent litigation over his immigration orders, these areas are especially relevant now.
+Our results were surprising. In our analysis of those two topics, Gorsuch’s record puts him near the ideological center of the Tenth Circuit. The Tenth Circuit may be a touch more conservative than the Supreme Court,3 but Gorsuch still looks relatively centrist in these areas, according to our analysis. To break it down, Gorsuch sided with plaintiffs in discrimination cases 18 percent of the time, a bit higher than the circuit average of 13 percent. Most other judges in that period sided with plaintiffs from 5 percent to 20 percent of the time. In the immigration cases, Gorsuch sided with immigrants 10 percent of the time, slightly higher than the circuit average of 9 percent. Most Tenth Circuit judges sided with immigrants anywhere from 1 percent to 20 percent of the time.
+Analyzing voting behavior in circuit courts is complicated by the fact that cases are decided by three-judge panels and judges’ votes are influenced by their panel colleagues. Even when judges disagree, they do not always dissent. Gorsuch emphasized that 97 percent of the cases in which he participated were unanimous, but that unanimity may hide disagreement among the judges.
+To estimate the ideologies of the Tenth Circuit judges, we used a statistical model that accounts for the voting norms in circuit courts. The graph below shows our ideology estimates for the Tenth Circuit judges based on the immigration and employment discrimination cases. Gorsuch appears to be roughly in the middle of the ideological spectrum and one of the more liberal of the Republican appointees in the Tenth Circuit. Although many of the differences among the judges are not statistically significant, Gorsuch is significantly more liberal than seven of his most conservative colleagues.
+
+
+
+None of this directly undermines Democrats’ running theme that Gorsuch lacks empathy for the “little guy.” But given these numbers, it’s also hard to depict him as a knee-jerk ideologue, as some groups have. Rather, his opinions – even those that produce “liberal” outcomes – often come off as procedurally wonkish. Notably, he has sometimes ruled in favor of immigrants partly out of skepticism that administrative agencies should get wide deference in their interpretations of statutes. In a prominent 2016 immigration case, Gorsuch wrote the opinion reversing a government decision that would have made it harder for some immigrants to achieve lawful status, holding that the government was trying to apply its new policy retroactively. Gorsuch also strongly criticized two Supreme Court precedents that require judicial deference to government agencies, arguing that they “permit executive bureaucracies” to “concentrate federal power.”
+Like any other methods for estimating judicial ideology, ours has limitations. Even with more than 900 cases, we cannot precisely pinpoint Gorsuch’s ideology. And although he has a moderate voting record in immigration and employment discrimination cases, it is possible that he has been extreme in other areas.
+Our analysis rejects the portrayal of Gorsuch as a reflexive ideologue, but we are cautious about predicting how he would act if confirmed to the Supreme Court. Circuit judges are more tightly constrained by precedent, so their votes don’t necessarily reflect what they believe the law should be. If Gorsuch is confirmed to the high court, he would have far greater latitude to shape the law.
+Nevertheless, other studies have offered predictions about where Gorsuch would fit ideologically in the current Supreme Court. Two studies reported in The New York Times claimed that he would be among the court’s most conservative justices, though these claims were not based on his voting record. The first prediction was derived from the appointing president and home-state senator in 2006, when Gorsuch was nominated for the Tenth Circuit. The second prediction was based on the campaign contributions of his law clerks. A third study claimed that he would be a conservative extremist, far to the right of Justices Samuel Alito and Clarence Thomas. This study was based on his voting behavior in cases with dissenting opinions, and it connected those cases to the Supreme Court via Tenth Circuit cases that the Supreme Court reviewed. That study, like all comparisons between circuit judges and Supreme Court justices, relied on strong assumptions, given that judges are subject to different precedents at each level. We are skeptical that Gorsuch could be within the mainstream of the Tenth Circuit but far to the right of Alito and Thomas.
+There are plenty of reasons why a senator might reasonably oppose Gorsuch. Many are troubled about Republicans’ refusal to hold hearings for Merrick Garland, or concerned about the nomination’s legitimacy in light of the FBI investigation into Russia’s election meddling. Others have worries about Gorsuch’s views on constitutional issues, such as abortion rights. But to the extent that his judicial record is relevant, senators should base that assessment on a balanced analysis of that record, rather than a skewed sample of narrative-confirming cases.
+

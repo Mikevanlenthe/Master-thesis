@@ -1,0 +1,58 @@
+Article: candy-power-ranking
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 701
+Raw number of types: 408
+Raw Type token ratio (higher = more diversity in language use): 0.5820256776034237
+
+100 most freq tokens before (pre)processing: 
+[('the', 389), (',', 378), ('<', 329), ('>', 329), ('of', 283), ('a', 202), ('in', 181), ('.', 171), ('percent', 164), ('and', 152), ('’', 139), ('to', 137), ('bar', 123), ('/bar', 123), ('that', 104), ('s', 103), ('–', 96), ('nobarlabels', 83), ('than', 70), ('for', 65), ('(', 58), (')', 58), ('is', 57), ('it', 54), ('are', 50), ('more', 50), ('—', 45), ('on', 44), ('at', 44), ('with', 42), ('as', 40), ('about', 40), ('or', 39), ('was', 37), ('but', 37), ('were', 34), ('have', 34), ('by', 34), ('paintings', 32), ('had', 31), ('?', 31), ('one', 30), ('from', 29), ('only', 29), ('we', 29), ('women', 29), ('“', 29), ('”', 29), ('other', 28), ('films', 25), ('among', 24), ('those', 23), ('average', 23), ('all', 22), ('be', 22), ('who', 22), ('there', 20), ('an', 20), ('they', 19), ('men', 19), ('ross', 19), ('has', 18), ('when', 18), ('year', 17), ('data', 17), (':', 17), ('likely', 17), ('over', 16), ('$', 16), ('still', 16), ('least', 16), ('while', 15), ('t', 15), ('any', 15), ('people', 15), ('he', 15), ('been', 14), ('each', 14), ('out', 14), ('most', 14), ('not', 14), ('this', 14), ('their', 14), ('three', 13), ('number', 13), ('how', 13), ('much', 13), ('them', 13), ('same', 13), ('two', 13), ('just', 13), ('10', 13), (';', 13), ('i', 12), ('found', 12), ('median', 12), ('what', 12), ('also', 12), ('points', 12), ('�', 12)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 511
+Number of types: 373
+Type token ratio: 0.7299412915851272
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'coin, kit, gobstopper, charleston, krackel, hershey, butter, cup, apple, haribo, ballpark, dum, werther, amp, mr, patch, butterfinger, rate, type, crunch, root, life, nougat, chocolate, joy, win, roll, crispiness, fish, milk, rice, quarter, fruity, dip, pop, cent, laffy, baby, cola, bon, candy, almond, way, goodbar, mike, rk, field, ring, pixy, fruitiness, bar, tootsie, sugar, beer, fact, fruit, fun, air, rolo, percentage, welch, caramel, strawberry, super, twin, jaw, taste, dime, percent, snack, rest, payday, boston, contender, corn, peanut')
+
+('VBD', 'were, chew, caramel, ruth, mix, baked, got, kat, stix, taffy, did, amp, had, daddy, was, midnight')
+
+('JJ', 'reese, grand, original, niklnip, happy, bubble, twix, chocolate, win, starburst, swedish, red, dark, good, same, wild, average, nuttiness, milky, sour, big, fine, funsized, junior, percent, crispy, nestle, special, lemonhead')
+
+('VBN', 'stuffed, win, given')
+
+('VB', 'ike, win, be, have, puffed')
+
+('NNS', 'trolli, bites, dums, vines, sixlets, amp, dots, contenders, things, duds, musketeers, whoppers, cents, kids, chewy, mounds, bons, points, matchups, almonds, busters, rocks, pieces, percentages, heads, ones, chews, smarties, warheads, beans, juniors, snickers, entrants, twizzlers, tootsie, runts, barrels, nerds, miniatures, peanuts, peanut, wafers, kisses, babies, chiclets, gummies, goldbears, skittles, savers, tricksters, mints')
+
+('VBP', 'coin, expect, win, have, berry, pop, plenty, amp, ve, crisper')
+
+('VBZ', 'is, bars, does, pops, snakes, midgees, goes, snacks')
+
+('VBG', 'containing, ring')
+
+('JJR', 'lower, higher')
+
+100 most freq tokens after processing: 
+[('the', 389), ('of', 283), ('bar', 246), ('in', 181), ('percent', 168), ('and', 152), ('to', 137), ('that', 104), ('than', 70), ('for', 65), ('is', 59), ('it', 54), ('are', 51), ('more', 50), ('on', 44), ('at', 44), ('with', 42), ('as', 40), ('about', 40), ('or', 39), ('was', 37), ('but', 37), ('were', 34), ('have', 34), ('by', 34), ('paintings', 32), ('had', 31), ('women', 31), ('one', 30), ('from', 29), ('only', 29), ('we', 29), ('other', 28), ('films', 26), ('average', 25), ('among', 24), ('those', 23), ('all', 22), ('be', 22), ('who', 22), ('there', 20), ('an', 20), ('they', 19), ('men', 19), ('ross', 19), ('year', 18), ('has', 18), ('when', 18), ('10', 18), ('data', 17), ('likely', 17), ('out', 16), ('over', 16), ('still', 16), ('least', 16), ('while', 15), ('each', 15), ('any', 15), ('most', 15), ('2010', 15), ('11', 15), ('not', 15), ('people', 15), ('he', 15), ('been', 14), ('this', 14), ('their', 14), ('25', 14), ('13', 13), ('three', 13), ('number', 13), ('how', 13), ('much', 13), ('them', 13), ('same', 13), ('two', 13), ('just', 13), ('points', 13), ('14', 12), ('2011', 12), ('found', 12), ('median', 12), ('what', 12), ('20', 12), ('also', 12), ('35', 12), ('us', 12), ('contain', 12), ('painted', 12), ('drivers', 11), ('less', 11), ('compared', 11), ('chance', 11), ('better', 11), ('our', 11), ('53', 11), ('top', 11), ('rated', 11), ('34', 11), ('respondents', 11)]

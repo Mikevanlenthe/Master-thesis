@@ -1,0 +1,58 @@
+Article: comma-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 129
+Raw number of types: 88
+Raw Type token ratio (higher = more diversity in language use): 0.6821705426356589
+
+100 most freq tokens before (pre)processing: 
+[(',', 198), ('<', 184), ('>', 184), ('the', 180), ('of', 144), ('in', 95), ('a', 78), ('to', 73), ('.', 73), ('and', 63), ('bar', 62), ('/bar', 62), ('nobarlabels', 60), ('that', 60), ('percent', 55), ('’', 55), ('than', 38), ('s', 31), ('more', 31), ('for', 29), ('is', 28), ('was', 25), ('women', 25), ('films', 25), ('on', 24), ('at', 24), ('with', 23), ('have', 23), ('are', 22), ('(', 22), (')', 22), ('about', 22), ('?', 22), ('other', 19), ('it', 19), ('—', 18), ('as', 18), ('from', 16), ('but', 16), ('all', 15), ('were', 15), ('those', 15), ('“', 15), ('”', 15), ('only', 14), ('we', 14), ('by', 13), ('still', 13), ('one', 13), ('who', 13), ('had', 12), ('they', 12), ('data', 11), ('drivers', 11), ('any', 11), ('found', 11), ('people', 11), ('among', 11), ('subjects', 11), ('been', 10), ('much', 10), ('t', 10), ('average', 10), ('$', 10), ('most', 10), ('or', 10), ('median', 10), ('college', 10), ('color', 10), ('�', 10), ('year', 9), (':', 9), ('out', 9), ('over', 9), ('less', 9), ('film', 9), ('just', 9), ('men', 9), ('each', 8), ('be', 8), ('same', 8), ('when', 8), ('between', 8), ('least', 8), ('boomers', 8), ('use', 8), ('age', 8), ('high', 8), ('married', 8), ('white', 8), ('while', 7), ('three', 7), ('number', 7), ('don', 7), ('has', 7), ('compared', 7), ('an', 7), ('test', 7), ('days', 7), ('graduates', 7)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 103
+Number of types: 74
+Type token ratio: 0.7184466019417476
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'percentagepoint, half, majority, survey, issue, relevant, fivethirtyeight, singular, usage, crowd, percent, preferring, bar, noun, ll, thought, margin, note')
+
+('JJ', 'preferred, vast, particular, singular, final, conclusive, plural')
+
+('NNS', 'people, data, respondents, terms, interests')
+
+('VBD', 'asked, put, had')
+
+('VBG', 'pressing, using, liking')
+
+('VBP', 'are, prefer, think')
+
+('VB', 'say')
+
+('VBZ', 'is, seems')
+
+('VBN', 'put, won')
+
+('JJS', 'most')
+
+100 most freq tokens after processing: 
+[('the', 180), ('of', 144), ('bar', 124), ('in', 95), ('to', 73), ('and', 63), ('that', 60), ('percent', 56), ('than', 38), ('more', 31), ('is', 29), ('for', 29), ('women', 26), ('was', 25), ('films', 25), ('on', 24), ('at', 24), ('with', 23), ('have', 23), ('are', 23), ('about', 22), ('other', 19), ('it', 19), ('as', 18), ('from', 16), ('but', 16), ('all', 15), ('were', 15), ('those', 15), ('only', 14), ('we', 14), ('by', 13), ('still', 13), ('one', 13), ('who', 13), ('had', 12), ('they', 12), ('data', 11), ('drivers', 11), ('any', 11), ('average', 11), ('found', 11), ('most', 11), ('people', 11), ('among', 11), ('subjects', 11), ('year', 10), ('been', 10), ('much', 10), ('or', 10), ('median', 10), ('college', 10), ('color', 10), ('out', 9), ('over', 9), ('less', 9), ('film', 9), ('just', 9), ('men', 9), ('each', 8), ('be', 8), ('same', 8), ('when', 8), ('between', 8), ('least', 8), ('boomers', 8), ('use', 8), ('age', 8), ('high', 8), ('days', 8), ('25', 8), ('married', 8), ('white', 8), ('while', 7), ('three', 7), ('number', 7), ('country', 7), ('don', 7), ('has', 7), ('compared', 7), ('an', 7), ('test', 7), ('10', 7), ('50', 7), ('graduates', 7), ('children', 7), ('degree', 7), ('per', 7), ('trump', 6), ('where', 6), ('state', 6), ('how', 6), ('insurance', 6), ('first', 6), ('there', 6), ('national', 6), ('half', 6), ('so', 6), ('21', 6), ('likely', 6)]

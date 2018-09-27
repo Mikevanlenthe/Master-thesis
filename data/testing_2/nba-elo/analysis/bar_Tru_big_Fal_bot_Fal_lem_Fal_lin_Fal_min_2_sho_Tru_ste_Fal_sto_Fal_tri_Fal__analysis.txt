@@ -1,0 +1,54 @@
+Article: nba-elo
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 81
+Raw number of types: 67
+Raw Type token ratio (higher = more diversity in language use): 0.8271604938271605
+
+100 most freq tokens before (pre)processing: 
+[('the', 317), (',', 308), ('<', 259), ('>', 259), ('of', 254), ('a', 171), ('.', 147), ('in', 139), ('percent', 135), ('and', 118), ('to', 115), ('’', 100), ('bar', 96), ('/bar', 96), ('that', 92), ('s', 70), ('nobarlabels', 67), ('than', 53), ('is', 48), ('for', 45), ('at', 44), ('more', 43), ('are', 42), ('(', 42), (')', 42), ('it', 42), ('—', 39), ('on', 37), ('about', 37), ('with', 35), ('as', 34), ('but', 32), ('paintings', 32), ('or', 30), ('?', 30), ('have', 29), ('was', 29), ('were', 28), ('women', 28), ('from', 27), ('by', 27), ('we', 27), ('one', 27), ('only', 26), ('films', 25), ('“', 25), ('”', 25), ('other', 23), ('had', 23), ('among', 22), ('those', 21), ('all', 20), ('there', 19), ('ross', 19), ('an', 18), ('who', 18), ('be', 17), ('has', 16), ('they', 16), ('likely', 16), ('least', 16), ('men', 16), ('data', 15), (':', 15), ('over', 15), ('still', 15), ('year', 14), ('while', 14), ('any', 14), ('most', 14), ('when', 14), ('out', 13), ('t', 13), ('them', 13), ('average', 13), ('this', 13), ('he', 13), ('been', 12), ('each', 12), ('much', 12), ('two', 12), ('what', 12), ('just', 12), ('people', 12), ('�', 12), ('contain', 12), ('painted', 12), ('drivers', 11), ('how', 11), ('found', 11), ('same', 11), ('chance', 11), ('median', 11), ('our', 11), ('not', 11), ('rated', 11), ('also', 11), ('subjects', 11), ('characters', 11), ('i', 10)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 62
+Number of types: 56
+Type token ratio: 0.9032258064516129
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'johnson, linsanity, glory, peak, closest, bar, play, moment, aba, team')
+
+('VBN', 'daylight, been')
+
+('JJ', 'other, elo, former, next, active, awhile')
+
+('VBZ', 'has')
+
+('VBP', 'march, feb, are')
+
+('NNS', 'knicks, bucks, nets')
+
+('VBD', 'were, lived')
+
+('VB', 'larry')
+
+100 most freq tokens after processing: 
+[('the', 317), ('of', 254), ('bar', 192), ('in', 139), ('percent', 139), ('and', 118), ('to', 115), ('that', 92), ('than', 53), ('is', 50), ('for', 45), ('at', 44), ('are', 43), ('more', 43), ('it', 42), ('on', 37), ('about', 37), ('with', 35), ('as', 34), ('but', 32), ('paintings', 32), ('or', 30), ('have', 29), ('was', 29), ('women', 29), ('were', 28), ('from', 27), ('by', 27), ('we', 27), ('one', 27), ('only', 26), ('films', 26), ('other', 23), ('had', 23), ('among', 22), ('those', 21), ('all', 20), ('there', 19), ('ross', 19), ('an', 18), ('who', 18), ('be', 17), ('has', 16), ('they', 16), ('likely', 16), ('least', 16), ('men', 16), ('year', 15), ('data', 15), ('over', 15), ('most', 15), ('still', 15), ('while', 14), ('any', 14), ('average', 14), ('when', 14), ('each', 13), ('out', 13), ('them', 13), ('this', 13), ('10', 13), ('he', 13), ('been', 12), ('much', 12), ('two', 12), ('what', 12), ('just', 12), ('people', 12), ('contain', 12), ('painted', 12), ('13', 11), ('drivers', 11), ('how', 11), ('2011', 11), ('found', 11), ('same', 11), ('chance', 11), ('median', 11), ('our', 11), ('not', 11), ('rated', 11), ('also', 11), ('subjects', 11), ('characters', 11), ('number', 10), ('less', 10), ('2010', 10), ('so', 10), ('film', 10), ('respondents', 10), ('25', 10), ('college', 10), ('color', 10), ('model', 10), ('cluster', 10), ('some', 9), ('no', 9), ('first', 9), ('compared', 9), ('53', 9)]

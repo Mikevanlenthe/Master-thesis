@@ -1,0 +1,52 @@
+Article: mlb-allstar-teams
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 50
+Raw number of types: 38
+Raw Type token ratio (higher = more diversity in language use): 0.76
+
+100 most freq tokens before (pre)processing: 
+[(',', 161), ('<', 139), ('>', 139), ('the', 134), ('of', 100), ('in', 80), ('a', 60), ('.', 56), ('that', 54), ('to', 53), ('bar', 49), ('/bar', 49), ('and', 45), ('’', 44), ('percent', 42), ('nobarlabels', 41), ('than', 33), ('s', 26), ('more', 26), ('for', 25), ('is', 23), ('(', 22), (')', 22), ('films', 21), ('at', 20), ('was', 19), ('on', 18), ('are', 18), ('women', 18), ('have', 17), ('it', 17), ('other', 16), ('—', 15), ('with', 14), ('as', 14), ('all', 12), ('we', 12), ('about', 12), ('drivers', 11), ('but', 11), ('still', 11), ('they', 11), ('who', 11), ('from', 10), ('only', 10), ('average', 10), ('most', 10), ('“', 10), ('”', 10), ('had', 9), ('year', 9), ('were', 9), ('out', 9), ('any', 9), ('found', 9), ('median', 9), ('each', 8), ('those', 8), ('much', 8), ('$', 8), ('less', 8), ('between', 8), ('one', 8), ('boomers', 8), ('use', 8), ('among', 8), ('age', 8), ('married', 8), ('t', 7), ('by', 7), ('over', 7), ('be', 7), ('same', 7), ('test', 7), ('film', 7), ('days', 7), ('children', 7), ('trump', 6), ('while', 6), ('where', 6), ('number', 6), ('state', 6), ('how', 6), ('insurance', 6), ('country', 6), ('national', 6), ('compared', 6), ('when', 6), ('or', 6), ('an', 6), ('least', 6), ('said', 6), ('50', 6), ('used', 6), ('college', 6), ('men', 6), ('been', 5), ('three', 5), ('data', 5), (':', 5)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 39
+Number of types: 31
+Type token ratio: 0.7948717948717948
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'timeline, today, competition, average, percent, year, bar, player, adjustment, nate')
+
+('NNS', 'implies')
+
+('VBD', 'were, mlb, was')
+
+('JJ', 'good, weak')
+
+('VBZ', 'means')
+
+('VBN', 'talented, benefitted')
+
+('VBG', 'facing')
+
+100 most freq tokens after processing: 
+[('the', 134), ('of', 100), ('bar', 98), ('in', 80), ('that', 54), ('to', 53), ('and', 45), ('percent', 43), ('than', 33), ('more', 26), ('for', 25), ('is', 23), ('films', 21), ('at', 20), ('was', 19), ('on', 18), ('are', 18), ('women', 18), ('have', 17), ('it', 17), ('other', 16), ('with', 14), ('as', 14), ('all', 12), ('we', 12), ('about', 12), ('drivers', 11), ('but', 11), ('still', 11), ('they', 11), ('who', 11), ('from', 10), ('year', 10), ('only', 10), ('average', 10), ('most', 10), ('had', 9), ('were', 9), ('out', 9), ('any', 9), ('found', 9), ('median', 9), ('each', 8), ('those', 8), ('much', 8), ('less', 8), ('between', 8), ('one', 8), ('boomers', 8), ('use', 8), ('among', 8), ('age', 8), ('days', 8), ('married', 8), ('country', 7), ('by', 7), ('over', 7), ('be', 7), ('same', 7), ('test', 7), ('film', 7), ('50', 7), ('children', 7), ('trump', 6), ('while', 6), ('where', 6), ('number', 6), ('state', 6), ('how', 6), ('insurance', 6), ('national', 6), ('compared', 6), ('when', 6), ('or', 6), ('an', 6), ('least', 6), ('said', 6), ('used', 6), ('college', 6), ('men', 6), ('been', 5), ('three', 5), ('data', 5), ('some', 5), ('them', 5), ('first', 5), ('million', 5), ('involved', 5), ('has', 5), ('so', 5), ('you', 5), ('likely', 5), ('like', 5), ('budget', 5), ('lower', 5), ('10', 5), ('just', 5), ('people', 5), ('drugs', 5), ('americans', 5)]

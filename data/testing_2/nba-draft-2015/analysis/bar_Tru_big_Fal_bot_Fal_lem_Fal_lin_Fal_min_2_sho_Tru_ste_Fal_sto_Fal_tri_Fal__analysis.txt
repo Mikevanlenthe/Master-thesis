@@ -1,0 +1,62 @@
+Article: nba-draft-2015
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 586
+Raw number of types: 262
+Raw Type token ratio (higher = more diversity in language use): 0.447098976109215
+
+100 most freq tokens before (pre)processing: 
+[(',', 240), ('the', 220), ('<', 197), ('>', 197), ('of', 173), ('a', 107), ('in', 106), ('.', 92), ('to', 86), ('and', 78), ('’', 70), ('bar', 67), ('/bar', 67), ('that', 65), ('percent', 64), ('nobarlabels', 63), ('s', 45), ('than', 43), ('is', 38), ('for', 38), ('more', 35), ('(', 30), (')', 30), ('as', 29), ('are', 27), ('at', 26), ('—', 26), ('about', 26), ('on', 25), ('was', 25), ('women', 25), ('films', 25), ('with', 24), ('from', 23), ('have', 23), ('it', 23), ('?', 22), ('other', 20), ('but', 19), ('all', 17), ('by', 17), ('only', 16), ('those', 16), ('or', 16), ('were', 15), ('we', 15), ('one', 15), ('“', 15), ('”', 15), ('who', 15), ('year', 14), ('had', 13), ('any', 13), ('be', 13), ('still', 13), ('they', 13), ('data', 12), ('much', 12), ('out', 12), ('has', 12), ('among', 12), ('drivers', 11), ('found', 11), ('people', 11), ('men', 11), ('subjects', 11), ('while', 10), ('been', 10), (':', 10), ('number', 10), ('t', 10), ('over', 10), ('average', 10), ('$', 10), ('most', 10), ('median', 10), ('this', 10), ('college', 10), ('color', 10), ('model', 10), ('�', 10), ('each', 9), ('same', 9), ('less', 9), ('when', 9), ('an', 9), ('film', 9), ('least', 9), ('just', 9), ('state', 8), ('so', 8), ('compared', 8), ('between', 8), ('not', 8), ('boomers', 8), ('use', 8), ('age', 8), ('high', 8), ('married', 8), ('white', 8)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 469
+Number of types: 248
+Type token ratio: 0.5287846481876333
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'profile, jabari, cliff, georgia, andrew, center, payne, passer, draft, answer, man, guard, figure, pair, sense, bust, class, shopping, scouting, battle, alexander, winslow, power, okafor, outright, johnson, rookie, defender, year, kansas, example, player, dakari, combination, crop, chance, nba, parker, ceiling, debate, projection, account, state, version, bar, murray, rj, story, role, likelihood, cameron, hollisjefferson, top, probability, today, dame, grant, place, star, aboveaverage, stanley, height, percent, model, hunter, case, ford, point, superstar, starter, justise')
+
+('VBG', 'overriding, shooting, glaring, ranking, according, staggering, taking, dueling, becoming, being, fascinating, turning, scouting, using')
+
+('JJ', 'notre, little, small, freshman, much, available, winslow, overall, okafor, rondae, johnson, likely, particular, low, solid, lowrisk, red, good, mere, whole, such, total, same, great, nba, superior, similar, jerian, future, duke, big, top, arizona, late, statistical, banner, sixth, percent, third, superstar, symbolic, last')
+
+('NNS', 'kinds, projects, guards, wings, belies, forwards, bargains, propositions, superstars, scouts, flags, players, ranks, towns, men, timberwolves, wiggins, grades')
+
+('VBZ', 'is, driven, becomes, thinks, has, says, ranks, gives, sees, views')
+
+('VB', 'okafor, be, succeed, contain, look, bust, take')
+
+('JJR', 'heavier, better, fewer, lower, more')
+
+('VBP', 'grade, watch, winslow, kentucky, are, defy')
+
+('VBN', 'raised, ranked, megahyped')
+
+('VBD', 'used, had')
+
+('NNP', 'startingcaliber')
+
+('JJS', 'least')
+
+100 most freq tokens after processing: 
+[('the', 220), ('of', 173), ('bar', 134), ('in', 106), ('to', 86), ('and', 78), ('that', 65), ('percent', 65), ('than', 43), ('is', 39), ('for', 38), ('more', 35), ('as', 29), ('are', 28), ('at', 26), ('women', 26), ('about', 26), ('on', 25), ('was', 25), ('films', 25), ('with', 24), ('from', 23), ('have', 23), ('it', 23), ('other', 20), ('but', 19), ('all', 17), ('by', 17), ('only', 16), ('those', 16), ('or', 16), ('year', 15), ('were', 15), ('we', 15), ('one', 15), ('who', 15), ('had', 13), ('any', 13), ('be', 13), ('still', 13), ('they', 13), ('data', 12), ('much', 12), ('out', 12), ('has', 12), ('among', 12), ('drivers', 11), ('average', 11), ('found', 11), ('most', 11), ('people', 11), ('men', 11), ('subjects', 11), ('while', 10), ('been', 10), ('number', 10), ('over', 10), ('median', 10), ('this', 10), ('10', 10), ('college', 10), ('color', 10), ('model', 10), ('each', 9), ('same', 9), ('less', 9), ('when', 9), ('an', 9), ('film', 9), ('least', 9), ('just', 9), ('state', 8), ('so', 8), ('compared', 8), ('between', 8), ('not', 8), ('boomers', 8), ('use', 8), ('age', 8), ('high', 8), ('days', 8), ('25', 8), ('married', 8), ('white', 8), ('three', 7), ('country', 7), ('don', 7), ('them', 7), ('first', 7), ('there', 7), ('according', 7), ('half', 7), ('likely', 7), ('test', 7), ('our', 7), ('top', 7), ('50', 7), ('their', 7), ('also', 7), ('used', 7)]

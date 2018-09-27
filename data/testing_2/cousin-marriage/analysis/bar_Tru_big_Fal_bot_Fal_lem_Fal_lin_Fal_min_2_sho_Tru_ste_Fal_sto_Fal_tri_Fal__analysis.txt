@@ -1,0 +1,52 @@
+Article: cousin-marriage
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 83
+Raw number of types: 60
+Raw Type token ratio (higher = more diversity in language use): 0.7228915662650602
+
+100 most freq tokens before (pre)processing: 
+[(',', 125), ('the', 103), ('<', 98), ('>', 98), ('of', 74), ('in', 63), ('a', 48), ('that', 45), ('to', 44), ('.', 44), ('bar', 37), ('percent', 37), ('/bar', 37), ('and', 36), ('’', 31), ('than', 28), ('nobarlabels', 24), ('for', 24), ('films', 21), ('more', 18), ('women', 18), ('on', 17), ('(', 17), (')', 17), ('are', 16), ('have', 15), ('s', 15), ('at', 15), ('was', 14), ('is', 14), ('it', 13), ('other', 12), ('with', 11), ('all', 11), ('drivers', 11), ('but', 11), ('we', 11), ('about', 10), ('—', 9), ('found', 9), ('as', 9), ('still', 9), ('they', 9), ('median', 9), ('only', 8), ('were', 8), ('$', 8), ('most', 8), ('less', 8), ('one', 8), ('“', 8), ('”', 8), ('boomers', 8), ('use', 8), ('among', 8), ('married', 8), ('from', 7), ('each', 7), ('those', 7), ('out', 7), ('be', 7), ('between', 7), ('test', 7), ('film', 7), ('age', 7), ('children', 7), ('had', 6), ('state', 6), ('much', 6), ('insurance', 6), ('any', 6), ('national', 6), ('over', 6), ('or', 6), ('an', 6), ('least', 6), ('said', 6), ('who', 6), ('days', 6), ('men', 6), ('year', 5), ('while', 5), ('been', 5), ('where', 5), (':', 5), ('t', 5), ('by', 5), ('involved', 5), ('average', 5), ('same', 5), ('compared', 5), ('when', 5), ('likely', 5), ('budget', 5), ('lower', 5), ('50', 5), ('used', 5), ('drugs', 5), ('college', 5), ('three', 4)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 67
+Number of types: 50
+Type token ratio: 0.746268656716418
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'consanguinity, burkina, percent, bar, faso, perspective')
+
+('VBP', 'll, are, take, have')
+
+('JJ', 'second, rare, global, consanguineous')
+
+('VBZ', 'is')
+
+('NNS', 'relationships, people, marriages, countries, cousins')
+
+('VBD', 'estimated, studied')
+
+('JJR', 'closer, less')
+
+100 most freq tokens after processing: 
+[('the', 103), ('bar', 74), ('of', 74), ('in', 63), ('that', 45), ('to', 44), ('percent', 38), ('and', 36), ('than', 28), ('for', 24), ('films', 21), ('more', 18), ('women', 18), ('on', 17), ('are', 16), ('have', 15), ('at', 15), ('was', 14), ('is', 14), ('it', 13), ('other', 12), ('with', 11), ('all', 11), ('drivers', 11), ('but', 11), ('we', 11), ('about', 10), ('found', 9), ('as', 9), ('still', 9), ('they', 9), ('median', 9), ('only', 8), ('were', 8), ('most', 8), ('less', 8), ('one', 8), ('boomers', 8), ('use', 8), ('among', 8), ('married', 8), ('from', 7), ('each', 7), ('those', 7), ('out', 7), ('be', 7), ('between', 7), ('test', 7), ('film', 7), ('age', 7), ('days', 7), ('children', 7), ('had', 6), ('year', 6), ('state', 6), ('much', 6), ('insurance', 6), ('any', 6), ('national', 6), ('over', 6), ('or', 6), ('an', 6), ('least', 6), ('said', 6), ('who', 6), ('50', 6), ('men', 6), ('while', 5), ('been', 5), ('where', 5), ('by', 5), ('involved', 5), ('average', 5), ('same', 5), ('compared', 5), ('when', 5), ('likely', 5), ('budget', 5), ('lower', 5), ('10', 5), ('used', 5), ('drugs', 5), ('college', 5), ('three', 4), ('data', 4), ('crashes', 4), ('country', 4), ('collisions', 4), ('according', 4), ('higher', 4), ('half', 4), ('so', 4), ('movie', 4), ('gave', 4), ('bechdel', 4), ('released', 4), ('2013', 4), ('two', 4), ('something', 4), ('sample', 4)]

@@ -1,0 +1,60 @@
+Article: most-common-name
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 182
+Raw number of types: 117
+Raw Type token ratio (higher = more diversity in language use): 0.6428571428571429
+
+100 most freq tokens before (pre)processing: 
+[(',', 152), ('the', 123), ('<', 112), ('>', 112), ('of', 93), ('in', 74), ('a', 56), ('.', 55), ('that', 51), ('to', 50), ('bar', 44), ('/bar', 44), ('and', 41), ('’', 38), ('percent', 37), ('than', 32), ('nobarlabels', 24), ('for', 24), ('more', 23), ('(', 22), (')', 22), ('s', 21), ('films', 21), ('is', 20), ('at', 20), ('on', 18), ('women', 18), ('have', 17), ('are', 17), ('was', 17), ('other', 16), ('it', 16), ('with', 14), ('—', 13), ('all', 12), ('we', 12), ('drivers', 11), ('but', 11), ('as', 11), ('still', 11), ('about', 11), ('most', 10), ('had', 9), ('out', 9), ('any', 9), ('found', 9), ('they', 9), ('median', 9), ('“', 9), ('”', 9), ('from', 8), ('year', 8), ('only', 8), ('were', 8), ('each', 8), ('average', 8), ('$', 8), ('less', 8), ('one', 8), ('who', 8), ('boomers', 8), ('use', 8), ('among', 8), ('age', 8), ('married', 8), ('those', 7), ('much', 7), ('by', 7), ('be', 7), ('between', 7), ('test', 7), ('film', 7), ('days', 7), ('children', 7), ('where', 6), ('number', 6), ('state', 6), ('insurance', 6), ('country', 6), ('t', 6), ('national', 6), ('over', 6), ('compared', 6), ('when', 6), ('or', 6), ('an', 6), ('least', 6), ('said', 6), ('50', 6), ('used', 6), ('men', 6), ('while', 5), ('been', 5), ('three', 5), ('data', 5), (':', 5), ('first', 5), ('million', 5), ('involved', 5), ('same', 5)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 144
+Number of types: 102
+Type token ratio: 0.7083333333333334
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'date, security, ssa, none, silver, rate, mile, fashion, life, johnson, boss, age, expectancy, surname, problem, minnie, account, bar, database, nate, administration, today, number, methodology, year, calculation')
+
+('JJ', 'many, smith, various, similar, actuarial, clear, alive, typical, much, social, first, common')
+
+('NNS', 'babies, data, surnames, deaths, americans, names')
+
+('VBZ', 'is, has')
+
+('VB', 'figure, change, tip, take')
+
+('VBD', 'looked, used, tried, was, christened')
+
+('VBN', 'born')
+
+('VBG', 'using')
+
+('VBP', 'have, tend, come, bar, are')
+
+('JJR', 'slower')
+
+('JJS', 'most')
+
+100 most freq tokens after processing: 
+[('the', 123), ('of', 93), ('bar', 88), ('in', 74), ('that', 51), ('to', 50), ('and', 41), ('percent', 38), ('than', 32), ('for', 24), ('more', 23), ('films', 21), ('is', 20), ('at', 20), ('on', 18), ('women', 18), ('have', 17), ('are', 17), ('was', 17), ('other', 16), ('it', 16), ('with', 14), ('all', 12), ('we', 12), ('drivers', 11), ('but', 11), ('as', 11), ('still', 11), ('about', 11), ('most', 10), ('had', 9), ('year', 9), ('out', 9), ('any', 9), ('found', 9), ('they', 9), ('median', 9), ('from', 8), ('only', 8), ('were', 8), ('each', 8), ('average', 8), ('less', 8), ('one', 8), ('who', 8), ('boomers', 8), ('use', 8), ('among', 8), ('age', 8), ('days', 8), ('married', 8), ('those', 7), ('much', 7), ('country', 7), ('by', 7), ('be', 7), ('between', 7), ('test', 7), ('film', 7), ('50', 7), ('children', 7), ('where', 6), ('number', 6), ('state', 6), ('insurance', 6), ('national', 6), ('over', 6), ('compared', 6), ('when', 6), ('or', 6), ('an', 6), ('least', 6), ('said', 6), ('used', 6), ('men', 6), ('while', 5), ('been', 5), ('three', 5), ('data', 5), ('first', 5), ('million', 5), ('involved', 5), ('same', 5), ('so', 5), ('you', 5), ('likely', 5), ('budget', 5), ('lower', 5), ('10', 5), ('drugs', 5), ('college', 5), ('countries', 5), ('using', 4), ('crashes', 4), ('how', 4), ('them', 4), ('collisions', 4), ('2012', 4), ('according', 4), ('has', 4)]

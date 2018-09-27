@@ -1,0 +1,58 @@
+Article: fandango
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 197
+Raw number of types: 98
+Raw Type token ratio (higher = more diversity in language use): 0.49746192893401014
+
+100 most freq tokens before (pre)processing: 
+[('the', 417), (',', 396), ('<', 343), ('>', 343), ('of', 295), ('a', 209), ('in', 187), ('.', 182), ('percent', 172), ('and', 161), ('to', 140), ('’', 140), ('bar', 130), ('/bar', 130), ('that', 106), ('s', 104), ('–', 96), ('nobarlabels', 83), ('than', 73), ('for', 67), ('(', 59), (')', 59), ('is', 57), ('it', 54), ('are', 52), ('more', 51), ('on', 49), ('at', 46), ('—', 46), ('or', 44), ('with', 43), ('as', 43), ('about', 42), ('were', 40), ('was', 39), ('but', 38), ('had', 37), ('have', 35), ('by', 34), ('“', 33), ('”', 33), ('paintings', 32), ('from', 31), ('one', 31), ('?', 31), ('only', 29), ('we', 29), ('women', 29), ('other', 28), ('average', 28), ('films', 28), ('who', 28), ('those', 25), ('among', 24), ('all', 23), ('they', 23), ('be', 22), ('an', 21), (':', 20), ('there', 20), ('has', 20), ('when', 20), ('data', 19), ('men', 19), ('ross', 19), ('year', 18), ('still', 17), ('likely', 17), ('least', 17), ('over', 16), ('$', 16), ('this', 16), ('their', 16), ('while', 15), ('been', 15), ('each', 15), ('out', 15), ('t', 15), ('any', 15), ('most', 15), ('same', 15), ('people', 15), ('he', 15), ('i', 14), ('how', 14), ('two', 14), ('not', 14), ('three', 13), ('number', 13), ('much', 13), ('them', 13), ('just', 13), ('10', 13), (';', 13), ('higher', 12), ('found', 12), ('compared', 12), ('median', 12), ('what', 12), ('also', 12)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 162
+Number of types: 83
+Type token ratio: 0.5123456790123457
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'rating, review, fandangocom, score, star, data, none, sale, percent, time, aggregate, ballpark, bar, something, user, github, year, rotten, imdb')
+
+('VBD', 'were, looked, pulled, had, was')
+
+('NNS', 'ratings, films, movies, tickets, data, reviews, stars, tomatoes')
+
+('VB', 'check')
+
+('JJ', 'same, seventyeight, unsurprising, fandango, user, metacritic, critic, rotten, imdb, right')
+
+('JJS', 'least')
+
+('JJR', 'higher, more')
+
+('VBN', 'focused')
+
+('VBZ', 'makes, tomatoes')
+
+('VBG', 'finding')
+
+100 most freq tokens after processing: 
+[('the', 417), ('of', 295), ('bar', 260), ('in', 187), ('percent', 176), ('and', 161), ('to', 140), ('that', 106), ('than', 73), ('for', 67), ('is', 59), ('it', 54), ('are', 53), ('more', 51), ('on', 49), ('at', 46), ('or', 44), ('with', 43), ('as', 43), ('about', 42), ('were', 40), ('was', 39), ('but', 38), ('had', 37), ('have', 35), ('by', 34), ('paintings', 32), ('from', 31), ('women', 31), ('one', 31), ('average', 30), ('only', 29), ('we', 29), ('films', 29), ('other', 28), ('who', 28), ('those', 25), ('among', 24), ('all', 23), ('they', 23), ('be', 22), ('an', 21), ('there', 20), ('has', 20), ('when', 20), ('year', 19), ('data', 19), ('men', 19), ('ross', 19), ('10', 18), ('out', 17), ('still', 17), ('likely', 17), ('least', 17), ('each', 16), ('over', 16), ('most', 16), ('2010', 16), ('this', 16), ('their', 16), ('while', 15), ('been', 15), ('any', 15), ('same', 15), ('11', 15), ('not', 15), ('people', 15), ('he', 15), ('how', 14), ('higher', 14), ('two', 14), ('25', 14), ('13', 13), ('three', 13), ('number', 13), ('much', 13), ('them', 13), ('just', 13), ('points', 13), ('14', 12), ('2011', 12), ('found', 12), ('compared', 12), ('time', 12), ('median', 12), ('what', 12), ('20', 12), ('also', 12), ('35', 12), ('us', 12), ('contain', 12), ('painted', 12), ('drivers', 11), ('first', 11), ('less', 11), ('between', 11), ('chance', 11), ('better', 11), ('our', 11), ('53', 11)]

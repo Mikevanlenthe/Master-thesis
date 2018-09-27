@@ -1,0 +1,58 @@
+Article: food-world-cup/what-is-americans-favorite-global-cuisine
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 336
+Raw number of types: 132
+Raw Type token ratio (higher = more diversity in language use): 0.39285714285714285
+
+100 most freq tokens before (pre)processing: 
+[('the', 306), (',', 293), ('<', 250), ('>', 250), ('of', 248), ('a', 164), ('.', 143), ('in', 135), ('percent', 129), ('and', 113), ('to', 111), ('’', 97), ('bar', 92), ('/bar', 92), ('that', 90), ('s', 69), ('nobarlabels', 66), ('than', 53), ('is', 48), ('for', 44), ('at', 43), ('more', 43), ('are', 41), ('it', 38), ('—', 37), ('on', 36), ('(', 36), (')', 36), ('about', 36), ('with', 34), ('as', 32), ('paintings', 32), ('but', 30), ('?', 30), ('have', 29), ('was', 29), ('or', 29), ('women', 28), ('were', 27), ('by', 27), ('we', 27), ('one', 27), ('only', 26), ('from', 25), ('films', 25), ('“', 24), ('”', 24), ('other', 22), ('among', 22), ('had', 21), ('those', 21), ('all', 20), ('there', 19), ('ross', 19), ('who', 18), ('be', 16), ('least', 16), ('men', 16), ('data', 15), (':', 15), ('they', 15), ('likely', 15), ('year', 14), ('while', 14), ('has', 14), ('most', 14), ('still', 14), ('an', 14), ('out', 13), ('any', 13), ('when', 13), ('he', 13), ('each', 12), ('much', 12), ('average', 12), ('what', 12), ('this', 12), ('just', 12), ('contain', 12), ('painted', 12), ('been', 11), ('drivers', 11), ('how', 11), ('t', 11), ('them', 11), ('over', 11), ('found', 11), ('same', 11), ('chance', 11), ('median', 11), ('two', 11), ('people', 11), ('also', 11), ('subjects', 11), ('characters', 11), ('i', 10), ('number', 10), ('2011', 10), ('$', 10), ('less', 10)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 277
+Number of types: 118
+Type token ratio: 0.4259927797833935
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'voter, france, tick, margin, china, japan, everyone, ground, experience, tournament, sixpoint, bar, mexico, count, weighting, vote, thailand, percent, scale, eater, italy')
+
+('VBD', 'were, favored, used, came, increased, scale, did, had, was, edged, rated, won, played')
+
+('JJ', 'adventurous, likely, average, culinary, wide, unweighted, above, raw')
+
+('NNS', 'italians, responses, tallies, results, respondents, eaters, voters, matches')
+
+('VB', 'above, have')
+
+('VBN', 'boosted, lost, gained, been, rated, won')
+
+('VBG', 'weighting, winning')
+
+('JJS', 'likeliest, least')
+
+('JJR', 'closer, better')
+
+('VBP', 'bar, italy')
+
+100 most freq tokens after processing: 
+[('the', 306), ('of', 248), ('bar', 184), ('in', 135), ('percent', 133), ('and', 113), ('to', 111), ('that', 90), ('than', 53), ('is', 50), ('for', 44), ('at', 43), ('more', 43), ('are', 42), ('it', 38), ('on', 36), ('about', 36), ('with', 34), ('as', 32), ('paintings', 32), ('but', 30), ('have', 29), ('was', 29), ('or', 29), ('women', 29), ('were', 27), ('by', 27), ('we', 27), ('one', 27), ('only', 26), ('films', 26), ('from', 25), ('other', 22), ('among', 22), ('had', 21), ('those', 21), ('all', 20), ('there', 19), ('ross', 19), ('who', 18), ('be', 16), ('least', 16), ('men', 16), ('year', 15), ('data', 15), ('most', 15), ('they', 15), ('likely', 15), ('while', 14), ('has', 14), ('still', 14), ('an', 14), ('each', 13), ('out', 13), ('any', 13), ('average', 13), ('when', 13), ('10', 13), ('he', 13), ('much', 12), ('what', 12), ('this', 12), ('just', 12), ('contain', 12), ('painted', 12), ('13', 11), ('been', 11), ('drivers', 11), ('how', 11), ('them', 11), ('over', 11), ('2011', 11), ('found', 11), ('same', 11), ('chance', 11), ('median', 11), ('two', 11), ('people', 11), ('also', 11), ('subjects', 11), ('characters', 11), ('number', 10), ('less', 10), ('2010', 10), ('film', 10), ('our', 10), ('not', 10), ('college', 10), ('color', 10), ('model', 10), ('cluster', 10), ('first', 9), ('so', 9), ('rated', 9), ('used', 9), ('respondents', 9), ('times', 9), ('big', 9), ('25', 9), ('us', 9)]

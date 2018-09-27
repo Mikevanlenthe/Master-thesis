@@ -1,0 +1,56 @@
+Article: mad-men
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 302
+Raw number of types: 176
+Raw Type token ratio (higher = more diversity in language use): 0.5827814569536424
+
+100 most freq tokens before (pre)processing: 
+[('the', 258), (',', 256), ('<', 218), ('>', 218), ('of', 207), ('in', 123), ('a', 118), ('.', 104), ('and', 95), ('to', 91), ('percent', 83), ('’', 77), ('bar', 76), ('/bar', 76), ('that', 73), ('nobarlabels', 66), ('s', 51), ('than', 50), ('is', 41), ('for', 41), ('more', 40), ('(', 36), (')', 36), ('are', 35), ('at', 32), ('—', 31), ('as', 29), ('with', 28), ('it', 28), ('women', 28), ('on', 27), ('about', 27), ('have', 25), ('was', 25), ('films', 25), ('from', 24), ('other', 22), ('but', 22), ('?', 22), ('we', 21), ('“', 21), ('”', 21), ('only', 20), ('were', 20), ('or', 20), ('all', 19), ('by', 19), ('had', 18), ('those', 17), ('who', 17), ('be', 16), ('one', 16), ('men', 16), ('they', 15), ('year', 14), ('data', 14), ('among', 14), ('out', 13), ('any', 13), ('most', 13), ('still', 13), ('while', 12), ('much', 12), ('has', 12), ('just', 12), ('drivers', 11), (':', 11), ('found', 11), ('when', 11), ('median', 11), ('least', 11), ('this', 11), ('people', 11), ('subjects', 11), ('characters', 11), ('been', 10), ('number', 10), ('t', 10), ('there', 10), ('over', 10), ('2011', 10), ('average', 10), ('$', 10), ('same', 10), ('less', 10), ('film', 10), ('college', 10), ('color', 10), ('model', 10), ('�', 10), ('each', 9), ('so', 9), ('an', 9), ('likely', 9), ('our', 9), ('not', 9), ('big', 9), ('three', 8), ('state', 8), ('how', 8)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 283
+Number of types: 167
+Type token ratio: 0.5901060070671378
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'kiefer, sutherland, night, performer, allison, score, bowen, wing, joe, ritter, chloë, abbey, set, west, percentile, john, love, palicki, hayden, kim, harold, janney, paul, olyphant, amanda, siobhan, pasdar, taylor, daniel, morrison, scott, deadwood, aaron, house, jennifer, emilie, actor, ventimiglia, friday, joan, teegarden, dae, paxton, arcadia, perrineau, porter, bar, downton, ginnifer, role, julie, film, tv, rob, mantegna, wyle, goodwin, sevigny, milo, kitsch, britton, ravin, third, er, show, jason, bill')
+
+('JJ', 'friday, timothy, big, adrianne, films, byrne, aimee, annual, bad, legal, 80th, connie, major, noah, median, adrian, few, show, total, raw')
+
+('VBD', 'were, lost, lowe, left, seyfried, had, finneran, rose')
+
+('JJR', 'higher, more, less')
+
+('NNS', 'lights, scores, hawkes, roles, damages, actors, heroes')
+
+('VBG', 'supporting, breaking, meaning')
+
+('VBP', 'are')
+
+('VBN', 'annualized')
+
+('VBZ', 'heroes')
+
+100 most freq tokens after processing: 
+[('the', 258), ('of', 207), ('bar', 152), ('in', 123), ('and', 95), ('to', 91), ('percent', 84), ('that', 73), ('than', 50), ('is', 43), ('for', 41), ('more', 40), ('are', 36), ('at', 32), ('as', 29), ('women', 29), ('with', 28), ('it', 28), ('on', 27), ('about', 27), ('films', 26), ('have', 25), ('was', 25), ('from', 24), ('other', 22), ('but', 22), ('we', 21), ('only', 20), ('were', 20), ('or', 20), ('all', 19), ('by', 19), ('had', 18), ('those', 17), ('who', 17), ('be', 16), ('one', 16), ('men', 16), ('year', 15), ('they', 15), ('data', 14), ('most', 14), ('among', 14), ('out', 13), ('any', 13), ('still', 13), ('while', 12), ('much', 12), ('has', 12), ('just', 12), ('drivers', 11), ('2011', 11), ('average', 11), ('found', 11), ('when', 11), ('median', 11), ('least', 11), ('this', 11), ('10', 11), ('people', 11), ('subjects', 11), ('characters', 11), ('been', 10), ('number', 10), ('there', 10), ('over', 10), ('same', 10), ('less', 10), ('2010', 10), ('film', 10), ('college', 10), ('color', 10), ('model', 10), ('each', 9), ('so', 9), ('an', 9), ('likely', 9), ('our', 9), ('not', 9), ('big', 9), ('13', 8), ('three', 8), ('state', 8), ('how', 8), ('dc', 8), ('compared', 8), ('between', 8), ('top', 8), ('boomers', 8), ('use', 8), ('their', 8), ('also', 8), ('age', 8), ('high', 8), ('days', 8), ('25', 8), ('married', 8), ('white', 8), ('male', 8), ('country', 7)]

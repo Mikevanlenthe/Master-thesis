@@ -1,0 +1,58 @@
+Article: elo-blatter
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 145
+Raw number of types: 89
+Raw Type token ratio (higher = more diversity in language use): 0.6137931034482759
+
+100 most freq tokens before (pre)processing: 
+[('the', 375), (',', 364), ('<', 308), ('>', 308), ('of', 273), ('a', 184), ('in', 172), ('.', 169), ('percent', 158), ('and', 144), ('to', 131), ('’', 124), ('bar', 114), ('/bar', 114), ('that', 97), ('s', 90), ('nobarlabels', 80), ('than', 65), ('for', 60), ('is', 56), ('it', 53), ('(', 52), (')', 52), ('are', 50), ('more', 48), ('at', 44), ('on', 43), ('with', 39), ('—', 39), ('about', 38), ('as', 37), ('or', 37), ('was', 36), ('but', 35), ('were', 32), ('by', 32), ('paintings', 32), ('have', 30), ('?', 30), ('only', 29), ('women', 29), ('“', 29), ('”', 29), ('from', 28), ('other', 27), ('had', 27), ('we', 27), ('one', 27), ('films', 25), ('among', 24), ('all', 22), ('those', 22), ('who', 22), ('average', 21), ('be', 21), ('there', 20), ('an', 20), ('men', 19), ('ross', 19), ('they', 18), ('year', 17), ('data', 17), ('has', 17), ('when', 17), ('likely', 17), (':', 16), ('over', 16), ('$', 16), ('still', 16), ('least', 16), ('while', 15), ('t', 15), ('any', 15), ('people', 15), ('he', 15), ('been', 14), ('each', 14), ('out', 14), ('most', 14), ('three', 13), ('much', 13), ('them', 13), ('not', 13), ('this', 13), ('i', 12), ('number', 12), ('how', 12), ('found', 12), ('same', 12), ('median', 12), ('two', 12), ('what', 12), ('just', 12), ('their', 12), ('also', 12), ('�', 12), ('contain', 12), ('painted', 12), ('drivers', 11), ('2011', 11)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 108
+Number of types: 79
+Type token ratio: 0.7314814814814815
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'rating, cups, match, caf, contrast, cup, knockout, elo, blatter, africa, south, stage, bar, confederation, rest, wasn, world, improvement, europe, soccerwise')
+
+('JJS', 'poorest')
+
+('VBZ', 'is')
+
+('JJ', 'african, overall, south, little, africa, ghana')
+
+('VBN', 'combined, shown, contested, held')
+
+('NNS', 'draws, points, losses, years, entrants, countries, men, wins')
+
+('VBG', 'advancing, accumulating')
+
+('JJR', 'better, worse')
+
+('VBD', 'bar, was, had')
+
+('VBP', 'america')
+
+100 most freq tokens after processing: 
+[('the', 375), ('of', 273), ('bar', 228), ('in', 172), ('percent', 162), ('and', 144), ('to', 131), ('that', 97), ('than', 65), ('for', 60), ('is', 58), ('it', 53), ('are', 51), ('more', 48), ('at', 44), ('on', 43), ('with', 39), ('about', 38), ('as', 37), ('or', 37), ('was', 36), ('but', 35), ('were', 32), ('by', 32), ('paintings', 32), ('women', 31), ('have', 30), ('only', 29), ('from', 28), ('other', 27), ('had', 27), ('we', 27), ('one', 27), ('films', 26), ('among', 24), ('all', 22), ('those', 22), ('average', 22), ('who', 22), ('be', 21), ('there', 20), ('an', 20), ('men', 19), ('ross', 19), ('year', 18), ('they', 18), ('data', 17), ('has', 17), ('when', 17), ('likely', 17), ('over', 16), ('still', 16), ('least', 16), ('while', 15), ('each', 15), ('out', 15), ('any', 15), ('most', 15), ('2010', 15), ('10', 15), ('people', 15), ('he', 15), ('been', 14), ('three', 13), ('much', 13), ('them', 13), ('not', 13), ('this', 13), ('number', 12), ('how', 12), ('2011', 12), ('found', 12), ('same', 12), ('11', 12), ('median', 12), ('two', 12), ('what', 12), ('just', 12), ('their', 12), ('also', 12), ('25', 12), ('us', 12), ('contain', 12), ('painted', 12), ('13', 11), ('drivers', 11), ('14', 11), ('less', 11), ('chance', 11), ('better', 11), ('our', 11), ('top', 11), ('rated', 11), ('respondents', 11), ('35', 11), ('per', 11), ('world', 11), ('subjects', 11), ('characters', 11), ('state', 10)]

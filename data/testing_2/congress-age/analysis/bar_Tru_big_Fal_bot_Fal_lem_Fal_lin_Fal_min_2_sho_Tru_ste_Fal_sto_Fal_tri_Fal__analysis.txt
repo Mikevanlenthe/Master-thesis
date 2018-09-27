@@ -1,0 +1,60 @@
+Article: congress-age
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 252
+Raw number of types: 121
+Raw Type token ratio (higher = more diversity in language use): 0.4801587301587302
+
+100 most freq tokens before (pre)processing: 
+[('the', 401), (',', 387), ('<', 337), ('>', 337), ('of', 287), ('a', 205), ('in', 186), ('.', 181), ('percent', 164), ('and', 158), ('to', 140), ('’', 139), ('bar', 127), ('/bar', 127), ('that', 104), ('s', 103), ('–', 96), ('nobarlabels', 83), ('than', 72), ('for', 66), ('(', 58), (')', 58), ('is', 57), ('it', 54), ('are', 52), ('more', 50), ('—', 46), ('on', 45), ('at', 45), ('as', 43), ('with', 42), ('about', 42), ('or', 40), ('were', 39), ('was', 38), ('but', 38), ('have', 35), ('by', 34), ('“', 33), ('”', 33), ('paintings', 32), ('had', 31), ('?', 31), ('from', 30), ('one', 30), ('only', 29), ('we', 29), ('women', 29), ('other', 28), ('average', 28), ('who', 28), ('those', 25), ('films', 25), ('among', 24), ('they', 23), ('all', 22), ('be', 22), ('an', 21), ('there', 20), ('has', 20), ('men', 19), ('ross', 19), (':', 18), ('when', 18), ('year', 17), ('data', 17), ('still', 17), ('likely', 17), ('over', 16), ('$', 16), ('least', 16), ('their', 16), ('while', 15), ('been', 15), ('each', 15), ('t', 15), ('any', 15), ('most', 15), ('people', 15), ('he', 15), ('how', 14), ('out', 14), ('same', 14), ('two', 14), ('not', 14), ('this', 14), ('three', 13), ('number', 13), ('much', 13), ('them', 13), ('just', 13), ('10', 13), (';', 13), ('i', 12), ('found', 12), ('compared', 12), ('median', 12), ('what', 12), ('also', 12), ('points', 12)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 203
+Number of types: 110
+Type token ratio: 0.541871921182266
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'bush, pattern, richard, republican, survey, time, age, george, average, reagan, nixon, start, bar, hw, interest, gerald, obama, bit, deal, ford, president')
+
+('NNS', 'politics, versions, years, democrats, congresses, partisans, republicans, americans, terms')
+
+('JJ', 'same, great, past, informed, congress, strong, average, bush, old, general, active, social, first')
+
+('JJR', 'younger, older')
+
+('VBP', 'have, are, identify, follow, take')
+
+('VBG', 'serving, ranging')
+
+('VBD', 'were, described, became, asked, said, vshaped, knew, was')
+
+('VBN', 'compared, grown, increased, steadier, been')
+
+('VBZ', 'has')
+
+('VB', 'george')
+
+('NNPS', 'democrats')
+
+100 most freq tokens after processing: 
+[('the', 401), ('of', 287), ('bar', 254), ('in', 186), ('percent', 168), ('and', 158), ('to', 140), ('that', 104), ('than', 72), ('for', 66), ('is', 59), ('it', 54), ('are', 53), ('more', 50), ('on', 45), ('at', 45), ('as', 43), ('with', 42), ('about', 42), ('or', 40), ('were', 39), ('was', 38), ('but', 38), ('have', 35), ('by', 34), ('paintings', 32), ('had', 31), ('women', 31), ('from', 30), ('average', 30), ('one', 30), ('only', 29), ('we', 29), ('other', 28), ('who', 28), ('films', 26), ('those', 25), ('among', 24), ('they', 23), ('all', 22), ('be', 22), ('an', 21), ('there', 20), ('has', 20), ('men', 19), ('ross', 19), ('year', 18), ('when', 18), ('10', 18), ('data', 17), ('still', 17), ('likely', 17), ('each', 16), ('out', 16), ('over', 16), ('most', 16), ('2010', 16), ('least', 16), ('their', 16), ('while', 15), ('been', 15), ('any', 15), ('11', 15), ('not', 15), ('people', 15), ('he', 15), ('how', 14), ('same', 14), ('two', 14), ('this', 14), ('25', 14), ('13', 13), ('three', 13), ('number', 13), ('much', 13), ('them', 13), ('just', 13), ('points', 13), ('14', 12), ('2011', 12), ('found', 12), ('compared', 12), ('median', 12), ('what', 12), ('20', 12), ('also', 12), ('35', 12), ('us', 12), ('contain', 12), ('painted', 12), ('drivers', 11), ('first', 11), ('less', 11), ('between', 11), ('chance', 11), ('better', 11), ('our', 11), ('53', 11), ('top', 11), ('rated', 11)]

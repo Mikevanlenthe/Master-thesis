@@ -1,0 +1,173 @@
+
+
+
+Mar. 30, 2016
+						at
+						1:23 PM
+
+
+
+							How Trump Hacked The Media						
+Trump’s dominance on cable news isn’t the whole story. 
+
+
+By Nate Silver
+Filed under 2016 Election
+
+Get the data on GitHub
+GitHub data at data/trump-news
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Donald Trump took over the news cycle on Feb. 26, as he had so many times before. In the morning, the media chatter was about Marco Rubio’s seemingly strong debate in Houston the previous evening in which he’d confronted Trump. By midday, however, there were rumors and reports that Trump would be endorsed by New Jersey Gov. Chris Christie. Once Christie, who’d been flown to Trump’s event in Texas surreptitiously, delivered his endorsement late that afternoon, Rubio was swept off the front pages and relegated to sideshow status.
+I remember getting into some arguments with my colleagues that afternoon. Was Christie’s endorsement really so momentous that it required wall-to-wall coverage? You can make a case that it was: Christie was the first sitting governor and the most mainstream Republican to have endorsed Trump to that point. The case against: The endorsement was somewhat predictable based on Christie’s previous behavior toward Trump, and few of the hundreds of endorsements made during the campaign earn breaking-news chyrons.
+The irony is that for such a “game-changing” event, Christie’s endorsement of Trump had a relatively short shelf life as the top news story. By noon the next day, it was just one of a mishmash of headlines about the Republican campaign; there were others about the ongoing battle between Trump and the Republican “establishment,” and even one about how a pair of women who backed Trump on social media had accused Rubio of having a “gay lifestyle.” It was mission accomplished for Trump, however, who had changed the news cycle on his whim and prevented Rubio from sustaining any momentum of his own.
+For all the recent debate about what responsibility the media bears for Trump’s rise to the top of the Republican Party’s nomination race, there hasn’t been a lot of evidence presented on how the media has actually covered the campaign. So I scoured through more than nine months of headlines since Trump’s presidential bid began.
+The Christie endorsement, it turns out, is emblematic of a larger pattern: Trump has been able to disrupt the news pretty much any time he wants, whether by being newsworthy, offensive, salacious or entertaining. The media has almost always played along.
+But that isn’t the only problem we found.
+Trump has dominated the news, but that’s not the whole story.
+Sunday marked the 286th day of Trump’s campaign, which began June 16. From the start, he’s been a media phenomenon. According to The New York Times, Trump has received the equivalent of $1.9 billion in television coverage while having spent only $10 million on paid advertising. By contrast, Trump’s Republican rivals combined have received slightly less than $1.2 billion worth of television coverage, meaning that Trump has been the subject of the clear majority (62 percent) of candidate-focused TV coverage of the Republican race.
+There’s a perception that Trump has dominated television coverage more than coverage in print or digital media outlets, but it’s not clear that’s true. A study we conducted in December found that 54 percent of newspaper stories about the Republican candidates were about Trump, not that far from his share of TV coverage. (For transparency’s sake: Among stories FiveThirtyEight has published where a Republican candidate’s name has appeared in the URL — which most often mirrors the headline — 43 percent have been about Trump.1)
+For a further sense of how digital outlets are covering the race, we can borrow a technique I’ve used in the past, which is to record the top story as of noon each day from the news aggregator Memeorandum. The site uses an algorithm to determine which stories are leading political coverage on the Internet; the details of the calculation are somewhat opaque, but a lot of it is based on which stories are being linked to by other news organizations and what themes are commonly recurring among different news outlets. Simply put, Memeorandum is a good indicator of what stories journalists are talking about.
+Through Sunday, Trump had been the lead story on Memeorandum on 104 days, or 36 percent of the time since he announced his candidacy. However, Trump is competing for coverage against not only other Republican candidates but also Democrats, along with other international and national news stories.2 Of the days when a story about the Republican campaign led Memeorandum, it was a Trump-related story 68 percent of the time.3
+
+
+
+
+HOW OFTEN DID TRUMP LEAD NEWS COVERAGE OUT OF ALL DAYS …
+DAYS WHERE TRUMP LED COVERAGE
+TOTAL DAYS
+TRUMP’S FRACTION OF COVERAGE
+
+
+
+
+… since the start of his campaign on June 16, including days when the top story was not campaign-related?
+104
+286
+36%
+
+
+… when a campaign-related story led the news?
+104
+200
+52
+
+
+… when a story about the Republican campaign led the news?
+104
+152
+68
+
+
+… when a story about a particular Republican candidate led the news?
+104
+137
+76
+
+
+Trump has dominated coverage of the GOP campaign, but not always all other news
+
+
+Importantly, this is a measure of which topics are gaining traction rather than how many stories on a particular topic are being published. Then again, stories rank high on Memeorandum precisely because other journalists (and not just readers) are picking up on the same themes. It’s safe to say that the GOP race has been covered principally as a Trump story across all forms of media.
+But how much Trump has been covered is less interesting in some ways than how he’s been covered. In fact, judging by what has been featured on Memeorandum, coverage of Trump has evolved over time, breaking down fairly neatly into three periods:
+
+In the summer, coverage of Trump was highly poll-driven, with most of it emphasizing how popular he was despite repeatedly making inflammatory remarks.
+In the early fall, coverage of Trump slowed down considerably. This coincided with a period when he was relatively subdued in debates and public appearances, and also fairly stagnant in the polls. However, Trump again became a focal point after the Paris and San Bernardino terrorist attacks, which Trump used to exploit anti-Muslim and anti-immigrant sentiment.
+In the winter (and so far in the early spring), the coverage of Trump has been manic. He’s been the near-constant center of attention, but rarely has the media focused on any one Trump-related storyline for more than a day or two at a time.
+
+We can consider these phases in more detail based on a series of charts designed by my colleague Reuben Fischer-Baum. They illustrate whether the lead story at Memeorandum each day was about Trump and highlight three frequently occurring categories of Trump coverage:
+
+Polling. There have been 29 days of coverage on Trump’s polls, making it the most frequently occurring Trump-related subject.
+Trump versus the Republican Party. There have been 22 days of coverage on Trump’s insurrection against the Republican Party “establishment.” These stories often involve excellent reporting. Almost always, they frame the conflict as one between Trump and the Republican “party elites,” as opposed to considering divisions among Republican voters in their attitudes toward Trump.
+Inflammatory comments. And there have been 16 days of coverage about controversial comments made by Trump. This category relates only to comments spoken, written or tweeted by Trump, as opposed to other types of Trump-related controversies.
+
+For a more detailed breakdown of exactly which stories were leading coverage, you can download our spreadsheet here.
+The Summer Of Trump: First the media missed Trump’s popularity, then it missed his unpopularity
+Here’s Reuben’s chart for the summer of Trump, which covers from Trump’s announcement of his candidacy June 164 through Sept. 22 of last year.
+
+
+
+Trump’s entry into the campaign was initially treated dismissively — including by FiveThirtyEight — although it didn’t take that long for the tone of coverage to change. Particularly after Trump belittled Sen. John McCain’s time as a prisoner of war and many news outlets predicted his immediate demise,5 but Trump’s polls continued rising instead, Trump developed a reputation for being a “Teflon candidate” who was relatively impervious to attack.
+I’ve seen a lot of commentary to the effect that the press was slow to recognize the appeal of Trump to Republican voters. Certainly there was a lot of variation among news outlets — with FiveThirtyEight being on the slower end to come around. But overall, that hypothesis doesn’t hold up well once you review the evidence. By early August, reporters were writing about how “Trump’s staying power [was] defying predictions of political doom” and how his top-line polling numbers among Republicans were evidence of his broad and surprising popularity.
+Overall, in the summer, there were 13 days of coverage of Trump’s polls, more than the nine days spent on his questionable remarks.6 Furthermore, these poll-based stories were almost always7 positive for Trump. Republican voters soon took away the message that Trump was not only their most likely nominee, but would also be a strong general election candidate, frequently naming him the “most electable” of their choices.
+What was wrong with the media spending so much time citing Trump’s polls — which, after all, correctly showed him with a lead? We (somewhat infamously) spent a lot of time arguing about this in the summer and fall. Part of the issue is that polls have historically not been very predictive early in primary campaigns, as candidates such as Rudy Giuliani, Howard Dean, Herman Cain, Rick Perry and Hillary Clinton (in 2008) can attest. If Trump and Clinton wind up winning their nominations this year after their early poll success, it will be the exception as much as the rule.
+But the other reason is more particular to Trump, which is that the top-line poll numbers the media frequently cited don’t convey the whole polling story. Trump has consistently had the plurality of Republican support in polls, but those same polls suggest that Trump faces unusually high resistance from voters who don’t have him as their first choice. To some extent, that’s true among Republican voters. Many of them would be unhappy with a Trump nomination, more than is typical for a polling front-runner, which is part of why Trump’s path to 1,237 delegates remains tenuous. It’s more obviously and emphatically true of general election voters, with whom Trump has historically high negatives. Trump’s weakness among general election voters has been evident for a long time — it’s not a new story, even though it has just recently started to get more coverage.
+Put another way, the media may have been slow to recognize Trump’s popularity — it took a month or two after he launched his campaign. But it was slower to recognize his unpopularity, and Trump is a profoundly unpopular candidate with the broader American public.
+The Autumn Of Trump: A break in Trump coverage, then came Paris
+There are a few other twists in our story, however. For instance, you might assume that Trump has dominated news coverage from wire to wire. But there was a long period in the early fall when the news was not very focused on Trump. In the 53-day period from Sept. 21 through Nov. 12, Trump was the lead story on Memeorandum only three times:
+
+
+
+What was the media covering instead? There was some important non-campaign news: This period includes the narrowly averted government shutdown in late September and the nearly disastrous Republican House speakership transition in October.
+Another frequent topic was the Democratic race. Even though Clinton’s polling was quite a bit better than Trump’s — she had a much larger share of the Democratic vote than Trump had of the Republican vote, a larger lead over her nearest rivals than Trump had over his, and better (although nonetheless fairly poor) general election numbers — the media usually portrayed Clinton’s polling in a negative light. There was also continuing coverage of the scandal surrounding her private email server and frequent speculation about Joe Biden entering the Democratic race. By mid-October, after a strong debate for Clinton and after Biden confirmed he wouldn’t run, the Democratic race receded from the headlines. But there’s been an interesting symbiosis between coverage of Clinton and coverage of Trump. Clinton, who has tried to run a low-key, “prevent defense” type of campaign, has probably benefited from Trump eating up so many news cycles, while Bernie Sanders has probably been hurt by it.
+In late October and early November, there was also a period of coverage of the Republican race that wasn’t Trump-centric. A lot of this coverage focused on Ben Carson, who received four straight days of mostly tough coverage from Nov. 5 through Nov. 8. But the more conventional candidates didn’t receive all that much attention. From Trump’s entry into the race in June through the end of 2015, Rubio was the lead story on Memeorandum only three times, Jeb Bush also only three times and John Kasich zero times. Scott Walker was the focal point just twice — on the day he entered the race and the day after he quit it.
+If the non-Trump Republicans were having trouble gaining traction, it became harder after the terrorist attacks in Paris on Nov. 13 and in San Bernardino, California, on Dec. 2. After a few days when coverage of the attacks themselves led the news, Trump made waves with his response, particularly on Dec. 7 when he called for a ban on Muslim immigration. This period coincided with a renewed rise for Trump in national polls, which had been quite stagnant throughout the fall:
+
+
+
+Likewise, it coincided with a big increase in the amount of media coverage of Trump. From Dec. 7 through Sunday, Trump was the lead story on Memeorandum on 57 of 112 days, or just slightly more than half the time, up from about 30 percent of the time beforehand.
+Although the correlation is strong, the causal relationships between Trump’s spikes in the polls and those in his media coverage are hard to sort out, in part because they probably reinforce one another. But it’s at least plausible that Paris and San Bernardino restarted the cycle of attention to Trump when it might slowly have petered out otherwise.
+The Winter Of Trump: Manic coverage and panicked Republicans
+Since Dec. 22, Trump has led the news more than half the time, including one streak this month where he did so for 15 days in a row. That’s partly because there’s been a lot of actual Trump-related news. Among other things: lots of debates; the mostly ineffectual efforts by Republican “party elites” to stop Trump; and — since Feb. 1 — voting in Iowa, New Hampshire and other states, which has mostly gone well for Trump.
+
+
+
+And yet, no individual story about Trump has led news coverage for more than two consecutive days. (See here for a more detailed breakdown of topics.) Some seemingly significant stories didn’t even make it that far. When Trump canceled a rally in Chicago after clashes between supporters and protesters, it led Memeorandum for only one day. The fact that Trump has frequently condoned violence against protesters has never led a day of coverage. Christie’s endorsement of Trump led the news for only about half a day, as I mentioned. Remember when Trump got into a fight with Pope Francis? That story also led coverage for only half a day.
+What stories have been missed?
+You could push back against a few examples — the current lead story about the Trump campaign’s abusive treatment of reporter Michelle Fields is probably more interesting to the press than to the broader public, for instance. But most of the Trump-related stories the media has covered have a lot of intrinsic news value. It’s easy to defend breaking from Rubio’s post-debate buzz to cover the Christie endorsement, for example. The problem is that the cumulative effect of always choosing the Trump story piles up. There has been scant coverage of candidates other than Trump and Clinton — certainly including the other Republicans but also Sanders. These candidates have not received all that much opportunity to build momentum after favorable events on the campaign trail. Nor have they gotten all that much vetting or been subject to all that many investigative stories. That may be part of why Rubio’s standing fluctuated so much during February and March, for example. Voters hadn’t heard much about him: He’d led the news day only three times before February, according to Memeorandum. So a relatively minor story, such as a strong or weak debate, could weigh strongly upon their opinion of him.
+Another problem is that Trump is very often dictating the terms of his coverage, both by threatening to withdraw access from outlets that treat him unfavorably and by pre-empting other stories that might be unfavorable to him. There are whole genres of Trump-related stories that remain underexplored.
+According to Memeorandum, for example, at no point has an investigative story about Trump’s past business dealings led news coverage. That doesn’t mean these stories haven’t been written — there have been some good ones — but they haven’t gained traction. (And remember: Memeorandum placement is principally based on which stories are receiving inbound links from other news organizations, so we can’t just blame readers for not caring about those stories.) Also, Trump’s policy flip-flops have rarely led the news. How many Republicans know that Trump once called himself “very pro-choice,” or once promoted single-payer health care, or once called for a wealth tax? I’ve seen it asserted that Republicans don’t care very much about these things, and that may be a reasonable supposition, but the theory has never really been tested because these stories have not received much emphasis.
+Trump hacked the system
+Most of the media’s self-criticism of its Trump coverage has focused on whether Trump’s dominance of the news cycle reflects a craven desire for higher TV ratings or Web traffic numbers. It’s fine to debate that — although these criticisms are sometimes being evinced through crocodile tears given the record ratings and traffic Trump is bringing to news organizations of all kinds.8
+But this critique avoids some thornier questions. For instance, with his ability to make news any time he wants with a tweet, news conference or conveniently placed leak, Trump has challenged news organizations’ editorial prerogative. Should the press cover a candidate differently when he makes trolling the media an explicit part of his strategy, on the theory that some coverage is almost always better than none?
+That’s not the only problem. Trump also challenges the media’s notion of what it means to be “objective.” Among other things, Trump has frequently invoked misogyny and racism; he has frequently lied, and he has repeatedly encouraged violence against political protesters. As far as we’re concerned at FiveThirtyEight, these are matters of fact and not opinion and to describe them otherwise would make our reporting less objective. Other news outlets will bend over backward to avoid describing them in those terms, however.
+An underappreciated problem is that Trump’s candidacy is relatively lacking in precedent, which means we’re all trying to figure this out as we go along. Traditional journalists have had trouble covering Trump, but so have empirically-minded ones like us here at FiveThirtyEight. We laid long odds against Trump getting this far, in large part because no similar presidential candidate has done so since primary and caucus voting became widespread in 1972.
+Put another way, Trump has hacked the system and exposed the weaknesses in American political institutions. He’s uncovered profound flaws in the Republican Party. He’s demonstrated that third-rail issues like racism and nationalism can still be a potent political force. He’s exploited the media’s goodwill and taken advantage of the lack of trust the American public has in journalism. Trump may go away — he’s not yet assured of winning the GOP nomination, and he’ll be an underdog in November if he does — but the problems he’s exposed were years in the making, and they’ll take years to sort out.
+
+Listen to the latest episode of the FiveThirtyEight politics podcast.
+
+
+By Nate Silver
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+		More: Apple Podcasts |
+		ESPN App |
+RSS
+					| Embed
+
+
+Embed Code
+<iframe frameborder="0" width="100%" height="180" style="margin:20px auto 25px;max-width:600px;" scrolling="no" src="https://fivethirtyeight.com/player/politics/22588832/"></iframe>
+
+
+

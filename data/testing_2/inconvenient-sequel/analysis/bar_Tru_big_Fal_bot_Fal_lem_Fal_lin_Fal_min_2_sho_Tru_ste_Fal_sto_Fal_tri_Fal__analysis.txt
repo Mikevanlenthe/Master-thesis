@@ -1,0 +1,46 @@
+Article: inconvenient-sequel
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 71
+Raw number of types: 40
+Raw Type token ratio (higher = more diversity in language use): 0.5633802816901409
+
+100 most freq tokens before (pre)processing: 
+[(',', 71), ('the', 66), ('<', 59), ('>', 59), ('of', 43), ('in', 36), ('that', 32), ('a', 30), ('bar', 23), ('to', 23), ('/bar', 23), ('films', 21), ('.', 18), ('’', 18), ('and', 17), ('percent', 16), ('on', 14), ('than', 14), ('nobarlabels', 13), ('for', 13), ('women', 13), ('drivers', 11), ('s', 10), ('at', 10), ('was', 9), ('we', 9), ('(', 8), (')', 8), ('—', 8), ('found', 8), ('$', 8), ('were', 7), ('are', 7), ('more', 7), ('test', 7), ('film', 7), ('median', 7), ('each', 6), ('state', 6), ('those', 6), ('insurance', 6), ('out', 6), ('between', 6), ('other', 5), ('with', 5), ('had', 5), ('only', 5), ('all', 5), ('have', 5), ('where', 5), ('is', 5), ('but', 5), ('involved', 5), ('average', 5), ('it', 5), ('budget', 5), ('from', 4), ('data', 4), ('crashes', 4), ('t', 4), ('collisions', 4), ('national', 4), ('higher', 4), ('when', 4), ('an', 4), ('movie', 4), ('gave', 4), ('bechdel', 4), ('2013', 4), ('investment', 4), ('one', 4), ('budgets', 4), ('“', 4), ('”', 4), ('while', 3), ('car', 3), ('how', 3), ('don', 3), ('them', 3), ('million', 3), ('2012', 3), ('according', 3), ('billion', 3), ('miles', 3), ('traveled', 3), ('over', 3), ('be', 3), ('still', 3), ('compared', 3), ('or', 3), ('released', 3), ('gross', 3), ('two', 3), ('about', 3), ('lower', 3), ('return', 3), ('sample', 3), ('1970', 3), ('our', 3), ('passing', 3)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 57
+Number of types: 32
+Type token ratio: 0.5614035087719298
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'august, score, percent, bar, imdb, movie, film')
+
+('NNS', 'people, users')
+
+('VBD', 'gave, rated')
+
+('JJ', 'same, extreme, short')
+
+100 most freq tokens after processing: 
+[('the', 66), ('bar', 46), ('of', 43), ('in', 36), ('that', 32), ('to', 23), ('films', 21), ('percent', 17), ('and', 17), ('on', 14), ('than', 14), ('for', 13), ('women', 13), ('drivers', 11), ('at', 10), ('was', 9), ('we', 9), ('found', 8), ('were', 7), ('are', 7), ('more', 7), ('test', 7), ('film', 7), ('median', 7), ('each', 6), ('state', 6), ('those', 6), ('insurance', 6), ('out', 6), ('between', 6), ('other', 5), ('with', 5), ('had', 5), ('only', 5), ('all', 5), ('have', 5), ('where', 5), ('is', 5), ('but', 5), ('involved', 5), ('average', 5), ('it', 5), ('budget', 5), ('from', 4), ('data', 4), ('crashes', 4), ('collisions', 4), ('national', 4), ('higher', 4), ('when', 4), ('an', 4), ('movie', 4), ('gave', 4), ('bechdel', 4), ('2013', 4), ('sample', 4), ('investment', 4), ('one', 4), ('budgets', 4), ('10', 4), ('while', 3), ('car', 3), ('how', 3), ('country', 3), ('don', 3), ('them', 3), ('million', 3), ('2012', 3), ('according', 3), ('billion', 3), ('miles', 3), ('traveled', 3), ('over', 3), ('be', 3), ('still', 3), ('compared', 3), ('or', 3), ('released', 3), ('gross', 3), ('two', 3), ('about', 3), ('lower', 3), ('return', 3), ('1970', 3), ('our', 3), ('passing', 3), ('who', 3), ('trump', 2), ('fewer', 2), ('negative', 2), ('references', 2), ('worst', 2), ('year', 2), ('overall', 2), ('your', 2), ('using', 2), ('three', 2), ('america', 2), ('number', 2), ('much', 2)]

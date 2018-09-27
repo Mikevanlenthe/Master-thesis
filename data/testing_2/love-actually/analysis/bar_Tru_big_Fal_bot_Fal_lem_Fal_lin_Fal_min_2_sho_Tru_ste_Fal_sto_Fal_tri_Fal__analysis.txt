@@ -1,0 +1,38 @@
+Article: love-actually
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3
+Raw number of types: 3
+Raw Type token ratio (higher = more diversity in language use): 1.0
+
+100 most freq tokens before (pre)processing: 
+[(',', 193), ('<', 172), ('>', 172), ('the', 172), ('of', 140), ('in', 92), ('a', 75), ('.', 71), ('to', 67), ('and', 63), ('bar', 60), ('/bar', 60), ('that', 58), ('’', 53), ('nobarlabels', 52), ('percent', 52), ('than', 38), ('more', 31), ('s', 30), ('for', 28), ('is', 27), ('was', 25), ('women', 25), ('films', 25), ('at', 24), ('on', 23), ('have', 23), ('with', 22), ('(', 22), (')', 22), ('about', 22), ('are', 21), ('other', 19), ('—', 18), ('as', 17), ('it', 17), ('from', 15), ('all', 15), ('were', 15), ('but', 15), ('those', 14), ('only', 13), ('still', 13), ('by', 12), ('they', 12), ('we', 12), ('one', 12), ('who', 12), ('had', 11), ('drivers', 11), ('found', 11), ('“', 11), ('”', 11), ('among', 11), ('subjects', 11), ('been', 10), ('much', 10), ('t', 10), ('any', 10), ('average', 10), ('$', 10), ('most', 10), ('median', 10), ('people', 10), ('college', 10), ('color', 10), ('year', 9), ('out', 9), ('less', 9), ('or', 9), ('film', 9), ('just', 9), ('men', 9), ('each', 8), ('over', 8), ('be', 8), ('same', 8), ('when', 8), ('between', 8), ('least', 8), ('boomers', 8), ('use', 8), ('age', 8), ('high', 8), ('married', 8), ('white', 8), ('while', 7), ('three', 7), (':', 7), ('number', 7), ('don', 7), ('has', 7), ('compared', 7), ('an', 7), ('test', 7), ('days', 7), ('graduates', 7), ('children', 7), ('per', 7), ('trump', 6)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 0
+Number of types: 0
+Type token ratio: 0
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+100 most freq tokens after processing: 
+[('the', 172), ('of', 140), ('bar', 120), ('in', 92), ('to', 67), ('and', 63), ('that', 58), ('percent', 53), ('than', 38), ('more', 31), ('for', 28), ('is', 27), ('women', 26), ('was', 25), ('films', 25), ('at', 24), ('on', 23), ('have', 23), ('with', 22), ('about', 22), ('are', 21), ('other', 19), ('as', 17), ('it', 17), ('from', 15), ('all', 15), ('were', 15), ('but', 15), ('those', 14), ('only', 13), ('still', 13), ('by', 12), ('they', 12), ('we', 12), ('one', 12), ('who', 12), ('had', 11), ('drivers', 11), ('average', 11), ('found', 11), ('among', 11), ('subjects', 11), ('year', 10), ('been', 10), ('much', 10), ('any', 10), ('most', 10), ('median', 10), ('people', 10), ('college', 10), ('color', 10), ('out', 9), ('less', 9), ('or', 9), ('film', 9), ('just', 9), ('men', 9), ('each', 8), ('over', 8), ('be', 8), ('same', 8), ('when', 8), ('between', 8), ('least', 8), ('boomers', 8), ('use', 8), ('age', 8), ('high', 8), ('days', 8), ('married', 8), ('white', 8), ('while', 7), ('three', 7), ('number', 7), ('country', 7), ('don', 7), ('has', 7), ('compared', 7), ('an', 7), ('test', 7), ('50', 7), ('graduates', 7), ('children', 7), ('degree', 7), ('per', 7), ('trump', 6), ('data', 6), ('where', 6), ('state', 6), ('how', 6), ('insurance', 6), ('first', 6), ('there', 6), ('national', 6), ('likely', 6), ('released', 6), ('school', 6), ('said', 6), ('10', 6), ('their', 6)]

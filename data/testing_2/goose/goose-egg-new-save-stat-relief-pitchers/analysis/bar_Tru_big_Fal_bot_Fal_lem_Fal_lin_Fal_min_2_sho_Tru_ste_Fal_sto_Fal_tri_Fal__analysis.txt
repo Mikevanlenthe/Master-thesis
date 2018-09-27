@@ -1,0 +1,58 @@
+Article: goose/goose-egg-new-save-stat-relief-pitchers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 359
+Raw number of types: 230
+Raw Type token ratio (higher = more diversity in language use): 0.6406685236768802
+
+100 most freq tokens before (pre)processing: 
+[('the', 382), (',', 371), ('<', 319), ('>', 319), ('of', 279), ('a', 194), ('in', 179), ('.', 171), ('percent', 162), ('and', 146), ('to', 135), ('’', 125), ('bar', 118), ('/bar', 118), ('that', 100), ('s', 91), ('nobarlabels', 83), ('than', 65), ('for', 64), ('is', 56), ('it', 53), ('(', 52), (')', 52), ('are', 50), ('more', 50), ('on', 44), ('at', 44), ('—', 44), ('as', 40), ('with', 39), ('about', 38), ('or', 37), ('was', 36), ('but', 36), ('by', 34), ('were', 33), ('paintings', 32), ('have', 30), ('?', 30), ('from', 29), ('only', 29), ('women', 29), ('“', 29), ('”', 29), ('other', 28), ('had', 28), ('one', 28), ('we', 27), ('films', 25), ('among', 24), ('all', 22), ('those', 22), ('who', 22), ('average', 21), ('be', 21), ('there', 20), ('an', 20), ('they', 19), ('men', 19), ('ross', 19), ('has', 18), ('when', 18), ('year', 17), ('data', 17), ('likely', 17), (':', 16), ('over', 16), ('$', 16), ('still', 16), ('least', 16), ('while', 15), ('t', 15), ('any', 15), ('people', 15), ('he', 15), ('been', 14), ('each', 14), ('out', 14), ('most', 14), ('this', 14), ('their', 14), ('three', 13), ('number', 13), ('much', 13), ('them', 13), ('two', 13), ('not', 13), ('just', 13), ('i', 12), ('how', 12), ('found', 12), ('same', 12), ('median', 12), ('what', 12), ('also', 12), ('�', 12), ('contain', 12), ('painted', 12), ('drivers', 11), ('2011', 11)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 316
+Number of types: 220
+Type token ratio: 0.6962025316455697
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'robb, rivera, aguilera, jesse, reardon, joe, sutter, ron, relief, commonplace, league, montgomery, run, john, hoffman, inning, mcgraw, meanwhile, miller, hernandez, game, jeff, mariano, lee, tug, roberto, huston, gene, randy, perranoski, side, leverage, closer, town, street, team, period, stu, papelbon, trevor, percival, mike, henke, share, situation, eckersley, era, bar, orosco, cordero, troy, gossage, mcdaniel, pitcher, wetteland, index, doug, rodriguez, ballgame, hoyt, marshall, number, bruce, rick, percent, franco, career, dennis, jonathan, rollie, francisco, tekulve')
+
+('VBZ', 'leads, records, has, enters, holds, gives, saves, throws')
+
+('JJ', 'todd, eighth, scoreless, tom, goose, wagner, threerun, complete, overall, kent, weighted, darold, randy, whole, ninth, sparky, lead, familiar, lyle, other, lindy, jose, final')
+
+('NNS', 'jones, mesa, starts, pitchers, knowles, runs, saves, lee, eggs, games, relievers, leaderboards, opportunities, myers, fingers, terms, situations')
+
+('VBP', 'mariano')
+
+('VBD', 'were, garber, converted, ended, had, wilhelm, smith')
+
+('JJR', 'wagner, more')
+
+('VB', 'put, decline, goose')
+
+('VBG', 'becoming, being')
+
+('VBN', 'compared, pulled, weighted')
+
+100 most freq tokens after processing: 
+[('the', 382), ('of', 279), ('bar', 236), ('in', 179), ('percent', 166), ('and', 146), ('to', 135), ('that', 100), ('than', 65), ('for', 64), ('is', 58), ('it', 53), ('are', 51), ('more', 50), ('on', 44), ('at', 44), ('as', 40), ('with', 39), ('about', 38), ('or', 37), ('was', 36), ('but', 36), ('by', 34), ('were', 33), ('paintings', 32), ('women', 31), ('have', 30), ('from', 29), ('only', 29), ('other', 28), ('had', 28), ('one', 28), ('we', 27), ('films', 26), ('among', 24), ('all', 22), ('those', 22), ('average', 22), ('who', 22), ('be', 21), ('there', 20), ('an', 20), ('they', 19), ('men', 19), ('ross', 19), ('year', 18), ('has', 18), ('when', 18), ('data', 17), ('likely', 17), ('out', 16), ('over', 16), ('still', 16), ('least', 16), ('while', 15), ('each', 15), ('any', 15), ('most', 15), ('2010', 15), ('10', 15), ('people', 15), ('he', 15), ('been', 14), ('this', 14), ('their', 14), ('three', 13), ('number', 13), ('much', 13), ('them', 13), ('two', 13), ('not', 13), ('just', 13), ('how', 12), ('2011', 12), ('found', 12), ('same', 12), ('11', 12), ('median', 12), ('what', 12), ('also', 12), ('25', 12), ('us', 12), ('contain', 12), ('painted', 12), ('13', 11), ('drivers', 11), ('14', 11), ('less', 11), ('compared', 11), ('chance', 11), ('better', 11), ('our', 11), ('top', 11), ('rated', 11), ('respondents', 11), ('35', 11), ('per', 11), ('world', 11), ('subjects', 11), ('characters', 11)]

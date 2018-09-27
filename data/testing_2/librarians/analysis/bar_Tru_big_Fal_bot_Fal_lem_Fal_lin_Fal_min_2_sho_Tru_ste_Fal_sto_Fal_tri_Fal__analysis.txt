@@ -1,0 +1,58 @@
+Article: librarians
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 148
+Raw number of types: 91
+Raw Type token ratio (higher = more diversity in language use): 0.6148648648648649
+
+100 most freq tokens before (pre)processing: 
+[('the', 337), (',', 332), ('<', 280), ('>', 280), ('of', 260), ('a', 175), ('.', 157), ('in', 151), ('percent', 142), ('and', 129), ('to', 121), ('’', 104), ('bar', 102), ('/bar', 102), ('that', 93), ('nobarlabels', 76), ('s', 73), ('than', 57), ('for', 56), ('is', 49), ('(', 48), (')', 48), ('more', 46), ('are', 45), ('at', 44), ('it', 44), ('on', 39), ('—', 39), ('about', 37), ('with', 35), ('but', 34), ('as', 34), ('was', 32), ('or', 32), ('paintings', 32), ('were', 30), ('have', 30), ('by', 30), ('?', 30), ('women', 29), ('from', 27), ('we', 27), ('one', 27), ('only', 26), ('had', 25), ('films', 25), ('“', 25), ('”', 25), ('other', 23), ('among', 23), ('all', 22), ('those', 22), ('there', 20), ('be', 19), ('who', 19), ('ross', 19), ('an', 18), ('men', 18), ('data', 17), ('has', 17), ('they', 17), ('year', 16), (':', 16), ('over', 16), ('average', 16), ('$', 16), ('likely', 16), ('least', 16), ('still', 15), ('when', 15), ('while', 14), ('been', 14), ('out', 14), ('any', 14), ('most', 14), ('each', 13), ('t', 13), ('them', 13), ('this', 13), ('he', 13), ('much', 12), ('found', 12), ('median', 12), ('two', 12), ('what', 12), ('just', 12), ('people', 12), ('also', 12), ('�', 12), ('contain', 12), ('painted', 12), ('drivers', 11), ('how', 11), ('2011', 11), ('same', 11), ('chance', 11), ('our', 11), ('not', 11), ('top', 11), ('rated', 11)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 120
+Number of types: 81
+Type token ratio: 0.675
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'public, association, state, rookie, concentration, calif, master, wage, bar, library, age, year, degree, librarian, fresno, funding, pay')
+
+('JJ', 'american, credentialed, annual, average, library, median, owensboro, constant, librarian, last')
+
+('VBD', 'were, fell, cut, held, had, was')
+
+('NNS', 'workers, salaries, men, directors, women, librarians, libraries')
+
+('JJR', 'fewer')
+
+('JJS', 'best, highest')
+
+('VB', 'be')
+
+('VBN', 'found, risen')
+
+('VBZ', 'is, earns, has')
+
+('VBG', 'according')
+
+100 most freq tokens after processing: 
+[('the', 337), ('of', 260), ('bar', 204), ('in', 151), ('percent', 146), ('and', 129), ('to', 121), ('that', 93), ('than', 57), ('for', 56), ('is', 51), ('are', 46), ('more', 46), ('at', 44), ('it', 44), ('on', 39), ('about', 37), ('with', 35), ('but', 34), ('as', 34), ('was', 32), ('or', 32), ('paintings', 32), ('women', 31), ('were', 30), ('have', 30), ('by', 30), ('from', 27), ('we', 27), ('one', 27), ('only', 26), ('films', 26), ('had', 25), ('other', 23), ('among', 23), ('all', 22), ('those', 22), ('there', 20), ('be', 19), ('who', 19), ('ross', 19), ('an', 18), ('men', 18), ('year', 17), ('data', 17), ('has', 17), ('average', 17), ('they', 17), ('over', 16), ('likely', 16), ('least', 16), ('most', 15), ('still', 15), ('when', 15), ('while', 14), ('been', 14), ('each', 14), ('out', 14), ('any', 14), ('10', 14), ('them', 13), ('this', 13), ('he', 13), ('much', 12), ('2011', 12), ('found', 12), ('2010', 12), ('median', 12), ('two', 12), ('what', 12), ('just', 12), ('people', 12), ('also', 12), ('contain', 12), ('painted', 12), ('13', 11), ('drivers', 11), ('how', 11), ('same', 11), ('chance', 11), ('11', 11), ('our', 11), ('not', 11), ('top', 11), ('rated', 11), ('their', 11), ('25', 11), ('us', 11), ('subjects', 11), ('characters', 11), ('number', 10), ('state', 10), ('according', 10), ('14', 10), ('less', 10), ('so', 10), ('film', 10), ('53', 10), ('20', 10), ('respondents', 10)]

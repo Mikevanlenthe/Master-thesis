@@ -1,0 +1,38 @@
+Article: congress-generic-ballot
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3
+Raw number of types: 3
+Raw Type token ratio (higher = more diversity in language use): 1.0
+
+100 most freq tokens before (pre)processing: 
+[('the', 339), (',', 333), ('<', 283), ('>', 283), ('of', 262), ('a', 175), ('.', 157), ('in', 151), ('percent', 142), ('and', 130), ('to', 123), ('’', 104), ('bar', 103), ('/bar', 103), ('that', 94), ('nobarlabels', 77), ('s', 73), ('than', 58), ('for', 56), ('is', 49), ('(', 48), (')', 48), ('more', 47), ('are', 45), ('at', 44), ('it', 44), ('on', 39), ('—', 39), ('about', 37), ('with', 35), ('but', 34), ('as', 34), ('was', 32), ('or', 32), ('paintings', 32), ('were', 30), ('have', 30), ('by', 30), ('?', 30), ('women', 29), ('from', 27), ('we', 27), ('one', 27), ('only', 26), ('had', 25), ('films', 25), ('“', 25), ('”', 25), ('other', 24), ('among', 23), ('all', 22), ('those', 22), ('there', 20), ('be', 19), ('who', 19), ('ross', 19), ('an', 18), ('men', 18), ('data', 17), ('has', 17), ('they', 17), ('year', 16), (':', 16), ('over', 16), ('average', 16), ('$', 16), ('likely', 16), ('least', 16), ('any', 15), ('still', 15), ('when', 15), ('while', 14), ('been', 14), ('out', 14), ('most', 14), ('each', 13), ('t', 13), ('them', 13), ('this', 13), ('he', 13), ('number', 12), ('much', 12), ('found', 12), ('median', 12), ('two', 12), ('what', 12), ('just', 12), ('people', 12), ('also', 12), ('�', 12), ('contain', 12), ('painted', 12), ('drivers', 11), ('how', 11), ('2011', 11), ('same', 11), ('chance', 11), ('our', 11), ('not', 11), ('top', 11)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 0
+Number of types: 0
+Type token ratio: 0
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+100 most freq tokens after processing: 
+[('the', 339), ('of', 262), ('bar', 206), ('in', 151), ('percent', 146), ('and', 130), ('to', 123), ('that', 94), ('than', 58), ('for', 56), ('is', 51), ('more', 47), ('are', 46), ('at', 44), ('it', 44), ('on', 39), ('about', 37), ('with', 35), ('but', 34), ('as', 34), ('was', 32), ('or', 32), ('paintings', 32), ('women', 31), ('were', 30), ('have', 30), ('by', 30), ('from', 27), ('we', 27), ('one', 27), ('only', 26), ('films', 26), ('had', 25), ('other', 24), ('among', 23), ('all', 22), ('those', 22), ('there', 20), ('be', 19), ('who', 19), ('ross', 19), ('an', 18), ('men', 18), ('year', 17), ('data', 17), ('has', 17), ('average', 17), ('they', 17), ('over', 16), ('likely', 16), ('least', 16), ('any', 15), ('most', 15), ('still', 15), ('when', 15), ('10', 15), ('while', 14), ('been', 14), ('each', 14), ('out', 14), ('them', 13), ('this', 13), ('he', 13), ('number', 12), ('much', 12), ('2011', 12), ('found', 12), ('2010', 12), ('median', 12), ('two', 12), ('what', 12), ('just', 12), ('people', 12), ('also', 12), ('us', 12), ('contain', 12), ('painted', 12), ('13', 11), ('drivers', 11), ('how', 11), ('same', 11), ('chance', 11), ('11', 11), ('our', 11), ('not', 11), ('top', 11), ('rated', 11), ('their', 11), ('25', 11), ('subjects', 11), ('characters', 11), ('state', 10), ('country', 10), ('according', 10), ('14', 10), ('less', 10), ('so', 10), ('film', 10), ('53', 10), ('20', 10)]

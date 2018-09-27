@@ -1,0 +1,54 @@
+Article: daily-show-guests
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 78
+Raw number of types: 58
+Raw Type token ratio (higher = more diversity in language use): 0.7435897435897436
+
+100 most freq tokens before (pre)processing: 
+[(',', 35), ('the', 27), ('<', 20), ('>', 20), ('in', 19), ('of', 12), ('drivers', 11), ('.', 10), ('that', 8), ('bar', 7), ('to', 7), ('a', 7), ('/bar', 7), ('nobarlabels', 6), ('and', 6), ('’', 6), ('insurance', 6), ('on', 6), ('$', 6), ('state', 5), ('(', 5), (')', 5), ('for', 5), ('average', 5), ('where', 4), ('are', 4), ('crashes', 4), ('was', 4), ('collisions', 4), ('were', 4), ('involved', 4), ('national', 4), ('than', 4), ('—', 4), ('s', 3), ('car', 3), ('each', 3), ('is', 3), ('but', 3), ('million', 3), ('billion', 3), ('miles', 3), ('traveled', 3), ('i', 2), ('your', 2), ('three', 2), ('data', 2), ('america', 2), ('number', 2), ('those', 2), ('how', 2), ('much', 2), ('companies', 2), ('out', 2), ('all', 2), ('across', 2), ('country', 2), ('at', 2), ('texas', 2), ('don', 2), ('t', 2), ('any', 2), ('them', 2), ('good', 2), ('according', 2), ('fatal', 2), ('north', 2), ('every', 2), ('latest', 2), ('far', 2), ('figures', 2), ('be', 2), ('new', 2), ('most', 2), ('expensive', 2), ('collision', 2), ('idahoans', 2), ('best', 2), ('come', 2), ('costing', 2), ('insurers', 2), ('2010.', 2), ('still', 2), ('they', 2), ('show', 2), ('politics', 2), ('percent', 2), ('want', 1), ('try', 1), ('answer', 1), ('question', 1), ('using', 1), ('types', 1), ('historic', 1), ('could', 1), ('indicate', 1), ('worst', 1), (':', 1), ('especially', 1), ('driver', 1)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 61
+Number of types: 49
+Type token ratio: 0.8032786885245902
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'show, fifth, government, actor, movie, emphasis, military, bar, year, percent')
+
+('NNS', 'politics, media, politicians, figures, guests')
+
+('VBP', 'caught')
+
+('VBD', 'left, was, came, were')
+
+('JJ', 'outsized, important')
+
+('VB', 'have, be, head')
+
+('VBN', 'sucked, affiliated')
+
+('VBG', 'promoting')
+
+100 most freq tokens after processing: 
+[('the', 27), ('in', 19), ('bar', 14), ('of', 12), ('drivers', 11), ('that', 8), ('to', 7), ('and', 6), ('insurance', 6), ('on', 6), ('state', 5), ('for', 5), ('average', 5), ('where', 4), ('are', 4), ('crashes', 4), ('was', 4), ('collisions', 4), ('were', 4), ('involved', 4), ('national', 4), ('than', 4), ('car', 3), ('each', 3), ('country', 3), ('is', 3), ('but', 3), ('million', 3), ('billion', 3), ('miles', 3), ('traveled', 3), ('your', 2), ('three', 2), ('data', 2), ('america', 2), ('number', 2), ('those', 2), ('how', 2), ('much', 2), ('companies', 2), ('out', 2), ('all', 2), ('across', 2), ('at', 2), ('texas', 2), ('don', 2), ('any', 2), ('them', 2), ('good', 2), ('according', 2), ('fatal', 2), ('north', 2), ('every', 2), ('2011', 2), ('latest', 2), ('far', 2), ('figures', 2), ('be', 2), ('new', 2), ('most', 2), ('expensive', 2), ('collision', 2), ('idahoans', 2), ('best', 2), ('come', 2), ('costing', 2), ('insurers', 2), ('2010', 2), ('still', 2), ('they', 2), ('show', 2), ('politics', 2), ('percent', 2), ('want', 1), ('try', 1), ('answer', 1), ('question', 1), ('using', 1), ('types', 1), ('historic', 1), ('could', 1), ('indicate', 1), ('worst', 1), ('especially', 1), ('driver', 1), ('negligent', 1), ('some', 1), ('way', 1), ('pay', 1), ('charge', 1), ('measures', 1), ('vary', 1), ('lot', 1), ('no', 1), ('consistently', 1), ('bottom', 1), ('do', 1), ('very', 1), ('well', 1), ('by', 1)]

@@ -1,0 +1,3 @@
+Article: bechdel
+
+Number of graphs: 3

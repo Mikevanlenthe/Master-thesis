@@ -1,0 +1,56 @@
+Article: endorsements-june-30
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 95
+Raw number of types: 57
+Raw Type token ratio (higher = more diversity in language use): 0.6
+
+100 most freq tokens before (pre)processing: 
+[(',', 131), ('the', 109), ('<', 100), ('>', 100), ('of', 79), ('in', 66), ('a', 49), ('.', 46), ('that', 45), ('to', 44), ('bar', 38), ('/bar', 38), ('and', 38), ('percent', 37), ('’', 32), ('than', 29), ('nobarlabels', 24), ('for', 24), ('films', 21), ('more', 20), ('women', 18), ('on', 17), ('(', 17), (')', 17), ('s', 16), ('are', 16), ('was', 16), ('at', 16), ('have', 15), ('is', 14), ('it', 13), ('other', 12), ('with', 11), ('all', 11), ('drivers', 11), ('but', 11), ('we', 11), ('as', 10), ('about', 10), ('had', 9), ('—', 9), ('found', 9), ('still', 9), ('they', 9), ('median', 9), ('only', 8), ('were', 8), ('$', 8), ('most', 8), ('less', 8), ('one', 8), ('“', 8), ('”', 8), ('boomers', 8), ('use', 8), ('among', 8), ('married', 8), ('from', 7), ('each', 7), ('those', 7), ('out', 7), ('be', 7), ('between', 7), ('test', 7), ('film', 7), ('who', 7), ('age', 7), ('children', 7), ('state', 6), ('much', 6), ('insurance', 6), ('any', 6), ('national', 6), ('over', 6), ('or', 6), ('an', 6), ('least', 6), ('said', 6), ('50', 6), ('days', 6), ('men', 6), ('year', 5), ('while', 5), ('been', 5), ('three', 5), ('where', 5), (':', 5), ('number', 5), ('t', 5), ('by', 5), ('involved', 5), ('average', 5), ('same', 5), ('compared', 5), ('when', 5), ('likely', 5), ('budget', 5), ('lower', 5), ('used', 5), ('drugs', 5)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = True
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 79
+Number of types: 48
+Type token ratio: 0.6075949367088608
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'summer, percentage, george, bush, number, share, endorsement, bar, point, romney, mccain, frontrunner, mitt, race, brother')
+
+('VBD', 'was, had')
+
+('VBN', 'considered, john')
+
+('JJ', 'endorsement, weak')
+
+('NNS', 'times, points')
+
+('VBZ', 'does, has')
+
+('VBG', 'struggling')
+
+('JJR', 'more')
+
+('VB', 'bush')
+
+100 most freq tokens after processing: 
+[('the', 109), ('of', 79), ('bar', 76), ('in', 66), ('that', 45), ('to', 44), ('percent', 38), ('and', 38), ('than', 29), ('for', 24), ('films', 21), ('more', 20), ('women', 18), ('on', 17), ('are', 16), ('was', 16), ('at', 16), ('have', 15), ('is', 14), ('it', 13), ('other', 12), ('with', 11), ('all', 11), ('drivers', 11), ('but', 11), ('we', 11), ('as', 10), ('about', 10), ('had', 9), ('found', 9), ('still', 9), ('they', 9), ('median', 9), ('only', 8), ('were', 8), ('most', 8), ('less', 8), ('one', 8), ('boomers', 8), ('use', 8), ('among', 8), ('married', 8), ('from', 7), ('each', 7), ('those', 7), ('out', 7), ('be', 7), ('between', 7), ('test', 7), ('film', 7), ('who', 7), ('50', 7), ('age', 7), ('days', 7), ('children', 7), ('year', 6), ('state', 6), ('much', 6), ('insurance', 6), ('any', 6), ('national', 6), ('over', 6), ('or', 6), ('an', 6), ('least', 6), ('said', 6), ('men', 6), ('while', 5), ('been', 5), ('three', 5), ('where', 5), ('number', 5), ('by', 5), ('involved', 5), ('average', 5), ('same', 5), ('compared', 5), ('when', 5), ('likely', 5), ('budget', 5), ('lower', 5), ('10', 5), ('used', 5), ('drugs', 5), ('college', 5), ('data', 4), ('crashes', 4), ('country', 4), ('collisions', 4), ('2012', 4), ('according', 4), ('higher', 4), ('half', 4), ('so', 4), ('movie', 4), ('gave', 4), ('bechdel', 4), ('released', 4), ('2013', 4), ('two', 4)]
