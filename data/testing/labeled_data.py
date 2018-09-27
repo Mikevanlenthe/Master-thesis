@@ -340,8 +340,10 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
         #create lists to store applied filters and options
         names, options = create_filter_names(filter_name)
 
+        short_file_name = "".join([x[:3]+"_" for x in filter_name.split("_")])
+
         # write article summaries
-        with open(new_filename+"/analysis/"+filter_name+"_analysis.txt", "w") as outfile:
+        with open(new_filename+"/analysis/"+short_file_name+"_analysis.txt", "w") as outfile:
             outfile.write("Article: "+new_filename+"\n\n")
             outfile.write("Tokenized by nltk.word_tokenize \n")
             outfile.write("Token analysis before pre-processing \n")
@@ -402,7 +404,7 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
     # print(len(scatter_data), "# of scatter labels found")
 
     # write general overview
-    with open("general_analysis_"+filter_name+"_analysis.txt", "w") as outfile:
+    with open("general_analysis_"+short_file_name+"_analysis.txt", "w") as outfile:
         outfile.write("NOTE: All tokens converted to lowercase!\n")
         outfile.write("Applied filters: \n")
         for name, option in zip(names, options):
@@ -450,13 +452,13 @@ def main():
     parser.add_argument('--bigrams', action='store_true', help='Use bigrams')
     parser.add_argument('--trigrams', action='store_true', help='Use trigrams')
     parser.add_argument('--showuniquepostagtokens', '--upos', action='store_true', help='Show unique pos tagged tokens instead of all pos tagged tokens')
-    parser.add_argument('--onlylinelabels', '--line', action='store_true', help='Use labeled line data as content')
-    parser.add_argument('--onlybarlabels', '--bar', action='store_true', help='Use labeled bar data as content')
+    parser.add_argument('--linelabelsonly', '--line', action='store_true', help='Use labeled line data as content')
+    parser.add_argument('--barlabelsonly', '--bar', action='store_true', help='Use labeled bar data as content')
     parser.add_argument('--bothlabels', '--both', action='store_true', help='Use labeled bar and line data as content')
 
     args = parser.parse_args()
 
-    generate_overview("./", remove_stopwords = args.stopwords, use_lemmatizer = args.lemmatize, use_stemmer = args.stemmer, minimum_token_length = args.minimumtokenlength, use_bigrams = args.bigrams, use_trigrams = args.trigrams, unique_pos_tokens = args.showuniquepostagtokens, use_bar_data = args.onlybarlabels, use_line_data = args.onlylinelabels, use_both_data = args.bothlabels, args = args)
+    generate_overview("./", remove_stopwords = args.stopwords, use_lemmatizer = args.lemmatize, use_stemmer = args.stemmer, minimum_token_length = args.minimumtokenlength, use_bigrams = args.bigrams, use_trigrams = args.trigrams, unique_pos_tokens = args.showuniquepostagtokens, use_bar_data = args.barlabelsonly, use_line_data = args.linelabelsonly, use_both_data = args.bothlabels, args = args)
     print("Done.")
 
 if __name__ == '__main__':
