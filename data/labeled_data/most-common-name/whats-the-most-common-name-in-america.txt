@@ -7,7 +7,7 @@ Nov. 20, 2014
 
 
 
-							Dear Mona, What’s The Most Common Name In America?						
+							Dear Mona, What’s The Most Common Name In America?
 
 
 
@@ -19,7 +19,7 @@ GitHub data at data/most-common-name
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
@@ -49,16 +49,16 @@ Dear Kieron,
 Well, this is a real head-scratcher — not least because if you want a list of the first and last names of Americans, you’d better have either a lot of time and money or work for the NSA. Unfortunately, I don’t fit either description, so I’m going to try to piece together two separate databases — one for first names and one for surnames. But as I’ll explain, those data sets can’t be stitched together so easily. If they could, we’d be able to say that “John Smith” is the third most common full name in America, but in reality it probably doesn’t even make it into the top 10.
 To get you an answer, my colleague Andrew Flowers and I tried a more sophisticated technique that reached a different conclusion: We think the most common name in America might very well be James Smith.
 Here’s how we got there.
-First off, first names. The Social Security Administration (SSA) has a database of all first names back to 1880. That date should tip you off to a problem — sadly none of the 1,746 babies christened “Minnie” in 1880 is still alive today. To take deaths into account, we looked at the number of babies born each year since 1910 and, using actuarial data on life expectancy, tried to figure out how many of them are still around. (Our boss, Nate Silver, used a similar methodology when he looked at the typical age of Americans with various names.)
+<bar>First off, first names. The Social Security Administration (SSA) has a database of all first names back to 1880. That date should tip you off to a problem — sadly none of the 1,746 babies christened “Minnie” in 1880 is still alive today. To take deaths into account, we looked at the number of babies born each year since 1910 and, using actuarial data on life expectancy, tried to figure out how many of them are still around. (Our boss, Nate Silver, used a similar methodology when he looked at the typical age of Americans with various names.)</bar>
 Factoring in life expectancy also corrects for the varying popularity of first names over time. For instance, women named Brittany tend to be younger than, say, those named Ethel.
 But a considerable chunk of people who live in the U.S. — 13 percent of the population — wasn’t born here, and their names aren’t included in the SSA’s database of baby names. We needed a way to count them, too, and started by focusing on immigrants who are Hispanic or Latino, because they make up almost half the country’s foreign-born population.
 We took the top 1,000 most-common first names from the adjusted SSA data, found out how common they were in each state as of 2013, and then calculated a “correction” factor based on how much more common the name was in states with higher Hispanic populations. (More methodological detail is in the footnotes.1)
 This way, we were able to make sure Hispanic and Latino immigrants were better reflected in the data. As a result, “Maria” moved up from the 97th most popular first name in America (according to the unadjusted SSA data) to 73rd.
-After those calculations, we had the number of Americans with just about any first name.2
+After those calculations, we had the number of Americans with just about any first name.
 
 You can see that nine of the top 10 names are labeled as male names in the data. That’s because the distribution of female names tends to be more diffuse (or, to use less statistical jargon, parents tend to be more imaginative when they name their baby girls). As a whole, American first names aren’t very diverse — almost 30 percent of Americans have a given name that appears in the top 100 list.
-Next up, surnames. This was a bit easier because the Census Bureau has a more straightforward database of the number of Americans with each surname.3 It was last published in 2000, which presents a problem because American nomenclature could have changed a lot in the past 14 years. To account for this, we looked at the ethnic breakdown of the U.S. population then and now, and the ethnic breakdown of individuals with those surnames. We were then able to adjust the number of instances of each surname by the growth in the racial/ethnic groups of those having that name.4 So, for example, the surname Smith is about 74 percent white, while the surname Garcia is 91 percent Hispanic. We then assumed the number of white Smiths grew since 2000 at the same rate as the overall white population (which was just over 1 percent). And ditto for Garcia — the Hispanic share of those named Garcia grew at the overall Hispanic rate. This caused a major reshuffling of the top surnames, because the Hispanic population grew a lot faster (by more than 50 percent) than the white population over this period. In the end, the proportional share of Garcias in the population goes up, while the share of Smiths goes down.
-Even after that calculation, it was clear that although many first names come in and out of fashion, surnames tend to change at a much slower rate. America’s most common surname by a mile is Smith — 2.5 million Americans have it, ahead of 2 million with the surname Johnson.
+Next up, surnames. This was a bit easier because the Census Bureau has a more straightforward database of the number of Americans with each surname. It was last published in 2000, which presents a problem because American nomenclature could have changed a lot in the past 14 years. To account for this, we looked at the ethnic breakdown of the U.S. population then and now, and the ethnic breakdown of individuals with those surnames. We were then able to adjust the number of instances of each surname by the growth in the racial/ethnic groups of those having that name. So, for example, the surname Smith is about 74 percent white, while the surname Garcia is 91 percent Hispanic. We then assumed the number of white Smiths grew since 2000 at the same rate as the overall white population (which was just over 1 percent). And ditto for Garcia — the Hispanic share of those named Garcia grew at the overall Hispanic rate. This caused a major reshuffling of the top surnames, because the Hispanic population grew a lot faster (by more than 50 percent) than the white population over this period. In the end, the proportional share of Garcias in the population goes up, while the share of Smiths goes down.
+<bar>Even after that calculation, it was clear that although many first names come in and out of fashion, surnames tend to change at a much slower rate. America’s most common surname by a mile is Smith — 2.5 million Americans have it, ahead of 2 million with the surname Johnson.</bar>
 
 Now the tricky bit. We turned those numbers on first names and surnames into probabilities by dividing them by the total number of people in the country. That showed that the chance of being called “Michael” is 1.1 in 100, and that the chance of having the surname “Smith” is 0.8 in 100. To figure out the probability of being called “Michael Smith,” we just multiplied those two to get 0.008 in 100.
 Here’s something you’ll rarely hear me say in this column: This methodology is crap (and it’s still crap even after all those adjustments for death rates, immigration and population growth). It assumes that you can treat a person’s first name and last name as independent variables, i.e. as though they have nothing to do with each other. But guessing the number of Americans with a particular first- and last-name combination isn’t like rolling two dice — both names are closely related to each other.

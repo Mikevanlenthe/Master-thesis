@@ -6,53 +6,53 @@ Filed under Mayweather vs. McGregor
 
 Get the data on GitHub
  MayMcG4x3
-For the nearly 15,000 people in Las Vegas’s T-Mobile Arena on Saturday night, and the millions more huddled around TVs across the world, the Floyd Mayweather–Conor McGregor fight was a roller coaster of emotions. They were anxious as pay-per-view technical problems pushed back the fight’s start. They were full of anticipation when the combatants finally emerged after months of hype. They were surprised when McGregor held his own, or seemed to hold his own, for a couple of rounds. They were thrilled when Mayweather finally started fighting. And they were exhausted by the end.
+For the nearly 15,000 people in Las Vegas's T-Mobile Arena on Saturday night, and the millions more huddled around TVs across the world, the Floyd Mayweather-Conor McGregor fight was a roller coaster of emotions. They were anxious as pay-per-view technical problems pushed back the fight's start. They were full of anticipation when the combatants finally emerged after months of hype. They were surprised when McGregor held his own, or seemed to hold his own, for a couple of rounds. They were thrilled when Mayweather finally started fighting. And they were exhausted by the end.
 
 How do we know all this? Emojis.
 
 The biggest punchline
 How the megafight played out on Twitter
-
-EMOJI	PERCENT	
-1	??	25.2%	
-–
-2	??	5.6	
-–
-3	??	3.4	
-–
-4	??	3.3	
-–
-5	??	2.5	
-–
-6	??	2.5	
-–
-7	????	2.4	
-–
-8	??	2.3	
-–
-9	??	2.1	
-–
-10	??	1.8	
-–
+<bar>
+EMOJI	PERCENT
+1	??	25.2%
+ï¿½
+2	??	5.6
+ï¿½
+3	??	3.4
+ï¿½
+4	??	3.3
+ï¿½
+5	??	2.5
+ï¿½
+6	??	2.5
+ï¿½
+7	????	2.4
+ï¿½
+8	??	2.3
+ï¿½
+9	??	2.1
+ï¿½
+10	??	1.8
+ï¿½
 The most-used emoji in over 240,000 tweets collected during the Mayweather-McGregor fight broadcast, from 12:05 a.m. to 1:30 a.m. EDT on Aug. 27.
-
+</bar>
 SOURCE: TWITTER STREAMING API
 
-We were monitoring Twitter on fight night, pulling tweets that contained fight-related hashtags — those that included #MayweatherVsMcgregor, for example. In the end, we collected about 200,000 fight-related tweets, of which more than 12,000 contained emojis. (To be clear, that’s a small enough sample that this emojinalysis might not make it through peer review.)1
-There were the likely frontrunners for most-used emoji: the ??, the ??, the ??. But the emoji of the fight was far and away the ??. (“Face with tears of joy.”)2
-Here’s how the night unfolded, emoji-wise. (All of the charts below show them on a four-minute rolling average.)
+We were monitoring Twitter on fight night, pulling tweets that contained fight-related hashtags ï¿½ those that included #MayweatherVsMcgregor, for example. In the end, we collected about 200,000 fight-related tweets, of which more than 12,000 contained emojis. (To be clear, that's a small enough sample that this emojinalysis might not make it through peer review.)
+There were the likely frontrunners for most-used emoji: the ??, the ??, the ??. But the emoji of the fight was far and away the ??. (ï¿½Face with tears of joy.ï¿½)2
+Here's how the night unfolded, emoji-wise. (All of the charts below show them on a four-minute rolling average.)
 
 
-For one thing, the fight was a sharply partisan affair. The majority of people in the arena appeared to be McGregor fans — he hails from Dublin and an Irish flag, worn cape-style, almost seemed like the evening’s dress code. But other fans were members of TMT — The Money Team — and loyal to “Money” Mayweather. Twitter’s loyalties came and went as the match progressed, with enthusiasm from either camp seemingly matching each fighter’s success.
+For one thing, the fight was a sharply partisan affair. The majority of people in the arena appeared to be McGregor fans ï¿½ he hails from Dublin and an Irish flag, worn cape-style, almost seemed like the evening's dress code. But other fans were members of TMT ï¿½ The Money Team ï¿½ and loyal to ï¿½Moneyï¿½ Mayweather. Twitterï¿½s loyalties came and went as the match progressed, with enthusiasm from either camp seemingly matching each fighterï¿½s success.
 
 
-To the surprise of many (of the neutral and pro-Mayweather viewers, anyway) McGregor won the first round. The next couple were washes, and a quarter of the way into the scheduled 12 rounds … the Irish underdog may have been winning! The Irish flags and shamrocks followed on Twitter. Things slowly (perhaps even ??ly) turned around as one of the best pound-for-pound boxers in history took control of the man making his pro debut — an outcome which was predicted by precisely everyone. Out came the emoji money bags.
+To the surprise of many (of the neutral and pro-Mayweather viewers, anyway) McGregor won the first round. The next couple were washes, and a quarter of the way into the scheduled 12 rounds ï¿½ the Irish underdog may have been winning! The Irish flags and shamrocks followed on Twitter. Things slowly (perhaps even ??ly) turned around as one of the best pound-for-pound boxers in history took control of the man making his pro debut ï¿½ an outcome which was predicted by precisely everyone. Out came the emoji money bags.
 
 
 By the sixth round, it seemed like only a matter of time until the old pro dismantled the newcomer. By the ninth it was clear Mayweather was going for the knockout. It came soon thereafter. Mayweather unleashed a vicious flurry of punches in the 10th and the ref stepped in, declaring Mayweather the victor and saving McGregor, who was somehow still on his feet, from further damage.
 
 
-It ended just over 37 minutes after it began. Five seconds later, Mayweather leapt up on the corner ropes, victorious — 50-0. Some observers declared it a satisfying spectacle. Others, McGregor chief among them, were frustrated with the finish. The emoji users on Twitter appeared to think the fight was, for the most part, ?? — especially as it heated up toward the end. While the result may never have been in question, this was a welcome outcome for many who viewed Mayweather’s last megafight against Manny Pacquiao as an epic ????????.
+It ended just over 37 minutes after it began. Five seconds later, Mayweather leapt up on the corner ropes, victorious ï¿½ 50-0. Some observers declared it a satisfying spectacle. Others, McGregor chief among them, were frustrated with the finish. The emoji users on Twitter appeared to think the fight was, for the most part, ?? ï¿½ especially as it heated up toward the end. While the result may never have been in question, this was a welcome outcome for many who viewed Mayweatherï¿½s last megafight against Manny Pacquiao as an epic ????????.
 
 
 
@@ -61,7 +61,7 @@ They laughed. They cried. And they laughed some more. And they cried some more.
 
 I'm crying?? #MayweatherVsMcGregor
 
-— Macaela Marin (@MacaelaMarin) August 27, 2017
+ï¿½ Macaela Marin (@MacaelaMarin) August 27, 2017
 
 Dhrumil Mehta is a database journalist at FiveThirtyEight focusing on politics.   @datadhrumil
 

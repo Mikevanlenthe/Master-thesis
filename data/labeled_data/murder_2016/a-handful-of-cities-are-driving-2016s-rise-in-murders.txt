@@ -7,7 +7,7 @@ Oct. 6, 2016
 
 
 
-							A Handful Of Cities Are Driving 2016’s Rise In Murders						
+							A Handful Of Cities Are Driving 2016’s Rise In Murders
 
 
 
@@ -19,7 +19,7 @@ GitHub data at data/murder_2016
 
 
 
-FacebookTwitterEmail  
+FacebookTwitterEmail
 
 
 
@@ -27,11 +27,11 @@ FacebookTwitterEmail
 
 
 
-Last year’s dramatic rise in the number of murders appears to be continuing in 2016 — but at least so far, this year’s increase is slower than last year’s and is more concentrated in a few big cities.
-Last month, the FBI released data showing that the estimated number of murders1 rose 10.8 percent nationwide between 2014 and 2015, the biggest increase in a quarter century. That rise has emerged as a major campaign issue, with Donald Trump citing it as evidence of a broader deterioration of law and order in the U.S. (The evidence for that claim is mixed: Other types of crime, including violent crime, haven’t seen the same increase, and murder rates are still well below 1990s levels.)
+<line>Last year’s dramatic rise in the number of murders appears to be continuing in 2016 — but at least so far, this year’s increase is slower than last year’s and is more concentrated in a few big cities.</line>
+<line>Last month, the FBI released data showing that the estimated number of murders rose 10.8 percent nationwide between 2014 and 2015, the biggest increase in a quarter century. That rise has emerged as a major campaign issue, with Donald Trump citing it as evidence of a broader deterioration of law and order in the U.S. (The evidence for that claim is mixed: Other types of crime, including violent crime, haven’t seen the same increase, and murder rates are still well below 1990s levels.)</line>
 Official figures for 2016 won’t be available for another year, but preliminary evidence suggests that the number of murders is up about 10.5 percent so far this year in big cities for which data is available; last year, the number went up 14.7 percent in that same group of cities.
-These figures come from a variety of sources: official websites, emails or phone calls to police departments, the Major Cities Chiefs Association (an organization of big-city police chiefs), or, in three cases, local media reports citing murder statistics from official sources. In all, I was able to gather data through at least midyear for 79 of America’s 83 big cities, which I’m defining as those with a population of at least 250,000.2 These cities collectively accounted for about 40 percent of U.S. murders last year. For 66 of the 83 cities, I was able to collect data through at least the end of August; those cities have seen an 11.1 percent increase in murders so far this year. (We’ve posted the full data set on our GitHub page.)
-The rise in murders in 2015 was widespread, with 64 percent of big cities seeing increases, many of them substantial. So far, the 2016 increase appears far more concentrated in just a few big cities. Chicago, in particular, has seen a dramatic rise in the number of murders; through early October, the city had seen 536 murders, up from 378 at the same time a year ago, a 42 percent increase.3 Orlando has also seen a big jump in murders, due largely to the Pulse nightclub attack that killed 49 people in June. Together, Chicago and Orlando account for close to half of the net increase in murders in cities for which data is available. (By contrast, the two cities with the biggest increase in the number of murders in 2015 accounted for a quarter of the net increase in the same group of big cities.) Excluding those two cities, murder would be up 6.3 percent this year in the remaining big cities in my data set. Meanwhile, several cities, including Milwaukee, Washington, D.C., and Baltimore, have seen substantial decreases in the number of murders so far this year after experiencing large rises in 2015.
+These figures come from a variety of sources: official websites, emails or phone calls to police departments, the Major Cities Chiefs Association (an organization of big-city police chiefs), or, in three cases, local media reports citing murder statistics from official sources. In all, I was able to gather data through at least midyear for 79 of America’s 83 big cities, which I’m defining as those with a population of at least 250,000. These cities collectively accounted for about 40 percent of U.S. murders last year. For 66 of the 83 cities, I was able to collect data through at least the end of August; those cities have seen an 11.1 percent increase in murders so far this year. (We’ve posted the full data set on our GitHub page.)
+<line>The rise in murders in 2015 was widespread, with 64 percent of big cities seeing increases, many of them substantial. So far, the 2016 increase appears far more concentrated in just a few big cities. Chicago, in particular, has seen a dramatic rise in the number of murders; through early October, the city had seen 536 murders, up from 378 at the same time a year ago, a 42 percent increase. Orlando has also seen a big jump in murders, due largely to the Pulse nightclub attack that killed 49 people in June. Together, Chicago and Orlando account for close to half of the net increase in murders in cities for which data is available. (By contrast, the two cities with the biggest increase in the number of murders in 2015 accounted for a quarter of the net increase in the same group of big cities.) Excluding those two cities, murder would be up 6.3 percent this year in the remaining big cities in my data set. Meanwhile, several cities, including Milwaukee, Washington, D.C., and Baltimore, have seen substantial decreases in the number of murders so far this year after experiencing large rises in 2015.</line>
 
 
 

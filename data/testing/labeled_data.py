@@ -99,7 +99,7 @@ def create_filter_names(args_filter_options):
     return names, options
 
 
-def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token_length, use_stemmer, use_bigrams, use_trigrams, unique_pos_tokens, args):
+def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token_length, use_stemmer, use_bigrams, use_trigrams, unique_pos_tokens, use_bar_data, use_line_data, use_both_data, args):
     print("Running pre-processing in following order:")
     print("Lowercase text")
     print("Tokenize by nltk.word_tokenize")
@@ -148,7 +148,7 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
 
         ########### open txt file from article:
         infile = open(txt_file, 'r', encoding="utf8", errors='ignore')
-        content = infile.read().lower()
+        content = infile.read().lower() ## lowercase pre-processing and store content as a string
 
         # create soup to scrape HTML label tags from content texts
         soup = BeautifulSoup(content, "html5lib")
@@ -169,10 +169,25 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
         for text in soup.find_all('scatter'):
             scatter_data.append(text)
 
-        # print(line_data)
+        ## set labeled data as content
+        if len(bar_data) or len(line_data) > 0:
+            content = ""
+            if use_bar_data:
+                for bar in bar_data:
+                    content = content + str(bar)
+
+            if use_line_data:
+                for line in line_data:
+                    content = content + str(line)
+
+            if use_both_data:
+                for bar in bar_data:
+                    content = content + str(bar)
+                for line in line_data:
+                    content = content + str(line)
 
         ########### tokenize by NLTK
-        tokens = nltk.word_tokenize(content)
+        tokens = nltk.word_tokenize(content) # = reading whole article text
 
         # count raw tokens by NLTK tokenizer
         # NOTE, count for all articles
@@ -242,19 +257,20 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
         for token in tokens:
             c_processed[token] += 1
 
+        #####begin article methods######
         ######### article 1:
-        """ article simple bar charts:
-        We compiled a set of helpful verbs and adjectives
-        (identified through our corpus study, WordNet [67] and a thesaurus [48]) and
-        manually divided them into similarity classes; for example, the verbs rise and
-        soar were placed in the same class, whereas the verbs lag and trail were placed in
-        a different class.
-        Adjectives derived from verbs, such as soaring, are treated as
-        verbs. We then used a part-of-speech tagger and a stemmer to implement a type
-        of shallow processing of captions to identify ) the presence of one of our verb
-        or adjective classes (adjectives and nouns derived from verbs, such as “soaring”,
-        are reduced to their root form and treated as verbs) and 2) nouns which match
-        the label of a data element in the bar chart. """
+        # """ article simple bar charts:
+        # We compiled a set of helpful verbs and adjectives
+        # (identified through our corpus study, WordNet [67] and a thesaurus [48]) and
+        # manually divided them into similarity classes; for example, the verbs rise and
+        # soar were placed in the same class, whereas the verbs lag and trail were placed in
+        # a different class.
+        # Adjectives derived from verbs, such as soaring, are treated as
+        # verbs. We then used a part-of-speech tagger and a stemmer to implement a type
+        # of shallow processing of captions to identify ) the presence of one of our verb
+        # or adjective classes (adjectives and nouns derived from verbs, such as “soaring”,
+        # are reduced to their root form and treated as verbs) and 2) nouns which match
+        # the label of a data element in the bar chart. """
 
         # for token in pos_tags_in_article:
         #     c_article1_raw[token] += 1
@@ -263,8 +279,10 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
         #     stemmed = stemmer.stem(token)
         #     c_article1[stemmed] += 1
 
+        #####end article methods######
+
         ######################################################
-        #create directory name to store analysis in
+        #create directory name(s) where to store analysis file(s)
         new_filename = str(filename[1])
         new_filename = new_filename.split("/")
         new_filename = "".join(new_filename[1:-1])
@@ -344,12 +362,23 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
         outfile.write("Raw 100 most freq tokens: \n"+str(c_raw_total.most_common(100))+"\n\n")
         outfile.write("Processed 100 most freq tokens: \n"+str(c_processed_total.most_common(100))+"\n")
 
+    #####begin article methods######
+    # generate overview of article methods
     # print("Article 1 token count: \n", c_article1_raw.most_common(50))
     # print()
     # print("Article 1 stemmed token count: \n", c_article1.most_common(50))
+    #####end article methods######
 
-    for line in bar_data:
-        print(line)
+    #  print labeled data
+    # for bar in bar_data:
+    #     print(bar)
+    #
+    # for line in line_data:
+    #     print(line)
+    #
+    # for pie in pie_data:
+    #     print(pie)
+
 
 def main():
     # Read arguments
@@ -361,9 +390,13 @@ def main():
     parser.add_argument('--bigrams', action='store_true', help='Use bigrams')
     parser.add_argument('--trigrams', action='store_true', help='Use trigrams')
     parser.add_argument('--showuniquepostagtokens', '--upos', action='store_true', help='Show unique pos tagged tokens instead of all pos tagged tokens')
+    parser.add_argument('--line', action='store_true', help='Use labeled line data as content')
+    parser.add_argument('--bar', action='store_true', help='Use labeled bar data as content')
+    parser.add_argument('--barline', action='store_true', help='Use labeled bar and line data as content')
+
     args = parser.parse_args()
 
-    generate_overview("./", remove_stopwords = args.stopwords, use_lemmatizer = args.lemmatize, use_stemmer = args.stemmer, minimum_token_length = args.minimumtokenlength, use_bigrams = args.bigrams, use_trigrams = args.trigrams, unique_pos_tokens = args.showuniquepostagtokens, args = args)
+    generate_overview("./", remove_stopwords = args.stopwords, use_lemmatizer = args.lemmatize, use_stemmer = args.stemmer, minimum_token_length = args.minimumtokenlength, use_bigrams = args.bigrams, use_trigrams = args.trigrams, unique_pos_tokens = args.showuniquepostagtokens, use_bar_data = args.bar, use_line_data = args.line, use_both_data = args.barline args = args)
     print("Done.")
 
 if __name__ == '__main__':
