@@ -1,0 +1,60 @@
+Article: bob-ross
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 939
+Raw number of types: 309
+Raw Type token ratio (higher = more diversity in language use): 0.329073482428115
+
+100 most freq tokens before (pre)processing: 
+[('the', 218), (',', 207), ('<', 205), ('>', 205), ('of', 182), ('a', 107), ('.', 98), ('in', 95), ('and', 84), ('nobarlabels', 77), ('percent', 73), ('to', 72), ('’', 69), ('that', 68), ('bar', 64), ('/bar', 64), ('s', 45), ('than', 38), ('more', 34), ('is', 32), ('paintings', 32), ('for', 29), ('on', 28), ('are', 26), ('at', 26), ('about', 26), ('films', 25), ('was', 24), ('with', 24), ('one', 24), ('it', 23), ('we', 23), ('women', 23), ('only', 22), ('were', 21), ('(', 20), (')', 20), ('—', 19), ('have', 19), ('ross', 19), ('but', 17), ('from', 17), ('as', 17), ('other', 16), ('those', 15), ('data', 14), ('all', 14), ('there', 14), ('or', 14), ('by', 13), ('had', 13), ('“', 13), ('”', 13), ('painted', 12), ('drivers', 11), (':', 11), ('each', 11), ('t', 11), ('any', 11), ('be', 11), ('found', 11), ('what', 11), ('least', 11), ('who', 11), ('among', 11), ('subjects', 11), ('characters', 11), ('contain', 11), ('while', 10), ('$', 10), ('an', 10), ('median', 10), ('people', 10), ('color', 10), ('cluster', 10), ('i', 9), ('number', 9), ('has', 9), ('over', 9), ('average', 9), ('most', 9), ('when', 9), ('two', 9), ('not', 9), ('also', 9), ('per', 9), ('how', 8), ('don', 8), ('still', 8), ('they', 8), ('between', 8), ('boomers', 8), ('use', 8), ('just', 8), ('times', 8), ('he', 8), ('white', 8), ('?', 8), ('some', 7), ('them', 7)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+bigrams = False
+bothlabels = False
+lemmatize = False
+minimumtokenlength = 2
+onlybarlabels = True
+onlylinelabels = False
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 739
+Number of types: 286
+Type token ratio: 0.3870094722598105
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'season, kind, example, disrepair, river, analysis, pbs, host, almighty, question, feature, snow, image, ocean, barn, cloud, sense, beach, focus, elaborate, probability, contain, painting, frame, lighthouse, series, program, bar, bridge, ground, algorithm, percent, set, theme, joy, sun, cabin, tree, winter, stream, scene, steve, dock, friend, lot, lake, whitespace, mountain, percentage, work, manmade, bob, banner, cluster, water, waterfall, simple, windmill, ross, fence, ran, foreground, chance, time, don')
+
+('VBP', 'tell, have, do, identify, appear, know, bar, feature, analyze, ross, make, are, contain, steve')
+
+('NNS', 'conifers, tags, friends, boats, cabins, clusterings, clouds, results, hills, cliffs, paintings, kinds, waves, trees, groupings, flowers, clusters, mountains, paints, times, mills, bridges, fences, lakes, winners, episodes, structures, data, states, barns, scenes, rocks')
+
+('JJ', 'intuitive, footy, excellent, coniferous, almighty, likely, snow, entire, ocean, happy, cumulus, deciduous, clouds, final, few, complex, seaside, rare, main, common, favorite, iconic, tree, oval, sixty, possible, mixed, painted, whole, similar, same, basic, lake, second, amenable, several, little, average, helpful, broad, various, ross, clear, first, many, cirrus, steve')
+
+('VBG', 'charming, clustering, according, hoping, defining, painting, containing')
+
+('VBD', 'knew, choppy, preferred, did, wanted, used, set, painted, were, seemed, had, was')
+
+('JJS', 'least, guest')
+
+('VBZ', 'mountains, appears, kmeans, snow, ross, makes, has, falls, is, images')
+
+('VBN', 'tagged, given, painted, ovalframed, lake, covered, appeared, featured')
+
+('VB', 'identify, do, know, let, look, feature, find, see, prefer, mountain, paint, divide')
+
+('JJR', 'more, snow')
+
+100 most freq tokens after processing: 
+[('the', 218), ('of', 182), ('bar', 128), ('in', 95), ('and', 84), ('percent', 74), ('to', 72), ('that', 68), ('than', 38), ('is', 34), ('more', 34), ('paintings', 32), ('for', 29), ('on', 28), ('are', 27), ('at', 26), ('about', 26), ('films', 25), ('was', 24), ('with', 24), ('women', 24), ('one', 24), ('it', 23), ('we', 23), ('only', 22), ('were', 21), ('have', 19), ('ross', 19), ('but', 17), ('from', 17), ('as', 17), ('other', 16), ('those', 15), ('data', 14), ('all', 14), ('there', 14), ('or', 14), ('by', 13), ('had', 13), ('each', 12), ('painted', 12), ('drivers', 11), ('any', 11), ('be', 11), ('found', 11), ('what', 11), ('least', 11), ('who', 11), ('among', 11), ('subjects', 11), ('characters', 11), ('contain', 11), ('while', 10), ('average', 10), ('most', 10), ('an', 10), ('median', 10), ('people', 10), ('color', 10), ('cluster', 10), ('number', 9), ('has', 9), ('over', 9), ('when', 9), ('two', 9), ('not', 9), ('also', 9), ('per', 9), ('how', 8), ('don', 8), ('dc', 8), ('still', 8), ('they', 8), ('between', 8), ('boomers', 8), ('use', 8), ('days', 8), ('just', 8), ('times', 8), ('he', 8), ('white', 8), ('some', 7), ('country', 7), ('them', 7), ('same', 7), ('less', 7), ('compared', 7), ('year', 7), ('chance', 7), ('likely', 7), ('test', 7), ('this', 7), ('50', 7), ('high', 7), ('percentage', 7), ('given', 7), ('three', 6), ('where', 6), ('state', 6), ('much', 6)]

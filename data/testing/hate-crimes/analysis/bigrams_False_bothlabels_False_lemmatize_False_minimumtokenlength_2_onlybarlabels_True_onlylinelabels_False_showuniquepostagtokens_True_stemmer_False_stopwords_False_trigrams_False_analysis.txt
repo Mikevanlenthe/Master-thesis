@@ -1,0 +1,38 @@
+Article: hate-crimes
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3
+Raw number of types: 3
+Raw Type token ratio (higher = more diversity in language use): 1.0
+
+100 most freq tokens before (pre)processing: 
+[('<', 176), ('>', 176), (',', 175), ('the', 174), ('of', 130), ('in', 79), ('nobarlabels', 70), ('to', 60), ('and', 60), ('.', 59), ('a', 59), ('bar', 53), ('/bar', 53), ('that', 49), ('’', 48), ('percent', 36), ('than', 34), ('more', 29), ('s', 25), ('is', 25), ('for', 25), ('films', 25), ('was', 22), ('on', 21), ('women', 20), ('are', 19), ('(', 18), (')', 18), ('at', 18), ('about', 17), ('other', 16), ('from', 16), ('with', 16), ('—', 15), ('as', 15), ('it', 15), ('have', 14), ('those', 13), ('all', 13), ('but', 13), ('were', 13), ('only', 13), ('we', 13), ('by', 12), ('one', 12), ('data', 11), ('drivers', 11), ('any', 11), ('found', 11), ('subjects', 11), ('t', 10), ('had', 10), ('$', 10), ('or', 10), ('median', 10), ('“', 10), ('”', 10), ('who', 10), ('people', 10), ('color', 10), ('number', 9), ('be', 9), ('among', 9), ('each', 8), ('over', 8), ('average', 8), ('still', 8), ('they', 8), ('between', 8), ('boomers', 8), ('use', 8), ('white', 8), (':', 7), ('don', 7), ('has', 7), ('most', 7), ('less', 7), ('compared', 7), ('test', 7), ('not', 7), ('high', 7), ('days', 7), ('just', 7), ('per', 7), ('i', 6), ('three', 6), ('where', 6), ('state', 6), ('much', 6), ('insurance', 6), ('country', 6), ('national', 6), ('while', 6), ('so', 6), ('when', 6), ('an', 6), ('like', 6), ('film', 6), ('two', 6), ('this', 6)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+bigrams = False
+bothlabels = False
+lemmatize = False
+minimumtokenlength = 2
+onlybarlabels = True
+onlylinelabels = False
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 0
+Number of types: 0
+Type token ratio: 0
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+100 most freq tokens after processing: 
+[('the', 174), ('of', 130), ('bar', 106), ('in', 79), ('to', 60), ('and', 60), ('that', 49), ('percent', 37), ('than', 34), ('more', 29), ('is', 26), ('for', 25), ('films', 25), ('was', 22), ('on', 21), ('women', 21), ('are', 20), ('at', 18), ('about', 17), ('other', 16), ('from', 16), ('with', 16), ('as', 15), ('it', 15), ('have', 14), ('those', 13), ('all', 13), ('but', 13), ('were', 13), ('only', 13), ('we', 13), ('by', 12), ('one', 12), ('data', 11), ('drivers', 11), ('any', 11), ('found', 11), ('subjects', 11), ('had', 10), ('or', 10), ('median', 10), ('who', 10), ('people', 10), ('color', 10), ('number', 9), ('average', 9), ('be', 9), ('among', 9), ('each', 8), ('over', 8), ('most', 8), ('still', 8), ('they', 8), ('between', 8), ('boomers', 8), ('use', 8), ('days', 8), ('white', 8), ('country', 7), ('don', 7), ('has', 7), ('less', 7), ('compared', 7), ('year', 7), ('test', 7), ('not', 7), ('high', 7), ('just', 7), ('per', 7), ('three', 6), ('where', 6), ('state', 6), ('much', 6), ('insurance', 6), ('national', 6), ('while', 6), ('so', 6), ('when', 6), ('an', 6), ('like', 6), ('film', 6), ('two', 6), ('sample', 6), ('this', 6), ('50', 6), ('respondents', 6), ('been', 6), ('some', 5), ('how', 5), ('there', 5), ('involved', 5), ('same', 5), ('half', 5), ('you', 5), ('21', 5), ('released', 5), ('budget', 5), ('lower', 5), ('least', 5), ('our', 5)]

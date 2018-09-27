@@ -33,12 +33,21 @@ def find_image_files(directory):
 
 def remove_article_words(tokens):
         clean_tokens = []
-        word_filter = ['facebooktwitteremail', '']
+        word_filter = ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
         for token in tokens:
             if token not in word_filter:
                 clean_tokens.append(token)
 
         return clean_tokens, word_filter
+
+# def remove_labels(tokens):
+#         clean_tokens = []
+#         word_filter = ['<bar>', '<line>', '</bar>', '</line>', '<nolabels>', '<nobarlabels>', '<nolinelabels>']
+#         for token in tokens:
+#             if token not in word_filter:
+#                 clean_tokens.append(token)
+#
+#         return clean_tokens, word_filter
 
 
 def make_sure_path_exists(path):
@@ -53,7 +62,7 @@ def remove_punctuation(tokens):
     clean_tokens = []
     # keep '%' in punctuation
     punctuation = ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', "=", '?',
-        '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'"]  # don't remove < and >
+        '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", "<", ">"]  # don't remove < and >
 
     for token in tokens:
         clean_token = ""
@@ -134,17 +143,31 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
     c_processed = Counter()  # count tokens for each article after pre-processing
     c_processed_total = Counter()  # count all article tokens after pre-processing
 
-    # labels
-    bar_data = []
-    pie_data = []
-    line_data = []
-    scatter_data = []
+    # create labeled data lists to store all labeled data
+    all_line_label_data = []  # store all line labeled data
+    all_bar_label_data = []  # store all bar labeled data
+
+    # create dictionary to store all pos tags
+    all_pos_dict = defaultdict(list)
+
+    # data load notifier
+    if use_both_data or use_bar_data or use_line_data:
+        print("Using labeled data only")
+    else:
+        print("Using whole article text")
+
+    print()
 
     # scrape tokens from articles in txt format
     for txt_file in txt_files:
         filename = txt_file.split(".")  #  save filename
         print("Read file:", filename[1])
 
+        # create label arrays and clean them for each article
+        bar_data = []
+        pie_data = []
+        line_data = []
+        scatter_data = []
 
         ########### open txt file from article:
         infile = open(txt_file, 'r', encoding="utf8", errors='ignore')
@@ -156,10 +179,12 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
         # find all bar label texts
         for text in soup.find_all('bar'):
             bar_data.append(text)
+            all_bar_label_data.append(text)
 
         # find all line label texts
         for text in soup.find_all('line'):
             line_data.append(text)
+            all_line_label_data.append(text)
 
         # find all pie label texts
         for text in soup.find_all('pie'):
@@ -170,24 +195,37 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
             scatter_data.append(text)
 
         ## set labeled data as content
-        if len(bar_data) or len(line_data) > 0:
-            content = ""
-            if use_bar_data:
+        if use_bar_data:
+            if len(bar_data) > 0:
+                content = ""
                 for bar in bar_data:
                     content = content + str(bar)
+            else:
+                content = "<nobarlabels>"
+                # print("No bar labels in this article")
 
-            if use_line_data:
+        if use_line_data:
+            if len(line_data) > 0:
+                content = ""
                 for line in line_data:
                     content = content + str(line)
+            else:
+                content = "<nolinelabels>"
+                # print("No line labels in this article")
 
-            if use_both_data:
+        if use_both_data:
+            if (len(bar_data) > 0 or len(line_data) > 0):
+                content = ""
                 for bar in bar_data:
                     content = content + str(bar)
                 for line in line_data:
                     content = content + str(line)
+            else:
+                content = "<nolabels>"
+                # print("No labels in this article")
 
         ########### tokenize by NLTK
-        tokens = nltk.word_tokenize(content) # = reading whole article text
+        tokens = nltk.word_tokenize(content) # = reading whole article text or labeled data (depends on arguments in terminal)
 
         # count raw tokens by NLTK tokenizer
         # NOTE, count for all articles
@@ -234,18 +272,22 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
         if use_stemmer:
             tokens = [stemmer.stem(token) for token in tokens]
 
-        # pos tagging
+        # pos tagging each article
         pos_tags = nltk.pos_tag(tokens)
         pos_dict = defaultdict(list)
         for pos_tag in pos_tags:
             tag = pos_tag[1]
             token = pos_tag[0]
             pos_dict[tag].append(token)
+            all_pos_dict[tag].append(token)
 
         ########### token information
         total_tokens = len(tokens)
         types = len(set(tokens))
-        ttr = types/total_tokens
+        if total_tokens + types > 0:
+            ttr = types/total_tokens
+        else:
+            ttr = 0
 
         ########### count tokens after processing
         # NOTE, count for all articles
@@ -305,7 +347,7 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
             outfile.write("Token analysis before pre-processing \n")
             outfile.write("Raw number of tokens: "+str(raw_total_tokens)+"\n")
             outfile.write("Raw number of types: "+str(raw_types)+"\n")
-            outfile.write("Raw Type token ratio: "+str(raw_ttr)+"\n\n")  # higher = more diverse in language
+            outfile.write("Raw Type token ratio (higher = more diversity in language use): "+str(raw_ttr)+"\n\n")  # higher = more diverse in language
             outfile.write("100 most freq tokens before (pre)processing: \n"+str(c_raw.most_common(100))+"\n\n")
 
             outfile.write("Applied pre-processing:\n")
@@ -342,24 +384,42 @@ def generate_overview(read_path, remove_stopwords, use_lemmatizer, minimum_token
             outfile.write("Article: "+new_filename+"\n\n")
             outfile.write("Number of graphs: "+str(len(image_files))+"\n")
 
+    print("Done reading.")
+
     ####### print results in terminal
     print()
+    print("----------------------------------------------------------------------")
+    print("Overview of all data")
     print("NOTE: All tokens converted to lowercase!")
     print()
     print("Raw token count: \n", c_raw_total.most_common(100))
     print()
     print("Processed token count: \n", c_processed_total.most_common(100))
     print()
-    print(len(line_data), "# of line labels found")
-    print(len(bar_data), "# of bar labels found")
-    print(len(pie_data), "# of pie labels found")
-    print(len(scatter_data), "# of scatter labels found")
+    print(len(all_line_label_data), "# of line labels found")
+    print(len(all_bar_label_data), "# of bar labels found")
+    # print(len(pie_data), "# of pie labels found")
+    # print(len(scatter_data), "# of scatter labels found")
 
     # write general overview
-    with open("general_analysis"+filter_name+".txt", "w") as outfile:
+    with open("general_analysis_"+filter_name+"_analysis.txt", "w") as outfile:
         outfile.write("NOTE: All tokens converted to lowercase!\n")
-        outfile.write("Applied filters: "+filter_name+"\n\n")
+        outfile.write("Applied filters: \n")
+        for name, option in zip(names, options):
+            outfile.write(name+" = "+option+"\n")
+        outfile.write("\n")
         outfile.write("Raw 100 most freq tokens: \n"+str(c_raw_total.most_common(100))+"\n\n")
+
+        outfile.write("Used nouns, verbs and adjectives: \n")
+        outfile.write("(tokens separated by , ) \n")
+        for tag, tokens in all_pos_dict.items():
+            if tag.startswith("NN") or tag.startswith("V") or tag.startswith("J"):
+                # enable to show unique pos tagged tokens in analysis file
+                if unique_pos_tokens:
+                    tokens = set(tokens)
+                line = tag,', '.join(tokens)
+                outfile.write(str(line)+'\n\n')
+
         outfile.write("Processed 100 most freq tokens: \n"+str(c_processed_total.most_common(100))+"\n")
 
     #####begin article methods######
@@ -386,17 +446,17 @@ def main():
     parser.add_argument('--stopwords', action='store_true', help='Filter stop words')
     parser.add_argument('--lemmatize', action='store_true', help='Use lemmatizer')
     parser.add_argument('--stemmer', action='store_true', help='Use stemmer')
-    parser.add_argument('--minimumtokenlength', '--tl', type=int, default=1, help='Set minimum token length')
+    parser.add_argument('--minimumtokenlength', '--tl', type=int, default=2, help='Set minimum token length')
     parser.add_argument('--bigrams', action='store_true', help='Use bigrams')
     parser.add_argument('--trigrams', action='store_true', help='Use trigrams')
     parser.add_argument('--showuniquepostagtokens', '--upos', action='store_true', help='Show unique pos tagged tokens instead of all pos tagged tokens')
-    parser.add_argument('--line', action='store_true', help='Use labeled line data as content')
-    parser.add_argument('--bar', action='store_true', help='Use labeled bar data as content')
-    parser.add_argument('--barline', action='store_true', help='Use labeled bar and line data as content')
+    parser.add_argument('--onlylinelabels', '--line', action='store_true', help='Use labeled line data as content')
+    parser.add_argument('--onlybarlabels', '--bar', action='store_true', help='Use labeled bar data as content')
+    parser.add_argument('--bothlabels', '--both', action='store_true', help='Use labeled bar and line data as content')
 
     args = parser.parse_args()
 
-    generate_overview("./", remove_stopwords = args.stopwords, use_lemmatizer = args.lemmatize, use_stemmer = args.stemmer, minimum_token_length = args.minimumtokenlength, use_bigrams = args.bigrams, use_trigrams = args.trigrams, unique_pos_tokens = args.showuniquepostagtokens, use_bar_data = args.bar, use_line_data = args.line, use_both_data = args.barline args = args)
+    generate_overview("./", remove_stopwords = args.stopwords, use_lemmatizer = args.lemmatize, use_stemmer = args.stemmer, minimum_token_length = args.minimumtokenlength, use_bigrams = args.bigrams, use_trigrams = args.trigrams, unique_pos_tokens = args.showuniquepostagtokens, use_bar_data = args.onlybarlabels, use_line_data = args.onlylinelabels, use_both_data = args.bothlabels, args = args)
     print("Done.")
 
 if __name__ == '__main__':

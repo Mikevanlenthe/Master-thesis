@@ -1,0 +1,38 @@
+Article: poll-of-pollsters/top-pollsters-expect-clinton-to-win
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3
+Raw number of types: 3
+Raw Type token ratio (higher = more diversity in language use): 1.0
+
+100 most freq tokens before (pre)processing: 
+[(',', 111), ('the', 103), ('<', 98), ('>', 98), ('of', 70), ('in', 56), ('that', 41), ('.', 38), ('a', 35), ('bar', 33), ('and', 33), ('/bar', 33), ('nobarlabels', 32), ('to', 32), ('’', 32), ('than', 27), ('films', 21), ('more', 20), ('percent', 20), ('for', 19), ('s', 17), ('(', 16), (')', 16), ('was', 15), ('is', 15), ('on', 15), ('at', 14), ('women', 13), ('other', 12), ('drivers', 11), ('are', 11), ('—', 11), ('it', 11), ('we', 11), ('all', 9), ('found', 9), ('median', 9), ('any', 8), ('average', 8), ('$', 8), ('as', 8), ('have', 8), ('boomers', 8), ('use', 8), ('each', 7), ('but', 7), ('were', 7), ('had', 7), ('be', 7), ('most', 7), ('with', 7), ('between', 7), ('test', 7), ('days', 7), ('where', 6), ('state', 6), ('insurance', 6), ('country', 6), ('t', 6), ('national', 6), ('from', 6), ('less', 6), ('still', 6), ('only', 6), ('about', 6), ('one', 6), ('among', 6), ('year', 6), ('number', 5), ('those', 5), ('by', 5), ('involved', 5), ('over', 5), ('they', 5), ('compared', 5), ('an', 5), ('budget', 5), ('lower', 5), ('said', 5), ('who', 5), ('50', 5), ('used', 5), ('drugs', 5), ('age', 5), ('countries', 5), ('three', 4), ('data', 4), ('crashes', 4), ('out', 4), ('collisions', 4), ('2012', 4), ('while', 4), ('higher', 4), ('so', 4), ('you', 4), ('when', 4), ('or', 4), ('bechdel', 4), ('2013', 4), ('film', 4)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+bigrams = False
+bothlabels = False
+lemmatize = False
+minimumtokenlength = 2
+onlybarlabels = True
+onlylinelabels = False
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 0
+Number of types: 0
+Type token ratio: 0
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+100 most freq tokens after processing: 
+[('the', 103), ('of', 70), ('bar', 66), ('in', 56), ('that', 41), ('and', 33), ('to', 32), ('than', 27), ('percent', 21), ('films', 21), ('more', 20), ('for', 19), ('was', 15), ('is', 15), ('on', 15), ('at', 14), ('women', 13), ('other', 12), ('drivers', 11), ('are', 11), ('it', 11), ('we', 11), ('all', 9), ('found', 9), ('median', 9), ('any', 8), ('average', 8), ('as', 8), ('have', 8), ('boomers', 8), ('use', 8), ('days', 8), ('each', 7), ('country', 7), ('but', 7), ('were', 7), ('had', 7), ('be', 7), ('most', 7), ('with', 7), ('year', 7), ('between', 7), ('test', 7), ('where', 6), ('state', 6), ('insurance', 6), ('national', 6), ('from', 6), ('less', 6), ('still', 6), ('only', 6), ('about', 6), ('one', 6), ('50', 6), ('among', 6), ('number', 5), ('those', 5), ('by', 5), ('involved', 5), ('over', 5), ('they', 5), ('compared', 5), ('an', 5), ('budget', 5), ('lower', 5), ('said', 5), ('who', 5), ('used', 5), ('drugs', 5), ('age', 5), ('countries', 5), ('three', 4), ('data', 4), ('crashes', 4), ('out', 4), ('collisions', 4), ('2012', 4), ('while', 4), ('higher', 4), ('so', 4), ('you', 4), ('when', 4), ('or', 4), ('bechdel', 4), ('2013', 4), ('film', 4), ('two', 4), ('sample', 4), ('investment', 4), ('budgets', 4), ('this', 4), ('alcohol', 4), ('times', 4), ('endorsement', 4), ('points', 4), ('bush', 4), ('per', 4), ('using', 3), ('car', 3), ('some', 3)]

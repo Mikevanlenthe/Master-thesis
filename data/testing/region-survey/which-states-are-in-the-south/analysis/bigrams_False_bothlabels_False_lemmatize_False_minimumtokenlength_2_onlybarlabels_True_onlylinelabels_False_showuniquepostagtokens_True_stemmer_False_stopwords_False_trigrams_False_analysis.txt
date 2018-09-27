@@ -1,0 +1,38 @@
+Article: region-survey/which-states-are-in-the-south
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 3
+Raw number of types: 3
+Raw Type token ratio (higher = more diversity in language use): 1.0
+
+100 most freq tokens before (pre)processing: 
+[('the', 254), (',', 241), ('<', 238), ('>', 238), ('of', 192), ('a', 117), ('.', 108), ('percent', 105), ('in', 101), ('and', 93), ('to', 87), ('nobarlabels', 82), ('bar', 78), ('/bar', 78), ('’', 74), ('that', 71), ('s', 47), ('than', 41), ('more', 36), ('on', 35), ('for', 34), ('at', 33), ('is', 32), ('paintings', 32), ('(', 30), (')', 30), ('it', 30), ('are', 27), ('was', 27), ('—', 27), ('with', 27), ('about', 27), ('films', 25), ('we', 24), ('one', 24), ('but', 23), ('or', 23), ('women', 23), ('by', 22), ('were', 22), ('only', 22), ('as', 20), ('have', 20), ('among', 19), ('ross', 19), ('those', 18), ('from', 18), ('had', 17), ('other', 16), ('data', 15), ('all', 14), ('there', 14), ('an', 14), ('“', 14), ('”', 14), ('t', 13), ('over', 13), ('likely', 13), ('each', 12), ('any', 12), ('be', 12), ('two', 12), ('least', 12), ('who', 12), ('painted', 12), ('drivers', 11), (':', 11), ('average', 11), ('found', 11), ('when', 11), ('what', 11), ('people', 11), ('subjects', 11), ('characters', 11), ('contain', 11), ('them', 10), ('while', 10), ('$', 10), ('median', 10), ('color', 10), ('cluster', 10), ('i', 9), ('number', 9), ('some', 9), ('has', 9), ('most', 9), ('still', 9), ('not', 9), ('also', 9), ('respondents', 9), ('per', 9), ('rated', 9), ('how', 8), ('don', 8), ('they', 8), ('compared', 8), ('between', 8), ('won', 8), ('this', 8), ('boomers', 8)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+bigrams = False
+bothlabels = False
+lemmatize = False
+minimumtokenlength = 2
+onlybarlabels = True
+onlylinelabels = False
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 0
+Number of types: 0
+Type token ratio: 0
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+100 most freq tokens after processing: 
+[('the', 254), ('of', 192), ('bar', 156), ('percent', 109), ('in', 101), ('and', 93), ('to', 87), ('that', 71), ('than', 41), ('more', 36), ('on', 35), ('is', 34), ('for', 34), ('at', 33), ('paintings', 32), ('it', 30), ('are', 28), ('was', 27), ('with', 27), ('about', 27), ('films', 25), ('we', 24), ('women', 24), ('one', 24), ('but', 23), ('or', 23), ('by', 22), ('were', 22), ('only', 22), ('as', 20), ('have', 20), ('among', 19), ('ross', 19), ('those', 18), ('from', 18), ('had', 17), ('other', 16), ('data', 15), ('all', 14), ('there', 14), ('an', 14), ('each', 13), ('over', 13), ('likely', 13), ('any', 12), ('average', 12), ('be', 12), ('two', 12), ('least', 12), ('who', 12), ('painted', 12), ('drivers', 11), ('found', 11), ('when', 11), ('what', 11), ('people', 11), ('subjects', 11), ('characters', 11), ('contain', 11), ('them', 10), ('while', 10), ('most', 10), ('median', 10), ('respondents', 10), ('color', 10), ('cluster', 10), ('number', 9), ('some', 9), ('has', 9), ('still', 9), ('not', 9), ('also', 9), ('us', 9), ('per', 9), ('rated', 9), ('how', 8), ('country', 8), ('don', 8), ('dc', 8), ('they', 8), ('compared', 8), ('between', 8), ('won', 8), ('sample', 8), ('this', 8), ('boomers', 8), ('use', 8), ('days', 8), ('just', 8), ('five', 8), ('times', 8), ('he', 8), ('white', 8), ('where', 7), ('same', 7), ('less', 7), ('year', 7), ('chance', 7), ('test', 7), ('our', 7)]

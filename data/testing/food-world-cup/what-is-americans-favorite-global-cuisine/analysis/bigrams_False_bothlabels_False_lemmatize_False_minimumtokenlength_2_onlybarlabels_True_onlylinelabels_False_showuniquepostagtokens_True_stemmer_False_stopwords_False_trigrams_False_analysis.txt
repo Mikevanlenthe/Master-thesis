@@ -1,0 +1,58 @@
+Article: food-world-cup/what-is-americans-favorite-global-cuisine
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 336
+Raw number of types: 132
+Raw Type token ratio (higher = more diversity in language use): 0.39285714285714285
+
+100 most freq tokens before (pre)processing: 
+[('the', 236), ('<', 223), ('>', 223), (',', 217), ('of', 184), ('a', 109), ('.', 101), ('in', 95), ('percent', 92), ('and', 87), ('to', 82), ('nobarlabels', 77), ('bar', 73), ('/bar', 73), ('’', 70), ('that', 68), ('s', 45), ('than', 39), ('more', 34), ('is', 32), ('at', 32), ('on', 32), ('paintings', 32), ('for', 29), ('are', 26), ('was', 26), ('it', 26), ('with', 26), ('about', 26), ('—', 25), ('films', 25), ('we', 24), ('one', 24), ('women', 23), ('were', 22), ('only', 22), ('but', 21), ('or', 21), ('(', 20), (')', 20), ('by', 20), ('have', 20), ('among', 19), ('ross', 19), ('as', 18), ('those', 17), ('from', 17), ('other', 16), ('data', 14), ('all', 14), ('there', 14), ('had', 14), ('“', 13), ('”', 13), ('likely', 12), ('least', 12), ('who', 12), ('painted', 12), ('drivers', 11), (':', 11), ('each', 11), ('t', 11), ('any', 11), ('be', 11), ('found', 11), ('an', 11), ('two', 11), ('what', 11), ('subjects', 11), ('characters', 11), ('contain', 11), ('while', 10), ('average', 10), ('$', 10), ('when', 10), ('median', 10), ('people', 10), ('color', 10), ('cluster', 10), ('i', 9), ('number', 9), ('has', 9), ('over', 9), ('most', 9), ('still', 9), ('not', 9), ('also', 9), ('per', 9), ('some', 8), ('how', 8), ('don', 8), ('them', 8), ('they', 8), ('between', 8), ('won', 8), ('boomers', 8), ('use', 8), ('respondents', 8), ('just', 8), ('five', 8)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+bigrams = False
+bothlabels = False
+lemmatize = False
+minimumtokenlength = 2
+onlybarlabels = True
+onlylinelabels = False
+showuniquepostagtokens = True
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 277
+Number of types: 118
+Type token ratio: 0.4259927797833935
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'everyone, japan, margin, experience, china, sixpoint, bar, ground, thailand, percent, france, italy, tick, weighting, voter, mexico, eater, vote, count, scale, tournament')
+
+('VBD', 'favored, rated, edged, did, used, scale, were, increased, had, was, won, came, played')
+
+('JJ', 'average, above, adventurous, likely, culinary, raw, unweighted, wide')
+
+('NNS', 'tallies, responses, respondents, eaters, italians, matches, voters, results')
+
+('VB', 'have, above')
+
+('VBN', 'been, rated, lost, gained, boosted, won')
+
+('VBG', 'winning, weighting')
+
+('JJS', 'least, likeliest')
+
+('JJR', 'closer, better')
+
+('VBP', 'bar, italy')
+
+100 most freq tokens after processing: 
+[('the', 236), ('of', 184), ('bar', 146), ('percent', 96), ('in', 95), ('and', 87), ('to', 82), ('that', 68), ('than', 39), ('is', 34), ('more', 34), ('at', 32), ('on', 32), ('paintings', 32), ('for', 29), ('are', 27), ('was', 26), ('it', 26), ('with', 26), ('about', 26), ('films', 25), ('we', 24), ('women', 24), ('one', 24), ('were', 22), ('only', 22), ('but', 21), ('or', 21), ('by', 20), ('have', 20), ('among', 19), ('ross', 19), ('as', 18), ('those', 17), ('from', 17), ('other', 16), ('data', 14), ('all', 14), ('there', 14), ('had', 14), ('each', 12), ('likely', 12), ('least', 12), ('who', 12), ('painted', 12), ('drivers', 11), ('any', 11), ('average', 11), ('be', 11), ('found', 11), ('an', 11), ('two', 11), ('what', 11), ('subjects', 11), ('characters', 11), ('contain', 11), ('while', 10), ('most', 10), ('when', 10), ('median', 10), ('people', 10), ('color', 10), ('cluster', 10), ('number', 9), ('has', 9), ('over', 9), ('still', 9), ('not', 9), ('also', 9), ('respondents', 9), ('per', 9), ('some', 8), ('how', 8), ('don', 8), ('them', 8), ('dc', 8), ('they', 8), ('between', 8), ('won', 8), ('boomers', 8), ('use', 8), ('days', 8), ('just', 8), ('five', 8), ('times', 8), ('us', 8), ('he', 8), ('white', 8), ('country', 7), ('same', 7), ('less', 7), ('compared', 7), ('year', 7), ('chance', 7), ('test', 7), ('above', 7), ('this', 7), ('50', 7), ('used', 7), ('high', 7)]
