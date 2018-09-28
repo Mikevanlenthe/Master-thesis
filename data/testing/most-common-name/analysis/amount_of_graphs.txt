@@ -1,3 +1,0 @@
-Article: most-common-name
-
-Number of graphs: 5
