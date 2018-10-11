@@ -1,0 +1,39 @@
+Elo ratings are FiveThirtyEight�s favorite method for comparing teams across different eras � we�ve previously used them to explore the history of the NBA and NFL. The ratings are an intentionally simple measure of team strength based on the final score, location and date of a team�s games. Now we�ve calculated them for 89 franchises across 146 years of baseball history � more than 400,000 ratings in total.
+
+MORE MLB How this works 2017 predictions Astros picks
+
+Elo is calibrated so that an average MLB team has a rating of around 1500, although the actual league average depends on how recently expansion teams (which start with a 1450 rating) were added. All ratings are reverted to the mean by one-third at the end of each season � you can read more details about our methodology here. All game results from 1871 to 2015 are from Retrosheet.org, and 2016 to 2017 results are from ESPN. All franchises in National and American League history are included, as are those from two defunct leagues: the American Association (1882-91) and National Association (1871-75). �Championships� include World Series wins since 1903 and league titles from 1871 to 1902 and in 1904, when no World Series was played.
+
+The greatest team in history?
+braves history
+<line>The Atlanta Braves � previously of Milwaukee and Boston � are the only franchise to have played continuously since the inauguration of the National Association in 1871. The franchise has won three World Series, but its peak dominance came in the 19th century, when it picked up four National Association titles and eight National League pennants. The franchise also boasts the highest Elo rating in the interactive � on Oct. 28, 1875, the team, then known as the Boston Red Stockings, beat the New Haven Elm Citys to bring its record to 70-7 (a .910 winning percentage) and its Elo rating to 1658.</line>
+
+So should we count that 1875 National Association squad as the most dominant of major league history? Depends on who you ask: MLB doesn�t consider the National Association as part of its official history. By decree of the 1968-69 MLB Special Baseball Records Committee, the National Association is credited as the first �professional� league but not as a �major� league � MLB begins when the National League was created in 1876. This continues to be a somewhat controversial decision � six of the eight inaugural National League franchises, including the current Braves and Chicago Cubs franchises, originated in the National Association. We�ve chosen to include it in our Elo calculations.
+
+<line>If you exclude the National Association, the highest Elo peak in MLB history belongs to the Cubs, who had a 1636 rating and a 111-34 record near the end of the 1906 season before eventually being upset by the White Sox in the World Series.</line>
+
+The Mariners come out of nowhere
+mariners history
+<line>The late-1990s Seattle Mariners had some of the game�s most electrifying players, including center fielder Ken Griffey Jr., shortstop Alex Rodriguez and fastballer Randy Johnson. It was enough to have several good � but not great � seasons. Seattle won 90 games in 1997 and 91 in 2000. All three stars were gone before the 2001 season began.
+
+And then, right on schedule, the Mariners went 116-46, tying the record for wins in a season set by the 1906 Cubs. Japanese transplant Ichiro Suzuki won both 2001 rookie of the year and MVP, slugger Bret Boone had easily his best MLB season, and the starting duo of Jamie Moyer and Freddie Garcia combined for 38 wins. After the team improved to 116-45, Seattle�s Elo rating hit 1604. That�s a higher peak than that of 19 other current franchises; the Red Sox, White Sox, Twins and Tigers � all in MLB since 1901, compared with 1977 for the Mariners � have never touched 1600.</line>
+
+Unfortunately, Seattle wasn�t able to capitalize on its outstanding regular season, dropping the ALCS to the Yankees in five games. The Mariners haven�t made the playoffs since. They and the Washington Nationals are the only current MLB franchises never to have appeared in the World Series.
+
+The Cleveland Spiders and baseball�s worst season
+spiders history
+<line>The Cleveland Spiders were once one of baseball�s better franchises, with a .570 winning percentage under manager Patsy Tebeau from 1891 to 1898. The Spiders were led by star pitcher Cy Young, who got his first 241 wins with the team. While the franchise never captured a National League title, it did manage three second-place finishes and in 1895 captured the Temple Cup by beating the first-place Baltimore Orioles in a postseason exhibition series that the league held for only four seasons.
+
+Then, disaster. The Spiders� owners purchased the St. Louis Browns (the franchise that would eventually become the Cardinals), shipped Tebeau, Young and the other star players out of Cleveland and declared that the Spiders were going to be �a sideshow.� Home attendance and revenue were so bad in Cleveland that some teams refused to travel there, so the Spiders ended up playing 112 games on the road. They finished the season at 20-134, and their final Elo of 1333 is the worst in MLB history. The National League contracted from 12 teams to eight after the 1899 season, and the Spiders were kicked out.</line>
+
+The 1994 Expos: what could have been
+expos history
+After joining MLB as a new franchise in 1969, the Montreal Expos struggled through the first 25 years of their existence, making just one postseason appearance, in 1981. In 1994, though, everything was coming together. An offense led by Marquis Grissom, Moises Alou, Larry Walker and Wil Cordero scored more than 5 runs per game, and a pitching staff with Butch Henry, Ken Hill, Jeff Fassero and a young Pedro Martinez put up the National League's best ERA. On Aug. 10, the Expos improved to 74-39 � on pace for a 106-win season � and reached a franchise Elo high of 1570.
+
+Two days later, baseball went on strike. The 1994 World Series was canceled, and before the next season started, Walker, Grissom and Hill had departed. In 1995, a shortened season, the Expos went 66-78. The franchise would never reach the playoffs as the Expos again; in 2005, the team left for Washington to become the Nationals.
+
+The unstoppable Bombers
+yankees history
+The 1925 New York Yankees were a pretty bad baseball team; they went 69-85 and finished seventh in the American League. But their fans didn't stay disappointed for long � the franchise's next losing season didn't come until 1965, 40 years later.
+
+It would be difficult to overstate how dominant the Yankees were from 1926 to 1964. The team posted a .623 winning percentage � the equivalent of a 101-win season on a 162-game MLB schedule. During that time, the Yankees snagged 19 World Series titles and an additional seven AL pennants, peaking at a franchise-high Elo rating of 1628 during the 1939 season. The Yankees aren't the only professional sports team to have a dominant stretch � Bill Russell�s Celtics and the Montanta/Young 49ers similarly stacked up NBA and NFL titles. But those eras only covered a career arc or so. The Yankees� streak was multigenerational: Babe Ruth ended his career with the Yankees in 1934, two years before the debut of Joe DiMaggio, and DiMaggio�s final season, in 1951, was Mickey Mantle�s rookie year.

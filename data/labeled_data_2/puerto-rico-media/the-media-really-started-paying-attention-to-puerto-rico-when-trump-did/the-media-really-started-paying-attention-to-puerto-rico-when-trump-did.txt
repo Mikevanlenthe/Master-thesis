@@ -1,0 +1,48 @@
+
+
+
+
+							The Media Really Started Paying Attention To Puerto Rico When Trump Did						
+
+
+
+By Dhrumil Mehta
+Filed under Puerto Rico
+
+Get the data on GitHub
+GitHub data at data/puerto-rico-media
+
+
+								Published Oct. 12, 2017
+
+
+
+FacebookTwitterEmail  
+
+
+
+Two weeks ago, a FiveThirtyEight analysis found that Puerto Rico had received far less media coverage immediately after Hurricane Maria than other U.S. locations recently hit by powerful hurricanes had gotten. This week, we went back to the same data sources to see if things had changed.1 And they have. Hurricane Maria made landfall in Puerto Rico on a Wednesday morning, but it wasn’t until the following Monday, a full five days later, that the island really started to get a sustained burst of attention from the media (and from the president’s Twitter account), though it still didn’t reach the levels of coverage that other hurricanes got.2
+
+
+
+
+
+
+Once outlets started talking about Puerto Rico, however, the coverage wasn’t all about the hurricane’s devastation and the efforts to recover from it. Much of the media’s efforts went toward covering the controversial statements President Trump made about Puerto Rico. Trump repeatedly referenced Puerto Rico’s debt, engaged in a feud with the mayor of San Juan, suggested that Puerto Rican workers weren’t willing to help with the recovery effort, and blasted unfavorable coverage as fake. (And that’s just some of what he said on Twitter.)
+In the two weeks following the hurricane, an average of about a quarter of online news headlines in our data set that mentioned Puerto Rico also mentioned Trump. About 10 percent of Texas headlines also mentioned Trump in the immediate aftermath of Hurricane Harvey, and only about 5 percent of headlines about Florida also mentioned Trump in the two weeks after Hurricane Irma. When President Trump visited the island last week, just over half of the headlines that mentioned the territory that day also mentioned Trump, a far higher proportion than we saw when Trump visited Texas and Florida.
+
+
+
+
+
+
+Not all of that coverage was positive. Some was criticism of the president’s statements and behavior, and some highlighted criticism of the federal response for being too slow. Several recent polls show that people disapprove of the way the administration has handled the Puerto Rico crisis and the president’s approval rating had been ticking downward since the hurricane struck, though that could be influenced by other events as well.
+Not all TV networks have covered the story equally. Fox News, which tends to give the president more favorable coverage, mentioned Puerto Rico fewer times than CNN and MSNBC did.3
+
+
+
+
+
+
+Puerto Rico’s recovery will continue to merit media attention for many months. News organizations will have to keep making decisions about how much of that coverage should be dedicated to President Trump and how much should be devoted to the people of Puerto Rico.
+
