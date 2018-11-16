@@ -1,0 +1,60 @@
+Article: murder_2016
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1342
+Raw number of types: 490
+Raw Type token ratio (higher = more diversity in language use): 0.3651266766020864
+
+100 most freq tokens before (pre)processing: 
+[('the', 7470), (',', 7228), ('.', 5087), ('of', 3793), ('a', 3194), ('to', 3051), ('in', 2799), ('and', 2770), ('’', 2558), ('that', 1709), ('s', 1412), ('for', 1287), ('is', 1238), ('on', 1087), (':', 1076), ('it', 1055), ('are', 927), ('“', 834), ('”', 833), ('at', 802), ('with', 800), ('—', 800), ('as', 785), ('we', 767), ('by', 751), ('(', 733), (')', 733), ('percent', 712), ('but', 705), ('more', 694), ('i', 664), ('our', 657), ('this', 640), ('or', 613), ('they', 596), ('have', 575), ('you', 572), ('from', 570), ('trump', 546), ('t', 544), ('team-logo', 535), ('about', 524), ('was', 523), ('than', 509), ('who', 503), ('be', 489), ('data', 487), ('one', 477), ('were', 454), ('an', 434), ('?', 424), ('has', 416), ('1', 387), ('not', 385), ('their', 380), ('verdict', 377), ('all', 376), ('<', 374), ('>', 368), ('there', 355), ('how', 352), ('like', 350), ('polls', 349), ('he', 338), ('so', 333), ('said', 333), ('if', 324), ('can', 323), ('other', 320), ('what', 320), ('people', 311), ('which', 306), ('some', 303), ('most', 292), ('his', 289), ('out', 284), ('when', 282), ('those', 281), ('also', 269), ('had', 269), ('up', 255), ('get', 251), ('each', 248), ('only', 224), ('just', 224), ('two', 223), ('do', 214), ('github', 207), ('new', 207), ('these', 204), ('positive', 203), (';', 200), ('them', 200), ('its', 199), ('will', 192), ('time', 190), ('been', 189), ('number', 188), ('2', 188), ('points', 187)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1158
+Number of types: 459
+Type token ratio: 0.3963730569948187
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'oct, handful, rise, jeff, crime, data, github, github, datamurder2016, line, year, rise, number, year, increase, year, line, line, month, fbi, number, increase, quarter, century, rise, campaign, issue, trump, evidence, deterioration, law, order, evidence, claim, crime, crime, haven, increase, murder, line, official, year, evidence, number, percent, year, data, year, number, percent, group, variety, phone, association, organization, bigcity, police, murder, midyear, america, population, percent, year, end, august, percent, increase, year, data, set, page, line, rise, percent, increase, particular, rise, number, city, time, year, percent, increase, orlando, jump, pulse, attack, june, chicago, orlando, account, half, increase, data, increase, number, quarter, increase, group, murder, percent, year, washington, dc, baltimore, number, year, line, city, increase, percent, increase, orlando, memphis, phoenix, louisville, houston, fort, atlanta, austin, kansas, city, arlington, increase, year, city, date, year, year, murder, year, increase, year, year, year, rise, number, southwest4, switch, year, bigcity, country, fall, increase, increase, fbi, fall, brennan, center, yearend, murder, right, point, year, average, city, percent, difficulty, year, bigcity, country, carl, bialik, january, year, percent, percent, trend, percent, murder, rate, level, half, increase, murder, crime, number, effect, murder, rate, explanation, weather, difference, bullet, injury, rise, year, year, sense, medium, term, murder, prevalent, decade, decade, record')
+
+('VBP', 'am, are, get, are, come, emails, chiefs, have, ve, chicago, have, mo, are, are, are, have, are, are, mean, are, are, ll, tend, are, hold, are')
+
+('NNS', 'cities, murders, data, murders, cities, data, murders, types, rates, levels, figures, murders, cities, cities, figures, sources, websites, calls, departments, cities, chiefs, cases, media, reports, statistics, sources, data, cities, cities, murders, cities, data, cities, murders, murders, cities, increases, cities, murders, murders, murders, people, murders, cities, cities, murders, cities, cities, cities, data, cities, decreases, murders, rises, murders, las, dallas, indianapolis, cities, murders, totals, data, totals, ways, cities, murders, cities, increases, declines, patterns, cities, murders, rises, figures, numbers, murders, months, data, figures, counts, cities, data, projections, murders, murders, months, tallies, centers, rises, rises, murders, cities, populations, murders, results, fbi, changes, murders, people, changes, inches, swings, murders, totals, trends, jumps, drops, years, years')
+
+('VBG', 'driving, continuing, showing, citing, including, citing, defining, seeing, contrast, excluding, remaining, including, experiencing, rising, shifting, existing, using, highlighting, knowing, using, rising, assuming, being, being, sustaining, alarming, concentrating')
+
+('VBN', 'filed, released, emerged, seen, seen, seen, seen, seen, set, seen, seen, revised, sent, measured, murdered, influenced, missed')
+
+('JJ', 'last, dramatic, last, concentrated, few, big, last, estimated, percent, major, donald, mixed, other, violent, same, available, preliminary, big, available, last, same, official, major, local, official, able, big, last, able, full, github, widespread, big, many, substantial, concentrated, few, big, dramatic, early, same, big, due, nightclub, net, available, net, same, big, big, several, milwaukee, substantial, large, san, last, recent, available, same, total, different, last, other, last, top, several, big, geographic, big, spread, preliminary, likely, final, fbi, next, hard, big, last, large, absolute, many, wise, wary, whole, large, urban, national, large, true, current, total, same, early, preliminary, hard, much, major, small, dramatic, easy, luck, few, stray, fatal, survivable, difficult, oneyear, total, long, shortterm, prevalent, current, other')
+
+('VBZ', 'appears, is, is, has, is, suggests, is, is, appears, has, has, is, looks, is, is, holds, is, does, makes, is, makes, is, is')
+
+('VB', 'be, be, police, gather, collect, be, show, know, come, be, have, be, judge, exaggerate, end, push, be, know, read, have, appear, be, be, mean, understand, vary, evaluate')
+
+('JJS', 'least, biggest, least, least, least, biggest, biggest, biggest, greatest, worst, least, rarest')
+
+('JJR', 'slower, broader, more, safer')
+
+('VBD', 'rose, won, went, was, accounted, was, posted, was, had, killed, accounted, chicago, fla, tenn, vegas, ky, wayne, texas, texas, saw, saw, saw, were, projected, were, pointed, was, rose, was, struck, was, was')
+
+100 most freq tokens after processing: 
+[('the', 7470), ('of', 3793), ('to', 3051), ('in', 2801), ('and', 2770), ('that', 1713), ('for', 1288), ('is', 1240), ('on', 1087), ('it', 1058), ('are', 929), ('at', 803), ('with', 800), ('as', 785), ('we', 767), ('by', 751), ('percent', 721), ('but', 705), ('more', 694), ('our', 657), ('this', 640), ('or', 613), ('they', 596), ('have', 575), ('you', 573), ('from', 570), ('trump', 547), ('teamlogo', 535), ('about', 524), ('was', 523), ('than', 509), ('who', 503), ('be', 491), ('data', 487), ('one', 480), ('were', 454), ('an', 434), ('has', 416), ('not', 385), ('their', 380), ('verdict', 377), ('all', 376), ('there', 355), ('how', 352), ('like', 350), ('polls', 349), ('he', 338), ('so', 334), ('said', 333), ('if', 324), ('can', 323), ('other', 321), ('what', 320), ('people', 311), ('which', 306), ('some', 303), ('most', 293), ('his', 289), ('out', 286), ('when', 282), ('those', 281), ('also', 269), ('had', 269), ('up', 255), ('get', 251), ('10', 250), ('each', 249), ('only', 224), ('just', 224), ('two', 223), ('11', 217), ('do', 215), ('github', 207), ('new', 207), ('these', 204), ('positive', 204), ('bar', 203), ('13', 201), ('them', 200), ('its', 199), ('time', 194), ('will', 192), ('been', 190), ('number', 188), ('points', 187), ('14', 185), ('year', 185), ('my', 184), ('polling', 184), ('pollsters', 184), ('would', 183), ('us', 183), ('no', 178), ('many', 177), ('12', 177), ('15', 173), ('because', 172), ('much', 171), ('donald', 169), ('over', 169)]

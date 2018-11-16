@@ -1,0 +1,56 @@
+Article: congress-generic-ballot
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 372
+Raw number of types: 204
+Raw Type token ratio (higher = more diversity in language use): 0.5483870967741935
+
+100 most freq tokens before (pre)processing: 
+[('the', 7891), (',', 7670), ('.', 5387), ('of', 3961), ('a', 3386), ('to', 3201), ('in', 2958), ('and', 2940), ('’', 2695), ('that', 1777), ('s', 1505), ('for', 1341), ('is', 1285), ('on', 1142), ('it', 1107), (':', 1093), ('are', 955), ('“', 939), ('”', 938), ('at', 846), ('with', 838), ('—', 832), ('as', 807), ('we', 792), ('by', 775), ('(', 765), (')', 765), ('but', 742), ('percent', 718), ('more', 710), ('i', 705), ('this', 665), ('our', 661), ('or', 636), ('they', 618), ('have', 605), ('from', 600), ('you', 599), ('was', 569), ('t', 563), ('trump', 549), ('about', 538), ('team-logo', 535), ('than', 521), ('be', 519), ('who', 517), ('data', 500), ('one', 492), ('an', 476), ('were', 468), ('has', 444), ('?', 438), ('he', 408), ('all', 404), ('not', 402), ('1', 399), ('their', 391), ('so', 386), ('<', 386), ('>', 380), ('verdict', 377), ('there', 376), ('how', 361), ('said', 360), ('like', 358), ('polls', 356), ('his', 347), ('if', 342), ('can', 333), ('other', 330), ('what', 329), ('which', 319), ('people', 319), ('some', 317), ('out', 303), ('most', 300), ('had', 298), ('when', 297), ('those', 287), ('also', 278), ('up', 261), ('get', 257), ('each', 254), ('just', 236), ('only', 235), ('two', 232), ('do', 225), ('new', 219), ('github', 214), ('%', 214), ('its', 207), ('these', 206), (';', 206), ('them', 206), ('positive', 203), ('time', 203), ('will', 203), ('been', 201), ('would', 195), ('year', 195)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 273
+Number of types: 177
+Type token ratio: 0.6483516483516484
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'are, estimate, rv, are, ask, send')
+
+('VBG', 'winning, tracking, missing')
+
+('NN', 'race, congress, estimate, ballot, ask, party, election, jan, feb, march, april, june, july, july, aug, sept, nov, nov, election, day, range, grade, democrat, leader, leader, yougov, rv, morning, consult, ipsos, rv, democrat, cbs, news, democrat, cnnssrs, democrat, apr, ipsos, rv, democrat, apr, yougov, rv, democrat, apr, morning, consult, rv, democrat, apr, research, center, rv, democrat, apr, monmouth, university, rv, democrat, show, pollster, version, party, candidate, respondent, district, party, respondent, control, congress, design, development, aaron, bycoffe, dhrumil, model, silver, email, download, data, trend')
+
+('JJ', 'updating, generic, congressional, aug, oct, oct, key, sample, republican, pew, key, new, registered, likely, same, recent, statistical, nate')
+
+('VBN', 'based, projected, adjusted, shown, listed')
+
+('NNS', 'polls, people, democrats, democrats, republicans, republicans, polls, democrat, democrat, polls, adults, voters, voters, voters, dates, polls, polls, bugs, polls, polls, lines')
+
+('VB', 'support, june, fall, vote, prefer')
+
+('VBD', 'sept, dec')
+
+('VBZ', 'is')
+
+100 most freq tokens after processing: 
+[('the', 7891), ('of', 3961), ('to', 3201), ('in', 2960), ('and', 2940), ('that', 1782), ('for', 1342), ('is', 1287), ('on', 1142), ('it', 1113), ('are', 957), ('at', 847), ('with', 838), ('as', 807), ('we', 792), ('by', 775), ('but', 742), ('percent', 727), ('more', 710), ('this', 665), ('our', 661), ('or', 636), ('they', 618), ('have', 605), ('from', 600), ('you', 600), ('was', 569), ('trump', 550), ('about', 538), ('teamlogo', 535), ('than', 521), ('be', 521), ('who', 517), ('data', 500), ('one', 495), ('an', 476), ('were', 468), ('has', 444), ('he', 408), ('all', 405), ('not', 402), ('their', 391), ('so', 387), ('verdict', 377), ('there', 376), ('how', 361), ('said', 360), ('like', 358), ('polls', 356), ('his', 347), ('if', 342), ('can', 333), ('other', 331), ('what', 329), ('which', 319), ('people', 319), ('some', 317), ('out', 305), ('most', 301), ('had', 298), ('when', 297), ('those', 287), ('also', 278), ('up', 262), ('10', 259), ('get', 257), ('each', 255), ('just', 236), ('only', 235), ('two', 232), ('do', 226), ('11', 222), ('new', 219), ('github', 214), ('bar', 211), ('its', 207), ('them', 207), ('time', 207), ('us', 206), ('these', 206), ('positive', 204), ('13', 204), ('will', 203), ('been', 202), ('year', 196), ('would', 195), ('my', 194), ('number', 194), ('no', 192), ('points', 188), ('14', 187), ('over', 187), ('polling', 184), ('pollsters', 184), ('12', 181), ('many', 179), ('because', 178), ('15', 175), ('first', 174), ('much', 173)]

@@ -1,0 +1,58 @@
+Article: repeated-phrases-gop
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 617
+Raw number of types: 329
+Raw Type token ratio (higher = more diversity in language use): 0.5332252836304701
+
+100 most freq tokens before (pre)processing: 
+[('the', 9861), (',', 9456), ('.', 6515), ('a', 5013), ('of', 4917), ('to', 4023), ('and', 3950), ('in', 3918), ('’', 3530), ('that', 2266), ('s', 2052), ('for', 1765), ('is', 1626), ('on', 1436), ('it', 1379), ('are', 1370), ('at', 1302), (':', 1260), ('“', 1114), ('”', 1113), ('—', 1101), ('with', 1046), ('as', 1043), ('or', 966), ('we', 941), ('but', 923), ('by', 913), ('more', 907), ('(', 898), (')', 897), ('if', 854), ('percent', 851), ('they', 818), ('this', 806), ('i', 806), ('have', 752), ('has', 749), ('was', 738), ('from', 717), ('who', 712), ('t', 702), ('our', 700), ('than', 699), ('you', 696), ('trump', 672), ('test', 651), ('about', 648), ('1', 648), ('be', 646), ('there', 624), ('one', 609), ('not', 585), ('data', 570), ('an', 560), ('were', 545), ('team-logo', 535), ('their', 527), ('?', 505), ('he', 502), ('all', 489), ('<', 482), ('>', 476), ('so', 457), ('can', 447), ('his', 444), ('looks', 439), ('how', 427), ('like', 411), ('other', 402), ('which', 401), ('said', 395), ('see', 393), ('when', 386), ('polls', 385), ('had', 380), ('what', 379), ('2', 378), ('verdict', 377), ('some', 373), ('people', 358), ('out', 357), ('most', 347), ('also', 334), ('those', 331), ('two', 327), ('up', 319), ('film', 319), ('women', 312), ('each', 301), ('get', 298), ('only', 297), ('just', 291), ('whether', 274), ('0', 273), ('time', 267), ('been', 265), ('these', 261), ('do', 258), ('its', 257), (';', 255)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 488
+Number of types: 310
+Type token ratio: 0.6352459016393442
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'are, are, hammer, rubio, repeat, spärck, have, don, don, am, fresh, trump, rubio, re, confirm')
+
+('NNS', 'phrases, repeats, data, data, words, politics, words, debates, campaigns, points, sales, primaries, eyes, echoes, nightmares, times, wild, candidates, transcripts, karen, jones, words, times, phrases, phrases, candidates, classics, arms, tics, daydreams, possibilities, rubio, victories, shoots, talks, points, people, lives, times, numbers, phrases, cheers')
+
+('NN', 'gop, candidate, beckman, election, github, github, datarepeatedphrasesgop, age, draft, team, home, brand, opponent, electorate, lowenergy, bush, day, floridian, marco, fiction, debate, man, plan, prototype, roboprez, time, momentum, antitrump, coalition, barb, trump, debate, houston, crowd, time, miami, wannabe, debates1, tfidf, linguist, candidate, number, score, everyone, phrase, tfidf, measure, importance, mean, anything, trumpisms, analysis, candidate, president, string, future, president, hip, cruz, ivy, league, record, ohio, rubio, chris, christie, gauche, replay, script, debate, season, example, rubio, line, reference, dream, entirety, rubio, rubiobot, narrative, candidate, rubio, minnesota, puerto, rico3, nothing, analysis, drinking, game, debate')
+
+('JJ', 'milo, good, jeb, different, ambitious, likely, underslept, same, early, ready, prime, frantic, same, later, presidential, used, first, republican, metric, computational, high, particular, oftrepeated, high, other, top, relative, doesn, other, stonecold, quintessential, verbal, cruz, third, fourthplace, glorious, have, lengthy, verbatim, crown, instant, american, rigorous, tonight')
+
+('VBN', 'filed, published, chosen, televised, overprepped, responded, pioneered, used, elected, been, won')
+
+('VB', 'get, polltest, candidate, fill, consolidate, donald, see, identify, phrases2, get, keep, bear, win, say, note, john, reach, change, notice, seem')
+
+('VBG', 'talking, dying, tossing, debating, highlighting, repeating, talking, sticking, scoring')
+
+('VBZ', 'works, knows, feels, repeats, is, reveals, predicts, betrays, takes, has, has, gives')
+
+('VBD', 'dispelled, looked, shattered, needed, parried, went, used, called, said, ted, nailed, used, checked, found')
+
+('JJR', 'more, higher, score, more, more, harder, more')
+
+100 most freq tokens after processing: 
+[('the', 9862), ('of', 4917), ('to', 4023), ('and', 3950), ('in', 3920), ('that', 2271), ('for', 1766), ('is', 1628), ('on', 1436), ('it', 1385), ('are', 1372), ('at', 1303), ('with', 1046), ('as', 1043), ('or', 966), ('we', 941), ('but', 923), ('by', 913), ('more', 907), ('percent', 861), ('if', 854), ('they', 818), ('this', 806), ('have', 752), ('has', 749), ('was', 738), ('from', 717), ('who', 712), ('our', 700), ('than', 699), ('you', 697), ('trump', 673), ('test', 651), ('be', 649), ('about', 648), ('there', 624), ('one', 612), ('not', 586), ('data', 570), ('an', 560), ('were', 545), ('teamlogo', 535), ('their', 527), ('he', 502), ('all', 490), ('so', 458), ('can', 447), ('his', 444), ('looks', 439), ('how', 427), ('like', 411), ('other', 403), ('which', 401), ('said', 395), ('see', 393), ('when', 386), ('polls', 385), ('had', 380), ('what', 379), ('verdict', 377), ('some', 373), ('out', 361), ('people', 358), ('most', 348), ('also', 334), ('those', 331), ('two', 327), ('up', 320), ('film', 319), ('women', 315), ('10', 313), ('each', 302), ('get', 298), ('only', 297), ('just', 291), ('bar', 277), ('whether', 274), ('time', 272), ('been', 266), ('these', 261), ('do', 260), ('11', 258), ('its', 257), ('world', 250), ('github', 248), ('new', 245), ('any', 245), ('would', 244), ('no', 239), ('will', 238), ('year', 235), ('team', 234), ('them', 233), ('us', 232), ('13', 232), ('average', 231), ('much', 231), ('number', 227), ('over', 225), ('characters', 223)]

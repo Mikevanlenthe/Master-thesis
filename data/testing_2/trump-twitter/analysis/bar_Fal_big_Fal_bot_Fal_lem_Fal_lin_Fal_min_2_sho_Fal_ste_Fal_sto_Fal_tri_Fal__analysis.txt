@@ -1,0 +1,60 @@
+Article: trump-twitter
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1007
+Raw number of types: 411
+Raw Type token ratio (higher = more diversity in language use): 0.40814299900695133
+
+100 most freq tokens before (pre)processing: 
+[('the', 5922), (',', 5730), ('.', 3917), ('of', 2956), ('a', 2476), ('to', 2416), ('in', 2283), ('and', 2163), ('’', 1941), ('that', 1352), ('s', 1074), ('for', 1018), ('is', 969), (':', 935), ('on', 873), ('it', 814), ('are', 713), ('“', 681), ('”', 680), ('with', 642), ('at', 624), ('as', 603), ('by', 592), ('more', 579), ('our', 577), ('(', 573), (')', 573), ('—', 569), ('we', 562), ('trump', 542), ('but', 539), ('team-logo', 535), ('they', 506), ('this', 489), ('i', 474), ('or', 466), ('percent', 463), ('you', 445), ('have', 437), ('t', 429), ('from', 428), ('who', 426), ('about', 422), ('was', 421), ('than', 419), ('one', 394), ('be', 389), ('verdict', 377), ('1', 368), ('were', 366), ('polls', 345), ('an', 338), ('has', 335), ('data', 329), ('?', 320), ('not', 312), ('all', 304), ('their', 295), ('like', 289), ('he', 289), ('how', 275), ('said', 274), ('there', 269), ('other', 269), ('if', 264), ('his', 259), ('most', 253), ('so', 248), ('can', 245), ('those', 237), ('some', 234), ('people', 233), ('what', 231), ('which', 228), ('when', 224), ('<', 210), ('>', 207), ('out', 206), ('get', 203), ('up', 201), ('also', 200), ('had', 198), ('positive', 197), ('just', 188), ('each', 184), ('pollsters', 184), ('polling', 183), ('2', 181), ('only', 179), ('%', 178), ('points', 174), ('two', 172), (';', 170), ('do', 166), ('donald', 166), ('new', 161), ('time', 160), ('poll', 160), ('github', 155), ('them', 155)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 809
+Number of types: 381
+Type token ratio: 0.47095179233621753
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, world, favorite, donald, trump, leah, libresco, election, photo, robyn, beckafpgetty, campaign, trump, world, news, feature, campaign, truman, tour, kennedy, tv, trump, twitter, account, trump, twitter, effect, time, capsule, campaign, look, nomination, june, majority, methodology, analysis, trump, someone, tweet, third, platform, policy, nomination, policy, share, trump, topic, policy, clinton, twitter, nov, category, source, twitter, policy, quarter, trump, trump, scorn, tweet, love, tweet, cinco, taco, bowls, trump, tower, grill, pictwittercomk01mc6cudi, donald, realdonaldtrump, tweet, news, coverage4, news, bias, make, america, clinton, hypocrite, control, service, protection, rest, trump, twitter, story, day, line, attack, twitter, feuds, jibes, way, course, campaign, trump, pique, iowa, trump, fire, cruz, marco, rubio, flurry, antijohn, hour, want, john, kasich, race, money, donald, realdonaldtrump, discussion, twitter, response, news, cycle, trump, tweet, trump, cruz, clinton, trump, president, nov, trump, feb, clinton, jan, source, trump, exclamation, point, onethird, cruz, percent, clinton, bernie, trump, exclamation, order, magnitude, trump, lot, exclamation, twitter, dhrumil, mehta, nield, reporting')
+
+('VBP', 'am, ve, ve, donald, are, trump, see, trump, tweet, see, seem, trump, fit, cincodemayo, are, enthusiasm, terrorist, want, trump, are, exclamation, none, suspect, have')
+
+('NNS', 'tweets, images, thousands, tweets, cycles, opponents, supporters, ads, tweets, debates, primaries, tweets, people, attacks, tweets, times, tweets, tweets, enmities, proposals, rivals, tweets, retweets, others, candidates, polls, media, candidates, women, talks, tweets, excludes, retweets, tweets, followers, people, tweets, tweets, expressions, media, rivals, categories, policies, hispanics, hispanics, supporters, tweets, protesters, gun, tweets, protesters, brussels, attacks, opponents, media, opponents, questions, sobriquets, attacks, opponents, bursts, others, caucuses, rivals, contests, sprees, tweets, ads, policies, tweetstorms, others, candidates, tweets, points, sanders, tweets, sanders, twothirds, tweets, sanders, tweets, tweets, points, candidates, opponents, thoughts, points')
+
+('VBN', 'filed, sent, consumed, been, used, nov, talked, retweeted, defined, tweeted, mostfavorited, mostretweeted, made, propelled, mostretweeted, called, castigated, mostfavorited, used, gone, written, excited, punchy')
+
+('JJ', 'original, presidential, donald, unorthodox, whistlestop, such, great, useful, recent, footnotes2, republican, much, republican, democratic, interested, happy, https, tcoufoteqd8ya, top, heavy, other, fox, great, hillary, secret, scattershot, strategic, like, florida, primary, important, kasich, nov, negative, irrelevant, different, streaky, spontaneous, streak, excited, other, own, cruz, other, david')
+
+('VBD', 'started, antagonized, riled, had, had, decided, said, dominated, won, wrapped, downloaded, categorized, suffered, reacted, was, were, made, collected, were, tweeted, trump, prompted, was, was, declared, called, armed, were, prompted, forced, tended, concentrated, ted, went, was, had, had, had, defeated, dared, contributed')
+
+('VBZ', 'has, has, has, has, includes, excludes, includes, is, didn, enemies, has, seems, is, don, is, tends, is, includes')
+
+('VBG', 'defining, tweeting, divining, attacking, attacking, excluding, sharing, offering, sharing, favoring, enjoying, making, looking, tweeting, running')
+
+('VB', 'take, see, see, trump, read, candidate, june, count, retweets3, be, do, love, 2016, hem, analyze, answer, have, come, do, waste, be, be, june, june, june, june, merit, say')
+
+('JJR', 'more, less, more, less, less, more, more')
+
+('JJS', 'most, least, best, least')
+
+100 most freq tokens after processing: 
+[('the', 5922), ('of', 2956), ('to', 2416), ('in', 2284), ('and', 2163), ('that', 1356), ('for', 1019), ('is', 970), ('on', 873), ('it', 817), ('are', 715), ('with', 642), ('at', 625), ('as', 603), ('by', 592), ('more', 579), ('our', 577), ('we', 562), ('trump', 543), ('but', 539), ('teamlogo', 535), ('they', 506), ('this', 489), ('percent', 468), ('or', 466), ('you', 445), ('have', 437), ('from', 428), ('who', 426), ('about', 422), ('was', 421), ('than', 419), ('one', 397), ('be', 390), ('verdict', 377), ('were', 366), ('polls', 345), ('an', 338), ('has', 335), ('data', 329), ('not', 312), ('all', 304), ('their', 295), ('like', 289), ('he', 289), ('how', 275), ('said', 274), ('other', 270), ('there', 269), ('if', 264), ('his', 259), ('most', 254), ('so', 249), ('can', 245), ('those', 237), ('some', 234), ('people', 233), ('what', 231), ('which', 228), ('when', 224), ('10', 220), ('out', 208), ('get', 203), ('11', 201), ('up', 201), ('also', 200), ('positive', 198), ('had', 198), ('just', 188), ('each', 184), ('polling', 184), ('pollsters', 184), ('13', 181), ('only', 179), ('points', 174), ('14', 173), ('two', 172), ('donald', 167), ('do', 166), ('12', 165), ('time', 162), ('new', 161), ('poll', 160), ('github', 155), ('them', 155), ('will', 155), ('15', 154), ('average', 150), ('no', 150), ('its', 149), ('would', 149), ('been', 149), ('number', 149), ('election', 148), ('many', 143), ('league', 143), ('these', 137), ('much', 137), ('us', 135), ('neutral', 135)]

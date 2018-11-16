@@ -1,0 +1,60 @@
+Article: mad-men
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1373
+Raw number of types: 520
+Raw Type token ratio (higher = more diversity in language use): 0.37873270211216314
+
+100 most freq tokens before (pre)processing: 
+[('the', 6609), (',', 6449), ('.', 4420), ('of', 3368), ('a', 2811), ('to', 2713), ('in', 2495), ('and', 2468), ('’', 2210), ('that', 1553), ('s', 1233), ('for', 1151), ('is', 1098), ('on', 985), (':', 979), ('it', 919), ('are', 818), ('“', 784), ('”', 783), ('with', 723), ('at', 713), ('—', 694), ('as', 682), ('we', 664), ('(', 649), (')', 649), ('by', 647), ('more', 634), ('our', 614), ('but', 603), ('this', 562), ('they', 560), ('i', 557), ('trump', 545), ('or', 537), ('team-logo', 535), ('percent', 528), ('you', 512), ('from', 508), ('have', 499), ('t', 480), ('who', 477), ('about', 465), ('than', 460), ('was', 459), ('be', 440), ('one', 432), ('data', 418), ('were', 411), ('an', 391), ('has', 385), ('1', 380), ('verdict', 377), ('?', 368), ('not', 348), ('polls', 346), ('all', 334), ('their', 331), ('said', 325), ('how', 319), ('like', 319), ('there', 311), ('he', 304), ('other', 295), ('so', 294), ('people', 288), ('if', 286), ('can', 285), ('what', 277), ('most', 276), ('his', 273), ('<', 268), ('some', 263), ('which', 262), ('>', 262), ('those', 258), ('when', 258), ('out', 250), ('had', 237), ('also', 232), ('get', 231), ('up', 228), ('each', 215), ('just', 202), ('only', 201), ('positive', 201), ('two', 196), ('do', 194), ('new', 184), ('pollsters', 184), ('2', 183), ('polling', 183), ('github', 178), ('%', 178), ('points', 178), (';', 177), ('them', 175), ('number', 175), ('time', 175), ('been', 174)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1112
+Number of types: 488
+Type token ratio: 0.43884892086330934
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, get, jon, amc, ve, jon, do, have, pan, have, want, don, want, have, see, are, are, look, have, do, are, tend, leave, are, are, think, rank, track, are, have, are, dear, lovelace, get')
+
+('JJ', 'mad, next, hamm, getty, mad, acclaimed, emmy, right, spent, hamm, january, john, big, solid, long, great, prestige, mad, varied, good, large, ensemble, built, emmy, outstanding, true, defunct, median, major, few, films, median, lead, top, first, worth, multiple, gunn, bad, good, peryear, top, busy, past, michelle, true, detective, true, good, raw, metric, productive, jason, rob, opposite, large, big, good, longterm, mad, ensemble, long, high, successful, big, connie, friday, busy, 80th, raw, show, annual, total, timothy, friday, big, legal, connie, noah, big, adrian, byrne, adrianne, friday, aimee, big, bad, big, friday, big, major, oscarnominated, romantic, mad')
+
+('NNS', 'men, data, datamadmen, images, men, seasons, nominations, years, members, jones, others, careers, men, answers, networks, shows, casts, people, shows, careers, data, actors, episodes, shows, likes, cards, shows, actors, performers, points, data, actors, actors, roles, performers, points, years, people, times, folks, feet, people, feet, people, candidates, actors, people, abbey, people, points, folks, careers, people, actors, shows, casts, prospects, men, metrics, people, metrics, performers, lights, scores, actors, hawkes, lights, lights, heroes, heroes, damages, lights, lights, lights, roles, miserables, ways, movies, biopics, men')
+
+('VBZ', 'is, attends, comes, is, does, means, gives, breaks, comes, anna, puts, is, leads, ends, has, gives, is, is, includes, heroes, is, les')
+
+('VBG', 'ending, wrapping, working, following, making, including, leading, supporting, meaning, supporting, doing, looking, leading, breaking, having, counting, wing, coming, breaking, being, ending')
+
+('NN', 'cast, walt, hickey, tv, data, github, github, premiere, dollar, arm, el, capitan, theatre, hollywood, california, frazer, harrison, end, sunday, cast, cast, slattery, screen, show, doubt, run, show, guarantee, lot, matter, work, conclusion, actor, tv, sopranos, cable, lot, tv, lot, lot, set, show, primetime, award, drama, series, television, wing, law, order, house, detective, zeroed, show, program, air, show, score, postshow, career, point, season, tv, show, point, time, role, film, role, film, let, sense, baseline, ve, github, look, actor, set, score, set, role, tv, film, third, score, bar, score, market, performer, set, score, year, television, season, role, film, set, prestige, television, show, deadwood, role, michael, hall, show, role, job, fellow, dexter, career, stint, prestige, television, basis, tier, show, year, monaghan, ryan, kwanten, blood, siobhan, finneran, downton, year, doesn, board, right, anything, work, buzzedabout, show, postshow, ritter, joan, arcadia, allison, janney, lowe, west, interestingly, problem, time, stuff, joan, arcadia, wing, news, way, winner, combination, record, work, period, productivity, rate, bunch, group, jennifer, morrison, house, amanda, love, scott, porter, britton, night, bar, percentile, score, score, performer, show, score, score, jason, ritter, joan, arcadia, allison, janney, west, wing, rob, west, wing, olyphant, deadwood, joe, mantegna, joan, arcadia, john, deadwood, scott, porter, night, amanda, love, siobhan, downton, abbey, julie, bowen, jennifer, morrison, house, britton, friday, night, wyle, er, milo, ventimiglia, ginnifer, goodwin, love, harold, perrineau, hayden, pasdar, kiefer, sutherland, palicki, night, teegarden, friday, night, chloë, sevigny, love, aaron, paul, bill, paxton, love, taylor, kitsch, night, daniel, dae, kim, emilie, ravin, bar, answer, postprestigetv, career, love, drama, comedy, west, john, amanda, show')
+
+('VBN', 'filed, seen, relied, lot, nominated, concluded, been, left, given, been, seen, done, dominated, accumulated, seyfried, stayed, annualized, seyfried, launched, excited')
+
+('VBD', 'scooped, left, appeared, took, started, appeared, was, had, was, had, encompassed, were, received, appeared, had, posted, had, had, had, had, annualized, had, appeared, appeared, catapulted, was, got, wrapped, were, deadwood, were, left, lowe, seyfried, finneran, lost, rose, lost, lost, had, had, seyfried')
+
+('VB', 'do, continue, do, be, eke, run, look, see, get, take, look, overemphasize, believe, get, see, do, crown, stardom, die, find')
+
+('JJS', 'least, least, west, best, best, best, best, west, best, best')
+
+('JJR', 'more, less, more, more, more, older, higher')
+
+100 most freq tokens after processing: 
+[('the', 6609), ('of', 3368), ('to', 2713), ('in', 2497), ('and', 2468), ('that', 1557), ('for', 1152), ('is', 1100), ('on', 985), ('it', 922), ('are', 820), ('with', 723), ('at', 714), ('as', 682), ('we', 664), ('by', 647), ('more', 634), ('our', 614), ('but', 603), ('this', 562), ('they', 560), ('trump', 546), ('or', 537), ('teamlogo', 535), ('percent', 534), ('you', 513), ('from', 508), ('have', 499), ('who', 477), ('about', 465), ('than', 460), ('was', 459), ('be', 442), ('one', 435), ('data', 418), ('were', 411), ('an', 391), ('has', 385), ('verdict', 377), ('not', 348), ('polls', 346), ('all', 334), ('their', 331), ('said', 325), ('how', 319), ('like', 319), ('there', 311), ('he', 304), ('other', 296), ('so', 295), ('people', 288), ('if', 286), ('can', 285), ('most', 277), ('what', 277), ('his', 273), ('some', 263), ('which', 262), ('those', 258), ('when', 258), ('out', 252), ('had', 237), ('also', 232), ('10', 232), ('get', 231), ('up', 228), ('each', 215), ('11', 206), ('just', 202), ('positive', 202), ('only', 201), ('two', 196), ('do', 194), ('13', 188), ('new', 184), ('polling', 184), ('pollsters', 184), ('14', 179), ('github', 178), ('time', 178), ('points', 178), ('been', 175), ('them', 175), ('number', 175), ('will', 170), ('12', 169), ('its', 168), ('donald', 168), ('no', 165), ('these', 164), ('many', 163), ('would', 163), ('poll', 161), ('election', 158), ('us', 157), ('average', 157), ('15', 157), ('bar', 157), ('see', 154), ('year', 153)]

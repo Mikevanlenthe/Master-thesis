@@ -1,0 +1,58 @@
+Article: historical-ncaa-forecasts
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 911
+Raw number of types: 349
+Raw Type token ratio (higher = more diversity in language use): 0.38309549945115257
+
+100 most freq tokens before (pre)processing: 
+[('the', 7227), (',', 6987), ('.', 4915), ('of', 3675), ('a', 3105), ('to', 2950), ('in', 2684), ('and', 2668), ('’', 2471), ('that', 1673), ('s', 1367), ('for', 1246), ('is', 1207), ('on', 1059), (':', 1056), ('it', 1027), ('are', 889), ('“', 827), ('”', 826), ('with', 778), ('at', 774), ('—', 766), ('as', 749), ('we', 743), ('by', 727), ('(', 720), (')', 720), ('percent', 687), ('but', 686), ('more', 670), ('our', 648), ('this', 618), ('i', 618), ('or', 591), ('they', 580), ('you', 561), ('have', 558), ('from', 552), ('trump', 545), ('team-logo', 535), ('t', 529), ('about', 504), ('was', 500), ('than', 492), ('who', 492), ('one', 469), ('be', 468), ('data', 456), ('were', 442), ('an', 424), ('has', 408), ('?', 405), ('1', 385), ('not', 378), ('verdict', 377), ('<', 364), ('their', 363), ('all', 363), ('>', 358), ('polls', 347), ('there', 346), ('like', 346), ('how', 343), ('said', 333), ('he', 333), ('if', 316), ('other', 315), ('so', 314), ('can', 313), ('what', 307), ('people', 301), ('some', 291), ('most', 289), ('his', 289), ('which', 284), ('out', 276), ('when', 274), ('those', 273), ('had', 262), ('also', 256), ('get', 243), ('up', 240), ('each', 236), ('only', 221), ('just', 218), ('two', 214), ('do', 209), ('positive', 203), ('its', 197), ('new', 197), ('them', 194), ('github', 193), ('these', 191), ('time', 188), ('will', 188), (';', 187), ('2', 187), ('points', 187), ('been', 184), ('pollsters', 184)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 735
+Number of types: 326
+Type token ratio: 0.4435374149659864
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'mar, ncaa, bracket, work, silver, march, madness, data, github, github, hallice, sulaimon, ncaa, basketball, lance, fivethirtyeight, state, virginia, friday, model, state, percent, chance, percent, chance, course, team, edge, duke, favorite, mercer, week, mercer, time, question, forecast, term, calibration, truth, advertising, run, team, percent, favorite, percent, time, tournament, year, formula, period, change, computer, power, rating, espn, basketball, power, index, season, baseline, evaluation, total, year, york, fivethirtyeight, advance, game, favorite, percent, time, favorite, model, percent, time, level, percent, percent, confidence, drawn, everything, duke, game, mercer, state, virginia, pie, favorite, percent, fact, percent, time, year, missouri, state, percent, favorite, pie, bin, percent, percent, percent, time, fact, percent, time, pie, contrast, percent, percent, percent, pie, cocky, something, model, chance, graphic, bin, confidence, result, confidence, interval, calibration, calibration, work, way, tournament, tell, buddy, year, correction, speaking, work, reader, dk, database, kentucky, winner, semifinal, chart, table, text, result, assistance, error')
+
+('VBP', 'am, get, mercer, pie, are, tossup, are, are, say, have, include, are, have, tell, win, expect, work, ve, pie, have, are, are, are, are, encourage, think, have, have, appreciate')
+
+('VBG', 'checking, king, calling, winning, evaluating, winning, winning, adding, counting, containing, according, simulating, being, going, performing, getting, winning, checking')
+
+('JJ', 'nate, tj, rasheed, tournament, getty, ncaa, tournament, probabilistic, michigan, michigan, other, percent, last, probabilistic, technical, long, fivethirtyeight, ncaa, little, only, substantive, fifth, reasonable, playin, file, past, important, new, espn, actual, overall, fivethirtyeight, macro, calibrated, interval, important, slim, michigan, favorite, win, win, win, win, wrong, random, following, respective, perfect, perfect, significant, overall, true, fivethirtyeight, national, correct, dk')
+
+('VBN', 'filed, shot, supposed, expected, been, published, changed, been, published, been, supposed, expected, won, expected, been, duke, listed, been, changed')
+
+('NNS', 'data, datahistoricalncaaforecasts, defends, duke, images, forecasts, intents, purposes, times, upsets, underdogs, times, projections, games, played, totals, games, predictions, predictions, times, versions, predictions, hindcasts, forecasts, results, times, favorites, favorites, games, exceptions, numbers, favorites, probabilities, teams, games, teams, games, teams, probabilities, games, favorites, probabilities, teams, probabilities, favorites, differences, ranges, results, games, intervals, deviations, results, results, probabilities')
+
+('VB', 'say, defeat, call, happen, think, find, emphasize, win, win, norfolk, win, result, explain, check, let, know, judge, don, reflect, apologize')
+
+('VBZ', 'is, gives, has, is, is, is, is, has, has, gives, is, doesn, pie, contains, bit, is, is, portrays, is, is')
+
+('JJR', 'clearer, heavier, better, worse, heavier, worse, heavier, easier, better')
+
+('VBD', 'was, won, were, won, was, supposed, won, were, lost, were, won, performed, were, had, discovered, connecticut')
+
+100 most freq tokens after processing: 
+[('the', 7227), ('of', 3675), ('to', 2950), ('in', 2686), ('and', 2668), ('that', 1677), ('for', 1247), ('is', 1209), ('on', 1059), ('it', 1030), ('are', 891), ('with', 778), ('at', 775), ('as', 749), ('we', 743), ('by', 727), ('percent', 696), ('but', 686), ('more', 670), ('our', 648), ('this', 618), ('or', 591), ('they', 580), ('you', 562), ('have', 558), ('from', 552), ('trump', 546), ('teamlogo', 535), ('about', 504), ('was', 500), ('than', 492), ('who', 492), ('one', 472), ('be', 470), ('data', 456), ('were', 442), ('an', 424), ('has', 408), ('not', 378), ('verdict', 377), ('their', 363), ('all', 363), ('polls', 347), ('there', 346), ('like', 346), ('how', 343), ('said', 333), ('he', 333), ('if', 316), ('other', 316), ('so', 315), ('can', 313), ('what', 307), ('people', 301), ('some', 291), ('most', 290), ('his', 289), ('which', 284), ('out', 278), ('when', 274), ('those', 273), ('had', 262), ('also', 256), ('10', 245), ('get', 243), ('up', 240), ('each', 237), ('only', 221), ('just', 218), ('11', 215), ('two', 214), ('do', 210), ('positive', 204), ('bar', 201), ('13', 198), ('its', 197), ('new', 197), ('them', 194), ('github', 193), ('time', 192), ('these', 191), ('will', 188), ('points', 187), ('been', 185), ('polling', 184), ('pollsters', 184), ('14', 182), ('us', 180), ('number', 178), ('would', 176), ('no', 176), ('12', 174), ('many', 171), ('because', 169), ('donald', 168), ('15', 167), ('much', 167), ('my', 166), ('average', 164), ('see', 164)]

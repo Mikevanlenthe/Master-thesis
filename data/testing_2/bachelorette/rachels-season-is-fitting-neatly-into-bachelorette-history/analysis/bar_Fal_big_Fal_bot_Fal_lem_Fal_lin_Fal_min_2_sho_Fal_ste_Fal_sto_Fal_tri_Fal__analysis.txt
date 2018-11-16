@@ -1,0 +1,60 @@
+Article: bachelorette/rachels-season-is-fitting-neatly-into-bachelorette-history
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 683
+Raw number of types: 300
+Raw Type token ratio (higher = more diversity in language use): 0.43923865300146414
+
+100 most freq tokens before (pre)processing: 
+[('the', 5175), (',', 5042), ('.', 3393), ('of', 2549), ('a', 2202), ('to', 2132), ('in', 2013), ('and', 1857), ('’', 1669), ('that', 1198), ('for', 912), ('s', 905), ('is', 852), (':', 826), ('on', 751), ('it', 720), ('are', 628), ('“', 587), ('”', 586), ('with', 575), ('our', 551), ('at', 540), ('team-logo', 535), ('by', 529), ('as', 515), ('more', 514), ('we', 507), ('—', 497), ('(', 488), (')', 488), ('but', 466), ('this', 431), ('they', 412), ('i', 401), ('you', 393), ('or', 392), ('t', 387), ('have', 384), ('verdict', 377), ('percent', 375), ('than', 374), ('from', 370), ('was', 361), ('1', 356), ('about', 349), ('one', 347), ('who', 346), ('trump', 345), ('polls', 342), ('be', 338), ('an', 303), ('data', 287), ('has', 287), ('were', 276), ('like', 270), ('all', 270), ('their', 265), ('not', 257), ('he', 246), ('if', 244), ('there', 238), ('how', 236), ('said', 235), ('most', 230), ('other', 225), ('can', 220), ('?', 218), ('so', 216), ('some', 205), ('when', 203), ('those', 200), ('what', 199), ('which', 197), ('positive', 197), ('his', 195), ('out', 189), ('<', 189), ('>', 188), ('people', 184), ('up', 184), ('pollsters', 184), ('polling', 183), ('get', 181), ('also', 179), ('each', 174), ('had', 172), ('2', 169), ('just', 162), ('points', 162), ('only', 159), ('donald', 157), ('two', 157), ('%', 157), ('poll', 154), (';', 150), ('do', 145), ('time', 142), ('league', 142), ('new', 141), ('election', 141)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 561
+Number of types: 281
+Type token ratio: 0.5008912655971479
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'rachel, season, history, walt, hickey, ella, koeze, tv, data, github, github, databachelorette, home, stretch, season, bachelorette, time, preseason, bachelor, bachelorette, analysis, attorney, texas, field, challenge, rachel, season, elimination, demario, girl, television, roseceremony, eliminations1, season, power, firstimpression, contestant, move, day, recipient, bryan, sight, anything, dean, oneonone, date, rachel, bit, anything, season, proof, twoonone, one, half, twoonone, date, twoonone, date, percent, contestant, competition, doom, kenny, head, serpentine, lee, date, proper, rachel, guy, week, history, season, time, contender, bachelor, bachelorette, point, value, value, oneonone, smallgroup, largegroup, oneonone, date, twoonone, half, date, threeonone, onethird, date, peter, dean, neck, neck, time, rachel, bryan, break, oneonone, week, adam, matt, everyone, time, rachel, week, chance, line, thing, chart, reality, rachel, point, bestcase, scenario, total, man, line, thing')
+
+('VBZ', 'is, means, has, has, seems, reinforces, makes, is, is, has, comes, has, has, is, is, has, gets')
+
+('VBG', 'fitting, going, breaking, going, remaining, considering, assigning, speaking, going, counting, coming, getting, getting')
+
+('JJ', 'bachelorette, perfect, rigorous, previous, unscheduled, nice, aggregate, historical, final, hometown, first, real, peter, early, tend, further, next, lee, kenny, following, next, much, exclusive, final, eric, late, top, poor, first, last, shocking, harsh, finale, crazy')
+
+('VBN', 'filed, published, narrowed, seen, eliminated, broken, given, doomed, gone, won, gone, eliminated, bounced, eliminated, proceeded, had, based, spent, rejected, been, gone, engaged')
+
+('VBP', 'get, re, handle, love, have, go, are, are, are, spell, re, ve, are, are, are, are, stand, are, ve')
+
+('NNS', 'data, gentlemen, contestants, men, dates, men, dates, predecessors, dates, folks, people, dates, dates, years, survivors, weeks, weeks, participants, cases, twoonones, dates, dates, dates, dates, dates, dates, men, terms, numbers, dates, men, families, dates')
+
+('VB', 'check, rachel, lindsay, have, favor, be, bryan, mean, head, go, hometowns, say, spend, move, meet, have')
+
+('VBD', 'held, did, rose, rose, learned, had, wrote, won, went, were, was, decided, looked, was, met, were, had')
+
+('JJS', 'strongest, most')
+
+('JJR', 'more, higher, better, better, better, more')
+
+100 most freq tokens after processing: 
+[('the', 5175), ('of', 2549), ('to', 2132), ('in', 2014), ('and', 1857), ('that', 1202), ('for', 913), ('is', 852), ('on', 751), ('it', 722), ('are', 629), ('with', 575), ('our', 551), ('at', 541), ('teamlogo', 535), ('by', 529), ('as', 515), ('more', 514), ('we', 507), ('but', 466), ('this', 431), ('they', 412), ('you', 393), ('or', 392), ('have', 384), ('percent', 379), ('verdict', 377), ('than', 374), ('from', 370), ('was', 361), ('one', 350), ('about', 349), ('who', 346), ('trump', 346), ('polls', 342), ('be', 339), ('an', 303), ('data', 287), ('has', 287), ('were', 276), ('like', 270), ('all', 270), ('their', 265), ('not', 257), ('he', 246), ('if', 244), ('there', 238), ('how', 236), ('said', 235), ('most', 230), ('other', 226), ('can', 220), ('so', 217), ('some', 205), ('10', 204), ('when', 203), ('those', 200), ('what', 199), ('positive', 198), ('which', 197), ('his', 195), ('11', 192), ('out', 190), ('people', 184), ('up', 184), ('polling', 184), ('pollsters', 184), ('get', 181), ('also', 179), ('each', 174), ('had', 172), ('just', 162), ('points', 162), ('13', 160), ('only', 159), ('donald', 158), ('two', 157), ('poll', 154), ('14', 150), ('do', 145), ('12', 144), ('time', 143), ('league', 142), ('new', 141), ('average', 141), ('election', 141), ('will', 141), ('number', 140), ('them', 136), ('its', 135), ('neutral', 134), ('15', 132), ('github', 130), ('would', 129), ('these', 125), ('many', 124), ('much', 124), ('been', 122), ('no', 122), ('my', 121)]

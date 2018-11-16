@@ -1,0 +1,62 @@
+Article: early-senate-polls
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1253
+Raw number of types: 436
+Raw Type token ratio (higher = more diversity in language use): 0.3479648842777334
+
+100 most freq tokens before (pre)processing: 
+[('the', 8322), (',', 8016), ('.', 5675), ('of', 4127), ('a', 3590), ('to', 3368), ('in', 3151), ('and', 3082), ('’', 2867), ('that', 1874), ('s', 1615), ('for', 1401), ('is', 1389), ('on', 1197), ('it', 1194), (':', 1115), ('are', 1008), ('“', 952), ('”', 951), ('—', 886), ('at', 882), ('with', 868), ('as', 858), ('we', 824), ('(', 809), (')', 807), ('by', 794), ('but', 789), ('percent', 781), ('more', 742), ('i', 721), ('this', 700), ('or', 676), ('our', 669), ('they', 635), ('have', 634), ('from', 626), ('you', 623), ('t', 600), ('was', 586), ('about', 566), ('be', 557), ('than', 550), ('trump', 549), ('team-logo', 535), ('who', 529), ('one', 521), ('data', 515), ('an', 494), ('has', 487), ('were', 484), ('?', 445), ('not', 438), ('all', 426), ('he', 412), ('<', 410), ('so', 408), ('>', 404), ('1', 400), ('their', 398), ('there', 397), ('verdict', 377), ('polls', 375), ('how', 374), ('like', 373), ('said', 367), ('if', 365), ('his', 349), ('other', 348), ('can', 344), ('what', 337), ('which', 336), ('some', 333), ('people', 332), ('most', 313), ('out', 312), ('had', 311), ('when', 310), ('those', 299), ('also', 295), ('up', 269), ('get', 261), ('each', 261), ('only', 253), ('just', 252), ('two', 238), ('do', 235), ('its', 223), ('world', 223), ('time', 222), ('new', 220), ('github', 219), ('these', 218), (';', 215), ('will', 214), ('%', 214), ('them', 212), ('would', 210), ('year', 210), ('been', 208)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1016
+Number of types: 411
+Type token ratio: 0.4045275590551181
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'pm, polls, midterms, data, dataearlysenatepolls, waits, waits, polls, grimes, votes, indicators, predictions, analysts, rates, polls, democrats, polls, obama, polls, carolina, months, elections, polls, numbers, polls, democrats, arkansas, races, states, polls, polls, results, points, polls, points, points, races, races, words, races, polls, predictors, polls, predictions, points, points, polls, points, ratings, democrats, obama, arkansas, candidates, projections, polls, states, polls, ratings, races, arkansas, kentucky, republicans, carolina, democrats, peters, losses, seats, seats, factors, totals, numbers, races, errors, points, polls, points, polls, polls, democrats, midterms, polls, forecasts')
+
+('JJ', 'early, badgett, badgett, ap, republican, political, senate, democratic, lundergan, low, democratic, unpopular, political, cook, political, rothenberg, political, leaning, republican, likely, republican, kentucky, only, other, possible, alaska, north, mitt, last, presidential, midterm, current, past, indicative, come, robust, metric, sparse, much, useless, early, alaska, realclearpoliticsstyle, matching, first, good, final, average, early, final, final, average, early, ultimate, scattered, other, other, perfect, senate, presidential, presidential, median, earlycycle, average, presidential, early, alaska, louisiana, high, probabilistic, democratic, current, close, alaska, close, louisiana, democratic, mary, current, north, high, much, likely, helped, overall, simple, democratic, fivethirtyeight, other, important, early, early, ohio, republican, democrat, early, close, obama, bad, early, same, republican, close, obama, predictive, metric, smart, political')
+
+('NN', 'senate, plenty, harry, data, github, github, mitch, mcconnell, campaign, stop, supply, madisonville, ky, stephen, lance, dennee, ap, mitch, mcconnell, campaign, stop, supply, madisonville, ky, stephen, lance, dennee, kentucky, senator, mitch, mcconnell, life, minority, leader, opponent, alison, president, obama, approval, kentucky, brand, mcconnell, time, report, race, tossup, report, column, sabato, crystal, ball, step, colleague, nate, silver, forecast, meanwhile, mcconnell, percent, chance, isn, state, disparity, state, opinion, senate, pickup, opportunity, georgia, state, treat, arkansas, louisiana, romney, success, election, polling, precedent, trust, measure, november, time, election, president, approval, rating, accurate, year, look, louisiana, analysis, average, polls1, comparison, president, approval, rating, half, year, place, chart, early4, job, vote, margin, error, comparison, senate, race, month, election, error, bar, bar, president, party, candidate, percent, time, poll, average, percent, time, bar, president, approval, rating, isn, result, link, note, data, chart, chart, bar, sample, president, statewide, approval, rating, percent, obama, president, party, candidate, percent, hand, president, approval, rating, percent, president, party, candidate, percent, president, approval, rating, predictor, bar, approval, latter, plenty, information, horserace, approval, error, error, point, fact, approval, matter, addition, horserace, polling, approval, rating, percent, percent, estimate, bar, idea, data, obama, model, polls11, obama, approval, rating, table, candidate, chance, poll, approval, instance, model, percent, chance, estimate, obama, rating, senate, candidate, landrieu, polling, average, year, georgia, approval, rating, michigan, al, minnesota, bit, president, model, senate, senate, forecast, account, candidate, ideology, twenty, model, approval, bar, rob, portman, lee, fisher, approval, wasn, year, roy, blunt, missouri, bar, race, kentucky, year, obama, approval, rating, approval, rating, statewide')
+
+('VBP', 'have, get, sen, are, have, are, dems, are, are, are, are, factor, do, overall, are, are, bar, do, estimate, have, are, gary, are, re, have, mcconnell, remember, are, incorporate')
+
+('VB', 'tell, speak, speak, be, myriad, win, say, help, refine, make, turn, offer, worry, kentucky, be, give, hurt, favor, win, nate, lose, emphasize')
+
+('VBN', 'november, filed, tied, fine, cast, led, analyzed, produced, taken, tied, compared, combined, had, taken, estimated, projected, franken')
+
+('VBZ', 'rky, rky, is, is, is, is, is, puts, goes, says, has, is, didn, is, turns, is, doesn, shows, is, is, is, has, is, suggests, is, looks, looks, shows, gives, is, hurts, is, doesn, puts, takes, goes, is, is')
+
+('VBD', 'sen, kentucky, took, collected, was, was, had, won, led, lost, trailed, was, lost, was, lost, dropped, dropped, pulled, included, had, beat, were')
+
+('VBG', 'fighting, suggesting, competing, telling, according, competing, remaining, promising, forecasting, using, going, winning, using, including, fundraising, talking, controlling, holding')
+
+('JJR', 'more, more, weaker, less, greater, better, lower, greater')
+
+('JJS', 'least')
+
+('NNPS', 'democrats')
+
+100 most freq tokens after processing: 
+[('the', 8322), ('of', 4127), ('to', 3368), ('in', 3153), ('and', 3082), ('that', 1879), ('for', 1402), ('is', 1391), ('it', 1200), ('on', 1197), ('are', 1010), ('at', 883), ('with', 868), ('as', 858), ('we', 824), ('by', 794), ('percent', 790), ('but', 789), ('more', 742), ('this', 700), ('or', 676), ('our', 669), ('they', 635), ('have', 634), ('from', 626), ('you', 624), ('was', 586), ('about', 566), ('be', 559), ('than', 550), ('trump', 550), ('teamlogo', 535), ('who', 529), ('one', 524), ('data', 515), ('an', 494), ('has', 487), ('were', 484), ('not', 438), ('all', 427), ('he', 412), ('so', 409), ('their', 398), ('there', 397), ('verdict', 377), ('polls', 375), ('how', 374), ('like', 373), ('said', 367), ('if', 365), ('other', 349), ('his', 349), ('can', 344), ('what', 337), ('which', 336), ('some', 333), ('people', 332), ('out', 315), ('most', 314), ('had', 311), ('when', 310), ('those', 299), ('also', 295), ('up', 270), ('10', 265), ('each', 262), ('get', 261), ('only', 253), ('just', 252), ('two', 238), ('do', 236), ('bar', 227), ('time', 226), ('11', 224), ('its', 223), ('world', 223), ('new', 220), ('github', 219), ('these', 218), ('us', 216), ('will', 214), ('them', 213), ('year', 211), ('would', 210), ('been', 209), ('13', 207), ('positive', 204), ('no', 199), ('points', 198), ('my', 197), ('team', 195), ('number', 194), ('over', 193), ('much', 192), ('14', 190), ('first', 187), ('because', 187), ('polling', 187), ('pollsters', 184), ('many', 182)]

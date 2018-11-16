@@ -1,0 +1,62 @@
+Article: drug-use-by-age
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1055
+Raw number of types: 397
+Raw Type token ratio (higher = more diversity in language use): 0.376303317535545
+
+100 most freq tokens before (pre)processing: 
+[(',', 2012), ('the', 1936), ('.', 1158), ('of', 898), ('a', 826), ('in', 784), ('to', 731), ('and', 642), ('’', 566), (':', 532), ('that', 452), ('our', 431), ('verdict', 377), ('s', 338), ('for', 323), ('on', 311), ('is', 308), ('it', 304), ('1', 265), ('trump', 246), ('with', 234), ('i', 219), ('at', 203), ('more', 203), ('“', 199), ('”', 198), ('positive', 187), ('this', 184), ('by', 179), ('(', 178), (')', 178), ('but', 168), ('—', 168), ('as', 168), ('than', 165), ('percent', 162), ('we', 161), ('are', 160), ('like', 153), ('was', 147), ('from', 143), ('donald', 142), ('about', 139), ('have', 135), ('neutral', 132), ('he', 130), ('an', 129), ('t', 128), ('you', 123), ('his', 122), ('data', 113), ('has', 113), ('one', 112), ('or', 112), ('be', 108), ('/', 101), ('not', 92), ('they', 91), ('other', 87), ('were', 86), ('my', 84), ('who', 83), ('negative', 82), ('trump�', 82), ('when', 82), ('2', 81), ('me', 79), ('all', 77), ('state', 77), ('so', 76), ('their', 76), ('?', 76), ('there', 74), ('how', 74), ('out', 74), ('<', 72), ('>', 72), ("'m", 72), ('people', 72), ('films', 71), ('3', 70), ('model', 70), ('which', 69), ('up', 69), ('�i', 67), ('polls', 67), ('just', 66), (';', 66), ('some', 66), ('what', 66), ('get', 65), ('can', 64), ('most', 63), ('if', 63), ('10', 63), ('only', 59), ('those', 58), ('hillary', 58), ('do', 56), ('5', 55)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 900
+Number of types: 372
+Type token ratio: 0.41333333333333333
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, get, have, wall, drink, smoke, do, tend, change, archive, are, are, are, use, alcohol, bar, versus, do, drink, alcohol, are, ve, use, make, are, are, say, download')
+
+('NN', 'baby, barryjester, health, github, github, datadrugusebyage, decade, drug, use, street, journal, article, month, mentality, drug, age, look, data, plenty, baby, pot, percentage, consume, alcohol, analysis, alcohol, marijuana, lot, availability, perception, drug, use, age, group, time, survey, drug, use, substance, abuse, health, samhda, baby, use, age, babyboomer, cohort1, drug, use, bar, drug, use, drug, alcohol, marijuana, age, use, percent, chart, bar, bar, baby, line, prescription, pain, percent, one, nonprescription, year, percentage, pain, group, age, use, ritalin, bar, use, age, cocaine, year, number, age, group, potsmoking, boomer, year, age, use, bar, reporting, week, drug, use, line, babyboom, generation, lot, drug, use, percent, percent, rate, percent, percent, period, line, use, difference, drug, use, use, bar, painkiller, category, survey, prescription, set, addiction, abuse, standpoint, percent, oxycontin, year, percent, nature, drug, illicit, use, cause, concern, subgroup, something, analysis, doesn, answer, bar, data, isn, equivalent, health, standpoint, week, night, puff, marijuana, cause, concern, addiction, share, drug, treatment, share, population, baby, overdose, research, richard, miech, professor, university, miech, lack, information, death, drug, use, population, generation, pain, loss, isolation, brain, identifying, drug, generation, predilection, data, story, github')
+
+('NNS', 'boomers, maria, flowers, data, data, reports, rates, admissions, overdoses, boomers, years, generations, americans, habits, boomers, drugs, reveals, boomers, drugs, drugs, data, drugs, boomers, patterns, groups, people, boomers, rates, contemporaries, drugs, groups, boomers, differences, drugs, boomers, relievers, purposes, boomers, relievers, respondents, hallucinogens, tranquilizers, stimulants, amphetamines, respondents, drugs, boomers, groups, users, boomers, days, days, days, days, days, days, groups, boomers, drinkers, days, errors, people, boomers, respondents, people, drugs, parents, grandparents, boomers, boomers, marijuana, boomers, reports, painkillers, people, boomers, painkillers, boomers, ones, dozens, drugs, questions, drugs, boomers, drinks, drinks, adults, admissions, facilities, boomers, generations, certificates, drugs, deaths, reasons, users, researchers, people, effects, traits, boomers, problems, substances')
+
+('JJ', 'high, anna, andrew, public, past, illicit, hospital, baby, previous, last, woodstock, youthful, middle, small, other, public, different, difficult, able, federal, mental, different, other, similar, overall, individual, high, other, next, previous, other, common, other, frequent, crowd, many, previous, other, median, high, median, same, potential, comfortable, illicit, same, high, narcotic, true, different, additional, common, problematic, previous, high, addictive, deadly, likely, oxycontin, public, occasional, present, funded, likely, other, hard, responsible, overdose, different, high, chronic, social, baby, different, narrative')
+
+('VBN', 'filed, detailed, given, used, used, reported, aged, asked, compared, given, done, shared')
+
+('VB', 'get, carry, marijuana, use, use, compare, analyze, see, have, remove, be, quadruple, notice, default, be, be, use, use, abuse, die, know, reveal')
+
+('JJR', 'higher, later, lower, younger, less, smaller, lower, younger, less, more, younger, more, younger, more, older, younger, older, older, younger, older, smaller, older, younger, older, less')
+
+('VBD', 'drugrelated, described, were, aged, were, was, dwarfed, opted, was, used, aged, reported, used, reported, got, was, turned, did, increased, went, started, began, found, said, used, said, were')
+
+('VBG', 'causing, aging, including, making, taking, saying, using, including, saying, reporting, including, turning, warning, dropping, concerning, binging, debilitating, according, getting, coping, aging, mindaltering')
+
+('VBZ', 'shows, comes, hard, seems, grows, represents, is, is, relates, is, is, makes')
+
+('JJS', 'least')
+
+('NNP', 'michigan')
+
+100 most freq tokens after processing: 
+[('the', 1936), ('of', 898), ('in', 784), ('to', 731), ('and', 642), ('that', 453), ('our', 431), ('verdict', 377), ('for', 324), ('on', 311), ('is', 308), ('it', 305), ('trump', 246), ('with', 234), ('at', 203), ('more', 203), ('positive', 188), ('this', 184), ('by', 179), ('but', 168), ('as', 168), ('percent', 166), ('than', 165), ('we', 161), ('are', 160), ('like', 153), ('was', 147), ('from', 143), ('donald', 143), ('about', 139), ('have', 135), ('neutral', 132), ('he', 130), ('an', 129), ('you', 123), ('his', 122), ('one', 115), ('data', 113), ('has', 113), ('or', 112), ('be', 109), ('not', 92), ('they', 91), ('other', 87), ('were', 86), ('my', 84), ('who', 83), ('negative', 82), ('trump�', 82), ('when', 82), ('me', 80), ('so', 77), ('all', 77), ('state', 77), ('their', 76), ('there', 74), ('how', 74), ('out', 74), ('10', 74), ('people', 72), ('films', 71), ('model', 70), ('which', 69), ('up', 69), ('�i', 67), ('polls', 67), ('just', 66), ('some', 66), ('what', 66), ('get', 65), ('can', 64), ('most', 63), ('if', 63), ('only', 59), ('those', 58), ('hillary', 58), ('do', 56), ('bar', 54), ('2014', 53), ('also', 53), ('women', 53), ('each', 52), ('said', 52), ('2013', 51), ('2012', 51), ('year', 50), ('had', 50), ('2015', 50), ('points', 50), ('time', 49), ('number', 48), ('film', 48), ('them', 47), ('no', 47), ('2016', 47), ('got', 46), ('nt', 46), ('don', 45), ('github', 45), ('would', 45)]

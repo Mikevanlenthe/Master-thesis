@@ -1,0 +1,62 @@
+Article: nfl-ticket-prices
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1000
+Raw number of types: 386
+Raw Type token ratio (higher = more diversity in language use): 0.386
+
+100 most freq tokens before (pre)processing: 
+[('the', 4843), (',', 4768), ('.', 3174), ('of', 2388), ('a', 2026), ('to', 2002), ('in', 1906), ('and', 1736), ('’', 1575), ('that', 1129), ('for', 863), ('s', 861), (':', 800), ('is', 789), ('it', 692), ('on', 683), ('are', 574), ('“', 551), ('”', 550), ('our', 548), ('team-logo', 535), ('with', 532), ('at', 506), ('as', 499), ('by', 493), ('more', 483), ('we', 480), ('(', 460), (')', 460), ('—', 457), ('but', 423), ('this', 414), ('i', 401), ('you', 383), ('they', 382), ('verdict', 377), ('have', 363), ('or', 363), ('t', 356), ('from', 356), ('1', 354), ('percent', 349), ('than', 347), ('trump', 345), ('was', 344), ('polls', 342), ('about', 333), ('one', 322), ('be', 321), ('who', 314), ('an', 283), ('has', 274), ('data', 271), ('like', 266), ('were', 262), ('he', 245), ('all', 243), ('not', 241), ('their', 240), ('said', 235), ('if', 233), ('there', 223), ('how', 218), ('most', 216), ('other', 215), ('can', 208), ('?', 204), ('so', 201), ('some', 196), ('his', 195), ('positive', 193), ('when', 192), ('what', 185), ('which', 184), ('pollsters', 184), ('polling', 183), ('people', 180), ('those', 178), ('out', 170), ('up', 170), ('2', 169), ('also', 167), ('<', 167), ('>', 166), ('get', 164), ('each', 163), ('had', 158), ('donald', 157), ('%', 157), ('points', 156), ('poll', 154), ('just', 149), ('only', 148), ('two', 146), ('election', 141), ('do', 138), ('number', 138), ('league', 138), (';', 136), ('will', 136)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 824
+Number of types: 364
+Type token ratio: 0.441747572815534
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, walt, hickey, bar, walt, data, github, github, york, half, game, england, dec, rutherford, jersey, bill, karaoke, online, shopping, drink, bar, column, life, culture, barroom, research, conclusion, question, conundrum, author, york, makeshift, shrine, jr, soaking, schadenfreude, expense, philadelphia, couple, nfl, season, super, interesting, promise, mediocre, football, argument, question, meaningless, end, season, reason, stubhub, online, ticket, market, ticket, price, game, year, dec, home, game, ticket, price, team, year, home, team, playoff, contention, discount, ticket, rest, season, price, week, game, york, season, average, bar, muse, havas, pictwittercomrk4dhi2sue, walter, hickey, december, mark, fugger, season, ticket, holder, joe, namath, end, season, metlife, stadium, lot, christmas, shopping, result, end, year, football, game, event, allday, party, parking, lot, day, game, place, party, spoke, group, fan, fan, spectacle, nfl, york, work, team, play, metlife, gillette, stadium, patriots, fan, deal, fan, time, game, mcgarr, season, ticket, holder, afc, travel, front, team, pittsburgh, town, data, stubhub, location, season, percentage, york, jersey, home, turf, gang, green, standin, region, denver, pittsburgh, england, mcgarr, increase, yorknew, jersey, share, home, game, york, buffalo, majority, fugger, contingent, budget, case, dec, game, contingent, tank, gas')
+
+('VBZ', 'goes, ap, is, goes, has, looks, wasn, comes')
+
+('VB', 'meaningless, matter, take, submit, pick, odell, beckham, pack, uncover, see, play, denver, see, see, go, metlife')
+
+('JJ', 'nfl, new, second, new, east, new, argument, walt, only, dumb, pop, use, logical, statistical, typical, fight, new, last, regular, many, frigid, nfl, obvious, secondary, average, divisional, average, total, divisional, divisional, eliminated, average, other, average, average, other, expensive, new, lifelong, kevin, kevinhavas, walthickey, many, casual, wrong, full, canada, many, local, new, good, diehard, last, tom, many, nearby, new, new, perfect, many, new, new, fifth, western, new, vast, large, hometown, massive, massachusetts, full')
+
+('NNS', 'games, fights, data, datanflticketprices, jets, fans, patriots, friends, fights, questions, arguments, rants, data, arguments, haunts, giants, eagles, fans, weeks, teams, playoffs, stadiums, temperatures, games, people, games, tickets, data, games, games, matches, hosts, prices, games, prices, motivations, jets, patriots, fights, jets, years, days, jets, fans, sundays, things, partiers, people, jets, fans, frenchcanadians, patriots, fans, jets, steelers, patriots, fans, professionals, games, tickets, christmas, presents, kids, games, patriots, teams, bases, jets, games, fans, steelers, broncos, data, tickets, jets, games, tickets, buyers, broncos, steelers, fans, dips, games, jets, bills, tickets, games, diehards, fans, fans, festivities, patriots, fans, plates')
+
+('VBN', 'filed, done, devoted, eliminated, eliminated, compared, been, fan, come, come, fan, played, sold, sold')
+
+('VBP', 'get, cheer, ll, like, corner, fan, attend, are, are, fan, faithful, take, don, have, come, have, home, are, are, home, see, are, live, see, get, don, want')
+
+('NNP', 'kostroun')
+
+('JJS', 'best')
+
+('VBG', 'solving, erecting, recurring, seeing, seeing, visiting, hosting')
+
+('VBD', 'developed, hashed, found, were, appeared, prompted, sent, were, was, had, saw, went, host, was, met, explained, said, were, said, spoke, asked, brought, was, said, had, had, moved, said, was, said, came, got, were, said, came, got, said, asked, bought, said, hosted')
+
+('JJR', 'cheaper, higher, lower, cheaper, matter, more, younger')
+
+100 most freq tokens after processing: 
+[('the', 4843), ('of', 2388), ('to', 2002), ('in', 1906), ('and', 1736), ('that', 1133), ('for', 864), ('is', 789), ('it', 694), ('on', 683), ('are', 575), ('our', 548), ('teamlogo', 535), ('with', 532), ('at', 507), ('as', 499), ('by', 493), ('more', 483), ('we', 480), ('but', 423), ('this', 414), ('you', 383), ('they', 382), ('verdict', 377), ('have', 363), ('or', 363), ('from', 356), ('percent', 353), ('than', 347), ('trump', 346), ('was', 344), ('polls', 342), ('about', 333), ('one', 325), ('be', 322), ('who', 314), ('an', 283), ('has', 274), ('data', 271), ('like', 266), ('were', 262), ('he', 245), ('all', 243), ('not', 241), ('their', 240), ('said', 235), ('if', 233), ('there', 223), ('how', 218), ('most', 216), ('other', 216), ('can', 208), ('so', 202), ('10', 201), ('some', 196), ('his', 195), ('positive', 194), ('when', 192), ('11', 189), ('what', 185), ('which', 184), ('polling', 184), ('pollsters', 184), ('people', 180), ('those', 178), ('out', 171), ('up', 170), ('also', 167), ('get', 164), ('each', 163), ('donald', 158), ('had', 158), ('points', 156), ('13', 155), ('poll', 154), ('14', 150), ('just', 149), ('only', 148), ('two', 146), ('12', 142), ('election', 141), ('do', 138), ('number', 138), ('league', 138), ('will', 136), ('new', 134), ('average', 132), ('neutral', 132), ('its', 129), ('15', 129), ('time', 128), ('them', 125), ('would', 124), ('these', 122), ('github', 121), ('my', 121), ('year', 118), ('much', 117), ('been', 115), ('many', 114)]

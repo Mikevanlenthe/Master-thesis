@@ -1,0 +1,45 @@
+Sentence nr: 0
+Apr.
+
+Sentence nr: 1
+30, 2014 at 5:15 PM We’ve Published Our Data on the South And Midwest By Walt Hickey Filed under Remix FacebookTwitterEmail There was a lot of interest in the posts I wrote Tuesday and Wednesday — using the results of two SurveyMonkey Audience polls — about which states make up the South and the Midwest.
+
+Sentence nr: 2
+We’re making the data available on GitHub.
+
+Sentence nr: 3
+On our GitHub page, you’ll find the responses to the South and Midwest surveys in CSV format.
+
+Sentence nr: 4
+So you can make heads or tails of what they mean, there’s a file explaining what is what.
+
+Sentence nr: 5
+We’re excited to see what folks do with the data.
+
+Sentence nr: 6
+There’s some information I didn’t use — such as respondent ZIP code, income, gender and region — that could make for interesting approaches.
+
+Sentence nr: 7
+There’s also a column that may be of interest to people who want to do some language analysis: We asked respondents to say where they live, in their own words.
+
+Sentence nr: 8
+I’m especially interested in approaches that use the ZIP code data: Where are the Southern and Midwestern expatriates?
+
+Sentence nr: 9
+Do local definitions of regions explain the Midwestern inability to agree on the core states?
+
+Sentence nr: 10
+And how split are residents of difficult-to-categorize states, such as Missouri and Virginia, on their own identity?
+
+Sentence nr: 11
+Please send any data remixes to me.
+
+Sentence nr: 12
+The data we posted from articles on Bob Ross and the Bechdel test resulted in fantastic remixes — and we might post interesting things that use our research as a kickoff point.
+
+Sentence nr: 13
+You can also send any questions or new findings to walter.hickey@fivethirtyeight.com.
+
+Sentence nr: 14
+The whole point of our endeavor was to learn more about these particularly nebulous regions, so insight will be appreciated.
+

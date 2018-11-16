@@ -1,0 +1,58 @@
+Article: bachelorette/rachel-lindsays-bachelorette-season-in-three-charts
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 542
+Raw number of types: 267
+Raw Type token ratio (higher = more diversity in language use): 0.492619926199262
+
+100 most freq tokens before (pre)processing: 
+[('the', 5023), (',', 4943), ('.', 3304), ('of', 2474), ('a', 2118), ('to', 2073), ('in', 1971), ('and', 1816), ('’', 1629), ('that', 1164), ('for', 899), ('s', 883), ('is', 819), (':', 814), ('on', 708), ('it', 707), ('are', 601), ('“', 567), ('”', 566), ('with', 555), ('our', 549), ('team-logo', 535), ('at', 526), ('by', 518), ('as', 507), ('more', 502), ('we', 485), ('—', 475), ('(', 475), (')', 475), ('but', 455), ('this', 420), ('i', 401), ('they', 400), ('you', 389), ('t', 383), ('verdict', 377), ('have', 376), ('or', 371), ('percent', 363), ('from', 362), ('than', 361), ('1', 356), ('was', 355), ('trump', 345), ('polls', 342), ('about', 341), ('be', 332), ('one', 330), ('who', 325), ('an', 292), ('data', 279), ('has', 279), ('were', 270), ('like', 269), ('their', 261), ('all', 259), ('not', 251), ('he', 245), ('if', 242), ('said', 235), ('there', 234), ('how', 227), ('other', 225), ('most', 224), ('can', 215), ('?', 211), ('so', 209), ('some', 203), ('when', 199), ('his', 195), ('those', 193), ('positive', 193), ('what', 190), ('which', 187), ('<', 185), ('>', 184), ('pollsters', 184), ('polling', 183), ('people', 182), ('up', 179), ('out', 178), ('also', 176), ('get', 174), ('had', 169), ('2', 169), ('each', 164), ('points', 160), ('just', 158), ('donald', 157), ('%', 157), ('only', 155), ('poll', 154), ('two', 148), (';', 145), ('do', 142), ('new', 141), ('election', 141), ('league', 141), ('average', 139)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 434
+Number of types: 249
+Type token ratio: 0.5737327188940092
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'rachel, charts, data, men, suitors, vineyards, years, men, weeks, men, men, shudders, rachel, men, impressions, others, roses, suitors, dates, dates, dates, oneonones, suitors, men, destinations, dates, contributions')
+
+('VBP', 'lindsay, get, lindsay, come, have, get, rachel, didn, end, re, re')
+
+('NN', 'bachelorette, season, ella, koeze, gus, wezerek, tv, data, github, github, databachelorette, oof, conclusion, season, bachelorette, rachel, love, didn, choice, home, abasolo, proposal, la, rioja, spain, doll, limo, love, peter, end, season, appreciation, everything, rachel, whaboom, ticklemonster, weren, jack, stone, dream, door, lay, bed, rachel, rachel, waste, time, date, season, week, example, rachel, oneonone, group, dean, bryan, peter, chart, rachel, attention, number, strategy, husband, tv, everyone, fivethirtyeight, bachelorette, bracket, pool, bryan, peter, drama, rachel, globe, journey, travel, season, europe, pretty, fighting, rachel, slice, ol, usa, hometown, ride, rachel, bachelor, nation, story, bachelor, update, aug, pm, article, season, reporting, walt, hickey')
+
+('VBD', 'wasn, sent, stepped, did, bryan, happened, eliminated, had, eliminated, persevered, made, gave, went, was, had, spent, had, concentrated, made, had, were, were, was, did, was')
+
+('VBG', 'messing, accepting, lastmanstanding, looking, looking, picking, trying, roaming, watching, viking, choosing, going')
+
+('VBN', 'filed, published, passed, focused, given, been, gone, dean, been, updated')
+
+('VBZ', 'finale, seems, shows')
+
+('JJ', 'threehour, live, typical, eric, peter, bryan, windswept, hopeful, eric, other, fresh, strong, first, much, final, selective, available, limited, predictable, final, metaphorical, worth, actual, international, western, boring, substantial, good, diverse, final, wild, ready, new, next, finale, additional')
+
+('JJS', 'quest, worst')
+
+('VB', 'end, endure, remember, remember, lock, didn, go, have, matt, adam, find, find, love, be, get, see, move, love, be')
+
+100 most freq tokens after processing: 
+[('the', 5023), ('of', 2474), ('to', 2073), ('in', 1972), ('and', 1816), ('that', 1168), ('for', 900), ('is', 819), ('it', 709), ('on', 708), ('are', 602), ('with', 555), ('our', 549), ('teamlogo', 535), ('at', 527), ('by', 518), ('as', 507), ('more', 502), ('we', 485), ('but', 455), ('this', 420), ('they', 400), ('you', 389), ('verdict', 377), ('have', 376), ('or', 371), ('percent', 367), ('from', 362), ('than', 361), ('was', 355), ('trump', 346), ('polls', 342), ('about', 341), ('one', 333), ('be', 333), ('who', 325), ('an', 292), ('data', 279), ('has', 279), ('were', 270), ('like', 269), ('their', 261), ('all', 259), ('not', 251), ('he', 245), ('if', 242), ('said', 235), ('there', 234), ('how', 227), ('other', 226), ('most', 224), ('can', 215), ('so', 210), ('some', 203), ('10', 202), ('when', 199), ('his', 195), ('positive', 194), ('those', 193), ('11', 192), ('what', 190), ('which', 187), ('polling', 184), ('pollsters', 184), ('people', 182), ('out', 179), ('up', 179), ('also', 176), ('get', 174), ('had', 169), ('each', 164), ('points', 160), ('just', 158), ('donald', 158), ('13', 158), ('only', 155), ('poll', 154), ('14', 150), ('two', 148), ('12', 143), ('do', 142), ('new', 141), ('election', 141), ('league', 141), ('average', 140), ('number', 139), ('will', 138), ('its', 135), ('them', 134), ('neutral', 132), ('time', 131), ('would', 129), ('15', 129), ('github', 126), ('many', 123), ('these', 123), ('much', 123), ('my', 121), ('year', 121), ('been', 119)]

@@ -1,0 +1,60 @@
+Article: flying-etiquette-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 900
+Raw number of types: 339
+Raw Type token ratio (higher = more diversity in language use): 0.37666666666666665
+
+100 most freq tokens before (pre)processing: 
+[('the', 7925), (',', 7695), ('.', 5415), ('of', 3984), ('a', 3412), ('to', 3218), ('in', 2971), ('and', 2954), ('’', 2711), ('that', 1780), ('s', 1514), ('for', 1342), ('is', 1290), ('on', 1154), ('it', 1114), (':', 1093), ('are', 960), ('“', 946), ('”', 945), ('at', 851), ('with', 841), ('—', 835), ('as', 812), ('we', 797), ('by', 777), ('(', 768), (')', 768), ('but', 745), ('percent', 739), ('more', 713), ('i', 707), ('this', 667), ('our', 661), ('or', 644), ('they', 622), ('have', 608), ('you', 607), ('from', 600), ('was', 574), ('t', 565), ('trump', 549), ('about', 543), ('team-logo', 535), ('than', 524), ('be', 522), ('who', 521), ('data', 503), ('one', 493), ('an', 478), ('were', 471), ('has', 446), ('?', 439), ('not', 408), ('he', 408), ('all', 405), ('<', 400), ('1', 399), ('>', 394), ('their', 392), ('so', 388), ('there', 378), ('verdict', 377), ('said', 365), ('how', 362), ('like', 358), ('polls', 356), ('if', 347), ('his', 347), ('can', 336), ('what', 333), ('other', 331), ('people', 331), ('which', 319), ('some', 317), ('out', 304), ('had', 304), ('most', 302), ('when', 297), ('those', 288), ('also', 281), ('up', 263), ('get', 259), ('each', 254), ('only', 240), ('just', 237), ('two', 232), ('do', 229), ('new', 219), ('github', 217), ('%', 214), ('them', 210), ('these', 209), (';', 209), ('its', 207), ('time', 205), ('positive', 203), ('will', 203), ('been', 201), ('would', 196), ('2', 196)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 732
+Number of types: 315
+Type token ratio: 0.430327868852459
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'sep, percent, seat, walt, hickey, etiquette, data, github, github, plane, june, vincenzo, pinto, afp, getty, couple, spate, air, come, surprise, flying, undertaking, room, anything, contract, source, strife, pie, audience, poll, air, cool, isn, question, pie, percent, percent, percent, recline, time, percent, while, percent, pie, half, time, half, while, bit, impasse, percent, seat, flight, percent, option, percent, flier, rest, passenger, obligation, person, passenger, seat, intent, percent, neighbor, bathroom, someone, slumber, bar, impolite, bar, flight, percent, lot, pie, percent, plane, percent, bar, baby, plane, bar, control, arm, window, correct, person, seat, arm, person, window, shade, bar, percent, row, person, middle, arm, percent, arm, arm, rest, percent, aisle, window, arm, percent, percent, child, percent, person, seat, shade, percent, everyone, shade, status, percent, violation, direction, flight, question, ve, opportunity, data, github')
+
+('VBP', 'am, think, re, recline, get, have, disagree, consider, do, do, do, re, rude, need, re, are, re, pie, are, america, are, are, think, get, are, think, bar, pie, smoke')
+
+('NNS', 'fliers, data, passengers, weeks, confrontations, travelers, seats, people, skies, people, people, passengers, respondents, pie, seats, respondents, respondents, respondents, respondents, people, seats, flights, people, passengers, people, behaviors, flights, actions, respondents, legs, seats, people, folks, children, passengers, babies, people, responses, questions, kids, children, parents, children, people, kids, passengers, children, times, people, kids, rests, answers, questions, rests, questions, fliers, seats, respondents, fascists, sadists, people, seats, rests, socialists, responses, respondents, respondents, electronics, attendants, people, bathrooms, respondents, responses')
+
+('VB', 'rude, be, find, let, tackle, recline, recline, recline, eliminate, recline, recline, determine, rude, leave, be, rude, wake, use, stretch, ask, switch, consider, have, be, control, have, take, break, find')
+
+('VBN', 'filed, seen, become, involved, flown, interpreted, considered, considered, surprised, compared, seated, shared, say, used, smoked')
+
+('JJ', 'dataflyingetiquettesurvey, past, shouldn, much, stressful, pressurized, full, cranky, recipe, social, nebulous, potential, rude, rude, surveymonkey, recline, rude, common, rude, rude, impolite, super, ok, relative, buddy, many, unruly, rude, whopping, charitable, unruly, rude, likely, rude, middle, obvious, middle, ten, other, such, pie, fortytwo, window, full, personal, ageold, do, raw')
+
+('VBZ', 'images, has, is, is, aug, is, asks, has, is, gets, controls, rests, puts, gets, is')
+
+('VBG', 'reclining, quibbling, flying, reclining, aggravating, waking, trying, disturbing, moving, bringing, bringing, bringing, landing, settling')
+
+('VBD', 'cramped, considered, ran, asked, had, had, split, thought, was, said, said, said, asked, were, thought, was, was, thought, was, were, depended, had, thought, was, were, asked, shade, screwed, said, got, said, responded, wrote, acknowledged, thought, had, had, admitted, had')
+
+('JJR', 'more, more, younger')
+
+('JJS', 'most, largest, youngest')
+
+100 most freq tokens after processing: 
+[('the', 7925), ('of', 3984), ('to', 3218), ('in', 2973), ('and', 2954), ('that', 1785), ('for', 1343), ('is', 1292), ('on', 1154), ('it', 1120), ('are', 962), ('at', 852), ('with', 841), ('as', 812), ('we', 797), ('by', 777), ('percent', 748), ('but', 745), ('more', 713), ('this', 667), ('our', 661), ('or', 644), ('they', 622), ('have', 608), ('you', 608), ('from', 600), ('was', 574), ('trump', 550), ('about', 543), ('teamlogo', 535), ('than', 524), ('be', 524), ('who', 521), ('data', 503), ('one', 496), ('an', 478), ('were', 471), ('has', 446), ('not', 408), ('he', 408), ('all', 406), ('their', 392), ('so', 389), ('there', 378), ('verdict', 377), ('said', 365), ('how', 362), ('like', 358), ('polls', 356), ('if', 347), ('his', 347), ('can', 336), ('what', 333), ('other', 332), ('people', 331), ('which', 319), ('some', 317), ('out', 306), ('had', 304), ('most', 303), ('when', 297), ('those', 288), ('also', 281), ('up', 264), ('get', 259), ('10', 259), ('each', 255), ('only', 240), ('just', 237), ('two', 232), ('do', 230), ('11', 222), ('new', 219), ('github', 217), ('bar', 217), ('them', 211), ('these', 209), ('time', 209), ('its', 207), ('us', 206), ('positive', 204), ('13', 204), ('will', 203), ('been', 202), ('would', 196), ('year', 196), ('my', 194), ('number', 194), ('no', 193), ('over', 190), ('14', 189), ('points', 188), ('polling', 184), ('pollsters', 184), ('12', 181), ('many', 180), ('because', 178), ('first', 176), ('15', 175), ('much', 175)]

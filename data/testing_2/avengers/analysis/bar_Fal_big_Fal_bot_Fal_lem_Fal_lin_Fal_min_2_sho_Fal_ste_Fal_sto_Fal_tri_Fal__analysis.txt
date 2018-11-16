@@ -1,0 +1,60 @@
+Article: avengers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1078
+Raw number of types: 434
+Raw Type token ratio (higher = more diversity in language use): 0.4025974025974026
+
+100 most freq tokens before (pre)processing: 
+[(',', 2227), ('the', 2198), ('.', 1337), ('of', 1054), ('a', 943), ('in', 864), ('to', 830), ('and', 744), ('’', 675), (':', 557), ('that', 509), ('our', 437), ('s', 401), ('verdict', 377), ('is', 361), ('on', 358), ('for', 351), ('it', 347), ('1', 280), ('with', 263), ('trump', 246), ('at', 240), ('i', 239), ('“', 222), ('”', 221), ('—', 215), ('more', 214), ('(', 210), (')', 210), ('by', 206), ('this', 206), ('percent', 205), ('but', 197), ('are', 196), ('as', 189), ('positive', 187), ('we', 184), ('than', 172), ('like', 166), ('from', 165), ('was', 159), ('have', 153), ('about', 153), ('you', 145), ('t', 144), ('an', 143), ('donald', 142), ('or', 142), ('he', 140), ('data', 137), ('neutral', 132), ('one', 127), ('his', 125), ('has', 123), ('be', 121), ('they', 120), ('/', 103), ('their', 102), ('not', 101), ('other', 100), ('who', 99), ('out', 97), ('when', 95), ('so', 94), ('were', 93), ('all', 93), ('what', 92), ('?', 91), ('my', 90), ('people', 89), ('which', 87), ('there', 86), ('up', 86), ('2', 86), ('if', 84), ('<', 84), ('negative', 82), ('trump�', 82), ('me', 81), ('how', 80), ('some', 80), ('>', 80), ('state', 79), ('model', 78), ('most', 77), ('get', 77), ('just', 76), ('can', 76), ('films', 73), ("'m", 72), (';', 70), ('3', 70), ('only', 69), ('said', 67), ('�i', 67), ('polls', 67), ('do', 66), ('10', 65), ('those', 63), ('rock', 61)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 881
+Number of types: 412
+Type token ratio: 0.4676503972758229
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, building, walt, hickey, data, github, github, cun, note, article, anyone, age, ultron, age, ultron, point, marvel1, universe, mcu, number, number, couple, thing, book, death, team2, health, insurance, coil, death, cut, books3, character, let, iron, man, death, reader, die, someone, everyone, character, alien, life, model, decoy, robot, character, hulk, future, character, stasis, tube, dimension, counterearth, someone, consciousness, killer, robot, alternatedimension, self, doc, ock, process, marvel, wikia, mortality, rate, team, analysis, time, team5, percent, team, pie, let, way, percent, chance, membership, card, fan, mcu, nobody, screen, iron, man, hulk, captain, thor, hawkeye, widow, scarlet, witch, quicksilver, vision, course, time, fact, hawkeye, recovery, rate, death, roster, avenger, life, insurance, loaf, ezpass, individual, comeback, microverse, franklin, scarlet, witch, side, life, avenging, chaos, king, reaper, deal, time, death, chance, member, stint, afterlife, percent, chance, death, mvp, earth616, marvel, universe, android, janet, van, dyne, ultron, operation, mortality, rate, member, death, mind, rate, annihilation, couple, age, ultron, captain, war, avenger, bite, scarlet, witch, lot, shit, end, thing, avenger, character')
+
+('VBG', 'joining, jumping, asking, getting, going, avenging, fleeting, realitywarping, talking, kicking, shapeshifting, being, destroying, measuring, getting, jumping, building, avenging, occurring, destroying, merging, speaking, having, portraying')
+
+('NNS', 'avengers, movies, data, dataavengers, spoilers, avengers, spoilers, questions, avengers, theaters, avengers, films, years, films, actors, contracts, avengers, fans, years, friends, issues, criteria, allies, friends, cases, friends, years, writers, adventures, avengers, adventures, things, comics, avengers, characters, avengers, people, stories, avengers, avengers, comics, avengers, heroes, deaths, avengers, occasions, richards, travelers, times, avengers, avengers, times, times, avengers, years, fans, comics, months, months, months, comics, throes, universes, universes, casualties, movies, studios, rights')
+
+('VBZ', 'is, exceeds, is, is, is, fakes, didn, appears, thinks, is, is, is, is, has, is, is, knows, has, has, is, is, avengers, is, is')
+
+('JJ', 'fourstory, shi, shi, intentional, cinematic, next, few, dead, comic, past, fantastic, mortal, pretty, comic, dead, dead, few, dead, new, skrull, dead, onslaught, dead, weird, updated, current, former, listed, fourstory, safe, black, single, remarkable, first, other, divine, total, unlucky, meat, die, good, grim, colleague, many, first, second, third, overall, current, former, permanent, next, several, marvel, few, next, civil, magic, tempestuous, weird, only, marvel, performer')
+
+('VBN', 'filed, conceived, involved, left, started, learned, signed, shuffled, dried, considered, shown, implied, killed, sent, killed, hidden, sent, killed, merged, combed, died, signed, died, dragged, made, based, built, been, destroyed, given, accompanied, named')
+
+('VBP', 'get, cun, are, re, re, have, re, fear, have, ve, do, do, re, are, are, believe, are, re, decide, follow, are, follow, re, say, are, re, pie, have, fall, die, re, see, get, are, didn, stayed, know, watch')
+
+('VBD', 'was, researched, saw, planned, hasn, know, died, was, died, died, was, died, happened, joined, found, had, joined, died, did, did, counted, made, were, were, returned, recovered, recovered, remember')
+
+('VB', 'have, get, get, handle, define, be, go, chill, die, pocket, older, analyze, put, tempt, be, expect, die, keep, increase, be, see, pull, truly, kill')
+
+('JJS', 'closest, least, least, most')
+
+('JJR', 'more, toptier')
+
+100 most freq tokens after processing: 
+[('the', 2198), ('of', 1054), ('in', 864), ('to', 830), ('and', 744), ('that', 511), ('our', 437), ('verdict', 377), ('is', 361), ('on', 358), ('for', 352), ('it', 348), ('with', 263), ('trump', 246), ('at', 240), ('more', 214), ('percent', 209), ('by', 206), ('this', 206), ('but', 197), ('are', 196), ('as', 189), ('positive', 188), ('we', 184), ('than', 172), ('like', 166), ('from', 165), ('was', 159), ('have', 153), ('about', 153), ('you', 145), ('an', 143), ('donald', 143), ('or', 142), ('he', 140), ('data', 137), ('neutral', 132), ('one', 130), ('his', 125), ('has', 123), ('be', 122), ('they', 120), ('their', 102), ('not', 101), ('other', 100), ('who', 99), ('out', 97), ('so', 95), ('when', 95), ('were', 93), ('all', 93), ('what', 92), ('my', 90), ('people', 89), ('which', 87), ('there', 86), ('up', 86), ('if', 84), ('negative', 82), ('me', 82), ('trump�', 82), ('how', 80), ('some', 80), ('state', 79), ('model', 78), ('most', 77), ('get', 77), ('just', 76), ('can', 76), ('10', 76), ('films', 73), ('only', 69), ('said', 67), ('�i', 67), ('polls', 67), ('do', 66), ('those', 63), ('rock', 62), ('also', 60), ('new', 59), ('hillary', 58), ('each', 57), ('bar', 57), ('its', 56), ('time', 56), ('2014', 55), ('would', 54), ('year', 54), ('where', 53), ('them', 53), ('had', 53), ('2015', 53), ('points', 53), ('women', 53), ('github', 52), ('2013', 51), ('number', 51), ('2012', 51), ('over', 50), ('no', 49)]

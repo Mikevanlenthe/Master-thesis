@@ -1,0 +1,62 @@
+Article: terrorism
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 993
+Raw number of types: 475
+Raw Type token ratio (higher = more diversity in language use): 0.4783484390735146
+
+100 most freq tokens before (pre)processing: 
+[(',', 908), ('the', 444), (':', 400), ('our', 386), ('verdict', 377), ('in', 236), ('trump', 227), ('1', 222), ('of', 202), ('a', 192), ('positive', 182), ('.', 180), ('to', 170), ('and', 164), ('donald', 142), ('neutral', 131), ('i', 130), ('like', 104), ('/', 93), ('that', 93), ('for', 88), ('on', 85), ('trump�', 82), ('(', 80), (')', 80), ('negative', 80), ('is', 79), ("'m", 72), ('with', 69), ('�i', 67), ('it', 66), ('at', 65), ('you', 60), ('my', 60), ('hillary', 57), ('’', 55), ('me', 53), ("'s", 52), ('was', 46), ('�', 46), ("n't", 46), ("'", 46), ('but', 44), ('2013', 44), ('2015', 43), ('clinton', 41), ('police', 39), ('than', 39), ('s', 38), ('from', 38), ('--', 37), ('2016', 36), ('percent', 35), ('have', 35), ('2014', 34), ('by', 34), ('more', 34), ('we', 34), ('were', 34), ('2012', 34), ('drivers', 33), ('they', 30), ('bill', 30), ('got', 30), ('up', 30), ('be', 29), ('who', 29), ('has', 28), ('as', 27), ('his', 27), ('?', 27), ('2008', 27), ('2', 27), ('state', 27), ('get', 26), ('this', 26), ('are', 26), ('do', 26), ('money', 26), ('just', 25), ('out', 25), ('data', 24), ('so', 24), ('not', 24), (';', 24), ('fuck', 24), ('all', 24), ('2011', 24), ('officers', 23), ('he', 23), ('remix', 23), ('obama', 23), ('<', 22), ('>', 22), ('city', 21), ('can', 21), ('live', 20), ('an', 20), ('black', 20), ('no', 20)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 851
+Number of types: 452
+Type token ratio: 0.5311398354876615
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, rise, terrorism, religion, france, bialik, terrorism, data, github, github, dataterrorism, front, carillon, cafe, saturday, tribute, terrorist, day, thibault, camus, paris, friday, terror, quarter, century, france, terrorism, rock, concert, dinner, restaurant, tunisia, birthday, figaro, president, hollande, state, series, france, van, knife, dijon, akbar, god, incident, month, paris, newspaper, kosher, supermarket, branch, qaeda, responsibility, man, june, boss, state, august, state, sympathizer, box, cutter, rifle, train, anyone, wave, violence, union, police, organization, separatism, france, year, terrorist, eu, property, arson, eu, number, attack2, rise, france, terrorism, point, number, state, france, population, onefourth, state, number, state, estimate, france, april, january, state, france, attack, suspect, attack, belgium, passport, michael, researcher, advisor, president, corp, email, interview, number, france, number, surveillance, involvement, activity, intelligence, surveillance, contributing, factor, prevalence, france, rest, eu, survey, country, switzerland, finland, cyprus, france, austria, germany, greece, croatia, ireland, latvia, belgium, czech, luxembourg, slovenia, denmark, italy, malta, spain, estonia, ireland, portugal, slovakia, england, availability, number, security, director, foundation, thinktank, interview, collapse, yugoslavia, europe, europe, madrid, train, europe, hostage, crisis, school, beslan, london, tube, bombing, shooting, plane, year, board, plane, egypt, week, board, bomb, state, responsibility, plane, crash, article, coverage, debate')
+
+('VBN', 'inspired, filed, killed, killed, combined, blamed, afflicted, tied, thwarted, compiled, inspired, committed, targeted, killed, gone, oneeighth, traveled, climbed, carried, linked, arrested, found, overwhelmed, gone, returned, suspected, made, aided, been, surplus, traded, ended, brought, claimed')
+
+('JJ', 'carl, previous, terrorist, french, other, previous, global, eating, cambodian, le, french, islamic, inspired, terrorist, last, last, december, allahu, great, terrorist, next, satirical, al, islamic, separatist, political, inspired, european, last, many, french, terrorist, corsican, recent, separatist, few, terrorist, friday, paris, motivated, terrorist, large, french, islamic, eu, onethird, eu, islamic, islamic, unclear, islamic, friday, syrian, french, brian, senior, plus, possible, terrorist, dangerousness, difficult, potential, small, available, sweden, northern, republic, hungary, lithuania, unrestricted, terrorist, gohel, international, asiapacific, email, former, various, criminal, terrorist, new, western, other, deadly, recent, oslo, ukraine, last, russian, last, islamic, live, second, democratic')
+
+('VBP', 'get, gather, are, have, continue, have, have, have, have, travel, are, terrorism, include, have, have, do, have, scotland, poland, sajjan, occur, are, include, russia, shot, suspect')
+
+('NNS', 'data, parisians, attacks, sites, authorities, people, lives, acts, victims, countries, scores, sisters, attacks, acts, months, attackers, tours, organizations, attacks, people, links, passengers, americans, acts, stats, incidents, attacks, separatists, attacks, people, people, attacks, attacks, experts, residents, residents, people, fighters, attacks, authorities, numbers, jenkins, numbers, others, thousands, services, resources, choices, guns, arms, data, firearms, people, wales, netherlands, weapons, plots, weapons, networks, hands, attacks, incidents, deaths, attacks, bombings, events, years, bombings, people, officials, flowers')
+
+('VB', 'pay, françois, be, islamic, attack, shift, be, europol, syria, fight, fight, fight, syria, go, have, keep, be, predict, romania, be, check')
+
+('VBZ', 'attacks, is, represents, europol, has, is, has, remains, comes, is, is, is, has, has, has')
+
+('VBD', 'said, injured, claimed, database, came, were, were, were, were, yelled, appeared, killed, claimed, beheaded, had, was, were, died, died, was, was, said, said, said, killed, killed, killed, crashed, was, andrew, contributed')
+
+('JJR', 'more, more, larger, fewer, higher')
+
+('VBG', 'according, attending, celebrating, according, using, planning, visiting, killing, according, including, according, august, being, preparing, according, following, plotting, killing, killing')
+
+('JJS', 'least, latest, most, most, latest, deadliest')
+
+('NNP', 'rand')
+
+100 most freq tokens after processing: 
+[('the', 444), ('our', 386), ('verdict', 377), ('in', 236), ('trump', 227), ('of', 202), ('positive', 183), ('to', 170), ('and', 164), ('donald', 143), ('neutral', 131), ('like', 104), ('that', 93), ('for', 88), ('on', 85), ('trump�', 82), ('negative', 80), ('is', 79), ('with', 69), ('�i', 67), ('it', 66), ('at', 65), ('you', 60), ('my', 60), ('hillary', 57), ('me', 53), ('was', 46), ('nt', 46), ('2015', 45), ('but', 44), ('2013', 44), ('clinton', 41), ('police', 39), ('than', 39), ('percent', 38), ('from', 38), ('2016', 37), ('have', 35), ('2012', 35), ('2014', 34), ('by', 34), ('more', 34), ('we', 34), ('were', 34), ('drivers', 33), ('they', 30), ('bill', 30), ('got', 30), ('up', 30), ('be', 29), ('who', 29), ('has', 28), ('as', 27), ('his', 27), ('2008', 27), ('state', 27), ('get', 26), ('this', 26), ('are', 26), ('do', 26), ('money', 26), ('just', 25), ('out', 25), ('2011', 25), ('data', 24), ('so', 24), ('not', 24), ('fuck', 24), ('all', 24), ('officers', 23), ('he', 23), ('remix', 23), ('obama', 23), ('city', 21), ('can', 21), ('2010', 21), ('10', 21), ('live', 20), ('an', 20), ('black', 20), ('no', 20), ('what', 20), ('ai', 20), ('2000', 19), ('your', 19), ('only', 18), ('if', 18), ('about', 18), ('white', 18), ('one', 18), ('number', 18), ('bitch', 18), ('said', 17), ('those', 17), ('people', 17), ('tower', 17), ('man', 17), ('there', 16), ('how', 16), ('2006', 16)]

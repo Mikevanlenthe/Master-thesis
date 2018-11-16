@@ -1,0 +1,60 @@
+Article: steak-survey/how-americans-like-their-steak
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 653
+Raw number of types: 299
+Raw Type token ratio (higher = more diversity in language use): 0.45788667687595713
+
+100 most freq tokens before (pre)processing: 
+[('the', 6362), (',', 6203), ('.', 4248), ('of', 3214), ('a', 2700), ('to', 2634), ('in', 2419), ('and', 2354), ('’', 2132), ('that', 1486), ('s', 1194), ('for', 1111), ('is', 1062), (':', 964), ('on', 937), ('it', 893), ('are', 771), ('“', 725), ('”', 724), ('with', 698), ('at', 672), ('as', 665), ('—', 649), ('we', 631), ('by', 628), ('(', 624), (')', 624), ('more', 609), ('our', 606), ('but', 586), ('trump', 545), ('they', 540), ('this', 538), ('team-logo', 535), ('i', 530), ('or', 519), ('you', 497), ('from', 493), ('percent', 492), ('have', 469), ('t', 465), ('about', 450), ('who', 450), ('than', 445), ('was', 443), ('be', 424), ('one', 418), ('data', 394), ('were', 389), ('an', 379), ('verdict', 377), ('1', 375), ('has', 364), ('?', 354), ('polls', 346), ('not', 340), ('all', 323), ('their', 319), ('like', 311), ('how', 309), ('said', 308), ('he', 302), ('there', 298), ('other', 289), ('if', 281), ('can', 276), ('so', 274), ('his', 273), ('people', 273), ('most', 266), ('what', 266), ('some', 257), ('which', 255), ('those', 250), ('when', 244), ('<', 240), ('>', 234), ('out', 232), ('also', 221), ('had', 220), ('get', 219), ('up', 211), ('positive', 201), ('just', 195), ('each', 193), ('only', 191), ('two', 188), ('pollsters', 184), ('2', 183), ('polling', 183), ('do', 181), ('%', 178), (';', 176), ('points', 174), ('them', 171), ('github', 169), ('time', 168), ('donald', 167), ('number', 167), ('new', 166)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 511
+Number of types: 278
+Type token ratio: 0.5440313111545988
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'pm, datasteaksurvey, prime, baked, green, bean, nina, dandy, riskaverse, likely, full, personal, rare, surveymonkey, fresh, actual, frivolous, moral, proper, lacked, foodborne, different, interpret, evaluate, simple, insignificant, laughable, small, following, hypothetical, percent, percent, likely, much, vast, many, good')
+
+('NNS', 'americans, data, people, steaks, polls, data, experiments, arguments, scouts, wounds, steaks, midteens, people, steaks, people, airplanes, people, results, regressions, relationships, people, thresholds, respondents, situations, people, respondents, people, people, steaks, ideas, comments, data')
+
+('VBP', 'like, get, are, have, have, prefer, do, prefer, jump, do, go, prefer, are, risk, like, have, have, have, have, know, find')
+
+('NN', 'steak, walt, hickey, fivethirtyate, data, github, github, rib, potato, almondine, cruise, ship, scott, washington, post, order, steak, idea, commitment, disclosure, quest, opportunity, superiority, story, datalab, audience, sense, satisfaction, definition, midwest, superiority, girl, america, steak, bed, rest, time, life, mediumrare, sense, commitment, order, reason, side, medium, reason, juicy, steaks, threat, illness, everyone, threshold, risk, speed, limit, survey, risk, traffic, smoke, prefer, lottery, steak, data, crosstabs, place, nothing, ran, relationship, behavior, steak, rareness, gender, age, income, effect, survey, relationship, steak, example, lottery, chance, success, payout, lottery, chance, success, payout, lottery, lottery, thought, lottery, steak, rare, anything, futility, steak, majority, percent, ballpark, medium, mediumrare, anyone, hypothesis, anything')
+
+('VBN', 'filed, done, been, cooked, excited, cooked, gained, solid, scorched, desiccated')
+
+('VBD', 'suchman, tried, got, ordered, incinerated, ran, asked, was, checked, was, checked, had, were, asked, picked, preferred')
+
+('VB', 'find, miss, discuss, have, work, recover, look, realize, exceed, speed, see, start, try, tease, see, appear, be, consider, bet, play, be, prefer, be, mediumwell, let, know, download, let, know')
+
+('VBG', 'reinforcing, playing, running, settling, testing, skydiving, getting, risktaking, assuming, indicating, preferring, taste')
+
+('VBZ', 'has, comes, stands, is, has, does, chart')
+
+('JJR', 'tougher, less, riskier, riskier')
+
+('JJS', 'least')
+
+100 most freq tokens after processing: 
+[('the', 6362), ('of', 3214), ('to', 2634), ('in', 2421), ('and', 2354), ('that', 1490), ('for', 1112), ('is', 1063), ('on', 937), ('it', 896), ('are', 773), ('with', 698), ('at', 673), ('as', 665), ('we', 631), ('by', 628), ('more', 609), ('our', 606), ('but', 586), ('trump', 546), ('they', 540), ('this', 538), ('teamlogo', 535), ('or', 519), ('you', 498), ('percent', 497), ('from', 493), ('have', 469), ('about', 450), ('who', 450), ('than', 445), ('was', 443), ('be', 426), ('one', 421), ('data', 394), ('were', 389), ('an', 379), ('verdict', 377), ('has', 364), ('polls', 346), ('not', 340), ('all', 323), ('their', 319), ('like', 311), ('how', 309), ('said', 308), ('he', 302), ('there', 298), ('other', 290), ('if', 281), ('can', 276), ('so', 275), ('his', 273), ('people', 273), ('most', 267), ('what', 266), ('some', 257), ('which', 255), ('those', 250), ('when', 244), ('out', 234), ('10', 229), ('also', 221), ('had', 220), ('get', 219), ('up', 211), ('positive', 202), ('11', 201), ('just', 195), ('each', 193), ('only', 191), ('two', 188), ('polling', 184), ('pollsters', 184), ('do', 181), ('13', 181), ('points', 174), ('14', 173), ('them', 171), ('time', 170), ('github', 169), ('donald', 168), ('number', 167), ('new', 166), ('12', 166), ('will', 166), ('no', 162), ('its', 160), ('been', 160), ('poll', 160), ('many', 159), ('election', 158), ('would', 157), ('average', 157), ('these', 157), ('15', 154), ('us', 148), ('my', 148), ('much', 148), ('because', 144)]

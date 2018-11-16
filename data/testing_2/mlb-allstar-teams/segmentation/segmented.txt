@@ -1,0 +1,114 @@
+Sentence nr: 0
+Jul.
+
+Sentence nr: 1
+18, 2015 at 11:51 AM The Best MLB All-Star Teams Ever By Neil Paine Filed under Baseball FacebookTwitterEmail American League outfielder Mike Trout, of the Los Angeles Angels, holds the MVP trophy after his team’s 5-3 victory over the National League in the MLB All-Star baseball game on Tuesday in Cincinnati, Ohio.
+
+Sentence nr: 2
+Paul Sancya / AP American League All-Star Mike Trout, of the Los Angeles Angels, celebrates after scoring during the 86th MLB All-Star Game on Tuesday at the Great American Ball Park in Cincinnati, Ohio.
+
+Sentence nr: 3
+Rob Carr / Getty Images On the occasion of this past week’s Major League All-Star Game, when baseball’s absurd abundance of young talent was on full display (Hello, Mike Trout!
+
+Sentence nr: 4
+), the question was worth asking: Where did these two All-Star teams stand historically, in terms of the most gifted groups assembled since the first All-Star Game was held in 1933?
+
+Sentence nr: 5
+The answer might (or might not) surprise you.
+
+Sentence nr: 6
+To get a handle on the talent available to each league in each All-Star Game, I used the run-based components1 of Baseball-Reference’s wins above replacement (WAR) to build a projection system that, in terms of complexity, falls somewhere between Marcel the Monkey (as simple as can be) and PECOTA (highly intricate).
+
+Sentence nr: 7
+Most crucially, the projections use multiple years of data, adjust for aging effects and regress a player’s expected performance to the mean; the projections can also be used to estimate a player’s true talent in a given season by taking his projection for the following season and subtracting the age progression.
+
+Sentence nr: 8
+This formed the basis for yearly talent ratings for every player to appear in an All-Star Game, which I then compiled into team ratings in proportion to how much playing time each player logged during the game itself.
+
+Sentence nr: 9
+Finally, using these run-based talent ratings and each season’s average runs per contest — plus a little help from the pythagorean expectation (which converts run differentials into wins) — I generated expected winning percentages for each All-Star roster, which represent the rate of wins that the team would post if it were to face a typical slate of opponents from the season in question.
+
+Sentence nr: 10
+Unsurprisingly, All-Star squads would demolish the competition if turned loose on regular teams in the context of league play.
+
+Sentence nr: 11
+The average All-Star team since 1933 possessed the talent to go about 103-59 if they played a normal 162-game schedule, with the top teams expected to win a 2001 Seattle Mariners-esque 117 games per season.
+
+Sentence nr: 12
+(And that’s their mean expectation — remember that when the Mariners won 116, they were probably more like a true 90-win team that also benefitted from a tremendous amount of luck.)
+
+Sentence nr: 13
+But what if we instead had all the historical All-Star teams play each other?
+
+Sentence nr: 14
+Using the aforementioned pythagorean talent ratings and Bill James’ log5 formula to construct probabilities for each matchup, we can simulate how each All-Star squad would fare if forced to play 162 games against a random assortment of other All-Star teams from the past.
+
+Sentence nr: 15
+Here are the standings (check out the raw data on GitHub): The best All-Star team ever?
+
+Sentence nr: 16
+According to this method, that mantle belongs to the roster that represented the National League in 1966 — and it’s not hard to see why.
+
+Sentence nr: 17
+Sandy Koufax started the game on the mound, to be relieved by Juan Marichal, Jim Bunning and Gaylord Perry — Hall of Famers, all.
+
+Sentence nr: 18
+The starting outfield was outrageous: Willie Mays, Hank Aaron and Roberto Clemente.
+
+Sentence nr: 19
+Ron Santo and Willie McCovey manned the infield corners.
+
+Sentence nr: 20
+Along with second baseman Jim Lefebvre, near-Hall of Fame catcher Joe Torre was the weak link of the starting lineup.
+
+Sentence nr: 21
+(And fearsome mashers Dick Allen, Jim Ray Hart and Willie Stargell came off the bench!)
+
+Sentence nr: 22
+Our simulations say the 1966 NL All-Stars would go 97-65 against a random collection of their fellow All-Star squads from throughout history.
+
+Sentence nr: 23
+This year’s teams, while not on the same level as their Hall of Famer-laden predecessor from 1966, would both be above .500 if forced to take on other All-Star squads — and could do even better than that if we tweak our study’s methodology.
+
+Sentence nr: 24
+Despite losing on Tuesday, the National Leaguers are considered the more talented of 2015’s All-Star teams according to WAR.
+
+Sentence nr: 25
+Led by Paul Goldschmidt, Andrew McCutchen, Bryce Harper and starting pitcher Zack Greinke, this year’s NL team ranks 15th all-time, and project to go 87-75 in 162 games against other All-Star squads.
+
+Sentence nr: 26
+Meanwhile, the AL team lags a bit behind the NL, ranking 71st with a 82-80 record.
+
+Sentence nr: 27
+Although Trout possesses the best individual talent rating (by far) of any 2015 player, the rest of the AL roster isn’t especially impressive by historical standards.
+
+Sentence nr: 28
+<line>Then again, both of 2015’s All-Star teams fare much better if we attempt to adjust for the rising tide of athletic talent (in baseball as well as other sports) over time.
+
+Sentence nr: 29
+In “Baseball Between the Numbers”, FiveThirtyEight editor-in-chief Nate Silver attempted to quantify this phenomenon as it pertains to baseball and arrived at a “timeline adjustment” that gently slopes upward from the sport’s major league beginnings in 1871 to the present.</line> <bar>Nate’s timeline adjustment implies that the average MLB player from 1966 was about 86 percent as good as the average player today, which means that year’s NL All-Stars — talented as they were — benefitted from facing weak competition.</bar> In fact, if we apply the timeline adjustment to every All-Star team’s talent rating, the 2015 National Leaguers emerge as No.
+
+Sentence nr: 30
+1 all-time, with the AL ranking 14th.
+
+Sentence nr: 31
+The aforementioned 1966 NL powerhouse drops to third, with the 1986 AL squad sliding into second place.
+
+Sentence nr: 32
+(That team was powered by great pitching — specifically Roger Clemens and Teddy Higuera at his peak — and a lineup that included Hall of Famers Cal Ripken Jr., Rickey Henderson, Wade Boggs, Kirby Puckett and Dave Winfield.)
+
+Sentence nr: 33
+Do I actually think the 2015 National League represents the most talented All-Star roster ever?
+
+Sentence nr: 34
+Probably not.
+
+Sentence nr: 35
+They rank highly — but are nowhere near No.
+
+Sentence nr: 36
+1 — relative to their era, and the question of how to deal with cross-era comparisons while accounting for absolute changes to talent quality over time is far from settled.
+
+Sentence nr: 37
+But we can still appreciate Tuesday’s exhibition as one of the most talent-laden All-Star contests ever: Even without the timeline adjustment, the combined talent ratings of the two teams ranks 10th among the 86 All-Star Games ever staged.
+

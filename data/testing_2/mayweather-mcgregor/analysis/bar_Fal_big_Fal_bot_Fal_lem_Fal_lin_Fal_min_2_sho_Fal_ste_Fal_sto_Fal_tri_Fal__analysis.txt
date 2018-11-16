@@ -1,0 +1,60 @@
+Article: mayweather-mcgregor
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 833
+Raw number of types: 380
+Raw Type token ratio (higher = more diversity in language use): 0.4561824729891957
+
+100 most freq tokens before (pre)processing: 
+[('the', 5813), (',', 5615), ('.', 3825), ('of', 2889), ('a', 2440), ('to', 2356), ('in', 2236), ('and', 2103), ('’', 1893), ('that', 1329), ('s', 1046), ('for', 997), ('is', 951), (':', 923), ('on', 850), ('it', 795), ('are', 702), ('“', 662), ('”', 661), ('with', 635), ('at', 613), ('as', 587), ('by', 579), ('our', 572), ('more', 563), ('—', 558), ('(', 557), (')', 557), ('we', 552), ('team-logo', 535), ('but', 529), ('trump', 516), ('they', 491), ('this', 482), ('percent', 459), ('i', 456), ('or', 450), ('you', 437), ('have', 429), ('who', 421), ('t', 420), ('from', 420), ('was', 412), ('than', 409), ('about', 403), ('one', 387), ('verdict', 377), ('be', 374), ('1', 366), ('were', 347), ('polls', 344), ('an', 329), ('has', 329), ('data', 321), ('?', 312), ('not', 306), ('all', 299), ('their', 289), ('like', 287), ('he', 280), ('how', 274), ('said', 270), ('other', 266), ('there', 265), ('if', 262), ('most', 248), ('so', 242), ('can', 240), ('those', 232), ('some', 231), ('his', 227), ('people', 226), ('what', 222), ('which', 221), ('when', 220), ('<', 205), ('out', 204), ('>', 204), ('get', 202), ('up', 198), ('positive', 197), ('also', 194), ('had', 190), ('just', 187), ('pollsters', 184), ('each', 183), ('polling', 183), ('2', 178), ('only', 176), ('%', 172), ('points', 171), (';', 168), ('two', 168), ('do', 163), ('donald', 161), ('time', 159), ('poll', 159), ('github', 153), ('will', 152), ('new', 150)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 640
+Number of types: 353
+Type token ratio: 0.5515625
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'mayweathermcgregor, fight, emojis, dhrumil, mehta, roeder, dottle, mayweather, vs, mcgregor, data, github, maymcg4x3, vegas, arena, night, world, mayweatherconor, mcgregor, fight, coaster, fight, start, anticipation, hype, couple, end, punchline, megafight, twitter, bar, emoji, percent, emoji, mayweathermcgregor, broadcast, aug, bar, source, twitter, twitter, fight, night, mayweathervsmcgregor, example, end, emojis, sample, emojinalysis, peer, review, emoji, emoji, fight, �face, joy�, night, fourminute, average, thing, fight, majority, arena, dublin, flag, worn, capestyle, evening, dress, code, tmt, money, team, loyal, match, enthusiasm, fighter�s, success, surprise, round, couple, quarter, way, underdog, twitter, poundforpound, history, control, man, debut, outcome, everyone, money, round, matter, time, pro, newcomer, mayweather, knockout, flurry, ref, victor, mcgregor, damage, corner, spectacle, chief, finish, emoji, twitter, fight, part, end, result, question, outcome, mayweather�s, megafight, pacquiao, epic, mayweathervsmcgregor, macaela, marin, macaelamarin, dhrumil, mehta, journalist, roeder, writer, ollie, rachael, dottle, journalist, rachaeldottle')
+
+('VBN', 'told, cried, filed, pushed, surprised, thrilled, started, exhausted, mostused, collected, edt, fightrelated, been, predicted, frustrated, been')
+
+('VBD', 'laughed, cried, was, were, were, emerged, were, held, seemed, were, were, played, fight, were, contained, included, collected, were, was, unfolded, was, appeared, seemed, were, came, went, progressed, won, were, followed, took, was, came, seemed, dismantled, was, was, came, stepped, was, ended, began, declared, were, appeared, was, heated, was, viewed, laughed, cried, laughed, cried')
+
+('VB', 'rachael, hold, know, be, make, be, �money�, have, leapt, think, have')
+
+('VBP', 'get, do, am, am, show, mcgregor, mcgregor')
+
+('NNS', 'people, millions, tvs, emotions, problems, combatants, months, rounds, tweets, tweets, hashtags, tweets, frontrunners, tears, charts, people, fans, fans, members, loyalties, viewers, washes, flags, shamrocks, things, boxers, bags, punches, feet, minutes, seconds, observers, others, users, politics')
+
+('JJ', 'las, tmobile, saturday, huddled, floyd, roller, anxious, payperview, technical, full, mcgregor, own, own, fightrelated, contained, clear, small, likely, mostused, rolling, partisan, mcgregor, irish, other, twitter�s, camp, many, neutral, promayweather, first, next, scheduled, irish, irish, turned, pro, emoji, sixth, old, ninth, clear, unleashed, vicious, further, victorious, welcome, many, last, manny, crying, database, fivethirtyeight, datadhrumil, senior, fivethirtyeight, associate, visual, fivethirtyeight')
+
+('VBG', 'fighting, streaming, monitoring, pulling, matching, winning, making, going, declaring, saving, satisfying, focusing')
+
+('VBZ', 'emojis, hails, rounds, ropes, is, is, is')
+
+('JJS', 'biggest, best, most')
+
+('JJR', 'more')
+
+100 most freq tokens after processing: 
+[('the', 5813), ('of', 2889), ('to', 2356), ('in', 2237), ('and', 2103), ('that', 1333), ('for', 998), ('is', 951), ('on', 850), ('it', 797), ('are', 703), ('with', 635), ('at', 614), ('as', 587), ('by', 579), ('our', 572), ('more', 563), ('we', 552), ('teamlogo', 535), ('but', 529), ('trump', 517), ('they', 491), ('this', 482), ('percent', 463), ('or', 450), ('you', 437), ('have', 429), ('who', 421), ('from', 420), ('was', 412), ('than', 409), ('about', 403), ('one', 390), ('verdict', 377), ('be', 375), ('were', 347), ('polls', 344), ('an', 329), ('has', 329), ('data', 321), ('not', 306), ('all', 299), ('their', 289), ('like', 287), ('he', 280), ('how', 274), ('said', 270), ('other', 267), ('there', 265), ('if', 262), ('most', 248), ('so', 243), ('can', 240), ('those', 232), ('some', 231), ('his', 227), ('people', 226), ('what', 222), ('which', 221), ('when', 220), ('10', 216), ('out', 206), ('get', 202), ('11', 199), ('positive', 198), ('up', 198), ('also', 194), ('had', 190), ('just', 187), ('polling', 184), ('pollsters', 184), ('each', 183), ('only', 176), ('points', 171), ('two', 168), ('13', 168), ('do', 163), ('donald', 162), ('12', 161), ('14', 161), ('time', 161), ('poll', 159), ('github', 153), ('will', 152), ('new', 150), ('them', 150), ('average', 149), ('no', 149), ('number', 149), ('its', 148), ('would', 148), ('election', 147), ('been', 144), ('league', 143), ('many', 142), ('15', 141), ('these', 137), ('neutral', 135), ('voters', 135), ('us', 134)]

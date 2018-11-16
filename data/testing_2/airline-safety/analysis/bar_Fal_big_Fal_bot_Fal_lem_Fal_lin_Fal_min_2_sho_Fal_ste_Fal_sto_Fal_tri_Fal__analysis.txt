@@ -1,0 +1,60 @@
+Article: airline-safety
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2167
+Raw number of types: 632
+Raw Type token ratio (higher = more diversity in language use): 0.29164743885556066
+
+100 most freq tokens before (pre)processing: 
+[('the', 6047), (',', 5823), ('.', 3978), ('of', 3031), ('a', 2514), ('to', 2446), ('in', 2322), ('and', 2191), ('’', 1979), ('that', 1373), ('s', 1093), ('for', 1038), ('is', 993), (':', 943), ('on', 894), ('it', 818), ('are', 728), ('“', 682), ('”', 681), ('with', 648), ('at', 632), ('as', 622), ('by', 602), ('—', 589), ('more', 587), ('(', 585), (')', 585), ('our', 579), ('we', 569), ('but', 548), ('trump', 542), ('team-logo', 535), ('they', 512), ('this', 503), ('i', 485), ('or', 475), ('percent', 465), ('you', 454), ('from', 449), ('have', 447), ('t', 434), ('about', 428), ('who', 427), ('than', 425), ('was', 423), ('one', 401), ('be', 398), ('verdict', 377), ('were', 372), ('1', 370), ('an', 352), ('has', 345), ('polls', 345), ('data', 340), ('?', 325), ('not', 323), ('all', 310), ('their', 298), ('like', 290), ('he', 289), ('how', 277), ('there', 275), ('said', 274), ('other', 273), ('if', 269), ('his', 259), ('most', 253), ('so', 253), ('can', 251), ('some', 240), ('those', 238), ('which', 236), ('people', 235), ('<', 234), ('what', 232), ('>', 231), ('when', 225), ('had', 210), ('out', 207), ('also', 205), ('get', 204), ('up', 201), ('positive', 200), ('each', 188), ('just', 188), ('pollsters', 184), ('polling', 183), ('only', 182), ('2', 181), ('two', 179), ('%', 178), ('points', 174), (';', 170), ('do', 169), ('donald', 166), ('number', 166), ('time', 163), ('new', 161), ('poll', 160), ('github', 158)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1786
+Number of types: 596
+Type token ratio: 0.3337066069428891
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, pm, nate, silver, airline, safety, data, github, github, dataairlinesafety, memorial, malaysia, flight, mh17, amsterdam, lumpur, church, kuala, lumpur, malaysia, flight, mh17, amsterdam, lumpur, church, kuala, lumpur, getty, downing, malaysia, flight, ukraine, thursday, disappearance, flight, march, incident, airline, year, demand, rational, fault, rate, malaysia, year, carrier, line, safety, aviation, safety, network, method, period, look, correlation, crash, half, set, correlation, crash, risk, extent, airline, line, ll, couple, cause, bar, airline, tenerife, disaster, flight, malaysia, flight, bar, line, ll, crash, basis, number, seat, number, number, airline, flies1, ask, december, number, airline, simplification, jan, account, data, delta, line, flagship, carrier, eagle, instance, ll, define, rate, database, fatality, rate, accidents3, rate, crew, airline, data, december, jan, rate, ask, bar, number, half, set, bar, line, airline, colombia, series, kind, line, line, contrast, kenya, airline, number, ask, line, line, china, air, data, set, exception, rule, correlation, rate, period, line, bar, number, kind, onequarter, database, basis, number, fatality, effect, sample, size, bar, evidence, hazard, airline, way, number, region, period, time, likelihood, scatter, way, correlation, period, next6, chart, rate, russia, aeroflot, number, time, breakup, union, number, correlation, answer, airline, track, record, something, probability, lot, way, airline, rate, kind, number, period, period, time, rule, crash, risk, crash, measure, airline, safety, score, calculate, category, airline, crash, rate, average, result, root, number, seat, credit, airline, safety, record, sample, score, category, airline, mean, safety, track, record, australia, instance, safety, score, contrast, score, chart, product, airline, home, country, middle, period, correlation, country, wealth, crash, scatter, bar, safety, kingdom, canada, contrast, ethiopia, indonesia, kenya, morocco, russia, bar, fact, airline, future, rate, home, country, gdp, track, record, shouldn, safety, country, region, air, travel, planning, safety, form, airline, country, airline, travel, transit, union, none, list, above, blacklist, past, malaysia, risk, crash, risk, increase, disaster, correction, version, post, denominator, percent, percent, accordance, industry, load, definition, seat, kilometer, statistic, article, number, definition, ask, addition, number, couple, typos, ordering, conclusion, article, july, number, number, seat, distinction, instance, royal, air, maroc, ask, table, article, github')
+
+('VB', 'travelers, kuala, kuala, be, follow, shift, be, fly, be, study, break, see, imply, be, try, assign, take, track, exclude, see, be, be, compare, produce, provide, be, predict, significant7, fly, look, result, follow, avoid, combine, calculate, predict, be, afford, buy, be, do, avoid, ask, reflect, prefer, see')
+
+('VBG', 'flying, following, involving, preventing, insisting, involving, looking, making, simplifying, going, beijing, increasing, flying, minimizing, developing, avoiding, looking, ignoring, developing, being, calculating, assuming, following')
+
+('NNS', 'airlines, crashes, data, candles, glows, churchgoers, victims, airlines, nicolas, images, candles, churchgoers, victims, airlines, nicolas, airlines, incidents, people, airlines, studies, crashes, airlines, disasters, airlines, crashes, crashes, crashes, events, airlines, accidents, airlines, records, airlines, years, halves, rates, data, assumptions, crashes, cases, others, causes, disasters, rates, kilometers, seats, kilometers, figures, asks, airlines, others, data, airlines, mergers, data, subsidiaries, incidents, data, airlines, crashes, ways, incidents, fatalities, passengers, airlines, airlines, fatalities, fatalities, data, crashes, problems, accidents, incidents, airways, accidents, ranks, fatalities, carriers, airlines, china4, problems, halves, cases, fatalities, accidents, fatalities, accidents, accidents, incidents, airlines, incidents, nearmisses, injuries, earthquakes, outliers, airlines, airlines, incidents, incidents, hijackings, years, airlines, rates, airlines, others, crashes, incidents, fatalities, accidents, nearmisses, airlines, countries, measures, rates, accidents, fatalities, airlines, airlines, scores, airlines, scores, kilometers, flights, deviations, scores, categories, scores, qantas, crashes, airlines, rates, airlines, years, scores, airlines, states, airlines, airlines, australia, netherlands, scores, airlines, philippines, crashes, airlines, standards, standards, airlines, countries, aspects, prices, regulations, means, airlines, blacklists, airlines, airlines, airlines, tables, incidents, accidents, fatalities, seats, passengers, factors, seats, numbers, tables, numbers, airlines, accidents, changes, airlines, readers, numbers, tables, incidents, accidents, fatalities, kilometers, numbers, airlines, flies, times, miles, accidents, people, numbers, data')
+
+('VBP', 'have, get, read, pray, asfouri, read, pray, asfouri, don, appear, ll, fly, have, have, don, appear, are, occur, run, identify, ll, include, are, asks, are, have, have, do, include, are, have, are, have, are, produce, are, represent, are, are, have, are, are, scatter, are, crash, re, let, incidents, call, multiply, flown, standardize, indicate, belong, southwest, hong, are, want, re, are, are, fly, am, have, have, do, affect, am, list, asks, ve, ve')
+
+('VBN', 'had, filed, related, found, involved, had, based, based, defined, multiplied, taken, been, grown, shrunk, combined, grouped, based, listed, based, operated, sorted, based, had, based, confused, had, compared, listed, associated, given, used, had, excluded, looked, achieved, applied, put, been, involved, been, filled, used, based, filled, been, changed, been, missed, been, corrected, confused, described, flown, had, had, inserted, posted, used')
+
+('JJ', 'past, mh17, unseen, friday, afp, getty, memorial, unseen, friday, afp, second, mysterious, isn, academic, highprofile, passenger, behavior, inclined, fatal, past, random, same, long, fatal, first, major, commercial, past, simple, ll, ll, other, persistent, predictable, culpable, such, many, other, such, controversial, understood, blame, next, available, constant, true, necessary, operational, major, forth, regional, american, american, fatal, global, top, consistent, first, next, national, major, fatal, major, other, such, taiwan, next, massive, rare, fatal, fatal, nonfatal, useful, overall, same, catastrophic, one5, modest, few, major, pakistan, international, ethiopian, high, scatter, scatter, third, high, reported, many, soviet, average, recent, positive, preliminary, future, right, particular, dangerous, fatal, consistent, deadly, next, insistent, fatal, single, positive, safe, negative, square, strong, many, standard, positive, safe, famous, pakistan, international, percapita, gross, domestic, 30year, strong, past, top, united, united, united, germany, colombia, egypt, taiwan, surprising, commercial, subject, stringent, same, same, many, other, public, expensive, silly, commercial, safe, overall, such, european, eu, pakistan, international, recent, low, recent, previous, incorrect, fatal, standard, available, available, many, proper, small, relative, overall, update, fatal, available, raw, important, united, overall, unadjusted')
+
+('VBZ', 'glows, images, is, is, is, is, is, is, assumes, has, is, is, is, is, has, has, is, has, is, is, is, tells, ll, follows, gives, gives, has, is, average, is, is, has, has, lists, is, is, is, is, has, is, is, is, has, has')
+
+('VBD', 'were, database, was, were, resulted, were, had, was, had, resulted, viewed, had, attempted, subtract, scatter, doesn, july, used, had, were, were, doublechecked, found, had, were, united')
+
+('JJR', 'older, better, smaller, outlier, safer, safer, less, more, larger, richer, more, higher, more, fewer')
+
+('JJS', 'worst, worst, best')
+
+100 most freq tokens after processing: 
+[('the', 6047), ('of', 3031), ('to', 2446), ('in', 2323), ('and', 2191), ('that', 1377), ('for', 1039), ('is', 994), ('on', 894), ('it', 821), ('are', 730), ('with', 648), ('at', 633), ('as', 622), ('by', 602), ('more', 587), ('our', 579), ('we', 569), ('but', 548), ('trump', 543), ('teamlogo', 535), ('they', 512), ('this', 503), ('or', 475), ('percent', 470), ('you', 454), ('from', 449), ('have', 447), ('about', 428), ('who', 427), ('than', 425), ('was', 423), ('one', 404), ('be', 399), ('verdict', 377), ('were', 372), ('an', 352), ('has', 345), ('polls', 345), ('data', 340), ('not', 323), ('all', 310), ('their', 298), ('like', 290), ('he', 289), ('how', 277), ('there', 275), ('other', 274), ('said', 274), ('if', 269), ('his', 259), ('most', 254), ('so', 254), ('can', 251), ('some', 240), ('those', 238), ('which', 236), ('people', 235), ('what', 232), ('when', 225), ('10', 222), ('had', 210), ('out', 209), ('also', 205), ('get', 204), ('11', 201), ('positive', 201), ('up', 201), ('each', 188), ('just', 188), ('polling', 184), ('pollsters', 184), ('only', 182), ('13', 181), ('two', 179), ('points', 174), ('14', 173), ('do', 169), ('donald', 167), ('number', 166), ('12', 165), ('time', 165), ('new', 161), ('poll', 160), ('github', 158), ('them', 158), ('will', 157), ('its', 155), ('been', 155), ('no', 155), ('15', 154), ('average', 153), ('would', 151), ('many', 148), ('election', 148), ('league', 143), ('these', 142), ('much', 138), ('bar', 136), ('us', 135)]

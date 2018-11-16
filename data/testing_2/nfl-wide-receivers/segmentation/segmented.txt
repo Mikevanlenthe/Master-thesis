@@ -1,0 +1,201 @@
+Sentence nr: 0
+Aug. 4, 2014 at 7:30 AM The Football Hall Of Fame Has A Receiver Problem By Neil Paine Filed under Canton Get the data on GitHub GitHub data at data/nfl-wide-receivers FacebookTwitterEmail Former NFL wide receiver Andre Reed gives his speech during the NFL Class of 2014 Pro Football Hall of Fame Enshrinement Ceremony at Fawcett Stadium on Saturday in Canton, Ohio.
+
+Sentence nr: 1
+Jason Miller / Getty Images Former NFL wide receiver Andre Reed gives his speech during the NFL Class of 2014 Pro Football Hall of Fame Enshrinement Ceremony at Fawcett Stadium on August 2, 2014, in Canton, Ohio.
+
+Sentence nr: 2
+Jason Miller / Getty Images Former Buffalo Bills wide receiver Andre Reed was inducted into the Pro Football Hall of Fame on Saturday, joining his longtime teammates Jim Kelly, Thurman Thomas and Bruce Smith in Canton.
+
+Sentence nr: 3
+As a key contributor to the Bills’ four Super Bowl berths in the 1990s,1 Reed is a qualified candidate for the game’s greatest individual honor.
+
+Sentence nr: 4
+But while he was good, he wasn’t nearly as good as several other receivers the Hall has ignored.
+
+Sentence nr: 5
+It’s not Reed’s fault — it’s the Hall’s.
+
+Sentence nr: 6
+Canton hasn’t figured out how to best judge the careers of modern wide receivers.
+
+Sentence nr: 7
+Even in a sport where an individual player’s statistics are contaminated by the strengths and weaknesses of his teammates, his coaches and countless other considerations, wide receiver performance is a particularly tough nut to crack.
+
+Sentence nr: 8
+Raw numbers rarely offer enough to help us properly distinguish between pass-catchers, especially across eras, and statisticians haven’t always agreed on how best to correct biases in the data.
+
+Sentence nr: 9
+Take Reed’s career as an example.
+
+Sentence nr: 10
+It’s a glossy one — at the time he retired, he ranked third all time in catches, fourth in receiving yards and sixth in touchdown receptions.
+
+Sentence nr: 11
+But it’s also one that was entangled with the great ensemble of offensive talent, and one that was a beneficiary of the dawn of the NFL’s passing explosion.
+
+Sentence nr: 12
+Moreover, some advanced stats show that Reed’s on-field influence wasn’t what it appeared to be — the evidence is surprisingly mixed with regard to his actual effect on team passing efficiency.
+
+Sentence nr: 13
+In recent years, the Hall of Fame’s selection committee has reacted to its wide-receiver dilemma either by ignoring the position or by disregarding advanced stats when the committee does deign to induct those who played it.
+
+Sentence nr: 14
+(Until Reed and Cris Carter were tapped in the last two elections, the Hall had only taken seven receivers since 2000, a number that included the controversial selection of Lynn Swann.)
+
+Sentence nr: 15
+But Reed and Carter’s inductions signal that the WR logjam has become too much to ignore — and the tide of qualified receivers is only going to keep surging.2 It’s time to re-evaluate how we judge Reed and his contemporaries statistically.
+
+Sentence nr: 16
+Wide receivers are products of their eras.
+
+Sentence nr: 17
+When the NFL opened up the passing game in 1978, enacting new rules to make pass-blocking easier and to eliminate downfield defensive contact with receivers, league-wide passing output spiked almost instantly.
+
+Sentence nr: 18
+As a consequence, the numbers that once automatically signified greatness quickly became devalued.
+
+Sentence nr: 19
+For example, using a simple ratio of league passing yards per game in one season compared to another,3 Reed’s 1,312-yard campaign in 1989 would have been the equivalent of a mere 883 yards a dozen years prior.
+
+Sentence nr: 20
+What was, at the time, the 22nd-highest single-season yardage total ever becomes the 324th.
+
+Sentence nr: 21
+To appreciate a receiver’s true(r) talent isn’t just about adjusting to his era, though, it’s also about adjusting to his team.
+
+Sentence nr: 22
+The degree to which a receiver’s team throws the ball relative to the league norm has an effect on his stats.
+
+Sentence nr: 23
+It’s a point that sounds laughably obvious, but somehow isn’t often considered when judging pass-catchers: Teams that run more plays through the air give their receivers more opportunities to put up eye-popping numbers.
+
+Sentence nr: 24
+For Reed, this wasn’t a major factor; his Buffalo Bills and Washington Redskins threw about 3.5 percent less often than other teams in the league over the course of his career, which would only be enough to take 35 yards away from a 1,000-yard season.
+
+Sentence nr: 25
+But it does matter for someone like Calvin Johnson, whose Detroit Lions have chucked the ball downfield 12 percent more often than average in a league that already generates 10 percent more aerial yards per game than the historical norm.
+
+Sentence nr: 26
+How we treat this adjustment can make a huge difference in how a receiver is perceived statistically.
+
+Sentence nr: 27
+I tried to solve this issue last August by developing a metric called True Receiving Yards (TRY) with Chase Stuart of FootballPerspective.com.
+
+Sentence nr: 28
+(You can download the raw career TRY data, along with some other metrics I introduce later in this piece, on GitHub.)
+
+Sentence nr: 29
+TRY attempts to boil down a receiver’s production4 into a single (yardage-like) number that adjusts for differences in schedule lengths, league-wide passing environments and team passing volumes.
+
+Sentence nr: 30
+We initially scaled a player’s TRY in lockstep with the frequency with which his team passed relative to the league average.
+
+Sentence nr: 31
+That downgraded Johnson’s 2012 production by 23 percent, because, despite him breaking the all-time single-season record for receiving yards that year, Detroit also broke the all-time record for pass attempts in a season.
+
+Sentence nr: 32
+But it wasn’t as simple as that.
+
+Sentence nr: 33
+Teams that pass heavily tend to do so for a reason.
+
+Sentence nr: 34
+Namely, because they have a skilled quarterback and/or receivers.
+
+Sentence nr: 35
+And so when Chase and I looked into it further, it became apparent that a 5 percent increase in team passing frequency didn’t necessarily lead to a 5 percent increase in individual receiving output.
+
+Sentence nr: 36
+Instead, we found that it was more like a 2.5 percent increase — for any given increase in team passing volume, a player only saw half that increase in production.
+
+Sentence nr: 37
+Our difficulty in pinning down the real effect of something so simple underscores just how ambiguous receiving stats can be.
+
+Sentence nr: 38
+Complicating matters, receivers — unlike players at just about any other position — are competing with their own teammates for touches during a game, in real time.
+
+Sentence nr: 39
+That makes them more like basketball players, and we know that a guy like Carmelo Anthony, who uses a lot of his team’s possessions, appears to exert an influence that goes beyond his personal stats.
+
+Sentence nr: 40
+Having a receiver who commands extra attention seems like an obvious benefit to a team — but it’s difficult to prove that’s true.
+
+Sentence nr: 41
+Not that it’s stopped statisticians from trying.
+
+Sentence nr: 42
+The most commonly cited advanced receiving statistics are generated by Football Outsiders, whose Defense-adjusted Value Over Average (DVOA) metric tracks a team’s passing success on plays where a given player was targeted by the quarterback as the intended receiver.
+
+Sentence nr: 43
+Measuring performance on a per-opportunity basis is rooted in the traditions of baseball’s sabermetrics, where discrete events can easily be identified as opportunities for specific players.
+
+Sentence nr: 44
+But football is much more fluid than baseball, so we run into a curious phenomenon: By getting an opportunity — even an unsuccessful one — a receiver could be demonstrating a positive in-game influence, if not simply by stretching the defense and opening up opportunities for teammates.
+
+Sentence nr: 45
+Some of this phenomenon also is rooted in Bayes’ theorem.
+
+Sentence nr: 46
+Since coaches and quarterbacks both have strong incentives to funnel targets to their most talented receivers, the very act of being targeted for a pass is evidence of a player’s quality as an offensive threat.
+
+Sentence nr: 47
+Because of this, looking at per-target metrics like catch rate and DVOA may miss the bigger picture of a player’s full on-field value.
+
+Sentence nr: 48
+Those metrics aren’t taking into account how a receiver is shaping the game even when he’s not directly involved in a successful play.
+
+Sentence nr: 49
+And then there’s the matter of adjusting for the quality of a receiver’s teammates, and quantifying how much his conventional numbers truly lead to better team outcomes.
+
+Sentence nr: 50
+A year ago, I took a very rudimentary step in that direction by computing With Or Without You (WOWY) scores for historical receivers.
+
+Sentence nr: 51
+Essentially, WOWY measures whether all of the quarterbacks who played with a given receiver were more efficient5 over their collective careers6 with him or without him.
+
+Sentence nr: 52
+This is, in some ways, a more pertinent question to ask about a receiver — forget individual yardage, is he associated with a more efficient passing offense?
+
+Sentence nr: 53
+But that question isn’t perfect either: It requires using an entire team’s passing-efficiency data, which can be noisy from season to season.
+
+Sentence nr: 54
+Regardless, most of the usual suspects come out looking good by WOWY.
+
+Sentence nr: 55
+For instance, Randy Moss, whose statistical sway over his quarterbacks was legendary, boasts a +1.1 WOWY,7 which ranks second only to Rod Smith’s8 among players with 10,000 career True Receiving Yards.
+
+Sentence nr: 56
+And Tim Brown (the long-time Oakland Raiders receiver whom the committee did not select despite better individual receiving statistics than Reed) also ranks among the top WOWY receivers ever at +0.7.
+
+Sentence nr: 57
+Reed’s WOWY, however, comes out tied for second-worst among players with 10,000 lifetime TRY.
+
+Sentence nr: 58
+Despite his impressive raw (and adjusted) receiving numbers, he wasn’t associated with better play from his quarterbacks when they were throwing to him.
+
+Sentence nr: 59
+How much of this merits a serious indictment of Reed as a player isn’t completely clear, but the Hall of Fame isn’t even having that discussion using new metrics.
+
+Sentence nr: 60
+(Brown’s resume, on the other hand, was more impressive by every standard that doesn’t involve the postseason.
+
+Sentence nr: 61
+And while 71 percent of Reed’s career yardage came on passes from Hall of Famer Jim Kelly, Brown put up his superior numbers with an aging Rich Gannon, Jeff Hostetler, Jeff George, Jay Schroeder and Vince Evans at quarterback.)
+
+Sentence nr: 62
+Certainly the challenge of interpreting receiving data, especially across different eras of the game’s history, presents a daunting task to those seeking to fairly analyze Hall of Fame candidates.
+
+Sentence nr: 63
+But the solution to the Hall’s wide receiver logjam isn’t to ignore the data entirely.
+
+Sentence nr: 64
+It’s to dream up inventive ways of answering the pertinent questions about a player’s qualifications.
+
+Sentence nr: 65
+Advanced analytics attempt to answer fundamental questions about a player’s actual on-field influence.
+
+Sentence nr: 66
+Last I checked, that’s what’s supposed to put a player in the Hall of Fame.
+

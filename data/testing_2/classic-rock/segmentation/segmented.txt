@@ -1,0 +1,291 @@
+Sentence nr: 0
+Jul.
+
+Sentence nr: 1
+7, 2014 at 10:22 AM Why Classic Rock Isn’t What It Used To Be By Walt Hickey Filed under Music FacebookTwitterEmail Led Zeppelin (left) and Green Day (right) both get played on classic rock radio stations, even though the bands made music in different decades.
+
+Sentence nr: 2
+Getty Images Led Zeppelin is classic rock.
+
+Sentence nr: 3
+So are Mötley Crüe and Ozzy Osbourne.
+
+Sentence nr: 4
+But what about U2 or Nirvana?
+
+Sentence nr: 5
+As a child of the 1990s, I never doubted that any of these bands were classic rock, even though it may be shocking for many to hear.
+
+Sentence nr: 6
+And then I heard Green Day’s “American Idiot” on a classic rock station a few weeks ago, and I was shocked.
+
+Sentence nr: 7
+It was my first time hearing a band I grew up with referred to as “classic rock.” Almost anyone who listens to music over a long enough period of time probably experiences this moment — my colleagues related some of their own, like hearing R.E.M.
+
+Sentence nr: 8
+or Guns N’ Roses on a classic rock station — but it made me wonder, what precisely is classic rock?
+
+Sentence nr: 9
+As it turns out, a massive amount of data collection and analysis, and some algorithms, go into figuring out the answer to that very question.
+
+Sentence nr: 10
+No one starts a band with the intention of becoming classic rock.
+
+Sentence nr: 11
+It’s just sort of something that happens.
+
+Sentence nr: 12
+Figuring out which genre a band fits into — is it techno or house?
+
+Sentence nr: 13
+— has always been a tricky part of the music business.
+
+Sentence nr: 14
+Identifying what’s classic rock is particularly challenging because it’s a constantly moving target, with very different kinds of music lumped together under the same banner.
+
+Sentence nr: 15
+How the people who choose what music you hear — whether on the radio or an Internet streaming service — go about solving this problem reveals a deep connection between data and music.
+
+Sentence nr: 16
+To see what the current state of classic rock in the United States looks like, I monitored 25 classic rock radio stations operating in 30 of the country’s largest metropolitan areas for a week in June.
+
+Sentence nr: 17
+The result, after some substantial data cleaning, was a list of 2,230 unique songs by 475 unique artists, with a total record of 37,665 coded song plays across the stations.
+
+Sentence nr: 18
+I found that classic rock is more than just music from a certain era, and that it changes depending on where you live.
+
+Sentence nr: 19
+What plays in New York — a disproportionate amount of Billy Joel, for example — won’t necessarily fly in San Antonio, which prefers Mötley Crüe.
+
+Sentence nr: 20
+<bar>Classic rock is heavily influenced by region, and in ways that are unexpected.
+
+Sentence nr: 21
+For example, Los Angeles is playing Pearl Jam, a band most popular in the 1990s, five times more frequently than the rest of the country.
+
+Sentence nr: 22
+Boston is playing the ’70s-era Allman Brothers six times more frequently.</bar> To put today’s classic rock on a timeline, I pulled the listed release years for songs in the set from the music database SongFacts.com.
+
+Sentence nr: 23
+<line>While I wasn’t able to get complete coverage, I was able to get an accurate release year for 74 percent of the 2,230 songs and 89 percent of the 37,665 song plays.
+
+Sentence nr: 24
+The earliest songs in our set date back to the early 1960s;4 the vast majority of those are Beatles songs, with a few exceptions from The Kinks and one from Booker T. and the MGs.
+
+Sentence nr: 25
+A large number of songs appeared from the mid-’60s through the early ’70s.
+
+Sentence nr: 26
+Classic rock peaked — by song plays — in 1973.
+
+Sentence nr: 27
+In fairness, that was a huge year — with the release of Pink Floyd’s “Dark Side of the Moon”(an album of classic rock staples), Led Zeppelin’s “Houses of the Holy” and Elton John’s “Goodbye Yellow Brick Road”5 — but the trend steadily held for the rest of the ’70s and through the mid-’80s.</line> <line>The 10-year period from 1973 to 1982 accounts for a whopping 57 percent of all song plays in the set.
+
+Sentence nr: 28
+Besides a small trickle of music from 1995 onward — a trickle to which the Green Day song that inspired this article belongs — the last year to make an actual dent in the listings is 1991.</line> That’s largely due to releases by Nirvana, Metallica and U2, the groups that make up the last wave of what is currently considered classic rock.
+
+Sentence nr: 29
+But clearly it’s not just when a song was released that makes it classic rock.
+
+Sentence nr: 30
+Popularity matters, as does as a band’s longevity, its sound and a bunch of other factors.
+
+Sentence nr: 31
+To find out why some artists are considered classic rock, I spoke to Eric Wellman, the classic rock brand manager for Clear Channel, which owns nine of the 25 radio stations in our data set.
+
+Sentence nr: 32
+He’s also the programming director at New York’s classic rock station, WAXQ.
+
+Sentence nr: 33
+Wellman said release years have nothing to do with what makes a song “classic rock”; the ability of the genre to grow based on consumers’ tastes is one of the things that’s given it such longevity.
+
+Sentence nr: 34
+In fact, radio stations are using data to make their selection decisions.
+
+Sentence nr: 35
+Wellman said any radio company with the resources conducts regular studies in its major markets to find out what its listeners consider classic rock.
+
+Sentence nr: 36
+And so it’s you, the consumer, who’s helping to define the genre.
+
+Sentence nr: 37
+“The standard in the industry these days is an online music test or an auditorium music test where you just gather a sample and have them rate songs based on the hooks — the most familiar parts of the song — and you just get back a whole slew of data,” Wellman said.
+
+Sentence nr: 38
+The stations find a cluster of people who like the music that makes up the core of classic rock, and then finds out what else they like.
+
+Sentence nr: 39
+They like R.E.M.?
+
+Sentence nr: 40
+Well, R.E.M.
+
+Sentence nr: 41
+is now classic rock.
+
+Sentence nr: 42
+“It’s really that simple,” Wellman said.
+
+Sentence nr: 43
+So here’s what consumers consider classic rock.
+
+Sentence nr: 44
+These were the most-played songs across the 25 radio stations I studied during my week-long observation period: The top 25 most frequently played artists — the likes of Led Zeppelin, Van Halen and the Rolling Stones — together account for almost half of the spins on classic rock stations in the U.S. Another way of saying that is 5 percent of all the bands played on these stations made up nearly 50 percent of the song plays — which shows that there is at least a classic rock core.
+
+Sentence nr: 45
+While it’s cool to quantify the most essential classic rock musicians out there, what’s even cooler is comparing each station’s mix to what’s playing in the rest of the country.
+
+Sentence nr: 46
+Doing so demonstrates that the very definition of classic rock can change just by going over to the next city.
+
+Sentence nr: 47
+This list looks at the 25 most-played artists in our set and then finds the city where they’re played most disproportionately.
+
+Sentence nr: 48
+So if you can never get enough of Led Zeppelin, pack it up and move to New York, where 7 percent of all songs played on WAXQ are by Zep.
+
+Sentence nr: 49
+If you’re like me and can’t stand the Eagles or Tom Petty, stay the heck out of Tampa, where WXGL appears to specialize in them.
+
+Sentence nr: 50
+Every station has its own character, informed by its audience’s preferences.
+
+Sentence nr: 51
+Classic rock stations do a massive amount of market research to understand who their listeners are and to figure out what songs to play, Wellman said.
+
+Sentence nr: 52
+For example, in the South, listeners like the rock as hard as it comes.
+
+Sentence nr: 53
+According to Wellman, immigration plays a role.
+
+Sentence nr: 54
+“The Hispanic influx across the southern United States vastly changes the rock landscape,” he said.
+
+Sentence nr: 55
+“The common conventional wisdom is that Hispanics who listen to English-language rock like a significantly harder brand of English-language rock.
+
+Sentence nr: 56
+In markets where that is an influence, you’ll see that.” Migration within the 50 states also plays a role.
+
+Sentence nr: 57
+Billy Joel is bigger in New York than anywhere else in the country, but he’s also the most disproportionately played artist in Miami.
+
+Sentence nr: 58
+Why?
+
+Sentence nr: 59
+Think about who might be listening to classic rock stations in Miami: retired New Yorkers!
+
+Sentence nr: 60
+I looked at each city in our set to find the artist its classic rock station played most disproportionately.
+
+Sentence nr: 61
+Essentially, this map shows the local and regional preferences in classic rock.
+
+Sentence nr: 62
+(Click on the image to see it larger.)
+
+Sentence nr: 63
+Cities where rock stations have longer legacies, like Detroit and Philadelphia, tend to prefer an older style of classic rock — think J. Geils Band and the Beatles — while cities without that history tend to favor the more contemporary set.
+
+Sentence nr: 64
+But do radio stations rely at all on the institutional knowledge of their DJs to decide what to play?
+
+Sentence nr: 65
+Nope.
+
+Sentence nr: 66
+The role of the song-picking DJ is dead.
+
+Sentence nr: 67
+“I know there are some stations and some companies where if you change a song it’s a fireable offense,” Wellman said, cavalierly ruining the magic.
+
+Sentence nr: 68
+While all of my data collection and analysis focused on radio stations, which have been around for decades, I decided it was also worth reaching out to digital-native startups and streaming services to see how they’re defining classic rock.
+
+Sentence nr: 69
+The Echo Nest, which is owned by Spotify, uses data to generate song recommendations.
+
+Sentence nr: 70
+A huge part of this work entails placing artists into genres.
+
+Sentence nr: 71
+At its very core, the methodology used by The Echo Nest isn’t all that different from what Clear Channel does: Pick a center of the universe — if we’re talking classic rock, that would be Zeppelin, Floyd, etc.
+
+Sentence nr: 72
+— and then find out what orbits the center.
+
+Sentence nr: 73
+Radio stations figure this out based on interviews and music tests.
+
+Sentence nr: 74
+Glenn McDonald, who’s in charge of developing the genre algorithm at The Echo Nest, goes about it using math.
+
+Sentence nr: 75
+“We start from a set of artists and use a lot of complicated math to extrapolate the rest of the universe if those artists are the the center of it,” McDonald said.
+
+Sentence nr: 76
+In order to define a genre, first McDonald has to find out the relationships among different artists.
+
+Sentence nr: 77
+To do that, he relies on a mountain of data that The Echo Nest collects from users and elsewhere.
+
+Sentence nr: 78
+“We have listening histories and machines that go read the web,” he said.
+
+Sentence nr: 79
+“We read charts, we read reviews, we read blog posts, we read news articles, Wikipedia entries, pretty much anything we’re legally allowed to read.” These inputs are then interpreted into a relational map among artists showing how similar each is to another — essentially a map of the musical universe.
+
+Sentence nr: 80
+For example, if each artist was a point in space, McDonald would know how close that point is to every other point.
+
+Sentence nr: 81
+And “genre” is what happens when McDonald sees a cluster of points form.
+
+Sentence nr: 82
+In addition to the web-crawlers and listening histories, The Echo Nest uses sophisticated music-analysis software to figure out the qualities of different songs.
+
+Sentence nr: 83
+McDonald looks at 13 dimensions when evaluating genre: tempo, energy, loudness, danceability, whether a song is more acoustic or electric, dense or spare, atmospheric or bouncy, and so on.
+
+Sentence nr: 84
+Some genres are defined by one of these dimensions in particular — electronic music with a very finite range of beats per minute, say — and some are painted in broader strokes, like classic rock.
+
+Sentence nr: 85
+Classic rock, McDonald said, has a much wider range of tempo and rarely is powered by a drum machine.
+
+Sentence nr: 86
+The Echo Nest can detect whether an actual person is behind a drum set based on minor imperfections in tempo, or beats that a drum machine can’t mimic.
+
+Sentence nr: 87
+“The timing will be very human and unmechanical,” a dead giveaway, he said.
+
+Sentence nr: 88
+But McDonald agrees with Clear Channel’s Wellman: The classic rock genre is always changing, and that’s one of the things that makes it so hard to define.
+
+Sentence nr: 89
+So what’s next for Classic Rock?
+
+Sentence nr: 90
+Should I steel myself for One Direction’s eventual air time on the WAXQ of tomorrow?
+
+Sentence nr: 91
+It’s going to come down to economics, Wellman said.
+
+Sentence nr: 92
+As baby boomers and Gen X-ers age out of the key advertising demographic over the next five to 10 years, one of two things will happen.
+
+Sentence nr: 93
+Either advertisers will chase them, or classic rock will start to skew younger.
+
+Sentence nr: 94
+CORRECTION (July 8, 9:35 a.m.): A footnote in an earlier version of this story listed the incorrect call numbers for the classic rock station we monitored in Houston.
+
+Sentence nr: 95
+It was KGLK, not KKRW.
+
+Sentence nr: 96
+Listen to the most-played classic rock hits and other songs on FiveThirtyEight’s Classic Rock Playlist on Spotify:
+

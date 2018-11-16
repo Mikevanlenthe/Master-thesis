@@ -1,0 +1,150 @@
+Sentence nr: 0
+Jan. 14, 2015 at 7:03 AM Looking For Clues: Who Is Going To Run For President In 2016?
+
+Sentence nr: 1
+By Harry Enten Filed under The Visible Primary Get the data on GitHub GitHub data at data/potential-candidates FacebookTwitterEmail Hillary Clinton reacts as she and singer Tony Bennett are introduced during the Robert F. Kennedy Ripple of Hope Award ceremony Dec. 16 in New York.
+
+Sentence nr: 2
+Jason DeCrow / AP Figuring out who is going to run for president is a little like figuring out whom to date.
+
+Sentence nr: 3
+Some potential candidates are honest about their intentions, and others are more coy.
+
+Sentence nr: 4
+Is the person sitting across from you interested in a long-term relationship or just a fling?
+
+Sentence nr: 5
+Is Rick Santorum serious, or does he just want a lucrative Fox News contract?
+
+Sentence nr: 6
+To try and find some answers, we’re starting a recurring “Will They Run?” feature.
+
+Sentence nr: 7
+We’ll look at three variables: What the person has said about running.
+
+Sentence nr: 8
+If candidates say they are definitely running, they get a 5.
+
+Sentence nr: 9
+If they say they are exploring or seriously considering a run, they get a 4.
+
+Sentence nr: 10
+If they are unsure, they get a 3.
+
+Sentence nr: 11
+If they haven’t ruled it out but are leaning toward no, they get a 2.
+
+Sentence nr: 12
+If they say they aren’t running, they get a 1.
+
+Sentence nr: 13
+How many events — rallies, fundraisers, political meetings, etc.
+
+Sentence nr: 14
+— they have held in Iowa and New Hampshire (the “early states”).
+
+Sentence nr: 15
+How many national primary polls they have been included in.
+
+Sentence nr: 16
+The logic here is straightforward.
+
+Sentence nr: 17
+We look at statements because some candidates are relatively honest about their intentions.
+
+Sentence nr: 18
+We look at early-state events because actions speak louder than words: Almost all of the candidates on the ground in Iowa and New Hampshire in early 2007 and early 2011 ended up running in 2008 and 2012, respectively.
+
+Sentence nr: 19
+And we look at the polls under the assumption that pollsters are close political observers with some idea of who is likely to run.1 We’ll score every potential candidate who has been included in at least one national poll since the 2014 midterm elections.2 Here’s what we get on the Democratic side: Martin O’Malley, Bernie Sanders and Jim Webb score highly on at least two of these measures.
+
+Sentence nr: 20
+They have said they are “exploring” a run or are “actively looking at” a run.
+
+Sentence nr: 21
+They have visited Iowa or New Hampshire since the midterm elections (or have a visit planned before the end of January).
+
+Sentence nr: 22
+Perhaps most importantly, all three don’t seem to be basing their decision on what Hillary Clinton does.
+
+Sentence nr: 23
+Someone who I think will only run if Clinton doesn’t is Vice President Joe Biden.
+
+Sentence nr: 24
+He hasn’t visited any of the early states and hasn’t said whether he is running.
+
+Sentence nr: 25
+But he has been included in every national poll.
+
+Sentence nr: 26
+Speaking of Clinton, everyone assumes she’s in, but she hasn’t made a peep one way or the other and hasn’t visited the early states recently.
+
+Sentence nr: 27
+Pollsters have been hedging their bets as well, testing the 2016 Democratic field with and without her.
+
+Sentence nr: 28
+I personally think Clinton is likely to run, though some caution is probably warranted.
+
+Sentence nr: 29
+On the other hand, Elizabeth Warren has been included in every poll, but she said Tuesday that she is not going to run.
+
+Sentence nr: 30
+Warren had previously said that she “isn’t running,” and there’s a subtle difference between “isn’t” and “not going” to run.
+
+Sentence nr: 31
+Expect Warren to be included in fewer polls.
+
+Sentence nr: 32
+On the Republican side, the picture is a lot more muddled: Jeb Bush, Mike Huckabee, Rand Paul, Rick Perry and Santorum have been included in the vast majority of polls, have said they are exploring a run, or have made visits to the early states.
+
+Sentence nr: 33
+They seem more likely to run than not.
+
+Sentence nr: 34
+That’s especially true of Paul, Perry and Santorum, who are already hitting the campaign trail hard.
+
+Sentence nr: 35
+I’m not sure about those just below this top group.
+
+Sentence nr: 36
+Chris Christie and Scott Walker seem the most likely to run; they’re reportedly assembling campaign teams.
+
+Sentence nr: 37
+Ben Carson, Ted Cruz and Bobby Jindal have been making visits to the early states, so we should take them seriously.
+
+Sentence nr: 38
+Marco Rubio has said Bush’s run won’t impact his own, though I’m skeptical.
+
+Sentence nr: 39
+Pollsters seem to be a lagging indicator in the cases of Carly Fiorina and Mitt Romney.
+
+Sentence nr: 40
+Both potential candidates have recently made campaign-related moves — even though the pollsters haven’t listed them in many surveys.
+
+Sentence nr: 41
+Fiorina is visiting the early states and has said she’s considering a run.
+
+Sentence nr: 42
+Romney has been quoted in The Washington Post as saying he will “almost certainly” run and is quickly putting together a campaign apparatus.
+
+Sentence nr: 43
+(We list Romney as a “maybe” on our scorecard because he hasn’t made a public statement.)
+
+Sentence nr: 44
+Paul Ryan has said he is not going to run, and I’m doubtful John Kasich will (Kasich has basically said as much).
+
+Sentence nr: 45
+Their inaction in the early states points in that same direction.
+
+Sentence nr: 46
+We plan to update these numbers regularly and see how much of this changes.
+
+Sentence nr: 47
+Just in the course of writing this article, Ryan and Warren declared they weren’t running, and Romney’s efforts became more serious.
+
+Sentence nr: 48
+The race to the White House is only now beginning.
+
+Sentence nr: 49
+Dhrumil Mehta contributed to this article.
+

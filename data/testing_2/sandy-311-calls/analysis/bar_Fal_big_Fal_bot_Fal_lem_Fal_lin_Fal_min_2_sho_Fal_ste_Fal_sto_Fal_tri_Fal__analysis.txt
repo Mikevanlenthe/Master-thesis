@@ -1,0 +1,58 @@
+Article: sandy-311-calls
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 964
+Raw number of types: 365
+Raw Type token ratio (higher = more diversity in language use): 0.37863070539419086
+
+100 most freq tokens before (pre)processing: 
+[('the', 5855), (',', 5656), ('.', 3868), ('of', 2910), ('a', 2446), ('to', 2374), ('in', 2263), ('and', 2128), ('’', 1901), ('that', 1336), ('s', 1053), ('for', 1004), ('is', 957), (':', 923), ('on', 858), ('it', 799), ('are', 705), ('“', 663), ('”', 662), ('with', 637), ('at', 613), ('as', 592), ('by', 582), ('our', 572), ('more', 565), ('—', 563), ('(', 559), (')', 559), ('we', 554), ('team-logo', 535), ('but', 531), ('trump', 516), ('they', 497), ('this', 485), ('percent', 459), ('i', 456), ('or', 453), ('you', 438), ('have', 432), ('from', 423), ('who', 421), ('t', 420), ('was', 414), ('than', 409), ('about', 407), ('one', 389), ('be', 379), ('verdict', 377), ('1', 367), ('were', 362), ('polls', 344), ('an', 329), ('has', 329), ('data', 322), ('?', 312), ('not', 307), ('all', 301), ('their', 290), ('like', 287), ('he', 280), ('how', 274), ('said', 270), ('there', 267), ('other', 266), ('if', 262), ('most', 248), ('so', 242), ('can', 240), ('those', 233), ('some', 231), ('his', 227), ('people', 226), ('which', 223), ('what', 223), ('when', 220), ('<', 205), ('out', 204), ('>', 204), ('get', 202), ('up', 198), ('positive', 197), ('also', 194), ('had', 191), ('just', 187), ('each', 184), ('pollsters', 184), ('polling', 183), ('2', 178), ('only', 177), ('%', 172), ('points', 171), ('two', 169), (';', 168), ('do', 163), ('donald', 161), ('new', 160), ('time', 159), ('poll', 159), ('will', 154), ('github', 153)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 842
+Number of types: 348
+Type token ratio: 0.41330166270783847
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', '\ufeffthe, new, sandy, fluke, midatlantic, responsible, such, dec, sandy, new, yorksandy, new, dead, untold, steep, first, few, hard, rebuilt, normal, new, open, sandy, new, new, next, feb, nov, nov, nov, nov, congress, new, new, red, large, public, brooklyn, red, large, public, brooklyn, sandyrelated, new, storm, landfall, august, total, september, total, environmental, lowered, sandy, red, unsafe, april, stormrelated, significant, structural, november, major, sandyrelated, overall, such, lingering, new, mental, mental')
+
+('NN', 'tail, hurricane, recovery, julia, wolfe, sept, someone, york, city, city, nonemergency, hotline, information, hurricane, disaster, relief, program, storm, causing, city, damage, year, government, information, city, hall, hover, jan, power, power, irma, texas, florida, devastation, recovery, hurricane, recovery, work, power, school, life, storm, york, city, website, arrival, fall, today, storm, story, tragedy, recovery, city, story, york, texas, florida2, sandy, york, evening, date, city, storm, scale, mar, jun, jul, aug, sep, oct, dec, jan, feb, mar, jun, jul, aug, sep, oct, dec, jan, feb, mar, jun, jul, aug, sep, oct, dec, jan, feb, mar, jun, jul, aug, sep, oct, dec, jan, feb, mar, jun, jul, aug, sep, aid, congress, aid, path, train, service, manhattan, jersey, path, train, service, manhattan, jersey, boardwalk, boardwalk, roofs, hook, housing, development, start, roofs, hook, housing, development, start, emergency, management, city, line, relief, sandy, city, hall, purview, city, hall, help, storm, information, city, disaster, recovery, water, sewer, purview, department, protection, property, example, water, city, property, info, status, vacate, june, city, half, purview, department, finance, property, tax, relief, damage, inspection, reinspection, storm, damage, community, restoration, onefifth, business, community, information, fraud, fraud, storm, month, sandy, department, health, hygiene, health, hurricane')
+
+('VB', 'roeder, be, be, be, unfold, help, be, be, 2013, volunteer, spend, request, have, vacate, enter, occupy, report, june, july')
+
+('VBD', 'dialed, asked, was, devastated, sandyrelated, were, were, left, left, lost, was, downloaded, were, hit, received, received, kept, were, were, made, came, were, included, fell, were, were, stormrelated, received, fell, were, came, were, had, were, started, were, were, called, were, were')
+
+('VBN', 'been, been, restored, restored, reached, placed, related, related, zoomed, made, restored, restored, replaced, replaced, received, considered, damaged, destroyed, reviewed, placed, considered, made, sandyrelated, been, made, related, directed, affected')
+
+('NNS', 'years, deaths, days, calls, calls, colors, agencies, callers, details, arrives, arrives, hurricanes, harvey, dozens, billions, dollars, roads, months, homes, kids, data, logs, calls, days, calls, weeks, tens, thousands, calls, calls, weekends, calls, approves, rockaways, rockaways, houses, houses, calls, yorkers, efforts, months, calls, requests, cars, funds, bills, calls, customers, bills, orders, stickers, buildings, calls, owners, orders, finances, calls, calls, structures, calls, owners, members, grants, loans, reports, calls, years, calls, effects, yorkers, services, children')
+
+('VBP', 'continue, have, represent, are, are, head, tell, ve, see, are, beach, beach, have')
+
+('VBG', 'requesting, beginning, coming, leftpointing, asking, finding, requesting, requesting, requesting, coming, calling')
+
+('JJR', 'more, arrowfewer, sewer')
+
+('VBZ', 'calls, is, is, lingers, is, continues, is, approves, connects, is, connects, is, returns, returns, plans, august')
+
+100 most freq tokens after processing: 
+[('the', 5855), ('of', 2910), ('to', 2374), ('in', 2264), ('and', 2128), ('that', 1340), ('for', 1005), ('is', 957), ('on', 858), ('it', 801), ('are', 706), ('with', 637), ('at', 614), ('as', 592), ('by', 582), ('our', 572), ('more', 565), ('we', 554), ('teamlogo', 535), ('but', 531), ('trump', 517), ('they', 497), ('this', 485), ('percent', 463), ('or', 453), ('you', 438), ('have', 432), ('from', 423), ('who', 421), ('was', 414), ('than', 409), ('about', 407), ('one', 392), ('be', 380), ('verdict', 377), ('were', 362), ('polls', 344), ('an', 329), ('has', 329), ('data', 322), ('not', 307), ('all', 301), ('their', 290), ('like', 287), ('he', 280), ('how', 274), ('said', 270), ('there', 267), ('other', 267), ('if', 262), ('most', 248), ('so', 243), ('can', 240), ('those', 233), ('some', 231), ('his', 227), ('people', 226), ('which', 223), ('what', 223), ('when', 220), ('10', 217), ('out', 206), ('get', 202), ('11', 199), ('positive', 198), ('up', 198), ('also', 194), ('had', 191), ('just', 187), ('each', 184), ('polling', 184), ('pollsters', 184), ('13', 181), ('only', 177), ('14', 173), ('points', 171), ('two', 169), ('do', 163), ('12', 163), ('donald', 162), ('time', 161), ('new', 160), ('poll', 159), ('will', 154), ('github', 153), ('15', 153), ('them', 151), ('its', 149), ('average', 149), ('no', 149), ('number', 149), ('would', 148), ('been', 147), ('election', 147), ('league', 143), ('many', 142), ('these', 137), ('neutral', 135), ('voters', 135), ('us', 134)]

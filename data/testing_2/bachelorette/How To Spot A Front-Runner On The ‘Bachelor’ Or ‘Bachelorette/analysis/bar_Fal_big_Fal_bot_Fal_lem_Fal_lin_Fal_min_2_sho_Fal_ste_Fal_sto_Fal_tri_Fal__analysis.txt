@@ -1,0 +1,60 @@
+Article: bachelorette/How To Spot A Front-Runner On The ‘Bachelor’ Or ‘Bachelorette
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2062
+Raw number of types: 595
+Raw Type token ratio (higher = more diversity in language use): 0.2885548011639185
+
+100 most freq tokens before (pre)processing: 
+[('the', 5146), (',', 5010), ('.', 3370), ('of', 2537), ('a', 2188), ('to', 2119), ('in', 2006), ('and', 1845), ('’', 1653), ('that', 1194), ('for', 911), ('s', 895), ('is', 847), (':', 824), ('on', 737), ('it', 716), ('are', 620), ('“', 584), ('”', 583), ('with', 565), ('our', 550), ('at', 536), ('team-logo', 535), ('by', 526), ('as', 511), ('more', 509), ('we', 501), ('—', 494), ('(', 486), (')', 486), ('but', 463), ('this', 428), ('they', 410), ('i', 401), ('you', 393), ('or', 389), ('t', 386), ('have', 381), ('verdict', 377), ('percent', 374), ('from', 369), ('than', 368), ('was', 359), ('1', 356), ('about', 345), ('trump', 345), ('one', 342), ('polls', 342), ('who', 340), ('be', 337), ('an', 301), ('data', 285), ('has', 281), ('were', 274), ('like', 269), ('all', 268), ('their', 264), ('not', 257), ('he', 245), ('if', 243), ('there', 238), ('said', 235), ('how', 232), ('most', 228), ('other', 225), ('can', 219), ('?', 215), ('so', 213), ('some', 205), ('when', 202), ('those', 198), ('positive', 197), ('what', 197), ('his', 195), ('which', 194), ('out', 189), ('<', 187), ('>', 186), ('pollsters', 184), ('people', 183), ('polling', 183), ('up', 181), ('get', 180), ('also', 179), ('each', 171), ('had', 169), ('2', 169), ('points', 162), ('just', 161), ('only', 159), ('donald', 157), ('%', 157), ('two', 156), ('poll', 154), (';', 150), ('do', 145), ('league', 142), ('new', 141), ('election', 141), ('average', 140)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1714
+Number of types: 569
+Type token ratio: 0.33197199533255545
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VB', 'spot, bachelorette, start, love, have, try, figure, whittle, crack, make, win, get, keep, crown, win, be, go, spend, inspire, be, do, tend, get, tend, burst, find, see, lauren, be, come, forget, stop, come, come, four9, establish, kick, have, continue, happen, contestant, contestant, be, win, measure, see, be, get, identify, pick, buy, make, love, see')
+
+('NN', 'frontrunner, bachelor, ella, koeze, walt, hickey, tv, data, github, github, databachelorette, night, lawyer, dallas, rachel, lindsay, journey, season, premiere, bachelorette, season, bachelor, franchise, bachelor, bachelorette, data, set, subject, heart, edge, competition, firstimpression, bachelor, franchise, part, fabric, television, week, bachelor, bachelorette, oncamera, group, sex, one, romance, competition, information, nut1, bachelor, bachelorette, speculation, desire, love, abc, fivethirtyeight, espn, abc, walt, disney, co, it2, week, competition, season, oneonone, date, twoonone, date, group, date, protection, elimination, week, show6, week, pie, percent, bachelorette, bachelor, win, quit, way, ceremony, week, competition, bachelor, bachelorette, week, rest, date, ceremony, show, week, ceremony, carnage, week, piece, favorite, firstimpression, prize, contestant, bachelor, bachelorette, week, future, contestant, firstimpression, runnerup, percent, episode, rachel, firstimpression, season, bachelor, bachelor, nick, viall, half, rate, percent, week, rhythm, bachelorette, time, love, bachelor, bachelorette, resource, reason, face, time, group, winner, path, victory, date, season, date, obscurity, end, date, contestant, course, season, winner, journey, season, pink, winner, lead, check, jp, bachelorette, lurker, look, bachelor, season, winner, bachelor, brad, womack, season, bachelor, growth, length, complexity, number, bigpicture, view, consideration, twoonone, half, twoonone, tv, mortality, rate, half, percent, bachelor, hunger, moment, bachelor, chris, twoonone, date, middle, desert, somehow, carnage, doesn, half, twoonone, date, twoonone, date, percent, contestant, competition, doom, heart, bachelor, franchise, course, series, all8, oneonone, date, sign, season, field, oneonone, show, relationship, bachelor, ette, field, season, bachelor, winner, oneonone, date, week, viall, zero, gravity, plane, kiss, time, theory, date, endofepisode, ceremony, invitation, preference, part, bachelor, bachelorette, date, advantage, regardless, date, date, week, competition, ceremony, proceeding, week, competition, ceremony, outcome, outcome, date, question, date, recipient, date, mind, ceremony, thing, winning, date, thing, show, competition, date, relief, percent, time, week, percent, time, date, week, percent, time, thing, competition, compare, elimination, rate, elimination, rate, date, week, percent, time, week, week, date, advantage, difference, advantage, time, elimination, week, week, date, advantage, chart, probability, contestant, date, episode, example, person, week, roseless, week, chance, week, chance, elimination, contestant, date, bachelorette, fantasy, league, idea, contestant, analysis, firstimpression, way, favorite, way, winner, date, show, oneonone, season, twoonone, date, contestant, someone, week, premiere, season, bachelorette, night, abc, grace, mohs, research, piece, tony, chow, meena, ganesan, gus, wezerek, ella, koeze, gus, wezerek')
+
+('VBD', 'learned, used, rose, structured, helped, logged, noted, went, received, left, let, rose, rose, rose, rose, rose, impressed, was, rose, went, went, received, rose, made, rejected, considered, were, assigned, charted, took, was, picked, rose, terminated, left, won, rose, found, remained, went, did, vomited, took, rose, rose, were, rose, rose, rose, rose, rose, was, looked, happened, rose, rose, rose, rose, were, won, rose, happened, was, won, did, rose, were, rose, rose, rose, received, rose, rose, learned, rose, rose, contributed, did')
+
+('VBG', 'analyzing, being, assuming, playing, remaining, going, ending, dating, dizzying, forecasting, looking, dating, weighting, remaining, surviving, doing, trying, playing, going, getting, getting, being, surviving, winning, surviving, being, being, keeping, getting, leaving, winning, looking, being, receiving, preparing, doing, going')
+
+('NNS', 'seasons, data, seasons, matters, data, contestants, years, ratings, millions, uses, dates, contestants, contestants, weeks, things, motives, contestants, subjects, contestants, reasons, data, roses, dates, contestants, roses, contestants, odds, players, contestants, data, viewers, seasons, recipients, recipients, roses, contestants, rolls, shows, contestants, dates, opportunities, dates, dates, ones, champions, opportunities, positions, points, dates, contestants, points, roses, women, shows, seasons, weeks, dates, types, dates, dates, contestants, contestants, dates, ettes, competitors, soules, women, survivors, weeks, weeks, participants, cases, twoonones, dates, dates, exceptions, contestants, weeks, contestants, dates, weeks, contestants, weeks, contestants, weeks, roses, roses, contestants, dates, dates, people, things, weeks, grabs, events, roses, weeks, contestants, competitors, contestants, competitors, chances, contestants, buys, weeks, weeks, weeks, contestants, weeks, dates, contestants, graphics')
+
+('VBN', 'filed, published, named, given, become, scripted, made, motivated, owned, owned, felled, dumped, rejected, removed, eliminated, allocated, given, made, invited, invited, accumulated, highlighted, designed, invited, eliminated, rejected, gone, eliminated, been, reduced, shared, been, given, given, eliminated, eliminated, awarded, eliminated, given, eliminated, given, eliminated, eliminated, fun')
+
+('VBP', 'get, watch, need, jump, need, clear, are, re, are, are, re, are, contestants3, pie, are, want, are, are, lindsay, get, reach, make, fall, are, are, allow, do, go, are, are, go, get, are, are, spell, oneonone, are, have, re, sink, swim, don, have, survive, are, are, are, contend, receive, represent, zeroed, are, receive, do, re, want, are, re, have, ll')
+
+('JJ', 'monday, televised, previous, unprecedented, elusive, final, solid, america, cultural, unknown, opposite, lucky, frequent, true, right, second, espn, first, hard, ritual, next, particular, bloodbath, third, first, first, essential, early, coveted, awful, single, final, recent, final, firstimpression, final, overall, final, precious, ideal, maximum, curious, strong, dark, early, final, evident, specific, worthy, special, statistical, brutal, available, great, ondate, bloodthirsty, gamesstyle, next, oneonone, few, good, valuable, early, average, overall, extra, helpful, crowded, last, final, mere, active, important, distinct, many, next, neutral, negative, positive, essential, positive, positive, negative, next, neutral, next, positive, negative, several, temporary, subsequent, subsequent, next, percent, maintain, steady, next, percent, same, favorite, few, essential, great, early, poor, valuable, toast, third, final, monday, abc, fivethirtyeight, rachael, dottle')
+
+('VBZ', 'is, gives, has, is, remains, adds, is, is, dates, leaves, distributes, is, is, allows, is, means, is, dates, is, stands, is, grows, dates, means, is, makes, is, is, is, is, is, gives, is, is, is, is, is, happens, is, is, shows, didn, is, has, is, is, offers, takeaways, is, roses, means, is, manages, airs')
+
+('JJS', 'most, best, most, grossest, least, least, most')
+
+('JJR', 'higher, smaller, larger, fewer, more, more, more, more, closer')
+
+100 most freq tokens after processing: 
+[('the', 5146), ('of', 2537), ('to', 2119), ('in', 2007), ('and', 1845), ('that', 1198), ('for', 912), ('is', 847), ('on', 737), ('it', 718), ('are', 621), ('with', 565), ('our', 550), ('at', 537), ('teamlogo', 535), ('by', 526), ('as', 511), ('more', 509), ('we', 501), ('but', 463), ('this', 428), ('they', 410), ('you', 393), ('or', 389), ('have', 381), ('percent', 378), ('verdict', 377), ('from', 369), ('than', 368), ('was', 359), ('trump', 346), ('about', 345), ('one', 345), ('polls', 342), ('who', 340), ('be', 338), ('an', 301), ('data', 285), ('has', 281), ('were', 274), ('like', 269), ('all', 268), ('their', 264), ('not', 257), ('he', 245), ('if', 243), ('there', 238), ('said', 235), ('how', 232), ('most', 228), ('other', 226), ('can', 219), ('so', 214), ('some', 205), ('10', 204), ('when', 202), ('those', 198), ('positive', 198), ('what', 197), ('his', 195), ('which', 194), ('11', 192), ('out', 190), ('polling', 184), ('pollsters', 184), ('people', 183), ('up', 181), ('get', 180), ('also', 179), ('each', 171), ('had', 169), ('points', 162), ('just', 161), ('only', 159), ('13', 159), ('donald', 158), ('two', 156), ('poll', 154), ('14', 150), ('do', 145), ('12', 144), ('league', 142), ('new', 141), ('average', 141), ('election', 141), ('number', 140), ('will', 140), ('time', 139), ('them', 136), ('its', 135), ('neutral', 134), ('15', 132), ('would', 129), ('github', 128), ('these', 125), ('many', 124), ('much', 123), ('been', 121), ('my', 121), ('year', 121)]

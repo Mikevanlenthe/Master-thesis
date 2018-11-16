@@ -1,0 +1,60 @@
+Article: endorsements-june-30
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1439
+Raw number of types: 495
+Raw Type token ratio (higher = more diversity in language use): 0.3439888811674774
+
+100 most freq tokens before (pre)processing: 
+[('the', 2809), (',', 2793), ('.', 1735), ('of', 1348), ('a', 1197), ('in', 1096), ('to', 1047), ('and', 959), ('’', 823), ('that', 621), (':', 621), ('s', 494), ('is', 450), ('for', 448), ('our', 442), ('on', 430), ('it', 415), ('verdict', 377), ('with', 322), ('at', 300), ('are', 292), ('1', 290), ('trump', 277), ('“', 270), ('by', 269), ('”', 269), ('more', 267), ('—', 266), ('(', 265), (')', 265), ('i', 264), ('percent', 262), ('but', 246), ('as', 244), ('this', 242), ('we', 215), ('from', 209), ('than', 208), ('have', 208), ('you', 208), ('was', 195), ('about', 193), ('positive', 187), ('like', 182), ('or', 180), ('t', 171), ('data', 167), ('an', 164), ('has', 163), ('he', 159), ('be', 156), ('they', 152), ('one', 152), ('donald', 146), ('his', 143), ('all', 135), ('who', 132), ('neutral', 132), ('were', 127), ('not', 122), ('their', 121), ('other', 121), ('so', 117), ('out', 116), ('there', 114), ('<', 114), ('when', 114), ('?', 112), ('>', 112), ('most', 111), ('if', 111), ('/', 110), ('people', 110), ('up', 107), ('what', 106), ('can', 105), ('those', 102), ('get', 101), ('which', 100), ('some', 100), ('how', 93), ('only', 92), ('my', 92), ('2', 91), ('me', 90), ('just', 89), (';', 85), ('state', 85), ('negative', 82), ('trump�', 82), ('each', 81), ('had', 81), ('its', 80), ('10', 80), ('also', 79), ('model', 78), ('do', 77), ('films', 77), ('3', 76), ('said', 75)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1199
+Number of types: 464
+Type token ratio: 0.3869891576313595
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, thing, jeb, bush, frontrunner, harry, kickoff, florida, gov, jeb, bush, joel, plosz, florida, gov, jeb, bush, joel, money, isn, everything, thing, florida, gov, jeb, bush, campaign, today, lot, talk, pac, fundraising, goal, end, month, money, bush, plenty, cash, pay, attention, gop, house, bush, week, bush, raft, state, house, delegation, sen, marco, rubio, race, bush, house, anyone, field, candidate, rand, paul, congress, home, state, endorsement, race, polling, bush, speck, hampshire, bit, tier, bush, frontrunner, position, governor, senator, point, representative, bush, percent, choice, gop, field, homestate, none, process, party, applemandemocracy, action, relationship, percentage, vote, endorsement, primary, nomination, bush, problem, lead, thirteen, percent, endorsement, pie, aren, endorsement, bar, mitt, romney, frontrunner, number, bush, mccain, summer, percentage, endorsement, share, bush, brother, george, bush, number, percentage, endorsement, share, point, race, bar, comparison, gop, endorsement, race, contest, dick, gephardt, lot, house, house, caucus, didn, problem, race, minority, leader, house, bush, hasn, anything, money, pac, election, court, decision, explosion, spending, sample, spending, vote, campaign, fundraising, endorsement, percentage, weight, money, money, something, campaign, hasn, check, github, endorsement, fundraising, piece, crane, race, pat, robertson, phil, gramm, giuliani, money, point, race, crane, giuliani, endorsement, race, crane, robertson, gramm, giuliani, sixth, money, result, race, nomination, half, point, endorsement, race, candidate, money, june, year, michael, dukakis, percent, money, halfway, point, percent, endorsement, john, kerry, percent, money, percent, point, neither, money, money, support, money, pac, race, money, course, money, pac, power, money, candidate, super, pacs, form, development, money, lot, support, haul, year, something, pacs, raise, lot, money, something, strength, pac, edge, information, candidate, percentage, chance, nomination, pacs, candidate, percent, money, field, percentage, chance, thing, bush, endorsement, primary, thing, bush, shot')
+
+('VBP', 'am, say, are, are, are, are, account, do, are, are, hold, go, impressive, are, fare, open, are, give, tell, have, are, foretell, are, have')
+
+('NNS', 'pols, polls, campaigns, stories, matters, officials, governors, senators, members, endorsements, pols, republicans, endorsements, forma, endorsements, endorsements, members, governors, senators, endorsements, members, polls, polls, endorsements, points, points, points, points, bigwigs, endorsements, officials, words, endorsements, data, decides, endorsements, candidates, primaries, candidates, leads, points, leaders, campaigns, times, points, points, times, points, points, freeforalls, endorsements, gephardt, endorsements, candidates, endorsers, options, republicans, ve, elections, citizens, analyses, elections, sizes, studies, postcitizens, elections, effects, candidates, endorsements, times, words, tells, endorsements, races, data, fields, candidates, years, leaders, endorsements, fights, candidates, fields, frontrunners, points, endorsements, nominees, officials, grabs, groups, differs, donations, individuals, donors, matters, endorsements, years, endorsements, polls, candidates, candidates')
+
+('JJ', 'same, weak, former, former, only, presidential, former, presidential, super, particular, last, florida, homestate, pro, fellow, floridian, meaningful, current, republican, only, sen, national, new, second, iowa, weak, endorsement, ok, great, republican, big, other, determinative, important, eric, clear, early, eventual, national, primary, nonincumbent, large, large, early, primary, weak, endorsement, endorsement, past, democratic, democratic, same, few, early, potential, same, true, few, presidential, supreme, united, noncampaign, presidential, small, true, united, hard, outside, eventual, primary, other, gop, predictive, third, republican, clear, weighted, republican, previous, democratic, eventual, last, democratic, primary, large, eventual, super, extra, clear, super, other, independent, predictive, current, recent, sure, predictive, future, likely, super, few, early, organizational, super, top, additional, bush, percent, past, super, impressive, large, bush, percent, reasonable, same, other, other')
+
+('VBZ', 'is, isn, enters, has, echoes, leads, is, is, is, is, is, doesn, has, does, seems, bush, is, is, phil, leads, is, bush, is, says, bush, seems, is, has, does')
+
+('VBN', 'filed, won, considered, john, given, split, plagued, won, earned, raised, been, used, taken, raised, declared, won, raised, raised, bush, elected, raised, raised, based, raised, based, shot, combined')
+
+('VBG', 'going, backing, including, running, using, struggling, chairing, voting, serving, keeping, gobbling, making, trying, using, fundraising, counting, selffunding, fundraising, counting, raising, taking, winning, counting, winning, telling, winning, losing')
+
+('VB', 'be, hit, ignore, have, pick, have, see, win, hold, bush, be, judge, explain, rudy, see, foretell, look, dismiss, help, know, mean, put, have, be, have, say, easy, envision, see')
+
+('JJR', 'more, more, more, more, super, less, more, better, better, easier')
+
+('VBD', 'unveiled, weight, made, was, had, was, had, had, won, was, began, had, ran, were, were, were, were, wrapped, had, were, had, led, went, were, had, hadn, were, had, had, had, had, were, were, were, was')
+
+('JJS', 'least, most, most, closest, weakest, safest, most')
+
+100 most freq tokens after processing: 
+[('the', 2809), ('of', 1348), ('in', 1096), ('to', 1047), ('and', 959), ('that', 623), ('is', 450), ('for', 449), ('our', 442), ('on', 430), ('it', 416), ('verdict', 377), ('with', 322), ('at', 300), ('are', 292), ('trump', 277), ('by', 269), ('more', 267), ('percent', 266), ('but', 246), ('as', 244), ('this', 242), ('we', 215), ('from', 209), ('than', 208), ('have', 208), ('you', 208), ('was', 195), ('about', 193), ('positive', 188), ('like', 182), ('or', 180), ('data', 167), ('an', 164), ('has', 163), ('he', 159), ('be', 157), ('one', 155), ('they', 152), ('donald', 147), ('his', 143), ('all', 135), ('who', 132), ('neutral', 132), ('were', 127), ('not', 122), ('their', 121), ('other', 121), ('so', 118), ('out', 117), ('there', 114), ('when', 114), ('most', 111), ('if', 111), ('people', 110), ('up', 107), ('what', 106), ('can', 105), ('those', 102), ('get', 101), ('which', 100), ('some', 100), ('how', 93), ('only', 92), ('my', 92), ('me', 91), ('10', 91), ('just', 89), ('state', 85), ('negative', 82), ('trump�', 82), ('each', 81), ('had', 81), ('its', 80), ('also', 79), ('model', 78), ('do', 77), ('bar', 77), ('films', 77), ('said', 75), ('new', 74), ('github', 73), ('points', 72), ('polls', 72), ('two', 68), ('�i', 67), ('year', 66), ('national', 65), ('time', 64), ('where', 63), ('2015', 63), ('would', 62), ('number', 62), ('rock', 62), ('women', 62), ('these', 61), ('will', 61), ('2014', 60), ('been', 60), ('them', 59)]

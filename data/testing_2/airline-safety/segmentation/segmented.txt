@@ -1,0 +1,216 @@
+Sentence nr: 0
+Jul.
+
+Sentence nr: 1
+18, 2014 at 8:20 PM Should Travelers Avoid Flying Airlines That Have Had Crashes in the Past?
+
+Sentence nr: 2
+By Nate Silver Filed under Airline Safety Get the data on GitHub GitHub data at data/airline-safety FacebookTwitterEmail A memorial with candles that read ‘MH17’ glows silently as unseen churchgoers pray for the victims of Malaysia Airlines flight MH17 from Amsterdam to Kuala Lumpur, at a church in Kuala Lumpur on Friday.
+
+Sentence nr: 3
+Nicolas Asfouri / AFP / Getty Images A memorial with candles that read “MH17” silently glows as unseen churchgoers pray for the victims of Malaysia Airlines flight MH17 from Amsterdam to Kuala Lumpur, at a church in Kuala Lumpur on Friday.
+
+Sentence nr: 4
+Nicolas Asfouri / AFP / Getty Images The downing of Malaysia Airlines Flight 17 in Ukraine on Thursday, following the disappearance of its Flight 370 in March, is the second mysterious incident involving the airline this year.
+
+Sentence nr: 5
+The incidents don’t appear to be related, but that isn’t preventing people from insisting that they’ll never fly Malaysia Airlines again.
+
+Sentence nr: 6
+Some of them will follow through — academic studies have found that high-profile crashes can shift passenger demand away from the airlines involved in the disasters.
+
+Sentence nr: 7
+Is this behavior rational?
+
+Sentence nr: 8
+Should we really be less inclined to fly airlines that have had fatal crashes in the past — even when the crashes don’t appear to be their fault?
+
+Sentence nr: 9
+Or are crashes essentially random events that occur at about the same rate on all airlines over the long run?
+
+Sentence nr: 10
+(The two fatal accidents involving Malaysia Airlines this year were the first for the carrier since 1995.)
+
+Sentence nr: 11
+<line>We can study this by looking at safety records for major commercial airlines over the past 30 years, as based on the Aviation Safety Network’s database.
+
+Sentence nr: 12
+The method is relatively simple.
+
+Sentence nr: 13
+I’ll break the 30-year period down into two halves: first from 1985 to 1999, and then from 2000 to 2014.
+
+Sentence nr: 14
+Then I’ll look to see whether there was a correlation in crash rates from one half of the data set to the other.
+
+Sentence nr: 15
+If we identify a correlation, that will imply that crash risk is persistent — predictable to some extent based on the airline.</line> I’ll be making a couple of simplifying assumptions: First, I’ll include all crashes regardless of their cause.
+
+Sentence nr: 16
+<bar>The airline is clearly more culpable in cases such as the 1977 Tenerife disaster than others like Flight 17.
+
+Sentence nr: 17
+But the causes of many other disasters (such as Malaysia Flight 370) are controversial or poorly understood — I’m not going to try to assign blame.
+
+Sentence nr: 18
+</bar> <line>Next, I’ll take crash rates on the basis of the number of available seat kilometers (ASKs), which is defined as the number of seats multiplied by the number of kilometers the airline flies.1 ASK figures are taken as of December, 2012.
+
+Sentence nr: 19
+This implicitly assumes that the number of ASKs has been constant for each airline since 1985, which is obviously not true — some airlines have grown while others have shrunk — but this is a necessary simplification until we can track down some older data.
+
+Sentence nr: 20
+I do, however, exclude any airlines that were not operational as of Jan. 1, 1985,2 and account for some major mergers (so Northwest’s data is combined into Delta’s, and so forth).</line> I also include data for regional subsidiaries under the flagship carrier — so incidents for American Eagle are grouped with the data for American Airlines, for instance.
+
+Sentence nr: 21
+I’ll define crashes in three ways: First, based on the rate of incidents as listed in the database, whether or not they resulted in a fatality.
+
+Sentence nr: 22
+Next, based on the rate of fatal accidents.3 Finally, by the rate of fatalities among passengers and crew on the airline.
+
+Sentence nr: 23
+Here’s the data for 56 airlines that were in the global top 100 as of December 2012 and which have operated continuously since Jan. 1, 1985.
+
+Sentence nr: 24
+Airlines are sorted based on the rate of fatalities per ASK.
+
+Sentence nr: 25
+<bar>As you should see, the number of fatalities is not very consistent from the first half of the data set to the next.</bar> <line>Avianca, the national airline of Colombia, had a series of major crashes from 1983 through 1990.
+
+Sentence nr: 26
+But it has had almost no problems since then — no fatal accidents since 1990, and no incidents of any kind since 1999.
+
+Sentence nr: 27
+</line> <line>By contrast, Kenya Airways was fatality-free until 2000 but has had two major accidents since then and ranks as the worst airline since 2000 based on the number of fatalities per ASK.</line> <line>One or two other carriers, such as Taiwan’s China Airlines (not be confused with Beijing’s Air China4), have had problems in both halves of the data set.
+
+Sentence nr: 28
+But these cases are more the exception than the rule.
+
+Sentence nr: 29
+Overall, there is no correlation in the rate of fatalities from one period to the next.</line> <bar>Accidents that produce a massive number of fatalities are rare compared to fatal accidents of any kind, however.
+
+Sentence nr: 30
+And fatal accidents represent only about one-quarter of all incidents listed in the database.
+
+Sentence nr: 31
+So it may be better to compare airlines on the basis of their number of incidents, whether or not they resulted in a fatality, which has the effect of increasing the sample size.</bar> These near-misses can still produce non-fatal injuries.
+
+Sentence nr: 32
+They may also provide useful evidence about the overall hazard associated with flying a given airline, in the same way that the number of smaller earthquakes in a region over a period of time can be used to predict the likelihood of a catastrophic one.5 <scatter>Viewed this way, there is a modest correlation from one period to the next.6 There are also a few major outliers in the chart: two are Pakistan International Airlines and Ethiopian Airlines, which have had a persistently high rate of incidents.</scatter> <scatter>A third outlier, Russia’s Aeroflot, had an extraordinarily high number of reported incidents in the 1990s — many of them attempted hijackings around the time of the breakup of the Soviet Union — but only an average number in recent years.
+
+Sentence nr: 33
+There is still a positive correlation even if those three airlines are excluded, however, which rates as modestly statistically significant7 — some airlines are slightly safer to fly than others.</scatter> Our preliminary answer, then, is that an airline’s track record tells you something about its probability of future crashes — although not a lot, and only if looked at in the right way.
+
+Sentence nr: 34
+In particular, you should look toward an airline’s rate of dangerous incidents of any kind rather than its number of fatalities or fatal accidents.
+
+Sentence nr: 35
+These near-misses are more consistent from period to period — and could result in a deadly crash the next time around.
+
+Sentence nr: 36
+But there’s a better rule to follow.
+
+Sentence nr: 37
+If you’re insistent on minimizing your crash risk, you should avoid airlines from developing countries.
+
+Sentence nr: 38
+Let’s combine our three measures of crash rates — incidents, fatal accidents and fatalities — into a single measure which I’ll call the airline’s safety score.
+
+Sentence nr: 39
+I calculate it as follows: For each category, subtract an airline’s crash rate from the average for all airlines since 1985.
+
+Sentence nr: 40
+This gives safer airlines positive scores and less safe airlines negative scores.
+
+Sentence nr: 41
+Multiply the result by the square root of the number of seat kilometers flown.
+
+Sentence nr: 42
+This gives more credit to an airline that has achieved a strong safety record over a larger sample of flights.
+
+Sentence nr: 43
+Standardize the score in each category to calculate how many standard deviations an airline is above or below the mean.
+
+Sentence nr: 44
+Then average the scores from the three categories together.
+
+Sentence nr: 45
+This is the safety score.
+
+Sentence nr: 46
+Positive scores indicate a safe track record — Australia’s Qantas, for instance, which is famous for avoiding crashes — has a safety score of +0.71.
+
+Sentence nr: 47
+By contrast, Pakistan International Airlines has a score of -1.49.
+
+Sentence nr: 48
+The chart also lists the per-capita gross domestic product for the airline’s home country as of 1999 (the middle of the 30-year period).
+
+Sentence nr: 49
+<scatter>The correlation between a country’s wealth and the crash rates of its airlines is quite strong.</scatter> <bar>Over the past 30 years, the top 10 safety scores belong to two airlines from the United States (Southwest Airlines and United Airlines), two from the United Kingdom, and one each from Canada, Australia, Hong Kong, Singapore, Germany and the Netherlands.
+
+Sentence nr: 50
+By contrast, the 10 worst scores are for airlines from Colombia, Egypt, Ethiopia, Indonesia, Kenya, Morocco, Pakistan, the Philippines, Russia and Taiwan.</bar> In fact, if you want to predict an airline’s future rate of crashes, you’re best off looking at its home country’s GDP and largely ignoring its track record.
+
+Sentence nr: 51
+Perhaps this shouldn’t be surprising.
+
+Sentence nr: 52
+Commercial airlines are subject to extremely stringent safety standards, and the same standards are applied to all airlines from the same country or region.
+
+Sentence nr: 53
+Richer countries, in air travel and many other aspects of public planning, can afford to buy more safety in the form of higher prices and more expensive regulations.
+
+Sentence nr: 54
+So should you never fly an airline from a developing country again?
+
+Sentence nr: 55
+No, that would be silly — commercial airline travel is an extraordinarily safe means of transit overall.
+
+Sentence nr: 56
+What you should do is avoid airlines on blacklists, such as that periodically put out by the European Union.
+
+Sentence nr: 57
+(None of the airlines on the list of 56 above is currently on the EU’s blacklist, although one, Pakistan International Airlines, has been in the recent past.)
+
+Sentence nr: 58
+Otherwise — even on Malaysia Airlines — the risk of being involved in a crash is very low, and that risk doesn’t increase much after a recent disaster.
+
+Sentence nr: 59
+CORRECTION (July 23, 9:54 a.m.): The tables in a previous version of this post used an incorrect denominator in calculating incidents, fatal accidents and fatalities.
+
+Sentence nr: 60
+They had been assuming 80 percent rather than 100 percent of seats were filled by passengers, in accordance with standard industry load factors.
+
+Sentence nr: 61
+However, the definition of an available seat kilometer (ASK), the statistic used elsewhere in the article, is based on the number of seats available and not how many of them were filled.
+
+Sentence nr: 62
+The numbers in the tables have been changed to reflect the proper definition of an ASK.
+
+Sentence nr: 63
+In addition, we double-checked the numbers for all 56 airlines and found a small number of accidents that had previously been missed, as well as a couple of typos.
+
+Sentence nr: 64
+These have been corrected.
+
+Sentence nr: 65
+These changes do not significantly affect the relative ordering of the airlines or the overall conclusion of the article.
+
+Sentence nr: 66
+UPDATE (July 23, 9:54 a.m.): A number of readers were confused about the numbers described in the tables.
+
+Sentence nr: 67
+They list the number of incidents, fatal accidents and fatalities per one trillion available seat kilometers (ASKs) flown, and not the raw numbers.
+
+Sentence nr: 68
+This is an important distinction: For instance, United Airlines flies about 24 times more miles than Royal Air Maroc.
+
+Sentence nr: 69
+United has had more accidents overall, but it has had considerably fewer per ASK.
+
+Sentence nr: 70
+However, we’ve inserted the following table for people who would prefer to see the unadjusted numbers.
+
+Sentence nr: 71
+We’ve also posted the data used in this article on GitHub.
+

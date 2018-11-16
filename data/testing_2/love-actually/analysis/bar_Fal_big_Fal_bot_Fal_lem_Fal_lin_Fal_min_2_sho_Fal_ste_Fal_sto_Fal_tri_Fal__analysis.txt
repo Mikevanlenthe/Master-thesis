@@ -1,0 +1,62 @@
+Article: love-actually
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1824
+Raw number of types: 675
+Raw Type token ratio (higher = more diversity in language use): 0.37006578947368424
+
+100 most freq tokens before (pre)processing: 
+[('the', 5417), (',', 5271), ('.', 3513), ('of', 2676), ('a', 2279), ('to', 2207), ('in', 2106), ('and', 1950), ('’', 1751), ('that', 1232), ('s', 960), ('for', 937), ('is', 879), (':', 839), ('on', 782), ('it', 740), ('are', 651), ('“', 631), ('”', 630), ('with', 594), ('at', 563), ('our', 561), ('by', 547), ('as', 545), ('team-logo', 535), ('—', 524), ('more', 519), ('(', 515), (')', 515), ('we', 514), ('but', 481), ('this', 452), ('they', 425), ('i', 410), ('you', 409), ('or', 408), ('have', 399), ('t', 398), ('from', 393), ('percent', 381), ('than', 378), ('verdict', 377), ('was', 374), ('about', 373), ('who', 366), ('1', 363), ('one', 362), ('trump', 358), ('be', 347), ('polls', 342), ('an', 313), ('has', 313), ('were', 297), ('data', 294), ('all', 283), ('not', 273), ('like', 273), ('their', 271), ('he', 254), ('there', 252), ('if', 251), ('how', 242), ('said', 242), ('other', 239), ('most', 235), ('?', 228), ('can', 227), ('so', 222), ('which', 208), ('some', 208), ('when', 208), ('what', 206), ('those', 205), ('<', 203), ('people', 203), ('>', 202), ('his', 200), ('positive', 197), ('out', 193), ('up', 190), ('get', 188), ('also', 185), ('pollsters', 184), ('polling', 183), ('each', 178), ('had', 172), ('2', 171), ('just', 170), ('only', 167), ('points', 164), ('two', 163), ('%', 158), ('donald', 157), (';', 156), ('poll', 154), ('do', 148), ('time', 148), ('new', 145), ('average', 145), ('will', 145)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1474
+Number of types: 636
+Type token ratio: 0.4314789687924016
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'definitive, christmas, linney, universal, linney, universal, cinematic, hot, interconnected, united, united, heathrow, third, lowly, prime, first, great, solid, titular, structured, classic, big, nice, attractive, literary, important, manic, bean, precocious, same, regular, ongoing, questionable, encouraging, good, awful, outstanding, lucrative, neeson, bob, late, good, british, average, imdb, average, imdb, rickman, january, sharian, dead, different, neeson, other, blist, social, many, pivotal, upstairs, young, little, young, rich, little, rich, white, other, pretty, white, mirrored, romantic, other, knightley, london, bourgeois, thompson, rickman, new, classic, london, prime, thompson, fat, french, slowmotion, firth, portuguese, underwear, zany, catering, randy, lovely, other, london, atkinson, rickman, shiny, ultimate, latter, major, many, lincoln, other, social, many, different, emotional, top, screen, lincoln, emma, marshall, juliet, keira, liam, sam, judy, joanna, karl, santoro, mack, olson, other, own, rogue, good, ill, incessant, rodrigo, redundant, same, christmas')
+
+('NN', 'analysis, love, movie, time, walt, hickey, gus, wezerek, colin, firth, bill, martine, mccutcheon, hugh, grant, alan, rickman, liam, neeson, emma, thompson, colin, firth, bill, martine, mccutcheon, hugh, grant, alan, rickman, liam, neeson, emma, thompson, film, generation, story, christmas, kingdom, airport, space, film, plotline, moment, relationship, crush, grave, story, holiday, season, christmas, party, school, holiday, cast, time, emotion, bottom, christmas, film, pile, box, office, movie, network, analysis, character, core, film, pixie, dream, mr, rowan, film, brodiesangster, kid, girl, name, mother, character, game, lead, maze, runner, franchise, actor, sammo, stepfather, post, money, liam, neeson, movie, child, security, airplane, post911, fatherhood, neeson, child, franchise, box, office, number, alan, bill, emma, thompson, martin, freeman, thomas, brodiesangster, chiwetel, keira, rodrigo, colin, firth, thornton, adam, godley, laura, ivana, margery, mason, love, money, source, imdb, quality, pair, crappiest, relationship, thompson, alan, doubt, half, harry, potter, franchise, cinema, nonetheless, top, heap, rating, love, score, number, emma, thompson, meg, wynn, martin, freeman, chiwetel, thomas, brodiesangster, liam, neeson, kris, marshall, laura, bill, john, rodrigo, love, power, movie, monster, thompson, hugh, grant, colin, firth, knightley, martin, freeman, movie, plot, movie, network, linchpin, axis, world, love, schmuck, cue, andrew, lincoln, dumbwaiter, downstairs, key, party, network, analysis, love, tale, side, plot, character, learn, husband, man, afar, spouse, file, order, let, milieu, london, life, character, husband, secretary, tale, boymeetsandoglesgirlwhoworksforhim, grant, minister, brother, character, chubby, maid, staff, plot, relentless, none, london, version, knightleyweddingattendee, firth, meet, cute, countryside, movie, scene, camera, housekeeper, lake, staff, knightley, kris, marshall, derp, sample, dialogue, side, rowan, atkinson, character, department, store, movie, heathrow, bow, christmas, comedy, testimony, movie, nothing, aside, ginnedup, serendipity, attention, character, airport, epilogue, silentbuttreacly, cue, card, guy, linchpin, way, activity, actor, conversation, absentee, glue, character, actor, time, cast, plot, sarah, office, tryst, mark, cue, thompson, necklace, harry, necklace, colin, pm, hugh, grant, jamie, colin, france, aurelia, france, knightley, cue, heike, makatsch, neckalce, peter, chiwetel, cue, neeson, drummer, boy, martine, mccutcheon, downing, tony, abdul, drummer, boy, john, page, office, tryst, rowan, atkinson, president, thornton, bill, song, joanna, drummer, boy, joe, gregor, song, jeannie, january, brother, michael, office, tryst, everyone, beacon, knightley, mopey, man, shoulder, christmas, party, thompson, husband, fall, woman, brother, phone, night, mistletoe, santoro, abs, linney, character, one, movie, stuffed, character, viewing, love, holiday, season, treasure, laura, linney, miracle, network, analysis, github, page, ella, koeze, reporting')
+
+('JJS', 'greatest, best, best, best, best')
+
+('VBN', 'filed, published, left, left, used, learned, played, launched, deceased, gone, made, taken, led, buoyed, shared, played, echoed, been, played, elected, described, inclined, spoken, obsessed, longawaited, forced')
+
+('NNS', 'movies, pictures, pictures, relationships, weeks, relationships, tourists, ministers, performances, credits, scenes, data, actors, strategies, misérables, equals, careers, thrones, movies, attempts, oftentimes, films, movies, actors, films, roles, icons, films, films, films, jones, keira, julia, movies, performances, screenwriters, plots, brits, characters, cards, londons, cities, narratives, cracks, finds, likes, things, things, rails, jokes, nuts, thames, amounts, characters, arrivals, scenes, characters, characters, cards, cards, cards, thomas, standins, standins, jones, characters, characters, problems, stands, others, calls, londons, plots, permutations, stereotypes, data')
+
+('VBD', 'keira, keira, launched, watched, coded, were, was, spoke, pulled, happened, wrapped, diagramed, applied, played, played, was, were, rickman, nighy, ejiofor, knightley, santoro, linney, milicevic, made, ended, came, owen, ejiofor, knightley, davis, linney, nighy, santoro, made, juggled, counted, shared, was, laura, andrew, firth, lúcia, ejiofor, salis, freeman, spoke, bona, contributed')
+
+('NNP', 'knightley, knightley, martin, fitzgerald')
+
+('VBZ', 'laura, laura, takes, is, bookends, is, has, covers, staples, songs, is, lot, makes, has, falls, has, is, rickman, turns, is, reveals, is, has, leads, plays, happens, falls, takes, pan, strips, includes, plays, ends, has, is, has, laura, rises, rickman, bob, nighy, olivia, is, london, needs, is, is, truly, straddles')
+
+('VBP', 'love, re, pageant, are, roll, cry, know, thomas, sam, love, have, liam, emma, are, alan, sell, are, have, pop, scenes, find, remember, watch, appear, sir, start, are, watch, rowan, gate, re, absent, love, karen, alan, frissell, mia, daniel, rodrigo, rufus, sarah, linney, derail, find')
+
+('VB', 'like, have, get, figure, hamlet, les, love, find, appear, sprint, admire, keira, cheat, call, vamp, be, go, stomach, be, try, curtain, call, leave, believe, let, call, measure, count, linney, star, primary, kris, cry, grinch, see')
+
+('VBG', 'using, parenting, parenting, resulting, being, parenting, making, according, enduring, staying, stalking, pining, restraining, whispering, jumping, wedding, screwballing, summoning, damning, downing, downing, running, wedding, asking, reassuring, watching')
+
+('JJR', 'worse, less, less, fewer')
+
+100 most freq tokens after processing: 
+[('the', 5417), ('of', 2676), ('to', 2207), ('in', 2107), ('and', 1950), ('that', 1236), ('for', 938), ('is', 879), ('on', 782), ('it', 742), ('are', 652), ('with', 594), ('at', 564), ('our', 561), ('by', 547), ('as', 545), ('teamlogo', 535), ('more', 519), ('we', 514), ('but', 481), ('this', 452), ('they', 425), ('you', 409), ('or', 408), ('have', 399), ('from', 393), ('percent', 385), ('than', 378), ('verdict', 377), ('was', 374), ('about', 373), ('who', 366), ('one', 365), ('trump', 359), ('be', 348), ('polls', 342), ('an', 313), ('has', 313), ('were', 297), ('data', 294), ('all', 283), ('not', 273), ('like', 273), ('their', 271), ('he', 254), ('there', 252), ('if', 251), ('how', 242), ('said', 242), ('other', 240), ('most', 235), ('can', 227), ('so', 223), ('10', 213), ('which', 208), ('some', 208), ('when', 208), ('what', 206), ('those', 205), ('people', 203), ('his', 200), ('positive', 198), ('11', 196), ('out', 195), ('up', 190), ('get', 188), ('also', 185), ('polling', 184), ('pollsters', 184), ('each', 178), ('had', 172), ('just', 170), ('only', 167), ('13', 167), ('points', 164), ('two', 163), ('donald', 158), ('14', 157), ('12', 156), ('poll', 154), ('time', 150), ('do', 148), ('average', 146), ('new', 145), ('will', 145), ('number', 144), ('league', 142), ('election', 141), ('its', 139), ('them', 138), ('15', 136), ('github', 135), ('neutral', 134), ('many', 132), ('these', 131), ('been', 131), ('would', 130), ('much', 128), ('no', 126), ('my', 126)]

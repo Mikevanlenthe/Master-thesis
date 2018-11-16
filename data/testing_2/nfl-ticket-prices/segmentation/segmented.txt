@@ -1,0 +1,123 @@
+Sentence nr: 0
+Dec. 30, 2014 at 2:11 PM Who Goes To Meaningless NFL Games And Why?
+
+Sentence nr: 1
+By Walt Hickey Filed under Bar Fights With Walt Get the data on GitHub GitHub data at data/nfl-ticket-prices FacebookTwitterEmail New York Jets fans cheer during the second half of a game against the New England Patriots on Dec. 21 in East Rutherford, New Jersey.
+
+Sentence nr: 2
+Bill Kostroun / AP Argument — much like karaoke and online shopping — is at its best when done with friends and a drink.
+
+Sentence nr: 3
+And so, here’s “Bar Fights With Walt,” a column devoted to solving the only questions that truly matter: the dumb arguments about life and pop culture developed and hashed out in barroom rants.
+
+Sentence nr: 4
+We’ll use data and research to take these arguments to their logical statistical conclusion.
+
+Sentence nr: 5
+If you’d like to submit a question or conundrum, corner the author at one of his typical haunts and pick a fight.
+
+Sentence nr: 6
+I’m a New York Giants fan.
+
+Sentence nr: 7
+So besides erecting a makeshift shrine to Odell Beckham Jr. and soaking in schadenfreude at the expense of Philadelphia Eagles fans, I haven’t found the last couple of weeks of the NFL regular season super interesting.
+
+Sentence nr: 8
+And yet, many teams that were eliminated from the playoffs appeared to pack stadiums — despite frigid temperatures and the promise of mediocre football.
+
+Sentence nr: 9
+That prompted an argument over this question: Who goes to the meaningless NFL games at the end of the season and why?
+
+Sentence nr: 10
+There’s one obvious reason people attend these games: The tickets are cheaper.
+
+Sentence nr: 11
+StubHub, the online secondary ticket market, sent me data on the average ticket price for each divisional game this year as of Dec. 16, as well as the average home game ticket price for each team this year.
+
+Sentence nr: 12
+Of 96 total divisional games, there were 14 games where the home team was eliminated from playoff contention.
+
+Sentence nr: 13
+Of those divisional matches with eliminated hosts, four had higher than average prices.
+
+Sentence nr: 14
+The other 10 games saw lower than average prices, with an average $29 discount for a ticket compared to the rest of the season.
+
+Sentence nr: 15
+But there are motivations other than price.
+
+Sentence nr: 16
+To uncover them, I went to see the Jets host the Patriots in Week 16 — a game that was nominally more expensive than New York’s season average — with recurring Bar Fights muse and lifelong Jets fan Kevin Havas.
+
+Sentence nr: 17
+With @KevinHavas pic.twitter.com/RK4DHi2sUE — Walter Hickey (@WaltHickey) December 21, 2014 We met Mark Fugger, a season ticket holder of six years who has been a fan since the Joe Namath days.
+
+Sentence nr: 18
+Fugger explained what the end of the season looks like at MetLife Stadium.
+
+Sentence nr: 19
+He said that while a lot of the Jets faithful were there, many casual fans take Sundays off for things like Christmas shopping.
+
+Sentence nr: 20
+As a result?
+
+Sentence nr: 21
+“More towards the end of the year it’s the partiers,” he said.
+
+Sentence nr: 22
+“It’s not a football game, it’s an event.
+
+Sentence nr: 23
+An all-day party.” He wasn’t wrong.
+
+Sentence nr: 24
+I spoke to people around the parking lot and asked them what brought them to the day’s game.
+
+Sentence nr: 25
+The place was full of Jets fans who said they had come strictly to party.
+
+Sentence nr: 26
+I spoke to a group of French-Canadians — two Patriots fans, a Jets fan and a Steelers fan — who had come down for the spectacle and because they don’t have the NFL in Canada.
+
+Sentence nr: 27
+Patriots fans — many of them local professionals who moved to New York for work — said seeing their team play at MetLife was much cheaper than seeing it play at Gillette Stadium.
+
+Sentence nr: 28
+One Patriots fan said she rarely came to the games but got a good deal on the tickets, which were Christmas presents for her kids.
+
+Sentence nr: 29
+“I never come to the games,” she said.
+
+Sentence nr: 30
+“I’m a diehard Patriots fan, and the last time I came to the game I got spit at.” Tom McGarr, another season ticket holder, said many nearby teams in the AFC have fan bases that travel, and that some Jets home games are played in front of fans mostly of the visiting team, particularly when the Pittsburgh Steelers and Denver Broncos are in town.
+
+Sentence nr: 31
+You can see this in the data.
+
+Sentence nr: 32
+I asked StubHub for location data for who bought tickets for each of the Jets’ home games this season.
+
+Sentence nr: 33
+Here we see the percentage of tickets sold to buyers in New York and New Jersey, the home turf of Gang Green.
+
+Sentence nr: 34
+It’s not a perfect stand-in — there are most definitely many Broncos and Steelers fans who live in the region — but we see dips for the games hosting Denver, Pittsburgh and New England, just as McGarr said.
+
+Sentence nr: 35
+You can also see an increase in the New York/New Jersey share during the fifth home game, when the Jets hosted western New York’s Buffalo Bills.
+
+Sentence nr: 36
+But still, the vast majority of the tickets get sold locally.
+
+Sentence nr: 37
+So who comes to the games that don’t matter?
+
+Sentence nr: 38
+Clearly the diehards, like Fugger.
+
+Sentence nr: 39
+But also a large contingent of hometown fans on more of a budget, or younger fans who want to go to MetLife for the festivities.
+
+Sentence nr: 40
+Or in the case of the Dec. 21 Patriots game, a massive contingent of fans with Massachusetts plates and a full tank of gas.
+

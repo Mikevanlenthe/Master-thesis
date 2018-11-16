@@ -1,0 +1,60 @@
+Article: librarians
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 553
+Raw number of types: 263
+Raw Type token ratio (higher = more diversity in language use): 0.4755877034358047
+
+100 most freq tokens before (pre)processing: 
+[('the', 7630), (',', 7388), ('.', 5183), ('of', 3869), ('a', 3262), ('to', 3092), ('in', 2862), ('and', 2829), ('’', 2598), ('that', 1730), ('s', 1443), ('for', 1312), ('is', 1253), ('on', 1106), (':', 1083), ('it', 1079), ('are', 937), ('“', 889), ('”', 888), ('at', 815), ('with', 815), ('—', 809), ('as', 788), ('we', 773), ('by', 759), ('(', 748), (')', 748), ('but', 723), ('percent', 716), ('more', 702), ('i', 674), ('our', 659), ('this', 647), ('or', 624), ('they', 604), ('you', 588), ('have', 586), ('from', 583), ('t', 547), ('trump', 546), ('was', 538), ('team-logo', 535), ('about', 530), ('than', 516), ('be', 505), ('who', 504), ('data', 495), ('one', 484), ('were', 462), ('an', 449), ('?', 428), ('has', 426), ('1', 393), ('not', 390), ('all', 388), ('their', 387), ('<', 382), ('verdict', 377), ('>', 376), ('there', 367), ('how', 358), ('like', 350), ('polls', 349), ('he', 341), ('so', 337), ('if', 333), ('said', 333), ('can', 332), ('other', 322), ('what', 321), ('people', 315), ('which', 308), ('some', 308), ('his', 299), ('most', 296), ('out', 294), ('when', 286), ('those', 284), ('had', 279), ('also', 273), ('up', 256), ('get', 254), ('each', 249), ('just', 232), ('only', 228), ('two', 228), ('do', 218), ('github', 212), ('new', 210), ('these', 205), ('positive', 203), (';', 202), ('its', 201), ('them', 201), ('time', 195), ('will', 195), ('been', 192), ('number', 192), ('2', 191), ('my', 188)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 449
+Number of types: 236
+Type token ratio: 0.5256124721603563
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, are, get, are, are, are, are, are, are, have, have, duh, re, are')
+
+('JJ', 'america, andrew, last, constant, average, library, weep, foreseeing, occupational, mixed, new, percent, idaho, many, first, worth, metropolitan, relative, owensboro, silicon, real, low, helpful, metropolitan, owensboro, average, annual, library, average, librarian, interested, american, median, credentialed')
+
+('NNS', 'librarians, flowers, jobs, data, datalibrarians, libraries, salaries, directors, librarians, libraries, people, libraries, libraries, species, librarians, data, statistics, librarians, librarians, states, librarians, librarians, places, librarians, librarians, librarians, people, librarians, librarians, data, librarians, concentrations, librarians, areas, colleges, librarians, workers, libraries, librarians, men, women, men, women')
+
+('NN', 'mona, chalabi, data, github, github, barbara, bush, branch, library, spring, texas, david, phillip, ap, bar, year, state, funding, state, rookie, public, bar, death, read, country, bureau, labor, picture, line, number, percent, mexico, percent, michigan, drop, number, top, list, percent, line, increase, didn, place, idaho, change, time, level, detail, area, bls, job, quotient, number, basis, ky, valley, owensboro, accuracy, estimate, number, total, job, quotient, list, bar, concentration, pay, fresno, calif, wage, year, master, degree, bar, information, thing, past, bar, library, association, age, librarian, bar')
+
+('VBN', 'filed, endangered, risen, seen, found, risen')
+
+('VBD', 'was, cut, held, fell, were, fell, were, was, had, were, tested, noticed, were, was, had')
+
+('JJR', 'fewer, fewer, more, older')
+
+('VB', 'blame, look, find, 2013, finer, population, be, be, be, use, judge, become, be, know')
+
+('VBG', 'proclaiming, looking, zooming, looking, trying, getting, according')
+
+('VBZ', 'has, is, calculates, measures, is, is, is, is, earns, has')
+
+('JJS', 'most, biggest, highest, best')
+
+100 most freq tokens after processing: 
+[('the', 7630), ('of', 3869), ('to', 3092), ('in', 2864), ('and', 2829), ('that', 1734), ('for', 1313), ('is', 1255), ('on', 1106), ('it', 1082), ('are', 939), ('at', 816), ('with', 815), ('as', 788), ('we', 773), ('by', 759), ('percent', 725), ('but', 723), ('more', 702), ('our', 659), ('this', 647), ('or', 624), ('they', 604), ('you', 589), ('have', 586), ('from', 583), ('trump', 547), ('was', 538), ('teamlogo', 535), ('about', 530), ('than', 516), ('be', 507), ('who', 504), ('data', 495), ('one', 487), ('were', 462), ('an', 449), ('has', 426), ('not', 390), ('all', 389), ('their', 387), ('verdict', 377), ('there', 367), ('how', 358), ('like', 350), ('polls', 349), ('he', 341), ('so', 338), ('if', 333), ('said', 333), ('can', 332), ('other', 323), ('what', 321), ('people', 315), ('which', 308), ('some', 308), ('his', 299), ('most', 297), ('out', 296), ('when', 286), ('those', 284), ('had', 279), ('also', 273), ('up', 257), ('10', 255), ('get', 254), ('each', 250), ('just', 232), ('only', 228), ('two', 228), ('11', 220), ('do', 219), ('github', 212), ('new', 210), ('bar', 209), ('these', 205), ('positive', 204), ('13', 202), ('its', 201), ('them', 201), ('time', 199), ('will', 195), ('been', 193), ('number', 192), ('year', 189), ('my', 188), ('points', 188), ('would', 186), ('14', 186), ('us', 185), ('polling', 184), ('pollsters', 184), ('no', 181), ('many', 179), ('12', 179), ('over', 177), ('15', 175), ('much', 173), ('average', 172), ('because', 172)]

@@ -1,0 +1,438 @@
+Sentence nr: 0
+You Can’t Trust What You Read About Nutrition We found a link between cabbage and innie bellybuttons, but that doesn’t mean it’s real.
+
+Sentence nr: 1
+By Christie Aschwanden Filed under Nutrition Get the data on GitHub GitHub data at data/nutrition-studies Published Jan. 6, 2016 FacebookTwitterEmail Photographs by Anna Maria Barry-Jester As the new year begins, millions of people are vowing to shape up their eating habits.
+
+Sentence nr: 2
+This usually involves dividing foods into moralistic categories: good/bad, healthy/unhealthy, nutritious/indulgent, slimming/fattening — but which foods belong where depends on whom you ask.
+
+Sentence nr: 3
+The U.S. Dietary Guidelines Advisory Committee recently released its latest guidelines, which define a healthy diet as one that emphasizes vegetables, fruits, whole grains, low- or nonfat dairy products, seafood, legumes and nuts while reducing red and processed meat, refined grains, and sugary foods and beverages.1 Some cardiologists recommend a Mediterranean diet rich in olive oil, the American Diabetes Association gives the nod to both low-carbohydrate and low-fat diets, and the Physicians Committee for Responsible Medicine promotes a vegetarian diet.
+
+Sentence nr: 4
+Ask a hard-bodied CrossFit aficionado, and she may champion a “Paleo” diet based on foods our Paleolithic ancestors (supposedly) ate.
+
+Sentence nr: 5
+My colleague Walt Hickey swears by the keto diet.
+
+Sentence nr: 6
+Who’s right?
+
+Sentence nr: 7
+It’s hard to say.
+
+Sentence nr: 8
+When it comes to nutrition, everyone has an opinion.
+
+Sentence nr: 9
+What no one has is an airtight case.
+
+Sentence nr: 10
+The problem begins with a lack of consensus on what makes a diet healthy.
+
+Sentence nr: 11
+Is the aim to make you slender?
+
+Sentence nr: 12
+To build muscles?
+
+Sentence nr: 13
+To keep your bones strong?
+
+Sentence nr: 14
+Or to prevent heart attacks or cancer or keep dementia at bay?
+
+Sentence nr: 15
+Whatever you’re worried about, there’s no shortage of diets or foods purported to help you.
+
+Sentence nr: 16
+Linking dietary habits and individual foods to health factors is easy — ridiculously so — as you’ll soon see from the little experiment we conducted.
+
+Sentence nr: 17
+Our foray into nutrition science demonstrated that studies examining how foods influence health are inherently fraught.
+
+Sentence nr: 18
+To show you why, we’re going to take you behind the scenes to see how these studies are done.
+
+Sentence nr: 19
+The first thing you need to know is that nutrition researchers are studying an incredibly difficult problem, because, short of locking people in a room and carefully measuring out all their meals, it’s hard to know exactly what people eat.
+
+Sentence nr: 20
+So nearly all nutrition studies rely on measures of food consumption that require people to remember and report what they ate.
+
+Sentence nr: 21
+The most common of these are food diaries, recall surveys and the food frequency questionnaire, or FFQ.
+
+Sentence nr: 22
+Several versions of the FFQ exist, but they all use a similar technique: Ask people how often they eat particular foods and what serving size they usually consume.
+
+Sentence nr: 23
+But it’s not always easy to remember everything you ate, even what you ate yesterday.
+
+Sentence nr: 24
+People are prone to underreport what they consume, and they may not fess up to eating certain foods or may miscalculate their serving sizes.
+
+Sentence nr: 25
+“The bottom line here is that doing dietary assessment is difficult,” said Torin Block, CEO of NutritionQuest, a company that conducts FFQs and was founded by his mother, Gladys Block, a pioneer in the field who began developing food frequency questionnaires at the National Cancer Institute.
+
+Sentence nr: 26
+“You can’t get away from it — there’s error involved.” Still, there’s a pecking order in terms of completeness, he said.
+
+Sentence nr: 27
+Food diaries rank high and so do 24-hour food recalls, in which an administrator sits the subject down for a guided interview to catalog everything eaten in the past 24 hours.
+
+Sentence nr: 28
+But, Block said, “you really need to do multiple administrations to get an assessment of someone’s usual long-term dietary intake.” For study purposes, researchers are not usually interested just in what people ate yesterday or the day before, but in what they eat regularly.
+
+Sentence nr: 29
+Studies that use 24-hour recalls tend to under- or overestimate nutrients people don’t eat every day, since they record only a small and perhaps unrepresentative snapshot.
+
+Sentence nr: 30
+When I tried keeping a seven-day food diary, I discovered how right Block was — it’s surprisingly difficult to capture a record that reflects normal eating patterns when you collect only a few days’ worth of data.
+
+Sentence nr: 31
+It so happened that I was traveling to a conference during my diary week, so I ate packaged snacks and restaurant meals far different from the foods I usually eat from my garden at home.
+
+Sentence nr: 32
+My diary showed that before dinner one day, I’d eaten only a doughnut and two snack packs of potato chips.
+
+Sentence nr: 33
+And what did I have for dinner?
+
+Sentence nr: 34
+I can tell you that it was a delicious Indonesian seafood curry, but I couldn’t possibly begin to list all its ingredients.
+
+Sentence nr: 35
+Pages from the author’s and a colleague’s food diaries.
+
+Sentence nr: 36
+Another lesson from my short stint keeping a food diary is that the sheer act of keeping track can change what you eat.
+
+Sentence nr: 37
+When I knew I had to write it down, I paid far greater attention to how much I ate, and that sometimes meant that I opted not to eat something because I felt too lazy to write it down or else realized, nah, I didn’t really want a second doughnut (or else didn’t want to admit to eating it).
+
+Sentence nr: 38
+It’s not easy to circumvent the human instinct to fib about what we eat, but the FFQ aims to overcome the unrepresentativeness of short-term food records by assessing what people consume over a longer period.
+
+Sentence nr: 39
+When you read a headline saying something like “blueberries prevent memory loss,” the evidence usually comes from some version of the FFQ.
+
+Sentence nr: 40
+The questionnaire typically asks about what the survey-taker ate during the last three, six or 12 months.
+
+Sentence nr: 41
+In order to get a sense of how these surveys work and how reliable they might be, we hired Block to administer his company’s six-month FFQ to me, my colleagues Anna Barry-Jester and Walt Hickey, and a group of reader volunteers.2 Some questions — how often do you drink coffee?
+
+Sentence nr: 42
+— were straightforward.
+
+Sentence nr: 43
+Others confounded us.
+
+Sentence nr: 44
+Take tomatoes.
+
+Sentence nr: 45
+How often do I eat those in a six-month period?
+
+Sentence nr: 46
+In September, when my garden is overflowing with them, I eat cherry tomatoes like a child devours candy.
+
+Sentence nr: 47
+I might also eat two or three big purple Cherokees drizzled with balsamic and olive oil per day.
+
+Sentence nr: 48
+But I can go November until July without eating a single fresh tomato.
+
+Sentence nr: 49
+So how do I answer the question?
+
+Sentence nr: 50
+Questions about serving sizes perplexed us all.
+
+Sentence nr: 51
+In some cases, the survey provided weird but helpful guides — for example, it depicted what a half-cup, one cup or two cups of yogurt looked like with photographs of bowls filled with various amounts of wood chips.
+
+Sentence nr: 52
+Other questions seemed absurd.
+
+Sentence nr: 53
+“Who on this planet knows what a cup of salmon or two cups of ribs looks like?” Walt asked.
+
+Sentence nr: 54
+Although the questionnaire was meant simply to measure our food intake, at times it felt judgmental — did we take our milk full fat, low fat or fat free?
+
+Sentence nr: 55
+I noticed that when I was offered three choices of serving sizes, my inclination was to pick the middle one, regardless of what my actual portion might be.
+
+Sentence nr: 56
+Despite these challenges, Anna, Walt and I did our best to answer completely and honestly.
+
+Sentence nr: 57
+Afterward, we compared our results.
+
+Sentence nr: 58
+The questionnaire deemed “cheese, full fat” and some version of alcohol as our top sources of calories.3 From there, our diets diverged.
+
+Sentence nr: 59
+Walt has lost 50 pounds on a ketogenic diet, Anna eats relatively little protein and, according to the FFQ, I devour almost twice the calories as either of them.
+
+Sentence nr: 60
+Could these results be correct?
+
+Sentence nr: 61
+Anna and I are virtually the same height and weight; we could probably share clothes.
+
+Sentence nr: 62
+How could I eat more than twice the calories she does?4 Block acknowledged that it’s difficult to get an accurate count of calories, especially without a long-term food record, and when you start looking at individual nutrients it gets even trickier.
+
+Sentence nr: 63
+He pointed me to a 1987 study concluding that to estimate a true average calorie count, it takes an average of 27 days of daily intake data for men and 35 days for women.
+
+Sentence nr: 64
+Some nutrients required even longer — 474 days on average to measure vitamin A intake for women, for example.
+
+Sentence nr: 65
+This suggests our reports might be correct, but they might also contain lots of errors.
+
+Sentence nr: 66
+Sure, memory-based measures have limitations, said Brenda Davy, a professor of human nutrition at Virginia Tech, “but most of us in the nutrition world still believe they have value.” Calories are probably the trickiest thing to measure, she said, noting that there’s good evidence that people underreport foods deemed unhealthy, like high-fat foods or sugary snacks.
+
+Sentence nr: 67
+“But that doesn’t mean that everything is underreported.
+
+Sentence nr: 68
+It doesn’t mean that fiber intake or calcium intake is problematic.” Developers of the surveys recognize that answers are imperfect, and they correct for this with validation studies that check FFQ results against those obtained via other methods, usually a 24-hour food recall or longer food diary.
+
+Sentence nr: 69
+The results of such validation studies, Block said, allow researchers to account for variability in daily intake.
+
+Sentence nr: 70
+Critics of FFQs, such as Edward Archer, a computational physiologist at the University of Alabama’s Nutrition Obesity Research Center in Birmingham, say that these validations are nothing more than circular reasoning.
+
+Sentence nr: 71
+“You’re taking one type of subjective report and validating it with another form of subjective report,” he said.
+
+Sentence nr: 72
+Recording what you eat is harder than it might seem, said Tamara Melton, a registered dietitian and spokesperson for the Academy of Nutrition and Dietetics in Atlanta.
+
+Sentence nr: 73
+Among other things, it’s almost impossible to measure ingredients and portion sizes when you dine out.
+
+Sentence nr: 74
+“It’s cumbersome.
+
+Sentence nr: 75
+If you’re out at a business lunch, you can’t whip out your measuring cup.” When Anna, Walt and I compared the caloric intakes that our FFQs had spit out with the ones that we calculated from our seven-day food diaries,5 they didn’t match up.
+
+Sentence nr: 76
+We ran into trouble estimating portions in the FFQ, too, and who’s to say which was more accurate?
+
+Sentence nr: 77
+Although concerns about self-reported dietary intakes have been around for decades, the debate has come to a head in recent years, said David Allison, director of the University of Alabama’s Nutrition Obesity Research Center in Birmingham.
+
+Sentence nr: 78
+Allison was an author of a 2014 expert report from the Energy Balance Measurement Working Group that called it “unacceptable” to use “decidedly inaccurate” methods of measurement to set health care policies, research and clinical practice.
+
+Sentence nr: 79
+“In this case,” the researchers wrote, “the adage ‘something is better than nothing’ must be changed to ‘something is worse than nothing.’” The problems with food questionnaires go even deeper.
+
+Sentence nr: 80
+They aren’t just unreliable, they also produce huge data sets with many, many variables.
+
+Sentence nr: 81
+The resulting cornucopia of possible variable combinations makes it easy to p-hack your way to sexy (and false) results, as we learned when we invited readers to take an FFQ and answer a few other questions about themselves.
+
+Sentence nr: 82
+We ended up with 54 complete responses and then looked for associations — much as researchers look for links between foods and dreaded diseases.
+
+Sentence nr: 83
+It was silly easy to find them.
+
+Sentence nr: 84
+Our shocking new study finds that … EATING OR DRINKING IS LINKED TO P-VALUE Raw tomatoes Judaism <0.0001 Egg rolls Dog ownership <0.0001 Energy drinks Smoking <0.0001 Potato chips Higher score on SAT math vs. verbal 0.0001 Soda Weird rash in the past year 0.0002 Shellfish Right-handedness 0.0002 Lemonade Belief that “Crash” deserved to win best picture 0.0004 Fried/breaded fish Democratic Party affiliation 0.0007 Beer Frequent smoking 0.0013 Coffee Cat ownership 0.0016 Table salt Positive relationship with Internet service provider 0.0014 Steak with fat trimmed Lack of belief in a god 0.0030 Iced tea Belief that “Crash” didn’t deserve to win best picture 0.0043 Bananas Higher score on SAT verbal vs. math 0.0073 Cabbage Innie bellybutton 0.0097 Source: FFQ & FiveThirtyEight Supplement The FFQ we used produced 1,066 variables, and the additional questions we asked sorted survey-takers according to 26 possible characteristics (left- or right-handed, for example).
+
+Sentence nr: 85
+This vast data set allowed us to do 27,716 regressions in just a few hours.
+
+Sentence nr: 86
+(You can see the full results on GitHub.)
+
+Sentence nr: 87
+With that many possibilities to examine, we were guaranteed to find some “statistically significant” correlations that aren’t real, said Veronica Vieland, a statistician who directs the Battelle Center for Mathematical Medicine at Nationwide Children’s Hospital in Columbus, Ohio.
+
+Sentence nr: 88
+Using a p-value of 0.05 or less as the metric for statistical significance (as is common) equates to an error rate of 5 percent, Vieland said.
+
+Sentence nr: 89
+And with 27,716 regressions, that means we should expect about 1,386 false positives.6 But false positives aren’t the only issue.
+
+Sentence nr: 90
+It was also very likely that we’d discover real correlations that are scientifically useless, Vieland said.
+
+Sentence nr: 91
+For instance, our experiment found that people who trim the fat from their steaks were more likely to be atheists than those who ate the fat that god had provided for them.
+
+Sentence nr: 92
+It’s possible that there’s a real correlation between cutting the fat from meat and being an atheist, Vieland said, but that doesn’t mean that it’s a causal one.
+
+Sentence nr: 93
+A preacher who advised parishioners to avoid trimming the fat from their meat, lest they lose their religion, might be ridiculed, yet nutrition epidemiologists often make recommendations based on similarly flimsy evidence.
+
+Sentence nr: 94
+A few years back, Jorge Chavarro, a nutritional epidemiologist at the Harvard School of Public Health, advised that women trying to conceive consider swapping low-fat dairy foods for high-fat dairy products such as ice cream, based on FFQ data from an ongoing study of nurses.
+
+Sentence nr: 95
+He and his colleague Walter Willett also wrote a book promoting a “fertility diet” based on the results.
+
+Sentence nr: 96
+When I reached Chavarro this week to ask how confident he was in the link between dairy intake and fertility, he said that “of all the associations we found, this is the one we had the least confidence in.” It’s also, of course, the one that made headlines.
+
+Sentence nr: 97
+Nearly every nutrient you can think of has been linked to some health outcome in the peer-reviewed scientific literature using tools like the FFQ, said John Ioannidis, an expert on the reliability of research findings at the Meta-Research Innovation Center at Stanford.
+
+Sentence nr: 98
+In a 2013 analysis published in the American Journal of Clinical Nutrition, Ioannidis and a colleague selected 50 common ingredients at random from a cookbook and looked for studies evaluating each food’s association to cancer risk.
+
+Sentence nr: 99
+It turned out that studies had found a link between 80 percent of the ingredients — including salt, eggs, butter, lemon, bread and carrots — and cancer.
+
+Sentence nr: 100
+Some of those studies pointed to an increased risk of cancer, others suggested a decreased risk, but the size of the reported effects were “implausibly large,” Ioannidis said, while the evidence was weak.
+
+Sentence nr: 101
+But the problems weren’t just statistical.
+
+Sentence nr: 102
+Many of the reported findings were also biologically improbable, Ioannidis said.
+
+Sentence nr: 103
+For instance, a 2013 study found that people who ate three servings of nuts per week had a nearly 40 percent reduction in mortality risk.
+
+Sentence nr: 104
+If nibbling nuts really cut the risk of dying by 40 percent, it would be revolutionary, but the figure is almost certainly an overstatement, Ioannidis told me.
+
+Sentence nr: 105
+It’s also meaningless without context.
+
+Sentence nr: 106
+Can a 90-year-old get the same benefits as a 60-year-old?
+
+Sentence nr: 107
+How many days or years must you spend eating nuts for the benefits to kick in, and how long does the effect last?
+
+Sentence nr: 108
+These are the questions that people really want answers to.
+
+Sentence nr: 109
+But as our experiment demonstrated, it’s easy to use nutrition surveys to link foods to outcomes, yet it’s difficult to know what these connections mean.
+
+Sentence nr: 110
+FFQs “aren’t perfect,” said Harvard’s Chavarro, but at the moment there are few other options.
+
+Sentence nr: 111
+“It may be that we have reached a limit of current methodology for nutritional assessments and it’s going to require a major shift to do something better,” he said.
+
+Sentence nr: 112
+Current studies suffer another fundamental problem: We expect far too much from them.
+
+Sentence nr: 113
+We want to answer questions like, what’s healthier, butter or margarine?
+
+Sentence nr: 114
+Can eating blueberries keep my mind sharp?
+
+Sentence nr: 115
+Will bacon give me colon cancer?
+
+Sentence nr: 116
+But observational studies using memory-based measures of dietary intake are tools too crude to provide answers with this level of granularity.
+
+Sentence nr: 117
+One reason is that single nutrients like saturated fat or an antioxidant seem to produce only trivial differences in the absolute risk of disease, Ioannidis said.
+
+Sentence nr: 118
+(His conclusion comes from more rigorous randomized trials.)
+
+Sentence nr: 119
+This is why headlines so often report relative risks — how many people got cancer in the group who ate the most bacon compared with those who ate none.
+
+Sentence nr: 120
+Relative risks are almost always much more extreme than absolute risk, but absolute risk (your risk of getting cancer if you consume bacon, for instance) is what we really care about.
+
+Sentence nr: 121
+If, say, 1 out of 10,000 people who ate the most bacon got cancer, compared with 3 out of 10,000 who ate none, that’s a threefold difference.
+
+Sentence nr: 122
+But the difference in absolute risk — a 0.01 percent chance of cancer versus 0.03 percent — is tiny and probably not enough to change anyone’s eating habits.
+
+Sentence nr: 123
+The tendency to report results as more precise and important than they are also explains why we get so many back-and-forth headlines about things like coffee.
+
+Sentence nr: 124
+“Big data sets just confer spurious precision status to noise,” Ioannidis wrote in his 2013 analysis.
+
+Sentence nr: 125
+So we’re left with our original question: What is a healthy diet?
+
+Sentence nr: 126
+We know the basics — we need sufficient calories and protein to keep our bodies alive.
+
+Sentence nr: 127
+We need nutrients like vitamin C and iron.
+
+Sentence nr: 128
+Beyond that, we may be overthinking it, said Archer, the Nutrition Obesity Research Center physiologist.
+
+Sentence nr: 129
+“We have cultures that eschew fruits and vegetables that were perfectly healthy for thousands of years,” he said.
+
+Sentence nr: 130
+Some populations today thrive on very few vegetables, while others subsist almost entirely on plant foods.
+
+Sentence nr: 131
+The takeaway, Archer said, is that our bodies are adaptable and pretty good at telling us what we need, if we can learn to listen.
+
+Sentence nr: 132
+Even so, I doubt we’ll give up looking for secret health elixirs in our pantries and refrigerators.
+
+Sentence nr: 133
+There’s a reason the media and the public gobble up these studies, and it’s the same reason that researchers spend billions of dollars doing them.
+
+Sentence nr: 134
+We live in a world where scary diseases constantly strike people around us, sometimes out of the blue.
+
+Sentence nr: 135
+The natural reaction when someone has a heart attack or is diagnosed with cancer is to look for a way to protect yourself from a similar fate.
+
+Sentence nr: 136
+So we turn to food to regain a modicum of control.
+
+Sentence nr: 137
+We can’t direct what’s going on inside our cells, but we can control what we put into our bodies.
+
+Sentence nr: 138
+Science has yet to find a magic vitamin or nutrient that will allow us to stay healthy forever, but we seem determined to keep trying.
+
+Sentence nr: 139
+CORRECTION (Jan. 6, 1:10 p.m.): A previous version of this article incorrectly described the affiliation of the Energy Balance Measurement Working Group, which wrote a report on obesity research methods.
+
+Sentence nr: 140
+It is not affiliated with the National Cancer Institute, although there is another group with a similar name that is affiliated with the institute.
+
+Sentence nr: 141
+The problem with nutrition studies Christie Aschwanden reported and wrote this story and discovered two new foods — hush puppies and cheese straws (her new obsession) — in the process.
+
+Sentence nr: 142
+Anna Maria Barry-Jester contributed reporting and photography.
+
+Sentence nr: 143
+She also learned how hard it is to calculate the calories in gyro meat.
+
+Sentence nr: 144
+Andrew Flowers p-hacked the hell out of our data, against his better judgment.
+
+Sentence nr: 145
+For our survey, Walt Hickey identified important unanswered questions about the relationship between certain foods and bellybuttons, weird rashes and opinions of the movie “Crash.”
+

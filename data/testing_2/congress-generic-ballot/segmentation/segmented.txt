@@ -1,0 +1,45 @@
+Sentence nr: 0
+Are Winning The Race For Congress?
+
+Sentence nr: 1
+An updating estimate of the generic ballot, based on polls that ask people which party they would support in a congressional election.
+
+Sentence nr: 2
+JAN. 2018 FEB. MARCH APRIL MAY 2017 MAY JUNE JUNE JULY JULY AUG. AUG. SEPT. SEPT. OCT. OCT. NOV. NOV. DEC. 20 30 40 50 60% MAY 10, 2018 ELECTION DAY NOV. 6, 2018 ?
+
+Sentence nr: 3
+46.7%Democrats 46.7%Democrats 40.5%Republicans 40.5%Republicans KEY ESTIMATE 90% OF POLLS PROJECTED TO FALL IN THIS RANGE GRADE SAMPLE REPUBLICAN DEMOCRAT LEADER ADJUSTED LEADER MAY 6-8 YouGov B 1,228 RV 0.75 35% 44% Democrat +9 D +11 MAY 3-7 Morning Consult 1,992 A 0.55 35% 42% Democrat +7 D +10 MAY 3-7 Ipsos A- 1,197 RV 1.39 38% 39% Democrat +1 D +2 MAY 3-5 CBS News A- 1,101 A 1.73 41% 50% Democrat +9 D +8 MAY 2-5 CNN/SSRS 1,015 A 1.43 44% 47% Democrat +3 D +2 APR.
+
+Sentence nr: 4
+28-MAY 2 Ipsos A- 1,241 RV 0.94 38% 41% Democrat +4 D +4 APR.
+
+Sentence nr: 5
+29-MAY 1 YouGov B 1,259 RV 0.64 39% 42% Democrat +3 D +5 APR.
+
+Sentence nr: 6
+26-MAY 1 Morning Consult 1,991 RV 0.46 34% 43% Democrat +9 D +12 APR.
+
+Sentence nr: 7
+25-MAY 1 Pew Research Center B+ 1,221 RV 1.71 43% 48% Democrat +5 D +4 APR.
+
+Sentence nr: 8
+26-30 Monmouth University A+ 681 RV 1.46 41% 49% Democrat +8 D +8 Show more polls KEY = NEW A = ALL ADULTS RV = REGISTERED VOTERS LV = LIKELY VOTERS V = VOTERS When the dates of tracking polls from the same pollster overlap, only the most recent version is shown.
+
+Sentence nr: 9
+Polls listed here are those that ask either which party's candidate a respondent would vote for in his or her district or which party the respondent would prefer control Congress.
+
+Sentence nr: 10
+Design and development by Aaron Bycoffe and Dhrumil Mehta.
+
+Sentence nr: 11
+Statistical model by Nate Silver.
+
+Sentence nr: 12
+Notice any bugs or missing polls?
+
+Sentence nr: 13
+Send us an email.
+
+Sentence nr: 14
+Download this data: polls, trend lines.
+

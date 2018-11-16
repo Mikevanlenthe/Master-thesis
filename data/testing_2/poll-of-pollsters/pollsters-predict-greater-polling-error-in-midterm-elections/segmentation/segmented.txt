@@ -1,0 +1,315 @@
+Sentence nr: 0
+Oct. 6, 2014 at 7:32 AM Pollsters Predict Greater Polling Error In Midterm Elections By Carl Bialik Filed under Polling Get the data on GitHub GitHub data at data/poll-of-pollsters FacebookTwitterEmail Students at the University of California, Davis line up to vote at a polling place on Nov. 6, 2012.
+
+Sentence nr: 1
+Autumn Payne / Getty Images A baby peeks out of the voting booth while his mother votes March 20, 2012, at Christian Union Church in Metamora, Illinois.
+
+Sentence nr: 2
+DON EMMERT / AFP via Getty Images At FiveThirtyEight, we write about polls regularly, especially ahead of big elections like next month’s.
+
+Sentence nr: 3
+We rate pollsters for their accuracy and whether they lean Republican or Democratic.
+
+Sentence nr: 4
+And we use their work to inform our election model and Senate forecast.
+
+Sentence nr: 5
+Now we’re polling pollsters, too.
+
+Sentence nr: 6
+We wanted to see what the most prolific political pollsters had to say about their work, the election, their industry and where it’s headed.
+
+Sentence nr: 7
+We reached out to 60 of the most active political pollsters in the country, and 26 took our survey.1 In their responses, most pollsters predict Republicans will win the Senate by a narrow margin.
+
+Sentence nr: 8
+Many say fewer people are responding to polls this year, compared to 2012, and more expect greater polling error — that is, the difference between what the latest pre-election polls show and actual vote margins — in the upcoming election, than expect less error.
+
+Sentence nr: 9
+And yet, the results also show how little the pollsters agree on.
+
+Sentence nr: 10
+To encourage them to speak freely, we’ve granted them the choice of making some or all of their answers anonymous.
+
+Sentence nr: 11
+That’s why some quotes below aren’t attributed.
+
+Sentence nr: 12
+We’ve also posted the results on GitHub, protecting anonymity where requested there, as well.
+
+Sentence nr: 13
+Republicans predicted to win the Senate by a narrow margin While pollsters are in the business of asking voters what they think, instead of predicting how voters will act, 19 answered our question about how many seats they expect Republicans will hold in the next Senate.
+
+Sentence nr: 14
+Two-thirds think Republicans will have a majority.
+
+Sentence nr: 15
+Just two think they’ll have fewer than 50 seats, each predicting 49.
+
+Sentence nr: 16
+The predicted margin is slim, though: An average of just under 51 seats for Republicans.
+
+Sentence nr: 17
+(The most common outcome in the latest run of our model — occurring in about 18 percent of simulations — is 52 Republican-held seats.)
+
+Sentence nr: 18
+Among the reasons given for expecting a Republican victory: “Second midterm congressional elections typically favor the party out of power.” (Brad Coker, Mason-Dixon Polling & Research, Inc.) “The President’s fairly poor job approval.” (Christopher P. Borick, Muhlenberg College) “The ‘structural’ advantage they have this year with most of the contested seats in red states.” Then there are the pollsters who say they rely on forecasts like ours, The Huffington Post’s and others’.
+
+Sentence nr: 19
+And one who said, “It’s a guess, like everyone else’s.” Fewer people are responding to polls Fifteen pollsters told us their response rates for election polls this year and in 2012.2 The average response rate this year is 11.8 percent — down 1.9 percentage points from 2012.3 That may not sound like a lot, but when fewer than one in seven people responded to polls in 2012, there wasn’t much room to drop.
+
+Sentence nr: 20
+It’s a decline of 14 percent, and it’s consistent across pollsters — 12 of the 15 reported a decline, and no one reported an increase.
+
+Sentence nr: 21
+These results are consistent with what pollsters have reported for years: that people are harder to reach by phone, and are less likely to want to talk to strangers when they are reached.
+
+Sentence nr: 22
+Here, the pollsters show just how quickly response rates have fallen in only two years.
+
+Sentence nr: 23
+But not everyone defines response rate the same way.
+
+Sentence nr: 24
+Generally speaking, response rate is the number of people who respond to a poll divided by the number of people who were asked to respond, but the specifics can vary greatly.
+
+Sentence nr: 25
+The American Association for Public Opinion Research’s website provides a downloadable calculator, which puts out four different response rates.
+
+Sentence nr: 26
+The strictest definition counts only respondents who answer every poll question in the numerator, and counts every household contacted in the denominator.
+
+Sentence nr: 27
+The loosest definition includes partial responses in the numerator, and adjusts the denominator downward by estimating how many of the people who weren’t reached at all weren’t eligible for the poll, anyway.
+
+Sentence nr: 28
+None of the pollsters we contacted said they used the strictest definition.
+
+Sentence nr: 29
+At least two pollsters used each of the other three looser definitions.
+
+Sentence nr: 30
+Others either didn’t specify or used a non-AAPOR definition.
+
+Sentence nr: 31
+The definition used can matter a lot.
+
+Sentence nr: 32
+One pollster defined response rate as completed interviews divided by number of people who were successfully contacted and qualified for the poll.
+
+Sentence nr: 33
+That yielded a response rate of 19 percent.
+
+Sentence nr: 34
+But if the denominator were all numbers dialed, a more typical definition, then that pollster’s response rate would be just 5 percent to 7 percent.
+
+Sentence nr: 35
+Expect more polling error in 2014 We asked pollsters if they expected more or less error in Senate election polls — the difference between what the latest pre-election polls show and actual vote margins — this year than two years ago.
+
+Sentence nr: 36
+Ten said they expected a higher average error, while just five predicted lower error.
+
+Sentence nr: 37
+No one cited low response rates as a reason to expect poll error.
+
+Sentence nr: 38
+Perhaps that’s because pollsters have managed to maintain strong national-election records despite declining response rates.
+
+Sentence nr: 39
+Instead, the top reason cited was the difficulty of forecasting turnout in midterm elections, without a presidential race to bring voters to the polls.
+
+Sentence nr: 40
+And the crucial midterms are in states that don’t usually have close races.
+
+Sentence nr: 41
+“The key Senate battlegrounds this year are also places like Alaska, Arkansas, Kansas, Louisiana, etc., where most of the public pollsters don’t have a ton of experience,” one pollster said.
+
+Sentence nr: 42
+“It’s not the Ohios and Pennsylvanias and Floridas of the world that we’re all used to polling a lot.” Some also cited an increase in unproven polling techniques by pollsters.
+
+Sentence nr: 43
+“Many are attempting to use Internet surveys with untested methodologies to determine likely voters,” said Darrel Rowland, the Columbus Dispatch’s public affairs editor, who conducts the newspaper’s Dispatch Poll.
+
+Sentence nr: 44
+“As often happens to pioneers, there could be some grim results.” Another pollster echoed a lament we’ve made here: “There are far too few quality polls in 2014 and that is saying something, given what we saw in 2012.” One pollster who predicted lower error this time around said lower turnout makes it easier to predict the vote of those who do show up on Election Day.
+
+Sentence nr: 45
+Another, Gregg Durham of We Ask America, said that pollsters have gotten better at weighting the responses of the people they interview, to better represent the views of people who don’t respond.
+
+Sentence nr: 46
+One pollster who expected higher error had an even gloomier forecast for the industry — expect polling to be dead by 2030.
+
+Sentence nr: 47
+“Like chickens whose heads have been severed but who do not yet realize they are dead, pollsters continue to torment respondents by barging into respondents’ lives unannounced.
+
+Sentence nr: 48
+At present course and speed, pollsters will have obsoleted themselves before Nate Silver turns 50.4 When that day arrives, pollsters will have no one to blame but themselves.” It’s hard to poll all over the map My colleague Nate Silver wrote recently that Alaska is hard to poll.
+
+Sentence nr: 49
+We asked pollsters where they had the hardest time, and collectively they mentioned 14 states and Washington, D.C., by name, plus several broad regions (New England, “urban” states, southern states, states with small population sizes).
+
+Sentence nr: 50
+The states tying for the highest number of mentions were New York and Hawaii.
+
+Sentence nr: 51
+Two also cited Alaska.
+
+Sentence nr: 52
+One reason is common to both of the non-Lower 48 states: “Hard-to-reach populations,” said John Anzalone of Anzalone Liszt Grove Research.
+
+Sentence nr: 53
+Hawaii’s ethnic makeup in particular makes it hard to model using national databases.
+
+Sentence nr: 54
+“Japanese ancestry voters and Chinese ancestry voters have very different voting patterns and are both key voting blocs, but are not differentiated in the databases,” said Seth Rosenthal of Merriman River Group.
+
+Sentence nr: 55
+“Also, voter databases tend to mislabel Filipinos — another important voting block in Hawaii — as ‘Hispanic.’ ” Two pollsters said New York had extremely low response rates, with one identifying New York City residents as particularly unresponsive.
+
+Sentence nr: 56
+California, Florida, and Washington, D.C., all also got multiple votes.
+
+Sentence nr: 57
+All were mentioned by pollster J. Ann Selzer, of Selzer & Company, as difficult because residents move in and out of the states and take their phone numbers with them, making them hard to find by area code.
+
+Sentence nr: 58
+Some pollsters also named Nevada as challenging, saying Nevadan Hispanics and blacks who answer polls tend to vote more conservatively than their counterparts who don’t.
+
+Sentence nr: 59
+Tom Jensen, of Public Policy Polling, said that many Las Vegas residents keep unusual work schedules that make them hard to track down.
+
+Sentence nr: 60
+Another pollster added, “Too much happens under the radar for opinion pollsters to pick up.
+
+Sentence nr: 61
+… Nobody gets elections right in Nevada.” Pollsters had various strategies for handling low response rates among blacks and Hispanics.
+
+Sentence nr: 62
+For instance, six said they typically overweight black respondents, and eight said the same about Hispanic respondents, to account for lower response rates in those groups.
+
+Sentence nr: 63
+And 11 said they oversample blacks or Hispanics for polls specifically covering racial issues.
+
+Sentence nr: 64
+Media company belt-tightening is hitting pollsters We found earlier this year that the number of political polls is declining.
+
+Sentence nr: 65
+In this poll, we asked what the biggest reason was.
+
+Sentence nr: 66
+A few respondents disagreed with the premise of the question.
+
+Sentence nr: 67
+Of the rest, only two named the emergence of poll-based forecasts such as ours and The Upshot’s.
+
+Sentence nr: 68
+Six cited the rising cost of polls.
+
+Sentence nr: 69
+But 12 said the reason was media companies’ shrinking budgets.
+
+Sentence nr: 70
+Newspapers and television stations sponsor many election polls, but fewer than they used to.
+
+Sentence nr: 71
+And media consolidation has left fewer potential sponsors.
+
+Sentence nr: 72
+Several respondents shared stories of polling frequency declining from monthly to a couple of times a year.
+
+Sentence nr: 73
+We separately asked what proportion of pollsters’ revenue comes from news-media clients now, and what that percentage was in 2010.
+
+Sentence nr: 74
+Of those who answered, seven said the proportion was lower now, five said it was higher and nine said it was the same.
+
+Sentence nr: 75
+Just five said they get more than 10 percent of their revenue from media clients.
+
+Sentence nr: 76
+Those who attributed the decline to rising costs said reaching people on their cellphones was more expensive, because they had to dial cellphones by hand.
+
+Sentence nr: 77
+(A 1991 anti-telemarketing law bans automatically dialed calls to cellphones.)
+
+Sentence nr: 78
+Other pollsters reach households without landlines through the Internet, which also adds to costs.
+
+Sentence nr: 79
+We separately asked how much more it costs to include cellphones in polls.
+
+Sentence nr: 80
+The median response was a 25 percent increase in cost.
+
+Sentence nr: 81
+Nonetheless, many said they now include cellphones in all their election polls.
+
+Sentence nr: 82
+A couple of pollsters think the decline in political polls is cyclical and not permanent.
+
+Sentence nr: 83
+Andrew Smith, of the University of New Hampshire, mentioned that the spike in polls in 2008 might have been an aberration.
+
+Sentence nr: 84
+Jensen, of Public Policy Polling, said there’s less interest across the board in these midterms compared to those in 2010.
+
+Sentence nr: 85
+Transparency and polling standards Our pollster ratings and our model factor in whether polling firms are members of the National Council on Public Polls, are participants in the American Association for Public Opinion Research’s Transparency Initiative, or release their raw data to the Roper Center Archive.
+
+Sentence nr: 86
+As Nate wrote, there is “reasonably persuasive evidence that methodology matters.” So we asked pollsters about their participation in these three initiatives, and why they did or didn’t participate.
+
+Sentence nr: 87
+Only five said they release data to Roper.
+
+Sentence nr: 88
+Eight are members of the NCPP.
+
+Sentence nr: 89
+Most — 16 — participate in AAPOR’s Transparency Initiative.
+
+Sentence nr: 90
+Almost all the Roper holdouts cite client confidentiality.
+
+Sentence nr: 91
+Others say Roper hasn’t asked, or that formatting the data for Roper requirements is too expensive or time-consuming.
+
+Sentence nr: 92
+Non-NCPP members said either that the organization wasn’t geared toward their kind of polling (commercial firms, or small firms), that they’d never heard of it, or that they’d never been asked to join.
+
+Sentence nr: 93
+The smaller number of firms that haven’t signed on with AAPOR’s Transparency Initiative also cited the confidentiality of client data.
+
+Sentence nr: 94
+Several of those who have signed on were big believers, with comments like Stuart Elway’s, of Elway Research: “I believe it is important to protect the integrity of the profession.” Polls are headed online soon With declining response rates, rising costs and falling funding, many polls are moving online.
+
+Sentence nr: 95
+We asked our respondents when they expect Internet-based polling to overtake phone polling as the primary method used in election polling.
+
+Sentence nr: 96
+Of the 18 who responded with a date, or “never,” the median answer was 2020.
+
+Sentence nr: 97
+Two expected it to happen by the next presidential election.
+
+Sentence nr: 98
+“We are beginning to consider transition plans,” Borick, of Muhlenberg College, said, “but since costs have remained acceptable and results very accurate, our transition is not imminent.” Some think online polling has already overtaken phone polling.
+
+Sentence nr: 99
+Others say phone and Internet are being used side by side in some polls and will continue to complement each other.
+
+Sentence nr: 100
+“Like everyone else, I think it is a function of the reliability of phone polls (as measured and sanctioned by the academy) versus the decreasing reliability of phone polls plus their increasing cost,” one pollster said.
+
+Sentence nr: 101
+“When do those lines cross?” Anything you want to ask our pollsters?
+
+Sentence nr: 102
+We’ll be sending them another survey soon, and are open to suggestions.
+
+Sentence nr: 103
+(We also asked the pollsters to suggest questions for one another, and will use some of those.)
+
+Sentence nr: 104
+Email suggestions to cbialik@fivethirtyeight.com or leave them in the comments.
+

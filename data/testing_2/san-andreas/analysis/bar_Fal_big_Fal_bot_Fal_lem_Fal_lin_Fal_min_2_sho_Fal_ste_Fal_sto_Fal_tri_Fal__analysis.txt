@@ -1,0 +1,60 @@
+Article: san-andreas
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 627
+Raw number of types: 277
+Raw Type token ratio (higher = more diversity in language use): 0.44178628389154706
+
+100 most freq tokens before (pre)processing: 
+[(',', 1185), ('the', 756), (':', 429), ('.', 421), ('our', 388), ('verdict', 377), ('a', 344), ('of', 334), ('in', 333), ('to', 291), ('and', 286), ('trump', 239), ('1', 223), ('’', 192), ('positive', 183), ('that', 171), ('i', 169), ('on', 152), ('donald', 142), ('for', 134), ('neutral', 131), ('s', 118), ('it', 115), ('like', 113), ('is', 107), ('with', 105), ('at', 102), ('/', 96), ('(', 95), (')', 95), ('was', 91), ('he', 89), ('trump�', 82), ('“', 82), ('”', 81), ('you', 80), ('negative', 80), ('my', 76), ('his', 73), ("'m", 72), ('from', 69), ('me', 67), ('�i', 67), ('but', 66), ('about', 63), ('more', 62), ('than', 62), ('percent', 61), ('hillary', 57), ('by', 55), ('this', 54), ('were', 53), ('has', 53), ("'s", 52), ('—', 51), ('t', 50), ('they', 48), ('data', 48), ('have', 48), ('one', 47), ('who', 46), ('as', 46), ('�', 46), ('2015', 46), ("n't", 46), ("'", 46), ('be', 44), ('2013', 44), ('people', 44), ('swan', 44), ('are', 43), ('we', 43), ('just', 43), ('?', 43), ('up', 43), ('not', 41), ('clinton', 41), ('got', 40), ('or', 40), ('police', 39), ('an', 38), ('get', 37), ('so', 37), ('all', 37), ('--', 37), ('2016', 36), ('2012', 36), ('2014', 35), ('out', 34), ('do', 33), ('drivers', 33), ('weather', 32), ('tattoos', 32), ('their', 31), ('bill', 31), ('what', 31), ('said', 30), ('when', 30), ('2', 30), ('if', 29)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 499
+Number of types: 259
+Type token ratio: 0.5190380761523046
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, rock, walt, hickey, data, github, github, dwayne, johnson, premiere, theatre, hollywood, charbonneau, ap, film, dwayne, johnson, earthquake, california, box, office, weekend, disaster, movie, formula, world, man, family, idea, film, time, span, california, situation, stuff, way, fault, yellowstone, supervolcano, story, left, coast, time, survey, probability, earthquake, magnitude, california, percent, card, deck, california, earthquake, audience, poll, percent, lifetime, census, region, west, coast, deal, anxiety, percent, region, percent, percent, quake, lifetime, kind, disaster, thing, disaster, kit, evacuation, plan, survey, risk, audience, thing, survey, fault, yellowstone, supervolcano, treat, sense, gosh, magma, yellowstone, anything, west, mississippi, data, github')
+
+('VBP', 'am, are, get, are, think, think, are, zero, think, are, think, are, overestimate, play, have, know, don, are, are')
+
+('VB', 'isn, break, end, jack, come, think, go, occur, argue, need, be, happen, have, know, be, settle, check')
+
+('JJ', 'alone, worried, big, datasanandreas, san, tcl, chinese, eric, san, andreas, catastrophic, past, san, pretty, basic, legitimate, sound, long, geological, tectonic, big, immediate, little, san, andreas, geological, geological, next, draw, big, big, massive, catastrophic, surveymonkey, third, big, pacific, active, noncontiguous, good, pacific, worried, overall, big, worried, bad, big, likely, such, survival, big, san, favorite, san, andreas, last, major, likely, big, much, full')
+
+('NNS', 'lots, people, movies, data, andreas, expectations, andreas, abides, fears, risks, people, eons, years, people, lifetimes, americans, states, respondents, earthquakes, people, people, lifetimes, times, precautions, people, movies, fears, andreas')
+
+('VBN', 'filed, destroyed, rebuilt, ok, worried, worried, taken, builtin, worried')
+
+('VBZ', 'attends, is, is, is, is, is, is, lots, turns, makes, is')
+
+('VBG', 'starring, destroying, beating, pulling, playing, going, coming, according, rocking, according, going, buying, making, according')
+
+('VBD', 'crushed, commissioned, said, were, were, did')
+
+('JJR', 'more, lower, larger, more')
+
+('JJS', 'most')
+
+100 most freq tokens after processing: 
+[('the', 756), ('our', 388), ('verdict', 377), ('of', 334), ('in', 333), ('to', 291), ('and', 286), ('trump', 239), ('positive', 184), ('that', 172), ('on', 152), ('donald', 143), ('for', 135), ('neutral', 131), ('it', 116), ('like', 113), ('is', 107), ('with', 105), ('at', 102), ('was', 91), ('he', 89), ('trump�', 82), ('you', 80), ('negative', 80), ('my', 76), ('his', 73), ('from', 69), ('me', 68), ('�i', 67), ('but', 66), ('percent', 64), ('about', 63), ('more', 62), ('than', 62), ('hillary', 57), ('by', 55), ('this', 54), ('were', 53), ('has', 53), ('one', 50), ('they', 48), ('data', 48), ('have', 48), ('2015', 48), ('who', 46), ('as', 46), ('nt', 46), ('be', 44), ('2013', 44), ('people', 44), ('swan', 44), ('are', 43), ('we', 43), ('just', 43), ('up', 43), ('not', 41), ('clinton', 41), ('got', 40), ('or', 40), ('police', 39), ('an', 38), ('2012', 38), ('2014', 37), ('get', 37), ('so', 37), ('2016', 37), ('all', 37), ('out', 34), ('do', 33), ('drivers', 33), ('tattoos', 33), ('weather', 32), ('their', 31), ('bill', 31), ('what', 31), ('said', 30), ('when', 30), ('if', 29), ('other', 28), ('10', 28), ('2008', 28), ('state', 27), ('how', 26), ('some', 26), ('money', 26), ('had', 26), ('2011', 26), ('puerto', 26), ('players', 26), ('only', 25), ('there', 25), ('no', 25), ('rico', 25), ('new', 24), ('fuck', 24), ('those', 24), ('obama', 24), ('officers', 23), ('can', 23), ('still', 23)]

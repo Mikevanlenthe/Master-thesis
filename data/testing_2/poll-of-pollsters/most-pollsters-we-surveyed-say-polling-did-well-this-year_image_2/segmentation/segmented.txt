@@ -1,0 +1,240 @@
+Sentence nr: 0
+Nov. 7, 2014 at 8:06 AM Most Pollsters We Surveyed Say Polling Did Well This Year By Carl Bialik Filed under Poll Of Pollsters Get the data on GitHub GitHub data at data/poll-of-pollsters FacebookTwitterEmail U.S. Sen.-elect Joni Ernst speaks to supporters on Tuesday in West Des Moines, Iowa.
+
+Sentence nr: 1
+The polling firm Selzer & Company was credited with calling the race correctly.
+
+Sentence nr: 2
+Charlie Neibergall / AP U.S. Sen.-elect Joni Ernst speaks to supporters on Tuesday in West Des Moines, Iowa.
+
+Sentence nr: 3
+The polling firm Selzer & Company was credited with calling the race correctly.
+
+Sentence nr: 4
+Charlie Neibergall / AP After Republicans won Senate, House and statehouse elections in decisive routs Tuesday, my colleague Nate Silver and many others said pre-election polls were skewed toward Democrats.
+
+Sentence nr: 5
+That makes this the second consecutive national election with polls skewed toward one party: In 2012, they zagged toward Republicans.
+
+Sentence nr: 6
+That prompted us to ask pollsters how they thought they did.
+
+Sentence nr: 7
+We’d conducted three polls of top campaign pollsters before the election, to learn how they did their work, what ethical principles they followed and where they saw their industry heading.1 Now we wanted to know how they assessed the performance of their polls.
+
+Sentence nr: 8
+The first question of our brief post-election poll was, “In light of Tuesday results, did election polls do well this year at depicting the electorate’s views?” Seventeen of the nation’s most prolific political pollsters responded.
+
+Sentence nr: 9
+What they said was a surprise.
+
+Sentence nr: 10
+We checked in on partial results of the poll early Wednesday and reported a few defenses of polls’ performances.
+
+Sentence nr: 11
+When our poll closed, the result was a win as one-sided as Mississippi’s Senate election: 10 answered yes, while just six answered no.
+
+Sentence nr: 12
+(The other response was, “Some did and some didn’t.”) After a night in which results consistently deviated from what polls had suggested — and almost always in the same direction — most pollsters were pretty pleased with how they’d done.
+
+Sentence nr: 13
+Or at least, most pollsters who felt like answering our poll spoke positively about polls’ performance.
+
+Sentence nr: 14
+(You can see our questions at SurveyMonkey and see full results on Github.)
+
+Sentence nr: 15
+Those who said polls did well had some valid reasons.
+
+Sentence nr: 16
+Some were answering specifically about their own polls, and not every pollster had a bad night.
+
+Sentence nr: 17
+Understandably, they hadn’t yet had time to study everyone else’s performance.
+
+Sentence nr: 18
+One of the respondents who said polls didn’t do well also focused on results close to home: “We polled in 26 geographies.
+
+Sentence nr: 19
+We embarrassed ourselves in just two of those 26 geographies.
+
+Sentence nr: 20
+But that’s two too many.” Others said the polls were mostly right, but wrong on some details.
+
+Sentence nr: 21
+“In general the polls did a good job of predicting the winners and losers on Tuesday but they appear to have generally underestimated the magnitude of Republican victories,” Christopher P. Borick of Muhlenberg College, who answered yes, said.
+
+Sentence nr: 22
+(We made the case before returns came in that counting correct calls isn’t one of the better ways to evaluate forecasts; in any case many polls made wrong calls in gubernatorial races.)
+
+Sentence nr: 23
+Barbara Carvalho of Marist College argued that polls got some trends right: Voters were worried about jobs and the economy, and dissatisfied with Washington, D.C., and President Obama.
+
+Sentence nr: 24
+Women and independents were moving toward the Republicans.
+
+Sentence nr: 25
+Plus, it’s possible polls accurately showed what people thought on the day they were asked, but not on the day they voted.
+
+Sentence nr: 26
+“At the time many of the polls were taken, they showed close races when they were close and several organizations showed movement to the GOP from previous polls closer to Election Day,” Carvalho said.
+
+Sentence nr: 27
+That isn’t good enough for Matt Towery of InsiderAdvantage.
+
+Sentence nr: 28
+“We captured the trends but not the wave,” he said.
+
+Sentence nr: 29
+Towery was unusual in his willingness to say openly that polls had a bad night.
+
+Sentence nr: 30
+Four of the seven pollsters who didn’t answer yes requested anonymity.
+
+Sentence nr: 31
+Just two of the other 10 made the same request.
+
+Sentence nr: 32
+Carvalho said bad polls drowned out good ones in models that combined them, such as FiveThirtyEight’s.
+
+Sentence nr: 33
+She pointed out that some pollsters spotted Republicans’ edge in Iowa, Kansas and Colorado.
+
+Sentence nr: 34
+“Models tended to mute differences and trends … because they were not part of the average,” Carvalho said.
+
+Sentence nr: 35
+“Faster, cheaper, later, needs to be balanced with good science.” The challenge is to identify ahead of time which pollsters are spotting the correct trends and which should be muted.
+
+Sentence nr: 36
+What will pollsters have to do to get better at spotting correct trends in 2016?
+
+Sentence nr: 37
+I asked what the implications of this year’s results were for the industry.
+
+Sentence nr: 38
+A few pollsters who didn’t want to be named were pessimistic.
+
+Sentence nr: 39
+“Only bad things,” one foresaw.
+
+Sentence nr: 40
+“A lot of head-scratching,” another predicted.
+
+Sentence nr: 41
+A third anticipated more of “the never-ending struggle to determine who will vote, balanced against the pressures of speed and cost.
+
+Sentence nr: 42
+It won’t get any easier.” One anonymous respondent specifically predicted that pollsters will need to fine-tune their methods of determining who will vote.
+
+Sentence nr: 43
+“The problem in many, if not most, polls is that they decide a priori what the electorate will look like,” the pollster said.
+
+Sentence nr: 44
+But another respondent said pollsters have a good handle on who comes out to vote in presidential election years such as 2016.
+
+Sentence nr: 45
+“The 2016 electorate will be more like pollsters thought the 2014 would look than the 2014 electorate actually was,” the pollster said.
+
+Sentence nr: 46
+“And thus will ensue another ‘unskewing’ battle from the right.” Every pollster must work to improve after elections, John Anzalone of Anzalone Liszt Grove Research said.
+
+Sentence nr: 47
+“Each year we as pollsters are going to have to work harder and tighten our procedures and methodology.
+
+Sentence nr: 48
+You can conduct good polling but you have to be willing to spend the money and time to do it right.” Who got it most right this time around?
+
+Sentence nr: 49
+We asked which polling organizations were particularly successful.
+
+Sentence nr: 50
+The only two votes for an organization the pollster didn’t work for went to Selzer & Company.
+
+Sentence nr: 51
+The Iowa firm looked worthy of its A+ in our ratings by giving Joni Ernst a 7-point lead in the Iowa Senate race when the other 10 most heavily weighted polls in our database showed Ernst trailing, tied or leading by 3 points or less.
+
+Sentence nr: 52
+Ernst won, by 8 points at last count.
+
+Sentence nr: 53
+Pollsters were less reticent when asked to name pollsters who stumbled.
+
+Sentence nr: 54
+One answered, “Most everyone.” Two specifically named YouGov, and one each named Public Policy Polling, Fox News and Zogby.
+
+Sentence nr: 55
+Douglas Rivers of YouGov assessed its Senate poll performance in an article published Wednesday on YouGov’s website.
+
+Sentence nr: 56
+He concluded that YouGov’s polls overstated Democrats’ two-party vote share by an average of 2.04 percentage points, less than the seven other pollsters active in at least five Senate races that YouGov assessed.
+
+Sentence nr: 57
+“But this is a larger average bias than we have encountered in previous years,” Rivers wrote.
+
+Sentence nr: 58
+YouGov also had the third-highest mean absolute error.2 Tom Jensen of PPP answered some of our previous polls, but not this one, so I asked him to respond to the mention of his firm.
+
+Sentence nr: 59
+He pointed out that YouGov found PPP had the third-lowest average error of eight polling firms assessed.
+
+Sentence nr: 60
+“We were actually above average,” Jensen said.
+
+Sentence nr: 61
+“We are certainly digging into the data though to see what we could have done differently.” Brad Coker of Mason-Dixon Polling & Research, Inc., was among the majority who didn’t name any specific winners and losers.
+
+Sentence nr: 62
+“Everyone has good years and bad years,” he said.
+
+Sentence nr: 63
+There was little consensus about which polling methods yielded the best results.
+
+Sentence nr: 64
+Two said phone polling that included cellphones won the night.
+
+Sentence nr: 65
+“Everyone has one,” Gabriel Joseph of ccAdvertising said of cellphones.
+
+Sentence nr: 66
+“Ignoring this universe of respondents is irresponsible.” Three pollsters said online polls underperformed, but another said there are online polls no one knows about that were conducted for testing purposes and did well.
+
+Sentence nr: 67
+“We wish we had just stuck to it,” the pollster said.
+
+Sentence nr: 68
+“Our online was right on target but went unreleased.” Because it’s never too early to turn to 2016, we asked about the Senate race next time.
+
+Sentence nr: 69
+How many seats would Republicans control in 2017?
+
+Sentence nr: 70
+Six gave a number.
+
+Sentence nr: 71
+Three said 51.3 One said 49, another said 48 and Joseph said 57.
+
+Sentence nr: 72
+Anzalone, a reliable provider of colorful quotes in our polls, said, “Who the fuck knows?” He elaborated, less profanely: “It doesn’t matter how long you have been in this business; there are always going to be surprises each cycle.
+
+Sentence nr: 73
+And I don’t mean just at the end.
+
+Sentence nr: 74
+No one thought six months ago Iowa and Colorado would be in play.
+
+Sentence nr: 75
+It just takes one variable to change the whole equation.” Language and emotions ran a bit raw after a turbulent night for pollsters.
+
+Sentence nr: 76
+Carvalho enjoyed it.
+
+Sentence nr: 77
+“Love Election Night: lots of numbers, analysis, and little sleep,” she said.
+
+Sentence nr: 78
+“It can’t be beat.” Anzalone related a different experience.
+
+Sentence nr: 79
+“It was a 24-hour enema,” he said.
+

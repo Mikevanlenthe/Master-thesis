@@ -1,0 +1,60 @@
+Article: riddler-pick-lowest/is-this-bathroom-occupied
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1521
+Raw number of types: 508
+Raw Type token ratio (higher = more diversity in language use): 0.3339907955292571
+
+100 most freq tokens before (pre)processing: 
+[(',', 3767), ('the', 3658), ('.', 2371), ('of', 1818), ('a', 1501), ('to', 1473), ('in', 1437), ('and', 1303), ('’', 1157), ('that', 823), (':', 708), ('s', 647), ('for', 588), ('is', 575), ('it', 549), ('on', 533), ('our', 502), ('“', 447), ('”', 446), ('are', 407), ('with', 406), ('at', 403), ('verdict', 377), ('more', 368), ('by', 363), ('as', 350), ('(', 347), (')', 347), ('—', 338), ('we', 334), ('but', 329), ('i', 326), ('this', 324), ('percent', 318), ('trump', 300), ('1', 295), ('you', 286), ('they', 280), ('than', 276), ('have', 269), ('from', 269), ('was', 269), ('t', 261), ('about', 259), ('or', 253), ('who', 250), ('one', 245), ('be', 239), ('data', 227), ('like', 216), ('an', 207), ('said', 200), ('were', 199), ('positive', 191), ('their', 190), ('has', 189), ('he', 186), ('all', 177), ('most', 175), ('not', 170), ('polls', 168), ('other', 160), ('there', 157), ('people', 157), ('pollsters', 157), ('if', 155), ('his', 155), ('?', 154), ('when', 153), ('donald', 152), ('can', 150), ('how', 148), ('so', 146), ('what', 146), ('those', 145), ('out', 143), ('some', 140), ('which', 137), ('neutral', 132), ('up', 132), ('<', 130), ('>', 128), ('just', 127), ('get', 126), ('/', 124), ('each', 122), ('also', 121), ('only', 114), ('had', 112), ('my', 111), ('will', 108), ('do', 105), ('two', 102), ('github', 101), ('2', 100), ('polling', 100), ('new', 98), ('me', 98), ('number', 98), (';', 97)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1113
+Number of types: 475
+Type token ratio: 0.42677448337825696
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'aug, bathroom, oliver, roeder, riddler, illustration, welcome, riddler, week, math, logic, probability, express, something, movement, submit, answer, either1, shoutout, week, column, puzzle, dust, twitter, riddler, express, chris, thornett, game, class, game, circle, teacher, teacher, coin, game, teacher, coin, potato, left, coin, right, coin, game, child, potato, one, winner, change, circle, child, probability, answer, riddler, classic, dave, moran, puzzle, perfect, work, break, bathroom, office, building, toilet, outside, door, one, door, handle, sign, bathroom, sign, sign, visit, thing, visit, sign, sign, bathroom, half, time, day, day, workplace, situation, bathroom, sign, door, probability, bathroom, sign, probability, bathroom, credit, percentage, bathroom, answer, solution, week, riddler, express, breitbart, cambridge, massachusetts, winner, week, puzzle, inductee, order, riddler, nation, week, integer, person, number, number, mitchell, choice, number, fact, number, way, logic, bit, arbiter, riddler, nation, induction, process, set, arthur, louisville, number, solution, week, riddler, birmingham, england, winner, week, puzzle, chain, building, chain, number, number, chain, example, chain, chain, length, chain, path, problem, path, number, repeat, factor, bhattacharjee, illustration, algorithms, solver, chain, length, approach, path, winner, chain, example, none, chain, program, language, program, sagemath, matlab, credit, chain, insight, riddler, email, oliverroeder, fivethirtyeightcom')
+
+('VBP', 'am, offer, hold, are, riddler, want, correct, need, have, stand, do, are, win, submit, are, forget, forget, assume, don, notice, enter, forget, exit, are, make, enter, slide, exit, assume, go, submit, start, want, are, have, re, are, are, are, alight, want')
+
+('VBZ', 'is, is, is, progresses, tosses, holds, passes, comes, comes, ends, has, hasn, is, is, is, has, is, reads, reads, says, reads, is, reads, is, is, reads, is, is, happens, makes, is, seems, is, means, aren, does, james')
+
+('VBD', 'occupied, were, submitted, won, was, explained, was, wouldn, ended, worked, broke, excluded, submitted, left, was, sent, ran, topped, found, took, kaseorg, offered, existed, were, were, found, created, claimed, found, found, found')
+
+('VBN', 'edited, filed, related, bitesized, held, declared, stuck, occupied, occupied, occupied, occupied, occupied, asked, bored, finished, connected, called, submitted, written, called, built, cautioned')
+
+('JJ', 'guillaume, kurkdjian, dear, classic, slowpuzzle, next, favorite, attic, special, hot, potato, other, next, small, sign, vacant, inside, same, sure, conscientious, sure, vacant, vacant, extra, conscientious, last, last, express, inaugural, ordinal, last, positive, unique, high, popular, round, certain, other, small, single, last, classic, last, classic, inclusive, only, adjacent, tough, other, multiple, isar, general, known, clever, educated, long, computational, solver, other, convincing, small, clingo, combinatorial, optimal, extra, specific, further, mathematical, tricky, riddle')
+
+('NNS', 'problems, things, types, children, things, heads, tails, chances, words, people, users, users, users, questions, users, changes, congratulations, submissions, submitters, submissions, spammers, congratulations, james, integers, rules, factors, multiples, numbers, numbers, numbers, numbers, problems, trials, guesses, chains, others, methods, anders, submitters, arguments, chains, arguments, examples, anders, problems, others, chains, numbers, anders, numbers')
+
+('VB', 'riddler, get, hint, find, potato, child, slide, occupied, try, slide, occupied, slide, vacant, make, slide, vacant, vacant, see, mitchell, submit, be, think, avoid, see, organize, use, be, build, place, build, be, find, solve, appear, be, turn, solve, be, be, be, let, know, submit')
+
+('VBG', 'collecting, playing, holding, winning, depending, entering, exiting, entering, exiting, entering, remaining, winning, zooming, including, getting, leaving, trying, taking, using, using')
+
+('JJS', 'lowest, longest, longest, biggest')
+
+('JJR', 'less, penandpaper, longer, longer')
+
+100 most freq tokens after processing: 
+[('the', 3658), ('of', 1818), ('to', 1473), ('in', 1437), ('and', 1303), ('that', 826), ('for', 589), ('is', 575), ('it', 550), ('on', 533), ('our', 502), ('are', 408), ('with', 406), ('at', 403), ('verdict', 377), ('more', 368), ('by', 363), ('as', 350), ('we', 334), ('but', 329), ('this', 324), ('percent', 322), ('trump', 300), ('you', 286), ('they', 280), ('than', 276), ('have', 269), ('from', 269), ('was', 269), ('about', 259), ('or', 253), ('who', 250), ('one', 248), ('be', 240), ('data', 227), ('like', 216), ('an', 207), ('said', 200), ('were', 199), ('positive', 192), ('their', 190), ('has', 189), ('he', 186), ('all', 177), ('most', 175), ('not', 170), ('polls', 168), ('other', 161), ('there', 157), ('people', 157), ('pollsters', 157), ('if', 155), ('his', 155), ('donald', 153), ('when', 153), ('can', 150), ('how', 148), ('so', 147), ('what', 146), ('those', 145), ('out', 144), ('some', 140), ('which', 137), ('neutral', 132), ('up', 132), ('just', 127), ('get', 126), ('each', 122), ('also', 121), ('only', 114), ('had', 112), ('my', 111), ('10', 108), ('will', 108), ('do', 105), ('two', 102), ('github', 101), ('polling', 101), ('me', 99), ('new', 98), ('number', 98), ('state', 96), ('would', 94), ('its', 91), ('year', 90), ('time', 90), ('bar', 89), ('them', 86), ('first', 86), ('many', 85), ('election', 85), ('model', 84), ('these', 83), ('no', 83), ('negative', 83), ('points', 83), ('trump�', 82), ('because', 82), ('likely', 81), ('where', 80)]

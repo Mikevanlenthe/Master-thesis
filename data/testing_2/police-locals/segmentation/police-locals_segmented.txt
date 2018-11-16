@@ -1,0 +1,182 @@
+Sentence nr: 0
+
+
+
+Aug. 20, 2014
+						at
+						4:14 PM
+
+
+
+							Most Police Don’t Live In The Cities They Serve						
+
+
+
+By Nate Silver
+Filed under Ferguson
+
+Get the data on GitHub
+GitHub data at data/police-locals
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+				Police officers charge into a group of demonstrators to make an arrest Tuesday in Ferguson, Missouri.
+
+Sentence nr: 1
+Joe Raedle / Getty Images
+
+
+
+In Ferguson, Missouri, where protests continue following the shooting of a teenager by a police officer this month, more than two-thirds of the civilian population is black.
+
+Sentence nr: 2
+Only 11 percent of the police force is.
+
+Sentence nr: 3
+The racial disparity is troubling enough on its own, but it’s also suggestive of another type of misrepresentation.
+
+Sentence nr: 4
+Given Ferguson’s racial gap, it’s likely that many of its police officers live outside city limits.
+
+Sentence nr: 5
+If so, Ferguson would have something in common with most major American cities.
+
+Sentence nr: 6
+In about two-thirds of the U.S. cities with the largest police forces, the majority of police officers commute to work from another town.
+
+Sentence nr: 7
+This statistic is intimately tied to the diversity of the police force: Black and Hispanic officers are considerably more likely to reside in the cities they police than white ones.
+
+Sentence nr: 8
+In New York, for example, 62 percent of the police force resides within the five boroughs — a comparatively high figure.
+
+Sentence nr: 9
+But there’s a stark racial divide.
+
+Sentence nr: 10
+Seventy-seven percent of black New York police officers live in the city, and 76 percent of Hispanic ones do, but the same is true for only 45 percent of white officers.
+
+Sentence nr: 11
+This data comes from the U.S.
+
+Sentence nr: 12
+Equal Employment Opportunity Commission (EEOC) and the Census Bureau, which together provide detail on the racial composition of government workers in large American cities.
+
+Sentence nr: 13
+We were alerted to the data set by a Washington Post analysis of the racial demographics of each city’s police force.
+
+Sentence nr: 14
+The census data also includes detail on how many police officers live in the cities where they serve.
+
+Sentence nr: 15
+On average, among the 75 U.S. cities with the largest police forces, 60 percent of police officers reside outside the city limits.
+
+Sentence nr: 16
+(These figures exclude Honolulu, for which detailed data on residency was not available.)
+
+Sentence nr: 17
+But the share varies radically from city to city.
+
+Sentence nr: 18
+In Chicago, 88 percent of police officers live within the city boundaries — and in Philadelphia, 84 percent do.
+
+Sentence nr: 19
+But only 23 percent do so in Los Angeles.
+
+Sentence nr: 20
+Just 12 percent of Washington police live in the District — and only 7 percent of officers in Miami live within city limits.
+
+Sentence nr: 21
+These differences reflect a combination of three major factors: a city’s racial composition, whether it has a residency requirement for police and its geography.
+
+Sentence nr: 22
+On average among the 75 cities, 49 percent of black police officers and 47 percent of Hispanic officers live within the city limits.
+
+Sentence nr: 23
+But just 35 percent of white police officers do.
+
+Sentence nr: 24
+The disparity is starkest in cities with largely black populations.
+
+Sentence nr: 25
+In Detroit, for example, 57 percent of black police officers live in the city but just 8 percent of white ones do.
+
+Sentence nr: 26
+Memphis, Tennessee; Baltimore; Birmingham, Alabama; and Jackson, Mississippi — also majority black — likewise have large racial gaps in where their police officers live.
+
+Sentence nr: 27
+Cities may also vary in their residency requirements — for example, Los Angeles doesn’t require police to live in the city; Philadelphia used to require that its officers live within the city boundaries.
+
+Sentence nr: 28
+Furthermore, such regulations are enforced to varying degrees.
+
+Sentence nr: 29
+Whereas Boston ostensibly has a residency requirement for police, for example, it’s routinely flouted — and the Census Bureau data suggests that about half of Boston’s police officers live outside the city.
+
+Sentence nr: 30
+Geography also plays some role.
+
+Sentence nr: 31
+Jacksonville, Florida, has more than 80 percent of its police officers living within the city limits.
+
+Sentence nr: 32
+That may reflect its sprawling boundaries; the city proper has an unusually high share of the metro area’s population.
+
+Sentence nr: 33
+By contrast, the city of Atlanta, which is small compared with metro Atlanta’s population, has just 14 percent of its police force living in town.
+
+Sentence nr: 34
+The city of St. Louis, near Ferguson, has a residency requirement with an out clause.
+
+Sentence nr: 35
+There, police are allowed to move outside the city after seven years on the force.
+
+Sentence nr: 36
+White police officers have been more likely to take advantage of the provision; 46 percent of them live outside St. Louis, whereas 32 percent of its black ones do.
+
+Sentence nr: 37
+There isn’t detailed data available on Ferguson, whose population is too small to have required detailed reporting to the EEOC.
+
+Sentence nr: 38
+But in our effort to spot-check the census data, we discovered that many communities with a strict police residency requirement have an active debate about whether to relax the requirement — while nearly every town without one is arguing about whether to impose one.
+
+Sentence nr: 39
+Ferguson is no outlier in this regard, but the events there may shape the debates for years to come.
+
+Sentence nr: 40
+Further details on these 75 cities are included in the searchable table below (asterisks mean there were fewer than 100 officers in the category) and can be found on GitHub.
+
+Sentence nr: 41
+NOTE TO READERS (Aug. 21, 1:39 p.m.): The Census Bureau numbers we are using are potentially going to differ from other counts for three reasons:
+
+The census category for police officers also includes sheriffs, transit police and others who might not be under the same jurisdiction as a city’s police department proper.
+
+Sentence nr: 42
+The census category won’t include private security officers.
+
+Sentence nr: 43
+The census data is estimated from 2006 to 2010; police forces may have changed in size since then.
+
+Sentence nr: 44
+There is always a margin of error in census numbers; they are estimates, not complete counts.
+
+Sentence nr: 45
+CORRECTION (Aug. 20, 5:07 p.m.): A previous version of this article said Philadelphia police officers are currently required to live within city limits.
+
+Sentence nr: 46
+They are not.
+

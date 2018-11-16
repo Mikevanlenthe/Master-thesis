@@ -1,0 +1,60 @@
+Article: buster-posey-mvp
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1130
+Raw number of types: 446
+Raw Type token ratio (higher = more diversity in language use): 0.39469026548672564
+
+100 most freq tokens before (pre)processing: 
+[('the', 8560), (',', 8207), ('.', 5849), ('of', 4262), ('a', 3692), ('to', 3443), ('in', 3219), ('and', 3155), ('’', 2995), ('that', 1934), ('s', 1707), ('for', 1443), ('is', 1424), ('on', 1237), ('it', 1234), (':', 1135), ('are', 1026), ('“', 965), ('”', 964), ('—', 907), ('at', 900), ('as', 893), ('with', 885), ('we', 838), ('but', 820), ('(', 820), (')', 818), ('by', 817), ('percent', 790), ('more', 764), ('i', 733), ('this', 716), ('or', 692), ('our', 673), ('trump', 663), ('have', 656), ('from', 649), ('they', 643), ('you', 633), ('t', 622), ('was', 622), ('about', 594), ('than', 573), ('be', 570), ('who', 537), ('team-logo', 535), ('has', 533), ('one', 528), ('data', 519), ('an', 503), ('were', 494), ('not', 458), ('?', 457), ('he', 447), ('all', 441), ('so', 423), ('there', 419), ('<', 414), ('>', 408), ('their', 405), ('1', 402), ('how', 388), ('polls', 385), ('his', 384), ('like', 377), ('verdict', 377), ('if', 370), ('said', 367), ('other', 366), ('can', 354), ('which', 353), ('what', 348), ('some', 345), ('people', 332), ('when', 325), ('most', 324), ('had', 322), ('out', 320), ('also', 308), ('those', 304), ('up', 280), ('only', 267), ('each', 267), ('get', 266), ('just', 262), ('two', 243), ('been', 237), ('do', 236), ('time', 234), ('these', 228), ('its', 224), ('new', 224), ('github', 223), ('world', 223), (';', 222), ('will', 217), ('%', 216), ('them', 215), ('would', 214), ('year', 213)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 932
+Number of types: 424
+Type token ratio: 0.45493562231759654
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, buster, posey, pitch, mvp, rob, arthur, baseball, data, github, github, buster, posey, ball, ross, franklin, ap, top, replacement, leaderboard, mlb, player, mike, trout, harper, lack, war, buster, posey, deserving, mvp, skill, war, doesn, detect, league, pitch, framer, bar, posey, candidate, basis, percent, average, trout, harper, percent, percent, value, player, posey, contender, bar, version, war, art, pitch, way, umpire, talent, zone, zone, ability, turn, impact, framing, framer, worth, year, season, posey, value, win, worth, win, trout, mystery, posey, posey, pitch, quality, stillness, example, consider, pitch, pitcher, chris, heston, posey, body, impact, pitch, notice, glove, zone, umpire, pitch, plate, posey, team, backup, andrew, susac, framer, number, posey, susac, strike, effect, pitch2, pitch, posey, strike, susac, ball, difference, technique, susac, maneuver, posey, glove, zone, manner, back, pitch, ball, bit, posey, level, journeyman, mlb, catcher, jason, kendall, thing, pitch, framing, ability, catcher, reputation, kendall, argument, catcher, framing, technique, gifs, opportunity, confirmation, bias, posey, framer, way, greatness, technique, posey, susac, location, strike, zone, number, code, amount, movement, frame, pitch, sample, don, ability, pitch, stillness, posey, motionless, isn, catch, posey, susac, momentum, ball, tenth, motion, ball, pitcher, posey, stage, catch, posey, ball, pause, pause, return, throw, path, comparison, ball, briefly, throw, susac, posey, method, catchers6, stillness, force, pattern, motion, tranquility, posey, posey, contender, mvp, war, win, posey, trout, war, framing, technique, account, posey, player, baseball, right')
+
+('VBP', 'am, get, catcher, are, begin, turn, earn, call, are, get, don, do, have, have, know, are, have, agree, dampen, toss, posey, factor, take')
+
+('VBG', 'framing, hitting, framing, receiving, being, opposing, swinging, making, framing, putting, manipulating, framing, being, starting, making, receiving, pulling, standing, chalking, looking, complicating, framing, trapping, snatching, quieting, returning, extending, driving, framing, contrasting, framing')
+
+('VBZ', 'makes, catches, possesses, is, begins, happens, has, does, comes, does, remains, absorbs, posey, drags, is, is, has, has, has, susac, tries, does, moves, lifts, stays, is, is, is, is, is, transitions, holds, is, falls, is, has, is')
+
+('JJ', 'potential, databusterposeymvp, san, francisco, fangraphs, leading, valuable, bryce, comparative, san, francisco, secret, mvp, league, average, respectively, defensive, current, such, posey, important, defensive, good, lessoptimal, good, significant, good, entire, total, umps, good, good, other, notice, motionless, valuable, leagueaverage, overall, other, similar, same, exaggerated, same, former, such, difficult, previous, posey, actual, exact, same, strict, total, many, total, second, small, good, good, simple, quiet, second, smoothly, susac, motionless, short, good, posey, susac, relative, extra, legitimate, fangraphs, defensive, careful, unnoticed')
+
+('VBN', 'filed, called, racked, described, taken, cost, called, called, relied, caught, noted, stiller, jagged, stolen')
+
+('NNS', 'data, giants, wins, candidates, giants, accounts, framers, pitches, strikes, pitches, balls, scares, batters, pitches, estimates, wins, runs, catchers, strikes, balls, umpires, framers, calls, catchers, veterans, coaches, giants, pitches, pitchers, words, differences, strikes, studies, anecdotes, reasons, terms, receptions, criteria, catches, factors, catchers, framings, places, catchers, pauses, videos, accelerates, suggests, strikes, becomes, skills')
+
+('VB', 'find, be, consider, look, cause, call, strike, be, keep, add, understand, posey, appear, see, watch, get, disprove, creep, quantify, calculate, contrast, receive, grade, say, help, explain, go, be')
+
+('JJS', 'best, best, most, least, best')
+
+('JJR', 'better, better, catcher, more, higher, less, less, more, more')
+
+('VBD', 'put, wanted, crossed, did, received, was, argued, found, did, took, limited, removed, wrote, was')
+
+100 most freq tokens after processing: 
+[('the', 8560), ('of', 4262), ('to', 3443), ('in', 3221), ('and', 3155), ('that', 1939), ('for', 1444), ('is', 1426), ('it', 1240), ('on', 1237), ('are', 1028), ('at', 901), ('as', 893), ('with', 885), ('we', 838), ('but', 820), ('by', 817), ('percent', 799), ('more', 764), ('this', 716), ('or', 692), ('our', 673), ('trump', 664), ('have', 656), ('from', 649), ('they', 643), ('you', 634), ('was', 622), ('about', 594), ('than', 573), ('be', 572), ('who', 537), ('teamlogo', 535), ('has', 533), ('one', 531), ('data', 519), ('an', 503), ('were', 494), ('not', 458), ('he', 447), ('all', 442), ('so', 424), ('there', 419), ('their', 405), ('how', 388), ('polls', 385), ('his', 384), ('like', 377), ('verdict', 377), ('if', 370), ('other', 367), ('said', 367), ('can', 354), ('which', 353), ('what', 348), ('some', 345), ('people', 332), ('most', 325), ('when', 325), ('out', 323), ('had', 322), ('also', 308), ('those', 304), ('up', 281), ('each', 268), ('only', 267), ('get', 266), ('10', 266), ('just', 262), ('two', 243), ('been', 238), ('time', 238), ('do', 237), ('bar', 229), ('these', 228), ('11', 224), ('its', 224), ('new', 224), ('github', 223), ('world', 223), ('us', 217), ('will', 217), ('them', 216), ('would', 214), ('year', 214), ('13', 209), ('no', 205), ('positive', 205), ('much', 204), ('my', 199), ('over', 198), ('points', 198), ('number', 196), ('team', 196), ('because', 195), ('polling', 193), ('many', 190), ('14', 190), ('first', 190), ('after', 186)]

@@ -1,0 +1,60 @@
+Article: study-drugs
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1573
+Raw number of types: 535
+Raw Type token ratio (higher = more diversity in language use): 0.34011443102352196
+
+100 most freq tokens before (pre)processing: 
+[(',', 3007), ('the', 2998), ('.', 1873), ('of', 1447), ('a', 1269), ('in', 1195), ('to', 1151), ('and', 1056), ('’', 884), ('that', 684), (':', 639), ('s', 520), ('is', 484), ('for', 480), ('on', 456), ('it', 447), ('our', 447), ('verdict', 377), ('with', 345), ('at', 336), ('are', 320), ('“', 315), ('”', 314), ('more', 311), ('by', 301), ('(', 300), (')', 300), ('1', 291), ('percent', 284), ('i', 284), ('—', 282), ('as', 281), ('trump', 277), ('this', 267), ('but', 263), ('you', 234), ('we', 233), ('than', 229), ('from', 226), ('have', 221), ('was', 215), ('about', 203), ('data', 201), ('or', 200), ('t', 193), ('like', 192), ('positive', 188), ('be', 182), ('an', 176), ('has', 172), ('they', 169), ('he', 163), ('one', 159), ('who', 159), ('were', 152), ('donald', 146), ('his', 144), ('all', 142), ('other', 135), ('most', 132), ('not', 132), ('neutral', 132), ('so', 128), ('<', 128), ('their', 127), ('>', 126), ('?', 125), ('there', 124), ('those', 124), ('when', 124), ('people', 123), ('if', 121), ('out', 121), ('can', 116), ('up', 115), ('/', 111), ('which', 111), ('what', 111), ('get', 108), ('how', 105), ('some', 103), ('just', 100), ('only', 97), ('my', 96), ('each', 95), ('me', 93), ('2', 92), ('had', 91), ('also', 90), (';', 89), ('state', 87), ('do', 84), ('github', 82), ('negative', 82), ('trump�', 82), ('its', 81), ('said', 81), ('10', 81), ('new', 80), ('first', 79)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1368
+Number of types: 509
+Type token ratio: 0.37207602339181284
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'nov, only, emma, dake, adderall, several, due, last, caffeinefueled, many, other, adhd, adhd, many, similar, high, risky, ii, same, potential, prescribed, adhd, similar, effective, unlikely, addictive, addictive, willing, nonmedical, last, adhd, epidemic, young, paradoxical, competitive, low, nonmedical, likely, same, recent, national, annual, white, black, common, likely, use2, young, likely, nonstudent, western, nonmedical, acceptable, nonmedical, social, nonmedical, popular, certain, collegebycollege, popular, other, such, popular, new, rocky, popular, new, single, important, study, popular, selective, vertical, popular, positive, significant, previous, popular, competitive, multiple, such, high, gpa, lowerachieving, stay, likely, other, previous, likely, likely, significant, adderall, low, other, third, likely, low, likely, likely, stressed, academic, many, clear, academic, recent, nsduh, likely, first, exam, other, conventional, latter, exam, exam, long, likely, wrong, nonmedical, likely, tempting, athlete, clear, nonadhd, available, many')
+
+('VBP', 'am, aren, get, wouldn, agree, have, use, are, believe, use, re, use, are, are, are, weren, nsduh, do, do, are, are, imply, look, find, use, have, tend, procrastinate, do, are, use, are, do, are, use, are, are, are, are, make, use, use, use, experience, take')
+
+('NN', 'college, adderall, pierson, data, github, github, illustration, illustration, appeal, drug, focus, attention, span, article, draft, mania, repeat, deadline, drug, world, speed, proportion, adderall, study, ritalin, vyvanse, use, percent, analysis, pharmacy, diagnosis, percent, disease, control, prevention, analysis, adderall, prescription, doctor, example, behavior, drug, enforcement, administration, schedule, drug, category, cocaine, abuse, adderall, evidence, cognition, risk, use, coverage, college, cnn, rise, study, college, year, clinton, foundation, misuse, college, study, college, college, study, study, gpas, study, emphasis, study, drug, use, college, part, government, report, college, age, college, data, survey, drug, use, health, government, survey, difference, times1, difference, college, percent, vs, percent, difference, food, percent, vs, percent, ritalin, study, drug, age, range, college, nonprescription, research, drug, use, adult, college, student, college, percent, trend, divin, professor, illinois, university, prescription, drug, use, behavior, college, study, college, study, percent, fraternity, adhd, evidence, environment, usage, study, question, nichecom, information, niche, total, college, campus3, data, college, location, selectivity, example, study, adderall, ritalin, england4, percent, college, mountain, study, campus, versus, percent, england, example, school, drug, use, campus, niche, study, test, chart, point, school, horizontal, axis, percentile, act, score, axis, share, study, campus, correlation, act, score, drug, use, research, pattern, nonprescription, study, college, school, frequency, advance, night, assistance, adderall, awake, stay, divin, research, nonprescription, adderall, ritalin, nsduh, data, college, depression, gpas, depression, causality, way, school, order, factor, alcohol, marijuana, example, adderall, performance, study, part, stress, analysis, time, data, support, finding, example, google, adderall, college, summer, study, adderall, highincome, nsduh, family, adderall, use, family, depression, suicide, exam, employee, deadline, adderall, everyone, divin, idea, prescription, use, code, analysis, github, adhd')
+
+('NNS', 'students, ones, drugs, data, datastudydrugs, kelsey, kelsey, dake, months, weeks, people, americans, drugs, medications, prescriptions, rates, adolescents, centers, people, drugs, ways, doses, medications, media, students, drugs, drugs, students, drugs, adults, students, drugs, patterns, drugs, students, schools, students, drugs, highachievers, students, data, students, people, americans, times, times, families, stamps, times, noncollegestudents, students, matters, students, counterparts, studies, students, drugs, campuses, members, stimulants, rates, drugs, types, colleges, data, people, neighborhoods, schools, surveys, students, drugs, data, drugs, schools, students, schools, drugs, students, differences, regions, surveys, trends, data, drugs, colleges, scores, students, students, drugs, colleges, admissions, standards, highachievers, studies, students, drugs, gpa, factors, classes, hours, students, students, students, ways, students, backs, students, levels, correlations, causes, students, students, students, schools, students, gpas, students, studies, students, drugs, data, students, stimulants, months, sources, searches, towns, months, months, tweets, periods, adults, adults, hours, jobs, data, adults, incomes, rates, incomes, adults, levels, steroids, data, individuals, stimulants, benefits, adults, drugs')
+
+('VBG', 'abusing, increasing, listening, overwhelming, using, increasing, according, snorting, interesting, falling, using, being, being, using, incoming, controlling, skipping, studying, attempting, studying, struggling, using, highachieving, mentioning, working, confronting, confronting, using')
+
+('VBN', 'filed, taken, loomed, tempted, increased, increased, recommended, used, used, mixed, discussed, used, used, used, used, sought, named, connected, found, found, used, found, depressed, used, considered, depressed, thought, read')
+
+('VB', 'understand, finish, facebook, reptilia, be, make, keep, treat, be, be, improve, take, be, push, be, have, be, receive, engage, nonprescription, use, be, obtain, use, affect, answer, help, choose, miss, study, expect, be, be, study, cram, struggle, be, have, mean, run, be, feel, be, blame, abuse, take, be, take, use, struggle, be, use, consider, student, seem, be, suggest, support')
+
+('VBZ', 'treats, has, runs, is, is, is, is, classifies, is, is, has, isn, stems, ages, includes, is, shows, comes, drives, amanda, provides, represents, shows, shows, is, has, is, has, seems, isn, is')
+
+('VBD', 'was, wrote, found, described, said, were, looked, turned, were, looked, were, said, cited, reported, gave, were, reported, were, showed, were, were, had, said, were, spent, focused, said, had, reported, were, found, were, found, spiked, dropped, found, peaked, was, showed, were, had, were, had, used, reported, were, was')
+
+('JJR', 'easier, more, more, closer, smaller, easier, more, more, more, higher, more, more, lower, higher, less, older, greater, higher')
+
+('JJS', 'highest, lowest')
+
+100 most freq tokens after processing: 
+[('the', 2998), ('of', 1447), ('in', 1195), ('to', 1151), ('and', 1056), ('that', 686), ('is', 484), ('for', 481), ('on', 456), ('it', 448), ('our', 447), ('verdict', 377), ('with', 345), ('at', 336), ('are', 320), ('more', 311), ('by', 301), ('percent', 288), ('as', 281), ('trump', 277), ('this', 267), ('but', 263), ('you', 234), ('we', 233), ('than', 229), ('from', 226), ('have', 221), ('was', 215), ('about', 203), ('data', 201), ('or', 200), ('like', 192), ('positive', 189), ('be', 183), ('an', 176), ('has', 172), ('they', 169), ('he', 163), ('one', 162), ('who', 159), ('were', 152), ('donald', 147), ('his', 144), ('all', 142), ('other', 136), ('most', 132), ('not', 132), ('neutral', 132), ('so', 129), ('their', 127), ('there', 124), ('those', 124), ('when', 124), ('people', 123), ('out', 122), ('if', 121), ('can', 116), ('up', 115), ('which', 111), ('what', 111), ('get', 108), ('how', 105), ('some', 103), ('just', 100), ('only', 97), ('my', 96), ('each', 95), ('me', 94), ('10', 93), ('had', 91), ('also', 90), ('bar', 89), ('state', 87), ('do', 84), ('github', 82), ('first', 82), ('negative', 82), ('trump�', 82), ('its', 81), ('said', 81), ('new', 80), ('model', 78), ('films', 77), ('year', 73), ('two', 72), ('points', 72), ('polls', 72), ('would', 71), ('number', 71), ('likely', 69), ('national', 69), ('time', 68), ('�i', 67), ('these', 66), ('where', 65), ('last', 65), ('over', 64), ('2015', 64), ('any', 64), ('them', 63)]

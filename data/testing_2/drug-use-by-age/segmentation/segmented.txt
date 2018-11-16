@@ -1,0 +1,99 @@
+Sentence nr: 0
+Apr.
+
+Sentence nr: 1
+23, 2015 at 6:01 AM How Baby Boomers Get High By Anna Maria Barry-Jester and Andrew Flowers Filed under Public Health Get the data on GitHub GitHub data at data/drug-use-by-age FacebookTwitterEmail Reports over the past decade have detailed higher rates of illicit drug use, drug-related hospital admissions and overdoses among baby boomers in their later years than previous generations.
+
+Sentence nr: 2
+A Wall Street Journal article last month described a “Woodstock mentality” that’s causing aging Americans to carry their youthful drug habits with them into middle age.
+
+Sentence nr: 3
+A look at the data shows that plenty of baby boomers drink and smoke pot.
+
+Sentence nr: 4
+But a relatively small percentage consume drugs other than alcohol and marijuana.
+
+Sentence nr: 5
+Our analysis further reveals that boomers who do use drugs, including alcohol and marijuana, tend to use a lot.
+
+Sentence nr: 6
+The availability and public perception of different drugs change, making it difficult to compare the drug use of a given age group over time.
+
+Sentence nr: 7
+We were, however, able to analyze a 2012 survey on drug use from the federal Substance Abuse and Mental Health Data Archive (SAMHDA) to see what drugs baby boomers are taking now.
+
+Sentence nr: 8
+Are their patterns of use different from other age groups?
+
+Sentence nr: 9
+How similar are people within the baby-boomer cohort1 when it comes to drug use?
+
+Sentence nr: 10
+<bar>Not surprisingly, boomers aged 50 to 64 have lower rates of drug use overall than their younger contemporaries; they also use less of each individual drug.
+
+Sentence nr: 11
+Alcohol and marijuana were the most commonly used drugs among all age groups (alcohol use was so high among boomers, 67 percent, that it dwarfed the differences among other drugs, and we opted to remove it from the chart above).</bar> <bar>For baby boomers, the next in line was prescription pain relievers, with 2.52 percent saying they’d used one for non-prescription purposes at least once in the previous year.
+
+Sentence nr: 12
+Still, a smaller percentage of boomers used pain relievers than any other group over the age of 13.2 Respondents aged 50 to 64 also reported much lower use of hallucinogens, tranquilizers and stimulants (like amphetamines or Ritalin) than younger respondents.</bar> <bar>So the use of some drugs may be less common among boomers than other age groups, but it’s still surprisingly frequent for users in the 50 and over crowd.
+
+Sentence nr: 13
+Boomers who’d used cocaine reported using it on twice as many days in the previous year as 35- to 49-year-olds (36 days versus 15) and more than quadruple the number of days as any other age group.
+
+Sentence nr: 14
+The median pot-smoking boomer got high 52 days in a year, more often than 35- to 49-year-olds (48 days) but less often than 30- to 34-year-olds (72 days).
+
+Sentence nr: 15
+For all age groups over 21, including the boomers, the reported median use among drinkers was the same: 52 days.</bar> (It’s hard not to notice the potential reporting errors here; do people default to saying they drink alcohol about once a week?
+
+Sentence nr: 16
+Are boomers more comfortable reporting their drug use than younger respondents?)
+
+Sentence nr: 17
+<line> While people in the baby-boom generation use more drugs after they’ve turned 50 than their parents or grandparents did, younger boomers use a lot more than older boomers.
+
+Sentence nr: 18
+From 2003 to 2012, illicit drug use, including marijuana, increased from 1.1 percent to 3.6 percent among 60- to 64-year-olds.
+
+Sentence nr: 19
+For 50- to 54-year-olds, the rate went from 3.9 percent to 7.2 percent over the same period.</line> When the boomers started turning 50, reports began warning about high use of narcotic painkillers among people aged 50-64.
+
+Sentence nr: 20
+But the difference in drug use between younger and older boomers seems to be true for painkillers as well, with use dropping among older boomers as it grows for younger ones.
+
+Sentence nr: 21
+<bar> While the painkiller category on the survey represents dozens of different prescription drugs, an additional set of questions asked specifically about one of the most common and problematic drugs from an addiction and abuse standpoint: OxyContin.
+
+Sentence nr: 22
+We found that just 0.36 percent of 50- to 64-year-olds said they’d used OxyContin in the previous year, compared with a high of 1.72 percent among 20-year-olds.
+
+Sentence nr: 23
+Still, given the extremely addictive and deadly nature of the drug, any illicit use is cause for concern.
+
+Sentence nr: 24
+And it could be that some subgroup of boomers is particularly more likely to use OxyContin — something this analysis doesn’t answer.</bar> All of this data relates to use, which isn’t equivalent to abuse.
+
+Sentence nr: 25
+From a public health standpoint, six drinks in a week is less concerning than binging on six drinks in a night; the occasional puff of marijuana is less cause for concern than a debilitating addiction.
+
+Sentence nr: 26
+At present, older adults still make up a smaller share of admissions to federally funded drug treatment facilities than their share of the population.
+
+Sentence nr: 27
+But baby boomers are more likely to die from an overdose than other generations, according to research done by Richard Miech, a professor at the University of Michigan.
+
+Sentence nr: 28
+Miech said the lack of information on the death certificates makes it hard to know which drugs were responsible for the overdose deaths.
+
+Sentence nr: 29
+The reasons for drug use are also different among an older population than younger users, regardless of generation.
+
+Sentence nr: 30
+Researchers say that for older people, it’s less about getting high and more about coping with chronic pain, loss, social isolation or the effects of aging on the brain.
+
+Sentence nr: 31
+Identifying shared traits among baby boomers with drug problems may reveal a different narrative than just a generation with a predilection for mind-altering substances.
+
+Sentence nr: 32
+Download the data behind this story from GitHub.
+

@@ -1,0 +1,123 @@
+Sentence nr: 0
+Oct. 18, 2016 at 3:01 PM Top Pollsters Expect Clinton To Win By Carl Bialik Filed under 2016 Election FacebookTwitterEmail Top public election pollsters are almost unanimous in their belief that Hillary Clinton will be the next president and are pretty sure that Republicans will retain control of the House.
+
+Sentence nr: 1
+But they’re much less sure about who will control the next Senate.
+
+Sentence nr: 2
+Many also anticipate a bigger gap than usual between late polling and the election result.
+
+Sentence nr: 3
+Those are some of the highlights from FiveThirtyEight’s latest poll of people working at some of the most prominent polling firms in the country.
+
+Sentence nr: 4
+Intermittently since 2014, we’ve polled people from the most active firms in our polling database — the people who conduct a large portion of the polls we use in our presidential and Senate forecasts.
+
+Sentence nr: 5
+In our poll, open from Oct. 8 through Oct. 13, we asked 77 pollsters questions about the 2016 campaign and the state of their industry; 33 people responded.1 (You can find the questionnaire in this PDF, all the responses on GitHub, and a list of the pollsters who responded in the footnotes.2) All but two of the 28 pollsters who agreed to predict the winner of the presidential election chose Clinton.
+
+Sentence nr: 6
+However, collectively, they weren’t as certain as our forecast, giving her an average of just a 72 percent chance of winning.3 (Clinton has had at least a 77 percent chance of winning in both our polls-only and polls-plus models since we sent out our pollster poll.)
+
+Sentence nr: 7
+On average, pollsters predicted Clinton would get 91 percent of black voters’ support.
+
+Sentence nr: 8
+And overwhelmingly — 22 of 29 — pollsters said Clinton was more likely to win the popular vote by at least 10 percentage points than to lose it.
+
+Sentence nr: 9
+Asked why, one pollster who asked not to be named said, “I believe Donald Trump can keep talking for four more weeks and say even more racist/misogynistic/horribly offensive things.” Another, Frank Orlando of Saint Leo University, said, “The current collapse of the Republican Party seems like a good place to start.” Collectively, pollsters think it’s more likely than not that the next president will be working with a Democratic Senate, but with a razor-thin margin.
+
+Sentence nr: 10
+On average, they predict Republicans will hold 49.7 seats, and all but one of the 26 pollsters who offered a prediction expected neither party to have more than 52 seats.
+
+Sentence nr: 11
+(If pollsters’ collective prediction of a Clinton win is true, Democrats will need only 50 seats to control the Senate.)
+
+Sentence nr: 12
+Pollsters think the House will stay in Republican hands: Just one of the 23 who made a prediction expected the GOP to lose its majority, and collectively they expected the party to clear the needed 218 seats by 13.4 All these predictions come with a large chunk of uncertainty — because pollsters, like us, look to the polls, and today’s polls’ estimates of voter preferences could be different than the actual vote totals.
+
+Sentence nr: 13
+On average, polls conducted within the final 21 days before the election — a period which in 2016 is this Tuesday — differ from the final result by 3.6 percentage points.
+
+Sentence nr: 14
+Far more pollsters think that gap will be larger this year than average than think it will be smaller: 11 to 1.
+
+Sentence nr: 15
+Another 18 think it will be about the same.
+
+Sentence nr: 16
+Chris Borick of Muhlenberg College predicted that the greater number of polls (good) will cancel out the variable methodology and quality of polls (bad).
+
+Sentence nr: 17
+Among reasons the pessimists cited: the difficulty of predicting the ultimate choice of the relatively large — though declining — number of undecided voters and supporters of third-party candidates, polling misses in the primaries and the potential effect of social desirability bias on Trump supporters’ desire to respond to polls and state their candidate preference.
+
+Sentence nr: 18
+The most commonly cited reason, though, is the steady stream of unexpected news about the candidates and the campaign.
+
+Sentence nr: 19
+That news included, while our poll was open, a series of accusations by women that Trump acted as he said he did in his boast to Billy Bush — in a 2005 video released just before our poll — by sexually assaulting women.
+
+Sentence nr: 20
+“Who knows what the next episode of this drama will be and how the electorate will respond?” asked Robert M. Domine of Critical Insights.
+
+Sentence nr: 21
+We also asked pollsters about the states where polling and demographics diverge the most: Which indicator would prove more accurate?
+
+Sentence nr: 22
+Not surprisingly, 13 of the 16 who chose a side chose polling, saying it would better capture turnout and the unique nature of this election.
+
+Sentence nr: 23
+“Demographic models are based on traditional voting patterns.
+
+Sentence nr: 24
+This election may be altering how certain demographic groups act, and so it will take a while for the demographic models to catch up,” Orlando said.
+
+Sentence nr: 25
+Where would pollsters most like to poll?
+
+Sentence nr: 26
+Given a blank check, the pollsters would go to Ohio and Florida.
+
+Sentence nr: 27
+These aren’t lightly polled states: We’d counted 88 presidential polls in Florida and 72 in Ohio as of Tuesday morning.
+
+Sentence nr: 28
+But seven pollsters nonetheless named Ohio as the state they’d most want to poll, mainly because of how important it is in determining whether Trump has any chance to win.
+
+Sentence nr: 29
+“This is a must-win for Trump, and without it the race is essentially over,” said Spencer Kimball of Emerson College.
+
+Sentence nr: 30
+The five pollsters who named Florida cited its pivotal status, but also the challenges it presents — languages, several different demographics groups and regional variation — and the important and close Senate race.
+
+Sentence nr: 31
+“It’s a complicated state that matters a lot!” said Ann Selzer of Selzer & Co. New Hampshire — which could be a leading indicator if Trump mounts a comeback — Pennsylvania, Georgia and Arizona also all got multiple votes.
+
+Sentence nr: 32
+Alaska, a surprisingly close race that ranks high on our editor in chief’s polling wish list, got one vote, from Nick Gourevitch of Global Strategy Group.
+
+Sentence nr: 33
+“Seems like some fun stuff going on up there but a really hard state to poll so you’d need that blank check,” Gourevitch said.
+
+Sentence nr: 34
+There’s plenty more to dig into in the full polling results.
+
+Sentence nr: 35
+A few other findings that caught my eye: Most respondents were critical of online polls.
+
+Sentence nr: 36
+Of the 19 who felt the media’s commissioning and coverage of online polls was miscalibrated this year, 15 thought there was too much.
+
+Sentence nr: 37
+And 13 of 21 with opinions on the USC Dornsife/Los Angeles Times poll’s approach of tracking the same voters throughout the election thought it was not smart.
+
+Sentence nr: 38
+The most popular choices for demographic variables that pollsters wish they acquired more routinely were religiosity and marital status.
+
+Sentence nr: 39
+Given the chance to turn the tables and rate our pollster ratings, the pollsters gave them an average grade of B.
+
+Sentence nr: 40
+VIDEO: Trump’s last chance?
+

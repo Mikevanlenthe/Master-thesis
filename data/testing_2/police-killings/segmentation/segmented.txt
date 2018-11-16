@@ -1,0 +1,93 @@
+Sentence nr: 0
+Jun.
+
+Sentence nr: 1
+3, 2015 at 11:58 AM Where Police Have Killed Americans In 2015 By Ben Casselman Filed under Police Killings Get the data on GitHub GitHub data at data/police-killings FacebookTwitterEmail A makeshift memorial at the scene where Freddie Gray was arrested in Baltimore.
+
+Sentence nr: 2
+David Goldman / AP A makeshift memorial at the scene where Freddie Gray was arrested in Baltimore.
+
+Sentence nr: 3
+David Goldman / AP On Monday, the Guardian launched “The Counted,” an impressive interactive database of Americans killed by police since the start of the year.
+
+Sentence nr: 4
+As of Tuesday, the database had 467 entries; the Guardian plans to add to it going forward.
+
+Sentence nr: 5
+As we’ve written repeatedly, official statistics on police killings are deeply flawed.
+
+Sentence nr: 6
+So the Guardian is building its data set by combining media coverage, reader submissions and open-sourced efforts like Fatal Encounters and Killed by Police, which we’ve previously found to be reliable.
+
+Sentence nr: 7
+The Guardian then verifies those incidents with its own reporting; it calls its data “verified crowdsourced.” Wherever possible, it includes demographic information on those killed, such as age, sex and race,1 as well as basic details on the incidents themselves.
+
+Sentence nr: 8
+The Guardian data set also includes the addresses where the killings took place.
+
+Sentence nr: 9
+My colleague Reuben Fischer-Baum converted those addresses into census tracts, which allows us to look at demographic and economic information on the neighborhoods where these deaths occurred.
+
+Sentence nr: 10
+(The Guardian is making its full data set available for download, which gives us, as well as other researchers, journalists and the public at large, a chance to build on its work.)
+
+Sentence nr: 11
+The table below gives some basic information on race2 and income by census tract.3 One thing that’s clear from the data: Police killings tend to take place in neighborhoods that are poorer and blacker than the U.S. as a whole.
+
+Sentence nr: 12
+About 30 percent of the killings — 139 of the 467 — took place in census tracts that are in the bottom 20 percent nationally in terms of household income.4 A quarter of those killed by police died in tracts with majority-black populations; nationally, just 7 percent of the population lives in majority-black tracts.
+
+Sentence nr: 13
+Black Americans were especially likely to be killed in poorer neighborhoods.
+
+Sentence nr: 14
+Of the 136 African-Americans killed by police who are in the Guardian’s database, 56 — more than 40 percent — died in tracts in the poorest 20 percent nationally.
+
+Sentence nr: 15
+But that may say more about overall racial inequality than about policing per se: African-Americans were killed in low-income areas at roughly the same rate that they live in them.5 Those numbers fit a narrative that emerged after the deaths of Michael Brown in Ferguson, Missouri, and of Freddie Gray in Baltimore.
+
+Sentence nr: 16
+Both occurred in poor, predominantly black neighborhoods with few jobs and limited educational opportunities.
+
+Sentence nr: 17
+Protesters who took to the streets after those deaths often cited economic conditions — along with police tactics they saw as discriminatory — as an underlying cause of their anger.
+
+Sentence nr: 18
+But by no means do all police killings fit this pattern.
+
+Sentence nr: 19
+Take one example: In February, Vincent Cordaro, a 57-year-old white man, was fatally shot in his home in Rockland County, New York – a New York City suburb where the median household income is more than $140,000.
+
+Sentence nr: 20
+Like most of the people in the Guardian’s database, Cordaro was armed when he died: According to news reports, he threatened his family with a shotgun and was killed after a seven-hour standoff with police.
+
+Sentence nr: 21
+But incidents that look more like ones that have been in the news — unarmed black men shot by police — can happen anywhere.
+
+Sentence nr: 22
+Frank Shephard III, for example, was shot in a census tract in Houston with a median household income of more than $80,000; police said he had fled a traffic stop.
+
+Sentence nr: 23
+The numbers in the table above are based on where people died, not where they lived.
+
+Sentence nr: 24
+In some cases, that can yield some strange results.
+
+Sentence nr: 25
+Natasha McKenna, for example, died in a county jail in Fairfax, Virginia, that happens to be in one of the richest census tracts in the country.
+
+Sentence nr: 26
+In other words, interpret the numbers with caution.
+
+Sentence nr: 27
+But thanks to the Guardian, and the groups whose data-collection efforts it relies on, we at least have some numbers to work with.
+
+Sentence nr: 28
+We’ve posted more data on GitHub.
+
+Sentence nr: 29
+The GitHub data also includes codes for the census tracts, which makes it easy to link it up to other census statistics.
+
+Sentence nr: 30
+We’d love to know what you find.
+

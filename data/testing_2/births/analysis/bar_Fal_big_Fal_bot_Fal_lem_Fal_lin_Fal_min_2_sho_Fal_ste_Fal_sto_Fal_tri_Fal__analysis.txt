@@ -1,0 +1,62 @@
+Article: births
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 661
+Raw number of types: 312
+Raw Type token ratio (higher = more diversity in language use): 0.4720121028744327
+
+100 most freq tokens before (pre)processing: 
+[('the', 9322), (',', 8929), ('.', 6351), ('of', 4625), ('a', 4115), ('to', 3721), ('in', 3515), ('and', 3431), ('’', 3338), ('that', 2083), ('s', 1898), ('for', 1608), ('is', 1527), ('on', 1356), ('it', 1350), (':', 1205), ('are', 1091), ('“', 1052), ('”', 1051), ('—', 1011), ('as', 1001), ('with', 971), ('at', 968), ('but', 910), ('we', 897), ('by', 887), ('(', 885), (')', 884), ('percent', 831), ('more', 828), ('i', 795), ('this', 789), ('or', 769), ('have', 734), ('was', 712), ('they', 702), ('from', 702), ('our', 688), ('you', 686), ('t', 681), ('trump', 663), ('1', 646), ('about', 640), ('than', 630), ('be', 629), ('one', 587), ('who', 587), ('has', 580), ('data', 563), ('an', 550), ('team-logo', 535), ('were', 531), ('not', 516), ('he', 494), ('?', 490), ('<', 482), ('all', 477), ('>', 476), ('their', 464), ('there', 452), ('so', 450), ('his', 438), ('how', 416), ('if', 408), ('like', 403), ('which', 393), ('other', 392), ('said', 390), ('can', 387), ('polls', 385), ('verdict', 377), ('what', 375), ('when', 374), ('2', 373), ('had', 368), ('some', 364), ('out', 350), ('people', 346), ('most', 335), ('also', 328), ('those', 322), ('up', 304), ('only', 290), ('just', 288), ('get', 287), ('each', 278), ('0', 273), ('two', 265), ('been', 260), ('time', 259), ('its', 252), ('these', 250), ('world', 249), ('do', 248), ('3', 247), (';', 244), ('github', 243), ('%', 240), ('would', 238), ('will', 237)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 547
+Number of types: 285
+Type token ratio: 0.5210237659963437
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'people, carl, bialik, data, data, thousands, babies, parents, doctors, newborns, births, deliveries, lots, parents, fears, fridays, births, fridays, falls, wards, months, lots, births, children, years, reasons, forums, births, obstetrics, cesareans, inductions, looks, effects, patterns, trends, attempts, dates, findings, births, data, researchers, effects, authors, data, births, data, parents, say, dates, births, results, ours, holidays, births, days, flowers')
+
+('VBP', 'are, are, expect, deliver, are, are, expect, are, have, are, are, cowrote, reran, expect, do')
+
+('JJ', 'superstitious, databirths, friday, other, many, induced, cesarean, double, superstitious, bad, longstanding, few, feb, vague, bad, luck, superstitious, superstitious, obstetrician, cesarean, 13th, bad, luck, universal, good, second, such, medical, planned, full, computational, statistician, complex, monthly, longterm, certain, previous, other, valentine, several, other, bayesian, third, recent, recent, other, key, high, consistent, whole, other, suppress, leap')
+
+('VB', 'have, get, take, tend, schedule, avoid, change, bugs, think, be, avoid, land, gelman')
+
+('VBN', 'baby, filed, born, scheduled, given, staffed, birthday, given, been, booked, become, given, planned, based, sent, been, scheduled')
+
+('NN', 'friday, github, github, bar, month, day, section, choice, chance, date, whammy, luck, number, month, effect, weekend, delivery, births1, parentstobe, try, parent, mom, pregnancy, website, office, lady, yea, sorry, day, site, section, belief, isn, day, household, mom, parent, forum, birth, friday, birthday, family, neel, shah, assistant, professor, gynecology, school, email, schedule, labor, friday, scientist, aki, vehtari, andrew, gelman, method, calendar, birth, extension, analysis, birth, day, halloween, cover, textbook, analysis, edition, line, vehtari, analysis, generation, birth, effect, line, bar, analysis, friday, finding, calendar, notice, christmas, month, bar, andrew, analysis')
+
+('VBG', 'parenting, tying, avoiding, bugging, saying, scheduling, teasing, separating, covering')
+
+('VBZ', 'falls, delivers, is, isn, didn, friday, friday, has')
+
+('JJR', 'fewer, lower, fewer, more, more')
+
+('VBD', 'treated, bar, wrote, won, wrote, forum, said, said, wrote, asked, laughed, said, said, had, had, said, developed, made, found, had, gave, was, had, were, ran, found, contributed')
+
+('JJS', 'smallest')
+
+('NNP', 'harvard')
+
+100 most freq tokens after processing: 
+[('the', 9322), ('of', 4625), ('to', 3721), ('in', 3517), ('and', 3431), ('that', 2088), ('for', 1609), ('is', 1529), ('on', 1356), ('it', 1356), ('are', 1093), ('as', 1001), ('with', 971), ('at', 969), ('but', 910), ('we', 897), ('by', 887), ('percent', 841), ('more', 828), ('this', 789), ('or', 769), ('have', 734), ('was', 712), ('they', 702), ('from', 702), ('our', 688), ('you', 687), ('trump', 664), ('about', 640), ('be', 632), ('than', 630), ('one', 590), ('who', 587), ('has', 580), ('data', 563), ('an', 550), ('teamlogo', 535), ('were', 531), ('not', 517), ('he', 494), ('all', 478), ('their', 464), ('there', 452), ('so', 451), ('his', 438), ('how', 416), ('if', 408), ('like', 403), ('which', 393), ('other', 393), ('said', 390), ('can', 387), ('polls', 385), ('verdict', 377), ('what', 375), ('when', 374), ('had', 368), ('some', 364), ('out', 354), ('people', 346), ('most', 336), ('also', 328), ('those', 322), ('10', 308), ('up', 305), ('only', 290), ('just', 288), ('get', 287), ('each', 279), ('bar', 276), ('two', 265), ('time', 264), ('been', 261), ('11', 256), ('its', 252), ('do', 250), ('these', 250), ('world', 249), ('github', 243), ('would', 238), ('will', 237), ('new', 235), ('year', 233), ('13', 232), ('no', 231), ('us', 229), ('them', 227), ('much', 227), ('average', 224), ('number', 222), ('team', 222), ('over', 215), ('points', 213), ('even', 211), ('12', 209), ('since', 208), ('because', 206), ('positive', 205), ('my', 204), ('many', 203)]

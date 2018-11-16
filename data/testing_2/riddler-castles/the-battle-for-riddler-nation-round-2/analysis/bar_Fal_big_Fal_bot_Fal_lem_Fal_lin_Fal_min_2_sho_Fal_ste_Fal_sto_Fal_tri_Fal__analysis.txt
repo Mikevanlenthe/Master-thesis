@@ -1,0 +1,58 @@
+Article: riddler-castles/the-battle-for-riddler-nation-round-2
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 858
+Raw number of types: 358
+Raw Type token ratio (higher = more diversity in language use): 0.4172494172494173
+
+100 most freq tokens before (pre)processing: 
+[('the', 2650), (',', 2616), ('.', 1607), ('of', 1247), ('a', 1119), ('in', 1020), ('to', 992), ('and', 896), ('’', 765), (':', 607), ('that', 582), ('s', 458), ('our', 442), ('for', 420), ('on', 416), ('is', 415), ('it', 398), ('verdict', 377), ('with', 306), ('at', 282), ('1', 282), ('trump', 277), ('“', 261), ('”', 260), ('—', 258), ('i', 255), ('are', 254), ('by', 252), ('more', 252), ('(', 248), (')', 248), ('percent', 243), ('but', 235), ('as', 232), ('this', 230), ('we', 207), ('than', 197), ('have', 194), ('from', 194), ('was', 189), ('positive', 187), ('about', 179), ('like', 178), ('you', 175), ('or', 167), ('data', 163), ('t', 160), ('an', 159), ('has', 152), ('he', 150), ('one', 148), ('be', 147), ('they', 146), ('donald', 146), ('his', 138), ('neutral', 132), ('who', 121), ('all', 117), ('their', 115), ('not', 114), ('were', 113), ('other', 113), ('so', 111), ('out', 110), ('<', 110), ('when', 110), ('/', 108), ('>', 106), ('most', 104), ('people', 104), ('?', 103), ('there', 102), ('what', 101), ('which', 98), ('get', 97), ('up', 97), ('some', 95), ('can', 95), ('if', 93), ('my', 92), ('those', 92), ('how', 90), ('2', 89), ('only', 86), ('just', 85), ('me', 85), (';', 83), ('state', 83), ('negative', 82), ('trump�', 82), ('model', 78), ('films', 77), ('do', 76), ('also', 75), ('said', 75), ('its', 74), ('10', 74), ('3', 74), ('new', 73), ('each', 73)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 682
+Number of types: 332
+Type token ratio: 0.4868035190615836
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, offer, hold, are, riddler, want, correct, are, need, have, carpool, start, have, submit, are, are, are, re, are, have, castle, send, split, don, begin, ve, ll, are, remove')
+
+('NN', 'battle, riddler, nation, round, oliver, roeder, riddler, illustration, welcome, riddler, week, math, logic, probability, express, something, movement, submit, answer, either1, shoutout, column, riddler, vacation, puzzle, dust, twitter, riddler, express, jerry, commute, problem, day, driver, drive, drive, home, foot, chance, driver, percent, chance, ticket, time, percent, chance, driver, percent, chance, percent, chance, state, license, driver, ticket, driver, driving, carpool, license, police, officer, carpool, route, maximum, ticket, morning, max, carpool, answer, riddler, demand, battle, riddler, nation, benevolent, reign, cyrus, hettle, battle, february, time, king, queen, land, archenemy, castle, value, conqueror, victory, enemy, way, castle, victory, number, distribution, enemy, war, submit, plan, time, game, intel, battle, github, chart, battle, battle, oneonone, battle, royal, queen, riddler, nation, conquer, rule, plan, solution, week, riddler, express, hekhuis, santa, barbara, california, winner, week, shape, puzzle, submitter, solution, book, math, approach, problem, square, strip, bottom, figure, rest, shape, rectangle, strip, side, solution, week, riddler, bambury, winner, week, puzzle, week, solution, want, email, oliverroeder, fivethirtyeightcom')
+
+('VBN', 'edited, filed, related, bitesized, headed, selected, ticketed, revoked, issued, lost, crowned, given, chosen, crowned, handed, provided, formed')
+
+('JJ', 'guillaume, kurkdjian, dear, classic, slowpuzzle, next, favorite, attic, lead, third, many, last, classic, popular, inaugural, new, distant, wartorn, victory, own, strategic, wouldbe, worth, same, valuable, theoretic, first, receive, possible, adapt, last, last, particular, strange, following, hard, systematic, experiment, individual, easy, side, length, eightbynine, last, classic, london, last, classic, riddle')
+
+('NNS', 'problems, things, types, weeks, meyers, coworkers, drivers, drivers, tickets, days, drivers, licenses, rules, castles, warlords, points, castles, points, soldiers, castles, soldiers, conquers, points, troops, points, forces, battles, points, soldiers, castles, plans, distributions, soldiers, plans, matchups, wars, congratulations, pieces, puzzles, squares, squares, congratulations')
+
+('VB', 'riddler, get, be, hint, find, work, work, driver, revoke, stop, be, expect, be, collect, distribute, fight, know, adjudicate, submit, tahna, cut, reassemble, form, square, have, do, see, be, be, deconstruct, add, haydon, submit')
+
+('VBZ', 'll, is, has, has, has, drives, is, is, is, has, sends, wins, has, wins, wins, shows, wins, wins, is, is, video')
+
+('VBG', 'collecting, careening, being, speeding, getting, evening, assuming, competing, distributing, king')
+
+('VBD', 'won, got, posted, diarmuid, appeared, coauthored, were')
+
+('JJR', 'more, earlier')
+
+100 most freq tokens after processing: 
+[('the', 2650), ('of', 1247), ('in', 1020), ('to', 992), ('and', 896), ('that', 584), ('our', 442), ('for', 421), ('on', 416), ('is', 415), ('it', 399), ('verdict', 377), ('with', 306), ('at', 282), ('trump', 277), ('are', 254), ('by', 252), ('more', 252), ('percent', 247), ('but', 235), ('as', 232), ('this', 230), ('we', 207), ('than', 197), ('have', 194), ('from', 194), ('was', 189), ('positive', 188), ('about', 179), ('like', 178), ('you', 175), ('or', 167), ('data', 163), ('an', 159), ('has', 152), ('one', 151), ('he', 150), ('be', 148), ('donald', 147), ('they', 146), ('his', 138), ('neutral', 132), ('who', 121), ('all', 117), ('their', 115), ('not', 114), ('were', 113), ('other', 113), ('so', 112), ('out', 111), ('when', 110), ('most', 104), ('people', 104), ('there', 102), ('what', 101), ('which', 98), ('get', 97), ('up', 97), ('some', 95), ('can', 95), ('if', 93), ('my', 92), ('those', 92), ('how', 90), ('only', 86), ('me', 86), ('just', 85), ('10', 85), ('state', 83), ('negative', 82), ('trump�', 82), ('model', 78), ('films', 77), ('do', 76), ('also', 75), ('said', 75), ('its', 74), ('new', 73), ('each', 73), ('bar', 73), ('github', 70), ('had', 70), ('polls', 68), ('�i', 67), ('year', 64), ('time', 62), ('rock', 62), ('national', 62), ('where', 61), ('2015', 61), ('women', 61), ('2014', 60), ('been', 59), ('them', 59), ('hillary', 59), ('two', 59), ('would', 58), ('will', 58), ('points', 58), ('these', 57)]

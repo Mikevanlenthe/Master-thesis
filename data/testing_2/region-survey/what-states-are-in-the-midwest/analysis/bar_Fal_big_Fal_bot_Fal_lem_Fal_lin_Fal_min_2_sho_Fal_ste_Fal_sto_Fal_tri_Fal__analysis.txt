@@ -1,0 +1,62 @@
+Article: region-survey/what-states-are-in-the-midwest
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 618
+Raw number of types: 276
+Raw Type token ratio (higher = more diversity in language use): 0.44660194174757284
+
+100 most freq tokens before (pre)processing: 
+[('the', 7291), (',', 7063), ('.', 4972), ('of', 3707), ('a', 3125), ('to', 2973), ('in', 2699), ('and', 2689), ('’', 2487), ('that', 1680), ('s', 1373), ('for', 1248), ('is', 1215), ('on', 1064), (':', 1059), ('it', 1035), ('are', 901), ('“', 832), ('”', 831), ('with', 785), ('at', 782), ('—', 775), ('as', 761), ('we', 751), ('by', 732), ('(', 722), (')', 722), ('percent', 699), ('but', 690), ('more', 679), ('our', 650), ('i', 630), ('this', 625), ('or', 593), ('they', 586), ('you', 563), ('have', 561), ('from', 557), ('trump', 545), ('team-logo', 535), ('t', 532), ('about', 516), ('was', 501), ('than', 500), ('who', 493), ('be', 472), ('one', 471), ('data', 460), ('were', 446), ('an', 424), ('?', 411), ('has', 409), ('1', 385), ('not', 380), ('verdict', 377), ('their', 367), ('all', 364), ('<', 364), ('>', 358), ('there', 349), ('polls', 347), ('like', 346), ('how', 344), ('said', 333), ('he', 333), ('if', 319), ('so', 318), ('other', 316), ('can', 315), ('what', 312), ('people', 307), ('which', 296), ('some', 295), ('most', 289), ('his', 289), ('out', 277), ('when', 275), ('those', 274), ('had', 262), ('also', 259), ('get', 248), ('up', 242), ('each', 240), ('only', 222), ('just', 219), ('two', 215), ('do', 209), ('positive', 203), ('new', 199), ('github', 197), ('its', 197), ('them', 196), ('these', 195), (';', 188), ('time', 188), ('will', 188), ('2', 187), ('points', 187), ('been', 184), ('pollsters', 184)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 502
+Number of types: 257
+Type token ratio: 0.5119521912350598
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, are, get, make, southwest, are, are, consider, make, consider, are, aren, contrast, make, think, appear, michigan, re, refer, are, acknowledge, ll')
+
+('NNS', 'states, data, states, regions, regions, states, regions, midwesterners, opinions, midwesterners, midwesterners, states, respondents, respondents, states, things, people, respondents, people, states, sources, hoosiers, spans, respondents, oklahoma, people, populations, states, people, swaths, americans, tribes, subdivisions, groupings')
+
+('NN', 'midwest, walt, hickey, regionalism, data, github, github, cornfield, illinois, ap, argument, get, coast, mountain, northeast, south, midwest, york, anything, west, philadelphia, midwest, designation, boss, territory, view, audience, cut, survey, midwest, march, lot, midwesterner, group, part, lot, core, midwest, state, question, home, city, chicago, midwestern, percent, survey, group, albeit, source, definition, state, state, bordering, midwest, way, midwest, half, quarter, midwest, arkansas, region, yankee, error, indiana, iowa, illinois, core, percent, vote, wisconsin, percent, vote, midwest, fuss, ohio, missouri, half, rest, midwest, anything, midwest, territory, region, midwestern, diversity, south, south, south')
+
+('VBN', 'filed, defined, criticized, identified, selected, identified, thought, thought, thought, thought, asked, pulled, expected')
+
+('JJ', 'dataregionsurvey, savoy, perlman, regular, united, other, nebulous, new, unsophisticated, selfavowed, many, decided, broadbased, surveymonkey, selfidentified, national, worth, first, many, sure, everybody, illinois, preeminent, midwestern, soontobereleased, southern, adamant, potential, anecdotal, several, midwestern, have, limited, true, potential, south, substantial, much, unclear, true, nebulous, vast, american, solid, such, sure')
+
+('VBD', 'seth, asked, ran, targeted, asked, was, were, selfproclaimed, spoke, made, thought, did, second, were, got')
+
+('VBZ', 'states, is, has, falls, states, is, minnesotans, expands, regrets, seems, is, easy, comes, is, is')
+
+('JJS', 'west, midwest, midwest, least, midwest, midwest, least')
+
+('VB', 'consider, find, be, get, ask, march, identify, say, have, pinpoint, be, be, minnesota, put, kansas, break, see')
+
+('NNP', 'michigan')
+
+('VBG', 'looking, pulling')
+
+('JJR', 'more, more, more')
+
+100 most freq tokens after processing: 
+[('the', 7291), ('of', 3707), ('to', 2973), ('in', 2701), ('and', 2689), ('that', 1684), ('for', 1249), ('is', 1217), ('on', 1064), ('it', 1038), ('are', 903), ('with', 785), ('at', 783), ('as', 761), ('we', 751), ('by', 732), ('percent', 708), ('but', 690), ('more', 679), ('our', 650), ('this', 625), ('or', 593), ('they', 586), ('you', 564), ('have', 561), ('from', 557), ('trump', 546), ('teamlogo', 535), ('about', 516), ('was', 501), ('than', 500), ('who', 493), ('one', 474), ('be', 474), ('data', 460), ('were', 446), ('an', 424), ('has', 409), ('not', 380), ('verdict', 377), ('their', 367), ('all', 364), ('there', 349), ('polls', 347), ('like', 346), ('how', 344), ('said', 333), ('he', 333), ('if', 319), ('so', 319), ('other', 317), ('can', 315), ('what', 312), ('people', 307), ('which', 296), ('some', 295), ('most', 290), ('his', 289), ('out', 279), ('when', 275), ('those', 274), ('had', 262), ('also', 259), ('get', 248), ('10', 245), ('up', 242), ('each', 241), ('only', 222), ('just', 219), ('11', 215), ('two', 215), ('do', 210), ('positive', 204), ('bar', 201), ('new', 199), ('13', 198), ('github', 197), ('its', 197), ('them', 196), ('these', 195), ('time', 192), ('will', 188), ('points', 187), ('been', 185), ('polling', 184), ('pollsters', 184), ('14', 182), ('us', 180), ('number', 178), ('would', 176), ('no', 176), ('12', 175), ('many', 173), ('because', 170), ('donald', 168), ('much', 168), ('my', 167), ('15', 167), ('see', 165), ('average', 164)]

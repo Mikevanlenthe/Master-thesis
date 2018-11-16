@@ -1,0 +1,62 @@
+Article: nfl-suspensions
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1649
+Raw number of types: 577
+Raw Type token ratio (higher = more diversity in language use): 0.34990903577926014
+
+100 most freq tokens before (pre)processing: 
+[('the', 8741), (',', 8402), ('.', 5955), ('of', 4350), ('a', 3759), ('to', 3488), ('in', 3275), ('and', 3212), ('’', 3058), ('that', 1959), ('s', 1754), ('for', 1486), ('is', 1447), ('it', 1257), ('on', 1253), (':', 1140), ('are', 1033), ('“', 977), ('”', 976), ('—', 922), ('at', 921), ('as', 910), ('with', 899), ('we', 846), ('(', 842), ('but', 841), (')', 840), ('by', 834), ('percent', 802), ('more', 772), ('i', 746), ('this', 730), ('or', 695), ('have', 676), ('our', 673), ('trump', 663), ('from', 661), ('they', 644), ('was', 639), ('you', 636), ('t', 630), ('about', 597), ('than', 583), ('be', 582), ('has', 552), ('who', 544), ('one', 540), ('team-logo', 535), ('data', 530), ('an', 511), ('were', 504), ('not', 469), ('?', 463), ('he', 454), ('all', 446), ('there', 430), ('so', 424), ('<', 424), ('>', 418), ('their', 417), ('1', 402), ('how', 394), ('his', 391), ('polls', 385), ('like', 379), ('if', 378), ('verdict', 377), ('other', 372), ('said', 369), ('can', 358), ('which', 356), ('what', 354), ('some', 348), ('when', 335), ('people', 334), ('had', 328), ('most', 324), ('out', 322), ('also', 311), ('those', 304), ('up', 283), ('only', 271), ('each', 270), ('get', 269), ('just', 264), ('two', 252), ('world', 244), ('been', 242), ('do', 237), ('its', 236), ('time', 235), ('github', 228), ('new', 228), ('these', 228), ('will', 226), (';', 224), ('them', 219), ('year', 217), ('would', 216), ('%', 216)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1350
+Number of types: 551
+Type token ratio: 0.40814814814814815
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, history, violence, allison, mccann, data, github, github, photo, baltimore, ray, rice, wife, janay, news, conference, patrick, semansky, ap, photo, baltimore, ray, rice, wife, janay, news, conference, patrick, semansky, elevator, floor, man, woman, purse, body, way, budge, football, league, video, video, aftermath, altercation, ray, rice, thengirlfriend, wife, janay, palmer, offseason, film, video, arrest, nfl, commissioner, roger, goodell, rice, star, baltimore, rice, palmer, league, conduct, policy, punishment, incommensurate, crime, espnw, columnist, jane, rice, test, discipline, goodell, press, conference, rice, suspension, thursday, goodell, discipline, policy, letter, team, espn, goodell, league, treatment, rice, case, conduct, policy, assault, battery, violence, assault, force, suspension, pay, offense, consideration, suspension, rice, suspension, offense, ban, league, opportunity, reinstatement, year, sixgame, suspension, fivethirtyeight, suspension, violence, consequence, offense, kind, ban, league, repeat, offense, punishment, rice, incident, nfl, suspension1, league, history, rice, abuse, abuse, conduct, season, someone, body, track, player, length, suspension, spokeswoman, darlene, capiro, email, list, espn, grantland, nfl, information, group, information, entirety, spokesman, nfl, george, atallah, union, help, diego, list, suspension, tracker2, process, news, reports3, note, reason, suspension, number, player, isn, perfect, start, evidence, punishment, conduct, punishment, drug, percent, suspension, percent, repeat, suspension, question, number, player, length, suspension, league, policy, substance, percent, percent, year, league, policy5, contrast, variation, length, conduct, category, everything, murder, violence, league, instance, percent, conduct, suspension, group, johnson, drink, woman, face, manning, jr, man, restaurant, percent, gun, marshawn, lynch, percent, threegame, suspension, gun, car, percent, assault, suspension, season, police, difference, treatment, drug, conduct, result, league, bargaining, agreement, cba, conduct, policy, policy, program, disparity, covering, league, gap, guidance, drug, prescription, player, act, violence, banishment, nfl, process, player, year, lifetime, database, substance, abuse, gambling6, comparison, donte, stallworth, manslaughter, league, year, inconsistency, punishment, violence, conduct, league, number, conduct, violence, number, baseline, suspension, goodell, doesn, violence, suspension, record, violence, nfl, player, woman, joint, data, set, table, database, please, pm, correction, pm, version, story, data, set, substance, abuse, ray, rice, substance, abuse')
+
+('JJ', 'nfl, uneven, domestic, open, unconscious, unconscious, heavy, national, nfl, personal, personal, bad, possible, many, entire, consistent, other, consistent, other, new, effective, personal, domestic, sexual, physical, subject, first, current, second, average, domestic, unprecedented, first, secondtime, domestic, entire, wrong, nfl, comprehensive, several, unaware, complete, espn, san, uniontribune, nfl, wikipedia, spotrac, good, corresponding, hard, many, nfl, personal, inconsistent, average, harsh, firsttime, little, ped, firsttime, secondtime, personal, catchall, unsanctioned, in–game, social, first, onegame, larry, ricky, denny, stripper, sexual, dui, pacman, entire, first, numerous, nfl, collective, personal, evident, other, new, clear, violent, offfield, second, available, previous, guilty, previous, domestic, clear, personal, average, personal, domestic, old, nonspecific, average, domestic, previous, domestic, full, searchable, complete, possible, last, updated, many, indefinite, many, lifetime')
+
+('VBG', 'punishing, running, running, closing, holding, using, picking, running, showing, running, citing, cheating, performanceenhancing, smoking, issuing, regarding, mitigating, according, following, looking, governing, dating, using, making, using, embarrassing, having, assuming, mitigating, going, smoking, excluding')
+
+('VBN', 'filed, prompted, given, been, suspended, obtained, given, collected, been, issued, determined, suspended, responded, repeated, missed, been, forced, outlined, punished, arrested, ranged, suspended, meant, been, repeated, looked, issued, suspended, been, punished, suspended, corrected, missed, repeated')
+
+('NNS', 'suspensions, data, datanflsuspensions, doors, knees, feet, doors, feet, bodies, rounds, ravens, games, interviews, mcmanus, games, players, games, drugs, peds, seasons, cases, cases, owners, violations, games, factors, circumstances, data, times, offenders, violations, ones, games, violations, games, games, colleagues, data, stats, incidents, players, data, requests, arrests, incidents, suspensions, games, data, offenses, games, violations, offenses, peaks, charts, peds, offenders, games, offenders, games, games, steroids, violations, violations, offenders, games, offenders, suspensions, violations, media, violators, players, games, bridges, players, players, games, cases, arrests, jones, games, games, arrests, altercations, violations, substances, documents, drugs, pages, regulations, years, offenses, offenses, commits, appeals, bans, violations, games, violations, cases, guidelines, games, games, factors, errors, entries, suspensions, suspensions, bans')
+
+('VBP', 'get, prevent, involve, warrant, do, report, association, database, note, occur, receive, receive, are, receive, receive, are, jeremy, compare, are, have, know')
+
+('VBZ', 'ravens, speaks, ravens, speaks, drops, falls, is, tries, tries, ends, has, has, kinds, has, is, includes, is, does, does, is, is, has, is, has, is, means, beats, is, is')
+
+('VB', 'move, be, make, be, be, affect, result, apply, be, be, understand, steroid, substance, keep, have, have, provide, be, miss, find, receive, multiple, adam, mention, refer, bridge, handle, be, result, wait, dui, reduce, double, take, be, submit')
+
+('VBD', 'won, made, were, suspended, felt, joke, wrote, was, was, exclaimed, had, said, was, announced, wrote, fell, went, wanted, unrelated, were, warranted, warranted, assumed, suspended, was, was, contacted, were, set, did, selected, said, had, did, cobbled, found, verified, missed4, categorized, had, suspected, received, spit, assaulted, received, pointed, was, was, received, went, was, were, were, was, pleaded, was, became, was, had, was, punishment, caught, were, sept, misstated, were, were, were, were')
+
+('NNP', 'zapruder')
+
+('JJR', 'longer, less, more, greater, fewer, earlier')
+
+('JJS', 'harshest, least, tallest, longest')
+
+100 most freq tokens after processing: 
+[('the', 8741), ('of', 4350), ('to', 3488), ('in', 3277), ('and', 3212), ('that', 1964), ('for', 1487), ('is', 1449), ('it', 1263), ('on', 1253), ('are', 1035), ('at', 922), ('as', 910), ('with', 899), ('we', 846), ('but', 841), ('by', 834), ('percent', 811), ('more', 772), ('this', 730), ('or', 695), ('have', 676), ('our', 673), ('trump', 664), ('from', 661), ('they', 644), ('was', 639), ('you', 637), ('about', 597), ('be', 584), ('than', 583), ('has', 552), ('who', 544), ('one', 543), ('teamlogo', 535), ('data', 530), ('an', 511), ('were', 504), ('not', 469), ('he', 454), ('all', 447), ('there', 430), ('so', 425), ('their', 417), ('how', 394), ('his', 391), ('polls', 385), ('like', 379), ('if', 378), ('verdict', 377), ('other', 373), ('said', 369), ('can', 358), ('which', 356), ('what', 354), ('some', 348), ('when', 335), ('people', 334), ('had', 328), ('most', 325), ('out', 325), ('also', 311), ('those', 304), ('up', 284), ('only', 271), ('each', 271), ('get', 269), ('10', 269), ('just', 264), ('two', 252), ('world', 244), ('been', 243), ('time', 239), ('do', 238), ('its', 236), ('bar', 233), ('github', 228), ('new', 228), ('these', 228), ('will', 226), ('11', 225), ('us', 220), ('them', 220), ('year', 218), ('would', 216), ('13', 210), ('no', 209), ('much', 209), ('positive', 205), ('points', 204), ('team', 204), ('number', 202), ('over', 201), ('my', 201), ('because', 197), ('first', 196), ('many', 195), ('average', 195), ('polling', 193), ('after', 191)]

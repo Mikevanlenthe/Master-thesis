@@ -1,0 +1,318 @@
+Sentence nr: 0
+Jun.
+
+Sentence nr: 1
+2, 2016 at 2:02 PM The State Of The Polls, 2016 By Nate Silver Filed under 2016 Election FacebookTwitterEmail Flickr / American Jewish Historical Society Two years ago, in advance of the 2014 midterms and in conjunction with the release of FiveThirtyEight’s pollster ratings, I wrote an article headlined “Is The Polling Industry In Stasis Or In Crisis?” It pointed out a seeming contradiction: Although there were lots of reasons to be worried about the reliability of polling — in particular, the ever-declining response rates for telephone surveys — there wasn’t much evidence of a crisis in the results pollsters were obtaining.
+
+Sentence nr: 2
+Instead, the 2008, 2010 and 2012 election cycles had all featured fairly accurate polling.
+
+Sentence nr: 3
+Has the reckoning come for the polls since then?
+
+Sentence nr: 4
+The evidence is somewhat mixed.
+
+Sentence nr: 5
+The 2014 midterm elections were not a banner year for pollsters, with most polls showing a statistical bias toward Democrats (reversing their statistical bias toward Republicans in 2012).
+
+Sentence nr: 6
+As a result, there were a handful of major upsets by Republican candidates, along with a few near misses.
+
+Sentence nr: 7
+Still, the error in the polls was reasonably in line with historical norms.
+
+Sentence nr: 8
+It wasn’t the disaster that pollsters have experienced in other countries, such as the United Kingdom and Greece, or even in previous U.S. midterm elections, such as 1994 and 1998.
+
+Sentence nr: 9
+Pollster Ratings: We’ve analyzed the historical accuracy of more than 350 polling agencies and rated them according to performance and methodology.
+
+Sentence nr: 10
+See all of our pollster ratings » If the 2014 midterm polls were a little better than reputed, however, the reverse might be true of the 2016 presidential primaries polls.
+
+Sentence nr: 11
+Importantly, the polls (and even more so, the polling averages) had a good track record of calling winners, with the polling front-runner winning the vast majority of the time.
+
+Sentence nr: 12
+Furthermore, the polls caught wind of Donald Trump’s popularity among Republicans early in the cycle, even as a lot of journalists (including, uhh, yours truly) were deeply skeptical about his chances.
+
+Sentence nr: 13
+But the margins were often pretty far off, especially in the Democratic race, with Hillary Clinton often blowing away her polling numbers in the South and Bernie Sanders often doing so elsewhere in the country.
+
+Sentence nr: 14
+Furthermore, although there weren’t many upsets, at least one of them — Sanders’s win in Michigan — was historically epic.
+
+Sentence nr: 15
+Don’t take our word for it, though: We’d encourage you to explore the data for yourself.
+
+Sentence nr: 16
+We’ve just released a new set of pollster ratings, based on data up through and including the Oregon presidential primary May 17.
+
+Sentence nr: 17
+We’ve also published the raw data behind these ratings: more than 7,900 polls conducted in the final three weeks before presidential primaries and caucuses and general elections for president, governor, and the U.S. Senate and House since 1998.
+
+Sentence nr: 18
+The methodology we use to calculate the pollster ratings is highly similar to the procedures we followed to generate our 2014 ratings, with a handful of exceptions that I describe in the footnotes.1 As before, the ratings are based both on a pollster’s past accuracy and on two easily measurable methodological standards: The first standard is whether the firm participates in the American Association for Public Opinion Research Transparency Initiative, is a member of the National Council on Public Polls or contributes its data to the Roper Center for Public Opinion Research archive.
+
+Sentence nr: 19
+Polling firms that do one or more of these things generally abide by industry-standard practices for disclosure, transparency and methodology and have historically had more accurate results.
+
+Sentence nr: 20
+The second standard is whether the firm usually conducts its polls by placing telephone calls with live interviewers and calls cellphones as well as landlines.
+
+Sentence nr: 21
+Automated polls (“robopolls”), which are legally prohibited from calling cellphones, do not meet this standard even if they use hybrid or mixed-mode methodologies (for example, robocalling landlines and then supplementing with cellphone calls placed by live interviewers).2 It’s increasingly essential to call cellphones given that about half of American households no longer have a home landline.
+
+Sentence nr: 22
+Although internet polls show promise as a potential alternative, they do not yet have a long enough or consistent enough track record to be placed on the same pedestal as high-quality, live-interview telephone polls, based on our view of the evidence.
+
+Sentence nr: 23
+But enough about methodology; let’s return to the question of how the polls fared in the 2014 midterms and 2016 presidential primaries.
+
+Sentence nr: 24
+First, here’s a calculation we call Simple Average Error.
+
+Sentence nr: 25
+It measures the difference between the percentage of the vote separating the top two finishers in the election and the margin shown by the polls.
+
+Sentence nr: 26
+For instance, if a poll had projected Trump to beat Ted Cruz by 2 percentage points in an election and Trump won by 10 points, that would count as an 8 percentage point error.
+
+Sentence nr: 27
+Likewise, it would count as an 8-point error if Trump had been projected to beat Cruz by 2 points but lost to him by 6 instead.
+
+Sentence nr: 28
+In 2014, the average gubernatorial poll had an error of 4.5 percentage points as defined in this way, and the average Senate poll had an error of 5.4 percentage points.
+
+Sentence nr: 29
+The gubernatorial polls were a bit more accurate than usual and the Senate polls a bit less, but both figures are reasonably in line with historical norms.
+
+Sentence nr: 30
+A bigger problem is that most of these polls missed in the same direction, underestimating the Republican candidate.
+
+Sentence nr: 31
+(We’ll take that point up in a moment.)
+
+Sentence nr: 32
+House polls are typically less accurate than Senate or gubernatorial polls — the further down the ballot you go, the larger the polling error tends to be — and 2014 was no exception, with the average House poll missing by 7.9 percentage points.
+
+Sentence nr: 33
+That’s not a good result by any stretch of the imagination, although that number is inflated somewhat by a single polling firm, YouGov, which ambitiously released polls of all 435 congressional districts.
+
+Sentence nr: 34
+Most of those polls had small sample sizes of fewer than 200 respondents, and most of them were in noncompetitive districts, which can be difficult to poll.
+
+Sentence nr: 35
+(Our Advanced Plus-Minus and Predictive Plus-Minus calculations adjust for these factors, but Simple Average Error does not.)
+
+Sentence nr: 36
+Excluding YouGov, the average error for House polls was 6.6 percentage points, still a mediocre performance, although similar to past years such as 1998 and 2010.
+
+Sentence nr: 37
+If House races can be tricky to poll, presidential primaries are even harder, for some of the reasons I mention here.
+
+Sentence nr: 38
+Turnout is relatively low, people are sometimes choosing among several similar candidates, and voters often wait until the last minute to make their decisions.
+
+Sentence nr: 39
+So primary polling is almost always a fairly wild ride.
+
+Sentence nr: 40
+Still, the average error in primary polls this year was a whopping 9.4 percentage points, worse than the average of 8.1 percentage points in all presidential primaries since 2000.
+
+Sentence nr: 41
+The problems were worse on the Democratic side, with an average error of 10.6 percentage points, compared with 8.3 percentage points in the Republican race.
+
+Sentence nr: 42
+And yet, the primary polls have done a pretty good job of picking winners.
+
+Sentence nr: 43
+In 85 percent of polls this year, the leading candidate in the poll matched the winning candidate in the election.
+
+Sentence nr: 44
+That’s much better than in 2012, when the leading candidate won in the polls only 61 percent of the time.
+
+Sentence nr: 45
+What gives?
+
+Sentence nr: 46
+A lot of primaries and caucuses were lopsided this year, with strongly regional voting patterns; Clinton dominated in the South, and Trump cleaned up in the Northeast, for example.
+
+Sentence nr: 47
+(By contrast, a lot of Republican primaries came down to the wire in 2012.)
+
+Sentence nr: 48
+It’s easier to call the winners right, of course, when an election isn’t competitive.
+
+Sentence nr: 49
+On the other hand, it can be harder for pollsters to nail down the margin in such races.
+
+Sentence nr: 50
+A seemingly noncompetitive race can discourage turnout, either allowing the leading candidate to run up the score or, occasionally, the trailing candidate to do much better than expected because the leading candidate’s voters become complacent.
+
+Sentence nr: 51
+As a technical matter, the handling of undecided voters also matters more in noncompetitive races.3 In a slight change this year, our Advanced Plus-Minus and Predictive Plus-Minus ratings account for the fact that less-competitive races are associated with a larger error, on average.
+
+Sentence nr: 52
+Still, this doesn’t entirely excuse the polls.
+
+Sentence nr: 53
+Another useful measure of polling performance is statistical bias, which indicates whether polls consistently miss in the same direction.
+
+Sentence nr: 54
+If over a large number of races, for example, your polling firm projects Democratic candidates to win by an average of 5 percentage points, and they win by 2 percentage points instead, that means those polls had a pro-Democratic (and anti-Republican) statistical bias of 3 percentage points.
+
+Sentence nr: 55
+Statistical bias isn’t necessarily an indication of partisan bias; some media outlets that are accused of having a pro-Republican bias in their coverage have a pro-Democratic statistical bias in their polls, and vice versa.
+
+Sentence nr: 56
+But it has nevertheless been a problem in recent years: In 2012, the polls had a 2 or 3 percentage point pro-Republican bias, meaning that they underrated how well President Obama would do, along with Democratic candidates in gubernatorial and congressional races.
+
+Sentence nr: 57
+In 2014, by contrast, they had roughly a 3 percentage point pro-Democratic bias.
+
+Sentence nr: 58
+So rather than the merely good Republican year implied by the polls, Republicans had a near-landslide in the midterms instead.
+
+Sentence nr: 59
+The good news is that, over the long run, the polls haven’t had much of an overall bias, having underrated Republicans in some elections and Democrats in others.
+
+Sentence nr: 60
+But the bias has shifted around somewhat unpredictably from election to election.
+
+Sentence nr: 61
+You should be wary of claims that the polls are bound to be biased in the same direction that they were two years ago or four years ago.
+
+Sentence nr: 62
+You should also recognize the potential for statistical bias even (or perhaps especially) if the polls all seem to agree with one another.
+
+Sentence nr: 63
+An uncannily strong consensus among the polls may indicate herding, which means polling firms are suppressing outlier results that appear out of line with the consensus.
+
+Sentence nr: 64
+Good election forecasting models can account for the possibility of herding and statistical bias by assuming that the error in polls is correlated from state to state, but it raises the degree of difficulty in building a model.
+
+Sentence nr: 65
+What about bias in the presidential primary polls?
+
+Sentence nr: 66
+Those numbers aren’t shown in the table above because the bias calculations we list in our pollster ratings pertain only to general elections.
+
+Sentence nr: 67
+But we can calculate them by the same method.
+
+Sentence nr: 68
+Indeed, statistical bias has been a problem in both party primaries this year.
+
+Sentence nr: 69
+In Republican primaries and caucuses, the polls generally had a pro-Trump and anti-Cruz bias.
+
+Sentence nr: 70
+In races where Trump and Cruz were the top two finishers in some order, the bias was 5.5 percentage points in Trump’s favor.
+
+Sentence nr: 71
+The bias dissipated as the race went along, and there wasn’t as much of a bias when another candidate — John Kasich or Marco Rubio — was Trump’s main competitor in a state.
+
+Sentence nr: 72
+Still, the primary results ought to raise doubts about the theory that a “silent majority” of Trump supporters is being overlooked by the polls.
+
+Sentence nr: 73
+In the primaries, Trump was somewhat overrated by the polls.
+
+Sentence nr: 74
+In the Democratic race, the polls had a 1.8 percentage point bias toward Clinton (and against Sanders) overall.
+
+Sentence nr: 75
+However, it varied significantly based on the demographic makeup of the state, with Clinton outperforming her polls in diverse states and Sanders beating his in whiter ones.
+
+Sentence nr: 76
+Specifically, in states where at least 25 percent of the population is black or Hispanic,4 the polls had a pro-Sanders, anti-Clinton bias of 5.7 percentage points.
+
+Sentence nr: 77
+But they had an 8.2 percentage point bias toward Clinton, and against Sanders, in states where less than 25 percent of the population is black or Hispanic.
+
+Sentence nr: 78
+As I mentioned before, the polls mostly identified the right winners, and some of the bias reflected the candidates’ running up the score in demographically favorable terrain.
+
+Sentence nr: 79
+(Clinton, for instance, won South Carolina by 47 percentage points instead of the 27 points projected by the polls.)
+
+Sentence nr: 80
+Still, the results are troubling given that the Sanders and Clinton coalitions each contain hard-to-poll groups.
+
+Sentence nr: 81
+In Clinton’s case, that means black and Hispanic voters, who are usually harder for polls to reach than white voters.
+
+Sentence nr: 82
+For Sanders, that means young and first-time voters, who are also hard to reach and who are sometimes screened out incorrectly by likely voter models.
+
+Sentence nr: 83
+Pollsters should think carefully about their strategies for reaching these groups in the general election.
+
+Sentence nr: 84
+Finally, let’s take a look at how some of the more prolific pollsters have performed recently.
+
+Sentence nr: 85
+The following table contains our Advanced Plus-Minus scores for polling firms that released at least 20 total polls between the 2014 midterms and 2016 presidential primaries.
+
+Sentence nr: 86
+Advanced Plus-Minus measures a poll’s error as compared against others that surveyed the same race, controlling for factors such as the number of days between the poll and the election.5 Negative scores are good and mean the pollster performed better than other polling firms under similar conditions.
+
+Sentence nr: 87
+The best-performing polls recently have been those from Monmouth University and those from Marist College.
+
+Sentence nr: 88
+Both apply “gold standard” methodologies, using live telephone interviews and placing calls to cellphones as well as landlines, and both participate in the AAPOR Transparency Initiative.
+
+Sentence nr: 89
+Quinnipiac University, another “gold standard” pollster, has also performed fairly well of late.
+
+Sentence nr: 90
+So has Fox News, which switched to new polling partners in 2011 and has gotten good results since then.6 Automated polling firms have gotten mediocre results in recent years, especially SurveyUSA and Rasmussen Reports, although note that SurveyUSA has a long history of accurate polling and so retains a high grade overall.
+
+Sentence nr: 91
+Public Policy Polling has gotten fairly good results, by contrast, although that may be because the pollster engages in a high degree of herding.
+
+Sentence nr: 92
+YouGov, which fared poorly by calculations such as Simple Average Error, gets about an average rating according to Advanced Plus-Minus, which accounts for the fact that they were polling under difficult circumstances (for instance, polling obscure House races that nobody else tried to survey).
+
+Sentence nr: 93
+Still, we’re awaiting more evidence about the reliability of online polls.
+
+Sentence nr: 94
+SurveyMonkey, which has sometimes partnered with FiveThirtyEight, released a set of polls of the Democratic and Republican primaries before Super Tuesday and got mediocre results, but it isn’t really enough data to come to conclusions about long-term accuracy.
+
+Sentence nr: 95
+Other online polling firms, such as Morning Consult and Ipsos, have focused on national polls instead of issuing state polls ahead of key primaries and general elections.
+
+Sentence nr: 96
+In my view, the online pollsters have been too gun-shy as a group (with YouGov an important exception) to issue polls of state and local elections.
+
+Sentence nr: 97
+These firms employ a lot of smart people, and my working assumption is that online polls are already more accurate than automated telephone polls (if not necessarily traditional telephone polls, at least not yet).
+
+Sentence nr: 98
+But that’s nothing more than an educated guess until we get more data on how they perform.
+
+Sentence nr: 99
+Listen to the latest episode of the FiveThirtyEight politics podcast.
+
+Sentence nr: 100
+By Nate Silver More: Apple Podcasts | ESPN App | RSS | Embed Embed Code <iframe frameborder="0" width="100%" height="180" style="margin:20px auto 25px;max-width:600px;" scrolling="no" src="https://fivethirtyeight.com/player/politics/22588832/"></iframe> Participation in the AAPOR Transparency Initiative, NCPP or the Roper Center archive continues to be a strong predictor of polling accuracy.
+
+Sentence nr: 101
+Polling firms that get our AAPOR/NCPP/Roper check mark have had an Advanced Plus-Minus score of -0.4 since 2014,7 compared with a score of +0.8 for those that don’t have it.
+
+Sentence nr: 102
+All told, the evidence is ambiguous enough to be consistent with almost any case you’d like to make: either that the polls are about as accurate as they’ve always been, which isn’t to say that they’re perfect, or that there are real warning signs of trouble ahead, which isn’t to say the polls are useless.
+
+Sentence nr: 103
+The answer may also depend on which polls you’re looking at.
+
+Sentence nr: 104
+As we’ve found in the past, polls that employ more expensive methodologies, and abide by higher levels of disclosure and transparency, tend to be more accurate than those that don’t.
+
+Sentence nr: 105
+It may be that the best polls are roughly as accurate as ever but that the worst polls are increasingly far off the mark.
+

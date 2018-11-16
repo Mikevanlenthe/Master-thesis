@@ -1,0 +1,58 @@
+Article: puerto-rico-media/the-media-really-started-paying-attention-to-puerto-rico-when-trump-did
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 530
+Raw number of types: 237
+Raw Type token ratio (higher = more diversity in language use): 0.44716981132075473
+
+100 most freq tokens before (pre)processing: 
+[(',', 1158), ('the', 721), (':', 427), ('.', 403), ('our', 388), ('verdict', 377), ('in', 325), ('a', 324), ('of', 324), ('to', 283), ('and', 280), ('trump', 239), ('1', 223), ('positive', 183), ('’', 178), ('i', 169), ('that', 167), ('on', 147), ('donald', 142), ('neutral', 131), ('for', 130), ('like', 112), ('it', 109), ('s', 108), ('with', 104), ('is', 100), ('at', 98), ('/', 95), ('(', 95), (')', 95), ('was', 91), ('he', 89), ('trump�', 82), ('negative', 80), ('you', 75), ('my', 74), ('his', 73), ("'m", 72), ('“', 72), ('”', 71), ('from', 68), ('me', 67), ('�i', 67), ('but', 62), ('than', 59), ('more', 57), ('hillary', 57), ('percent', 56), ('by', 53), ('has', 53), ("'s", 52), ('were', 51), ('this', 49), ('about', 49), ('t', 48), ('they', 46), ('have', 46), ('�', 46), ("n't", 46), ("'", 46), ('data', 45), ('who', 45), ('2015', 45), ('—', 44), ('as', 44), ('2013', 44), ('swan', 44), ('just', 43), ('up', 43), ('be', 42), ('?', 42), ('one', 41), ('clinton', 41), ('we', 40), ('got', 40), ('police', 39), ('not', 38), ('people', 38), ('all', 37), ('--', 37), ('get', 36), ('an', 36), ('so', 36), ('are', 36), ('2016', 36), ('2012', 36), ('2014', 35), ('or', 35), ('do', 33), ('drivers', 33), ('weather', 32), ('tattoos', 32), ('out', 31), ('bill', 31), ('what', 31), ('said', 29), ('when', 29), ('2', 29), (';', 28), ('other', 28)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 458
+Number of types: 227
+Type token ratio: 0.49563318777292575
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'media, data, weeks, media, locations, hurricanes, sources, things, maria, days, media, levels, hurricanes, got2, outlets, efforts, media, efforts, statements, rico, workers, weeks, headlines, data, headlines, headlines, weeks, headlines, statements, polls, people, events, networks, times, media, months, organizations, decisions, people')
+
+('VBD', 'started, did, fivethirtyeight, found, had, had, went, had, started, started, wasn, went, made, suggested, blasted, said, set, mentioned, mentioned, mentioned, mentioned, visited, mentioned, mentioned, saw, visited, was, was, highlighted, had, struck, mentioned')
+
+('VBG', 'paying, following, talking, covering, following, being, ticking')
+
+('NN', 'attention, rico, trump, dhrumil, mehta, puerto, rico, data, github, github, datapuertoricomedia, analysis, puerto, rico, coverage, hurricane, maria, week, data, landfall, puerto, rico, morning, monday, island, burst, attention, president, twitter, account, coverage, puerto, rico, coverage, hurricane, devastation, president, trump, puerto, rico, debt, feud, mayor, juan, recovery, effort, coverage, fake, twitter, hurricane, average, quarter, news, puerto, rico, trump, percent, texas, trump, aftermath, hurricane, harvey, percent, florida, trump, hurricane, irma, president, island, week, half, territory, day, trump, proportion, trump, texas, florida, coverage, criticism, president, behavior, criticism, response, way, administration, puerto, rico, crisis, president, approval, rating, hurricane, tv, story, news, president, coverage, rico, cnn, msnbc, did3, puerto, rico, recovery, attention, news, making, coverage, president, trump, puerto, rico')
+
+('VB', 'puerto, see, get, recover, help, be, give, continue, merit, have, keep, be, be')
+
+('VBN', 'filed, published, received, hit, gotten, changed1, hurricane, made, referenced, engaged, handled, been, influenced, covered, dedicated, devoted')
+
+('VBP', 'get, have, reach, trump, weren, show, have')
+
+('JJ', 'other, powerful, same, wednesday, full, sustained, other, controversial, puerto, san, puerto, rican, willing, unfavorable, online, immediate, last, positive, federal, slow, several, recent, downward, other, fox, favorable, puerto, many, much, much')
+
+('VBZ', 'wasn, didn, has, tends')
+
+('JJR', 'higher, fewer')
+
+100 most freq tokens after processing: 
+[('the', 721), ('our', 388), ('verdict', 377), ('in', 325), ('of', 324), ('to', 283), ('and', 280), ('trump', 239), ('positive', 184), ('that', 168), ('on', 147), ('donald', 143), ('for', 131), ('neutral', 131), ('like', 112), ('it', 110), ('with', 104), ('is', 100), ('at', 98), ('was', 91), ('he', 89), ('trump�', 82), ('negative', 80), ('you', 75), ('my', 74), ('his', 73), ('from', 68), ('me', 68), ('�i', 67), ('but', 62), ('than', 59), ('percent', 59), ('more', 57), ('hillary', 57), ('by', 53), ('has', 53), ('were', 51), ('this', 49), ('about', 49), ('2015', 47), ('they', 46), ('have', 46), ('nt', 46), ('data', 45), ('who', 45), ('as', 44), ('2013', 44), ('swan', 44), ('just', 43), ('up', 43), ('be', 42), ('one', 41), ('clinton', 41), ('we', 40), ('got', 40), ('police', 39), ('not', 38), ('people', 38), ('2012', 38), ('2014', 37), ('2016', 37), ('all', 37), ('get', 36), ('an', 36), ('so', 36), ('are', 36), ('or', 35), ('do', 33), ('drivers', 33), ('tattoos', 33), ('weather', 32), ('out', 31), ('bill', 31), ('what', 31), ('said', 29), ('when', 29), ('other', 28), ('10', 28), ('2008', 28), ('their', 27), ('state', 27), ('if', 26), ('how', 26), ('money', 26), ('had', 26), ('2011', 26), ('puerto', 26), ('players', 26), ('some', 25), ('rico', 25), ('only', 24), ('new', 24), ('no', 24), ('fuck', 24), ('obama', 24), ('officers', 23), ('there', 23), ('can', 23), ('those', 23), ('remix', 23)]

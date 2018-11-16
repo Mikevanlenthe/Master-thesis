@@ -1,0 +1,62 @@
+Article: most-common-name
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2094
+Raw number of types: 614
+Raw Type token ratio (higher = more diversity in language use): 0.2932187201528176
+
+100 most freq tokens before (pre)processing: 
+[('the', 2961), (',', 2949), ('.', 1828), ('of', 1422), ('a', 1247), ('in', 1169), ('to', 1108), ('and', 1022), ('’', 876), ('that', 657), (':', 630), ('s', 518), ('is', 474), ('for', 468), ('our', 447), ('on', 446), ('it', 437), ('verdict', 377), ('with', 339), ('at', 322), ('“', 308), ('are', 307), ('”', 307), ('(', 294), (')', 294), ('1', 291), ('by', 287), ('more', 286), ('—', 279), ('trump', 277), ('i', 275), ('percent', 274), ('as', 265), ('but', 257), ('this', 255), ('we', 233), ('you', 232), ('than', 221), ('from', 220), ('have', 217), ('was', 212), ('about', 201), ('like', 190), ('t', 188), ('data', 188), ('positive', 187), ('or', 187), ('an', 170), ('has', 168), ('be', 167), ('he', 163), ('they', 162), ('one', 157), ('donald', 146), ('his', 144), ('who', 142), ('all', 142), ('were', 139), ('neutral', 132), ('other', 130), ('most', 128), ('<', 128), ('so', 126), ('>', 126), ('not', 125), ('their', 124), ('there', 122), ('those', 121), ('out', 120), ('?', 120), ('people', 119), ('if', 118), ('when', 117), ('up', 113), ('can', 112), ('/', 111), ('what', 110), ('get', 107), ('which', 106), ('how', 104), ('some', 103), ('just', 100), ('my', 95), ('only', 93), ('each', 93), ('2', 92), ('me', 91), ('had', 87), ('state', 87), (';', 85), ('also', 83), ('negative', 82), ('trump�', 82), ('10', 81), ('its', 80), ('do', 80), ('github', 79), ('new', 78), ('first', 78), ('model', 78)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1693
+Number of types: 583
+Type token ratio: 0.34435912581216777
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, help, dear, are, want, better, have, explain, think, are, bar, say, live, are, make, are, tend, name, aren, have, come, tend, have, ll, say, immigration, have, are, get, tie, know, aren, affect, think, are, choose, are, assume, rodriguez, are, appear, notice, are, placeholder, become, are, maria, correlate, expect, ve, hope, help, suggest, are, have')
+
+('JJ', 'dear, common, andrew, common, first, lastname, united, john, common, north, uk, real, first, last, separate, first, ll, able, third, common, full, top, sophisticated, different, common, first, social, first, alive, actuarial, many, similar, typical, various, first, brittany, considerable, ssa, hispanic, foreignborn, top, common, much, common, hispanic, methodological, able, sure, hispanic, latino, popular, first, unadjusted, first, top, female, statistical, imaginative, whole, american, first, diverse, top, easier, straightforward, last, american, past, ethnic, ethnic, able, racialethnic, percent, white, white, same, overall, white, hispanic, overall, hispanic, major, top, hispanic, white, proportional, clear, many, first, much, common, smith, tricky, first, total, hear, crap, first, last, independent, other, particular, first, lastname, dice, other, common, last, neat, little, misleading, first, important, wrong, basic, demographic, certain, first, last, racial, ethnic, white, hispanic, first, last, spanish, southern, simple, first, lastname, white, simple, basic, top, little, different, strong, racial, ethnic, first, last, independent, american, basic, much, simple, particular, hartman, other, bad, william, simple, bold, such, unpopular, top, other, improbable, couldn, andrew, unlikely, simple, double, huge, clichéd, last, statistical, certain, first, isn, independent, certain, last, simple, likely, hartman, likely, basic, likely, second, dramatic, independent, common, full, garcia, common, github, united, unique')
+
+('NN', 'mona, name, america, mona, chalabi, hope, github, github, datamostcommonname, illustration, joel, plosz, illustration, joel, plosz, smith, name, george, yorkshire, dear, kieron, list, lot, time, money, work, nsa, fit, description, john, smith, name, america, reality, colleague, andrew, technique, conclusion, name, america, security, administration, ssa, database, date, problem, none, minnie, today, account, number, year, life, expectancy, boss, nate, silver, methodology, age, factoring, life, expectancy, popularity, time, instance, tend, ethel, chunk, percent, population, wasn, database, baby, way, latino, country, population, mostcommon, ssa, state, correction, factor, name, detail, footnotes1, way, data, result, name, america, ssa, number, name, male, distribution, diffuse, jargon, baby, percent, name, list, census, bureau, database, number, surname, problem, nomenclature, lot, breakdown, population, breakdown, number, surname, growth, name, example, surname, smith, surname, garcia, percent, hispanic, number, rate, population, percent, ditto, garcia, share, garcia, rate, reshuffling, population, lot, percent, population, period, end, share, garcias, population, share, smiths, calculation, fashion, rate, surname, mile, surname, johnson, bar, bit, number, country, chance, michael, chance, surname, smith, probability, michael, smith, something, column, methodology, death, population, growth, person, name, name, nothing, number, combination, point, let, country, chart, reason, census, bureau, group, percent, surname, heimerl, percent, surname, rezendiz, year, associate, professor, emeritus, illinois, university, intuition, hartman, idea, website, reality, way, mark, hartman, didn, table, ssa, census, name, thomas, name, likelihood, name, chance, thomas, rodriguez, percent, hartman, number, phonebook, name, percent, prevalence, name, matrix, click, chart, idea, order, number, john, johnson, david, davis, thomas, thomas, mark, martin, daniel, davis, list, name, computer, ethnicity, detect, matter, name, don, plan, daughter, mine, event, surname, lott, offense, surname, john, smith, percent, fewer, phone, book, blow, figure, history, name, byname, blandness, step, fact, name, john, name, smith, name, account, research, probability, result, michael, smith, name, america, place, example, garcia, name, maria, smith, hartman, percent, name, combination, analysis, page, george, name, mona, question, fivethirtyeightcom, datalab538')
+
+('NNS', 'flowers, numbers, data, data, combinations, states, names, americans, databases, names, surnames, data, sets, flowers, james, names, names, babies, deaths, babies, data, americans, names, names, women, people, names, names, immigrants, data, states, populations, immigrants, maria, data, calculations, americans, names, names, data, names, parents, girls, names, americans, surnames, americans, presents, years, individuals, surnames, instances, groups, smiths, surnames, names, surnames, americans, numbers, names, surnames, probabilities, people, adjustments, rates, variables, americans, isn, names, names, probabilities, facts, names, americans, publishes, surnames, americans, facts, americans, maria, maria, combinations, pages, probabilities, probabilities, names, records, ours, factors, examples, americans, thomas, whitepagescom, people, probabilities, probabilities, gems, names, americans, williams, probabilities, alliterations, parents, combinations, flowers, americans, probabilities, chances, chances, estimates, combinations, combinations, james, changes, probabilities, data, maria, maria, skyrockets, data, numbers, probabilities, people, states, andrew')
+
+('VBN', 'filed, stitched, bar, born, named, born, started, adjusted, based, reflected, labeled, given, published, changed, named, called, called, related, distributed, breakdown, called, miller, named, called, called, bypassed, expected, posted, used, reckon, answered')
+
+('VB', 'get, try, piece, be, be, say, make, get, be, tip, take, figure, be, count, make, see, be, use, be, have, account, adjust, change, figure, get, treat, do, illustrate, use, multiply, test, look, see, show, take, be, suggest, see, underestimate, expand, assume, go, suggest, be, extend, factor, change, go, suggest, suffer, account, say, suggest, be, rank, garcia, kieron, move, be, like, send, dearmona')
+
+('VBZ', 'is, is, don, is, has, is, corrects, is, tends, appears, has, is, is, goes, goes, is, is, is, is, assumes, looks, is, is, surnames, shows, looks, does, is, is, reveal, is, is, appears, means')
+
+('NNP', 'kieron')
+
+('JJS', 'least, most, most, most, most')
+
+('VBG', 'going, using, varying, focusing, according, having, dividing, being, having, being, guessing, rolling, using, having, being, searching, using, picking, calling, being, having, having, taking, according, according')
+
+('VBD', 'doesn, tried, reached, got, christened, looked, tried, used, looked, named, included, needed, took, found, were, calculated, was, were, were, moved, had, was, was, looked, were, assumed, grew, was, grew, caused, grew, was, turned, showed, multiplied, crap, were, were, lee, tried, had, captured, found, were, rodriguez, found, was, were, wired, put, rose, were, wouldn, took, let, adjusted, dropped, was, were, was, set, were')
+
+('JJR', 'answer, younger, more, higher, less, more, more, slower, more, lower, lower, more')
+
+100 most freq tokens after processing: 
+[('the', 2961), ('of', 1422), ('in', 1169), ('to', 1108), ('and', 1022), ('that', 659), ('is', 474), ('for', 469), ('our', 447), ('on', 446), ('it', 438), ('verdict', 377), ('with', 339), ('at', 322), ('are', 307), ('by', 287), ('more', 286), ('percent', 278), ('trump', 277), ('as', 265), ('but', 257), ('this', 255), ('we', 233), ('you', 232), ('than', 221), ('from', 220), ('have', 217), ('was', 212), ('about', 201), ('like', 190), ('data', 188), ('positive', 188), ('or', 187), ('an', 170), ('has', 168), ('be', 168), ('he', 163), ('they', 162), ('one', 160), ('donald', 147), ('his', 144), ('who', 142), ('all', 142), ('were', 139), ('neutral', 132), ('other', 131), ('most', 128), ('so', 127), ('not', 125), ('their', 124), ('there', 122), ('out', 121), ('those', 121), ('people', 119), ('if', 118), ('when', 117), ('up', 113), ('can', 112), ('what', 110), ('get', 107), ('which', 106), ('how', 104), ('some', 103), ('just', 100), ('my', 95), ('only', 93), ('each', 93), ('10', 93), ('me', 92), ('bar', 89), ('had', 87), ('state', 87), ('also', 83), ('negative', 82), ('trump�', 82), ('first', 81), ('its', 80), ('do', 80), ('github', 79), ('new', 78), ('model', 78), ('said', 77), ('films', 77), ('year', 72), ('points', 72), ('polls', 72), ('two', 71), ('number', 71), ('would', 70), ('national', 68), ('time', 67), ('�i', 67), ('where', 65), ('over', 64), ('these', 63), ('2015', 63), ('last', 63), ('any', 63), ('women', 63), ('2014', 62)]

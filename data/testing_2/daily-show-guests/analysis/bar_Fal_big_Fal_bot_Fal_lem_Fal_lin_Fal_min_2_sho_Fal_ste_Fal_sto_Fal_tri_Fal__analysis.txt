@@ -1,0 +1,58 @@
+Article: daily-show-guests
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 647
+Raw number of types: 315
+Raw Type token ratio (higher = more diversity in language use): 0.4868624420401855
+
+100 most freq tokens before (pre)processing: 
+[(',', 955), ('the', 522), (':', 406), ('our', 387), ('verdict', 377), ('in', 256), ('.', 231), ('of', 228), ('trump', 227), ('1', 223), ('a', 222), ('to', 200), ('and', 195), ('positive', 182), ('i', 144), ('donald', 142), ('neutral', 131), ('like', 107), ('on', 104), ('that', 101), ('/', 95), ('for', 94), ('’', 90), ('(', 86), (')', 86), ('is', 85), ('trump�', 82), ('with', 80), ('negative', 80), ('it', 77), ('at', 76), ("'m", 72), ('�i', 67), ('you', 64), ('my', 64), ('s', 59), ('was', 57), ('me', 57), ('hillary', 57), ('percent', 52), ("'s", 52), ('from', 49), ('but', 48), ('�', 46), ("n't", 46), ("'", 46), ('2015', 45), ('2013', 44), ('were', 43), ('clinton', 41), ('by', 40), ('more', 40), ('than', 40), ('police', 39), ('they', 37), ('have', 37), ('up', 37), ('--', 37), ('we', 36), ('2016', 36), ('2014', 34), ('has', 34), ('who', 34), ('2012', 34), ('this', 33), ('be', 33), ('got', 33), ('drivers', 33), ('data', 32), ('?', 32), ('weather', 32), ('do', 31), ('as', 31), ('get', 30), ('his', 30), ('bill', 30), ('—', 29), ('not', 29), ('all', 29), ('people', 29), ('are', 28), ('just', 28), ('2008', 28), ('2', 28), ('he', 27), ('or', 27), ('state', 27), ('so', 26), ('out', 26), ('money', 26), ('an', 24), (';', 24), ('fuck', 24), ('<', 24), ('>', 24), ('2011', 24), ('obama', 24), ('officers', 23), ('about', 23), ('remix', 23)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 522
+Number of types: 291
+Type token ratio: 0.5574712643678161
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'aug, guest, jon, stewart, show, walt, hickey, tv, data, github, github, president, obama, stewart, host, show, york, evan, vucci, era, show, stewart, episode, tonight, show, tv, stewart, alma, mater, graduation, school, wouldn, taping, show, audience, member, elizabeth, washington, record, way, rally, sanity, stewart, part, hell, run, show, look, showbyshow, list, profile, google, knowledge, graph, chair, mind, fusion, everyone, show, way, today, formula, talk, show, list, stewart, run, arm, sometime, figure, program, presence, dole, show, presence, politicos, gap, presence, show, war, time, bar, show, show, emphasis, fifth, percent, government, military, percent, actor, movie, year, bar, couple, plurality, show, count, fareed, zakaria, show, denis, boss, appearance, march, jon, stewart, tonight, comedy')
+
+('VBP', 'am, get, tour, walk, are, stewart, have, ve, caught')
+
+('VBD', 'had, was, went, shut, attended, jammed, was, was, started, pulled, crosschecked, sat, meld, talked, changed, started, dominated, had, was, appeared, were, started, was, left, came, were, were, began')
+
+('JJ', 'daily, jon, daily, new, daily, jon, last, new, old, mary, prospective, late, other, big, daily, interesting, guest, unique, other, standard, first, first, political, bob, other, first, several, subdued, military, consistent, whole, important, outsized, last, represent, daily, leary, brian, last, mic, central')
+
+('VBN', 'filed, been, changed, interviewed, been, shot, relegated, been, been, affiliated, sucked, had, followed, been')
+
+('NNS', 'data, datadailyshowguests, years, students, edwards, friends, roommates, people, ways, guests, guests, years, friends, muppets, actors, comedians, years, people, visits, comedians, performers, years, media, figures, authors, figures, politicians, politics, guests, politics, media, figures, years, actors, musicians, comedians, guests, williams, times, edt')
+
+('VBG', 'taping, ending, featuring, helping, growing, leaving, hosting, happening, filling, showing, promoting, kicking, begging')
+
+('VBZ', 'is, airs, has, metro, has, has, feels, is, has, appearances, has, drops')
+
+('VB', 'william, set, restore, find, monarchs, grace, head, have, be, appear, come')
+
+('JJS', 'guest')
+
+100 most freq tokens after processing: 
+[('the', 522), ('our', 387), ('verdict', 377), ('in', 256), ('of', 228), ('trump', 227), ('to', 200), ('and', 195), ('positive', 183), ('donald', 143), ('neutral', 131), ('like', 107), ('on', 104), ('that', 101), ('for', 94), ('is', 85), ('trump�', 82), ('with', 80), ('negative', 80), ('it', 77), ('at', 76), ('�i', 67), ('you', 64), ('my', 64), ('was', 57), ('me', 57), ('hillary', 57), ('percent', 55), ('from', 49), ('but', 48), ('2015', 47), ('nt', 46), ('2013', 44), ('were', 43), ('clinton', 41), ('by', 40), ('more', 40), ('than', 40), ('police', 39), ('they', 37), ('have', 37), ('2016', 37), ('up', 37), ('2014', 36), ('we', 36), ('2012', 35), ('has', 34), ('who', 34), ('this', 33), ('be', 33), ('got', 33), ('drivers', 33), ('data', 32), ('weather', 32), ('do', 31), ('as', 31), ('get', 30), ('his', 30), ('bill', 30), ('not', 29), ('all', 29), ('people', 29), ('are', 28), ('just', 28), ('2008', 28), ('he', 27), ('or', 27), ('state', 27), ('so', 26), ('out', 26), ('money', 26), ('2011', 25), ('an', 24), ('fuck', 24), ('obama', 24), ('officers', 23), ('about', 23), ('10', 23), ('remix', 23), ('their', 22), ('2010', 22), ('city', 21), ('how', 21), ('no', 21), ('can', 21), ('what', 21), ('live', 20), ('black', 20), ('one', 20), ('2000', 20), ('your', 20), ('ai', 20), ('only', 19), ('if', 19), ('been', 19), ('said', 19), ('those', 19), ('white', 18), ('there', 18), ('some', 18)]

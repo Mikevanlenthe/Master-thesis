@@ -1,0 +1,264 @@
+Sentence nr: 0
+Jun.
+
+Sentence nr: 1
+6, 2015 at 6:00 AM Why Some Tennis Matches Take Forever By Carl Bialik Filed under Tick Tock Get the data on GitHub GitHub data at data/tennis-time FacebookTwitterEmail Rafael Nadal takes a break and a towel as he plays Novak Djokovic in the 2014 French Open.
+
+Sentence nr: 2
+Thibault Camus / AP Rafael Nadal takes a break and a towel as he plays Novak Djokovic in the 2014 French Open.
+
+Sentence nr: 3
+Thibault Camus / AP Nine-time French Open champ Rafael Nadal is one of the slowest players of the last 25 years.
+
+Sentence nr: 4
+Roger Federer is faster than average.
+
+Sentence nr: 5
+Novak Djokovic is slower than average — but has gotten faster.
+
+Sentence nr: 6
+Andy Murray, on the other hand, has slowed down.
+
+Sentence nr: 7
+I’m not talking about foot speed, or about the speed of the ball off the racket.
+
+Sentence nr: 8
+I’m talking about how long it takes to play a point of tennis.
+
+Sentence nr: 9
+Like baseball, tennis isn’t bound by a clock, but it does keep time.
+
+Sentence nr: 10
+A match isn’t over until one player wins two sets or three.
+
+Sentence nr: 11
+And who the players are goes a long way to deciding how long it takes to go from start to finish.
+
+Sentence nr: 12
+The topic has been especially urgent at this year’s French Open, which lacks a roof and floodlights and must squeeze in play between darkness and rain.
+
+Sentence nr: 13
+If Djokovic and Murray played slightly faster, they might have finished their semifinal Friday.
+
+Sentence nr: 14
+Instead the match was suspended at 3-3 in the fourth set because of an imminent storm at around 8:30 p.m. local time.
+
+Sentence nr: 15
+That will force the winner of the match to play three days in a row, which could be a disadvantage in the final.
+
+Sentence nr: 16
+For an illustration of how much pace matters, consider two four-set matches that finished Monday in Paris.
+
+Sentence nr: 17
+Speedy Roger Federer finished off relatively fast Gael Monfils in two hours and 12 minutes, taking 36 seconds per point.
+
+Sentence nr: 18
+Rafael Nadal’s defeat of Jack Sock, on the other hand, required two fewer points but 41 more minutes; it took 47 seconds per point.
+
+Sentence nr: 19
+All those seconds add up fast.1 Before just about every serve, Nadal went through most parts of his usual ritual: He cleaned the baseline with his foot, tapped his shoes with his racket to knock the clay off, rejected one of the three balls he was offered, bounced one of the others with his racket while with his right hand he picked at the back of his shorts, dried his face and the area behind his ears, rubbed his hand on his shirt, rocked back and forth — and served.
+
+Sentence nr: 20
+When he missed the first serve, he did some of the same things on his second serve, including picking at the back of his shorts and rocking back and forth.
+
+Sentence nr: 21
+Players are allowed no more than 20 seconds between serves at Grand Slams2; if they exceed that threshold twice and are called for it, they lose a first serve.
+
+Sentence nr: 22
+Some players stretch and shrink the time as a tactic to rest or throw off opponents.
+
+Sentence nr: 23
+Over several games and sets, slower play can add 15 minutes or more to a match, throwing off television schedules and testing the patience of fans.
+
+Sentence nr: 24
+It matters enough to the ATP, which runs the men’s tour, that it cracked down on slow play two years ago by enforcing the rules more strictly.
+
+Sentence nr: 25
+Then again, thrilling long rallies take longer and create longer breaks in between, so a slowdown could be a good sign for the sport.
+
+Sentence nr: 26
+I’ve studied the question of what determines the length of a match before, using Little Data: stopwatching the time between a few hundred points, correlating with rally length and other factors.
+
+Sentence nr: 27
+But now we have easy access to big data in tennis.
+
+Sentence nr: 28
+Analyst Jeff Sackmann has posted to GitHub match stats for the last 25 years of the men’s tour.
+
+Sentence nr: 29
+(Match stats for the women’s tour aren’t available.3) There are nearly 25 years of matches in there — 71,027 in all,4 and enough variables for us to tease out which factors have the biggest effect on how long matches take.
+
+Sentence nr: 30
+Like I did last year with baseball games, I ran a regression to see how each of a match’s building blocks affects how long it takes, per point.5 (We’ve uploaded part of my findings on Github for all to see.)
+
+Sentence nr: 31
+In the early 1990s, the era in which Pete Sampras served-and-volleyed to success and Andre Agassi rushed from one side of the court to the other between serves, the game sped up.
+
+Sentence nr: 32
+Then, starting in the late 1990s, as play shifted to baseline battles, it slowed down — until 2012, when the average point took 4.6 seconds longer than in 1991, all else equal.
+
+Sentence nr: 33
+That doesn’t sound like much, but it amounts to 19 extra minutes over 250 points, a typical number for a best-of-five-set match.
+
+Sentence nr: 34
+In 2012, the five-set Australian Open final between Nadal and Djokovic took five hours and 53 minutes, and raised cries for the game to speed up.
+
+Sentence nr: 35
+The next year, the ATP answered by encouraging umpires to call time violations more strictly — and it appears to have worked.
+
+Sentence nr: 36
+That year play sped up by 2.6 seconds per point, and it has remained roughly at that level since.
+
+Sentence nr: 37
+Surface matters, too.
+
+Sentence nr: 38
+The four fastest tournaments were on grass — with Wimbledon the fastest.
+
+Sentence nr: 39
+The 11 slowest were on clay.
+
+Sentence nr: 40
+Grass encourages the fastest rallies in the sport, which take less time and require less recovery.
+
+Sentence nr: 41
+Clay is at the other extreme.6 But some players matter just as much as the year or surface.
+
+Sentence nr: 42
+The difference between Dustin Brown, the fastest player with at least 50 matches, and Nicolas Massu, the slowest, is 12.6 seconds per point — bigger than the difference between the slowest and fastest years, or slowest and fastest tournaments.7 We’ve posted pace estimates for 218 players and for 205 events on GitHub.
+
+Sentence nr: 43
+This analysis isn’t only about how much time players take between points.
+
+Sentence nr: 44
+The official stats don’t break out that number.
+
+Sentence nr: 45
+A player can affect the pace of play both by how much time he takes between points — mainly when serving — and how much time it takes him to play a point.
+
+Sentence nr: 46
+Players who are fast between points but engage in epic rallies during them — such as Monfils — don’t show up as outliers.
+
+Sentence nr: 47
+Nadal, meanwhile, is slow between points and also plays many long rallies.
+
+Sentence nr: 48
+To check what I was capturing, I went back to Little Data.
+
+Sentence nr: 49
+Using my trusty smartphone stopwatch function, I timed how long 15 players took to serve at the French Open.
+
+Sentence nr: 50
+Then I correlated the time they took between each serve with the time the analysis showed they add to the average point.
+
+Sentence nr: 51
+The two quantities had a fairly high correlation, suggesting that the players who add time to matches do so at least in large part by adding time between points.8 Playing slow puts players in good company.
+
+Sentence nr: 52
+Some of the greatest players of all time do or did: Nadal, Djokovic and Murray join fellow multiple-Slam-winners Jimmy Connors, Jim Courier, Ivan Lendl and John McEnroe, who were all slow, albeit relative to their cohorts’ faster times.
+
+Sentence nr: 53
+But slower players are only marginally better: There is essentially no correlation between career winning percentage and relative speed of play.9 Great players like Federer and 2001 Wimbledon champ Goran Ivanisevic played faster than average.
+
+Sentence nr: 54
+My analysis assumed each player maintains the same pace throughout his career, but anyone can change his pace of play.
+
+Sentence nr: 55
+To find out who has, I compared actual and expected pace for each match10: Nadal is vexed that time has become such a pressing topic lately.
+
+Sentence nr: 56
+“I don’t know why but is very interesting that we are talking a lot about time the last three years,” he said in response to a question of mine at a news conference here at the French Open.
+
+Sentence nr: 57
+“I have been on the tour for 13 years, so for the first 10 years I have been on the tour I don’t think I was quicker than now, and we were not talking about that.” Nadal was so peeved by one umpire’s enforcement of time rules earlier this year that he asked for the ump to be removed from his upcoming matches, a request that was granted.
+
+Sentence nr: 58
+Murray knows sometimes he is too slow.
+
+Sentence nr: 59
+“I don’t mean to do it,” he said.
+
+Sentence nr: 60
+Then again, it’s hard to know when he’s taking too much time.
+
+Sentence nr: 61
+“Are we supposed to spend the 25 seconds before you serve counting in your head to 25?
+
+Sentence nr: 62
+No, you’re thinking about tactics or, you know, other things, what you’re about to do with the serve, where you’re going to play the serve.
+
+Sentence nr: 63
+And, yeah, sometimes you can go too slow.” Since Murray and Nadal grew tired of all the time questions, I asked some of today’s fastest players why they push the pace.
+
+Sentence nr: 64
+All of them said that’s always been their style.
+
+Sentence nr: 65
+Australian Bernard Tomic said he plays fast deliberately.
+
+Sentence nr: 66
+He told me that mixing up pace between points is another way to throw off opponents, like changing the speed or spin of the ball.
+
+Sentence nr: 67
+“Everyone plays differently,” Tomic said.
+
+Sentence nr: 68
+“That’s the weapon you have these days.” Lukas Rosol, a Czech player, and American Sam Querrey both said they like to get into a rhythm when serving.
+
+Sentence nr: 69
+Waiting too long between points can break that up.
+
+Sentence nr: 70
+Querrey gets annoyed when he has to wait too long to return, and he figures spectators do, too.
+
+Sentence nr: 71
+“Sports that are popular are ones that have pretty good pace of play,” he said.
+
+Sentence nr: 72
+Some players told The Washington Post they want the game sped up, such as by forcing servers to hit their first ball toss, no matter how errant.
+
+Sentence nr: 73
+On Monday, during Nadal’s slow-paced match against Sock, I caught up with some more outliers among retired greats at a joint news conference to promote the seniors tournament.
+
+Sentence nr: 74
+The ex-players’ sense of their own pace generally squared with the analysis.
+
+Sentence nr: 75
+“I didn’t take any time,” said Ivanisevic, the 2001 Wimbledon champ.
+
+Sentence nr: 76
+“I just liked to play fast.” He recalled playing Agassi, another fast player, in a five-setter that took two hours.
+
+Sentence nr: 77
+He was a bit off, but the match was still pretty fast for a five-setter, taking two hours and 50 minutes.
+
+Sentence nr: 78
+Ivanisevic has to watch a lot of tennis these days, as coach of defending U.S. Open champ Marin Cilic, and he wishes players would move faster.
+
+Sentence nr: 79
+“Maybe they should go to the towel just half the time,” he said.
+
+Sentence nr: 80
+Michael Chang, the 1989 French Open champ, correctly guessed that he was somewhere in between Ivanisevic and Nadal in pace.
+
+Sentence nr: 81
+He doesn’t blame Nadal: “A guy like Rafa, he sweats profusely,” Chang said.
+
+Sentence nr: 82
+So did Pat Cash, the 1987 Wimbledon champ.
+
+Sentence nr: 83
+“I was one of the sweatiest players in the history of the game,” he said.
+
+Sentence nr: 84
+He also often ended points at the net, so he needed time to walk back to the baseline.
+
+Sentence nr: 85
+Nonetheless, he used to rush as a young player, until he was taught to slow down — so slow, he was one of the slowest players, relative to his era.
+
+Sentence nr: 86
+Cash thinks that the sport, with its protracted baseline rallies, is better today, and that there’s nothing wrong with players taking a 30-second break after a rally at least that long.
+
+Sentence nr: 87
+“Spectators have got to catch their breath,” he said.
+
