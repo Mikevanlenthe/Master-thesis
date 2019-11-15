@@ -1,0 +1,111 @@
+Sentence nr: 0
+Apr.
+
+Sentence nr: 1
+19, 2017 at 10:41 AM How ‘Qi’ And ‘Za’ Changed Scrabble By Oliver Roeder Filed under Games Get the data on GitHub GitHub data at data/scrabble-games FacebookTwitterEmail I had a grand plan, dear reader.
+
+Sentence nr: 2
+I planned to shed quantitative light on the problem of income inequality.
+
+Sentence nr: 3
+And I planned to do it with a million games of web-scraped Scrabble tournament data.
+
+Sentence nr: 4
+But, like in Scrabble, where the best-laid plans sometimes leave you holding a rack full of vowels and nowhere to play them, I was left with unanswered questions and a pile of data.
+
+Sentence nr: 5
+Turns out that Scrabble can’t explain a core economic concept.
+
+Sentence nr: 6
+But please bear with me.
+
+Sentence nr: 7
+There’s a data party favor at the end.
+
+Sentence nr: 8
+Inequality has skyrocketed in the U.S. over the past half-century, documented in great detail by all sorts of folks.
+
+Sentence nr: 9
+One theory for the widening gap between the 1 percent and the 99 percent is technological change: When new technologies emerge, higher-skilled and higher-earning workers can more quickly adapt to and exploit them, the notion goes.
+
+Sentence nr: 10
+They become more effective at work and can earn even more, and the gulf widens.
+
+Sentence nr: 11
+There has been dramatic “technological” change in Scrabble, too, and it involves dictionaries.
+
+Sentence nr: 12
+Every weekend, in hotel ballrooms, empty offices and fast-food restaurants across the country, tournament Scrabble players take their seats, two to a board, to place the game’s 100 lettered tiles.
+
+Sentence nr: 13
+This is the Scrabble “economy.” Governing the interactions in this economy is a dictionary full of tens of thousands of allowed words.
+
+Sentence nr: 14
+Every so often, the book gets even thicker — Scrabble’s “technology” improves.
+
+Sentence nr: 15
+About a decade ago, there was an actual technological revolution in the game: Its training tools went digital, allowing players to learn words and strategies more easily.
+
+Sentence nr: 16
+In 2006, an early version of Zyzzyva, a now-indispensable word-study tool, was first publicized, and Quackle, a Scrabble analysis engine and A.I.
+
+Sentence nr: 17
+sparring partner, was publicly released.
+
+Sentence nr: 18
+The biggest change happened that same year, in March, when a new dictionary, the second edition of the Official Tournament and Club Word List, took effect.
+
+Sentence nr: 19
+This edition christened QI and ZA as valid Scrabble words in North American play, along with FE, KI, OI and an additional 11,000-odd longer words.
+
+Sentence nr: 20
+Two-letter words are the building blocks of Scrabble’s DNA, and the Q and Z are juicy high-point tiles — so the game evolved instantly.1 You can see that in the data set I created by scraping over 1.5 million tournament games covering the years 1973 to 2017 from cross-tables.com, an online clearinghouse for Scrabble tournament results.
+
+Sentence nr: 21
+After the new dictionary hit the scene, the average score grew by about 10 points per player per game overnight.
+
+Sentence nr: 22
+(The average score in the data set is about 374.
+
+Sentence nr: 23
+)2 But what other effects did this technical lexical revolution have?
+
+Sentence nr: 24
+Did better players more effectively exploit these new words, increasing their average score more than their mediocre weekend counterparts?
+
+Sentence nr: 25
+Did the Scrabble rich get Scrabble richer?
+
+Sentence nr: 26
+Did income — ahem, point-scoring — inequality increase?
+
+Sentence nr: 27
+I, and experts I spoke with, suspected yes.
+
+Sentence nr: 28
+“One of the reasons I love Scrabble is the complex metagame — every time there’s a new development, like a dictionary update, everyone has to adapt, and the game changes,” Evans Clinchy, a top player from Oregon, told me.
+
+Sentence nr: 29
+“I definitely think that stronger players are better-equipped to exploit these changes than weaker ones.” But when I ran the numbers, trying to uncover inequality-exacerbating distributional effects of new words in the Scrabble economy, there was weak evidence at best.
+
+Sentence nr: 30
+In fact, players of all skill levels seemed to benefit more or less equally from the expanded word lists, and average scoring went up similarly across the board.
+
+Sentence nr: 31
+But maybe some light does shine through this Scrabble keyhole onto larger questions of macroeconomy.
+
+Sentence nr: 32
+Thomas Piketty, a French economist and the author of “Capital in the Twenty-First Century,” for example, is sharply skeptical of the technology explanation for income inequality, even if he probably didn’t have Scrabble in mind.
+
+Sentence nr: 33
+(By my count, the game isn’t mentioned once in his book’s 704 pages.)
+
+Sentence nr: 34
+FiveThirtyEight believes in showing its work, which is why you read this piece of scratch paper and why we’ve posted the data to GitHub.
+
+Sentence nr: 35
+If you find anything interesting, or end up using this in your economics dissertation, let me know!
+
+Sentence nr: 36
+Dhrumil Mehta contributed research.
+

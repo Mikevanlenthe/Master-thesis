@@ -1,0 +1,150 @@
+Sentence nr: 0
+Jul.
+
+Sentence nr: 1
+25, 2014 at 3:21 PM Dear Mona, How Many Couples Sleep in Separate Beds?
+
+Sentence nr: 2
+By Mona Chalabi Filed under Hope the Numbers Help Get the data on GitHub GitHub data at data/sleeping-alone-data FacebookTwitterEmail Merle Oberon and Melvin Douglas in a movie in which censors required twin beds.
+
+Sentence nr: 3
+AP Dear Mona, My wife and I sleep in different beds.
+
+Sentence nr: 4
+How many couples are like us?
+
+Sentence nr: 5
+Anonymous, 38 Dear Anonymous, In 1927, the Motion Picture Association of America issued “The Don’ts and Be Carefuls.” Item No.
+
+Sentence nr: 6
+19 in the “be careful” section of the list was “man and woman in bed together” — a scene the organization thought could risk “vulgarity and suggestiveness.” Even decades later on TV, Lucy and Ricky were always shown in separate beds in “I Love Lucy” despite being married offscreen, as well as on it.
+
+Sentence nr: 7
+Times have changed.
+
+Sentence nr: 8
+It doesn’t take a data journalist to work out that the chances of you having seen a couple sharing a bed onscreen is high.
+
+Sentence nr: 9
+But the reality of what’s happening offscreen is harder to gauge, tucked away in bedrooms.
+
+Sentence nr: 10
+After all, Anonymous, how many people have you told about your sleeping arrangements?
+
+Sentence nr: 11
+The best existing data comes from the National Sleep Foundation.
+
+Sentence nr: 12
+It found that 23 percent of respondents to its Sleep in America poll who were married or living with someone sleep in a separate bed or on the couch.
+
+Sentence nr: 13
+But it didn’t ask why those couples were sleeping apart or how often they did so.
+
+Sentence nr: 14
+Plus that survey was conducted in 2004, so we thought it was worth getting some new, more detailed data on the topic.
+
+Sentence nr: 15
+Early this month, we asked SurveyMonkey Audience to help us out.
+
+Sentence nr: 16
+It gathered responses from 1,057 American adults who were married, in a domestic partnership, in civil union or cohabiting with a significant other.
+
+Sentence nr: 17
+(Find the data on our GitHub page.)
+
+Sentence nr: 18
+Almost half of the respondents said they have slept apart from their partner at least once.
+
+Sentence nr: 19
+And some couples are doing that regularly: 14 percent said that when they and their partner are home, they sleep apart every night.
+
+Sentence nr: 20
+I was curious whether those respondents conform to stereotypes; are older, married couples or those who have been together for years the ones most likely to sleep apart?
+
+Sentence nr: 21
+Let’s look at those factors individually.
+
+Sentence nr: 22
+First up, age.
+
+Sentence nr: 23
+Respondents 60 and older were the most likely to sleep apart — 22 percent compared with just 5 percent of respondents 18 to 29.
+
+Sentence nr: 24
+(We’ll get to the possible reasons why later.)
+
+Sentence nr: 25
+Marital status is an altogether different story.
+
+Sentence nr: 26
+Just a few percentage points separate the rate that cohabiting couples and legally partnered couples sleep in separate beds.
+
+Sentence nr: 27
+So, other factors aside, Anonymous, your sleeping arrangement is no less surprising because you mentioned a wife rather than a girlfriend.
+
+Sentence nr: 28
+Finally, how does the number of years spent together affect the chances of sleeping together?
+
+Sentence nr: 29
+Of couples who had been together for five years or less, 9 percent said they slept apart every night, compared with 16 percent of couples who had been together 20 years or more (of course, those results could be a function of age or vice versa).
+
+Sentence nr: 30
+I have no idea how long you and your wife have been together, Anonymous, but it turns out that the “I Love Lucy” setup — two beds, one room — is pretty outdated.
+
+Sentence nr: 31
+Just 12 respondents (3 percent of those who sleep apart) said they share a bedroom but have separate beds.
+
+Sentence nr: 32
+Of the 482 people who specified where they slept when they slept apart, 39 percent said separate bedrooms and 31 percent said the couch were the best way to find some space.
+
+Sentence nr: 33
+It’s worth remembering, though, that those choices are often constrained, a point made by Paul Rosenblatt, a professor emeritus at the University of Minnesota.
+
+Sentence nr: 34
+Wealth and class play a large role in sleeping arrangements, Rosenblatt said.
+
+Sentence nr: 35
+Referring to his research on sleep patterns, Rosenblatt found that “bed sharing challenges are quite different from those of people who can afford a house with several master bedrooms and maybe several wings.” But the question is, why does a couple (or at least one half of it) decide to sleep apart in the first place?
+
+Sentence nr: 36
+We tried to offer people as comprehensive a list of reasons as possible and the option to tick all the boxes that applied to them.
+
+Sentence nr: 37
+Unsurprisingly, high on the list was snoring (checked by 46 percent of those who sleep apart), illness (26 percent) and arguments (15 percent).
+
+Sentence nr: 38
+But while I was thinking about bedroom behavior, Anonymous, I realized how different this response would be if you had posed the question thus: “my wife and I no longer sleep together.” That sex and sleep are used interchangeably is a bizarre euphemism.
+
+Sentence nr: 39
+But the link between sex and sleep may be overstated, according to the co-founders of the Bedtime Network, an online community dedicated to sharing sleeping tips.
+
+Sentence nr: 40
+Cindy Bressler and Lisa Mercurio say that “couples can sometimes achieve a better relationship overall when sleeping is held sacrosanct and sex-time is scheduled and/or prioritized.” We tested that theory by asking respondents whether they agreed with the statement “our sex life has improved as a result of sleeping in separate beds.” Of the 482 who responded, just 5 percent of respondents agreed, and 40 percent said they “strongly disagreed.” That suggests the Bedtime Network might be slightly optimistic about the effects of sleeping apart.
+
+Sentence nr: 41
+If it’s any comfort, those responses are just a result of evolution and social norms.
+
+Sentence nr: 42
+According to Neil Stanley, a doctor who managed a sleep laboratory at the Norfolk and Norwich University Hospitals in England, the link between sex and sleep is a uniquely human trend and a thoroughly modern phenomenon: This sleeping arrangement, caused merely by lack of space, has lead to our idea that sleep, sex and the bedroom are somehow linked.
+
+Sentence nr: 43
+In other animals there is no connection between sleep and sex, they are entirely separate activities carried out at different times and different locations.
+
+Sentence nr: 44
+The reason they became linked in the human mind is that at the same time as we started building ‘bedrooms’ we were also developing our sense of shame/embarrassment.
+
+Sentence nr: 45
+Therefore because sleep and sex were behind the closed bedroom door, as it was the one place the adults could get some privacy, the bedroom became inextricably linked with sleep and sex.
+
+Sentence nr: 46
+So, plenty of other couples, regardless of marital status, have similarly separate sleeping arrangements.
+
+Sentence nr: 47
+As do most couples in the animal kingdom.
+
+Sentence nr: 48
+Hope the numbers help, Mona Have a question you would like answered here?
+
+Sentence nr: 49
+Send it to dearmona@fivethirtyeight.com or @DataLab538.
+

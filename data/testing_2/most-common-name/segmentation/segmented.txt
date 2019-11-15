@@ -1,0 +1,219 @@
+Sentence nr: 0
+Nov. 20, 2014 at 7:37 AM Dear Mona, What’s The Most Common Name In America?
+
+Sentence nr: 1
+By Mona Chalabi and Andrew Flowers Filed under Hope the Numbers Help Get the data on GitHub GitHub data at data/most-common-name FacebookTwitterEmail Illustration by Joel Plosz Illustration by Joel Plosz Dear Mona, What are the most common first- and last-name combinations in the United States?
+
+Sentence nr: 2
+Is John Smith really the most common name?
+
+Sentence nr: 3
+Kieron George, 21, North Yorkshire, U.K. Dear Kieron, Well, this is a real head-scratcher — not least because if you want a list of the first and last names of Americans, you’d better have either a lot of time and money or work for the NSA.
+
+Sentence nr: 4
+Unfortunately, I don’t fit either description, so I’m going to try to piece together two separate databases — one for first names and one for surnames.
+
+Sentence nr: 5
+But as I’ll explain, those data sets can’t be stitched together so easily.
+
+Sentence nr: 6
+If they could, we’d be able to say that “John Smith” is the third most common full name in America, but in reality it probably doesn’t even make it into the top 10.
+
+Sentence nr: 7
+To get you an answer, my colleague Andrew Flowers and I tried a more sophisticated technique that reached a different conclusion: We think the most common name in America might very well be James Smith.
+
+Sentence nr: 8
+Here’s how we got there.
+
+Sentence nr: 9
+<bar>First off, first names.
+
+Sentence nr: 10
+The Social Security Administration (SSA) has a database of all first names back to 1880.
+
+Sentence nr: 11
+That date should tip you off to a problem — sadly none of the 1,746 babies christened “Minnie” in 1880 is still alive today.
+
+Sentence nr: 12
+To take deaths into account, we looked at the number of babies born each year since 1910 and, using actuarial data on life expectancy, tried to figure out how many of them are still around.
+
+Sentence nr: 13
+(Our boss, Nate Silver, used a similar methodology when he looked at the typical age of Americans with various names.
+
+Sentence nr: 14
+)</bar> Factoring in life expectancy also corrects for the varying popularity of first names over time.
+
+Sentence nr: 15
+For instance, women named Brittany tend to be younger than, say, those named Ethel.
+
+Sentence nr: 16
+But a considerable chunk of people who live in the U.S. — 13 percent of the population — wasn’t born here, and their names aren’t included in the SSA’s database of baby names.
+
+Sentence nr: 17
+We needed a way to count them, too, and started by focusing on immigrants who are Hispanic or Latino, because they make up almost half the country’s foreign-born population.
+
+Sentence nr: 18
+We took the top 1,000 most-common first names from the adjusted SSA data, found out how common they were in each state as of 2013, and then calculated a “correction” factor based on how much more common the name was in states with higher Hispanic populations.
+
+Sentence nr: 19
+(More methodological detail is in the footnotes.1) This way, we were able to make sure Hispanic and Latino immigrants were better reflected in the data.
+
+Sentence nr: 20
+As a result, “Maria” moved up from the 97th most popular first name in America (according to the unadjusted SSA data) to 73rd.
+
+Sentence nr: 21
+After those calculations, we had the number of Americans with just about any first name.
+
+Sentence nr: 22
+You can see that nine of the top 10 names are labeled as male names in the data.
+
+Sentence nr: 23
+That’s because the distribution of female names tends to be more diffuse (or, to use less statistical jargon, parents tend to be more imaginative when they name their baby girls).
+
+Sentence nr: 24
+As a whole, American first names aren’t very diverse — almost 30 percent of Americans have a given name that appears in the top 100 list.
+
+Sentence nr: 25
+Next up, surnames.
+
+Sentence nr: 26
+This was a bit easier because the Census Bureau has a more straightforward database of the number of Americans with each surname.
+
+Sentence nr: 27
+It was last published in 2000, which presents a problem because American nomenclature could have changed a lot in the past 14 years.
+
+Sentence nr: 28
+To account for this, we looked at the ethnic breakdown of the U.S. population then and now, and the ethnic breakdown of individuals with those surnames.
+
+Sentence nr: 29
+We were then able to adjust the number of instances of each surname by the growth in the racial/ethnic groups of those having that name.
+
+Sentence nr: 30
+So, for example, the surname Smith is about 74 percent white, while the surname Garcia is 91 percent Hispanic.
+
+Sentence nr: 31
+We then assumed the number of white Smiths grew since 2000 at the same rate as the overall white population (which was just over 1 percent).
+
+Sentence nr: 32
+And ditto for Garcia — the Hispanic share of those named Garcia grew at the overall Hispanic rate.
+
+Sentence nr: 33
+This caused a major reshuffling of the top surnames, because the Hispanic population grew a lot faster (by more than 50 percent) than the white population over this period.
+
+Sentence nr: 34
+In the end, the proportional share of Garcias in the population goes up, while the share of Smiths goes down.
+
+Sentence nr: 35
+<bar>Even after that calculation, it was clear that although many first names come in and out of fashion, surnames tend to change at a much slower rate.
+
+Sentence nr: 36
+America’s most common surname by a mile is Smith — 2.5 million Americans have it, ahead of 2 million with the surname Johnson.</bar> Now the tricky bit.
+
+Sentence nr: 37
+We turned those numbers on first names and surnames into probabilities by dividing them by the total number of people in the country.
+
+Sentence nr: 38
+That showed that the chance of being called “Michael” is 1.1 in 100, and that the chance of having the surname “Smith” is 0.8 in 100.
+
+Sentence nr: 39
+To figure out the probability of being called “Michael Smith,” we just multiplied those two to get 0.008 in 100.
+
+Sentence nr: 40
+Here’s something you’ll rarely hear me say in this column: This methodology is crap (and it’s still crap even after all those adjustments for death rates, immigration and population growth).
+
+Sentence nr: 41
+It assumes that you can treat a person’s first name and last name as independent variables, i.e.
+
+Sentence nr: 42
+as though they have nothing to do with each other.
+
+Sentence nr: 43
+But guessing the number of Americans with a particular first- and last-name combination isn’t like rolling two dice — both names are closely related to each other.
+
+Sentence nr: 44
+To illustrate the point, let’s use the 20 most common first and last names in the country.
+
+Sentence nr: 45
+If you just multiply the probabilities for each of those, you get a neat little (and highly misleading) chart that looks like this: The first and most important reason this is wrong is that basic demographic facts tie certain first and last names together.
+
+Sentence nr: 46
+We know that surnames aren’t equally distributed among Americans because the Census Bureau publishes those surnames with a breakdown by racial and ethnic group.
+
+Sentence nr: 47
+It shows that in 2000, 99.9 percent of Americans with the surname “Heimerl” were white, and 99.0 percent with the surname “Rezendiz” were Hispanic.
+
+Sentence nr: 48
+Those facts affect first names, too.
+
+Sentence nr: 49
+Intuitively, you probably think that there are a lot more Americans called “Maria Martinez” than “Maria Miller.” Last year, Lee Hartman, an associate professor emeritus of Spanish at Southern Illinois University, tried to test that intuition.
+
+Sentence nr: 50
+Hartman had a simple idea: Look up first- and last-name combinations on the White Pages website and see whether simple probabilities captured reality.
+
+Sentence nr: 51
+He found those basic probabilities were way off the mark.
+
+Sentence nr: 52
+Hartman didn’t choose the top names for his table using SSA and census records, so it looks a little different from ours.
+
+Sentence nr: 53
+But it does show just how strong those racial and ethnic factors are.
+
+Sentence nr: 54
+Take the first name “Thomas” and the last name “Rodriguez” as examples.
+
+Sentence nr: 55
+If you assume the likelihood of having either name is independent, then the chance of an American being named “Thomas Rodriguez” is about 0.000019 percent, and there would be about 5,940 Americans called “Thomas Rodriguez.” Searching on WhitePages.com, though, Hartman found that the number of people in the phonebook with that name was 84 percent lower than the basic probabilities would suggest.
+
+Sentence nr: 56
+You can see just how much simple probabilities over- and underestimate the prevalence of any particular name using Hartman’s matrix below (click to expand): There are other gems in this chart that reveal just how bad an idea it is to assume names can go together in any order.
+
+Sentence nr: 57
+The number of Americans called “John Johnson,” “David Davis,” “Thomas Thomas” or “William Williams” is (thankfully) far lower than simple probabilities would suggest.
+
+Sentence nr: 58
+Even less bold alliterations, such as “Mark Martin” and “Daniel Davis,” appear to be unpopular among parents picking names.
+
+Sentence nr: 59
+If you were to extend the list beyond the top 20, you’d probably notice some other improbable name combinations that a computer, even one wired to factor in ethnicity, simply couldn’t detect.
+
+Sentence nr: 60
+As Andrew Flowers put it, “No matter how pretty the name, I don’t plan on calling a daughter of mine Rose.” And in the highly unlikely event that I were to change my surname, I probably wouldn’t go for “Lott” (no offense to the 25,118 Americans with the surname).
+
+Sentence nr: 61
+“John Smith” (of which there are almost 24 percent fewer in the phone book than simple probabilities would suggest) appears to suffer a double blow from being not only a huge figure in history, but also a placeholder name that’s become a clichéd byname for blandness.
+
+Sentence nr: 62
+So we took one last statistical step to account for the fact that the chances of having a certain first name (like John) isn’t independent of the chances of having a certain last name (let’s say Smith).
+
+Sentence nr: 63
+We adjusted our simple estimates of the most likely name combinations by taking into account Hartman’s research on which combinations are more and less likely than basic probability would suggest.
+
+Sentence nr: 64
+As a result, “Michael Smith” dropped down from the most likely name in America to second place and was bypassed by “James Smith.” There were more dramatic changes, too.
+
+Sentence nr: 65
+For example, according to independent probabilities, “Maria Garcia” was expected to be the 354th most common full name (and “Maria Smith” would rank as No.
+
+Sentence nr: 66
+74).
+
+Sentence nr: 67
+But according to Hartman’s data set, “Maria” and “Garcia” correlate nearly 700 percent more than you’d expect.
+
+Sentence nr: 68
+That means “Maria Garcia” skyrockets to the 15th most common name combination overall.
+
+Sentence nr: 69
+(We’ve posted all the data used in our analysis to our GitHub page.)
+
+Sentence nr: 70
+Hope the numbers help, Kieron George (incidentally, our probabilities suggest that there are 0.24 people with your name in the United States, so if you were to move over here, I reckon you’d be unique).
+
+Sentence nr: 71
+Mona (and Andrew) Have a question you would like answered here?
+
+Sentence nr: 72
+Send it to DearMona@fivethirtyeight.com or @DataLab538.
+

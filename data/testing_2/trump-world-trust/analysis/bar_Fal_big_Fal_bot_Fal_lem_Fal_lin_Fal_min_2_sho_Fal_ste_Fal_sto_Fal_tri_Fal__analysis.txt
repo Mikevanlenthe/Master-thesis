@@ -1,0 +1,60 @@
+Article: trump-world-trust
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 603
+Raw number of types: 281
+Raw Type token ratio (higher = more diversity in language use): 0.4660033167495854
+
+100 most freq tokens before (pre)processing: 
+[('the', 5221), (',', 5076), ('.', 3407), ('of', 2570), ('a', 2210), ('to', 2141), ('in', 2025), ('and', 1871), ('’', 1679), ('that', 1198), ('for', 917), ('s', 910), ('is', 853), (':', 829), ('on', 760), ('it', 721), ('are', 630), ('“', 588), ('”', 587), ('with', 577), ('our', 552), ('at', 544), ('team-logo', 535), ('by', 530), ('as', 516), ('more', 514), ('we', 508), ('—', 497), ('(', 490), (')', 490), ('but', 467), ('this', 435), ('they', 415), ('i', 401), ('you', 393), ('or', 393), ('have', 389), ('t', 388), ('percent', 377), ('verdict', 377), ('than', 376), ('from', 373), ('was', 361), ('trump', 358), ('1', 356), ('about', 350), ('one', 347), ('who', 346), ('polls', 342), ('be', 338), ('an', 305), ('has', 294), ('data', 289), ('were', 277), ('like', 270), ('all', 270), ('their', 266), ('not', 259), ('he', 249), ('if', 244), ('there', 238), ('how', 236), ('said', 235), ('most', 230), ('other', 228), ('can', 220), ('?', 220), ('so', 217), ('some', 207), ('when', 204), ('what', 203), ('those', 201), ('which', 198), ('positive', 197), ('his', 196), ('out', 190), ('<', 189), ('>', 188), ('up', 186), ('people', 184), ('pollsters', 184), ('polling', 183), ('get', 182), ('also', 180), ('each', 175), ('had', 172), ('2', 169), ('just', 164), ('points', 164), ('only', 159), ('two', 159), ('donald', 157), ('%', 157), ('poll', 154), (';', 152), ('do', 147), ('average', 143), ('time', 143), ('new', 142), ('will', 142)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 513
+Number of types: 263
+Type token ratio: 0.5126705653021443
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'world, trump, un, week, audience, wezerek, jonesrooy, trump, administration, data, github, github, datatrumpworldtrust, president, trump, opening, assembly, york, city, week, time1, monday, host, event, organization, tuesday, address, body, world, isn, time, target, audience, world, think, information, opinion, trump, research, center, survey, pew, variety, president, world, issues2, view, confidence, president, thing, world, trump, office, confidence, president, average, favorability, confidence, percentage, favorability, second, president, year, defense, agreement, president, mexico, opinion, drop, hand, favorability, russia, confidence, president, israel, russia, trump, trump, return, bushera, favorability, presidency6, content, trump, agenda, syria, terrorism, climate, change, survey, pew, trump, track, idea, agreement, disapproval, approval, percent, trump, wall, trade, approval, percent, correction, pm, version, chart, article, approval, rating, president, germany, chart')
+
+('VBZ', 'thinks, debuts, is, ll, does, comes, has, has, has, comes, has, has, has, has')
+
+('JJ', 'skeptical, gus, andrea, annual, un, general, new, first, first, formal, trump, trump, global, public, pew, global, annual, other, several, past, favorable, current, right, first, president4, past, uniform, collective, such, nato, big, public, other, public, public, overall, actual, un, un, other, major, international, north, korea, specific, un, foreign, iran, average, global, net, major, disliked, average, net, previous, third, net, israel')
+
+('VBN', 'filed, published, asked, compared, gone, changed, decreased, been, gone, gone, brought, been, updated')
+
+('VBP', 'get, re, trends, have, have, jump, have, have, are, have, are, approve, do')
+
+('NNS', 'data, reforms, attitudes, residents, countries, views, leaders, results, years, questions, respondents, affairs, patterns, points, points, perceptions, respondents, views, america, drops, declines, countries, members, japan, questions, levels, reforms, issues, respondents, policies, priorities, publics, policies, plans, agreements, trump, policies')
+
+('VBG', 'attending, watching, regarding, withdrawing, showing')
+
+('VB', 'discuss, make, do, confidence, george, say, disapprove, approve, build, mexico, withdraw, russia')
+
+('VBD', 'll, took, dropped, saw, took, asked, drew, were, sept, proposed, mislabeled')
+
+('JJS', 'best, biggest, least')
+
+('JJR', 'less')
+
+100 most freq tokens after processing: 
+[('the', 5221), ('of', 2570), ('to', 2141), ('in', 2026), ('and', 1871), ('that', 1202), ('for', 918), ('is', 853), ('on', 760), ('it', 723), ('are', 631), ('with', 577), ('our', 552), ('at', 545), ('teamlogo', 535), ('by', 530), ('as', 516), ('more', 514), ('we', 508), ('but', 467), ('this', 435), ('they', 415), ('you', 393), ('or', 393), ('have', 389), ('percent', 381), ('verdict', 377), ('than', 376), ('from', 373), ('was', 361), ('trump', 359), ('about', 350), ('one', 350), ('who', 346), ('polls', 342), ('be', 339), ('an', 305), ('has', 294), ('data', 289), ('were', 277), ('like', 270), ('all', 270), ('their', 266), ('not', 259), ('he', 249), ('if', 244), ('there', 238), ('how', 236), ('said', 235), ('most', 230), ('other', 229), ('can', 220), ('so', 218), ('some', 207), ('10', 204), ('when', 204), ('what', 203), ('those', 201), ('which', 198), ('positive', 198), ('his', 196), ('11', 192), ('out', 191), ('up', 186), ('people', 184), ('polling', 184), ('pollsters', 184), ('get', 182), ('also', 180), ('each', 175), ('had', 172), ('just', 164), ('points', 164), ('13', 161), ('only', 159), ('two', 159), ('donald', 158), ('poll', 154), ('14', 150), ('do', 147), ('average', 144), ('12', 144), ('time', 144), ('new', 142), ('will', 142), ('league', 142), ('election', 141), ('number', 140), ('its', 136), ('them', 136), ('neutral', 134), ('github', 132), ('15', 132), ('would', 129), ('these', 125), ('many', 124), ('been', 124), ('much', 124), ('no', 122), ('year', 122)]

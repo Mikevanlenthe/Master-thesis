@@ -1,0 +1,144 @@
+Sentence nr: 0
+Mar.
+
+Sentence nr: 1
+27, 2014 at 11:24 AM The NCAA Bracket: Checking Our Work By Nate Silver Filed under March Madness Get the data on GitHub GitHub data at data/historical-ncaa-forecasts FacebookTwitterEmail Mercer’s T.J. Hallice defends a shot by Duke’s Rasheed Sulaimon during the 2014 NCAA basketball tournament.
+
+Sentence nr: 2
+Lance King / Getty Images <pie>Our NCAA tournament forecasts are probabilistic.
+
+Sentence nr: 3
+You could say that FiveThirtyEight is “calling” for Michigan State to defeat Virginia on Friday, but it isn’t much of a call.
+
+Sentence nr: 4
+Our model gives Michigan State a 50.7 percent chance of winning, and Virginia a 49.3 percent chance.
+
+Sentence nr: 5
+For all intents and purposes, it’s a toss-up.</pie> Other times, of course, one team has a much clearer edge.
+
+Sentence nr: 6
+Duke was a 92.9 percent favorite against Mercer last week, but Mercer won.
+
+Sentence nr: 7
+Still, upsets like these are supposed to happen some of the time.
+
+Sentence nr: 8
+The question in evaluating a probabilistic forecast is whether the underdogs are winning substantially more or less often than expected.
+
+Sentence nr: 9
+The technical term for this is calibration.
+
+Sentence nr: 10
+But you might think of it more as truth in advertising.
+
+Sentence nr: 11
+Over the long run, out of all the times when we say a team is a 75 percent favorite, is it really winning about 75 percent of the time?
+
+Sentence nr: 12
+FiveThirtyEight’s NCAA tournament projections have been published each year since 2011.
+
+Sentence nr: 13
+The formula has changed very little over that period.
+
+Sentence nr: 14
+(The only substantive change has been adding a fifth computer power rating, ESPN’s Basketball Power Index, this season.)
+
+Sentence nr: 15
+That gives us a reasonable baseline for evaluation: a total of 254 games, counting the 52 played so far this year.
+
+Sentence nr: 16
+(These totals include “play-in” games.)
+
+Sentence nr: 17
+You can find a file containing our past predictions here.
+
+Sentence nr: 18
+It’s important to emphasize that these predictions were published at The New York Times or ESPN versions of FiveThirtyEight in advance of each game — these are actual predictions and not hindcasts.
+
+Sentence nr: 19
+Overall, FiveThirtyEight’s favorite won 70.0 percent of the time.
+
+Sentence nr: 20
+How often was the favorite supposed to win?
+
+Sentence nr: 21
+According to our model, 72.1 percent of the time.
+
+Sentence nr: 22
+So at a macro level, the forecasts have been pretty well calibrated (70.0 percent is well within the 95 percent confidence interval drawn by simulating the results 100,000 times).
+
+Sentence nr: 23
+But that doesn’t tell us everything.
+
+Sentence nr: 24
+It’s also important that the heavier favorites, like Duke in its game against Mercer, win more often than the slim favorites, like Michigan State against Virginia.
+
+Sentence nr: 25
+<pie>We’d expect the favorite to win about 95 percent of these games.
+
+Sentence nr: 26
+In fact, the favorite won 38 out of 40, or exactly 95 percent of the time.</pie> The exceptions were Duke this year and Missouri in 2012, which lost to Norfolk State despite being a 97.2 percent favorite.
+
+Sentence nr: 27
+<pie>Not all the numbers work out so neatly, however.
+
+Sentence nr: 28
+Another bin contains all those favorites with win probabilities in the 50s (anywhere from 50.0 percent to 59.9 percent).
+
+Sentence nr: 29
+These teams were supposed to win about 55 percent of the time.
+
+Sentence nr: 30
+In fact, they’ve won 38 of 63 games, or 60.3 percent of the time.
+
+Sentence nr: 31
+So the teams performed a little better than expected in these games.</pie> <pie>By contrast, teams with win probabilities in the 60s (from 60.0 percent to 69.9 percent) have won 35 of their 60 games, or 58.3 percent.
+
+Sentence nr: 32
+That’s a bit worse than expected.</pie> What’s going on here?
+
+Sentence nr: 33
+How are the somewhat heavier favorites, with win probabilities in the 60s, performing worse than those teams whose win probabilities were in the 50s?
+
+Sentence nr: 34
+Are the heavier favorites getting cocky?
+
+Sentence nr: 35
+Is there something wrong with the model?
+
+Sentence nr: 36
+Probably not.
+
+Sentence nr: 37
+Instead, these differences are well within the ranges that might result from random chance.
+
+Sentence nr: 38
+This is easier to explain visually, as in the following graphic, which portrays the results of games from each bin along with their confidence intervals.
+
+Sentence nr: 39
+Each result is within its respective confidence interval.
+
+Sentence nr: 40
+The calibration is not perfect.
+
+Sentence nr: 41
+But the deviations from perfect calibration are not statistically significant.
+
+Sentence nr: 42
+We encourage you to check our work, and let us know if you think there’s a better way to judge our results.
+
+Sentence nr: 43
+But overall, the tournament’s results have been reasonably true to the FiveThirtyEight probabilities.
+
+Sentence nr: 44
+Just don’t tell that to your buddy who had Duke winning it all this year.
+
+Sentence nr: 45
+Correction: Speaking of checking our work: a reader, D.K., discovered that our database incorrectly listed Kentucky as the winner of its 2011 national semifinal against Connecticut.
+
+Sentence nr: 46
+The chart, table and text have now been changed to reflect the correct result.
+
+Sentence nr: 47
+We appreciate D.K.’s assistance and apologize for the error.
+

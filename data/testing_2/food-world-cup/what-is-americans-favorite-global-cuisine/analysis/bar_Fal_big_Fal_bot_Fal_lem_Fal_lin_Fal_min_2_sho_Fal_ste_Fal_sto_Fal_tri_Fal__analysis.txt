@@ -1,0 +1,62 @@
+Article: food-world-cup/what-is-americans-favorite-global-cuisine
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2086
+Raw number of types: 626
+Raw Type token ratio (higher = more diversity in language use): 0.3000958772770853
+
+100 most freq tokens before (pre)processing: 
+[('the', 6798), (',', 6628), ('.', 4581), ('of', 3497), ('a', 2935), ('to', 2799), ('in', 2558), ('and', 2529), ('’', 2285), ('that', 1603), ('s', 1280), ('for', 1166), ('is', 1126), ('on', 1016), (':', 991), ('it', 952), ('are', 837), ('“', 809), ('”', 808), ('with', 743), ('at', 737), ('—', 728), ('as', 701), ('we', 697), ('by', 675), ('(', 675), (')', 675), ('more', 649), ('percent', 630), ('but', 629), ('our', 619), ('this', 574), ('i', 573), ('they', 565), ('or', 554), ('trump', 545), ('team-logo', 535), ('you', 521), ('have', 517), ('from', 514), ('t', 495), ('who', 483), ('about', 481), ('was', 479), ('than', 468), ('one', 452), ('be', 445), ('data', 433), ('were', 422), ('an', 400), ('has', 389), ('1', 382), ('?', 380), ('verdict', 377), ('not', 354), ('polls', 346), ('all', 345), ('their', 337), ('<', 334), ('how', 332), ('he', 331), ('there', 329), ('said', 328), ('>', 328), ('like', 325), ('so', 300), ('other', 299), ('people', 296), ('what', 294), ('can', 293), ('if', 289), ('his', 288), ('most', 280), ('some', 272), ('which', 267), ('those', 265), ('when', 264), ('out', 260), ('had', 244), ('also', 241), ('get', 235), ('up', 234), ('each', 221), ('only', 212), ('just', 206), ('two', 206), ('positive', 201), ('do', 197), ('2', 186), ('new', 185), ('pollsters', 184), ('them', 183), ('polling', 183), ('github', 180), (';', 180), ('points', 180), ('time', 179), ('%', 178), ('will', 177), ('been', 176)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1668
+Number of types: 594
+Type token ratio: 0.35611510791366907
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, cuisine, silver, walt, hickey, fivethirtyate, illustration, ben, buysse, illustration, buysse, world, cup, soccer, glory, food, association, fifa, world, group, phase, competition, soccer, world, cup, luis, suarez, tournament, bite, mexico, chance, soccer, china, soccer, world, cup, discussion, world, competition, bracket, pantheon, takeout, competition, threat, group, stage, belgium, round, soccer, world, cup, rest, tournament, series, audience, country, head, knockout, phase, world, cup, addition, food, sixpoint, scale, interest, experience, cuisine, group, phase, difference, knockoutphase, matchup, round, total, pie, mexico, percent, percent, pie, pie, japan, percent, percent, percent, pie, france, percent, percent, percent, pie, percent, percent, percent, pie, pie, spain, percent, percent, percent, pie, pie, italy, percent, percent, percent, china, percent, percent, percent, pie, pie, thailand, percent, percent, percent, pie, nothing, round, round, soccer, world, contest, thailand, bar, thailand, percent, percent, margin, weighting, experience, bar, germany, soccer, team, brazil, lot, equivocation, third, margin, win, spain, group, stage, result, chance, italy, ethiopia, percent, vote, battle, sea, italy, vs, greece, belgium, percent, vote, percent, cuisine, force, breakfast, food, waffle, spirit, breakfast, buffet, nothing, mayonnaise, food, something, fairness, belgium, soccer, game, round, takeout, menu, winner, pie, italy, percent, percent, percent, pie, favorite, competition, performance, allyoucaneat, mozzarella, bar, sixpoint, eater, scale, italy, margin, percent, percent, bar, pie, mexico, percent, percent, percent, pie, mexico, evidence, food, curve, bar, mexico, percent, percent, eater, scale, mexico, percent, japan, percent, bar, pie, percent, percent, percent, pie, defense, survey, population, freedom, bar, eater, percent, percent, france, percent, percent, bar, pie, thailand, percent, percent, percent, pie, eater, adjustment, outcome, bar, vote, count, china, percent, percent, thailand, story, look, vote, china, thailand, eater, scale, number, contest, look, eater, scale, size, vote, fluke, sort, food, country, york, california, spicy, tasty, venture, tso, chicken, anything, thailand, record, tournament, italy, mexico, battle, culinary, supremacy, percent, percent, percent, moment, miracle, run, seeding, wildcard, squad, thailand, belgium, russia, division, germany, everyone, juggernaut, china, battle, win, bar, percent, percent, bar, outset, competition, italy, cuisine, food, snobs, food, result, pie, percent, percent, percent, pie, fun, belgium, france, result, injustice, arjen, bar, mexico, ground, tick, eater, scale, percent, percent, bar, lead, mexico, quest, knowledge, time, thirdplace, match, mexico, percent, percent, percent, soccer, world, cup, reason, consolation, game, bit, redemption, thailand, skillet, percent, percent, percent, homeplate, advantage, food, bar, margin, voter, percent, percent, bar, result, bar, tournament, margin, percent, percent, everyone, margin, bar, win, mozzarella, tgi')
+
+('VBP', 'am, are, cuisine, are, put, couldn, choose, june, ethiopia, vietnam, argentina, beats, belgium, brazil, greece, cuba, cup, couldn, choose, ll, have, mexico, consider, go, are, re, are, go, july, spain, didn, japan, re, france, china, have, bar, lowest, thailand, are, re, thailand, italy, italy, mexico, think, re, burrito, thailand, thirdplace, get')
+
+('VBZ', 'is, didn, is, is, beats, beats, beats, beats, is, is, is, is, quarterfinals, beats, beats, is, involves, beats, is, seems, retains, is, is, makes, is, is, goes, turns')
+
+('JJ', 'americans, favorite, global, nate, ben, national, fivethirtyeight, international, few, such, good, uruguay, decided, few, such, full, general, familiar, united, fresh, surveymonkey, much, international, experienced, likely, big, likely, pie, pie, united, pie, pie, germany, germany, unweighted, culinary, national, spain, vs, able, underwhelming, undefeated, ionian, laughable, belgian, wellknown, available, belgian, pour, civilization, wrong, epic, likely, clear, undecided, such, dominant, likely, wide, undecided, happy, japanese, adventurous, likely, above, united, french, few, few, likely, above, likely, raw, nuanced, let, detail, likely, significant, likely, tiny, sample, statistical, plausible, able, chinese, available, few, such, new, famous, general, regional, undefeated, other, semifinal, north, american, likely, pie, italy, pie, many, soccer, continued, south, korea, culinary, peninsular, strong, culinary, decisive, scale, dangerous, other, united, crush, fine, gross, dive, likely, large, experienced, hopeful, next, likely, pie, good, semifinal, bronze, final, likely, pie, italy, pie, italian, own, likely, raw, definitive, average, unlimited')
+
+('VBN', 'filed, done, confused, based, skated, allowed, rated, weighted, been, gone, crushed, onesided, come, weighted, rated, won, rated, included, rated, rated, contest, crushed, dominated, rated, weighted, rated, been, weighted, conducted, known, rated, gained, rated, built, weighted, conducted, weighted, conducted, boosted, won, lost')
+
+('VBD', 'wondered, wasn, launched, cup, identified, was, introduced, wound, undefeated, did, ran, were, were, claimed, weighted, called, turned, went, undecided, undecided, undecided, undecided, undecided, undecided, undecided, undecided, was, won, was, had, used, increased, assembled, produced, won, was, proved, routed, had, saw, won, rated, was, undecided, called, fried, scale, won, edged, undecided, swung, favored, did, were, prevailed, happened, was, china, undecided, undecided, started, saw, were, won, identified, was, undecided, was, were, robben, won, undecided, decided, united, undecided, was, favored, was, played, came, planned')
+
+('NNS', 'countries, teams, cuisines, frontrunners, italy, italians, others, countries, disappointments, ringers, cuisines, americans, cuisines, states, surveys, respondents, respondents, preferences, respondents, results, voters, voters, eaters, respondents, eaters, beats, states, beats, beats, favorites, responses, respondents, people, quarterfinals, matchup, belgians, limitations, airlines, fries, tries, matchups, quarterfinals, titans, respondents, eaters, matches, americans, sticks, respondents, eaters, states, beats, people, potatoes, fries, years, voters, respondents, eaters, voters, undecideds, voters, votes, voters, respondents, votes, superfoodies, parts, places, foods, sorts, delights, advances, semifinals, semifinals, respondents, eaters, beats, let, things, algeria, nations, traditions, pulls, results, eaters, respondents, noobs, states, beats, voters, eaters, americans, respondents, eaters, beats, plays, losers, mexicans, respondents, eaters, beats, states, americans, italians, tallies, italians, matches, americans, sticks, fridays')
+
+('VB', 'fare, have, take, have, avenge, qualify, get, americans, face, play, head, be, say, have, make, percent, have, have, content, spain, choose, cook, have, be, belgium, spice, expect, above, have, thailand, be, have, experience, xi, take, engage, take, appreciate, thailand, knock, shock, above, agree, see, above, overcome, improve, help, mexico, do, celebrate')
+
+('VBG', 'playing, playing, surveying, remaining, having, revealing, depending, speaking, shocking, winning, having, having, taking, racking, going, gorging, advancing, learning, talking, going, downing, beating, beating, winning, weighting, consuming')
+
+('JJS', 'best, least, closest, best, most, least, likeliest, likeliest')
+
+('JJR', 'more, more, worse, more, closer, better, more, closer, closer, closer')
+
+('NNPS', 'americans')
+
+100 most freq tokens after processing: 
+[('the', 6798), ('of', 3497), ('to', 2799), ('in', 2560), ('and', 2529), ('that', 1607), ('for', 1167), ('is', 1128), ('on', 1016), ('it', 955), ('are', 839), ('with', 743), ('at', 738), ('as', 701), ('we', 697), ('by', 675), ('more', 649), ('percent', 639), ('but', 629), ('our', 619), ('this', 574), ('they', 565), ('or', 554), ('trump', 546), ('teamlogo', 535), ('you', 522), ('have', 517), ('from', 514), ('who', 483), ('about', 481), ('was', 479), ('than', 468), ('one', 455), ('be', 447), ('data', 433), ('were', 422), ('an', 400), ('has', 389), ('verdict', 377), ('not', 354), ('polls', 346), ('all', 345), ('their', 337), ('how', 332), ('he', 331), ('there', 329), ('said', 328), ('like', 325), ('so', 301), ('other', 300), ('people', 296), ('what', 294), ('can', 293), ('if', 289), ('his', 288), ('most', 281), ('some', 272), ('which', 267), ('those', 265), ('when', 264), ('out', 262), ('had', 244), ('also', 241), ('10', 236), ('get', 235), ('up', 234), ('each', 222), ('only', 212), ('11', 209), ('just', 206), ('two', 206), ('positive', 202), ('do', 198), ('13', 192), ('bar', 189), ('new', 185), ('polling', 184), ('pollsters', 184), ('them', 183), ('time', 182), ('14', 181), ('github', 180), ('points', 180), ('been', 177), ('will', 177), ('number', 176), ('its', 174), ('12', 170), ('no', 169), ('these', 168), ('donald', 168), ('many', 167), ('us', 167), ('would', 166), ('15', 163), ('poll', 161), ('average', 159), ('election', 158), ('see', 156), ('much', 155)]

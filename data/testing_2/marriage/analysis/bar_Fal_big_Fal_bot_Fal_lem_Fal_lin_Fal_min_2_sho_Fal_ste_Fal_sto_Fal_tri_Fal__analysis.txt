@@ -1,0 +1,60 @@
+Article: marriage
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1532
+Raw number of types: 464
+Raw Type token ratio (higher = more diversity in language use): 0.3028720626631854
+
+100 most freq tokens before (pre)processing: 
+[('the', 2439), (',', 2429), ('.', 1476), ('of', 1142), ('a', 1028), ('in', 965), ('to', 920), ('and', 827), ('’', 713), (':', 585), ('that', 552), ('our', 439), ('s', 419), ('on', 392), ('is', 389), ('for', 389), ('verdict', 377), ('it', 370), ('with', 291), ('1', 281), ('at', 272), ('trump', 247), ('“', 247), ('”', 246), ('i', 244), ('more', 242), ('by', 237), ('—', 237), ('are', 234), ('percent', 233), ('(', 229), (')', 229), ('but', 223), ('as', 216), ('this', 214), ('we', 197), ('than', 191), ('positive', 187), ('from', 183), ('have', 180), ('was', 177), ('like', 169), ('about', 166), ('t', 155), ('data', 154), ('or', 154), ('an', 153), ('you', 153), ('they', 145), ('he', 144), ('donald', 143), ('one', 139), ('has', 132), ('neutral', 132), ('be', 131), ('his', 130), ('who', 116), ('their', 113), ('were', 110), ('other', 109), ('/', 108), ('<', 108), ('so', 105), ('not', 105), ('all', 105), ('when', 105), ('out', 104), ('>', 104), ('people', 101), ('?', 98), ('which', 95), ('what', 94), ('there', 93), ('my', 91), ('up', 91), ('most', 90), ('get', 89), ('some', 89), ('how', 87), ('2', 86), ('if', 85), ('those', 85), ('can', 83), ('negative', 82), ('trump�', 82), ('just', 81), ('me', 81), (';', 80), ('state', 80), ('model', 78), ('only', 77), ('films', 77), ("'m", 72), ('3', 72), ('also', 71), ('do', 71), ('said', 71), ('10', 69), ('its', 68), ('new', 68)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1255
+Number of types: 436
+Type token ratio: 0.34741035856573704
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'pm, dead, right, west, getty, british, arrive, getty, important, pew, last, big, united, broad, other, hidden, likely, same, past, unlikely, different, married, many, likely, likely, likely, other, last, young, past, fundamental, impossible, unmarried, percent, solid, steady, reasonable, same, general, interesting, clear, downward, different, much, educated, possible, different, collegeeducated, late, same, young, other, ready, lesseducated, strong, young, high, collegeeducated, high, obsolete, socioeconomic, similar, political, last, young, likely, married, likely, nevermarried, important, prospective, steady, other, same, moral, religious, much, similar, actual, behavior, steady, steady, steady, identical, degree, likely, likely, married, current, high, young, likely, key, same, steady, similar, affluent, different, real, important, high, top, dead')
+
+('NN', 'marriage, isn, ben, casselman, marriage, data, github, github, datamarriage, edor, philogene, palm, beach, florida, feb, joe, raedle, george, clooney, lawyer, amal, sept, venice, marriage, pierre, teyssot, afp, trend, distinction, marriage, research, center, week, report, decline, marriage, percent, today, figure, percent, trend, race, education, income, bar, divide, affluent, marriage, marriage, fact, rate, marriage, story, marriage, plan, marriage, divide, economy, stagnation, disappearance, college, marriage, employment, tend, hand, hand, report, week, pew, quarter, today, age, wednesday, estimate, extrapolation, problem, marriage, moment, time, person, bar, question, life, percent, age, majority, bar, marriage, today, path, decade, age, chart, marriage, rate, education, line, rate, college, degree, trend, decade, story, decline, steeper, college, fact, marriage, line, generation, piece, evidence, pattern, wedlock, bar, college, half, bachelor, percent, versus, percent, college, age, range, college, marriage, something, requirement, marriagechildren, link, marriage, rate, school, diploma, percent, rate, rate, evidence, divergence, marriage, pew, survey, percent, school, marriage, versus, percent, college, survey, division, split, income, race, orientation, age, bar, report, week, pew, reason, marriage, decline, employment, education, gap, marriage, college, degree, bar, bar, pew, survey, percent, spouse, job, requirement, percent, education, percent, percent, bar, survey, bar, half, job, job, bar, job, education, doesn, help, spouse, marriage, regardless, education, bar, population, survey, percent, school, work, versus, percent, college, degree, bar, distinction, divorce, percent, rate, regardless, education, divorce, rate, college, degree, percent, divorce, rate, bachelor, degree, pattern, income, divorce, rate, picture, americas, divide, decline, marriage, school, age, marriage, age, percent, marriage')
+
+('VBN', 'filed, married, been, married, collegeeducated, married, divorced, married, divorced, related, won, married, based, given, done, married, married, been, married, been, broken, fallen, lesseducated, accelerated, fallen, educated, married, married, borne, been, married, compared, employed, lesseducated, laid, educated, lesseducated, been, married, divorced, doubled, held, taken, lesseducated, married')
+
+('VBP', 'get, actor, are, are, are, reveal, are, aren, appear, have, are, are, aren, are, are, don, do, are, degree, have, are, have, have, have, have, are, aren, tend, have, do, are, see, decide, re, ll, are, suggest, are, are, husband, are, have, are, are, do, earn, are, paint, degree, are')
+
+('NNS', 'data, waits, images, images, americans, stripes, groups, others, states, olds, characteristics, numbers, americans, generations, children, americans, children, marry, mirrors, trends, incomes, jobs, trends, men, people, ages, generations, forecasts, americans, americans, years, trends, groups, patterns, americans, ages, men, groups, people, graduates, rates, people, children, graduates, nongraduates, children, women, children, women, degrees, women, children, women, children, graduates, words, children, children, americans, mothers, children, mothers, attitudes, respondents, diploma, results, lines, divisions, rates, men, men, jobs, men, jobs, women, cases, beliefs, ideas, children, results, women, men, ages, men, terms, rates, men, men, ages, diploma, men, jobs, men, americans, rates, americans, ages, decades, americans, americans, exists, families, ones, numbers, americans, twothirds, children, rates')
+
+('VB', 'wed, celebrate, get, get, have, say, marry, get, be, go, marry, say, marry, hasn, get, assume, follow, turn, be, continue, wait, have, decide, have, get, help, explain, get, get, have, third, be, get, have, be, marriage, marriage, overstate')
+
+('VBZ', 'alamuddin, lies, is, is, dig, is, is, is, reveals, shows, has, is, has, is, is, suggests, bar, exists, isn, is, is, gets, reflects, is, graduates, is, is, makes, is, comes, has, has, comes, is, is, is, isn')
+
+('JJR', 'fewer, deeper, poorer, more, more, older, older, lower, longer, higher, smaller, more, more, less, less, poorer, poorer')
+
+('VBG', 'getting, overarching, delaying, skipping, cutting, delaying, abandoning, getting, getting, getting, focusing, having, raising, shifting, becoming, falling, including, having, raising, having, finding, having, according, rising, declining')
+
+('VBD', 'bar, released, had, lesseducated, estimated, wrote, were, collegeeducated, married, agreed, was, were, suggested, put, said, was, ranked, had, were, was')
+
+('JJS', 'least, most, least, least, most, most, most, most, least, most')
+
+100 most freq tokens after processing: 
+[('the', 2439), ('of', 1142), ('in', 965), ('to', 920), ('and', 827), ('that', 554), ('our', 439), ('on', 392), ('for', 390), ('is', 389), ('verdict', 377), ('it', 371), ('with', 291), ('at', 272), ('trump', 247), ('more', 242), ('by', 237), ('percent', 237), ('are', 234), ('but', 223), ('as', 216), ('this', 214), ('we', 197), ('than', 191), ('positive', 188), ('from', 183), ('have', 180), ('was', 177), ('like', 169), ('about', 166), ('data', 154), ('or', 154), ('an', 153), ('you', 153), ('they', 145), ('donald', 144), ('he', 144), ('one', 142), ('has', 132), ('be', 132), ('neutral', 132), ('his', 130), ('who', 116), ('their', 113), ('were', 110), ('other', 109), ('so', 106), ('not', 105), ('out', 105), ('all', 105), ('when', 105), ('people', 101), ('which', 95), ('what', 94), ('there', 93), ('my', 91), ('up', 91), ('most', 90), ('get', 89), ('some', 89), ('how', 87), ('if', 85), ('those', 85), ('can', 83), ('negative', 82), ('me', 82), ('trump�', 82), ('just', 81), ('10', 80), ('state', 80), ('model', 78), ('only', 77), ('films', 77), ('also', 71), ('do', 71), ('said', 71), ('bar', 71), ('its', 68), ('new', 68), ('polls', 68), ('�i', 67), ('had', 64), ('github', 63), ('rock', 62), ('where', 61), ('women', 61), ('each', 60), ('2014', 59), ('hillary', 59), ('time', 58), ('would', 57), ('year', 57), ('film', 57), ('been', 56), ('them', 56), ('2015', 56), ('will', 54), ('two', 53), ('much', 53), ('points', 53)]

@@ -1,0 +1,58 @@
+Article: puerto-rico-media/the-media-really-has-neglected-puerto-rico
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 581
+Raw number of types: 268
+Raw Type token ratio (higher = more diversity in language use): 0.4612736660929432
+
+100 most freq tokens before (pre)processing: 
+[(',', 1138), ('the', 689), (':', 427), ('.', 388), ('our', 387), ('verdict', 377), ('in', 319), ('a', 317), ('of', 307), ('to', 272), ('and', 268), ('trump', 229), ('1', 223), ('positive', 182), ('i', 169), ('’', 166), ('that', 155), ('on', 144), ('donald', 142), ('neutral', 131), ('for', 128), ('like', 112), ('it', 106), ('with', 102), ('is', 100), ('s', 100), ('at', 97), ('/', 95), ('(', 93), (')', 93), ('was', 89), ('he', 88), ('trump�', 82), ('negative', 80), ('you', 75), ('my', 74), ('his', 73), ("'m", 72), ('“', 72), ('”', 71), ('me', 67), ('�i', 67), ('from', 65), ('but', 61), ('hillary', 57), ('more', 56), ('than', 56), ('percent', 54), ('has', 52), ("'s", 52), ('were', 51), ('by', 50), ('this', 48), ('�', 46), ("n't", 46), ("'", 46), ('they', 45), ('who', 45), ('2015', 45), ('t', 44), ('—', 44), ('2013', 44), ('swan', 44), ('have', 43), ('up', 43), ('as', 42), ('?', 42), ('data', 41), ('about', 41), ('just', 41), ('one', 41), ('clinton', 41), ('got', 40), ('police', 39), ('be', 39), ('we', 38), ('--', 37), ('so', 36), ('are', 36), ('not', 36), ('2016', 36), ('people', 36), ('2012', 36), ('2014', 35), ('an', 35), ('or', 35), ('get', 34), ('all', 34), ('do', 33), ('drivers', 33), ('weather', 32), ('tattoos', 32), ('out', 31), ('bill', 31), ('what', 30), ('2', 29), (';', 28), ('said', 28), ('2008', 28), ('their', 27)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 506
+Number of types: 252
+Type token ratio: 0.4980237154150198
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'media, data, suffers, media, things, sports, players, tweets, sentences, maria, stories, disasters, weeks, data, media, reveals, people, shows, sentences, maria, hurricanes, harvey, mentions, states, networks, networks, maria, competitors, hints, programs, shows, observers, delays, journalists, media, outlets, media, media, americans, ricans, citizens, searches, storms, puerto, media')
+
+('VBZ', 'has, has, has, collects, shows, is, shows, seems, shows, is, is, has')
+
+('VBN', 'neglected, filed, published, excepted, been, occupied, combined, compared, been, ignored, published, hit, aired, combined, dedicated, issued, given, visit, planned')
+
+('NN', 'rico, dhrumil, mehta, puerto, rico, data, github, github, datapuertoricomedia, rico, hurricane, health, care, bill, election, alabama, spat, president, sunday, president, trump, nfl, phrase, anthem, tv, news, puerto, rico, hurricane, course, hurricane, maria, database, news, internet, day, devastation, puerto, rico, tv, news, coverage, trend, data, tv, news, archive, tv, news, hurricane, spike, conversation, puerto, rico, hurricane, hit, spike, texas, florida, television, hurricane, cable, news, hurricane, maria, bbc, network, hurricane, maria, air, coverage, data, network, coverage, analysis, talk, sunday, maria, landfall, minute, coverage, crisis, puerto, rico, mention, puerto, rico, puerto, rico, status, territory, reason, lack, news, coverage, delivery, aid, association, statement, disaster, spokesperson, ba, snyder, fivethirtyeight, dearth, press, coverage, devastation, pr, attention, responsibility, september, attention, poll, half, puerto, rest, interest, mainland, storm, rico, silence, issue, president, trump, rico, week, presence, engagement, mainland')
+
+('VBP', 'get, are, didn, are, re, nahj, isn, are, are, google, show')
+
+('JJ', 'puerto, other, primary, few, last, national, other, worth, other, natural, past, few, cloud, little, attention1, similar, british, political, many, national, hispanic, unacceptable, nationallocal, equal, nahj, recent, aware, american, public, initial, citizen')
+
+('VBD', 'fivethirtyeight, failed, was, said, collected, spoke, was, was, covered, mentioned, did, did, aired, made, told, was, showed, was, hit, was, hit')
+
+('VB', 'pass, name, irma2, cnn, have, be, produce, cover, cover, be, puerto, bring')
+
+('VBG', 'covering, getting, ramping, according, speculating, calling, calling, paying, coming')
+
+('JJR', 'fewer, smaller, more, less, less, higher, more')
+
+100 most freq tokens after processing: 
+[('the', 689), ('our', 387), ('verdict', 377), ('in', 319), ('of', 307), ('to', 272), ('and', 268), ('trump', 229), ('positive', 183), ('that', 156), ('on', 144), ('donald', 143), ('neutral', 131), ('for', 129), ('like', 112), ('it', 107), ('with', 102), ('is', 100), ('at', 97), ('was', 89), ('he', 88), ('trump�', 82), ('negative', 80), ('you', 75), ('my', 74), ('his', 73), ('me', 68), ('�i', 67), ('from', 65), ('but', 61), ('percent', 57), ('hillary', 57), ('more', 56), ('than', 56), ('has', 52), ('were', 51), ('by', 50), ('this', 48), ('2015', 47), ('nt', 46), ('they', 45), ('who', 45), ('2013', 44), ('swan', 44), ('have', 43), ('up', 43), ('as', 42), ('data', 41), ('about', 41), ('just', 41), ('one', 41), ('clinton', 41), ('got', 40), ('police', 39), ('be', 39), ('we', 38), ('2012', 38), ('2014', 37), ('2016', 37), ('so', 36), ('are', 36), ('not', 36), ('people', 36), ('an', 35), ('or', 35), ('get', 34), ('all', 34), ('do', 33), ('drivers', 33), ('tattoos', 33), ('weather', 32), ('out', 31), ('bill', 31), ('what', 30), ('said', 28), ('2008', 28), ('their', 27), ('10', 27), ('state', 27), ('money', 26), ('when', 26), ('2011', 26), ('players', 26), ('if', 25), ('other', 25), ('new', 24), ('how', 24), ('no', 24), ('fuck', 24), ('obama', 24), ('officers', 23), ('only', 23), ('there', 23), ('can', 23), ('those', 23), ('remix', 23), ('live', 22), ('some', 22), ('2010', 22), ('had', 22)]

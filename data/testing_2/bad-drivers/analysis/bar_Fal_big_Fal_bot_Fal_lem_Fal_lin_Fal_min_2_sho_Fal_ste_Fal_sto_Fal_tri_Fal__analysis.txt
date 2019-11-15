@@ -1,0 +1,62 @@
+Article: bad-drivers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1441
+Raw number of types: 459
+Raw Type token ratio (higher = more diversity in language use): 0.31852879944483
+
+100 most freq tokens before (pre)processing: 
+[(',', 834), (':', 398), ('our', 384), ('verdict', 377), ('the', 375), ('trump', 225), ('1', 218), ('in', 184), ('positive', 182), ('a', 158), ('of', 148), ('donald', 141), ('and', 139), ('neutral', 131), ('i', 130), ('.', 128), ('to', 123), ('like', 103), ('/', 92), ('trump�', 82), ('negative', 80), ('for', 76), ('(', 76), (')', 76), ('that', 75), ("'m", 72), ('on', 70), ('is', 68), ('�i', 67), ('it', 64), ('you', 60), ('my', 60), ('with', 58), ('hillary', 57), ('at', 55), ('me', 53), ("'s", 52), ('�', 46), ("n't", 46), ("'", 46), ('2013', 43), ('’', 42), ('2015', 42), ('clinton', 40), ('was', 39), ('but', 38), ('police', 37), ('--', 37), ('2016', 36), ('we', 34), ('2012', 34), ('percent', 33), ('drivers', 33), ('2014', 30), ('got', 30), ('bill', 29), ('up', 29), ('they', 28), ('than', 28), ('2008', 27), ('2', 27), ('were', 26), ('money', 26), ('?', 26), ('more', 25), ('s', 25), ('from', 25), ('do', 25), ('get', 24), ('so', 24), ('just', 24), ('as', 24), ('fuck', 24), ('officers', 23), ('have', 23), ('his', 23), ('remix', 23), ('2011', 23), ('are', 22), ('out', 22), ('be', 22), ('<', 22), ('>', 22), ('by', 21), ('this', 21), ('city', 21), ('black', 20), ('not', 20), ('no', 20), ('can', 20), ('all', 20), ('what', 20), ('ai', 20), ('live', 19), ('data', 19), ('who', 19), ('2000', 19), ('your', 19), ('n', 19), ('state', 19)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1153
+Number of types: 428
+Type token ratio: 0.3712055507372073
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, dear, mona, state, mona, chalabi, hope, scene, chainreaction, pileup, accident, pennsylvania, turnpike, feb, feasterville, pennsylvania, william, thomas, cain, mona, state, region, ability, state, bar, want, question, america, number, car, state, driver, way, insurance, insurance, lot, country, state, bottom, texas, don, contrast, indiana, vermont, board, bar, bar, motor, vehicle, property, damage, injury, fatality, highway, traffic, safety, administration, texas, state, washington, dc, bar, state, car, state, state, state, driving, state, focus, dakota, number, course, state, data, figure, average, bar, behavior, example, driver, time, accident, road, time, mind, driver, drinking, dreaming, dakota, percent, percent, plenty, caution, none, dc, time, information, bear, mind, state, york, example, percent, database, percent, crash, figure, state, end, percent, jersey, end, figure, percent, pie, way, perspective, driver, time, data, nhtsa, total, traffic, percent, driver, mississippi, percent, traffic, driver, pennsylvania, share, percent, pie, behavior, speeding, indicator, driver, pie, percent, traffic, driver, montana, percent, traffic, year, driver, figure, percent, pie, news, insurance, multitude, driver, behavior, state, insurance, assessment, future, bar, association, insurance, jersey, car, insurance, country, average, collision, etc, car, insurance, average, half, country, bar, pie, insurance, research, council, percent, fraction, oklahoma, insurance, pie, vehicle, question, insurance, state, insurance, figure, number, ve, insurance, state, number, ve, number, percentage, bar, america, state, louisiana, bar, sorry, answer, number, car, way, driver, bar, insurance, average, collision, bar, question, fivethirtyeightcom, datalab538')
+
+('VBZ', 'has, is, has, is, is, is, has, has, produces, shows, is, pie, is, fatalities, is, is, utah, is, is, is, is, makes, is, is, is, lisa, is')
+
+('JJS', 'worst, worst, highest, latest, latest, latest, best, highest, best')
+
+('NNS', 'drivers, numbers, images, drivers, people, others, types, data, drivers, crashes, companies, companies, drivers, measures, drivers, drivers, collisions, crashes, states, crashes, crashes, drivers, drivers, conditions, miles, characteristics, drivers, collisions, drivers, miles, miles, drivers, crashes, drivers, collisions, miles, individuals, drivers, accidents, cases, distractions, drivers, cellphones, drivers, drivers, accidents, percentages, drivers, accidents, drivers, drivers, crashes, drivers, crashes, drivers, varies, drivers, collisions, crashes, fatalities, fatalities, fatalities, fatalities, numbers, providers, prices, indicators, accidents, premiums, companies, figures, commissioners, drivers, idahoans, drivers, drivers, drivers, premiums, drivers, roads, motorists, terms, prices, data, losses, providers, sums, collisions, ones, companies, states, drivers, comparisons, companies, losses, drivers, drivers, drivers, idahoans, drivers, insurers, collisions, jerseyans, insurers, collisions, crashes, ones, providers, carolinians, prices, drivers, losses, numbers, mona')
+
+('VBN', 'filed, lived, heard, negligent, traveled, involved, traveled, involved, involved, distracted, involved, recorded, distracted, known, recorded, distracted, distracted, lost, involved, recorded, compared, treated, involved, recorded, distracted, based, given, licensed, involved, been, involved, alcoholimpaired, involved, alcoholimpaired, found, uninsured, incurred, distributed, compared, answered')
+
+('VBP', 'help, dear, ve, have, bemoan, carolina, are, pay, charge, vary, do, are, need, bar, re, know, need, have, are, hadn, aren, base, weren, overall, naic, are, are, doesn, have, think, are, fairer, are, come, don, re, isn, think, north, deserve, hope, help, have')
+
+('JJ', 'getty, driving, asheville, tricky, historic, much, much, iowa, good, first, united, involved, personal, national, fatal, other, else, fatal, bad, total, fatal, north, such, available, fatal, national, interested, fatal, fatal, worth, thoughtday, north, fatal, distracted, impressive, fatal, fatal, new, previous, first, high, idaho, previous, new, low, fatal, available, speedingrelated, irresponsible, good, bad, drunken, fatal, average, likely, national, highrisk, new, expensive, premium, comprehensive, same, logic, bad, good, american, bad, irresponsible, don, naic, vast, fatal, insured, insured, registered, licensed, insured, average, new, good, expensive, easy, fatal, clearcut, bad, low, national, insured')
+
+('JJR', 'worse, fewer, more, worse, higher, less')
+
+('VBG', 'neighboring, using, according, being, bearing, eating, being, speeding, speeding, speeding, driving, including, according, according, insuring, being, driving, looking, using, costing, costing')
+
+('VBD', 'lisa, was, were, involved, resulted, accounted, had, were, traveled, were, traveled, was, were, was, was, were, were, were, were, were, were, got, did, were, was, was, was, recorded, occurred, was, occurred, was, was, occurred, was, was, was, combined, was, were, were, paid, divided, estimated, was, cost')
+
+('VB', 'try, answer, indicate, be, factor, detail, be, sound, pie, put, determine, reflect, cost, be, affect, use, make, come, isn, understand, say, like, send, dearmona')
+
+('NNP', 'ohio')
+
+100 most freq tokens after processing: 
+[('our', 384), ('verdict', 377), ('the', 375), ('trump', 225), ('in', 184), ('positive', 183), ('of', 148), ('donald', 142), ('and', 139), ('neutral', 131), ('to', 123), ('like', 103), ('trump�', 82), ('negative', 80), ('for', 76), ('that', 75), ('on', 70), ('is', 68), ('�i', 67), ('it', 64), ('you', 60), ('my', 60), ('with', 58), ('hillary', 57), ('at', 55), ('me', 53), ('nt', 46), ('2015', 44), ('2013', 43), ('clinton', 40), ('was', 39), ('but', 38), ('police', 37), ('percent', 36), ('2016', 36), ('2012', 35), ('we', 34), ('drivers', 33), ('2014', 30), ('got', 30), ('bill', 29), ('up', 29), ('they', 28), ('than', 28), ('2008', 27), ('were', 26), ('money', 26), ('more', 25), ('from', 25), ('do', 25), ('get', 24), ('so', 24), ('just', 24), ('as', 24), ('fuck', 24), ('2011', 24), ('officers', 23), ('have', 23), ('his', 23), ('remix', 23), ('are', 22), ('out', 22), ('be', 22), ('by', 21), ('this', 21), ('city', 21), ('2010', 21), ('black', 20), ('not', 20), ('no', 20), ('can', 20), ('all', 20), ('10', 20), ('what', 20), ('ai', 20), ('live', 19), ('data', 19), ('who', 19), ('2000', 19), ('your', 19), ('state', 19), ('has', 18), ('bitch', 18), ('only', 17), ('if', 17), ('white', 17), ('he', 17), ('tower', 17), ('about', 16), ('hiphop', 16), ('or', 16), ('man', 16), ('call', 16), ('there', 15), ('how', 15), ('2006', 15), ('15', 15), ('an', 14), ('one', 14), ('rich', 14)]

@@ -1,0 +1,58 @@
+Article: obama-commutations
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 737
+Raw number of types: 337
+Raw Type token ratio (higher = more diversity in language use): 0.45725915875169604
+
+100 most freq tokens before (pre)processing: 
+[(',', 866), (':', 400), ('the', 397), ('our', 385), ('verdict', 377), ('trump', 227), ('1', 218), ('in', 199), ('positive', 182), ('of', 176), ('a', 170), ('.', 151), ('and', 150), ('donald', 142), ('to', 140), ('neutral', 131), ('i', 130), ('like', 104), ('/', 92), ('that', 88), ('for', 85), ('trump�', 82), ('negative', 80), ('on', 78), ('(', 78), (')', 78), ('is', 74), ("'m", 72), ('�i', 67), ('it', 65), ('with', 65), ('you', 60), ('my', 60), ('at', 58), ('hillary', 57), ('me', 53), ("'s", 52), ('’', 50), ('�', 46), ("n't", 46), ("'", 46), ('2013', 44), ('was', 42), ('2015', 42), ('clinton', 41), ('but', 39), ('police', 38), ('--', 37), ('2016', 36), ('than', 35), ('percent', 35), ('we', 34), ('2012', 34), ('s', 33), ('drivers', 33), ('2014', 32), ('more', 32), ('from', 31), ('they', 30), ('bill', 30), ('got', 30), ('were', 29), ('up', 29), ('as', 27), ('2008', 27), ('2', 27), ('have', 26), ('money', 26), ('his', 26), ('?', 26), ('by', 25), ('get', 25), ('do', 25), ('be', 25), ('this', 24), ('so', 24), ('just', 24), ('fuck', 24), ('officers', 23), ('are', 23), ('not', 23), ('has', 23), ('remix', 23), ('2011', 23), ('obama', 23), ('out', 22), ('who', 22), ('he', 22), ('<', 22), ('>', 22), ('data', 21), ('city', 21), ('can', 21), ('all', 21), ('black', 20), ('no', 20), ('what', 20), ('ai', 20), ('live', 19), ('2000', 19)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 642
+Number of types: 323
+Type token ratio: 0.5031152647975078
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jan, obama, clemency, president, history, justice, data, github, github, endofpresidency, act, clemency, president, obama, thursday, clemency, president, harry, truman1, announcement, approach, clemency, clemency, prison, release, tuesday, week, office, obama, clemency, chelsea, army, intelligence, analyst, information, commutation, obama, tuesday, number, president, history, house, obama, week, obama, month, august, december, clemency, day, record, tuesday, thursday, release, serve, gesture, forgiveness, restoration, prison, sentence, release, bill, clinton, group, independence, puerto, rico, responsibility, protest, order, police, law, enforcement, trump, risk, year, office, obama, obama, sentence, oscar, lópez, rivera, member, part, administration, push, justice, reform, justice, department, initiative, clemency, administration, rethinking, drug, number, year, number, analysis, justice, department, percent, obama, tuesday, drug, percent, conspiracy, union, drug, obama, office, friday, future, commutation, response, history, guide, trump, time, correction, jan, version, article, obama, clemency, president, truman, analysis, mass, ford, jimmy, carter')
+
+('JJ', 'pm, other, criminal, long, drugrelated, thursday, typical, obama, commuted, federal, sensitive, total, other, white, federal, single, formal, such, free, original, recent, obama, faln, united, fraternal, other, donald, last, faln, general, significant, obama, criminal, certain, consistent, obama, harsh, mandatory, minimum, new, fiscal, many, american, civil, lowlevel, serious, oval, uncertain, other, recent, few, unlikely, many, previous, gerald')
+
+('VBD', 'granted, announced, was, granted, was, was, made, issued, gave, broke, preceded, were, commuted, wanted, claimed, received, commuted, announced, had, tripled, rose, were, were, allowed, said, did')
+
+('NNS', 'charlie, data, dataobamacommutations, prisoners, sentences, offenses, sentences, prisoners, people, predecessors, people, sentences, people, inmates, commutations, pardons, dozens, pardons, commutations, inmates, pardons, people, years, rights, felons, commutations, people, presidents, commutations, pardons, sentences, members, bombs, states, letters, groups, commutations, prisoners, optics, hundreds, prisoners, commutations, inmates, criteria, sentences, sentences, petitions, commutations, petitions, records, commutations, prisoners, offenses, commutations, laws, groups, liberties, laws, dealers, crimes, distributors, applicants, presidents, commutations, people, pardons')
+
+('VBN', 'filed, aimed, granted, differed, given, left, convicted, granted, granted, convicted, ended, slated, suggested, appeared, concerned, been, been, been, convicted, convicted, charged, charged, granted, issued')
+
+('VBP', 'get, obama, are, tend, presidentelect, create, have, meet, activist, argue, face, am')
+
+('JJR', 'more, more, less, more, rarer, riskier, more, shorter, more, more')
+
+('VBG', 'serving, commuting, freeing, pardoning, including, manning, disclosing, manning, thursday, according, voting, manning, freeing, freeing, manning, including, according, waiting, granting')
+
+('VBZ', 'is, has, has, is, is, has, is, has, has, is, prepares, remains, is, follows')
+
+('VB', 'wikileaks, record, have, be, reoffend, be, grant, have, be, leave, see, include')
+
+100 most freq tokens after processing: 
+[('the', 397), ('our', 385), ('verdict', 377), ('trump', 227), ('in', 199), ('positive', 183), ('of', 176), ('and', 150), ('donald', 143), ('to', 140), ('neutral', 131), ('like', 104), ('that', 88), ('for', 85), ('trump�', 82), ('negative', 80), ('on', 78), ('is', 74), ('�i', 67), ('it', 65), ('with', 65), ('you', 60), ('my', 60), ('at', 58), ('hillary', 57), ('me', 53), ('nt', 46), ('2013', 44), ('2015', 44), ('was', 42), ('clinton', 41), ('but', 39), ('police', 38), ('percent', 38), ('2016', 37), ('than', 35), ('2012', 35), ('we', 34), ('drivers', 33), ('2014', 32), ('more', 32), ('from', 31), ('they', 30), ('bill', 30), ('got', 30), ('were', 29), ('up', 29), ('as', 27), ('2008', 27), ('have', 26), ('money', 26), ('his', 26), ('by', 25), ('get', 25), ('do', 25), ('be', 25), ('this', 24), ('so', 24), ('just', 24), ('fuck', 24), ('2011', 24), ('officers', 23), ('are', 23), ('not', 23), ('has', 23), ('remix', 23), ('obama', 23), ('out', 22), ('who', 22), ('he', 22), ('data', 21), ('city', 21), ('can', 21), ('2010', 21), ('all', 21), ('black', 20), ('no', 20), ('10', 20), ('what', 20), ('ai', 20), ('live', 19), ('2000', 19), ('your', 19), ('state', 19), ('if', 18), ('about', 18), ('white', 18), ('bitch', 18), ('only', 17), ('tower', 17), ('an', 16), ('how', 16), ('one', 16), ('hiphop', 16), ('or', 16), ('man', 16), ('call', 16), ('there', 15), ('their', 15), ('2006', 15)]

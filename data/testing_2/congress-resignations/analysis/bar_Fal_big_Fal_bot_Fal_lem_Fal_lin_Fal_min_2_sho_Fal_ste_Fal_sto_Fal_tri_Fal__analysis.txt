@@ -1,0 +1,60 @@
+Article: congress-resignations
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1717
+Raw number of types: 659
+Raw Type token ratio (higher = more diversity in language use): 0.38380896913220736
+
+100 most freq tokens before (pre)processing: 
+[('the', 4783), (',', 4733), ('.', 3137), ('of', 2359), ('a', 2002), ('to', 1979), ('in', 1893), ('and', 1713), ('’', 1557), ('that', 1121), ('s', 852), ('for', 851), (':', 797), ('is', 788), ('it', 687), ('on', 678), ('are', 569), ('our', 548), ('“', 546), ('”', 545), ('team-logo', 535), ('with', 524), ('at', 497), ('as', 494), ('by', 492), ('more', 480), ('we', 476), ('(', 459), (')', 459), ('—', 445), ('but', 418), ('this', 409), ('i', 391), ('they', 380), ('you', 380), ('verdict', 377), ('have', 361), ('or', 360), ('from', 354), ('1', 354), ('t', 352), ('percent', 349), ('trump', 345), ('than', 342), ('polls', 342), ('was', 340), ('about', 332), ('be', 321), ('one', 319), ('who', 304), ('an', 278), ('has', 273), ('data', 265), ('like', 261), ('were', 258), ('all', 243), ('he', 242), ('not', 239), ('their', 238), ('if', 232), ('said', 227), ('there', 218), ('how', 218), ('most', 215), ('other', 213), ('can', 206), ('?', 200), ('so', 198), ('some', 195), ('his', 194), ('positive', 193), ('when', 189), ('pollsters', 184), ('which', 183), ('what', 183), ('polling', 183), ('people', 178), ('those', 177), ('up', 170), ('out', 169), ('2', 169), ('<', 167), ('>', 166), ('also', 165), ('get', 162), ('each', 160), ('donald', 157), ('%', 157), ('points', 156), ('had', 155), ('poll', 154), ('just', 148), ('only', 147), ('two', 145), ('election', 141), ('do', 138), ('number', 138), ('league', 138), (';', 136), ('will', 136)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1442
+Number of types: 634
+Type token ratio: 0.43966712898751736
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 've, get, have, have, give, blake, have, re, are, re, have, virginia, have, have, senator, governor, go, have, are, are, head, have, re, suspect, do, larry, stem, don, fit, albert, are, ii')
+
+('VBN', 'seen, filed, published, sen, resigned, resigned, been, removed, accused, announced, scheduled, led, been, caused, matched, bob, skewed, resigned, involved, been, had, shown, dominated, voted, appointed, been, valued, become, preferred, lost, expired, risen, realized, examined, revealed, reported, removed')
+
+('JJ', 'congressional, former, franken, alex, 115th, first, 57th, current, historical, congress, political, own, 115th, historic, normal, new, presidential, first, unusual, similar, recent, unwanted, sexual, trent, franken, farenthold, pat, same, same, extraordinary, sexual, past, few, many, unprecedented, cultural, political, sexual, much, public, nonconsensual, sexual, last, recent, first, sexual, big, 20th, public, first, modern, due, extramarital, wayne, former, congressional, next, republican, simple, many, simple, anthony, salacious, big, sexual, consensual, common, congressional, graphic, other, innocuous, common, other, elected, such, other, such, judicial, dominant, easy, lessprestigious, local, new, york, supreme, little, early, general, graphic, huge, advantageous, dec, early, such, common, few, additional, private, such, lobbyist, nonprofit, congressional, polarized, appealing, public, thorough, further, next, due, nonsexrelated, such, trey, early, truly, personal, own, rigorous, possible, scandalous, own, ballotbox, willing, unique, other, cantankerous, major, political, gingrich, spectacular, eric, primary, different, military, political')
+
+('NNS', 'resignations, data, datacongressresignations, people, years, members, resignations, reasons, members, events, members, jobs, members, members, members, advances, conyers, franks, kihuen, allegations, months, people, bears, allegations, resignations, overtures, months, years, reports, members, media, scandals, politicians, jobs, hays, miss, circumstances, scandals, democrats, politicians, departures, media, reports, reasons, members, offices, positions, departures, departures, departures, changes, days, politicians, offices, members, justices, members, spikes, years, changes, laws, members, congresses, resignations, outliers, senators, days, successors, media, politicians, longterm, resignations, media, reports, politicians, statements, examples, euphemisms, sins, scandals, departures, scandals, exiters, reasons, children, members, elections, returns, qualifications, members, nowadays, losers, votes, departures, circumstances, james, parties, people, members, careers')
+
+('NN', 'nathaniel, rakich, congress, data, github, github, brandon, ap, jan, pat, tiberi, member, congress, office, lot, congress, point, session, march, day, congress, congress, office, fivethirtyeight, hazel, abel, zinke, rash, context, era, congress, turnover, confluence, abnormal, start, administration, session1, president, trump, administration, obama, administration2, bill, clinton, addition, congress, john, ruben, meehan, reelection, reason, retirement, congress, end, term, midsession, resignation, string, misconduct, midst, moment, world, data, concentration, misconduct, fallout, number, number, phenomenon, member, reason, packwood, data, news, misconduct, wasn, topic, coverage, century, fact, sex, nature, cost, member, congress, era, affair, salary, exchange, mistress, case, adultery, bob, livingston, someone, resign, affair, resignation, controversy, precedent, clinton, thick, monica, scandal, congressman, mark, souder, act, weiner, scandal, murphy, mistress, abortion, something, picture, reason, percent, sex, history, line, reason, congress, government, cabinet, post, percent, back, reason, contrast, percent, pursuit, office, line, seat, congress, reason, cause, turnover, air, travel, stability, slog, washington, dozen, court, quit, state, legislature, percent, office, reelection, point, election, end, term, gig, line, reason, pension, term, january, fact, practice, order, seniority, line, percent, job, sector, head, personality, frequency, type, resignation, cash, experience, congress, career, bias, data, mercy, date, category, percent, corruption, abscam, scandal, jack, abramoff, scandal, illegalsubstance, possession, alcohol, john, langley, cocaine, radel, election, fraud, truman, newberry, richard, tonry, percent, failing, health, mo, udall, illness, family, member, geoff, davis, home, spouse, time, family, category, reason, something, day, uncommon, congress, member, election, challenger, result, constitution, house, judge, percent, dataset, office, reason, none, election, result, senate, house, congress, business, percent, category, range, protest, joe, bailey, watson, phil, gramm, embarrassment, newt, midterm, backfire, cantor, loss, john, boehner, power, struggle, tea, party, percent, congress, country, way, augustus, gardner, army, month, world, war, world, war, country, one, congress, reason')
+
+('VBD', 'became, canvassed, occurred, did, resigned, left, did, were, was, started, was, paid, were, made, did, set, protested, set, was, were, were, accounted, resigned, were, had, left, resigned, lined, made, was, resigned, were, were, were, left, were, resigned, were, was, disputed, resigned, were, left, resigned, entered, left')
+
+('VB', 'resign, ryan, put, tell, lot, resign, accept, join, join, resign, al, run, conclude, be, resign, be, resign, quit, tim, have, resign, do, resign, dominate, explain, have, become, join, see, resign, wait, resign, give, start, take, be, blame, be, come, move, live, spend, overturn, be, contest, intercede, serve, join, fight')
+
+('VBZ', 'feels, is, owes, is, is, has, has, has, has, seems, shows, lewinsky, has, has, is, explains, tends, is, has, is, explains, has, makes, seems, is, wasn, says, is, has')
+
+('JJS', 'least, least, most, least, combest')
+
+('VBG', 'stepping, including, looking, preceding, relying, divining, reasoning, reckoning, being, extenuating, cheating, including, sexting, pressuring, according, neverending, departing, retiring, having, categorizing, policing, hiding, counting, resigning, roosevelthating, switching, exhausting')
+
+('JJR', 'more, further, less, less, older, more, quit')
+
+100 most freq tokens after processing: 
+[('the', 4783), ('of', 2359), ('to', 1979), ('in', 1893), ('and', 1713), ('that', 1125), ('for', 852), ('is', 788), ('it', 689), ('on', 678), ('are', 570), ('our', 548), ('teamlogo', 535), ('with', 524), ('at', 497), ('as', 494), ('by', 492), ('more', 480), ('we', 476), ('but', 418), ('this', 409), ('they', 380), ('you', 380), ('verdict', 377), ('have', 361), ('or', 360), ('from', 354), ('percent', 353), ('trump', 346), ('than', 342), ('polls', 342), ('was', 340), ('about', 332), ('one', 322), ('be', 322), ('who', 304), ('an', 278), ('has', 273), ('data', 265), ('like', 261), ('were', 258), ('all', 243), ('he', 242), ('not', 239), ('their', 238), ('if', 232), ('said', 227), ('there', 218), ('how', 218), ('most', 215), ('other', 214), ('can', 206), ('10', 200), ('so', 199), ('some', 195), ('his', 194), ('positive', 194), ('11', 189), ('when', 189), ('polling', 184), ('pollsters', 184), ('which', 183), ('what', 183), ('people', 178), ('those', 177), ('out', 170), ('up', 170), ('also', 165), ('get', 162), ('each', 160), ('donald', 158), ('points', 156), ('had', 155), ('13', 155), ('poll', 154), ('14', 149), ('just', 148), ('only', 147), ('two', 145), ('12', 142), ('election', 141), ('do', 138), ('number', 138), ('league', 138), ('will', 136), ('neutral', 132), ('15', 129), ('its', 128), ('time', 127), ('average', 126), ('would', 124), ('new', 123), ('them', 121), ('my', 121), ('these', 120), ('github', 119), ('year', 115), ('much', 115), ('been', 114), ('because', 110)]

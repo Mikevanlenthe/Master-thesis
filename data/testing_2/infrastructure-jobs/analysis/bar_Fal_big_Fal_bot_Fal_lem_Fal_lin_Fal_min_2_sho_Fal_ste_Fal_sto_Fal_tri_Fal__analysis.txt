@@ -1,0 +1,60 @@
+Article: infrastructure-jobs
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 465
+Raw number of types: 223
+Raw Type token ratio (higher = more diversity in language use): 0.47956989247311826
+
+100 most freq tokens before (pre)processing: 
+[('the', 6987), (',', 6812), ('.', 4769), ('of', 3572), ('a', 3034), ('to', 2873), ('in', 2623), ('and', 2600), ('’', 2388), ('that', 1637), ('s', 1322), ('for', 1203), ('is', 1178), (':', 1049), ('on', 1040), ('it', 1000), ('are', 866), ('“', 824), ('”', 823), ('with', 766), ('at', 758), ('—', 756), ('we', 726), ('as', 726), ('by', 697), ('(', 685), (')', 685), ('but', 669), ('more', 655), ('percent', 647), ('our', 639), ('i', 612), ('this', 604), ('or', 575), ('they', 573), ('trump', 545), ('you', 543), ('have', 539), ('team-logo', 535), ('from', 530), ('t', 515), ('about', 493), ('who', 490), ('was', 486), ('than', 478), ('one', 464), ('be', 457), ('data', 443), ('were', 431), ('an', 415), ('has', 396), ('?', 392), ('1', 383), ('verdict', 377), ('not', 367), ('all', 351), ('their', 348), ('polls', 347), ('like', 342), ('<', 342), ('there', 338), ('>', 336), ('how', 333), ('he', 333), ('said', 331), ('if', 310), ('other', 309), ('so', 306), ('what', 303), ('can', 302), ('people', 301), ('his', 288), ('most', 287), ('some', 284), ('which', 274), ('out', 271), ('those', 267), ('when', 267), ('had', 252), ('also', 250), ('get', 238), ('up', 234), ('each', 226), ('only', 216), ('just', 213), ('two', 212), ('do', 205), ('positive', 201), ('them', 191), ('new', 188), ('will', 187), ('2', 186), ('github', 185), ('pollsters', 184), ('points', 183), ('polling', 183), (';', 181), ('time', 180), ('its', 179), ('%', 178)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 376
+Number of types: 203
+Type token ratio: 0.5398936170212766
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, pm, infrastructure, stick, spending, infrastructure, data, github, github, datainfrastructurejobs, overpass, cheyenne, mead, gruver, ap, article, infrastructure, investment, state, census, bureau, report, bureau, construction, spending, year, information, infrastructure, spending, employment, bls, employment, industry, construction, industry, engineering, construction, subsector, infrastructure, bls, description, primary, activity, construction, engineering, line, number, infrastructure, sector, government, percent, april, peak, april, drop, construction, employment, period, trough, infrastructure, percent, peak, recession, line, bls, employment, subsector, wyoming, mining, energy, industry, prominence, maryland, example, statebystate, infrastructure, peak, trough, variation, boom, dakota, oil, means, reflection, infrastructure, spending, anything, measure, state, energy, industry, energy, industry, infrastructure')
+
+('VBG', 'using, measuring, wyoming, constructionspending, being, looking, analyzing')
+
+('NNS', 'jobs, flowers, data, data, doesn, data, subsectors, jobs, jobs, projects, highways, dams, jobs, jobs, workers, jobs, data, states, states, workers, sample, data, data, changes, jobs, reveals, states, jobs, jobs')
+
+('JJ', 'statelevel, andrew, lackluster, useful, monthly, statelevel, private, nonresidential, available, proxy, imperfect, whole, heavy, civil, entire, private, percent, overall, april, other, few, representative, such, wide, north, ideal, realtime, proxy, actual')
+
+('VBN', 'filed, built, been, realtime, fallen, risen, employed, recovered')
+
+('VBP', 'get, provide, are, let, are, eg, have, are, have, don, have, affect, have')
+
+('VB', 'have, have, create, call, have, gasheavy, reiterate')
+
+('VBZ', 'publishes, is, organizes, is, has, is, collects, is, stands, is, is, overstates, is, appears')
+
+('JJS', 'latest')
+
+('JJR', 'better, more, fewer, less')
+
+('VBD', 'came, stripped')
+
+100 most freq tokens after processing: 
+[('the', 6987), ('of', 3572), ('to', 2873), ('in', 2625), ('and', 2600), ('that', 1641), ('for', 1204), ('is', 1180), ('on', 1040), ('it', 1003), ('are', 868), ('with', 766), ('at', 759), ('we', 726), ('as', 726), ('by', 697), ('but', 669), ('percent', 656), ('more', 655), ('our', 639), ('this', 604), ('or', 575), ('they', 573), ('trump', 546), ('you', 544), ('have', 539), ('teamlogo', 535), ('from', 530), ('about', 493), ('who', 490), ('was', 486), ('than', 478), ('one', 467), ('be', 459), ('data', 443), ('were', 431), ('an', 415), ('has', 396), ('verdict', 377), ('not', 367), ('all', 351), ('their', 348), ('polls', 347), ('like', 342), ('there', 338), ('how', 333), ('he', 333), ('said', 331), ('if', 310), ('other', 310), ('so', 307), ('what', 303), ('can', 302), ('people', 301), ('most', 288), ('his', 288), ('some', 284), ('which', 274), ('out', 273), ('those', 267), ('when', 267), ('had', 252), ('also', 250), ('10', 239), ('get', 238), ('up', 234), ('each', 227), ('only', 216), ('just', 213), ('two', 212), ('11', 209), ('do', 206), ('positive', 202), ('bar', 195), ('13', 192), ('them', 191), ('new', 188), ('will', 187), ('github', 185), ('polling', 184), ('pollsters', 184), ('time', 183), ('points', 183), ('14', 181), ('its', 179), ('been', 178), ('number', 177), ('these', 176), ('would', 172), ('us', 172), ('no', 172), ('12', 170), ('many', 169), ('donald', 168), ('my', 163), ('15', 163), ('because', 163), ('average', 162), ('see', 161), ('poll', 161)]

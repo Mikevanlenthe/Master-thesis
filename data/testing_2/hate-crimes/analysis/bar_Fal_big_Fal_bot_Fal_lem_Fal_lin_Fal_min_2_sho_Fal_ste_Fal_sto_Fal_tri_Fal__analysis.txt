@@ -1,0 +1,60 @@
+Article: hate-crimes
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1699
+Raw number of types: 563
+Raw Type token ratio (higher = more diversity in language use): 0.33137139493819895
+
+100 most freq tokens before (pre)processing: 
+[('the', 6130), (',', 5904), ('.', 4029), ('of', 3063), ('a', 2536), ('to', 2479), ('in', 2346), ('and', 2231), ('’', 2000), ('that', 1397), ('s', 1102), ('for', 1056), ('is', 1010), (':', 947), ('on', 905), ('it', 826), ('are', 741), ('“', 687), ('”', 686), ('with', 658), ('at', 637), ('as', 635), ('by', 611), ('—', 605), ('(', 595), (')', 595), ('more', 594), ('our', 581), ('we', 580), ('but', 551), ('trump', 545), ('team-logo', 535), ('they', 516), ('this', 511), ('i', 485), ('or', 478), ('percent', 474), ('from', 459), ('you', 459), ('have', 455), ('t', 443), ('about', 430), ('than', 429), ('who', 428), ('was', 426), ('one', 402), ('be', 402), ('were', 382), ('verdict', 377), ('data', 374), ('1', 373), ('an', 355), ('has', 347), ('polls', 345), ('not', 327), ('?', 326), ('all', 311), ('their', 299), ('like', 290), ('he', 289), ('how', 281), ('other', 280), ('said', 280), ('there', 278), ('if', 272), ('his', 259), ('so', 257), ('most', 254), ('can', 254), ('some', 245), ('which', 244), ('people', 243), ('those', 241), ('<', 235), ('what', 235), ('>', 232), ('when', 226), ('had', 211), ('out', 210), ('also', 208), ('get', 205), ('up', 202), ('positive', 200), ('each', 190), ('just', 188), ('only', 185), ('pollsters', 184), ('polling', 183), ('two', 181), ('2', 181), ('%', 178), ('points', 174), (';', 172), ('do', 171), ('donald', 167), ('number', 167), ('time', 163), ('new', 162), ('github', 161), ('them', 161)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1443
+Number of types: 538
+Type token ratio: 0.3728343728343728
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jan, pm, income, inequality, maimuna, majumder, hate, data, github, github, line, election, poverty, law, center, day, comparison, fbi, average, day, data, election, look, state, crime, analysis, fbi, poverty, law, center, factor, predictor, hate, state, income, inequality, inequality, capita, election, connection, government, doesn, track, hate, report, poverty, law, center, situation, hate, poverty, law, center, election, crime, program, crime, law, enforcement, data, data, set, hawaii, instance, program, hate, fraction, hate, circulation, recruitment, college, hand, poverty, law, center, combination, form, hate, news, coverage, hate, election, trend, epidemiology, health, research, hate, number, splc, election, fbi, hate, question, factors1, state, education, percent, school, degree, diversity, percent, population, percent, population, heterogeneity, percent, population, health, household, income, unemployment, september, percent, poverty, income, inequality, gini, index, percent, population, trump, github, multivariate, regression, hate, country, variety, model, type, analysis, impact, capita, method, unemployment, income, election, model, preelection, fbi, postelection, splc2, income, inequality, determinant, hate, hate, preelection, postelection, magnitude, model, direction, correlation, model, income, inequality, population, school, income, inequality, determinant, neighborhood, violence, violence, general, subset, economy, college, degree, blame, minority, motivation, situation, situation, mark, potok, editorinchief, journal, intelligence, report, income, inequality, resentment, analysis, income, inequality, hate, causation, hate, community, level, statelevel, data, set, hate, report, law, enforcement, hate, fbi, splc, fact, work, insight, preelection, postelection, hate, crime, victimization, survey, bureau, justice, postelection, incident, platform, collection, crisis, fbi, splc, difference, fbi, police, police, crime, victimization, survey, survey, police, langton, chief, victimization, bureau, justice, majority, hate, law, enforcement, survey, document, hate, project, propublica, hate, twitter, message, email, addition, form, entry, approach, document, hate, officer, nat, manning, splc, election, incident, wake, day, role, trump, presidency, future, hate, election, analysis, election, income, inequality, condition, hate, disparity, administration, era, correction, jan, pm, version, article, analysis, analysis, postelection, article, version, percent, increase, index, percent, increase, population, school, degree, percentage, point')
+
+('JJR', 'higher, more, more, higher, greater, more, older, better, further, broader, easier')
+
+('NNS', 'rates, crimes, crimes, data, datahatecrimes, days, incidents, crimes, numbers, incidents, days, trends, numbers, crimes, factors, states, rates, data, crimes, incidents, rates, incidents, crimes, agencies, media, accounts, people, selfreports, crimes, data, months, data, data, sources, biases, collects, data, agencies, data, collects, crimes, incidents, offenses, materials, campuses, data, media, accounts, entries, crimes, incidents, incidents, people, incidents, fields, data, limitations, data, sets, incidents, states, words, incidents, states, people, others, states, incidents, others, data, indicators, adults, areas, people, data, variables, determinants, incidents, indicators, incidents, determinants, shifts, determinants, data, data, variables, crimes, incidents, states, data, sets, determinants, analysis3, variables, incidents, individuals, neighbors, groups, incidents, others, people, limitations, confounders, crimes, incidents, drivers, incidents, indicators, incidents, states, people, incidents, states, agencies, residents, crimes, incidents, data, sets, data, sets, results, findings, data, sources, determinants, incidents, states, options, data, statistics, data, data, times, data, sets, data, records, crimes, respondents, crimes, statistics, statistics, crimes, collaborators, people, incidents, users, meets, people, data, documents, days, plans, data, groups, incidents, incidents, states, incidents, factors, incidents, states, incidents, increases, economists, data, days, data, data, days, crimes')
+
+('JJ', 'hate, hate, southern, hate, tricky, hate, typical, such, hate, vary, southern, hate, likely, hate, true, other, relevant, federal, fbi, southern, fbi, several, southern, collect, available, easy, fbi, uniform, unclear, comprehensive, ucr, prosecutable, nonprosecutable, such, white, nationalist, other, southern, curated, selfreported, hate, nonprosecutable, bias, environmental, other, united, other, hate, many, reported, key, socioeconomic, high, nonwhite, noncitizen, geographic, metropolitan, economic, median, white, donald, linear, significant, populationadjusted, socioeconomic, much, independent, hate, essential, correlated, such, notable, significant, populationadjusted, united, other, consistent, further, significant, percent, high, degree4, hate, special, able, collegeeducated, misplaced, targeted, sufficient, hate, objective, angry, resentful, splc, high, anger, other, many, potential, hate, socioeconomic, likely, truly, representative, united, possible, different, likely, hate, likely, underrepresented, similar, robust, future, additional, united, annual, national, ushahidi, key, national, selfreport, lynn, unreported, net, ushahidi, other, text, traditional, splc, ushahidi, chief, first, ushahidi, hate, useful, hate, hate, united, uncertain, unclear, preliminary, same, united, likely, economic, trump, new, previous, previous, gini, high, hate')
+
+('VBP', 'are, get, have, are, didn, are, re, have, have, hate, don, have, data, make, use, reveal, aren, do, see, are, relative, see, fear, are, correlation, doesn, report, don, are, are, are, are, are, include, hate, are, are, go, aims, are, expect, expect')
+
+('VBN', 'tied, filed, reported, reported, limited, tied, given, released, baked, submitted, heightened, encouraged, reported, called, wellestablished, selfreported, distributed, reported, adjusted, measured, allowed, associated, known, considered, combined, overrepresented, designed, based, known, recorded, reported, reported, used, linked, linked, used, been, updated, associated')
+
+('VBD', 'were, were, collected, were, revealed, stood, were, was, held, controlled, won, were, collected, voted, used, were, had, were, ran, found, was, varied, was, remained, highschooleducated, said, controlled, identified, yielded, said, said, said, oftied, increased, were, were, mischaracterized, included, said, were, said')
+
+('VBG', 'averaging, reporting, according, including, including, controlling, conducting, doing, using, promising, crowdsourcing, asking, working, allowing, operating, collecting, catalyzing')
+
+('VBZ', 'is, is, is, states, uses, means, is, is, includes, comes, includes, is, is, is, outputs, outputs, is, demands, makes, is, is, has, is, is, is, states, suggests, is, is, casts, remains, is, suggests, serves, has')
+
+('VB', 'tell, do, be, hate, have, assess, be, navigate, have, report, have, try, answer, find, figure, assess, determine, be, earn, provide, imply, differ, moreover, mean, report, report, provide, supplement, make, report, selfreport, continue, be, inauguration, play, hate, serve, enable, have')
+
+('JJS', 'best, least')
+
+100 most freq tokens after processing: 
+[('the', 6130), ('of', 3063), ('to', 2479), ('in', 2347), ('and', 2231), ('that', 1401), ('for', 1057), ('is', 1011), ('on', 905), ('it', 829), ('are', 743), ('with', 658), ('at', 638), ('as', 635), ('by', 611), ('more', 594), ('our', 581), ('we', 580), ('but', 551), ('trump', 546), ('teamlogo', 535), ('they', 516), ('this', 511), ('percent', 479), ('or', 478), ('you', 460), ('from', 459), ('have', 455), ('about', 430), ('than', 429), ('who', 428), ('was', 426), ('one', 405), ('be', 403), ('were', 382), ('verdict', 377), ('data', 374), ('an', 355), ('has', 347), ('polls', 345), ('not', 327), ('all', 311), ('their', 299), ('like', 290), ('he', 289), ('how', 281), ('other', 281), ('said', 280), ('there', 278), ('if', 272), ('his', 259), ('so', 258), ('most', 255), ('can', 254), ('some', 245), ('which', 244), ('people', 243), ('those', 241), ('what', 235), ('10', 226), ('when', 226), ('out', 212), ('had', 211), ('also', 208), ('get', 205), ('up', 202), ('11', 201), ('positive', 201), ('each', 190), ('just', 188), ('only', 185), ('polling', 184), ('pollsters', 184), ('two', 181), ('13', 181), ('points', 174), ('14', 173), ('do', 171), ('donald', 168), ('number', 167), ('12', 165), ('time', 165), ('new', 162), ('github', 161), ('them', 161), ('poll', 160), ('election', 158), ('will', 157), ('been', 156), ('its', 155), ('no', 155), ('average', 154), ('15', 154), ('would', 152), ('many', 150), ('these', 146), ('league', 143), ('much', 140), ('us', 137), ('because', 136)]

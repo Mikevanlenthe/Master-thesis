@@ -1,0 +1,60 @@
+Article: region-survey/weve-published-our-data-on-the-south-and-midwest
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 327
+Raw number of types: 174
+Raw Type token ratio (higher = more diversity in language use): 0.5321100917431193
+
+100 most freq tokens before (pre)processing: 
+[('the', 7307), (',', 7072), ('.', 4984), ('of', 3714), ('a', 3129), ('to', 2982), ('in', 2704), ('and', 2699), ('’', 2496), ('that', 1684), ('s', 1376), ('for', 1249), ('is', 1216), ('on', 1070), (':', 1061), ('it', 1035), ('are', 903), ('“', 832), ('”', 831), ('with', 786), ('at', 783), ('—', 780), ('as', 764), ('we', 757), ('by', 733), ('(', 722), (')', 722), ('percent', 699), ('but', 690), ('more', 680), ('our', 654), ('i', 633), ('this', 625), ('or', 595), ('they', 588), ('you', 566), ('have', 561), ('from', 558), ('trump', 545), ('team-logo', 535), ('t', 533), ('about', 518), ('was', 503), ('than', 500), ('who', 494), ('be', 474), ('one', 471), ('data', 466), ('were', 446), ('an', 424), ('?', 414), ('has', 409), ('1', 385), ('not', 380), ('verdict', 377), ('their', 369), ('all', 364), ('<', 364), ('>', 358), ('there', 353), ('polls', 348), ('like', 346), ('how', 345), ('said', 333), ('he', 333), ('so', 320), ('if', 319), ('can', 317), ('other', 316), ('what', 316), ('people', 308), ('which', 297), ('some', 297), ('most', 289), ('his', 289), ('out', 277), ('when', 275), ('those', 274), ('had', 262), ('also', 261), ('get', 248), ('up', 243), ('each', 240), ('only', 222), ('just', 219), ('two', 216), ('do', 212), ('positive', 203), ('new', 200), ('github', 199), ('its', 197), ('these', 196), ('them', 196), ('will', 189), (';', 188), ('time', 188), ('2', 187), ('points', 187), ('been', 184), ('pollsters', 184)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 273
+Number of types: 161
+Type token ratio: 0.5897435897435898
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, south, midwest, walt, hickey, remix, lot, interest, tuesday, wednesday, audience, south, midwest, data, github, github, page, south, data, information, didn, use, respondent, zip, code, income, gender, region, interest, language, analysis, zip, code, inability, core, split, missouri, virginia, identity, please, data, bob, ross, bechdel, test, research, kickoff, point, point, endeavor')
+
+('VBP', 've, make, re, ll, mean, re, do, column, want, live, use, are, do, explain, are, use')
+
+('VBN', 'published, filed, excited, appreciated')
+
+('NNS', 'data, posts, results, polls, states, responses, surveys, format, heads, tails, folks, approaches, people, respondents, words, approaches, data, expatriates, definitions, regions, states, residents, states, data, remixes, articles, remixes, things, questions, findings, regions')
+
+('VBD', 'was, wrote, asked, posted, resulted, was')
+
+('VBG', 'using, making, explaining')
+
+('JJ', 'surveymonkey, available, csv, such, interesting, own, interested, southern, midwestern, local, midwestern, difficulttocategorize, such, own, fantastic, interesting, new, whole, nebulous')
+
+('VB', 'find, make, see, make, be, do, say, agree, send, post, send, walterhickey, learn, be')
+
+('JJS', 'midwest')
+
+('VBZ', 'is')
+
+('JJR', 'more')
+
+100 most freq tokens after processing: 
+[('the', 7307), ('of', 3714), ('to', 2982), ('in', 2706), ('and', 2699), ('that', 1688), ('for', 1250), ('is', 1218), ('on', 1070), ('it', 1038), ('are', 905), ('with', 786), ('at', 784), ('as', 764), ('we', 757), ('by', 733), ('percent', 708), ('but', 690), ('more', 680), ('our', 654), ('this', 625), ('or', 595), ('they', 588), ('you', 567), ('have', 561), ('from', 558), ('trump', 546), ('teamlogo', 535), ('about', 518), ('was', 503), ('than', 500), ('who', 494), ('be', 476), ('one', 474), ('data', 466), ('were', 446), ('an', 424), ('has', 409), ('not', 380), ('verdict', 377), ('their', 369), ('all', 364), ('there', 353), ('polls', 348), ('like', 346), ('how', 345), ('said', 333), ('he', 333), ('so', 321), ('if', 319), ('can', 317), ('other', 317), ('what', 316), ('people', 308), ('which', 297), ('some', 297), ('most', 290), ('his', 289), ('out', 279), ('when', 275), ('those', 274), ('had', 262), ('also', 261), ('get', 248), ('10', 245), ('up', 243), ('each', 241), ('only', 222), ('just', 219), ('two', 216), ('11', 215), ('do', 213), ('positive', 204), ('bar', 201), ('new', 200), ('github', 199), ('13', 198), ('its', 197), ('these', 196), ('them', 196), ('time', 192), ('will', 189), ('points', 187), ('been', 185), ('polling', 184), ('pollsters', 184), ('14', 182), ('us', 180), ('number', 178), ('would', 176), ('no', 176), ('12', 175), ('many', 173), ('because', 170), ('donald', 168), ('much', 168), ('my', 167), ('15', 167), ('see', 166), ('average', 164)]

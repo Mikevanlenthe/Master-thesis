@@ -1,0 +1,141 @@
+the french consume more  wine than people in any other country
+[('the', 'DT'), ('french', 'JJ'), ('consume', 'NN'), ('more', 'RBR'), ('wine', 'JJ'), ('than', 'IN'), ('people', 'NNS'), ('in', 'IN'), ('any', 'DT'), ('other', 'JJ'), ('country', 'NN')]
+
+{the french consume} 370 glasses of wine compared to  just 84 glasses in the U.S.
+[('{', '('), ('the', 'DT'), ('french', 'JJ'), ('consume', 'NN'), ('}', ')'), ('370', 'CD'), ('glasses', 'NNS'), ('of', 'IN'), ('wine', 'NN'), ('compared', 'VBN'), ('to', 'TO'), ('just', 'RB'), ('84', 'CD'), ('glasses', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('U.S', 'NNP'), ('.', '.')]
+
+in germany the average is 346 cans and in the U.S. It's 249 cans
+[('in', 'IN'), ('germany', 'PDT'), ('the', 'DT'), ('average', 'NN'), ('is', 'VBZ'), ('346', 'CD'), ('cans', 'NNS'), ('and', 'CC'), ('in', 'IN'), ('the', 'DT'), ('U.S', 'NNP'), ('.', '.'), ('It', 'PRP'), ("'s", 'VBZ'), ('249', 'CD'), ('cans', 'NNS')]
+
+the average person in granada drinks 438 measures of spirit per year. That's far more than any other country
+[('the', 'DT'), ('average', 'JJ'), ('person', 'NN'), ('in', 'IN'), ('granada', 'JJ'), ('drinks', 'NNS'), ('438', 'CD'), ('measures', 'NNS'), ('of', 'IN'), ('spirit', 'NN'), ('per', 'IN'), ('year', 'NN'), ('.', '.'), ('That', 'DT'), ("'s", 'VBZ'), ('far', 'RB'), ('more', 'JJR'), ('than', 'IN'), ('any', 'DT'), ('other', 'JJ'), ('country', 'NN')]
+
+alcohol consumption per person () rose, peaking in the early 1980's at 2.76 gallons per year, then fell in the late 1990's before rising again to 2.26 gallons per year 
+[('alcohol', 'NN'), ('consumption', 'NN'), ('per', 'IN'), ('person', 'NN'), ('(', '('), (')', ')'), ('rose', 'VBD'), (',', ','), ('peaking', 'VBG'), ('in', 'IN'), ('the', 'DT'), ('early', 'JJ'), ('1980', 'CD'), ("'s", 'POS'), ('at', 'IN'), ('2.76', 'CD'), ('gallons', 'NNS'), ('per', 'IN'), ('year', 'NN'), (',', ','), ('then', 'RB'), ('fell', 'VBD'), ('in', 'IN'), ('the', 'DT'), ('late', 'JJ'), ('1990', 'CD'), ("'s", 'POS'), ('before', 'IN'), ('rising', 'VBG'), ('again', 'RB'), ('to', 'TO'), ('2.26', 'CD'), ('gallons', 'NNS'), ('per', 'IN'), ('year', 'NN')]
+
+In 2010, wine sonsuption was the highest it had been in any of the previous 160 years
+[('In', 'IN'), ('2010', 'CD'), (',', ','), ('wine', 'JJ'), ('sonsuption', 'NN'), ('was', 'VBD'), ('the', 'DT'), ('highest', 'JJS'), ('it', 'PRP'), ('had', 'VBD'), ('been', 'VBN'), ('in', 'IN'), ('any', 'DT'), ('of', 'IN'), ('the', 'DT'), ('previous', 'JJ'), ('160', 'CD'), ('years', 'NNS')]
+
+in the 1960's, beer is consumed more than any other alcoholic beverage
+[('in', 'IN'), ('the', 'DT'), ('1960', 'CD'), ("'s", 'POS'), (',', ','), ('beer', 'NN'), ('is', 'VBZ'), ('consumed', 'VBN'), ('more', 'JJR'), ('than', 'IN'), ('any', 'DT'), ('other', 'JJ'), ('alcoholic', 'JJ'), ('beverage', 'NN')]
+
+in 101 of the 193 countries WHO looked at, people drank more servings of beer than any other alcohol, followed by spirits (59 countries), then wine (20) 
+[('in', 'IN'), ('101', 'CD'), ('of', 'IN'), ('the', 'DT'), ('193', 'CD'), ('countries', 'NNS'), ('WHO', 'WP'), ('looked', 'VBD'), ('at', 'IN'), (',', ','), ('people', 'NNS'), ('drank', 'VBP'), ('more', 'JJR'), ('servings', 'NNS'), ('of', 'IN'), ('beer', 'NN'), ('than', 'IN'), ('any', 'DT'), ('other', 'JJ'), ('alcohol', 'NN'), (',', ','), ('followed', 'VBN'), ('by', 'IN'), ('spirits', 'NNS'), ('(', '('), ('59', 'CD'), ('countries', 'NNS'), (')', ')'), (',', ','), ('then', 'RB'), ('wine', 'NN'), ('(', '('), ('20', 'CD'), (')', ')')]
+
+
+[]
+
+5.6 million motor vehicle crashes in the united states in 2012, of which 4 milion involved solely property damage, 1.6 million involved a personal injury, and 30.800 resulted in a fatality
+[('5.6', 'CD'), ('million', 'CD'), ('motor', 'NN'), ('vehicle', 'NN'), ('crashes', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('united', 'JJ'), ('states', 'NNS'), ('in', 'IN'), ('2012', 'CD'), (',', ','), ('of', 'IN'), ('which', 'WDT'), ('4', 'CD'), ('milion', 'NN'), ('involved', 'VBN'), ('solely', 'RB'), ('property', 'NN'), ('damage', 'NN'), (',', ','), ('1.6', 'CD'), ('million', 'CD'), ('involved', 'VBD'), ('a', 'DT'), ('personal', 'JJ'), ('injury', 'NN'), (',', ','), ('and', 'CC'), ('30.800', 'CD'), ('resulted', 'VBD'), ('in', 'IN'), ('a', 'DT'), ('fatality', 'NN')]
+
+texas accounted for 3.021 of those fatal crashes, more than any other state, while washington. D.c. Had 14 fewer
+[('texas', 'NN'), ('accounted', 'VBD'), ('for', 'IN'), ('3.021', 'CD'), ('of', 'IN'), ('those', 'DT'), ('fatal', 'JJ'), ('crashes', 'NNS'), (',', ','), ('more', 'JJR'), ('than', 'IN'), ('any', 'DT'), ('other', 'JJ'), ('state', 'NN'), (',', ','), ('while', 'IN'), ('washington', 'NN'), ('.', '.'), ('D.c.', 'NNP'), ('Had', 'VBD'), ('14', 'CD'), ('fewer', 'JJR')]
+
+23.8 drivers involved in fatal collisions for every billion miles traveled - far higher than  the national average of 15.5
+[('23.8', 'CD'), ('drivers', 'NNS'), ('involved', 'VBN'), ('in', 'IN'), ('fatal', 'JJ'), ('collisions', 'NNS'), ('for', 'IN'), ('every', 'DT'), ('billion', 'CD'), ('miles', 'NNS'), ('traveled', 'VBD'), ('-', ':'), ('far', 'RB'), ('higher', 'JJR'), ('than', 'IN'), ('the', 'DT'), ('national', 'JJ'), ('average', 'NN'), ('of', 'IN'), ('15.5', 'CD')]
+
+397 of those drivers were distracted by their cellphones, 39 were eating or drinking, and 17 drivers were simply " lost in thought/day dreaming."
+[('397', 'CD'), ('of', 'IN'), ('those', 'DT'), ('drivers', 'NNS'), ('were', 'VBD'), ('distracted', 'VBN'), ('by', 'IN'), ('their', 'PRP$'), ('cellphones', 'NNS'), (',', ','), ('39', 'CD'), ('were', 'VBD'), ('eating', 'VBG'), ('or', 'CC'), ('drinking', 'NN'), (',', ','), ('and', 'CC'), ('17', 'CD'), ('drivers', 'NNS'), ('were', 'VBD'), ('simply', 'RB'), ('``', '``'), ('lost', 'VBN'), ('in', 'IN'), ('thought/day', 'JJ'), ('dreaming', 'NN'), ('.', '.'), ("''", "''")]
+
+in Idaho, 98 percent of drivers hadn't been involved in any previous collisions, while in New jersey, at the low and, that figure was 78 percent. 
+[('in', 'IN'), ('Idaho', 'NNP'), (',', ','), ('98', 'CD'), ('percent', 'NN'), ('of', 'IN'), ('drivers', 'NNS'), ('had', 'VBD'), ("n't", 'RB'), ('been', 'VBN'), ('involved', 'VBN'), ('in', 'IN'), ('any', 'DT'), ('previous', 'JJ'), ('collisions', 'NNS'), (',', ','), ('while', 'IN'), ('in', 'IN'), ('New', 'NNP'), ('jersey', 'NN'), (',', ','), ('at', 'IN'), ('the', 'DT'), ('low', 'JJ'), ('and', 'CC'), (',', ','), ('that', 'IN'), ('figure', 'NN'), ('was', 'VBD'), ('78', 'CD'), ('percent', 'NN'), ('.', '.')]
+
+In mississippi, just 15 percent of traffic fatalities occurred while a driver was speeding, while in pennsylvania, the share was 50 percent
+[('In', 'IN'), ('mississippi', 'NNP'), (',', ','), ('just', 'RB'), ('15', 'CD'), ('percent', 'NN'), ('of', 'IN'), ('traffic', 'NN'), ('fatalities', 'NNS'), ('occurred', 'VBD'), ('while', 'IN'), ('a', 'DT'), ('driver', 'NN'), ('was', 'VBD'), ('speeding', 'VBG'), (',', ','), ('while', 'IN'), ('in', 'IN'), ('pennsylvania', 'NN'), (',', ','), ('the', 'DT'), ('share', 'NN'), ('was', 'VBD'), ('50', 'CD'), ('percent', 'NN')]
+
+In montana though, 44 percent of traffic fatalities that year involved a driver who was alcohol-impaired, while in Utah, that figure was 16 percent
+[('In', 'IN'), ('montana', 'NNP'), ('though', 'IN'), (',', ','), ('44', 'CD'), ('percent', 'NN'), ('of', 'IN'), ('traffic', 'NN'), ('fatalities', 'NNS'), ('that', 'IN'), ('year', 'NN'), ('involved', 'VBN'), ('a', 'DT'), ('driver', 'NN'), ('who', 'WP'), ('was', 'VBD'), ('alcohol-impaired', 'JJ'), (',', ','), ('while', 'IN'), ('in', 'IN'), ('Utah', 'NNP'), (',', ','), ('that', 'IN'), ('figure', 'NN'), ('was', 'VBD'), ('16', 'CD'), ('percent', 'NN')]
+
+New Jerseyans still don't come off so good, costing insuers $160 apiece for collisions, but they're still far behind the most expensive state, Louisiana, where it was $195. 
+[('New', 'NNP'), ('Jerseyans', 'NNP'), ('still', 'RB'), ('do', 'VBP'), ("n't", 'RB'), ('come', 'VB'), ('off', 'RP'), ('so', 'RB'), ('good', 'JJ'), (',', ','), ('costing', 'VBG'), ('insuers', 'NNS'), ('$', '$'), ('160', 'CD'), ('apiece', 'RB'), ('for', 'IN'), ('collisions', 'NNS'), (',', ','), ('but', 'CC'), ('they', 'PRP'), ("'re", 'VBP'), ('still', 'RB'), ('far', 'RB'), ('behind', 'IN'), ('the', 'DT'), ('most', 'RBS'), ('expensive', 'JJ'), ('state', 'NN'), (',', ','), ('Louisiana', 'NNP'), (',', ','), ('where', 'WRB'), ('it', 'PRP'), ('was', 'VBD'), ('$', '$'), ('195', 'CD'), ('.', '.')]
+
+
+[]
+
+starting in the late 1990s, as play shifted to baseline battles, it slowed down - until 2012 ,when the average point took 4.6 seconds longer than in 1991, all else equal
+[('starting', 'VBG'), ('in', 'IN'), ('the', 'DT'), ('late', 'JJ'), ('1990s', 'NNS'), (',', ','), ('as', 'IN'), ('play', 'NN'), ('shifted', 'VBD'), ('to', 'TO'), ('baseline', 'VB'), ('battles', 'NNS'), (',', ','), ('it', 'PRP'), ('slowed', 'VBD'), ('down', 'RP'), ('-', ':'), ('until', 'IN'), ('2012', 'CD'), (',', ','), ('when', 'WRB'), ('the', 'DT'), ('average', 'JJ'), ('point', 'NN'), ('took', 'VBD'), ('4.6', 'CD'), ('seconds', 'NNS'), ('longer', 'RBR'), ('than', 'IN'), ('in', 'IN'), ('1991', 'CD'), (',', ','), ('all', 'DT'), ('else', 'RB'), ('equal', 'JJ')]
+
+
+[]
+
+The national airline of Colombia, had a series of major crashes from 1983 through 1990.
+[('The', 'DT'), ('national', 'JJ'), ('airline', 'NN'), ('of', 'IN'), ('Colombia', 'NNP'), (',', ','), ('had', 'VBD'), ('a', 'DT'), ('series', 'NN'), ('of', 'IN'), ('major', 'JJ'), ('crashes', 'NNS'), ('from', 'IN'), ('1983', 'CD'), ('through', 'IN'), ('1990', 'CD'), ('.', '.')]
+
+but it has almst no problems since than no fatal accidents since 1990, and no incidents of any kind since 1999.
+[('but', 'CC'), ('it', 'PRP'), ('has', 'VBZ'), ('almst', 'VBN'), ('no', 'DT'), ('problems', 'NNS'), ('since', 'IN'), ('than', 'IN'), ('no', 'DT'), ('fatal', 'JJ'), ('accidents', 'NNS'), ('since', 'IN'), ('1990', 'CD'), (',', ','), ('and', 'CC'), ('no', 'DT'), ('incidents', 'NNS'), ('of', 'IN'), ('any', 'DT'), ('kind', 'NN'), ('since', 'IN'), ('1999', 'CD'), ('.', '.')]
+
+
+[]
+
+we found that the median budget of movies that passed the test, those that featured a conversation between two woman about something other than a man was substantially lower than the median budget of all films in the sample
+[('we', 'PRP'), ('found', 'VBD'), ('that', 'IN'), ('the', 'DT'), ('median', 'JJ'), ('budget', 'NN'), ('of', 'IN'), ('movies', 'NNS'), ('that', 'WDT'), ('passed', 'VBD'), ('the', 'DT'), ('test', 'NN'), (',', ','), ('those', 'DT'), ('that', 'WDT'), ('featured', 'VBD'), ('a', 'DT'), ('conversation', 'NN'), ('between', 'IN'), ('two', 'CD'), ('woman', 'NN'), ('about', 'IN'), ('something', 'NN'), ('other', 'JJ'), ('than', 'IN'), ('a', 'DT'), ('man', 'NN'), ('was', 'VBD'), ('substantially', 'RB'), ('lower', 'JJR'), ('than', 'IN'), ('the', 'DT'), ('median', 'JJ'), ('budget', 'NN'), ('of', 'IN'), ('all', 'DT'), ('films', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('sample', 'NN')]
+
+the median budget of a film that failed the test wqs 48.4 million. The median budget of a film that passed was 31.7 million, or 35 percent less
+[('the', 'DT'), ('median', 'JJ'), ('budget', 'NN'), ('of', 'IN'), ('a', 'DT'), ('film', 'NN'), ('that', 'WDT'), ('failed', 'VBD'), ('the', 'DT'), ('test', 'NN'), ('wqs', 'NN'), ('48.4', 'CD'), ('million', 'CD'), ('.', '.'), ('The', 'DT'), ('median', 'JJ'), ('budget', 'NN'), ('of', 'IN'), ('a', 'DT'), ('film', 'NN'), ('that', 'WDT'), ('passed', 'VBD'), ('was', 'VBD'), ('31.7', 'CD'), ('million', 'CD'), (',', ','), ('or', 'CC'), ('35', 'CD'), ('percent', 'NN'), ('less', 'JJR')]
+
+
+[]
+
+Not surprisingly, boomers aged 50 to 64 have lower rates of drug use overall than their younger contemporaries; they also use less of each individual drug.
+[('Not', 'RB'), ('surprisingly', 'RB'), (',', ','), ('boomers', 'NNS'), ('aged', 'VBD'), ('50', 'CD'), ('to', 'TO'), ('64', 'CD'), ('have', 'VB'), ('lower', 'JJR'), ('rates', 'NNS'), ('of', 'IN'), ('drug', 'NN'), ('use', 'NN'), ('overall', 'JJ'), ('than', 'IN'), ('their', 'PRP$'), ('younger', 'JJR'), ('contemporaries', 'NNS'), (';', ':'), ('they', 'PRP'), ('also', 'RB'), ('use', 'VBP'), ('less', 'JJR'), ('of', 'IN'), ('each', 'DT'), ('individual', 'JJ'), ('drug', 'NN'), ('.', '.')]
+
+For baby boomers, the next in line was prescription pain relievers, with 2.52 percent saying they’d used one for non-prescription purposes at least once in the previous year. Still, a smaller percentage of boomers used pain relievers than any other group over the age of\xa0
+[('For', 'IN'), ('baby', 'NN'), ('boomers', 'NNS'), (',', ','), ('the', 'DT'), ('next', 'JJ'), ('in', 'IN'), ('line', 'NN'), ('was', 'VBD'), ('prescription', 'NN'), ('pain', 'NN'), ('relievers', 'NNS'), (',', ','), ('with', 'IN'), ('2.52', 'CD'), ('percent', 'NN'), ('saying', 'VBG'), ('they', 'PRP'), ('’', 'VBP'), ('d', 'NNS'), ('used', 'VBD'), ('one', 'CD'), ('for', 'IN'), ('non-prescription', 'NN'), ('purposes', 'NNS'), ('at', 'IN'), ('least', 'JJS'), ('once', 'RB'), ('in', 'IN'), ('the', 'DT'), ('previous', 'JJ'), ('year', 'NN'), ('.', '.'), ('Still', 'RB'), (',', ','), ('a', 'DT'), ('smaller', 'JJR'), ('percentage', 'NN'), ('of', 'IN'), ('boomers', 'NNS'), ('used', 'VBN'), ('pain', 'NN'), ('relievers', 'NNS'), ('than', 'IN'), ('any', 'DT'), ('other', 'JJ'), ('group', 'NN'), ('over', 'IN'), ('the', 'DT'), ('age', 'NN'), ('of\\xa0', 'NN')]
+
+Respondents aged 50 to 64 also reported much lower use of hallucinogens, tranquilizers and stimulants (like amphetamines or Ritalin) than younger respondents.
+[('Respondents', 'NNS'), ('aged', 'VBD'), ('50', 'CD'), ('to', 'TO'), ('64', 'CD'), ('also', 'RB'), ('reported', 'VBD'), ('much', 'RB'), ('lower', 'JJR'), ('use', 'NN'), ('of', 'IN'), ('hallucinogens', 'NNS'), (',', ','), ('tranquilizers', 'NNS'), ('and', 'CC'), ('stimulants', 'NNS'), ('(', '('), ('like', 'IN'), ('amphetamines', 'NNS'), ('or', 'CC'), ('Ritalin', 'NNP'), (')', ')'), ('than', 'IN'), ('younger', 'JJR'), ('respondents', 'NNS'), ('.', '.')]
+
+The median pot-smoking boomer got high 52 days in a year, more often than 35- to 49-year-olds (48 days) but less often than 30- to 34-year-olds (72 days)
+[('The', 'DT'), ('median', 'JJ'), ('pot-smoking', 'JJ'), ('boomer', 'NN'), ('got', 'VBD'), ('high', 'JJ'), ('52', 'CD'), ('days', 'NNS'), ('in', 'IN'), ('a', 'DT'), ('year', 'NN'), (',', ','), ('more', 'RBR'), ('often', 'RB'), ('than', 'IN'), ('35-', 'JJ'), ('to', 'TO'), ('49-year-olds', 'NNS'), ('(', '('), ('48', 'CD'), ('days', 'NNS'), (')', ')'), ('but', 'CC'), ('less', 'RBR'), ('often', 'RB'), ('than', 'IN'), ('30-', 'JJ'), ('to', 'TO'), ('34-year-olds', 'NNS'), ('(', '('), ('72', 'CD'), ('days', 'NNS'), (')', ')')]
+
+While people in the baby-boom generation use more drugs after they’ve turned 50 than their parents or grandparents did, younger boomers use a lot more than older boomers.
+[('While', 'IN'), ('people', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('baby-boom', 'NN'), ('generation', 'NN'), ('use', 'IN'), ('more', 'JJR'), ('drugs', 'NNS'), ('after', 'IN'), ('they', 'PRP'), ('’', 'VBP'), ('ve', 'NNS'), ('turned', 'VBD'), ('50', 'CD'), ('than', 'IN'), ('their', 'PRP$'), ('parents', 'NNS'), ('or', 'CC'), ('grandparents', 'NNS'), ('did', 'VBD'), (',', ','), ('younger', 'JJR'), ('boomers', 'NNS'), ('use', 'VBP'), ('a', 'DT'), ('lot', 'NN'), ('more', 'JJR'), ('than', 'IN'), ('older', 'JJR'), ('boomers', 'NNS'), ('.', '.')]
+
+From 2003 to 2012, illicit drug use, including marijuana,\xa0increased from 1.1 percent to 3.6 percent\xa0among 60- to 64-year-olds. For 50- to 54-year-olds, the rate went from 3.9 percent to 7.2 percent over the same period.
+[('From', 'IN'), ('2003', 'CD'), ('to', 'TO'), ('2012', 'CD'), (',', ','), ('illicit', 'JJ'), ('drug', 'NN'), ('use', 'NN'), (',', ','), ('including', 'VBG'), ('marijuana', 'NN'), (',', ','), ('\\xa0increased', 'VBN'), ('from', 'IN'), ('1.1', 'CD'), ('percent', 'NN'), ('to', 'TO'), ('3.6', 'CD'), ('percent\\xa0among', 'JJ'), ('60-', 'JJ'), ('to', 'TO'), ('64-year-olds', 'NNS'), ('.', '.'), ('For', 'IN'), ('50-', 'JJ'), ('to', 'TO'), ('54-year-olds', 'NNS'), (',', ','), ('the', 'DT'), ('rate', 'NN'), ('went', 'VBD'), ('from', 'IN'), ('3.9', 'CD'), ('percent', 'NN'), ('to', 'TO'), ('7.2', 'CD'), ('percent', 'NN'), ('over', 'IN'), ('the', 'DT'), ('same', 'JJ'), ('period', 'NN'), ('.', '.')]
+
+\xa0We found that just 0.36 percent of 50- to 64-year-olds said they’d used OxyContin in the previous year, compared with a high of 1.72 percent among 20-year-olds.\xa0
+[('\\xa0We', 'NN'), ('found', 'VBD'), ('that', 'IN'), ('just', 'RB'), ('0.36', 'CD'), ('percent', 'NN'), ('of', 'IN'), ('50-', 'JJ'), ('to', 'TO'), ('64-year-olds', 'NNS'), ('said', 'VBD'), ('they', 'PRP'), ('’', 'VBP'), ('d', 'NNS'), ('used', 'VBN'), ('OxyContin', 'NNP'), ('in', 'IN'), ('the', 'DT'), ('previous', 'JJ'), ('year', 'NN'), (',', ','), ('compared', 'VBN'), ('with', 'IN'), ('a', 'DT'), ('high', 'JJ'), ('of', 'IN'), ('1.72', 'CD'), ('percent', 'NN'), ('among', 'IN'), ('20-year-olds.\\xa0', 'JJ')]
+
+
+[]
+
+The number of full-time, sworn local police officers\xa0increased by 35 percent\xa0from 1987 to 2013, according to the Bureau of Justice Statistics. During that same period, the number of officers killed declined by\xa034\xa0percent.\xa0And a growing share of officer deaths are happening in accidental or deliberate car collisions.
+[('The', 'DT'), ('number', 'NN'), ('of', 'IN'), ('full-time', 'JJ'), (',', ','), ('sworn', 'JJ'), ('local', 'JJ'), ('police', 'NNS'), ('officers\\xa0increased', 'VBN'), ('by', 'IN'), ('35', 'CD'), ('percent\\xa0from', 'NN'), ('1987', 'CD'), ('to', 'TO'), ('2013', 'CD'), (',', ','), ('according', 'VBG'), ('to', 'TO'), ('the', 'DT'), ('Bureau', 'NNP'), ('of', 'IN'), ('Justice', 'NNP'), ('Statistics', 'NNPS'), ('.', '.'), ('During', 'IN'), ('that', 'DT'), ('same', 'JJ'), ('period', 'NN'), (',', ','), ('the', 'DT'), ('number', 'NN'), ('of', 'IN'), ('officers', 'NNS'), ('killed', 'VBN'), ('declined', 'VBD'), ('by\\xa034\\xa0percent.\\xa0And', 'RP'), ('a', 'DT'), ('growing', 'VBG'), ('share', 'NN'), ('of', 'IN'), ('officer', 'NN'), ('deaths', 'NNS'), ('are', 'VBP'), ('happening', 'VBG'), ('in', 'IN'), ('accidental', 'JJ'), ('or', 'CC'), ('deliberate', 'JJ'), ('car', 'NN'), ('collisions', 'NNS'), ('.', '.')]
+
+Police and sheriff’s patrol officers’ death rate per 100,000 full-time workers was 13.5 in 2014, according to\xa0the Bureau of Labor Statistics\xa0— nearly four times the rate for all workers but below the rate for dozens of other professions, including pilots, truck drivers and loggers.
+[('Police', 'NNP'), ('and', 'CC'), ('sheriff', 'NN'), ('’', 'NNP'), ('s', 'VBZ'), ('patrol', 'NN'), ('officers', 'NNS'), ('’', 'VBP'), ('death', 'NN'), ('rate', 'NN'), ('per', 'IN'), ('100,000', 'CD'), ('full-time', 'JJ'), ('workers', 'NNS'), ('was', 'VBD'), ('13.5', 'CD'), ('in', 'IN'), ('2014', 'CD'), (',', ','), ('according', 'VBG'), ('to\\xa0the', 'NN'), ('Bureau', 'NNP'), ('of', 'IN'), ('Labor', 'NNP'), ('Statistics\\xa0—', 'NNP'), ('nearly', 'RB'), ('four', 'CD'), ('times', 'NNS'), ('the', 'DT'), ('rate', 'NN'), ('for', 'IN'), ('all', 'DT'), ('workers', 'NNS'), ('but', 'CC'), ('below', 'IN'), ('the', 'DT'), ('rate', 'NN'), ('for', 'IN'), ('dozens', 'NNS'), ('of', 'IN'), ('other', 'JJ'), ('professions', 'NNS'), (',', ','), ('including', 'VBG'), ('pilots', 'NNS'), (',', ','), ('truck', 'NN'), ('drivers', 'NNS'), ('and', 'CC'), ('loggers', 'NNS'), ('.', '.')]
+
+
+[]
+
+Take Riley, for example. Nearly 155,000 living Americans are named Riley, and the male-to-female ratio is pretty balanced, with a 51 percent to 49 percent split.
+[('Take', 'VB'), ('Riley', 'NNP'), (',', ','), ('for', 'IN'), ('example', 'NN'), ('.', '.'), ('Nearly', 'RB'), ('155,000', 'CD'), ('living', 'JJ'), ('Americans', 'NNPS'), ('are', 'VBP'), ('named', 'VBN'), ('Riley', 'NNP'), (',', ','), ('and', 'CC'), ('the', 'DT'), ('male-to-female', 'JJ'), ('ratio', 'NN'), ('is', 'VBZ'), ('pretty', 'RB'), ('balanced', 'VBN'), (',', ','), ('with', 'IN'), ('a', 'DT'), ('51', 'CD'), ('percent', 'NN'), ('to', 'TO'), ('49', 'CD'), ('percent', 'NN'), ('split', 'NN'), ('.', '.')]
+
+
+[]
+
+The Pew Research Center last week released a\xa0big report\xa0on the decline in marriage in the United States. In 1960, nearly 90 percent of 25- to 34-year olds had been married; today, that figure is barely 50 percent. The trend is remarkably broad, cutting across race, education, income and other characteristics.2
+[('The', 'DT'), ('Pew', 'NNP'), ('Research', 'NNP'), ('Center', 'NNP'), ('last', 'JJ'), ('week', 'NN'), ('released', 'VBD'), ('a\\xa0big', 'JJ'), ('report\\xa0on', 'NN'), ('the', 'DT'), ('decline', 'NN'), ('in', 'IN'), ('marriage', 'NN'), ('in', 'IN'), ('the', 'DT'), ('United', 'NNP'), ('States', 'NNPS'), ('.', '.'), ('In', 'IN'), ('1960', 'CD'), (',', ','), ('nearly', 'RB'), ('90', 'CD'), ('percent', 'NN'), ('of', 'IN'), ('25-', 'JJ'), ('to', 'TO'), ('34-year', 'JJ'), ('olds', 'NNS'), ('had', 'VBD'), ('been', 'VBN'), ('married', 'VBN'), (';', ':'), ('today', 'NN'), (',', ','), ('that', 'DT'), ('figure', 'NN'), ('is', 'VBZ'), ('barely', 'RB'), ('50', 'CD'), ('percent', 'NN'), ('.', '.'), ('The', 'DT'), ('trend', 'NN'), ('is', 'VBZ'), ('remarkably', 'RB'), ('broad', 'JJ'), (',', ','), ('cutting', 'VBG'), ('across', 'IN'), ('race', 'NN'), (',', ','), ('education', 'NN'), (',', ','), ('income', 'NN'), ('and', 'CC'), ('other', 'JJ'), ('characteristics.2', 'NN')]
+
+More than 70 percent of Americans have been married at least once by age 35, down from more than 90 percent 30 years ago but still a solid majority.
+[('More', 'JJR'), ('than', 'IN'), ('70', 'CD'), ('percent', 'NN'), ('of', 'IN'), ('Americans', 'NNPS'), ('have', 'VBP'), ('been', 'VBN'), ('married', 'VBN'), ('at', 'IN'), ('least', 'JJS'), ('once', 'RB'), ('by', 'IN'), ('age', 'NN'), ('35', 'CD'), (',', ','), ('down', 'RB'), ('from', 'IN'), ('more', 'JJR'), ('than', 'IN'), ('90', 'CD'), ('percent', 'JJ'), ('30', 'CD'), ('years', 'NNS'), ('ago', 'RB'), ('but', 'CC'), ('still', 'RB'), ('a', 'DT'), ('solid', 'JJ'), ('majority', 'NN'), ('.', '.')]
+
+The chart below shows the marriage rate,4\xa0broken down by education. For Americans ages 25 to 34, the rate has fallen faster for less-educated men than for those with a college degree, but there is a clear downward trend for all groups that has accelerated since about 2005.
+[('The', 'DT'), ('chart', 'NN'), ('below', 'IN'), ('shows', 'VBZ'), ('the', 'DT'), ('marriage', 'NN'), ('rate,4\\xa0broken', 'VBD'), ('down', 'RB'), ('by', 'IN'), ('education', 'NN'), ('.', '.'), ('For', 'IN'), ('Americans', 'NNPS'), ('ages', 'VBZ'), ('25', 'CD'), ('to', 'TO'), ('34', 'CD'), (',', ','), ('the', 'DT'), ('rate', 'NN'), ('has', 'VBZ'), ('fallen', 'VBN'), ('faster', 'RBR'), ('for', 'IN'), ('less-educated', 'JJ'), ('men', 'NNS'), ('than', 'IN'), ('for', 'IN'), ('those', 'DT'), ('with', 'IN'), ('a', 'DT'), ('college', 'NN'), ('degree', 'NN'), (',', ','), ('but', 'CC'), ('there', 'EX'), ('is', 'VBZ'), ('a', 'DT'), ('clear', 'JJ'), ('downward', 'JJ'), ('trend', 'NN'), ('for', 'IN'), ('all', 'DT'), ('groups', 'NNS'), ('that', 'WDT'), ('has', 'VBZ'), ('accelerated', 'VBN'), ('since', 'IN'), ('about', 'IN'), ('2005', 'CD'), ('.', '.')]
+
+The decline is much steeper among the less educated. Among college graduates, in fact, marriage rates have hardly fallen at all since 2000, and are only modestly lower than they were in 1980.
+[('The', 'DT'), ('decline', 'NN'), ('is', 'VBZ'), ('much', 'JJ'), ('steeper', 'NN'), ('among', 'IN'), ('the', 'DT'), ('less', 'RBR'), ('educated', 'JJ'), ('.', '.'), ('Among', 'IN'), ('college', 'NN'), ('graduates', 'NNS'), (',', ','), ('in', 'IN'), ('fact', 'NN'), (',', ','), ('marriage', 'NN'), ('rates', 'NNS'), ('have', 'VBP'), ('hardly', 'RB'), ('fallen', 'VBN'), ('at', 'IN'), ('all', 'DT'), ('since', 'IN'), ('2000', 'CD'), (',', ','), ('and', 'CC'), ('are', 'VBP'), ('only', 'RB'), ('modestly', 'RB'), ('lower', 'JJR'), ('than', 'IN'), ('they', 'PRP'), ('were', 'VBD'), ('in', 'IN'), ('1980', 'CD'), ('.', '.')]
+
+But college-educated women who do decide to have children in their 20s are nearly all married: 90 percent, versus about 36 percent for college educated women without children in the same age range.
+[('But', 'CC'), ('college-educated', 'JJ'), ('women', 'NNS'), ('who', 'WP'), ('do', 'VBP'), ('decide', 'VB'), ('to', 'TO'), ('have', 'VB'), ('children', 'NNS'), ('in', 'IN'), ('their', 'PRP$'), ('20s', 'CD'), ('are', 'VBP'), ('nearly', 'RB'), ('all', 'DT'), ('married', 'VBD'), (':', ':'), ('90', 'CD'), ('percent', 'NN'), (',', ','), ('versus', 'NN'), ('about', 'IN'), ('36', 'CD'), ('percent', 'NN'), ('for', 'IN'), ('college', 'NN'), ('educated', 'VBN'), ('women', 'NNS'), ('without', 'IN'), ('children', 'NNS'), ('in', 'IN'), ('the', 'DT'), ('same', 'JJ'), ('age', 'NN'), ('range', 'NN'), ('.', '.')]
+
+The marriage rate for young mothers with at most a high school diploma is about 70 percent, much higher than the rate for those without children, but far below the rate for college-educated mothers.
+[('The', 'DT'), ('marriage', 'NN'), ('rate', 'NN'), ('for', 'IN'), ('young', 'JJ'), ('mothers', 'NNS'), ('with', 'IN'), ('at', 'IN'), ('most', 'JJS'), ('a', 'DT'), ('high', 'JJ'), ('school', 'NN'), ('diploma', 'NN'), ('is', 'VBZ'), ('about', 'IN'), ('70', 'CD'), ('percent', 'NN'), (',', ','), ('much', 'RB'), ('higher', 'JJR'), ('than', 'IN'), ('the', 'DT'), ('rate', 'NN'), ('for', 'IN'), ('those', 'DT'), ('without', 'IN'), ('children', 'NNS'), (',', ','), ('but', 'CC'), ('far', 'RB'), ('below', 'IN'), ('the', 'DT'), ('rate', 'NN'), ('for', 'IN'), ('college-educated', 'JJ'), ('mothers', 'NNS'), ('.', '.')]
+
+In a 2010 Pew survey, 45 percent of respondents with at most a high school diploma agreed that “marriage is becoming obsolete,” versus just 27 percent of college graduates
+[('In', 'IN'), ('a', 'DT'), ('2010', 'CD'), ('Pew', 'NNP'), ('survey', 'NN'), (',', ','), ('45', 'CD'), ('percent', 'NN'), ('of', 'IN'), ('respondents', 'NNS'), ('with', 'IN'), ('at', 'IN'), ('most', 'JJS'), ('a', 'DT'), ('high', 'JJ'), ('school', 'NN'), ('diploma', 'NNS'), ('agreed', 'VBD'), ('that', 'IN'), ('“', 'JJ'), ('marriage', 'NN'), ('is', 'VBZ'), ('becoming', 'VBG'), ('obsolete', 'JJ'), (',', ','), ('”', 'JJ'), ('versus', 'NN'), ('just', 'RB'), ('27', 'CD'), ('percent', 'NN'), ('of', 'IN'), ('college', 'NN'), ('graduates', 'NNS')]
+
+In the Pew survey, 78 percent of never-married women said it was “very important” for a prospective spouse (in most cases, a husband) to have a steady job. That ranked above any other requirement, including “same moral and religious beliefs” (38 percent), “at least as much education” (28 percent) and even “similar ideas about having and raising children” (70 percent).\xa0
+[('In', 'IN'), ('the', 'DT'), ('Pew', 'NNP'), ('survey', 'NN'), (',', ','), ('78', 'CD'), ('percent', 'NN'), ('of', 'IN'), ('never-married', 'JJ'), ('women', 'NNS'), ('said', 'VBD'), ('it', 'PRP'), ('was', 'VBD'), ('“', 'JJ'), ('very', 'RB'), ('important', 'JJ'), ('”', 'NN'), ('for', 'IN'), ('a', 'DT'), ('prospective', 'JJ'), ('spouse', 'NN'), ('(', '('), ('in', 'IN'), ('most', 'JJS'), ('cases', 'NNS'), (',', ','), ('a', 'DT'), ('husband', 'NN'), (')', ')'), ('to', 'TO'), ('have', 'VB'), ('a', 'DT'), ('steady', 'JJ'), ('job', 'NN'), ('.', '.'), ('That', 'DT'), ('ranked', 'VBD'), ('above', 'IN'), ('any', 'DT'), ('other', 'JJ'), ('requirement', 'NN'), (',', ','), ('including', 'VBG'), ('“', 'JJ'), ('same', 'JJ'), ('moral', 'JJ'), ('and', 'CC'), ('religious', 'JJ'), ('beliefs', 'NNS'), ('”', 'NNP'), ('(', '('), ('38', 'CD'), ('percent', 'NN'), (')', ')'), (',', ','), ('“', 'VBP'), ('at', 'IN'), ('least', 'JJS'), ('as', 'RB'), ('much', 'JJ'), ('education', 'NN'), ('”', 'NNP'), ('(', '('), ('28', 'CD'), ('percent', 'NN'), (')', ')'), ('and', 'CC'), ('even', 'RB'), ('“', 'VB'), ('similar', 'JJ'), ('ideas', 'NNS'), ('about', 'IN'), ('having', 'VBG'), ('and', 'CC'), ('raising', 'VBG'), ('children', 'NNS'), ('”', 'NNP'), ('(', '('), ('70', 'CD'), ('percent', 'NN'), (')', ')'), ('.\\xa0', 'NN')]
+

@@ -1,0 +1,60 @@
+Article: candy-power-ranking
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1851
+Raw number of types: 776
+Raw Type token ratio (higher = more diversity in language use): 0.41923284710967046
+
+100 most freq tokens before (pre)processing: 
+[('the', 9096), (',', 8736), ('.', 6208), ('of', 4500), ('a', 4007), ('to', 3624), ('in', 3459), ('and', 3351), ('’', 3244), ('that', 2032), ('s', 1849), ('for', 1565), ('is', 1503), ('it', 1305), ('on', 1290), (':', 1180), ('are', 1064), ('“', 1002), ('”', 1001), ('—', 988), ('as', 964), ('with', 951), ('at', 947), ('but', 884), ('we', 877), ('(', 875), (')', 873), ('by', 868), ('percent', 818), ('more', 805), ('i', 772), ('this', 762), ('or', 745), ('have', 710), ('was', 693), ('from', 683), ('our', 678), ('they', 672), ('you', 669), ('t', 664), ('trump', 663), ('1', 645), ('about', 628), ('than', 611), ('be', 603), ('one', 574), ('has', 569), ('who', 568), ('data', 544), ('team-logo', 535), ('an', 531), ('were', 519), ('not', 498), ('he', 491), ('?', 482), ('all', 464), ('<', 448), ('their', 447), ('there', 445), ('>', 442), ('so', 440), ('his', 437), ('how', 410), ('if', 401), ('like', 394), ('polls', 385), ('other', 382), ('which', 381), ('verdict', 377), ('can', 375), ('said', 372), ('what', 368), ('2', 368), ('some', 362), ('when', 355), ('had', 347), ('out', 342), ('people', 336), ('most', 331), ('also', 324), ('those', 314), ('up', 293), ('get', 284), ('only', 283), ('just', 281), ('each', 273), ('0', 272), ('two', 264), ('been', 252), ('world', 248), ('time', 246), ('do', 244), ('these', 243), ('3', 242), ('its', 241), ('github', 236), (';', 236), ('will', 236), ('new', 231), ('year', 231)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1437
+Number of types: 729
+Type token ratio: 0.5073068893528184
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', 'ultimate, popular, social, simple, provide, latenight, good, halloween, funsized, different, scientific, good, candy, funsized, reese, reese, twix, reese, milky, reese, starburst, grand, milky, original, milky, sour, special, dark, junior, wild, swedish, big, sour, sour, sour, original, lemonhead, nestle, red, lemonhead, happy, bubble, niklnip, good, reese, huge, top, synonymous, platonic, halloween, top, halloween, desirable, sugar, content, pulled, fatsecret, hardtofind, nearby, bulk, spooooky, truly, hellish, evident, perceived, stayathome, mild, descriptive, crisped, other, biscuitesque, hard, nougat, damn, full, powerful, statistical, available, general, great, isn, awful, halloween, ingredient, sure, desirable, full, nougat, hard, adjacent, hypothetical, win, win, caramel, hard, little, major, chocolate, percent, obvious, perfect, ridiculous, scientific, likely, other, exact, ethical, win, average, same, nuttiness, average, crispy, average, net, sure, major, qualitative, overall, want, fine, due, near, mutual, tootsie, sole, milky, reese, eastern, european, twix, modern, contemporary, prediabetic, next, big, halloween, mr, available, interested')
+
+('NN', 'halloween, candy, power, house, neighborhood, walt, hickey, halloween, data, github, github, video, christine, laskowski, tony, chow, contract, halloween, adequate, offer, type, vengeance, supermarket, weekend, candy, experiment, pit, candy, wisdom, crowd, decide, one, ip, survey, anything, sample, bar, candy, type, rest, field, rk, candy, percentage, peanut, butter, cup, kit, way, butterfinger, peanut, crunch, rolo, way, krackel, way, patch, hershey, haribo, baby, hershey, milk, chocolate, hershey, milk, fish, mr, goodbar, life, ring, patch, air, haribo, almond, joy, tootsie, roll, snack, gobstopper, mike, payday, quarter, tootsie, roll, welch, fruit, fruit, tootsie, roll, haribo, twin, werther, caramel, laffy, pop, dum, fun, dip, charleston, candy, corn, pixy, fruit, pop, strawberry, bon, tootsie, caramel, apple, haribo, cola, sugar, dime, cent, coin, sugar, root, beer, jaw, super, boston, plenty, bar, peanut, butter, ideal, candy, brand, bestselling, candy, market, research, candy, price, nah, portion, sugar, content, series, myfitnesspal, drugstore, candy, warehouse, regression, link, price, sugar, quality, price, sugar, something, fervency, dad, child, peanut, allergy, internet, ingredient, rice, component, kit, kat, milk, ball, fruit, candy, lollipop, strawberry, bon, bon, clue, thing, typology, hand, access, software, market, lot, information, regression, variance, quality, candy, candy, none, baseline, matchup, percent, time, dime, quarter, dime, chocolaty, fruity, caramel, cetera, beat, percent, quarter, percent, candy, type, avg, share, value, chocolate, fruit, crispy, caramel, multipiece, candy, bar, candy, table, paragraph, coef, column, candy, chocolate, percentage, fruity, percentage, rice, don, ton, table, candy, lollipop, jawbreaker, win, percentage, bar, form, bunch, difference, note, candy, bar, peanut, caramel, nougat, candy, ballpark, percent, win, rate, fact, win, rate, bar, question, frankencandy, information, hand, oversimplification, process, abomination, hand, dilemma, dr, frankenstein, season, bar, chocolate, percentage, chocolate, contender, chocolate, bar, bar, crispiness, contender, rice, bar, nougat, caramel, bar, form, win, rate, bar, bar, fruitiness, fruity, taste, percentage, exclusivity, fruity, chocolate, exception, end, frankencandy, chocolate, hershey, nougat, baby, caramel, way, peanut, butter, cup, wafer, twix, castle, looming, village, home, bar, payday, roll, rice, prometheus, frankenstein, idea, candy, wonka, abomination, business')
+
+('VBG', 'ranking, datacandypowerranking, ring, taking, appearing, dieting, according, rising, bring, being, containing, being, trying, trying, entering')
+
+('NNS', 'treats, data, treats, masses, tricks, decisions, people, dozens, varietals, addresses, matchups, people, matchups, miniatures, snickers, pieces, pieces, peanut, musketeers, skittles, kids, snickers, mints, goldbears, kisses, nerds, skittles, duds, savers, gummies, tricksters, heads, goldbears, whoppers, tootsie, mounds, trolli, bites, cents, smarties, twizzlers, chews, juniors, runts, dots, rocks, dums, warheads, smarties, vines, chewy, sixlets, bons, babies, barrels, busters, chiclets, beans, cups, spinoffs, spots, times, candies, others, websites, cases, candies, prices, candies, data, candies, data, peanuts, nougat, questions, properties, components, data, giggles, peanuts, wafers, competitors, peanuts, points, nuts, wafers, nougat, points, candies, things, snickers, contenders, points, points, contenders, entrants, peanuts, almonds, percentages, points, ones, wafers, points, positives, components, candies, pieces, things, points, flavors, pops, snickers, crispies')
+
+('VB', 'make, scherer, costumed, be, help, avoid, help, make, figure, let, know, know, win, ike, be, contain, take, be, work, be, win, see, add, win, rise, rise, rise, be, have, build, result, stop, tis, have, have, puffed, throw, be, bar, make, smush, call, say, consult')
+
+('VBN', 'filed, published, prepared, dissatisfied, generated, given, stuffed, snacksized, funsized, rsquared, set, malted, answered, explained, expected, crisped, based, win, win')
+
+('VBP', 'get, prefer, don, do, win, crisper, berry, pop, coin, come, make, chocolate, know, have, et, win, expect, expect, expect, expect, have, ve, are, get, ll, bar, ruth, re, take, think, have, am, re')
+
+('VBZ', 'is, bars, midgees, snacks, snakes, pops, almonds, is, is, says, isn, is, has, bears, is, simplifies, knocks, makes, is, does, brings, is, goes, is, has, is')
+
+('VBD', 'wanted, devised, was, voted, voted, said, did, kat, caramel, midnight, ruth, taffy, chew, stix, mix, daddy, baked, was, showed, was, made, was, was, went, pulled, learned, scoured, were, did, was, flavored, was, made, was, were, observed, put, were, beat, had, had, did, got, was, did, had, were, had, had, had, did, assembled')
+
+('JJR', 'better, worse, higher, higher, higher, higher, higher, lower')
+
+('JJS', 'best')
+
+100 most freq tokens after processing: 
+[('the', 9096), ('of', 4500), ('to', 3624), ('in', 3461), ('and', 3351), ('that', 2037), ('for', 1566), ('is', 1505), ('it', 1311), ('on', 1290), ('are', 1066), ('as', 964), ('with', 951), ('at', 948), ('but', 884), ('we', 877), ('by', 868), ('percent', 828), ('more', 805), ('this', 762), ('or', 745), ('have', 710), ('was', 693), ('from', 683), ('our', 678), ('they', 672), ('you', 670), ('trump', 664), ('about', 628), ('than', 611), ('be', 605), ('one', 577), ('has', 569), ('who', 568), ('data', 544), ('teamlogo', 535), ('an', 531), ('were', 519), ('not', 499), ('he', 491), ('all', 465), ('their', 447), ('there', 445), ('so', 441), ('his', 437), ('how', 410), ('if', 401), ('like', 394), ('polls', 385), ('other', 383), ('which', 381), ('verdict', 377), ('can', 375), ('said', 372), ('what', 368), ('some', 362), ('when', 355), ('had', 347), ('out', 346), ('people', 336), ('most', 332), ('also', 324), ('those', 314), ('10', 306), ('up', 294), ('get', 284), ('only', 283), ('just', 281), ('each', 274), ('two', 264), ('bar', 258), ('11', 256), ('been', 253), ('time', 250), ('world', 248), ('do', 245), ('these', 243), ('its', 241), ('github', 236), ('will', 236), ('year', 232), ('new', 231), ('13', 230), ('would', 228), ('them', 226), ('no', 226), ('much', 223), ('us', 222), ('team', 222), ('number', 214), ('points', 211), ('over', 210), ('12', 208), ('average', 206), ('even', 206), ('positive', 205), ('because', 204), ('my', 203), ('many', 201), ('14', 200)]

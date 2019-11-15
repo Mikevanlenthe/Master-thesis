@@ -1,0 +1,168 @@
+Sentence nr: 0
+The Worst Tweeter In Politics Isn’t Trump By Oliver Roeder, Dhrumil Mehta and Gus Wezerek Filed under The Trump Administration Get the data on GitHub GitHub data at data/twitter-ratio Published Oct. 24, 2017 FacebookTwitterEmail Three things can happen to a tweet once you send it into the world: It can get retweeted, it can get liked, and it can get replied to.
+
+Sentence nr: 1
+Any of these can be nice, like a little food pellet from the digital universe, proof that someone out there is paying attention.
+
+Sentence nr: 2
+But sometimes instead of giving you food pellets, the universe is flinging pebbles at you.
+
+Sentence nr: 3
+If the replies stack up, outpacing the retweets and the likes, you may have a problem.
+
+Sentence nr: 4
+Your tweet may be a bad tweet.
+
+Sentence nr: 5
+“The lengthier the conversation” sparked by a post, “the surer it is that someone royally messed up,” Luke O’Neil wrote recently in Esquire.
+
+Sentence nr: 6
+“It’s a phenomenon known as The Ratio.” David Roth, writing for Deadspin, compared a bad ratio to a bad baseball stat line.
+
+Sentence nr: 7
+A tweet with 198 replies, 34 retweets and 83 likes, for example, is the Adam Dunn of tweets: .198 batting average, 34 home runs and 83 RBIs.
+
+Sentence nr: 8
+The Huffington Post’s Ashley Feinberg put it more bluntly: “I would say any time you have more replies than favs, you fucked up in some capacity.” Twitter has become the de facto public podium for President Trump.1 So what blend of retweets, likes and replies characterizes the response to tweets from the most powerful public figure in the United States?
+
+Sentence nr: 9
+And how does it compare to the way people react to the tweets of his powerful governing colleagues — friendly and rival both — in the U.S. Senate?2 We can illustrate the blend of the three actions for a given tweet using a ternary plot.
+
+Sentence nr: 10
+These plots are used to measure, for example, the mixture of clay, sand and silt in soil, or the proportions of of gold, silver and copper alloy in jewelry.
+
+Sentence nr: 11
+Here we’ll use them to measure the social media presences of some of the most powerful people in the United States.
+
+Sentence nr: 12
+Tweets toward the top have a higher share of retweets, those toward the bottom right have a higher share of likes, and those toward the bottom left are in the Ratio danger zone — a higher share of replies.
+
+Sentence nr: 13
+Trump’s 3,232 tweets since last summer map out a shape like the silhouette of a B-2 bomber, sitting in the lower right corner and zooming straight toward “likes.” A like, also called a “favorite,” is often the most common response to a tweet.
+
+Sentence nr: 14
+It’s easy to do, it’s not as public or expressive as a retweet, and it requires less thought than a reply.
+
+Sentence nr: 15
+Trump’s tweets spark firestorms, to be sure, but — at least according to the Feinberg metric — few are Ratio flops.
+
+Sentence nr: 16
+In fact, only one of the Trump tweets in our data set has more replies than it does likes.
+
+Sentence nr: 17
+(Another is very close.)
+
+Sentence nr: 18
+Trump’s account is a magnet for likes: He averages over 60,000 of them per tweet, plus about 16,000 retweets and 14,000 replies.
+
+Sentence nr: 19
+But there are exceptions.
+
+Sentence nr: 20
+The Trump tweet that got the highest share of replies was the second of a pair of tweets taking a shot at MSNBC’s “poorly rated” show “Morning Joe” and its co-host Mika Brzezinski.
+
+Sentence nr: 21
+(The other outlier in the reply direction came after a plan to repeal Obamacare failed in the Senate.
+
+Sentence nr: 22
+And a tweet posted Monday morning — in which Trump addresses a conversation he had with Myeshia Johnson, the widow of Army Sargeant La David Johnson, who was killed in Niger earlier this month — also generated an unusually high proportion of replies.)
+
+Sentence nr: 23
+…to Mar-a-Lago 3 nights in a row around New Year's Eve, and insisted on joining me.
+
+Sentence nr: 24
+She was bleeding badly from a face-lift.
+
+Sentence nr: 25
+I said no!
+
+Sentence nr: 26
+— Donald J. Trump (@realDonaldTrump) June 29, 2017 The Trump tweet with the highest share of retweets — the “good” ratio — concerned foreign policy.
+
+Sentence nr: 27
+It has about 87,000 retweets with only 14,000 replies, as of this writing.
+
+Sentence nr: 28
+During my recent trip to the Middle East I stated that there can no longer be funding of Radical Ideology.
+
+Sentence nr: 29
+Leaders pointed to Qatar – look!
+
+Sentence nr: 30
+— Donald J. Trump (@realDonaldTrump) June 6, 2017 And the tweet that got the highest share of likes was about the goodwill of a former Republican presidential candidate.
+
+Sentence nr: 31
+(Six-figure likes and only 6,000 replies.)
+
+Sentence nr: 32
+Mitt Romney called to congratulate me on the win.
+
+Sentence nr: 33
+Very nice!
+
+Sentence nr: 34
+— Donald J. Trump (@realDonaldTrump) November 13, 2016 Of these 3,232 Trump tweets, 916, or about 28 percent, have more replies than retweets.
+
+Sentence nr: 35
+But Trump isn’t the first president to tweet.
+
+Sentence nr: 36
+@BarackObama has 96 million followers and has tweeted over 15,000 times.3 Here’s what it looks like when we compare the ratios of our current and former First Tweeters: Obama’s Twitter oeuvre is shifted up and stretched out — generally in the direction of the retweet quadrant.
+
+Sentence nr: 37
+According to one meta-analysis of 100 academic research papers about Twitter, retweeting tends to indicate “a level of endorsement of the message and/or the originator.” Obama’s average stat line: 4,500 retweets, about 14,000 likes and 522 replies.
+
+Sentence nr: 38
+So while Trump has few tweets that run afoul of The Ratio and his tweets get far more engagement, on average, than Obama’s do, the balance of Trump’s stat line is worse.
+
+Sentence nr: 39
+Obama gets about eight retweets and 26 likes for every reply; Trump gets about one retweet and five likes for every reply.
+
+Sentence nr: 40
+Trump is currently the most visible user of the microblogging service, the nation’s tweeter-in-chief, but every senator tweets, too.
+
+Sentence nr: 41
+We mapped each senator’s tweets on the same type of chart as above.4 The tweets appear to form a shapeless mass in the “likes” corner, with two tentacles reaching out toward retweets and replies.
+
+Sentence nr: 42
+Certain individual senators echo this broad pattern, while others buck the trend.
+
+Sentence nr: 43
+Ted Cruz, Republican of Texas, and Kamala Harris, Democrat of California, for example, have distributions that resemble the average: heavy with likes, with a few tweets reaching toward replies.
+
+Sentence nr: 44
+Some, such as Massachusetts Democrat Elizabeth Warren, appear heavier in the retweet sector.
+
+Sentence nr: 45
+But others demonstrate worse ratios.
+
+Sentence nr: 46
+The tweet distribution of South Carolina Republican Lindsey Graham, for example, is nearly inverted — the blob is focused on the reply/retweet axis.
+
+Sentence nr: 47
+And fellow Republican Bill Cassidy of Louisiana has a distribution that’s nearly uniform across the triangle, not necessarily favoring any specific action.
+
+Sentence nr: 48
+Here’s what the response ratio looks like on the average tweet for all 100 senators: The three senators furthest out toward replies corner are Pat Toomey, Republican of Pennsylvania; Mitch McConnell, Republican of Kentucky; and Cory Gardner, Republican of Colorado.
+
+Sentence nr: 49
+Toomey and McConnell are tied for first in the race to take home the dubious prize of Most Replied To: 44 percent of the actions taken in response to their tweets are replies.5 (By way of comparison, about 12 percent of the reactions to Trump’s tweets are replies.)
+
+Sentence nr: 50
+The two big retweet winners are Utah Republican Mike Lee and Oklahoma Republican James Inhofe.
+
+Sentence nr: 51
+And while these outliers are all members of the GOP, they are still part of a larger trend: Twitter’s gravity generally appears to pull the Republicans toward the replies corner, while the Democrats are more firmly clustered along the retweet-like axis.
+
+Sentence nr: 52
+Not everyone on Twitter buys the concept of The Ratio as a gauge for very bad tweets.
+
+Sentence nr: 53
+Ratio is a lefty Twitter concept that I don't buy into.
+
+Sentence nr: 54
+But feel free to do so!
+
+Sentence nr: 55
+— Chris Cillizza (@CillizzaCNN) September 22, 2017 But, as another Twitter user pointed out, “denying the ratio just makes the ratio angry.” The takeaway of all of this, of course: Never tweet.
+

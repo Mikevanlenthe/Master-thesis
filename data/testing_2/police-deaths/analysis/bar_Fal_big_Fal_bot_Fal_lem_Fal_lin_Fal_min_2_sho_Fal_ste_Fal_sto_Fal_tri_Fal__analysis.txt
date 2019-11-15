@@ -1,0 +1,60 @@
+Article: police-deaths
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 587
+Raw number of types: 253
+Raw Type token ratio (higher = more diversity in language use): 0.43100511073253833
+
+100 most freq tokens before (pre)processing: 
+[('the', 4701), (',', 4657), ('.', 3084), ('of', 2313), ('a', 1973), ('to', 1932), ('in', 1833), ('and', 1694), ('’', 1535), ('that', 1103), ('s', 838), ('for', 825), (':', 792), ('is', 780), ('it', 675), ('on', 673), ('are', 565), ('our', 546), ('“', 544), ('”', 543), ('team-logo', 535), ('with', 519), ('by', 490), ('at', 488), ('as', 483), ('more', 474), ('we', 468), ('—', 438), ('(', 438), (')', 438), ('but', 414), ('this', 395), ('i', 391), ('you', 378), ('verdict', 377), ('they', 373), ('1', 354), ('have', 351), ('t', 349), ('or', 347), ('trump', 344), ('from', 342), ('polls', 342), ('than', 340), ('percent', 339), ('was', 335), ('about', 330), ('be', 316), ('one', 314), ('who', 296), ('an', 271), ('has', 264), ('data', 260), ('like', 258), ('were', 247), ('he', 242), ('all', 239), ('not', 232), ('if', 231), ('their', 227), ('said', 227), ('how', 217), ('there', 213), ('most', 210), ('other', 209), ('can', 202), ('?', 200), ('so', 195), ('some', 193), ('positive', 193), ('his', 192), ('when', 189), ('pollsters', 184), ('polling', 183), ('what', 182), ('which', 180), ('those', 176), ('people', 175), ('up', 168), ('2', 168), ('out', 167), ('also', 163), ('<', 163), ('>', 162), ('get', 161), ('each', 158), ('donald', 157), ('%', 157), ('points', 156), ('poll', 154), ('had', 153), ('just', 147), ('two', 142), ('only', 141), ('league', 138), ('election', 137), ('do', 136), ('number', 136), ('will', 135), ('/', 132)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 512
+Number of types: 238
+Type token ratio: 0.46484375
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('JJ', '\ufeffthe, andrew, aptopix, thursday, last, police, grim, statistic, steady, common, gun, thursday, recent, other, vicious, despicable, recent, overall, singular, fulltime, sworn, local, same, accidental, deliberate, onduty, police, memorial, police, federal, new, friday, national, available, overall, dangerous, fulltime, other, single, national, memorial, such, single, political, last, attempted')
+
+('NNS', 'dallas, flowers, grieves, colleagues, years, officers, numbers, police, officers, killings, officers, states, years, counts, dallas, deaths, officers, officers, officers, statistics, officers, deaths, collisions, data, deaths, data, officers, dallas, shootings, data, officers, officers, years, cops, ones, officers, workers, statistics, times, workers, dozens, professions, pilots, drivers, police, officers, dallas, officers, attacks, officers, officers, dallas, territories, police, officers, officers, thieves, officers')
+
+('VBG', 'shooting, protesting, shooting, according, growing, happening, according, including, policing, according, shooting')
+
+('VBD', 'was, were, declined, held, was, grew, were, was, called, calculated, had, started, were, hadn, was, died, died, died, were, was, was, suspected')
+
+('JJS', 'deadliest, shootingsprotest, most, deadliest, largest, deadliest, largest')
+
+('NN', 'police, history, carl, bialik, ritchie, king, law, enforcement, police, dallas, police, officer, night, lm, otero, ap, number, job, cause, death, night, demonstration, dallas, police, president, attack, law, enforcement, bialikflowerskingpolicedeaths1, officer, policing, death, horrific, massacre, decline, number, police, line, duty, number, number, police, percent, bureau, justice, period, number, percent, share, officer, car, officer, officer, page, college, student, officer, database, bureau, investigation, way, york, state, afternoon, number, police, rate, police, population, today, patrol, job, country, police, sheriff, patrol, death, rate, bureau, labor, rate, rate, truck, number, incident, history, incident, police, sept, terrorist, law, enforcement, fund, number, incident, puerto, rico, revolt, shooting, police, dallas, arrest, missouri, farm, car, shot')
+
+('VBN', 'filed, shot, killed, shot, killed, become, occurred, risen, increased, killed, declined, killed, been, updated, declined, killed, killed, killed, killed')
+
+('VBP', 'die, suggest, are, isn, bialikflowerskingpolicedeaths2, have, are, are')
+
+('VBZ', 'makes, has, has, comes, is, continues, extends, has, loggers')
+
+('JJR', 'more, deadlier')
+
+('VB', 'maintain')
+
+100 most freq tokens after processing: 
+[('the', 4701), ('of', 2313), ('to', 1932), ('in', 1833), ('and', 1694), ('that', 1107), ('for', 826), ('is', 780), ('it', 677), ('on', 673), ('are', 566), ('our', 546), ('teamlogo', 535), ('with', 519), ('by', 490), ('at', 488), ('as', 483), ('more', 474), ('we', 468), ('but', 414), ('this', 395), ('you', 378), ('verdict', 377), ('they', 373), ('have', 351), ('or', 347), ('trump', 345), ('percent', 343), ('from', 342), ('polls', 342), ('than', 340), ('was', 335), ('about', 330), ('one', 317), ('be', 317), ('who', 296), ('an', 271), ('has', 264), ('data', 260), ('like', 258), ('were', 247), ('he', 242), ('all', 239), ('not', 232), ('if', 231), ('their', 227), ('said', 227), ('how', 217), ('there', 213), ('most', 210), ('other', 210), ('can', 202), ('10', 200), ('so', 196), ('positive', 194), ('some', 193), ('his', 192), ('11', 189), ('when', 189), ('polling', 184), ('pollsters', 184), ('what', 182), ('which', 180), ('those', 176), ('people', 175), ('out', 168), ('up', 168), ('also', 163), ('get', 161), ('each', 158), ('donald', 158), ('points', 156), ('13', 154), ('poll', 154), ('had', 153), ('14', 149), ('just', 147), ('two', 142), ('only', 141), ('12', 141), ('league', 138), ('election', 137), ('do', 136), ('number', 136), ('will', 135), ('neutral', 132), ('15', 127), ('its', 126), ('average', 126), ('time', 126), ('would', 124), ('new', 121), ('my', 121), ('these', 118), ('them', 118), ('github', 117), ('year', 115), ('much', 113), ('been', 110), ('no', 108)]

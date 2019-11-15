@@ -1,0 +1,60 @@
+Article: star-wars-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 688
+Raw number of types: 265
+Raw Type token ratio (higher = more diversity in language use): 0.3851744186046512
+
+100 most freq tokens before (pre)processing: 
+[('the', 2395), (',', 2351), ('.', 1426), ('of', 1117), ('a', 996), ('in', 934), ('to', 885), ('and', 804), ('’', 689), (':', 577), ('that', 535), ('our', 439), ('s', 408), ('on', 385), ('verdict', 377), ('is', 372), ('for', 365), ('it', 359), ('1', 281), ('with', 280), ('at', 258), ('trump', 247), ('i', 243), ('“', 242), ('”', 241), ('—', 232), ('more', 229), ('by', 228), ('(', 224), (')', 224), ('percent', 215), ('are', 214), ('this', 212), ('as', 210), ('but', 206), ('we', 197), ('positive', 187), ('than', 183), ('from', 181), ('was', 174), ('like', 169), ('have', 167), ('about', 157), ('you', 153), ('data', 152), ('an', 150), ('or', 149), ('t', 145), ('he', 144), ('donald', 143), ('one', 136), ('neutral', 132), ('they', 130), ('his', 130), ('has', 128), ('be', 127), ('who', 113), ('their', 109), ('were', 107), ('/', 106), ('other', 105), ('not', 104), ('so', 102), ('out', 100), ('all', 99), ('when', 99), ('?', 98), ('people', 98), ('which', 95), ('what', 94), ('<', 92), ('my', 91), ('up', 91), ('>', 88), ('there', 87), ('how', 87), ('some', 87), ('2', 86), ('if', 85), ('most', 84), ('can', 83), ('negative', 82), ('trump�', 82), ('me', 81), ('get', 80), ('state', 80), ('just', 78), ('model', 78), (';', 77), ('films', 77), ('those', 76), ('only', 75), ("'m", 72), ('3', 72), ('said', 70), ('new', 68), ('do', 68), ('polls', 68), ('10', 67), ('�i', 67)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 545
+Number of types: 245
+Type token ratio: 0.44954128440366975
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, pm, america, star, walt, hickey, data, github, github, datastarwarssurvey, yoda, costume, star, series, exhibition, cite, du, cinema, saintdenis, france, chesnot, week, peek, fighter, star, production, middling, response, trilogy, excuse, rest, america, empire, bunch, solo, greedo, poll, audience, june, data, percent, star, question, difference, gender, percent, star, film, percent, film, fan, franchise, percent, percent, probability, someone, star, film, star, film, star, empire, film, number, star, return, jedi, star, phantom, menace, star, star, hope, movie, subset, star, film, question, share, film, rate, empire, rate, hope, return, jedi, menace, film, rate, chart, film, take, series, boilerplate, format, favorability, state, himher, rate, series, jar, favorability, rating, personification, evil, galaxy, impact, revisionism, society')
+
+('JJ', 'favorite, favorite, getty, sneak, new, forthcoming, recent, perfect, wanted, many, star, wellliked, hated, han, surveymonkey, available, github, seventynine, substantial, likely, vi, original, iv, new, favorite, overall, original, favorite, likely, new, phantom, likely, top, third, second, middle, third, third, fourth, bottom, third, second, nuanced, political, following, unfamiliar, actual, historical')
+
+('NNS', 'wars, movies, characters, movies, data, wars, images, wars, movies, questions, answers, people, wars, fans, characters, respondents, respondents, wars, men, wars, women, people, men, men, women, respondents, films, people, wars, wars, wars, people, wars, people, wars, wars, wars, respondents, wars, respondents, people, films, fans, camps, movies, prequels, people, prequels, polls, characters, respondents, characters, binks')
+
+('JJS', 'least, best, most, least, least, best, best, best, best, worst')
+
+('VBN', 'filed, displayed, watched, seen, compared, seen, compared, seen, seen, given, given, seen, seen, followed, seen, rated, used')
+
+('VBP', 'get, films, provide, ve, are, realize, are, shot, films, have, have, have, episode, episode, episode, episode, have, please, view, are, read, want')
+
+('VBZ', 'is, does, strikes, is, is, has, strikes, is, is, strikes, shows, jar, has')
+
+('VBD', 'caught, ran, said, had, had, were, asked, had, reported, renamed, asked, indicated, calculated, rated, broke, preferred, preferred, said, was, were, rated, were, was, took, asked')
+
+('VBG', 'xwing, surveying, responding, seeing')
+
+('VB', 'examine, consider, see, rank, worst, drill, find, worst, know, have')
+
+('JJR', 'higher, lower')
+
+100 most freq tokens after processing: 
+[('the', 2395), ('of', 1117), ('in', 934), ('to', 885), ('and', 804), ('that', 537), ('our', 439), ('on', 385), ('verdict', 377), ('is', 372), ('for', 366), ('it', 360), ('with', 280), ('at', 258), ('trump', 247), ('more', 229), ('by', 228), ('percent', 219), ('are', 214), ('this', 212), ('as', 210), ('but', 206), ('we', 197), ('positive', 188), ('than', 183), ('from', 181), ('was', 174), ('like', 169), ('have', 167), ('about', 157), ('you', 153), ('data', 152), ('an', 150), ('or', 149), ('donald', 144), ('he', 144), ('one', 139), ('neutral', 132), ('they', 130), ('his', 130), ('has', 128), ('be', 128), ('who', 113), ('their', 109), ('were', 107), ('other', 105), ('not', 104), ('so', 103), ('out', 101), ('all', 99), ('when', 99), ('people', 98), ('which', 95), ('what', 94), ('my', 91), ('up', 91), ('there', 87), ('how', 87), ('some', 87), ('if', 85), ('most', 84), ('can', 83), ('negative', 82), ('me', 82), ('trump�', 82), ('get', 80), ('state', 80), ('just', 78), ('10', 78), ('model', 78), ('films', 77), ('those', 76), ('only', 75), ('said', 70), ('new', 68), ('do', 68), ('polls', 68), ('�i', 67), ('its', 66), ('also', 66), ('had', 62), ('rock', 62), ('github', 61), ('where', 61), ('each', 60), ('hillary', 59), ('would', 57), ('year', 57), ('bar', 57), ('time', 57), ('film', 57), ('2014', 56), ('them', 56), ('2015', 56), ('women', 55), ('points', 53), ('police', 52), ('number', 52), ('been', 51), ('no', 51)]

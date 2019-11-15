@@ -1,0 +1,60 @@
+Article: thanksgiving-2015
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 702
+Raw number of types: 330
+Raw Type token ratio (higher = more diversity in language use): 0.4700854700854701
+
+100 most freq tokens before (pre)processing: 
+[('the', 6555), (',', 6405), ('.', 4389), ('of', 3332), ('a', 2770), ('to', 2697), ('in', 2477), ('and', 2450), ('’', 2195), ('that', 1543), ('s', 1225), ('for', 1139), ('is', 1092), (':', 975), ('on', 962), ('it', 918), ('are', 811), ('“', 755), ('”', 754), ('with', 719), ('at', 705), ('—', 681), ('as', 681), ('we', 657), ('by', 644), ('(', 643), (')', 643), ('more', 630), ('our', 610), ('but', 599), ('this', 556), ('they', 553), ('i', 551), ('trump', 545), ('team-logo', 535), ('or', 530), ('percent', 528), ('you', 511), ('from', 506), ('have', 494), ('t', 478), ('about', 464), ('who', 463), ('than', 456), ('was', 456), ('be', 439), ('one', 429), ('data', 413), ('were', 408), ('an', 388), ('has', 384), ('verdict', 377), ('1', 376), ('?', 362), ('not', 348), ('polls', 346), ('all', 331), ('their', 330), ('said', 325), ('how', 318), ('like', 317), ('there', 310), ('he', 304), ('other', 295), ('so', 287), ('can', 284), ('if', 283), ('people', 280), ('what', 274), ('most', 273), ('his', 273), ('<', 264), ('which', 260), ('some', 260), ('>', 258), ('those', 256), ('when', 256), ('out', 245), ('also', 231), ('get', 227), ('had', 227), ('up', 224), ('each', 212), ('only', 201), ('just', 201), ('positive', 201), ('two', 194), ('do', 189), ('new', 184), ('pollsters', 184), ('2', 183), ('polling', 183), ('%', 178), (';', 177), ('github', 175), ('them', 175), ('number', 175), ('points', 175), ('time', 173), ('been', 172)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 582
+Number of types: 313
+Type token ratio: 0.5378006872852233
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, part, america, thanksgiving, walt, hickey, food, data, github, github, datathanksgiving2015, turkey, bird, farm, sonoma, california, year, justin, sullivan, getty, tale, welcoming, day, mass, consumption, parade, day, midst, point, santa, claus, float, end, macy, day, start, week, christmas, music, radio, right, thanksgiving, food, spirit, holiday, nation, bird, audience, poll, pork, roast, beef, thanksgiving, turkey, percent, meat, centerpiece, meal, poultry, side, dish, region, southeast, home, cranberry, sauce, region, percent, variety, side, percent, region, versus, percent, texas, rest, country, percent, dinner, percent, nation, southeast, form, mac, percent, region, dish, thanksgiving, menu, percent, country, england, mind, squash, percent, table, percent, nation, finding, pursuit, endorse, squash, something, dessert, region, pie, america, apple, pie, england, america, pie, potato, south, america, midwest, west, nation, shit, variation, percent, day, way, family, way, party, dinner, school, percent, time, see, bar, card, data, yourself')
+
+('NNS', 'eats, data, images, thanks, refugees, shores, media, nfl, games, others, canadians, plans, turkeys, things, factions, traditions, respondents, shoutouts, dishes, rules, respondents, distinctions, respondents, states, states, respondents, regions, prefers, carbs, respondents, traditions, regions, respondents, sales, friends, respondents, associates')
+
+('VBN', 'filed, chicken, come, cauliflower, compared, compared, assorted, done, kids')
+
+('VBP', 'get, give, don, have, ve, are, bring, let, get, are, have, see, include, are, solid, leave, ve, don, have')
+
+('JJ', 'willie, last, foreign, american, secret, kim, sure, third, cheap, bargainbin, surveymonday, cursory, main, other, other, white, regional, consumed, side, definitive, canned, likely, homemade, middle, atlantic, central, southern, cornbread, necessary, cheese, overall, new, whole, confusing, whole, gronk, pumpkin, new, middle, pecan, sweet, cherry, american, little, black, friday, great, little, early, early, high, thirtyseven, worth, facebook, old')
+
+('VBG', 'thanksgiving, finding, thanksgiving, thanksgiving, saying, going, having, losing, demanding, buying, thanksgiving, checking, doing')
+
+('VB', 'celebrate, identify, parade, peel, carve, check, pick, dessert, shop, leave, ditch, hang, be, see, know, be, ll, download')
+
+('VBZ', 'is, commemorates, is, eats, is, dishes, is, is, is, enjoys, has, atlantic, has, consumes, unites, didn')
+
+('VBD', 'hit, had, got, did, pie, said, said, were')
+
+('JJS', 'least')
+
+('JJR', 'more')
+
+100 most freq tokens after processing: 
+[('the', 6555), ('of', 3332), ('to', 2697), ('in', 2479), ('and', 2450), ('that', 1547), ('for', 1140), ('is', 1094), ('on', 962), ('it', 921), ('are', 813), ('with', 719), ('at', 706), ('as', 681), ('we', 657), ('by', 644), ('more', 630), ('our', 610), ('but', 599), ('this', 556), ('they', 553), ('trump', 546), ('teamlogo', 535), ('percent', 534), ('or', 530), ('you', 512), ('from', 506), ('have', 494), ('about', 464), ('who', 463), ('than', 456), ('was', 456), ('be', 441), ('one', 432), ('data', 413), ('were', 408), ('an', 388), ('has', 384), ('verdict', 377), ('not', 348), ('polls', 346), ('all', 331), ('their', 330), ('said', 325), ('how', 318), ('like', 317), ('there', 310), ('he', 304), ('other', 296), ('so', 288), ('can', 284), ('if', 283), ('people', 280), ('most', 274), ('what', 274), ('his', 273), ('which', 260), ('some', 260), ('those', 256), ('when', 256), ('out', 247), ('10', 232), ('also', 231), ('get', 227), ('had', 227), ('up', 224), ('each', 212), ('positive', 202), ('only', 201), ('11', 201), ('just', 201), ('two', 194), ('do', 189), ('new', 184), ('polling', 184), ('pollsters', 184), ('13', 182), ('time', 176), ('github', 175), ('them', 175), ('number', 175), ('points', 175), ('14', 174), ('been', 173), ('donald', 168), ('its', 167), ('12', 166), ('will', 166), ('many', 163), ('would', 163), ('no', 163), ('these', 162), ('poll', 161), ('election', 158), ('average', 157), ('us', 155), ('15', 155), ('bar', 153), ('much', 152), ('see', 151)]

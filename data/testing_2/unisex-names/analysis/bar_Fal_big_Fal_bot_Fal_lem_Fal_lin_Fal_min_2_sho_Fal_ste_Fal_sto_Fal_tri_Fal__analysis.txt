@@ -1,0 +1,60 @@
+Article: unisex-names
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 632
+Raw number of types: 271
+Raw Type token ratio (higher = more diversity in language use): 0.4287974683544304
+
+100 most freq tokens before (pre)processing: 
+[(',', 1691), ('the', 1448), ('.', 901), ('of', 666), ('a', 649), ('in', 637), ('to', 522), (':', 468), ('and', 464), ('our', 419), ('’', 418), ('verdict', 377), ('that', 335), ('for', 252), ('s', 251), ('is', 245), ('trump', 243), ('on', 242), ('1', 235), ('it', 229), ('i', 206), ('with', 195), ('positive', 186), ('this', 157), ('at', 151), ('(', 150), (')', 150), ('by', 148), ('more', 148), ('like', 144), ('donald', 142), ('but', 133), ('as', 133), ('—', 132), ('neutral', 132), ('percent', 126), ('was', 125), ('we', 124), ('are', 122), ('he', 122), ('“', 119), ('”', 118), ('his', 117), ('from', 113), ('about', 110), ('you', 110), ('/', 99), ('than', 98), ('have', 96), ('has', 95), ('one', 94), ('be', 93), ('or', 92), ('t', 90), ('an', 85), ('my', 82), ('trump�', 82), ('data', 81), ('negative', 81), ('not', 77), ('state', 75), ("'m", 72), ('me', 71), ('model', 69), ('they', 68), ('were', 68), ('so', 67), ('�i', 67), ('polls', 67), ('?', 66), ('up', 63), ('other', 62), ('when', 62), ('how', 59), ('just', 59), (';', 58), ('can', 58), ('all', 58), ('there', 57), ('hillary', 57), ('their', 56), ('some', 55), ('who', 55), ('if', 54), ('out', 54), ('which', 52), ("'s", 52), ('get', 51), ('what', 51), ('people', 51), ('points', 49), ('2', 48), ('2015', 47), ('only', 46), ('�', 46), ("n't", 46), ("'", 46), ('2014', 44), ('most', 44), ('2013', 44)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 515
+Number of types: 256
+Type token ratio: 0.4970873786407767
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, america, andrew, data, github, github, curry, riley, cooper, riley, keough, getty, casey, riley, jessie, jackie, peyton, jody, kerry, pat, take, riley, example, riley, maletofemale, ratio, percent, percent, split, video, riley, daughter, mvp, stephen, curry, state, press, conference, riley, receiver, philadelphia, thing, riley, man, name, woman, percent, name, onethird, name, onethird, name, chart, number, name, work, colleague, mona, chalabi, security, administration, list, ssa, threshold, name, ssa, number, name, silver, story, name, cut, america, table, gap, column, difference, male, number, name, value, maximum, ssa, list, result, number, placeholder, infant, infantof, data, baby, child, code, analysis, data, set, clarification, june, pm, version, table, article, placeholder, infantof, explanation')
+
+('VBP', 'am, get, riley, are, are, are, curry, re, cooper, have, allison, alive, have, are, ve')
+
+('JJ', 'common, unisex, yours, hard, much, unisex, living, riley, recent, adorable, nba, golden, postgame, wide, male, female, hard, unisex, common, unisex, total, social, androgynous, minimum, sure, prevalent, unisex, actuarial, similar, nate, previous, top, searchable, female, minimum, likely, able, unknown, unnamed, notnamed, ambiguous, full, github, searchable, unisex, likely, unknown, unnamed, infant')
+
+('NNS', 'names, flowers, names, data, dataunisexnames, men, women, names, americans, rings, warriors, americans, newborns, names, people, years, data, names, names, people, people, tables, names, data, people, colleagues, mccann, people, people, names, shares, sexes, names, records, names, others, names, names, data')
+
+('VBZ', 'is, is, eagles, is, turns, means, is, lists, has, shows, is, does')
+
+('VBN', 'filed, named, balanced, unisex, given, ranked, done, used, data, given, used, excluded, taken')
+
+('VB', 'be, say, be, say, create, set, make, determine, approximate, method, make, have, edit, identify, explore, have')
+
+('VBD', 'saw, both, were, were, was, was, adjusted, was, had, balanced, were, removed, thought, were, left, excluded, notnamed, added')
+
+('VBG', 'thinking, building, using, living')
+
+('JJS', 'least, least, most, least, least')
+
+('JJR', 'more, lower, more, earlier')
+
+100 most freq tokens after processing: 
+[('the', 1448), ('of', 666), ('in', 637), ('to', 522), ('and', 464), ('our', 419), ('verdict', 377), ('that', 336), ('for', 253), ('is', 245), ('trump', 243), ('on', 242), ('it', 230), ('with', 195), ('positive', 187), ('this', 157), ('at', 151), ('by', 148), ('more', 148), ('like', 144), ('donald', 143), ('but', 133), ('as', 133), ('neutral', 132), ('percent', 129), ('was', 125), ('we', 124), ('are', 122), ('he', 122), ('his', 117), ('from', 113), ('about', 110), ('you', 110), ('than', 98), ('one', 97), ('have', 96), ('has', 95), ('be', 93), ('or', 92), ('an', 85), ('my', 82), ('trump�', 82), ('data', 81), ('negative', 81), ('not', 77), ('state', 75), ('me', 72), ('model', 69), ('they', 68), ('were', 68), ('so', 67), ('�i', 67), ('polls', 67), ('up', 63), ('other', 62), ('when', 62), ('how', 59), ('just', 59), ('can', 58), ('all', 58), ('there', 57), ('hillary', 57), ('their', 56), ('some', 55), ('who', 55), ('if', 54), ('out', 54), ('which', 52), ('get', 51), ('what', 51), ('people', 51), ('2015', 49), ('points', 49), ('2014', 46), ('only', 46), ('nt', 46), ('2012', 46), ('most', 44), ('2013', 44), ('swan', 44), ('also', 43), ('those', 43), ('would', 42), ('do', 42), ('year', 42), ('them', 41), ('clinton', 41), ('got', 41), ('number', 41), ('each', 40), ('average', 40), ('2016', 40), ('had', 40), ('police', 39), ('new', 39), ('where', 37), ('been', 37), ('election', 37), ('much', 37), ('time', 37)]

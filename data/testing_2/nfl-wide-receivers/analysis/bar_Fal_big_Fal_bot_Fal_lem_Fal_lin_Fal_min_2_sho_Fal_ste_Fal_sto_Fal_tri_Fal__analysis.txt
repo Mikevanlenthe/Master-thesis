@@ -1,0 +1,60 @@
+Article: nfl-wide-receivers
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1971
+Raw number of types: 689
+Raw Type token ratio (higher = more diversity in language use): 0.3495687468290208
+
+100 most freq tokens before (pre)processing: 
+[(',', 1318), ('the', 871), ('.', 519), (':', 434), ('a', 421), ('of', 393), ('our', 389), ('in', 385), ('verdict', 377), ('to', 348), ('and', 335), ('’', 267), ('trump', 239), ('1', 224), ('that', 202), ('i', 184), ('positive', 184), ('s', 168), ('on', 166), ('for', 155), ('donald', 142), ('it', 135), ('neutral', 131), ('is', 126), ('with', 126), ('like', 121), ('at', 117), ('(', 107), (')', 107), ('was', 105), ('/', 98), ('he', 97), ('his', 94), ('“', 88), ('”', 87), ('you', 86), ('but', 82), ('trump�', 82), ('more', 80), ('negative', 80), ('from', 77), ('my', 77), ('by', 73), ('about', 73), ("'m", 72), ('percent', 71), ('me', 70), ('t', 69), ('this', 69), ('than', 69), ('—', 67), ('�i', 67), ('data', 63), ('has', 61), ('as', 58), ('hillary', 57), ('were', 56), ('have', 54), ('one', 54), ('an', 52), ("'s", 52), ('they', 51), ('are', 50), ('we', 50), ('be', 50), ('who', 50), ('up', 50), ('?', 48), ('not', 46), ('just', 46), ('�', 46), ('2015', 46), ("n't", 46), ("'", 46), ('or', 45), ('2013', 44), ('people', 44), ('swan', 44), ('so', 43), ('all', 41), ('clinton', 41), ('get', 40), ('got', 40), ('2014', 39), ('police', 39), ('their', 39), ('when', 39), ('out', 38), ('--', 37), ('2012', 37), ('how', 36), ('2016', 36), ('players', 36), ('do', 35), ('other', 35), ('what', 35), ('drivers', 33), ('if', 32), ('new', 32), ('can', 32)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1596
+Number of types: 668
+Type token ratio: 0.41854636591478694
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'aug, football, hall, fame, problem, paine, canton, data, github, github, reed, speech, class, football, hall, ceremony, stadium, saturday, canton, jason, miller, getty, reed, speech, class, football, hall, ceremony, stadium, august, canton, jason, miller, getty, reed, football, hall, fame, saturday, thomas, bruce, smith, canton, contributor, bowl, reed, candidate, game, honor, hall, fault, canton, hasn, judge, sport, player, countless, receiver, performance, nut, career, example, time, time, ensemble, talent, dawn, passing, explosion, influence, evidence, regard, effect, team, efficiency, hall, fame, selection, committee, widereceiver, dilemma, position, committee, carter, hall, number, selection, swann, reed, carter, wr, logjam, tide, time, nfl, passing, game, contact, output, consequence, example, ratio, league, passing, game, season, campaign, equivalent, dozen, time, singleseason, yardage, receiver, talent, isn, era, team, degree, team, ball, relative, league, norm, effect, isn, air, reed, wasn, factor, buffalo, washington, percent, league, course, career, season, matter, someone, calvin, johnson, ball, percent, league, percent, game, norm, adjustment, difference, receiver, issue, receiving, stuart, footballperspectivecom, career, try, piece, receiver, production4, yardagelike, number, schedule, team, passing, player, try, lockstep, frequency, team, league, average, johnson, production, percent, singleseason, record, year, detroit, alltime, record, pass, season, pass, reason, quarterback, andor, chase, increase, team, passing, frequency, increase, receiving, output, percent, increase, increase, passing, volume, player, half, increase, production, difficulty, effect, something, position, game, time, basketball, guy, carmelo, anthony, lot, team, influence, receiver, attention, benefit, team, receiving, football, value, team, success, player, quarterback, receiver, performance, peropportunity, basis, baseball, football, baseball, phenomenon, opportunity, receiver, ingame, influence, defense, phenomenon, act, pass, evidence, player, quality, threat, pertarget, catch, rate, dvoa, picture, player, onfield, value, account, receiver, game, play, matter, quality, receiver, team, year, step, direction, careers6, question, receiver, yardage, offense, question, isn, perfect, team, passingefficiency, season, season, wowy, instance, randy, moss, sway, wowy7, s8, career, receiving, oakland, committee, receiving, reed, wowy, reed, wowy, secondworst, try, play, indictment, reed, player, isn, hall, fame, isn, discussion, resume, hand, standard, postseason, percent, reed, career, yardage, hall, famer, jim, gannon, jeff, hostetler, jeff, george, jay, schroeder, vince, quarterback, challenge, game, history, task, hall, fame, solution, hall, receiver, logjam, isn, player, player, onfield, influence, player, hall, fame')
+
+('VBP', 'am, get, andre, andre, andre, jim, are, offer, haven, take, show, reed, signal, judge, are, leaguewide, point, run, give, have, treat, try, introduce, try, have, are, know, are, run, have, aren, lead, wowy, wowy, forget, receiver, involve')
+
+('VBZ', 'has, gives, gives, is, wasn, has, is, glossy, is, has, does, has, is, becomes, throws, has, sounds, does, generates, is, adjusts, teams, further, makes, uses, appears, goes, commands, seems, is, is, is, is, is, is, is, requires, suspects, ranks, ranks, comes, doesn')
+
+('VBN', 'receiver, filed, inducted, ignored, contaminated, agreed, entangled, reacted, reed, tapped, taken, become, reed, devalued, compared, been, considered, chucked, perceived, tried, called, skilled, given, generated, given, targeted, intended, rooted, identified, rooted, talented, targeted, involved, given, noisy, come, tied, associated, brown')
+
+('JJ', 'neil, former, wide, nfl, fame, enshrinement, fawcett, former, wide, nfl, fame, enshrinement, fawcett, former, wide, pro, longtime, thurman, key, qualified, individual, good, good, several, other, hall, modern, wide, individual, other, wide, tough, raw, reed, third, fourth, touchdown, great, offensive, beneficiary, nfl, advanced, onfield, mixed, actual, recent, advanced, cris, last, controversial, lynn, much, qualified, wide, new, downfield, defensive, signified, greatness, simple, mere, total, true, obvious, somehow, major, other, enough, detroit, average, aerial, historical, huge, last, august, metric, true, chase, raw, other, single, relative, alltime, simple, apparent, percent, lead, percent, individual, team, real, simple, ambiguous, other, own, real, personal, extra, obvious, difficult, true, advanced, defenseadjusted, average, dvoa, metric, discrete, specific, fluid, curious, unsuccessful, positive, theorem, strong, offensive, full, successful, much, conventional, rudimentary, historical, collective, pertinent, individual, efficient, entire, usual, good, statistical, legendary, second, smith, true, longtime, individual, top, lifetime, impressive, serious, clear, new, brown, other, impressive, superior, rich, different, wide, inventive, pertinent, fundamental, actual, last')
+
+('NNS', 'data, datanflwidereceivers, nfl, images, nfl, images, buffalo, bills, teammates, bills, berths, receivers, careers, receivers, statistics, strengths, weaknesses, teammates, coaches, considerations, numbers, passcatchers, eras, statisticians, biases, data, catches, yards, sixth, receptions, stats, years, stats, elections, receivers, inductions, receivers, contemporaries, receivers, products, eras, rules, receivers, numbers, yards, yards, years, stats, passcatchers, teams, plays, receivers, opportunities, numbers, bills, redskins, teams, yards, lions, yards, yards, data, metrics, github, attempts, differences, lengths, environments, volumes, yards, attempts, receivers, underscores, stats, matters, receivers, players, teammates, touches, players, possessions, stats, statisticians, statistics, outsiders, tracks, plays, traditions, sabermetrics, events, opportunities, players, opportunities, teammates, bayes, coaches, quarterbacks, incentives, targets, receivers, metrics, metrics, teammates, numbers, scores, receivers, measures, quarterbacks, efficient5, ways, data, quarterbacks, boasts, players, yards, raiders, statistics, receivers, players, raw, numbers, quarterbacks, merits, metrics, passes, numbers, evans, data, eras, presents, candidates, data, ways, questions, qualifications, analytics, questions')
+
+('VBD', 'was, was, figured, retired, ranked, one, was, was, wasn, appeared, played, were, had, included, opened, spiked, became, was, threw, downfield, scaled, passed, downgraded, broke, wasn, looked, became, didn, found, was, saw, stopped, cited, was, took, played, were, associated, was, did, adjusted, wasn, were, was, came, put, advanced, checked, supposed')
+
+('VBG', 'joining, receiving, passing, ignoring, disregarding, going, enacting, passblocking, passing, using, adjusting, adjusting, judging, eyepopping, developing, passing, breaking, receiving, pinning, receiving, complicating, competing, having, trying, passing, measuring, getting, demonstrating, stretching, opening, being, looking, taking, shaping, adjusting, quantifying, computing, passing, using, looking, receiving, throwing, having, using, aging, interpreting, receiving, daunting, seeking, answering')
+
+('JJR', 'super, easier, more, more, bigger, better, more, better, better')
+
+('JJS', 'greatest, best, most')
+
+('VB', 'reed, best, crack, help, distinguish, correct, be, deign, induct, ignore, keep, surging2, reevaluate, make, eliminate, another3, reed, have, appreciate, receiver, put, be, take, make, solve, download, boil, tend, do, be, exert, prove, be, be, funnel, miss, ask, be, rod, tim, select, analyze, ignore, dream, attempt, answer, put')
+
+100 most freq tokens after processing: 
+[('the', 871), ('of', 393), ('our', 389), ('in', 385), ('verdict', 377), ('to', 348), ('and', 335), ('trump', 239), ('that', 203), ('positive', 185), ('on', 166), ('for', 156), ('donald', 143), ('it', 136), ('neutral', 131), ('is', 126), ('with', 126), ('like', 121), ('at', 117), ('was', 105), ('he', 97), ('his', 94), ('you', 86), ('but', 82), ('trump�', 82), ('more', 80), ('negative', 80), ('from', 77), ('my', 77), ('percent', 74), ('by', 73), ('about', 73), ('me', 71), ('this', 69), ('than', 69), ('�i', 67), ('data', 63), ('has', 61), ('as', 58), ('one', 57), ('hillary', 57), ('were', 56), ('have', 54), ('an', 52), ('they', 51), ('are', 50), ('we', 50), ('be', 50), ('who', 50), ('up', 50), ('2015', 48), ('not', 46), ('just', 46), ('nt', 46), ('or', 45), ('2013', 44), ('people', 44), ('swan', 44), ('so', 43), ('2014', 41), ('all', 41), ('clinton', 41), ('get', 40), ('got', 40), ('police', 39), ('their', 39), ('when', 39), ('2012', 39), ('out', 38), ('2016', 37), ('how', 36), ('players', 36), ('do', 35), ('other', 35), ('what', 35), ('drivers', 33), ('tattoos', 33), ('if', 32), ('new', 32), ('can', 32), ('weather', 32), ('there', 31), ('some', 31), ('bill', 31), ('only', 30), ('said', 30), ('10', 30), ('2008', 28), ('had', 28), ('github', 27), ('those', 27), ('state', 27), ('money', 26), ('2011', 26), ('puerto', 26), ('player', 26), ('also', 25), ('which', 25), ('no', 25), ('rico', 25)]

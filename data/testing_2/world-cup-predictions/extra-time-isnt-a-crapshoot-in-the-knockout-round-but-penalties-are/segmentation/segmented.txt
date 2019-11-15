@@ -1,0 +1,132 @@
+Sentence nr: 0
+Jun.
+
+Sentence nr: 1
+27, 2014 at 6:09 PM Extra Time Isn’t a Crapshoot in the Knockout Round, But Penalties Are By Nate Silver Filed under World Cup FacebookTwitterEmail England’s Raheem Sterling jumps over the tackle of Costa Rica’s Junior Diaz during a Group D World Cup soccer match in Belo Horizonte, Brazil.
+
+Sentence nr: 2
+Matt Dunham / AP If you’re one of those people who thinks there are too many ties in soccer, it’s now safe to tune into the World Cup.
+
+Sentence nr: 3
+The knockout stage begins Saturday, and with it the guarantee that a team is going to win each game.
+
+Sentence nr: 4
+If matches are tied at the end of regulation, there will be 30 minutes of extra time.
+
+Sentence nr: 5
+If they’re tied after that, penalty kicks will decide the games.
+
+Sentence nr: 6
+These knockout matches require different treatment from the Soccer Power Index (SPI) match predictor, which we’re using to power the FiveThirtyEight World Cup forecasts.
+
+Sentence nr: 7
+The match predictor is calibrated based on the results of competitive international matches since late 2006.
+
+Sentence nr: 8
+(We define a competitive match as any game that isn’t a friendly, and one where both teams were ranked in the SPI top 100 before the match.)
+
+Sentence nr: 9
+The vast majority of these matches are ones that end in a draw rather than go into extra time.
+
+Sentence nr: 10
+So the match predictor calculates the probability of a draw, along with a win or a loss, for each team.
+
+Sentence nr: 11
+But draws are no longer possible in the knockout round.
+
+Sentence nr: 12
+The match predictor needs some way to resolve the proportion of games that it originally had going to a tie.
+
+Sentence nr: 13
+Previously, SPI made a very conservative assumption and split those games 50-50 between the two teams.
+
+Sentence nr: 14
+This is equivalent to saying that the results in extra time are totally random.
+
+Sentence nr: 15
+In this case, however, the conservative assumption probably isn’t the best one.
+
+Sentence nr: 16
+In conjunction with ESPN Stats & Info, I gathered a list of extra-time matches since 2005 (after FIFA discontinued use of the “sudden-death” Golden Goal and Silver Goal rules) in the most important competitions: the knockout stages of the World Cup, the Confederations Cup and continental championships.
+
+Sentence nr: 17
+We identified 54 such matches.
+
+Sentence nr: 18
+Then we looked to see how often the favorite won.
+
+Sentence nr: 19
+(To determine the favorite, we used Elo ratings rather than SPI ratings, because the Elo sample goes back further; however, SPI ratings are very highly correlated with Elo ratings and it’s reasonably easy to translate from one system to the other.
+
+Sentence nr: 20
+The pre-match favorite won 33 of the 54 matches — 61 percent — either after extra time or on penalties.
+
+Sentence nr: 21
+The sample size isn’t huge, but it’s unlikely that these results are a statistical fluke.
+
+Sentence nr: 22
+If extra-time games were truly random, there’d only be about a 7 percent chance that the pre-match favorite would just happen to win 33 or more times in 54 attempts.
+
+Sentence nr: 23
+Just as important, there are sound logical reasons to assume that the pre-match favorite is slightly more likely to prevail in extra time.
+
+Sentence nr: 24
+If Germany somehow managed to draw with Burkina Faso after 90 minutes, you’d be wise to take Germany’s side of the bet if the teams were given another 30 minutes to play.
+
+Sentence nr: 25
+Most of the favorite’s edge, in fact, comes from its opportunity to play another 30 minutes of regular football.
+
+Sentence nr: 26
+Of those games that were won before penalties — such as the 2010 World Cup final between Spain and the Netherlands, where Spain scored a goal in the 116th minute and held the lead to avoid having to go to penalties — the favorite won 68 percent of the time.
+
+Sentence nr: 27
+But the favorite won just 57 percent of the games that were decided on penalties.
+
+Sentence nr: 28
+Of course, some matches feature much heavier favorites than others.
+
+Sentence nr: 29
+So we ran a logistic regression model to estimate the favorite’s win probability based on the difference in the team’s Elo ratings.
+
+Sentence nr: 30
+Those results are reflected by the red line in the chart below.
+
+Sentence nr: 31
+In a knockout-stage game featuring teams with a 100-point Elo-rating difference — for instance, Italy and Ivory Coast based on their pre-World Cup Elo ratings — the favorite (in this case, Italy) starts out with a 64 percent chance of winning.
+
+Sentence nr: 32
+If the game is tied at the end of regulation play, the favorite’s chance of winning (either after extra time or on penalties) is reduced to 56 percent.
+
+Sentence nr: 33
+Its edge is even smaller if extra time is drawn and the only way to win is on penalties — it has just a 53 percent chance of prevailing at that point, we estimate.
+
+Sentence nr: 34
+Where the difference between the teams is larger, the favorite maintains more of an edge.
+
+Sentence nr: 35
+Argentina and Algeria, for example, have about a 350-point Elo-rating difference.
+
+Sentence nr: 36
+Argentina would have a 71 percent chance of winning such a game after it went to extra time.
+
+Sentence nr: 37
+However, its edge would be quite small — it would only be about a 60-40 favorite — if the game went to penalties.
+
+Sentence nr: 38
+Matchups as lopsided as Argentina-Algeria rarely occur in the knockout stages of the World Cup, however — and where they do, the favorite is highly likely to win during regulation play anyway.
+
+Sentence nr: 39
+So this adjustment doesn’t make all that much practical difference.
+
+Sentence nr: 40
+Calibrated based on SPI rather than Elo ratings, we have Argentina as an 85.8 percent favorite under our new method, rather than 82.4 percent under our previous system that treated all extra-time games as random.
+
+Sentence nr: 41
+And in the match between Belgium and the United States, Belgium is now a 58.4 percent favorite instead of 57.3 percent.
+
+Sentence nr: 42
+The main effect is on Brazil, which has gone from having a 36 percent chance of winning the tournament to a 41 percent chance.
+
+Sentence nr: 43
+Still, even the Brazilians sometimes lose on penalties, like to Paraguay in 2011.
+

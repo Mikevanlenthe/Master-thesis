@@ -1,0 +1,60 @@
+Article: alcohol-consumption
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1144
+Raw number of types: 449
+Raw Type token ratio (higher = more diversity in language use): 0.3924825174825175
+
+100 most freq tokens before (pre)processing: 
+[(',', 2862), ('the', 2860), ('.', 1763), ('of', 1372), ('a', 1208), ('in', 1130), ('to', 1066), ('and', 981), ('’', 839), ('that', 629), (':', 625), ('s', 503), ('is', 457), ('for', 453), ('our', 442), ('on', 437), ('it', 424), ('verdict', 377), ('with', 325), ('at', 313), ('are', 296), ('1', 290), ('trump', 277), ('“', 277), ('”', 276), ('by', 275), ('more', 275), ('(', 275), (')', 275), ('—', 270), ('i', 267), ('percent', 262), ('as', 252), ('but', 250), ('this', 244), ('we', 216), ('from', 215), ('you', 214), ('than', 212), ('have', 211), ('was', 204), ('about', 197), ('positive', 187), ('like', 186), ('or', 182), ('data', 178), ('t', 175), ('an', 166), ('has', 166), ('he', 161), ('they', 157), ('be', 157), ('one', 153), ('donald', 146), ('his', 143), ('who', 140), ('all', 139), ('neutral', 132), ('were', 128), ('other', 126), ('<', 124), ('not', 123), ('their', 122), ('>', 122), ('so', 120), ('out', 116), ('?', 116), ('most', 115), ('there', 115), ('when', 115), ('people', 115), ('if', 112), ('/', 111), ('what', 108), ('up', 108), ('can', 107), ('those', 107), ('get', 103), ('which', 102), ('some', 102), ('how', 96), ('just', 93), ('my', 93), ('only', 92), ('2', 91), ('me', 90), ('each', 86), ('state', 86), (';', 85), ('had', 85), ('negative', 82), ('trump�', 82), ('also', 81), ('its', 80), ('10', 80), ('do', 79), ('new', 78), ('model', 78), ('said', 77), ('films', 77)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 932
+Number of types: 420
+Type token ratio: 0.45064377682403434
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, mona, followup, beer, wine, mona, chalabi, data, github, github, dataalcoholconsumption, beer, rice, field, katmandu, nepal, june, shrestha, ap, friday, question, reader, drink, alcohol, percentage, lifetime, world, world, health, organization, alcohol, alcohol, consumption, health, organization, drinking, alcohol, consumption, capita, age, country, consumption, beverage, type, wine, beer, consumption, beverage, government, alcohol, industry, nation, food, agriculture, organization, database, pure, alcohol, time, pure, alcohol, ve, alcohol, content, serving, size, beverage, beer, person, country, drink, percapita, table, bottom, article, data, bar, consume, country, wine, person, year, bar, capita, consideration, consumption, population, france, namibia, world, country, beer, person, germany, average, bar, fluid, measure, liquor, shotglass, worth, person, spirit, year, country, russia, average, colleague, ritchie, quartz, euromonitor, detail, country, russia, vodka, spirit, phenomenon, brand, smirnoff, vodka, america, storm, popularity, ally, wwii, moscow, mule, vodka, cock, bull, ginger, beer, explanation, availability, state, university, professor, scott, martin, use, alcohol, grain, food, distillation, wwii, liquor, scotch, rum, email, rum, hurricane, idea, popularity, alcohol, line, institute, alcohol, abuse, alcoholism, way, overall, prohibition, alcohol, consumption, person, age, year, year, line, wine, consumption, century, beer, favorite, beer, beverage, availability, price, government, regulation, technology, martin, example, beer, martin, century, refrigeration, beer, transport, home, bar, beer, alcohol, alcohol, consumption, zero, bar, data, table, question, fivethirtyeightcom, datalab538')
+
+('JJ', 'dear, nepalese, wheat, chunnikhel, niranjan, many, islamic, likely, international, interested, isn, much, national, average, other, used, united, comprehensible, last, average, average, standard, many, wine, drunk, full, lengthy, french, wine, other, wine, normal, hard, average, grenada, other, tequila, favorite, vodka, new, late, america, new, simple, green, such, scarce, caribbean, available, popular, new, such, new, national, early, late, american, previous, 19th, firm, national, other, alcoholic, due, popular, 20th, perishable, technological, different, international, other, other, muslim')
+
+('VBP', 'do, get, drink, work, re, describes, show, are, drink, are, don, take, bar, assume, are, ask, choose, do, are, american, drank, wine, have, have')
+
+('NNS', 'people, spirits, drinks, data, farmers, people, trends, abstainers, countries, data, people, countries, assumptions, trends, glasses, data, data, spirits, records, statistics, data, liters, comparisons, numbers, results, glasses, cans, shots, spirits, countries, terms, results, conforms, people, glasses, glasses, figures, abstainers, cans, cans, cans, ounces, drinks, measures, measures, data, spirits, mexicans, sales, numbers, americans, tastes, spirits, studies, drugs, bars, drinks, orleans, spirits, gallons, gallons, data, tastes, years, spirits, briefly, 1960s, fluctuations, factors, innovations, cans, bars, days, choices, ones, countries, people, servings, spirits, countries, countries, populations, github')
+
+('VB', 'drink, know, mine, abstain, know, break, make, find, stereotypes, remember, be, look, go, push, get, have, take, produce, sell, find, like, send, dearmona')
+
+('VBN', 'filed, compared, consumed, taken, compared, bar, consumed, used, purchased, made, needed, opposed, imported, data, been, been, consumed, consumed, followed, answered')
+
+('VBD', 'responded, wanted, had, had, conformed, was, ordered, converted, were, was, took, was, was, was, said, had, was, created, rose, fell, was, had, caught, said, explained, was, was, became, looked, recorded')
+
+('VBG', 'looking, using, being, being, knocking, serving, drinking, drinking, beerdrinking, including, king, working, according, capitalizing, marketing, changing, according, bowling, going, peaking, rising, changing, bottling, purchasing')
+
+('JJS', 'least, biggest, highest, least')
+
+('VBZ', 'isn, is, wants, has, presents, sizes, is, is, is, is, yes, does, is, has, shows, demonstrates, has, is')
+
+('JJR', 'liter, higher, more, more, more, less, easier, more')
+
+100 most freq tokens after processing: 
+[('the', 2860), ('of', 1372), ('in', 1130), ('to', 1066), ('and', 981), ('that', 631), ('is', 457), ('for', 454), ('our', 442), ('on', 437), ('it', 425), ('verdict', 377), ('with', 325), ('at', 313), ('are', 296), ('trump', 277), ('by', 275), ('more', 275), ('percent', 266), ('as', 252), ('but', 250), ('this', 244), ('we', 216), ('from', 215), ('you', 214), ('than', 212), ('have', 211), ('was', 204), ('about', 197), ('positive', 188), ('like', 186), ('or', 182), ('data', 178), ('an', 166), ('has', 166), ('he', 161), ('be', 158), ('they', 157), ('one', 156), ('donald', 147), ('his', 143), ('who', 140), ('all', 139), ('neutral', 132), ('were', 128), ('other', 127), ('not', 123), ('their', 122), ('so', 121), ('out', 117), ('most', 115), ('there', 115), ('when', 115), ('people', 115), ('if', 112), ('what', 108), ('up', 108), ('can', 107), ('those', 107), ('get', 103), ('which', 102), ('some', 102), ('how', 96), ('just', 93), ('my', 93), ('only', 92), ('me', 91), ('10', 91), ('each', 86), ('state', 86), ('bar', 85), ('had', 85), ('negative', 82), ('trump�', 82), ('also', 81), ('its', 80), ('do', 79), ('new', 78), ('model', 78), ('said', 77), ('films', 77), ('github', 76), ('points', 72), ('polls', 72), ('year', 70), ('two', 68), ('national', 68), ('�i', 67), ('where', 65), ('time', 65), ('would', 63), ('these', 63), ('2015', 63), ('been', 62), ('number', 62), ('will', 62), ('rock', 62), ('women', 62), ('2014', 61), ('any', 60)]

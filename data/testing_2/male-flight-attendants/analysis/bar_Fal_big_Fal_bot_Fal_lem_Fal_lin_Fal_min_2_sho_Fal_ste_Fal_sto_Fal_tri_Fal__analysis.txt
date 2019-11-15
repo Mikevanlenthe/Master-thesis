@@ -1,0 +1,60 @@
+Article: male-flight-attendants
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 881
+Raw number of types: 367
+Raw Type token ratio (higher = more diversity in language use): 0.41657207718501704
+
+100 most freq tokens before (pre)processing: 
+[('the', 6396), (',', 6245), ('.', 4272), ('of', 3245), ('a', 2716), ('to', 2647), ('in', 2434), ('and', 2368), ('’', 2141), ('that', 1496), ('s', 1199), ('for', 1114), ('is', 1070), (':', 966), ('on', 940), ('it', 900), ('are', 786), ('“', 732), ('”', 731), ('with', 699), ('at', 680), ('as', 670), ('—', 651), ('we', 634), ('by', 633), ('(', 632), (')', 632), ('more', 612), ('our', 606), ('but', 590), ('trump', 545), ('they', 543), ('this', 540), ('team-logo', 535), ('i', 532), ('or', 520), ('percent', 505), ('you', 504), ('from', 495), ('have', 473), ('t', 465), ('who', 451), ('than', 450), ('about', 450), ('was', 443), ('be', 429), ('one', 419), ('data', 398), ('were', 395), ('an', 380), ('verdict', 377), ('1', 375), ('has', 367), ('?', 357), ('polls', 346), ('not', 341), ('all', 329), ('their', 322), ('how', 313), ('like', 312), ('said', 308), ('there', 304), ('he', 302), ('other', 291), ('if', 282), ('so', 278), ('can', 276), ('people', 274), ('his', 273), ('most', 268), ('what', 267), ('some', 257), ('which', 256), ('those', 253), ('<', 252), ('>', 246), ('when', 245), ('out', 233), ('also', 223), ('get', 220), ('had', 220), ('up', 212), ('positive', 201), ('just', 197), ('only', 194), ('each', 193), ('two', 188), ('pollsters', 184), ('2', 183), ('polling', 183), ('do', 182), ('%', 178), (';', 176), ('points', 174), ('them', 172), ('github', 171), ('number', 169), ('time', 169), ('donald', 167), ('new', 166)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 716
+Number of types: 342
+Type token ratio: 0.4776536312849162
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'oct, pm, flight, mona, chalabi, hope, github, github, pilot, flight, attendant, airline, choice, flight, chicago, april, ap, mona, flight, lincolnwood, illinois, jack, bar, history, aviation, show, male, flight, bar, line, kind, useless, question, number, flight, line, guess, percentage, flight, line, story, percent, flight, figure, percent, line, gender, split, employment, percent, census, bureau, population, center, change, multitude, share, flight, today, age, flight, line, cabin, crew, time, percentage, age, flight, line, change, texas, university, flight, group, share, airline, recruitment, reason, change, gender, age, race, emergency, percent, flight, airline, sector, job, category, transportation, male, flight, attendant, transport, kind, percent, sector, gender, split, population, center, job, category, flight, gender, split, percent, percent, male, support, percent, male, percent, male, bar, bar, top, list, want, phrase, percent, percent, percent, percent, earth, list, male, share, bottom, piece, bar, flight, tally, number, data, breed, worker, question, fivethirtyeightcom, datalab538')
+
+('JJ', 'dear, many, major, dear, male, jack, available, american, few, raw, female, interested, different, male, overall, past, minnesota, available, steady, likely, overall, median, only, past, white, black, hispanic, civil, important, homogenous, white, peculiar, same, public, percent, clear, unusual, hard, unusual, male, minnesota, interviewers, other, similar, administrative, female, dental, kindergarten, other, extreme, titled, full, many, male, mental, male, much, american')
+
+('VBD', 'mona, were, were, used, were, were, were, were, rose, pointed, cited, forced, looked, database')
+
+('NNS', 'attendants, men, numbers, data, data, datamaleflightattendants, offers, beverages, attendants, personnel, numbers, attendants, times, numbers, attendants, attendants, men, percentages, emerges, attendants, workers, decades, data, figures, years, reasons, attendants, men, attendants, men, ones, men, attendants, years, sociologists, attendants, employees, rights, laws, companies, preferences, changes, people, exits, attendants, women, industries, attendants, inspectors, races, demographics, standards, comparisons, occupations, resembles, attendants, terms, enumerators, surveyors, men, roles, teachers, jobs, dressmakers, roles, jobs, hygienists, teachers, men, boilermakers, drillers, men, occupations, attendants, receptionists, hairdressers, typists, shows, numbers, mona')
+
+('VBP', 'are, help, john, siefer, passenger, are, dear, go, see, are, are, re, are, look, are, are, have, ve, have, are, are, look, bar, are, are, are, re, are, are, re, see, encounter, are, hope, help, have')
+
+('VBN', 'filed, furloughed, used, risen, fallen, risen, male, fallen, compiled, entered, stayed, increased, occurred, become, listed, dominated, intrigued, answered')
+
+('VB', 'get, be, be, be, be, have, expand, grasp, do, be, see, keep, like, send, dearmona')
+
+('VBG', 'working, answering, according, making, pointing, making')
+
+('VBZ', 'depends, has, is, is, has, has, is, looks, is, makes, is, is, is, is, seamstresses, means')
+
+('JJS', 'latest, most')
+
+('JJR', 'fewer, higher, greater, younger, older, bigger, broader, closer, better, rarer')
+
+100 most freq tokens after processing: 
+[('the', 6396), ('of', 3245), ('to', 2647), ('in', 2436), ('and', 2368), ('that', 1500), ('for', 1115), ('is', 1071), ('on', 940), ('it', 903), ('are', 788), ('with', 699), ('at', 681), ('as', 670), ('we', 634), ('by', 633), ('more', 612), ('our', 606), ('but', 590), ('trump', 546), ('they', 543), ('this', 540), ('teamlogo', 535), ('or', 520), ('percent', 511), ('you', 505), ('from', 495), ('have', 473), ('who', 451), ('than', 450), ('about', 450), ('was', 443), ('be', 431), ('one', 422), ('data', 398), ('were', 395), ('an', 380), ('verdict', 377), ('has', 367), ('polls', 346), ('not', 341), ('all', 329), ('their', 322), ('how', 313), ('like', 312), ('said', 308), ('there', 304), ('he', 302), ('other', 292), ('if', 282), ('so', 279), ('can', 276), ('people', 274), ('his', 273), ('most', 269), ('what', 267), ('some', 257), ('which', 256), ('those', 253), ('when', 245), ('out', 235), ('10', 230), ('also', 223), ('get', 220), ('had', 220), ('up', 212), ('positive', 202), ('11', 201), ('just', 197), ('only', 194), ('each', 193), ('two', 188), ('polling', 184), ('pollsters', 184), ('do', 182), ('13', 181), ('points', 174), ('14', 173), ('them', 172), ('github', 171), ('time', 171), ('number', 169), ('donald', 168), ('new', 166), ('12', 166), ('will', 166), ('no', 163), ('its', 161), ('many', 161), ('been', 160), ('poll', 160), ('would', 158), ('election', 158), ('average', 157), ('these', 157), ('15', 155), ('us', 152), ('much', 149), ('my', 148), ('because', 146)]

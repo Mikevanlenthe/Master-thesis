@@ -1,0 +1,156 @@
+Sentence nr: 0
+Dec. 28, 2015 at 6:11 AM Most Pollsters Say Their Reputations Have Worsened By Carl Bialik Filed under 2016 Election Get the data on GitHub GitHub data at data/poll-of-pollsters FacebookTwitterEmail Hank Schwab of Atlanta with the campaign hat he’s worn for the past 30 years at a gathering in support of now Sen. David Perdue on Nov. 4, 2014, in Atlanta.
+
+Sentence nr: 1
+Jason Getz / Getty Images No votes have been cast yet in the 2016 election, but there may already be one set of losers in the campaign: pollsters’ reputations.
+
+Sentence nr: 2
+And that’s according to the pollsters themselves.
+
+Sentence nr: 3
+We asked people working at some of the nation’s most prominent polling outfits whether pollsters’ public image has improved or declined since the 2012 election.
+
+Sentence nr: 4
+Of the 21 who answered, none said their public image had improved, and two-thirds said it had declined.
+
+Sentence nr: 5
+That was one of a few dozen questions we posed to 76 of the most prolific and prominent political pollsters.1 And we found that the people who are measuring and shaping public perception of the election — as well as Donald Trump’s Twitter account — are feeling much more positive about the work they do than they think everyone else does.
+
+Sentence nr: 6
+(You can find the questionnaire in this PDF, all the responses on GitHub, and a list of the pollsters who responded in the footnotes.2) Using a classic tactic in politics, many pollsters blamed the media.
+
+Sentence nr: 7
+There were three strands to their criticism.
+
+Sentence nr: 8
+The first is that the media make too much of bad moments for the industry, when its polls miss election results badly.
+
+Sentence nr: 9
+(We’ve covered those moments in last year’s midterms, as well as in Israel, the U.K., Greece and Kentucky.)
+
+Sentence nr: 10
+The second is that media organizations that aggregate polls combine the bad with the good, tarnishing all for the sins of a few.
+
+Sentence nr: 11
+(Four pollsters said aggregators are doing badly or very badly at filtering out polls from bad polling organizations, four said they were doing OK and four said they were doing well.)
+
+Sentence nr: 12
+And the third is that uncritical media reports of outlandish claims — such as Ben Carson’s that Egypt’s pyramids were used to store grain — leads many Americans to believe outlandish things, which pollsters are blamed for quantifying.
+
+Sentence nr: 13
+“Polls are wrong is a more interesting story than when the polls do well,” said Barbara Carvalho of Marist College.
+
+Sentence nr: 14
+“Lumping all methods together distorts the accuracy of polling.” But several respondents acknowledged that the media wouldn’t have a story if pollsters were nailing election results.
+
+Sentence nr: 15
+“Obviously, there were several high-profile calamities in the past three years,” said Matthew Towery of Opinion Savvy.
+
+Sentence nr: 16
+“The best I can say is this: The field is evolving, and some pollsters are succumbing to natural selection.” Not everyone agreed that pollsters’ image is declining.
+
+Sentence nr: 17
+Kyle Dropp of Morning Consult pointed to several positive indicators: increased scrutiny improves the work, while recruitment of data scientists and computer scientists drives innovation.
+
+Sentence nr: 18
+He was one of three pollsters to say the U.S. polling industry is in better shape than it was after the midterm misses a year ago.
+
+Sentence nr: 19
+Most of the 26 who responded to the question said the industry is in about the same shape as it was: Innovations in use of voter data and technology have balanced out the negative effects from declining response rates.
+
+Sentence nr: 20
+“It’s harder to reach people but we know more about the people we’re trying to reach,” said Nick Gourevitch of Global Strategy Group.
+
+Sentence nr: 21
+Response rates have dipped so low over the years that eight pollsters said they were surprised polls hadn’t missed election results by even more than they have.
+
+Sentence nr: 22
+“Some of the recent failures may be a harbinger that the response rate threat is finally materializing,” said Chris Borick of Muhlenberg College.
+
+Sentence nr: 23
+“However, I think the relatively older electorate and marginally higher response rates in that group may continue to buffer more dramatic declines in accuracy.” Citing reasons such as the older electorate, 14 pollsters said they weren’t surprised that polling remains reasonably predictive of election results.
+
+Sentence nr: 24
+Several pointed to a 2012 study by Pew that found that people who don’t respond to polls aren’t different enough from those who do to skew results badly.
+
+Sentence nr: 25
+Other factors, therefore, matter more, said Julia Clark of Ipsos: “Election accuracy is dependent on the team overseeing the work and their expertise, regardless of institution or methodology.” Not all media critiques of polling concern accuracy.
+
+Sentence nr: 26
+In her recent New Yorker article about polling, Jill Lepore wrote sympathetically about political scientist Lindsay Rogers’s contention that polls “are a majoritarian monstrosity.” Pollsters said they shouldn’t be blamed if the media overstate the certainty of a poll’s finding about what the majority wants, or if policy makers put undue emphasis on what polls find.
+
+Sentence nr: 27
+“Polls are not meant to be a blueprint for policy,” said J. Ann Selzer of Selzer & Company, a Des Moines, Iowa, polling firm.
+
+Sentence nr: 28
+“But, it is helpful to know where a majority stand — imagine a world where you did not know that.” Here are a few other notable findings from our poll: Polling will get an immediate test next month with Iowa’s caucuses.
+
+Sentence nr: 29
+We asked pollsters to name the five states that are toughest to poll during primaries.
+
+Sentence nr: 30
+While 13 states got at least one vote, Iowa got the most, with seven.
+
+Sentence nr: 31
+Nevada, which also has a caucus system, was next, with five.
+
+Sentence nr: 32
+New Hampshire, which follows Iowa in the primary calendar, was third with three votes.
+
+Sentence nr: 33
+No other state had more than one vote.
+
+Sentence nr: 34
+My colleague Harry Enten noted that telephone pollsters who use live interviews consistently found lower numbers for Trump than do pollsters who use recorded voices or online panels.
+
+Sentence nr: 35
+More pollsters (11) said they trusted the live-interview polls on this one than the interactive voice response and online polls (4).
+
+Sentence nr: 36
+This remains very much an open question.
+
+Sentence nr: 37
+The gap between Trump support by type of poll has narrowed.
+
+Sentence nr: 38
+And a Morning Consult experiment to study this question suggests that Trump does worse in live-interview polls because some Trump supporters are reluctant to acknowledge their preferred candidate to another person.
+
+Sentence nr: 39
+FiveThirtyEight (here and here) and Republican candidate Jeb Bush are among those who have advised ignoring national primary polls, which ask people across the U.S. who they’ll vote for, because there is no national primary, just a series of state votes, with each one affecting the next.
+
+Sentence nr: 40
+By a slim majority (11 to 8, with one unsure), pollsters disagreed with this critique.
+
+Sentence nr: 41
+“They are not helpful for predictions, but they tell us something about the mood of the country,” said Micheline Blum of Blum & Weprin Associates.
+
+Sentence nr: 42
+Jay Leve of SurveyUSA disagreed.
+
+Sentence nr: 43
+“National primary polls are worse than meaningless,” he said.
+
+Sentence nr: 44
+“We’ve never taken one in 25 years.” The majority (11 to 7, with three unsure) of pollsters said voters and the media shouldn’t be paying attention to polls of hypothetical general-election matchups — Hillary Clinton vs. Donald Trump, say — at this stage of the race.
+
+Sentence nr: 45
+Then there’s the big story we’ve been covering about the election: Who will win?
+
+Sentence nr: 46
+Pollsters expect a very tight race for control of the Senate.
+
+Sentence nr: 47
+Of the nine who predicted the number of seats Republicans will control, five said exactly 49 and four said 51 or 52.
+
+Sentence nr: 48
+But pollsters expect the GOP to hold on to its majority in the House: Each of the nine forecasting pollsters predicted Republicans would hold at least 220 seats.
+
+Sentence nr: 49
+In the presidential race, no one named anyone but Hillary Clinton as the Democratic nominee.
+
+Sentence nr: 50
+Six thought Marco Rubio would be her Republican opponent, four named Ted Cruz and one named Chris Christie; no one named Trump (or Jim Gilmore).
+
+Sentence nr: 51
+Read more: Harry’s Guide To 2016 Election Polls More coverage of polling and of prior polls of pollsters
+

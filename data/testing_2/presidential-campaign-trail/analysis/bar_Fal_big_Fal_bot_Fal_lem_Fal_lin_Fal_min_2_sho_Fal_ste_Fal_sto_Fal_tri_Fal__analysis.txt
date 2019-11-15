@@ -1,0 +1,56 @@
+Article: presidential-campaign-trail
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 128
+Raw number of types: 98
+Raw Type token ratio (higher = more diversity in language use): 0.765625
+
+100 most freq tokens before (pre)processing: 
+[(',', 2230), ('the', 2204), ('.', 1339), ('of', 1057), ('a', 943), ('in', 867), ('to', 831), ('and', 746), ('’', 676), (':', 558), ('that', 510), ('our', 437), ('s', 401), ('verdict', 377), ('is', 361), ('on', 359), ('for', 351), ('it', 347), ('1', 281), ('with', 263), ('trump', 247), ('at', 242), ('i', 240), ('“', 222), ('”', 221), ('—', 216), ('more', 215), ('(', 212), (')', 212), ('by', 207), ('this', 206), ('percent', 205), ('but', 197), ('are', 196), ('as', 189), ('positive', 187), ('we', 184), ('than', 173), ('from', 167), ('like', 166), ('was', 159), ('have', 153), ('about', 153), ('you', 146), ('t', 145), ('an', 143), ('donald', 143), ('or', 142), ('he', 141), ('data', 140), ('neutral', 132), ('one', 129), ('his', 125), ('has', 124), ('be', 121), ('they', 120), ('/', 103), ('their', 103), ('not', 101), ('other', 100), ('who', 99), ('out', 97), ('when', 95), ('so', 94), ('were', 93), ('all', 93), ('what', 92), ('?', 91), ('my', 90), ('people', 89), ('which', 87), ('there', 86), ('up', 86), ('2', 86), ('if', 84), ('<', 84), ('negative', 82), ('trump�', 82), ('how', 81), ('me', 81), ('some', 80), ('>', 80), ('state', 79), ('get', 78), ('model', 78), ('most', 77), ('can', 77), ('just', 76), ('films', 73), ("'m", 72), ('only', 70), (';', 70), ('3', 70), ('do', 67), ('said', 67), ('�i', 67), ('polls', 67), ('10', 66), ('those', 63), ('rock', 61)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 111
+Number of types: 86
+Type token ratio: 0.7747747747747747
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'pm, campaign, gif, matthew, conlen, election, github, github, postelection, clinton, campaign, trump, traveling, clinton, campaign, clinton, dayaftertheelection, concession, speech, york, news, hillaryspeechescom1, campaign')
+
+('JJ', 'last, handy, datapresidentialcampaigntrail, main, hillary, donald, stops, inperson, nov, new, conservative, daily')
+
+('NNS', 'weeks, data, data, criticisms, fundraisers, media, appearances, data, schedules, maps')
+
+('VBZ', 'stops, has, didn, rallies')
+
+('VBN', 'filed, been, sept, collected, compared')
+
+('VB', 'get, see')
+
+('VBP', 'do')
+
+('VBG', 'campaigning, including, according')
+
+('VBD', 'did, made, made')
+
+100 most freq tokens after processing: 
+[('the', 2204), ('of', 1057), ('in', 867), ('to', 831), ('and', 746), ('that', 512), ('our', 437), ('verdict', 377), ('is', 361), ('on', 359), ('for', 352), ('it', 348), ('with', 263), ('trump', 247), ('at', 242), ('more', 215), ('percent', 209), ('by', 207), ('this', 206), ('but', 197), ('are', 196), ('as', 189), ('positive', 188), ('we', 184), ('than', 173), ('from', 167), ('like', 166), ('was', 159), ('have', 153), ('about', 153), ('you', 146), ('donald', 144), ('an', 143), ('or', 142), ('he', 141), ('data', 140), ('one', 132), ('neutral', 132), ('his', 125), ('has', 124), ('be', 122), ('they', 120), ('their', 103), ('not', 101), ('other', 100), ('who', 99), ('out', 97), ('so', 95), ('when', 95), ('were', 93), ('all', 93), ('what', 92), ('my', 90), ('people', 89), ('which', 87), ('there', 86), ('up', 86), ('if', 84), ('negative', 82), ('me', 82), ('trump�', 82), ('how', 81), ('some', 80), ('state', 79), ('get', 78), ('model', 78), ('most', 77), ('can', 77), ('10', 77), ('just', 76), ('films', 73), ('only', 70), ('do', 67), ('said', 67), ('�i', 67), ('polls', 67), ('those', 63), ('rock', 62), ('also', 60), ('new', 60), ('hillary', 59), ('each', 57), ('bar', 57), ('its', 56), ('time', 56), ('2014', 55), ('github', 54), ('would', 54), ('year', 54), ('where', 53), ('them', 53), ('had', 53), ('2015', 53), ('points', 53), ('women', 53), ('2013', 51), ('number', 51), ('2012', 51), ('2016', 50), ('over', 50)]

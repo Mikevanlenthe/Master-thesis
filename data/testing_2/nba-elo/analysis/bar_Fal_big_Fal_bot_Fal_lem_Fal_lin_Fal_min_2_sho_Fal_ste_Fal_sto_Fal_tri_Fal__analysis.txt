@@ -1,0 +1,60 @@
+Article: nba-elo
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 811
+Raw number of types: 373
+Raw Type token ratio (higher = more diversity in language use): 0.4599260172626387
+
+100 most freq tokens before (pre)processing: 
+[('the', 7043), (',', 6843), ('.', 4790), ('of', 3585), ('a', 3050), ('to', 2887), ('in', 2638), ('and', 2617), ('’', 2388), ('that', 1642), ('s', 1322), ('for', 1213), ('is', 1180), (':', 1052), ('on', 1043), ('it', 1003), ('are', 869), ('“', 824), ('”', 823), ('with', 769), ('at', 760), ('—', 756), ('we', 727), ('as', 726), ('by', 706), ('(', 696), (')', 696), ('but', 671), ('more', 656), ('percent', 647), ('our', 639), ('i', 612), ('this', 604), ('they', 577), ('or', 576), ('trump', 545), ('you', 544), ('have', 541), ('from', 535), ('team-logo', 535), ('t', 515), ('about', 494), ('was', 493), ('who', 490), ('than', 478), ('one', 466), ('be', 459), ('data', 443), ('were', 435), ('an', 419), ('has', 399), ('?', 393), ('1', 384), ('verdict', 377), ('not', 368), ('their', 357), ('<', 352), ('all', 351), ('polls', 347), ('>', 346), ('like', 342), ('there', 339), ('how', 335), ('he', 333), ('said', 331), ('if', 310), ('other', 310), ('so', 307), ('can', 303), ('what', 303), ('people', 301), ('his', 288), ('most', 287), ('some', 284), ('which', 275), ('out', 272), ('when', 271), ('those', 268), ('had', 256), ('also', 250), ('get', 240), ('up', 236), ('each', 227), ('only', 218), ('just', 214), ('two', 213), ('do', 206), ('positive', 201), ('them', 191), ('new', 190), ('will', 187), ('points', 187), ('2', 186), ('github', 185), ('pollsters', 184), (';', 183), ('polling', 183), ('its', 182), ('time', 182), ('been', 178)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 678
+Number of types: 352
+Type token ratio: 0.5191740412979351
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VB', 'do, be, explore, take, improve, greatness, jerry, be, go, win, get, care, knocks, streaks, dave, close, larry')
+
+('NN', 'rate, nba, team, play, method, measure, strength, nba, franchise, game, history, formula, score, game, credit, houston, conference, semifinal, los, elo, rating, average, league, expansion, rating, team, zoom, history, line, surprise, chicago, regularseason, elo, rating, state, game, championship, end, season, peak, elo, seattle, lead, playoff, record, chicago, �slump�, title, game, line, lakers�, line, season, los, elo, rating, part, competition, expansion, league, span, chamberlain, team, end, era, perception, retirement, season, streak, jan, elo, rating, peak, rating, season, title, franchise�s, line, �60s, respect, line, boston, dominance, elo, playoff, celtics�, elo, rating, hung, era, team, aboveaverage, elo, rating, line, antonio, team, put, time, line, season, york, basketball, elo, rating, history, york, season, time, franchise, rating, line, bar, team, peak, closest, aba, moment, linsanity, johnson, play, glory, bar')
+
+('NNS', 'decades, results, ratings, ratings, ratings, inputs, teams, points, victories, margins, ratings, rockets, points, games, playoffs, clippers, points, teams, bulls, bulls, wins, warriors, finals, bulls, games, supersonics, finals, games, digits, games, lakers, lakers, franchises, years, veterans, years, games, lakers, wins, points, lakers, celtics, celtics, celtics, titles, sports, rings, celtics, opponents, seasons, achievements, years, lakers, spurs, celtics, knicks, bestknicks, willis, knicks, things, games, playoffs, knicks, bucks, nets, knicks')
+
+('VBZ', 'is, angeles, is, has, angeles, does, has, has')
+
+('JJ', 'elo, simple, gamebygame, elo, aba, total, elo, simple, only, final, elo, upset, elo, final, western, average, league, select, bulls5, golden, nba, fourth, nba, few, next, double, nba�s, rapid, several, old, baylor�s, consecutive, team�s, sixth, first, nba, modern, weak, lackluster, regular, relative, good, much, current, san, common, similar, long, great, new, walt, nov, franchise, little, new, regular, awhile, other, active, elo, next, former')
+
+('VBN', 'based, played, zerosum, expanded, surpassed, watered, gone, anchored, supposed, strengthened, lot, led, taken, fallen, been, daylight')
+
+('VBD', 'calculated, was, gained, meant, lost, was, had, were, picked, stomped, went, had, was, had, wilt, was, reeled, was, did, won, unparalleled, maintained, peaked, was, were, hit, were, went, was, won, had, were, lived')
+
+('VBP', 'have, are, gain, get, elo, are, begin, hit, elgin, don�t, have, reed, are, march, feb')
+
+('VBG', 'winning, winning, winning, depending, losing, clinching, going, middling, aging, approaching, raising')
+
+('JJR', 'more, larger, higher, lower, frazier, less')
+
+('JJS', 'best, best, west, least, highest')
+
+100 most freq tokens after processing: 
+[('the', 7043), ('of', 3585), ('to', 2887), ('in', 2640), ('and', 2617), ('that', 1646), ('for', 1214), ('is', 1182), ('on', 1043), ('it', 1006), ('are', 871), ('with', 769), ('at', 761), ('we', 727), ('as', 726), ('by', 706), ('but', 671), ('more', 656), ('percent', 656), ('our', 639), ('this', 604), ('they', 577), ('or', 576), ('trump', 546), ('you', 545), ('have', 541), ('from', 535), ('teamlogo', 535), ('about', 494), ('was', 493), ('who', 490), ('than', 478), ('one', 469), ('be', 461), ('data', 443), ('were', 435), ('an', 419), ('has', 399), ('verdict', 377), ('not', 368), ('their', 357), ('all', 351), ('polls', 347), ('like', 342), ('there', 339), ('how', 335), ('he', 333), ('said', 331), ('other', 311), ('if', 310), ('so', 308), ('can', 303), ('what', 303), ('people', 301), ('most', 288), ('his', 288), ('some', 284), ('which', 275), ('out', 274), ('when', 271), ('those', 268), ('had', 256), ('also', 250), ('get', 240), ('10', 239), ('up', 236), ('each', 228), ('only', 218), ('just', 214), ('two', 213), ('11', 210), ('do', 207), ('positive', 202), ('bar', 197), ('13', 194), ('them', 191), ('new', 190), ('will', 187), ('points', 187), ('github', 185), ('time', 185), ('polling', 184), ('pollsters', 184), ('its', 182), ('14', 181), ('been', 179), ('number', 177), ('these', 176), ('no', 174), ('would', 172), ('us', 172), ('12', 170), ('many', 169), ('donald', 168), ('average', 164), ('because', 164), ('my', 163), ('15', 163), ('see', 161), ('poll', 161)]

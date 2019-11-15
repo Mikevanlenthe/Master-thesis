@@ -1,0 +1,216 @@
+Sentence nr: 0
+How To Spot A Front-Runner On The ‘Bachelor’ Or ‘Bachelorette’ What we learned from analyzing all 33 seasons.
+
+Sentence nr: 1
+By Ella Koeze and Walt Hickey Filed under TV Get the data on GitHub GitHub data at data/bachelorette Published May 22, 2017 FacebookTwitterEmail On Monday night, a 31-year-old lawyer from Dallas named Rachel Lindsay will start her televised journey to love on the season premiere of “The Bachelorette,” the 34th season of the Bachelor franchise.
+
+Sentence nr: 2
+The previous 33 seasons — 21 of “The Bachelor” and 12 of “The Bachelorette” — have given us an unprecedented data set on what is usually an elusive subject: matters of the heart.
+
+Sentence nr: 3
+We used that data to try to figure out what gives contestants an edge in the competition, from the first-impression rose to the final four.
+
+Sentence nr: 4
+After 15 years of more often than not solid ratings, the Bachelor franchise has become part of America’s cultural fabric — scripted television is being made about it.
+
+Sentence nr: 5
+Millions watch each week as the “bachelor” or “bachelorette” uses structured, on-camera dates to whittle down a group of previously unknown contestants (always of the opposite sex) until the lucky one remains.
+
+Sentence nr: 6
+All that romance adds up to 856 contestants and 280 weeks of competition — and all the information we need to crack this nut.1 Before we jump in, we need to make some things clear.
+
+Sentence nr: 7
+First, although the motives of “Bachelor” and “Bachelorette” contestants are frequent subjects of speculation, we’re assuming that all the contestants are motivated by a desire for true love and are playing to win — that is, that they’re here for the right reasons.
+
+Sentence nr: 8
+Second, ABC helped us out with some of the data (FiveThirtyEight is owned by ESPN; ESPN and ABC are owned by the Walt Disney Co.).
+
+Sentence nr: 9
+Here’s how we logged it2: For every week of competition in every season, we noted which contestants3 went on which dates (a one-on-one date, a two-on-one date or a group date),4 who received roses on dates (protection from elimination that week),5 and who left the show.6 Let’s get to it.
+
+Sentence nr: 10
+The first week <pie>Only 7 percent of contestants on “The Bachelorette” and “The Bachelor” win or quit — which leaves the remaining 796 going out the hard way.</pie> Nearly 9 in 10 of those are felled at a rose ceremony — that’s the ritual ending to each week of competition in which the bachelor or bachelorette distributes roses to the contestants they want to keep dating the next week.
+
+Sentence nr: 11
+The rest are either dumped on a date, rejected outside of a rose ceremony or removed by the show.
+
+Sentence nr: 12
+It’s against these dizzying odds that our players persevere.
+
+Sentence nr: 13
+Week one in particular is a bloodbath — just over a third of all contestants are eliminated in the first rose ceremony.
+
+Sentence nr: 14
+But amid the carnage of that very first week is an essential piece of data that allows viewers to crown an early favorite: the first-impression rose.
+
+Sentence nr: 15
+This coveted prize — a rose allocated to the contestant that most impressed the bachelor or bachelorette in week one — is not awful at forecasting the future.
+
+Sentence nr: 16
+Looking strictly at the 23 seasons in which a single contestant was given the first-impression rose, four recipients went on to win, and another four went on to be the runner-up.
+
+Sentence nr: 17
+That means 35 percent of recipients made it to the final episode.
+
+Sentence nr: 18
+Rachel Lindsay herself received the first-impression rose in the most recent season of “The Bachelor,” and she made it to the final three before bachelor Nick Viall rejected her.
+
+Sentence nr: 19
+Indeed, just over half of those who get first-impression roses reach the final four, which is a vastly higher rate than the overall 15 percent of contestants who make a final four.
+
+Sentence nr: 20
+Dating Once week two rolls around, the shows fall into a rhythm.
+
+Sentence nr: 21
+Contestants are invited to go on dates with the bachelorette.
+
+Sentence nr: 22
+These opportunities to spend time with (and hopefully inspire love in) the bachelor or bachelorette are a precious resource.
+
+Sentence nr: 23
+For that reason, it’s considered ideal to be invited on dates that allow for maximum face time — one-on-one dates and smaller group dates rather than larger ones.
+
+Sentence nr: 24
+We were curious about each winner’s path to victory: Do champions tend to get the best date opportunities early in their season?
+
+Sentence nr: 25
+Or do they tend to burst out of date obscurity into strong positions toward the end?
+
+Sentence nr: 26
+To find out, we assigned points to each date, weighting dates with fewer contestants more highly, and then charted the points that each contestant accumulated over the course of their season in the “roses” below.
+
+Sentence nr: 27
+The winner’s journey for each season is highlighted in dark pink.
+
+Sentence nr: 28
+To see a winner who took an early lead, check out J.P. in “The Bachelorette” 2011.
+
+Sentence nr: 29
+For a lurker, look to Lauren in “The Bachelor” 2016.
+
+Sentence nr: 30
+One season stands out because there was no winner; bachelor Brad Womack in the 11th season of “The Bachelor” picked neither of the final two women.
+
+Sentence nr: 31
+The growth in the length and complexity of the shows is also evident; as the seasons go on, the number of weeks and dates grows.
+
+Sentence nr: 32
+Beyond this big-picture view, however, specific types of dates are worthy of special statistical consideration.
+
+Sentence nr: 33
+Two-on-one dates Two-on-one dates are designed to be brutal: Two contestants go out, but with only one rose available, only one can come back.
+
+Sentence nr: 34
+This already means that half of contestants invited on two-on-one dates get eliminated (it is also what makes them great TV).
+
+Sentence nr: 35
+But the on-date mortality rate is actually more than half — 53 percent — because of particularly bloodthirsty bachelor(ettes) who terminated both competitors.
+
+Sentence nr: 36
+Who could forget when, in a particularly Hunger Games-style moment, bachelor Chris Soules left both rejected women from a two-on-one date in the middle of a desert?
+
+Sentence nr: 37
+Somehow, though, the carnage doesn’t stop there.
+
+Sentence nr: 38
+More than half of two-on-one date survivors are gone within the next two weeks.
+
+Sentence nr: 39
+Within four weeks of a two-on-one date, 95 percent of participants are eliminated.
+
+Sentence nr: 40
+In the remaining three cases, the contestant won the competition.
+
+Sentence nr: 41
+But most two-on-ones spell doom, swiftly or soon enough.
+
+Sentence nr: 42
+One-on-one dates One-on-one dates are the heart of the Bachelor franchise.
+
+Sentence nr: 43
+There have been 548 of them over the course of the two series.
+
+Sentence nr: 44
+And with a few exceptions, they’re sink or swim: Contestants come back with a rose, or they don’t come back at all.8 Surviving a one-on-one date is always a good sign, but we found that doing so is especially valuable early in a season: Four to six weeks before the field is reduced to four,9 contestants who have and survive one-on-one dates remained on the show, on average, 1.5 to two weeks longer than contestants overall.
+
+Sentence nr: 45
+And those extra weeks early on are especially helpful, because that’s when contestants are trying to establish their relationship with the bachelor(ette) in a crowded field.
+
+Sentence nr: 46
+Last season’s “Bachelor” winner, Vanessa, went on a one-on-one date in week three (five weeks before the final four), and Nick Viall did not kick her off even though she vomited in the “zero gravity” plane they took and they shortly after shared what may have been the grossest kiss of all time.
+
+Sentence nr: 47
+The theory of the date rose While the roses given at the end-of-episode ceremony are a mere invitation to continue playing, we contend the roses that contestants receive on dates represent an active preference on the part of the bachelor or bachelorette.
+
+Sentence nr: 48
+While going on dates is important, getting a rose on a date gives a distinct advantage — regardless of how many people were on the date.
+
+Sentence nr: 49
+Getting a date rose is one of four things that can happen to a contestant in a given week of competition, along with being eliminated, surviving the rose ceremony and proceeding to the next week, and winning the competition.
+
+Sentence nr: 50
+Surviving the rose ceremony is a neutral outcome.
+
+Sentence nr: 51
+Being eliminated is a negative outcome.
+
+Sentence nr: 52
+Being awarded a date rose is a positive.
+
+Sentence nr: 53
+The essential question: How positive is it?
+
+Sentence nr: 54
+We zeroed in on weeks when at least one rose was up for grabs on at least one date and then looked at what positive or negative events happened to the recipient of the date rose next — keeping in mind that rose ceremony roses are neutral, so the next positive thing (winning or getting a date rose) or negative thing (leaving the show) that happens to a contestant might not be for several more weeks of competition.
+
+Sentence nr: 55
+Winning a date rose is only a temporary relief: 60 percent of the time, contestants were eliminated in a subsequent week; 33 percent of the time, they won a date rose in a subsequent week; and 8 percent of the time, the next thing that happened was that they won the competition.
+
+Sentence nr: 56
+But compare that 60 percent elimination rate with the elimination rate for all the competitors who did not win a date rose in a given week: 70 percent of the time, those contestants were eliminated that week or a later week.
+
+Sentence nr: 57
+The date rose advantage is that 10-point difference.
+
+Sentence nr: 58
+We can also measure this advantage over time by looking at competitors’ chances of elimination week by week.
+
+Sentence nr: 59
+Those who receive a date rose maintain a steady advantage over contestants who do not.
+
+Sentence nr: 60
+Indeed, a rose buys you about two weeks.
+
+Sentence nr: 61
+You can see this in the chart below, which shows the probability that a contestant who received a date rose — and one who didn’t — in a given episode will be eliminated in each of the next six weeks.
+
+Sentence nr: 62
+For example, a person who is one week out from a roseless week 10 has just over a 40 percent chance of being eliminated that week — roughly the same chance of elimination as a contestant who is three weeks out from receiving a date rose.
+
+Sentence nr: 63
+What we learned So whether you’re preparing for your Bachelorette Fantasy League or want to get an idea of how your favorite contestant is doing, this analysis offers a few essential takeaways.
+
+Sentence nr: 64
+The first-impression rose is a great way to identify an early favorite but a poor way to pick a winner.
+
+Sentence nr: 65
+Date roses buy contestants about two more weeks on the show.
+
+Sentence nr: 66
+One-on-one dates are more valuable earlier in the season, and going on a two-on-one date means that a contestant is probably toast.
+
+Sentence nr: 67
+But most of all, if someone manages to make it past week one, they’re already closer to love than a third of all contestants.
+
+Sentence nr: 68
+So have fun out there — we’ll see you after the final rose.
+
+Sentence nr: 69
+The premiere of season 13 of “The Bachelorette” airs Monday night on ABC.
+
+Sentence nr: 70
+ABC’s Grace Mohs contributed research to this piece, as did FiveThirtyEight’s Tony Chow, Rachael Dottle, Meena Ganesan and Gus Wezerek.
+
+Sentence nr: 71
+Graphics by Ella Koeze and Gus Wezerek.
+

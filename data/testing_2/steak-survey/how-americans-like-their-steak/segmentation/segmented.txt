@@ -1,0 +1,99 @@
+Sentence nr: 0
+May 16, 2014 at 5:08 PM How Americans Like Their Steak By Walt Hickey Filed under FiveThirtyAte Get the data on GitHub GitHub data at data/steak-survey FacebookTwitterEmail Prime rib with baked potato and green bean almondine on the cruise ship Nina’s Dandy.
+
+Sentence nr: 1
+Scott Suchman / The Washington Post Are risk-averse people more likely to order their steak well done?
+
+Sentence nr: 2
+I have no idea; I tried to find out and got absolutely nowhere.
+
+Sentence nr: 3
+But — reinforcing our commitment to full disclosure (and my personal quest to never miss an opportunity to discuss the superiority of rare steaks) — here’s the story.
+
+Sentence nr: 4
+DataLab has been playing around with SurveyMonkey Audience polls.
+
+Sentence nr: 5
+It’s always nice to have fresh data to work with, and there’s a sense of satisfaction in running actual experiments, particularly when it comes to settling frivolous arguments I have about the definition of the Midwest or the moral superiority of the Girl Scouts of America.
+
+Sentence nr: 6
+I prefer steak cooked so that it could very well recover from its wounds with proper bed rest.
+
+Sentence nr: 7
+And I look back at the time in my life when I ordered steaks medium-rare, in my mid-teens, and realize I lacked a sense of commitment.
+
+Sentence nr: 8
+So, why do people order their steaks incinerated?
+
+Sentence nr: 9
+It stands to reason, from this side of medium, that one reason people prefer tougher, less juicy steaks is the threat of food-borne illness.
+
+Sentence nr: 10
+Everyone has a different threshold for risk, whether they jump out of airplanes or exceed the speed limit.
+
+Sentence nr: 11
+So, on May 7 and 8, we ran a survey testing how 550 people interpret and evaluate risk — do they speed in traffic, smoke, go skydiving, prefer a riskier lottery?
+
+Sentence nr: 12
+— and then asked them how they prefer their steak, if at all.
+
+Sentence nr: 13
+After getting the data back, I was excited to see the results.
+
+Sentence nr: 14
+I checked the crosstabs, which are usually a simple place to start.
+
+Sentence nr: 15
+There was nothing.
+
+Sentence nr: 16
+I ran regressions to try to tease out any relationship between risk-taking behavior and steak rareness.
+
+Sentence nr: 17
+Nada.
+
+Sentence nr: 18
+Then I checked to see whether gender, age or income had any effect.
+
+Sentence nr: 19
+The relationships were so statistically insignificant, it’s laughable.
+
+Sentence nr: 20
+At least in this small survey, there does not appear to be any relationship between people’s risk thresholds and how they like their steak cooked.
+
+Sentence nr: 21
+Here’s one example.
+
+Sentence nr: 22
+We asked respondents, “Consider the following hypothetical situations: In Lottery A, you have a 50 percent chance of success, with a payout of $100.
+
+Sentence nr: 23
+In Lottery B, you have a 90 percent chance of success, with a payout of $20.
+
+Sentence nr: 24
+Assuming you have $10 to bet, would you play Lottery A or Lottery B?” I thought that maybe people who picked “Lottery A,” the riskier lottery, would be more likely to prefer their steak rare.
+
+Sentence nr: 25
+Not so much.
+
+Sentence nr: 26
+Still, if there’s anything to be gained from this futility, it’s this chart indicating how respondents preferred their steak.
+
+Sentence nr: 27
+The vast majority — 69 percent — like it somewhere in the ballpark of medium, with about twice as many people preferring medium-rare to medium-well.
+
+Sentence nr: 28
+Anyone have a solid hypothesis for why some people like their steaks scorched and desiccated (besides, you know, taste)?
+
+Sentence nr: 29
+I’m out of ideas.
+
+Sentence nr: 30
+Let me know in the comments.
+
+Sentence nr: 31
+Here’s the data to download.
+
+Sentence nr: 32
+Let me know whether you find anything good.
+

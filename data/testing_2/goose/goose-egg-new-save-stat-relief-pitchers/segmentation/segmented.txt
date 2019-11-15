@@ -1,0 +1,462 @@
+Sentence nr: 0
+The Save Ruined Relief Pitching.
+
+Sentence nr: 1
+The Goose Egg Can Fix It.
+
+Sentence nr: 2
+By Nate Silver Filed under MLB Get the data on GitHub GitHub data at data/goose Published Apr.
+
+Sentence nr: 3
+17, 2017 FacebookTwitterEmail Hall of Fame relief pitcher Richard “Goose” Gossage isn’t the biggest fan of the “Moneyball” revolution.
+
+Sentence nr: 4
+Here at FiveThirtyEight, we don’t think his expletive-laced tirades about nerds ruining baseball have always found their target the way his fastballs once did.
+
+Sentence nr: 5
+But on one point, he’s absolutely right: The save is a stupid [bleep]ing statistic.
+
+Sentence nr: 6
+Gossage recently lashed out against modern closers — including all-time saves leader Mariano Rivera — arguing that they aren’t used in the right situations and that cheaply earned saves exaggerate closers’ value compared to the pitchers of his day.
+
+Sentence nr: 7
+“I would like to see these guys come into more jams, into tighter situations and finish the game.
+
+Sentence nr: 8
+… In the seventh, eighth or ninth innings.
+
+Sentence nr: 9
+I don’t think they’re utilizing these guys to the maximum efficiency and benefit to your ballclub,” Gossage said.
+
+Sentence nr: 10
+“This is not a knock against Mo [Rivera],” he continued later.
+
+Sentence nr: 11
+“[But] I’d like to know how many of Mo’s saves are of one inning with a three-run lead.
+
+Sentence nr: 12
+If everybody in that [bleep]ing bullpen can’t save a three-run lead for one inning, they shouldn’t even be in the big leagues.” Gossage is right about pretty much all of that.
+
+Sentence nr: 13
+A pitcher probably shouldn’t get much credit for handling just the final inning when his team has a three-run lead.
+
+Sentence nr: 14
+Moreover, the top relief pitchers today are less valuable than they were in Gossage’s heyday in the 1970s and ’80s.
+
+Sentence nr: 15
+In large part, that’s because managers are trying to maximize the number of saves for their closer, as opposed to the number of wins for their team.
+
+Sentence nr: 16
+They’re managing to a stat and playing worse baseball as a result.
+
+Sentence nr: 17
+But there’s a solution.
+
+Sentence nr: 18
+Building on the work of Baseball Prospectus’s Russell Carleton, I’ve designed a statistic and named it the goose egg to honor (or troll) Gossage.
+
+Sentence nr: 19
+The basic idea — aside from some additional provisions designed to handle inherited runners, which we’ll detail later — is that a pitcher gets a goose egg for a clutch, scoreless relief inning.
+
+Sentence nr: 20
+Specifically, he gets credit for throwing a scoreless inning when it’s the seventh inning or later and the game is tied or his team leads by no more than two runs.
+
+Sentence nr: 21
+A pitcher can get more than one goose egg in a game, so pitching three clutch scoreless innings counts three times as much as one inning does.
+
+Sentence nr: 22
+The goose egg properly rewards the contributions made by Gossage and other “firemen” of his era, who regularly threw two or three innings at a time, often came into the game with runners on base, and routinely pitched in tie games and not just in save situations.
+
+Sentence nr: 23
+I’ve calculated goose eggs for all seasons since 1930 — plus select seasons since 1921 — based on play-by-play data from Retrosheet.
+
+Sentence nr: 24
+While Gossage ranks only 23rd in major league history with 310 saves, he’s the lifetime leader in goose eggs (677) — ahead of Rivera and every other modern closer.
+
+Sentence nr: 25
+<bar> PITCHER SAVES PITCHER GOOSE EGGS Mariano Rivera 652 Goose Gossage 677 Trevor Hoffman 601 Rollie Fingers 663 Lee Smith 478 Hoyt Wilhelm 641 Francisco Rodriguez 430 Mariano Rivera 614 John Franco 424 Lee Smith 589 Billy Wagner 422 John Franco 589 Dennis Eckersley 390 Trevor Hoffman 580 Joe Nathan 377 Bruce Sutter 557 Jonathan Papelbon 368 Tug McGraw 521 Jeff Reardon 367 Jeff Reardon 520 Troy Percival 358 Sparky Lyle 520 Randy Myers 347 Kent Tekulve 517 Rollie Fingers 339 Lindy McDaniel 507 John Wetteland 330 Mike Marshall 489 Francisco Cordero 329 Gene Garber 468 Roberto Hernandez 326 Ron Perranoski 444 Huston Street 324 Francisco Rodriguez 430 Jose Mesa 321 Todd Jones 425 Todd Jones 319 Billy Wagner 421 Rick Aguilera 318 Jesse Orosco 416 Robb Nen 314 Doug Jones 410 Tom Henke 311 Stu Miller 405 Goose Gossage 310 Roberto Hernandez 404 Jeff Montgomery 304 Randy Myers 404 Doug Jones 303 Darold Knowles 400 Career leaderboards for saves and goose eggs, 1930-2016 </bar> Plus select seasons since 1921 Source: Retrosheet If managers want to squeeze every ounce of potential and talent out of their top relievers — maybe even doubling their value — it’s time to give up the save and embrace the goose.
+
+Sentence nr: 26
+Bullpens are still built around the save While I come to bury the save, let me first sing some of its praises.
+
+Sentence nr: 27
+The statistic, invented by the sportswriter Jerome Holtzman and officially adopted by Major League Baseball in 1969, came into the world with noble intentions.
+
+Sentence nr: 28
+<bar>Relief pitchers were becoming more commonplace — the share of starts that ended in complete games would decline from 40 percent in 1950 to 22 percent in 1970.</bar> But these pitchers’ contributions were largely unheralded by fans, Holtzman correctly noted, because they rarely earned wins or losses and ERA did not reveal much about which relievers had been used in clutch situations.
+
+Sentence nr: 29
+Furthermore, some of the intuitions behind the save rule are correct.
+
+Sentence nr: 30
+Modern statistics such as leverage index find that late-inning situations when a team holds a narrow lead are indeed quite important.
+
+Sentence nr: 31
+For instance, an at-bat5 in the ninth inning when the pitcher’s team leads by one run has a leverage index of 3.3.
+
+Sentence nr: 32
+That means it has more than three times as much impact on the game’s outcome as an average at-bat.
+
+Sentence nr: 33
+The problem is that there’s a fuzzy relationship between the most valuable relief situations and the ones that the save rewards.
+
+Sentence nr: 34
+Take a look at the following chart, which shows the leverage index in different situations based on the inning and the game score: Imagine that one evening, <bar>Pitcher A throws a scoreless eighth inning in a game where his team leads by one run — a situation that has a leverage index of 2.4 — before being pulled for his team’s closer.
+
+Sentence nr: 35
+Meanwhile, in another ballgame on the other side of town, Pitcher B enters the game in the ninth inning when his team holds a three-run lead — a leverage index of just 0.9 — and gives up two runs but eventually records the final out.</bar> Pitcher A’s performance was quite valuable.
+
+Sentence nr: 36
+Pitcher B’s was not — in fact, it was kind of crappy.
+
+Sentence nr: 37
+But Pitcher B gets a save for his troubles whereas Pitcher A doesn’t.
+
+Sentence nr: 38
+It doesn’t make a lot of sense.
+
+Sentence nr: 39
+There are other problems with the save, also.
+
+Sentence nr: 40
+It doesn’t give a pitcher any additional reward for pitching multiple innings — even though two clutch innings pitched in relief are roughly twice as valuable as one.
+
+Sentence nr: 41
+And a pitcher doesn’t get a save for pitching in a tie game, even though it’s one of the highest-leverage situations.
+
+Sentence nr: 42
+I know I’m not breaking much news here: Stat geeks have been complaining about the save for years.
+
+Sentence nr: 43
+But don’t modern, post-“Moneyball” teams know better than this?
+
+Sentence nr: 44
+Aren’t they using their best relievers in the highest-leverage situations, whether or not they yield a save?
+
+Sentence nr: 45
+In a word: no.
+
+Sentence nr: 46
+(In 11 words: Mostly not, except maybe for the Cleveland Indians and Andrew Miller.)
+
+Sentence nr: 47
+The next table reflects how teams used their closers (as defined by closermonkey.com, a site that tracks bullpen usage obsessively) over the course of 2016, as measured by the number of innings the closer pitched in different situations: The typical modern closer is really just a ninth-inning specialist.
+
+Sentence nr: 48
+In 2016, the average closer threw 66 innings, and 56 of them came in the ninth inning.
+
+Sentence nr: 49
+This included 11 innings in games where his team led by three runs in the ninth — a save situation, but not a high-leverage one.
+
+Sentence nr: 50
+Conversely, it included just six innings in tie games in the ninth, which is not a save situation but is one of the highest-leverage situations you can find.
+
+Sentence nr: 51
+Again, this is pretty much how you’d use your bullpen if the goal was to maximize the number of saves for your closer (instead of the number of wins for your team).
+
+Sentence nr: 52
+Managers seem so conditioned by the “only use your closer in the ninth inning with a lead” heuristic that they often use their closers in the ninth inning when their team leads by more than three runs, which is a not a save situation8 and is even more of a waste of the closer’s supposed talent.
+
+Sentence nr: 53
+Baseball teams have supposedly reached a state of statistical enlightenment — but their closer usage is every bit as stubborn as NFL teams’ too-frequent refusal to go for it on 4th down.
+
+Sentence nr: 54
+Defining a goose egg If managers were thinking about goose eggs rather than saves, they’d find plenty of better ways to use their best relievers.
+
+Sentence nr: 55
+So let’s define a goose egg, officially.
+
+Sentence nr: 56
+Just as for the save rule, the formal definition is a bit more complicated than the quick-and-dirty version I described above.
+
+Sentence nr: 57
+But here goes: A relief pitcher records a goose egg for each inning in which: It’s the seventh inning or later; At the time the pitcher faces his first batter of the inning: His team leads by no more than two runs, or The score is tied, or The tying run is on base or at bat No runs (earned or unearned) are charged to the pitcher in the inning and no inherited runners score while the pitcher is in the game; and The pitcher either: Records three outs (one inning pitched), or Records at least one out, and the number of outs recorded plus the number of inherited runners totals at least three.
+
+Sentence nr: 58
+You’ll notice that the rules are more forgiving to pitchers who enter the game with runners on base, since these cases can have much higher leverage indexes than situations where the bases are empty.
+
+Sentence nr: 59
+For instance, if a pitcher enters the game with two runners on and records a single out without allowing a run, he’ll earn a goose egg.
+
+Sentence nr: 60
+But the rule is strict about what it means by a scoreless inning.
+
+Sentence nr: 61
+An unearned run cooks a goose egg, just as an earned run does.
+
+Sentence nr: 62
+(The eggs are delicate.)
+
+Sentence nr: 63
+And a pitcher doesn’t get a goose egg if a run scores while he’s in the game, even if the run was charged to another pitcher.
+
+Sentence nr: 64
+Overall, these rules can yield high goose-egg totals among many types of relievers, not just closers.
+
+Sentence nr: 65
+That’s clear when you look at the goose egg leaderboard for 2016, for example.
+
+Sentence nr: 66
+The Indians’ Miller and the Mets’ Jeurys Familia tied for the major league lead with 42 goose eggs last year, but Familia was used as a typical modern closer (and led the majors with 51 saves) while Miller often entered the game in the seventh or eighth inning.
+
+Sentence nr: 67
+Mets setup man Addison Reed tied for fourth in the majors with 39 goose eggs last season, meanwhile, even though he had just one save.
+
+Sentence nr: 68
+TRADITIONAL STATS GOOSE STATS PITCHER INNINGS PITCHED ERA W-L SAVES BLOWN SAVES GOOSE EGGS BROKEN EGGS Jeurys Familia 77.2 2.55 3-4 51 5 42 7 Andrew Miller 74.1 1.45 10-1 12 2 42 7 Zach Britton 67.0 0.54 2-1 47 0 40 1 Addison Reed 77.2 1.97 4-2 1 4 39 5 Tyler Thornburg 67.0 2.15 8-5 13 8 39 7 Nate Jones 70.2 2.29 5-3 3 9 38 8 David Robertson 62.1 3.47 5-3 37 7 36 7 Sam Dyson 70.1 2.43 3-2 38 5 36 5 Roberto Osuna 74.0 2.68 4-3 36 6 35 4 Kelvin Herrera 72.0 2.75 2-6 12 3 35 9 Kenley Jansen 68.2 1.83 3-2 47 6 34 6 Familia, Miller tied for goose-egg lead in 2016 ERA and W-L record cover relief appearances only SOURCES: FANGRAPHS, RETROSHEET Miller and Familia’s league-leading total would have been paltry by Gossage’s standards, however.
+
+Sentence nr: 69
+In addition to being the lifetime leader in goose eggs, he’s also the single-season leader, having recorded 82 goose eggs (almost as many as Miller and Familia combined) in 1975, when he threw 141.2 (!)
+
+Sentence nr: 70
+innings in relief for the Chicago White Sox.
+
+Sentence nr: 71
+The top firemen of Gossage’s day routinely had 60 goose eggs or more in a season, with their totals sometimes reaching into the 70s or — in the case of Gossage in 1975 and John Hiller in 1974 — the 80s.
+
+Sentence nr: 72
+Just one pitcher since 2000 — the Angels’ Scot Shields in 2005 — has had as many as 60 goose eggs in a season, however.
+
+Sentence nr: 73
+These days, it’s rare for a pitcher to record even 50 goose eggs.
+
+Sentence nr: 74
+League-leading goose-egg totals have plummeted even as saves have risen.
+
+Sentence nr: 75
+The turning point seems to have been 1990, when Bobby Thigpen and Dennis Eckersley both beat the single-season saves record while rarely working more than one inning at a time.
+
+Sentence nr: 76
+In the 1970s and 1980s, the average league leader in saves threw 112 innings over 69 appearances.
+
+Sentence nr: 77
+Since 1990, by contrast, the average saves leader has also appeared in 69 games but has thrown only 71 innings.
+
+Sentence nr: 78
+THROUGH 1989 SINCE 1990 YEAR PITCHER GOOSE EGGS YEAR PITCHER GOOSE EGGS 1975 Goose Gossage 82 1992 Doug Jones 67 1974 John Hiller 80 2005 Scot Shields 60 1965 Stu Miller 79 1990 Bobby Thigpen 56 1969 Ron Perranoski 79 1993 John Wetteland 56 1973 Mike Marshall 79 1996 Trevor Hoffman 55 1977 Rich Gossage 74 1993 Jeff Montgomery 54 1963 Dick Radatz 73 1996 Mariano Rivera 54 1965 Bob Lee 72 1998 Robb Nen 53 1964 Dick Radatz 71 2004 Brad Lidge 53 1979 Kent Tekulve 71 1998 Trevor Hoffman 51 1970 Lindy McDaniel 70 2000 Danny Graves 51 1983 Bob Stanley 70 2011 Jonny Venters 51 1950 Jim Konstanty 69 1997 Trevor Hoffman 50 1980 Doug Corbett 68 2011 Tyler Clippard 50 1965 Eddie Fisher 66 1991 Mitch Williams 48 1974 Tom Murphy 66 1993 Jim Gott 48 1974 Mike Marshall 66 1997 Jeff Shaw 48 1977 Sparky Lyle 66 2007 Heath Bell 48 1978 Rollie Fingers 66 1991 Paul Assenmacher 47 1980 Bruce Sutter 66 1992 Lee Smith 47 1972 Tug McGraw 65 1996 Roberto Hernandez 47 1979 Sid Monge 65 1996 Troy Percival 47 1980 Dan Quisenberry 65 1998 Jeff Shaw 47 1982 Bill Caudill 65 2003 Eric Gagne 47 1984 Willie Hernandez 65 2004 Tom Gordon 47 2004 Mariano Rivera 47 2008 Francisco Rodriguez 47 2014 Tony Watson 47 Single-season goose-egg leaderboard, 1930-2016 Plus select seasons since 1921.
+
+Sentence nr: 79
+SOURCE: RETROSHEET BROKEN EGGS AND GWAR (GOOSE WINS ABOVE REPLACEMENT) Having only learned about the goose egg a few moments ago, you might still be a little suspicious of it.
+
+Sentence nr: 80
+Sure, closers are pitching fewer innings than they used to and getting fewer goose eggs.
+
+Sentence nr: 81
+But perhaps they’re pitching more efficiently and providing more overall value as a result?
+
+Sentence nr: 82
+It goes without saying that pitchers like Miller and Zach Britton are really good at their jobs.
+
+Sentence nr: 83
+To properly value relievers, we need a companion statistic called the broken egg, which is to a goose egg as a blown save is to a save.
+
+Sentence nr: 84
+(I wanted to call this companion stat a “blown goose,” but my editors decided that vaguely dirty jokes were the hill they wanted to die on.)
+
+Sentence nr: 85
+We’ll define it as follows: A relief pitcher records a broken egg for each inning in which: He could have gotten a goose egg if he’d recorded enough outs; At least one earned run is charged to the pitcher; and The pitcher does not close out the win for his team.
+
+Sentence nr: 86
+In other words, you get a broken egg when you could have gotten a goose egg but are charged with an earned run instead, with an exemption if you get the last out of the game.12 Note that this leaves some situations that result in neither goose eggs nor broken eggs, which we’ll say are a “meh.” For instance, if a run scores while you’re in the game but it isn’t charged to you, that’s neither a goose egg or a broken egg; it’s a meh.
+
+Sentence nr: 87
+I’ll speak no more of mehs in this article because they’re pretty boring; when I use the phrase “goose opportunity,” it means a goose egg or a broken egg.
+
+Sentence nr: 88
+There are usually about three goose eggs for every broken egg, meaning that relievers convert about 75 percent of their goose opportunities.
+
+Sentence nr: 89
+And unlike saves and blown saves, which are highly punitive to guys who aren’t closers,13 the goose system gives middle relievers a fair shake.
+
+Sentence nr: 90
+For instance, Mark Eichhorn — a good-but-not-great middle reliever for the Blue Jays and other teams in the 1980s and ’90s — converted 76 percent of his lifetime goose opportunities, about the same rate as an average closer.
+
+Sentence nr: 91
+<scatter>Goose eggs and broken eggs — when taken together — also do a good job of replicating more complicated statistics.
+
+Sentence nr: 92
+For instance, there’s a 0.78 correlation between a simple linear combination of these stats and the highly sophisticated statistic win probability added (WPA), which is arguably the best way to value relief pitchers.
+
+Sentence nr: 93
+WPA is a lot of work to calculate, however, so goose eggs and broken eggs get you to mostly the same place but are relatively simple counting statistics.
+
+Sentence nr: 94
+Saves and blown saves, on the other hand, have a much noisier relationship with WPA (a correlation of 0.50).</scatter> But if you take your statistics with an extra helping of rigor — and if you’ve read this far, you probably do — there are a few more things to consider.
+
+Sentence nr: 95
+It’d be nice to adjust performance for a pitcher’s park and league; it was a lot easier to convert goose opportunities at Dodger Stadium in the low-offense 1960s than at Coors Field during the juiced-offense era.
+
+Sentence nr: 96
+We’d also like to know how valuable a late-inning reliever is, which will require some notion of what the replacement level is for the goose statistic.
+
+Sentence nr: 97
+Considering that a lot of high-performing closers — including Rivera — were once middling starters, is the job really that challenging?
+
+Sentence nr: 98
+To answer those questions, we need to create another new stat: goose wins above replacement (GWAR).
+
+Sentence nr: 99
+To do that, I went back to the history books.
+
+Sentence nr: 100
+<line>Over time, the number of goose opportunities per game has increased (as teams pull their starting pitchers earlier) while the success rate for converting them has varied.
+
+Sentence nr: 101
+The offense-friendly era from 1993 through 2009 was a rough one for relief pitchers, who converted a middling 73.8 percent of their goose opportunities.
+
+Sentence nr: 102
+The best relievers from this era, such as Rivera and Trevor Hoffman, might be slightly underrated without considering this context.
+
+Sentence nr: 103
+But since 2010, which has seen a revival of pitching, the goose-egg conversion rate has improved to 76.5 percent.</line> YEARS ERA AVERAGE GOOSE OPPORTUNITIES PER GAME CONVERSION RATE 1921-1940 Lively Ball Era 0.28 73.8% 1941-1945 World War II 0.21 77.2 1946-1962 Postwar Era 0.53 75.9 1963-1972 Neo-Deadball Era 0.71 77.5 1973-1992 Balanced Era 0.79 76.3 1993-2009 Juiced Offense Era 0.84 73.8 2010-2016 Strikeout Era 0.92 76.5 Goose opportunities are increasing SOURCE: RETROSHEET To determine the goose replacement level, I looked at the performance of pitchers since 1996 who made no more than 150 percent of the league’s minimum salary and who were acquired in free agency, on waivers, or through the Rule 5 draft.
+
+Sentence nr: 104
+Essentially, these are the guys who are available to any major league team at any time for next to nothing — the literal definition of replacement-level players.
+
+Sentence nr: 105
+But they actually weren’t too bad in goose situations.
+
+Sentence nr: 106
+<bar>They converted 71.5 percent of their goose opportunities during this period, as compared to 74.7 percent for the league as a whole.
+
+Sentence nr: 107
+To put that in more familiar terms, these relievers had a 3.91 ERA, weighted by their number of goose situations, as compared to a 3.64 weighted ERA for the league overall.</bar> Therefore, a team shouldn’t be spending a lot for average relief pitching — the average relievers just aren’t that much better than the replacement-level guys.
+
+Sentence nr: 108
+Pick up a few failed starters off the waiver wire, tell them to limit their repertoire to their two best pitches, and test them out in Triple-A or in low-leverage situations.
+
+Sentence nr: 109
+You won’t necessarily have the next Gossage or Miller — those guys are scarcer and more valuable commodities — but you’ll probably find a couple of pretty good late-inning relievers without paying a lot to do it.
+
+Sentence nr: 110
+A complete formula for GWAR, which adjusts for a pitcher’s park as well as his league and converts performance in goose situations to wins, can be found in the footnotes.
+
+Sentence nr: 111
+THE BEST RELIEVERS OF ALL TIME, ACCORDING TO GOOSE Even with all this extra work, however, we come to basically the same conclusion that we did before: Most of the best relief seasons came a long time ago, and from pitchers who followed Gossage’s usage pattern rather than Rivera’s.
+
+Sentence nr: 112
+YEAR NAME GOOSE EGGS BROKEN EGGS CONV.
+
+Sentence nr: 113
+% REPLACEMENT-LEVEL CONV.
+
+Sentence nr: 114
+% GWAR 1965 Stu Miller 79 7 91.9% 75.0% 7.5 1975 Goose Gossage 82 11 88.2 74.3 6.7 1996 Mariano Rivera 54 6 90.0 68.7 6.6 1969 Ron Perranoski 79 13 85.9 72.2 6.6 1996 Troy Percival 47 3 94.0 69.0 6.5 1984 Willie Hernandez 65 7 90.3 73.1 6.4 1980 Doug Corbett 68 10 87.2 71.8 6.3 1967 Ted Abernathy 51 3 94.4 72.5 6.2 1977 Sparky Lyle 66 8 89.2 73.3 6.1 1993 Jeff Montgomery 54 7 88.5 69.5 6.0 2000 Keith Foulke 42 3 93.3 67.7 6.0 1993 John Wetteland 56 6 90.3 71.8 6.0 1970 Lindy McDaniel 70 9 88.6 74.2 5.9 1999 Billy Wagner 44 4 91.7 68.0 5.9 1973 John Hiller 59 7 89.4 72.2 5.9 1972 Tug McGraw 65 6 91.5 75.9 5.8 1963 Dick Radatz 73 11 86.9 73.9 5.7 1988 John Franco 56 5 91.8 73.8 5.7 1979 Aurelio Lopez 54 7 88.5 70.6 5.7 1988 Doug Jones 51 5 91.1 71.6 5.7 1987 Tim Burke 42 2 95.5 70.7 5.7 1977 Bruce Sutter 62 10 86.1 71.1 5.6 1979 Kent Tekulve 71 13 84.5 71.7 5.6 1982 Bill Caudill 65 10 86.7 72.4 5.6 1969 Wayne Granger 59 9 86.8 71.0 5.6 1979 Bruce Sutter 63 11 85.1 70.9 5.5 2002 Eric Gagne 46 3 93.9 72.5 5.5 1983 Dan Quisenberry 60 11 84.5 69.8 5.4 2004 Joe Nathan 41 2 95.3 71.1 5.4 1982 Greg Minton 63 8 88.7 74.1 5.4 2004 Mariano Rivera 47 4 92.2 71.8 5.4 2004 Eric Gagne 46 5 90.2 69.8 5.4 1978 Gene Garber 52 7 88.1 70.5 5.4 2008 Brad Lidge 34 0 100.0 69.5 5.4 1979 Joe Sambito 52 6 89.7 71.8 5.4 1998 Trevor Hoffman 51 5 91.1 72.7 5.4 1955 Ray Narleski 44 2 95.7 73.3 5.4 2016 Zach Britton 40 1 97.6 72.6 5.3 1969 Tug McGraw 46 4 92.0 71.6 5.3 1983 Bob Stanley 70 17 80.5 68.8 5.3 Single-season goose wins above replacement (GWAR) leaderboard, 1930-2016 Plus select seasons since 1921 SOURCES: RETROSHEET, BASEBALL-REFERENCE.COM The best relief-pitching season of all time, according to this metric, belongs to Stu Miller, who had 79 goose eggs and just 7 broken eggs for the 1965 Baltimore Orioles.
+
+Sentence nr: 115
+Miller’s traditional numbers looked pretty good that year — he went 14-7 with a 1.89 ERA and 24 saves in 119.1 innings pitched, finishing seventh in American League MVP balloting.
+
+Sentence nr: 116
+His goose stats make it clear that he was almost unhittable in high-leverage situations, however.21 He contributed 7.5 wins above replacement according to GWAR, which is a Cy Young Award-caliber performance.
+
+Sentence nr: 117
+After Miller’s 1965 comes Gossage’s 1975, and then there’s a year from Rivera.
+
+Sentence nr: 118
+But Rivera’s best season according to GWAR was not 2004, when he had a league-leading and career-high 53 saves, but 1996, when he was used as a setup man to John Wetteland and had just 5 saves in 107.2 innings of 2.09 ERA relief.
+
+Sentence nr: 119
+Rivera was promoted to closer the next year, but his value declined as the Yankees held him to 71.2 innings despite the success he’d had in the fireman role.
+
+Sentence nr: 120
+Only two of the top 40 relief seasons have come in the past 10 years.
+
+Sentence nr: 121
+You can be literally almost perfect — as Britton and his 0.54 ERA were last year — and yet still not provide as much value as pitchers like Gossage did because you didn’t have enough volume in high-leverage situations.
+
+Sentence nr: 122
+The lifetime GWAR leaderboard is somewhat more forgiving to modern closers.
+
+Sentence nr: 123
+Rivera tops the list, with Hoffman second and Gossage third: NAME GOOSE EGGS BROKEN EGGS CONV.
+
+Sentence nr: 124
+% REPLACEMENT-LEVEL CONV.
+
+Sentence nr: 125
+% GWAR Mariano Rivera 614 108 85.0% 70.5% 54.6 Trevor Hoffman 580 113 83.7 71.6 43.7 Goose Gossage 677 146 82.3 73.1 39.4 Billy Wagner 421 80 84.0 69.8 37.0 John Franco 589 132 81.7 72.0 36.3 Tug McGraw 521 101 83.8 73.0 34.9 Jonathan Papelbon 361 52 87.4 71.7 33.7 Troy Percival 354 64 84.7 69.4 33.3 Hoyt Wilhelm 641 146 81.4 73.8 31.3 Joe Nathan 344 53 86.6 71.9 30.4 Francisco Rodriguez 430 87 83.2 71.9 30.3 Bruce Sutter 557 134 80.6 72.2 30.3 Todd Jones 425 101 80.8 69.7 30.2 Lee Smith 589 156 79.1 71.6 28.9 John Wetteland 307 62 83.2 69.9 25.6 Jeff Reardon 520 130 80.0 72.5 25.4 Rollie Fingers 663 164 80.2 74.3 25.3 Robb Nen 314 60 84.0 71.2 24.8 Stu Miller 405 81 83.3 73.7 24.3 Randy Myers 404 92 81.5 72.2 23.9 Armando Benitez 331 73 81.9 70.7 23.6 Kent Tekulve 517 134 79.4 72.5 23.4 Huston Street 325 63 83.8 72.2 23.3 Roberto Hernandez 404 111 78.4 69.8 23.3 Tom Henke 357 81 81.5 71.4 23.1 Ron Perranoski 444 99 81.8 73.7 22.8 Lindy McDaniel 507 130 79.6 72.9 22.3 Dan Quisenberry 380 87 81.4 72.3 22.1 Jeff Montgomery 360 89 80.2 70.8 21.8 Sparky Lyle 520 130 80.0 73.6 21.6 Dave Giusti 305 54 85.0 73.4 21.5 Dennis Eckersley 352 81 81.3 72.0 20.8 Todd Worrell 350 80 81.4 72.2 20.7 Jose Valverde 252 45 84.8 71.6 20.5 Mike Henneman 306 67 82.0 71.6 20.2 Bob Wickman 344 92 78.9 70.2 19.7 Keith Foulke 263 62 80.9 69.3 19.7 Dave Smith 347 78 81.6 73.0 19.2 Dave Righetti 372 92 80.2 72.2 19.2 Craig Kimbrel 227 34 87.0 73.0 19.0 Career goose wins above replacement (GWAR) leaderboard, 1930-2016 Plus select seasons since 1921 SOURCES: RETROSHEET, BASEBALL-REFERENCE.COM So perhaps you can argue that modern closer usage at least helps the best relievers to preserve their longevity, even if it almost certainly doesn’t maximize their value over the course of a given season.
+
+Sentence nr: 126
+Then again, Rivera and Hoffman and Billy Wagner might just have been freaks; there’s been a ton of turnover in the closer ranks lately.
+
+Sentence nr: 127
+Of the top 10 pitchers in saves in 2011, only three were still in the league in 2016, and only one (Craig Kimbrel) was still regularly working as a closer.
+
+Sentence nr: 128
+As long as teams are burning through relief pitchers, they might as well try to get more value out of their best ones.
+
+Sentence nr: 129
+SO HOW SHOULD AN ACE RELIEVER BE USED?
+
+Sentence nr: 130
+Managers have a lot of room for improvement if they forget about saves and use goose eggs as a bullpen guide.
+
+Sentence nr: 131
+A bare-bones workload for a goose-optimized closer would look something like this: Pitch in all goose situations, including ties, in the ninth inning.
+
+Sentence nr: 132
+For a typical team, that works out to about 40 or 45 innings over the course of the season.
+
+Sentence nr: 133
+Pitch in goose situations in the eighth inning when his team leads by one run exactly, with the plan of usually also pitching the 9th when the game remains in a goose situation.
+
+Sentence nr: 134
+This will add another 15 innings or so.
+
+Sentence nr: 135
+Pitch in any goose situations in extra innings, up to a maximum of two total innings pitched for the game.
+
+Sentence nr: 136
+Keep in mind that this will often be impossible because the closer will already have been used earlier in the game.
+
+Sentence nr: 137
+Still, this should amount to another five or 10 innings in a typical season.
+
+Sentence nr: 138
+That will work out to a total of around 65 innings pitched for the season — about the same number that closers throw now — over roughly 50 appearances.
+
+Sentence nr: 139
+But those innings would come with a super-high leverage index of about 2.5.
+
+Sentence nr: 140
+And the pitcher would go from around 40 or 45 goose opportunities in a season to 60 or 65 instead, potentially generating nearly 50 percent more value as a result.
+
+Sentence nr: 141
+For an older or injury-prone closer (say, the Los Angeles Angels’ Huston Street), that might be basically all the work they could handle.
+
+Sentence nr: 142
+But there are lot of teams that might want to replicate MiIler’s success, and there are younger, fitter pitchers who could build on this minimal workload.
+
+Sentence nr: 143
+Depending on the day, they could enter in the eighth inning in tie games, for instance.
+
+Sentence nr: 144
+And they could come into the game with runners on, even in the seventh inning; it can be worth using your best reliever to get your team out of a jam in these cases even if you have to remove him from the game later.
+
+Sentence nr: 145
+A pitcher picking up some of these situations might wind up throwing 85 or 90 innings — and a roughly equal number of goose opportunities — over the course of a season in which he makes 60 or 65 appearances.
+
+Sentence nr: 146
+Those pitchers could have roughly double the value that modern closers do.
+
+Sentence nr: 147
+It’s really not that radical a shift from how pitchers are used now.
+
+Sentence nr: 148
+But it doesn’t have to stop there.
+
+Sentence nr: 149
+Modern teams have about 150 goose opportunities in a season.
+
+Sentence nr: 150
+One day, they’ll find a guy with the right genetics and the right mentality to throw two or three innings every second or third day — someone who really could approach Gossage’s usage pattern — and when that happens, Gossage’s 82-goose-egg single-season record might come under threat.
+
+Sentence nr: 151
+It would be a high bar to clear.
+
+Sentence nr: 152
+But it would be an accomplishment worth chasing down, whereas a save record usually isn’t.
+
+Sentence nr: 153
+You can download detailed data on goose eggs and broken eggs for all pitchers since 1930 here.
+

@@ -1,0 +1,60 @@
+Article: weather-check
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 845
+Raw number of types: 333
+Raw Type token ratio (higher = more diversity in language use): 0.3940828402366864
+
+100 most freq tokens before (pre)processing: 
+[(',', 931), ('the', 484), (':', 405), ('our', 386), ('verdict', 377), ('in', 243), ('trump', 227), ('1', 223), ('of', 218), ('.', 212), ('a', 209), ('to', 187), ('positive', 182), ('and', 178), ('donald', 142), ('i', 138), ('neutral', 131), ('like', 106), ('that', 99), ('/', 94), ('on', 92), ('for', 91), ('(', 84), (')', 84), ('is', 83), ('trump�', 82), ('negative', 80), ('’', 75), ('it', 73), ('with', 72), ("'m", 72), ('at', 70), ('�i', 67), ('you', 64), ('my', 61), ('hillary', 57), ('me', 56), ('was', 52), ("'s", 52), ('percent', 50), ('s', 48), ('from', 48), ('but', 46), ('�', 46), ("n't", 46), ("'", 46), ('2013', 44), ('2015', 44), ('clinton', 41), ('than', 40), ('were', 40), ('police', 39), ('more', 38), ('by', 37), ('--', 37), ('2016', 36), ('they', 35), ('have', 35), ('we', 35), ('2014', 34), ('up', 34), ('2012', 34), ('got', 33), ('drivers', 33), ('this', 32), ('be', 32), ('?', 32), ('weather', 32), ('do', 31), ('who', 31), ('data', 30), ('bill', 30), ('get', 29), ('has', 29), ('not', 28), ('his', 28), ('2', 28), ('are', 27), ('just', 27), ('as', 27), ('2008', 27), ('people', 27), ('state', 27), ('so', 26), ('money', 26), ('all', 26), ('or', 26), ('out', 25), (';', 24), ('fuck', 24), ('he', 24), ('2011', 24), ('officers', 23), ('remix', 23), ('obama', 23), ('about', 22), ('<', 22), ('>', 22), ('an', 21), ('city', 21)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 691
+Number of types: 307
+Type token ratio: 0.4442836468885673
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, go, get, sydney, get, are, do, go, method, check, versus, versus, don, seem, use, find')
+
+('NNS', 'people, data, australia, difficulties, fios, customers, sources, people, customers, data, respondents, questions, people, forecasts, respondents, couple, differences, people, people, checkers, checkers, dailies, nondailies, nondailies, checkers, groups, people, years, people, newspapers, respondents, respondents, jerks, eastcoasters, newspapers, people, points, people, eyeballs, people, difficulties, fees, problems, respondents, data')
+
+('VB', 'check, do, check, look, apps, don, use, run, check, do, check, app, go, app, do, super, get, check, be, be, be, volunteer, let, know')
+
+('NN', 'weather, walt, hickey, weather, data, github, github, dataweathercheck, storm, cloud, march, cassie, trotter, getty, weather, street, piece, weather, channel, verizon, station, use, online, apps, information, weather, station, web, bother, weather, default, app, phone, everyone, regard, find, audience, survey, weather, report, day, weather, percentage, phone, default, weather, tv, news, website, weather, channel, internet, search, newspaper, radio, weather, newsletter, weather, channel, half, percent, penetration, regardless, respondent, report, weather, checker, weather, day, website, percent, percent, weather, channel, percent, percent, internet, search, percent, versus, percent, weather, channel, age, isn, person, game, probability, respondent, weather, basis, age, bracket, percent, weather, percent, respondent, weather, radio, tv, england, home, lot, weather, percent, weather, day, end, spectrum, percent, region, california, oregon, washington, winter, temperate, climate, need, report, isn, weather, channel, television, news, percent, weather, phone, default, weather, app, percent, percentage, point, difference, weather, channel, news, network, crowd, weather, app, phone, television, news, percent, weather, news, percent, crowd, percentage, point, difference, weather, channel, carriage, network, data, news, weather, data, survey, github, thing, didn, look, website, app, category, website, app, anything')
+
+('VBN', 'filed, inspired, faced, compared, aged, taken')
+
+('JJ', 'large, wall, journal, financial, many, true, wrong, couldn, asked, surveymonkey, simple, main, local, specific, do, bad, overall, consistent, old, weather, daily, likely, specific, daily, nondaily, likely, daily, across, general, young, daily, old, likely, local, new, harsh, other, pacific, smug, stupid, predictable, daily, interesting, local, young, local, local, financial, generational, local, interesting, specific, particular, dig')
+
+('VBZ', 'covers, images, is, doesn, is, has, comes, is, is')
+
+('VBD', 'dropped, wondered, assumed, was, was, ran, had, asked, app, had, was, was, said, were, looked, were, said, checked, were, were, performed, checked, climbed, checked, did, was, was, checked, were, felt, got, were, got, got, did, sure, liked, asked')
+
+('VBG', 'growing, flocking, checking, interesting, depending, weatherchecking, shocking, snapchatting, finding, being, sucking, getting, according')
+
+('JJR', 'weather, older, older, older')
+
+('JJS', 'least')
+
+100 most freq tokens after processing: 
+[('the', 484), ('our', 386), ('verdict', 377), ('in', 243), ('trump', 227), ('of', 218), ('to', 187), ('positive', 183), ('and', 178), ('donald', 143), ('neutral', 131), ('like', 106), ('that', 99), ('on', 92), ('for', 91), ('is', 83), ('trump�', 82), ('negative', 80), ('it', 73), ('with', 72), ('at', 70), ('�i', 67), ('you', 64), ('my', 61), ('hillary', 57), ('me', 56), ('percent', 53), ('was', 52), ('from', 48), ('but', 46), ('2015', 46), ('nt', 46), ('2013', 44), ('clinton', 41), ('than', 40), ('were', 40), ('police', 39), ('more', 38), ('by', 37), ('2016', 37), ('2014', 35), ('they', 35), ('have', 35), ('we', 35), ('2012', 35), ('up', 34), ('got', 33), ('drivers', 33), ('this', 32), ('be', 32), ('weather', 32), ('do', 31), ('who', 31), ('data', 30), ('bill', 30), ('get', 29), ('has', 29), ('not', 28), ('his', 28), ('are', 27), ('just', 27), ('as', 27), ('2008', 27), ('people', 27), ('state', 27), ('so', 26), ('money', 26), ('all', 26), ('or', 26), ('out', 25), ('2011', 25), ('fuck', 24), ('he', 24), ('officers', 23), ('10', 23), ('remix', 23), ('obama', 23), ('about', 22), ('an', 21), ('city', 21), ('how', 21), ('their', 21), ('no', 21), ('can', 21), ('2010', 21), ('live', 20), ('black', 20), ('your', 20), ('what', 20), ('ai', 20), ('only', 19), ('if', 19), ('one', 19), ('said', 19), ('those', 19), ('2000', 19), ('white', 18), ('number', 18), ('bitch', 18), ('there', 17)]

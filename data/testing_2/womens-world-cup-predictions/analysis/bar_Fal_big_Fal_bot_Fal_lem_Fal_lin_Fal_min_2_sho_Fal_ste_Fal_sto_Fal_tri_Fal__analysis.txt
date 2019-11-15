@@ -1,0 +1,60 @@
+Article: womens-world-cup-predictions
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1411
+Raw number of types: 475
+Raw Type token ratio (higher = more diversity in language use): 0.33664068036853295
+
+100 most freq tokens before (pre)processing: 
+[(',', 3106), ('the', 3104), ('.', 1951), ('of', 1513), ('a', 1332), ('in', 1245), ('to', 1208), ('and', 1090), ('’', 942), ('that', 708), (':', 646), ('s', 551), ('for', 511), ('is', 499), ('on', 469), ('it', 463), ('our', 452), ('verdict', 377), ('with', 356), ('at', 352), ('are', 336), ('“', 325), ('”', 324), ('more', 319), ('by', 308), ('(', 308), (')', 308), ('i', 302), ('as', 296), ('percent', 291), ('1', 291), ('—', 287), ('but', 278), ('trump', 277), ('this', 272), ('you', 250), ('we', 249), ('than', 237), ('from', 235), ('have', 224), ('was', 219), ('about', 216), ('or', 214), ('data', 206), ('t', 201), ('like', 196), ('be', 192), ('an', 189), ('positive', 188), ('has', 176), ('they', 175), ('he', 171), ('one', 165), ('who', 163), ('were', 157), ('his', 148), ('all', 147), ('donald', 146), ('other', 140), ('not', 139), ('most', 135), ('their', 134), ('so', 133), ('if', 132), ('neutral', 132), ('when', 130), ('?', 129), ('out', 128), ('can', 128), ('<', 128), ('there', 126), ('>', 126), ('those', 124), ('people', 124), ('/', 117), ('up', 117), ('which', 116), ('what', 114), ('get', 113), ('how', 112), ('some', 107), ('each', 105), ('my', 105), ('just', 102), ('only', 100), ('also', 95), ('me', 95), ('2', 93), ('had', 92), ('do', 89), (';', 89), ('state', 87), ('github', 85), ('its', 84), ('said', 82), ('negative', 82), ('trump�', 82), ('new', 81), ('10', 81), ('first', 80)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1173
+Number of types: 455
+Type token ratio: 0.3878942881500426
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, world, cup, model, jay, boice, silver, soccer, christine, sinclair, canada, solo, match, olympic, fifa, getty, sinclair, canada, solo, match, olympic, fifa, getty, world, cup, world, cup, everything, database, soccer, set, team, power, index, world, enter, colleague, allison, world, cup, preview, methodology, version, soccer, power, index, spi, system, nate, conjunction, espn, rate, team, rating, player, rating, play, team, roster, wspi, team, component, data, club, play, wspi, component, account, score, match, match, time, shootout, location, game, importance, match, world, cup, match, team, rating, time, example, china, wspi, world, spi, rating, team, match1, rating, match, strength, schedule, wspi, rating, percentage, team, roundrobin, tournament, team, world, let, example, wspi, rating, team, match, weight, match, date, location, competition, opponent, score, rating, def, rating, scotland, glasgow, scotland, city, world, cup, trinidad, chester, pennsylvania, world, cup, mexico, france, wspi, average, march, match, france, lot, weight, importance2, weight, match, case, strength, schedule, wspi, rating, france, mexico, france, defense, team, match, opponent, wspi, team, rating, team, location, match, home, advantage, home, team, favorite, matchup, team, world, probability, team, team3, number, team, match, matrix, match, probability, victory, loss, scoreline, distribution, tiebreaker, knockout, stage, world, cup, account, match, hand, chance, team, tournament, knockout, round, tournament, tournament, percent, chance, tournament, team, wspi, simulation, possibility, team, tournament, preworld, cup, wspi4, knockout, round, time, end, regulation, shootout, time, time, match, rate, regulation5, shootout, win, random, evidence, team, wspi, rating, percent, database, time, example, uswnt, favorite, thailand, game, percent, favorite, shootout, reason, interest, team, shootout, article, faq, philosophy, tournament')
+
+('VBP', 'am, hope, jamie, christine, hope, jamie, check, have, do, do, want, gather, call, soccer, re, wspi, are, soccer, spi, use, soccer, are, account, do, are, are, are, are, are, france, colombia, kansas, team, are, receive, re, ve, calculate, ve, simulate, are, continue, are, ve, handle, score, are, are, don, are, see, apply, hope')
+
+('NNS', 'women, works, beats, states, games, images, beats, states, games, images, women, predictions, women, sports, don, data, men, sports, women, women, matches, games, women, ratings, women, projections, states, frontrunners, teams, horses, players, projections, ratings, men, teams, men, components, scores, matches, results, players, ratings, women, features, ratings, ratings, varies, states, ratings, ratings, components, goals, goals, ratings, ratings, components, points, states, results, ratings, olympics, olympics, kansas, features, examples, ratings, ratings, receives, olympics, matters, ratings, matches, goals, teams, ratings, goals, outcomes, distributions, scores, goals, probabilities, times, simulations, simulations, results, accounts, matches, simulations, cases, teams, probabilities, shootouts, shootouts, teams, shootouts, questions, details, women')
+
+('JJ', 'nate, united, mcdonald, united, mcdonald, fivethirtyeight, same, rich, international, many, national, wspi, united, germany, elite, dark, mccann, simplified, international, club, individual, national, available, major, similar, spi, final, extra, friendly, united, final, offensive, defensive, offensive, many, average, competitive, international, defensive, many, such, offensive, defensive, offensive, defensive, overall, possible, hypothetical, other, detailed, team, united, recent, glasgow, faro, portugal, friendly, key, overall, offensive, defensive, weighted, gamebygame, uswnt, little, weight, maximum, possible, much, uswnt, offensive, uncommon, weak, receive, poor, win, much, good, offensive, good, important, competitive, worth, wspi, other, expected, possible, poisson, tie, other, possible, possible, important, individual, hot, extra, sure, extra, shortened, wspi, good, dominant, regular, percent, regular, underdog, nate, technical, spi, ll')
+
+('VBN', 'filed, based, based, derived, based, detailed, broken, interpreted, combined, calculated, played, given, adjusted, expected, been, rated, generated, given, given, estimated, played, updated, tied, tied, treated, derived, treated, skillbased, won')
+
+('VB', 'do, forecast, get, put, find, develop, read, watch, take, wspi, be, expect, score, concede, expect, score, look, see, see, win, receive, make, estimate, beat, score, convert, end, advance, calculate, advance, win, do, reflect, get, outperform, spent, tend, be, be, beat, win, play, be, have, wspi, drop, enjoy')
+
+('VBD', 'used, cup, developed, went, had, played, received, weight, was, was, scored, allowed, won, occurred')
+
+('JJR', 'more, more, stronger, better, qualifier, qualifier, higher, tougher, slower, better, more, weaker, more, more')
+
+('VBZ', 'is, is, is, counts, cup, is, reflects, is, gives, is, gets, has, didn, loses, is, has, is, takes, has, means, is, is, is, has')
+
+('VBG', 'teamrating, including, controlling, wondering, beating, beating, scoring, using, knowing, winning, speaking, making, being, following')
+
+('JJS', 'most')
+
+100 most freq tokens after processing: 
+[('the', 3104), ('of', 1513), ('in', 1245), ('to', 1208), ('and', 1090), ('that', 710), ('for', 512), ('is', 499), ('on', 469), ('it', 464), ('our', 452), ('verdict', 377), ('with', 356), ('at', 352), ('are', 336), ('more', 319), ('by', 308), ('as', 296), ('percent', 295), ('but', 278), ('trump', 277), ('this', 272), ('you', 250), ('we', 249), ('than', 237), ('from', 235), ('have', 224), ('was', 219), ('about', 216), ('or', 214), ('data', 206), ('like', 196), ('be', 193), ('an', 189), ('positive', 189), ('has', 176), ('they', 175), ('he', 171), ('one', 168), ('who', 163), ('were', 157), ('his', 148), ('donald', 147), ('all', 147), ('other', 141), ('not', 139), ('most', 135), ('so', 134), ('their', 134), ('if', 132), ('neutral', 132), ('when', 130), ('out', 129), ('can', 128), ('there', 126), ('those', 124), ('people', 124), ('up', 117), ('which', 116), ('what', 114), ('get', 113), ('how', 112), ('some', 107), ('each', 105), ('my', 105), ('just', 102), ('only', 100), ('me', 96), ('also', 95), ('10', 95), ('had', 92), ('do', 89), ('bar', 89), ('state', 87), ('github', 85), ('its', 84), ('first', 83), ('said', 82), ('negative', 82), ('trump�', 82), ('new', 81), ('model', 79), ('would', 78), ('films', 77), ('these', 75), ('two', 74), ('time', 74), ('year', 73), ('points', 73), ('number', 72), ('polls', 72), ('women', 72), ('likely', 71), ('national', 71), ('any', 70), ('them', 69), ('over', 67), ('2015', 67), ('will', 67), ('�i', 67)]

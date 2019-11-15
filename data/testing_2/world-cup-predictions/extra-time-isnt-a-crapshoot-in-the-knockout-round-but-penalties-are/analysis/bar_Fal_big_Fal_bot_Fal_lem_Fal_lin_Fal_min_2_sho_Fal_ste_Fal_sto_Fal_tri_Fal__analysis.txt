@@ -1,0 +1,60 @@
+Article: world-cup-predictions/extra-time-isnt-a-crapshoot-in-the-knockout-round-but-penalties-are
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1101
+Raw number of types: 388
+Raw Type token ratio (higher = more diversity in language use): 0.35240690281562215
+
+100 most freq tokens before (pre)processing: 
+[('the', 7995), (',', 7738), ('.', 5459), ('of', 4012), ('a', 3439), ('to', 3246), ('in', 2992), ('and', 2968), ('’', 2731), ('that', 1794), ('s', 1524), ('for', 1345), ('is', 1303), ('on', 1164), ('it', 1122), (':', 1094), ('are', 970), ('“', 947), ('”', 946), ('at', 855), ('with', 848), ('—', 845), ('as', 819), ('we', 805), ('by', 779), ('(', 774), (')', 773), ('percent', 753), ('but', 749), ('more', 716), ('i', 708), ('this', 671), ('our', 663), ('or', 648), ('they', 624), ('have', 611), ('you', 609), ('from', 604), ('was', 574), ('t', 570), ('trump', 549), ('about', 546), ('team-logo', 535), ('than', 529), ('be', 527), ('who', 522), ('data', 503), ('one', 497), ('an', 480), ('were', 476), ('has', 448), ('?', 439), ('not', 408), ('he', 408), ('all', 407), ('<', 400), ('1', 399), ('>', 394), ('their', 393), ('so', 391), ('there', 382), ('verdict', 377), ('said', 365), ('how', 363), ('like', 359), ('if', 356), ('polls', 356), ('his', 347), ('can', 336), ('what', 333), ('other', 332), ('people', 332), ('which', 321), ('some', 319), ('out', 305), ('had', 305), ('most', 304), ('when', 297), ('those', 292), ('also', 281), ('up', 263), ('get', 259), ('each', 256), ('only', 243), ('just', 241), ('two', 233), ('do', 230), ('new', 220), ('github', 217), ('time', 215), ('%', 214), ('these', 212), ('its', 210), (';', 210), ('them', 210), ('will', 205), ('positive', 203), ('been', 201), ('would', 200), ('2', 196)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 919
+Number of types: 369
+Type token ratio: 0.4015233949945593
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, pm, time, crapshoot, knockout, round, silver, world, cup, england, sterling, tackle, costa, rica, diaz, group, world, cup, soccer, match, horizonte, brazil, matt, dunham, ap, soccer, world, knockout, stage, guarantee, team, game, end, regulation, time, penalty, treatment, soccer, power, index, match, predictor, power, world, cup, match, predictor, match, game, spi, match, majority, draw, time, match, predictor, probability, draw, win, loss, team, knockout, match, predictor, way, proportion, assumption, split, time, case, assumption, one, conjunction, list, extratime, fifa, use, suddendeath, goal, goal, knockout, world, cup, won, favorite, sample, system, prematch, favorite, percent, time, sample, size, fluke, chance, prematch, favorite, prematch, favorite, time, burkina, faso, side, bet, edge, fact, opportunity, football, world, spain, spain, goal, minute, lead, percent, time, won, percent, course, regression, model, win, probability, difference, team, elo, line, chart, knockoutstage, game, difference, instance, italy, ivory, coast, preworld, cup, elo, favorite, case, percent, chance, game, end, regulation, chance, time, percent, edge, time, way, chance, point, difference, edge, argentina, algeria, example, difference, argentina, chance, game, time, edge, favorite, game, argentinaalgeria, knockout, world, cup, favorite, regulation, adjustment, doesn, difference, spi, percent, favorite, method, percent, system, random, match, belgium, belgium, percent, percent, effect, brazil, chance, tournament, percent, chance')
+
+('JJ', 'extra, isn, nate, junior, belo, many, saturday, extra, different, fivethirtyeight, competitive, international, late, competitive, top, vast, extra, possible, spi, conservative, equivalent, extra, random, conservative, espn, gathered, golden, silver, important, continental, such, favorite, elo, elo, further, spi, elo, other, extra, isn, huge, statistical, extratime, random, percent, important, sound, logical, likely, extra, germany, germany, favorite, regular, such, final, favorite, favorite, logistic, favorite, red, favorite, extra, extra, only, percent, favorite, percent, such, extra, small, likely, much, practical, elo, new, previous, extratime, united, favorite, main, percent')
+
+('NNS', 'penalties, jumps, people, ties, matches, minutes, kicks, games, matches, results, matches, teams, matches, ones, draws, games, games, teams, results, stats, matches, rules, competitions, stages, confederations, championships, matches, ratings, ratings, ratings, ratings, matches, penalties, results, games, times, attempts, reasons, minutes, teams, minutes, minutes, games, penalties, netherlands, games, penalties, matches, favorites, others, ratings, results, teams, ratings, penalties, penalties, teams, penalties, matchups, stages, ratings, games, states, brazilians, penalties')
+
+('VBP', 'are, raheem, re, thinks, are, are, re, knockout, require, re, define, are, end, are, are, info, are, are, are, feature, are, play, estimate, have, occur, do, play, make, have, lose')
+
+('VBN', 'filed, tied, tied, calibrated, based, ranked, made, discontinued, correlated, managed, wise, given, won, decided, based, reflected, based, tied, reduced, drawn, based, argentina, gone')
+
+('VBZ', 'safe, cup, begins, is, forecasts, is, isn, calculates, needs, is, isn, cup, goes, is, comes, starts, is, is, is, is, is, has, is, maintains, is, is, is, has')
+
+('VB', 'tune, win, be, decide, go, resolve, tie, see, determine, spi, translate, be, happen, win, assume, prevail, draw, be, take, play, play, avoid, go, penalties, estimate, italy, win, have, be, be, win, paraguay')
+
+('VBG', 'going, using, going, saying, having, featuring, elorating, winning, winning, prevailing, elorating, winning, having, winning')
+
+('VBD', 'spi, were, round, had, identified, looked, used, easy, won, were, were, were, cup, scored, held, won, were, ran, went, went, lopsided, calibrated, treated')
+
+('JJS', 'best, most')
+
+('JJR', 'more, heavier, smaller, larger, more')
+
+100 most freq tokens after processing: 
+[('the', 7995), ('of', 4012), ('to', 3246), ('in', 2994), ('and', 2968), ('that', 1799), ('for', 1346), ('is', 1305), ('on', 1164), ('it', 1128), ('are', 972), ('at', 856), ('with', 848), ('as', 819), ('we', 805), ('by', 779), ('percent', 762), ('but', 749), ('more', 716), ('this', 671), ('our', 663), ('or', 648), ('they', 624), ('have', 611), ('you', 610), ('from', 604), ('was', 574), ('trump', 550), ('about', 546), ('teamlogo', 535), ('than', 529), ('be', 529), ('who', 522), ('data', 503), ('one', 500), ('an', 480), ('were', 476), ('has', 448), ('not', 408), ('all', 408), ('he', 408), ('their', 393), ('so', 392), ('there', 382), ('verdict', 377), ('said', 365), ('how', 363), ('like', 359), ('if', 356), ('polls', 356), ('his', 347), ('can', 336), ('other', 333), ('what', 333), ('people', 332), ('which', 321), ('some', 319), ('out', 307), ('most', 305), ('had', 305), ('when', 297), ('those', 292), ('also', 281), ('up', 264), ('get', 259), ('10', 259), ('each', 257), ('only', 243), ('just', 241), ('two', 233), ('do', 231), ('11', 222), ('new', 220), ('time', 219), ('github', 217), ('bar', 217), ('these', 212), ('them', 211), ('its', 210), ('us', 206), ('will', 205), ('positive', 204), ('13', 204), ('been', 202), ('would', 200), ('year', 196), ('no', 194), ('my', 194), ('number', 194), ('over', 191), ('14', 189), ('points', 188), ('polling', 184), ('pollsters', 184), ('many', 181), ('12', 181), ('because', 179), ('much', 177), ('first', 176), ('15', 175)]

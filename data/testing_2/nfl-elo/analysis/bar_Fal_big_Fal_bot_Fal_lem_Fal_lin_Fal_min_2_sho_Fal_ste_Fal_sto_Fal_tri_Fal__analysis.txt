@@ -1,0 +1,60 @@
+Article: nfl-elo
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 960
+Raw number of types: 399
+Raw Type token ratio (higher = more diversity in language use): 0.415625
+
+100 most freq tokens before (pre)processing: 
+[('the', 7540), (',', 7277), ('.', 5123), ('of', 3821), ('a', 3216), ('to', 3066), ('in', 2822), ('and', 2784), ('’', 2558), ('that', 1715), ('s', 1412), ('for', 1293), ('is', 1242), ('on', 1092), (':', 1077), ('it', 1059), ('are', 929), ('“', 834), ('”', 833), ('at', 805), ('with', 805), ('—', 800), ('as', 786), ('we', 769), ('by', 751), ('(', 737), (')', 737), ('percent', 712), ('but', 711), ('more', 699), ('i', 664), ('our', 658), ('this', 641), ('or', 615), ('they', 601), ('have', 582), ('you', 576), ('from', 574), ('trump', 546), ('t', 544), ('team-logo', 535), ('was', 529), ('about', 527), ('than', 511), ('who', 504), ('be', 492), ('data', 487), ('one', 481), ('were', 457), ('an', 440), ('?', 425), ('has', 419), ('their', 387), ('1', 387), ('not', 386), ('all', 379), ('verdict', 377), ('<', 374), ('>', 368), ('there', 357), ('how', 355), ('like', 350), ('polls', 349), ('he', 338), ('so', 335), ('said', 333), ('if', 326), ('can', 326), ('other', 321), ('what', 320), ('people', 311), ('which', 307), ('some', 304), ('most', 293), ('his', 290), ('out', 286), ('those', 284), ('when', 284), ('had', 273), ('also', 270), ('up', 256), ('get', 251), ('each', 248), ('two', 228), ('just', 227), ('only', 226), ('do', 216), ('new', 208), ('github', 207), ('these', 205), ('positive', 203), (';', 201), ('them', 200), ('its', 199), ('time', 192), ('will', 192), ('been', 190), ('number', 188), ('2', 188), ('points', 188)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 842
+Number of types: 390
+Type token ratio: 0.46318289786223277
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VB', 'do, be, read, be, choose, explore, calculate, have, be, minnesota, win, have, franchise, wait, do, lose')
+
+('NN', 'rate, nfl, team, play, method, measure, strength, game, history, elo, nfl, team, rating, average, league, expansion, rating, methodology, game, bowl, league, bowl, era, football, league, football, league, professional, football, association, allamerica, football, conference, football, history, team, zoom, history, football, franciscos, run, history, england, bowl, win, season, nfl, dynasty, answer, elo, rating, stretch, history, average, elo, rating, time, start, season, nfls, childhood, tom, brady, bill, project, history, dallas, team, football, record, season, werent, reason, trade, cowboys, bowl, herschel, walker, exchange, bevy, drafting, emmitt, smith, safety, darren, woodson, tackle, russell, maryland, walker, history, payoff, wasnt, season, elo, rating, super, season, cowboys, elo, rating, championship, game, gain, bay, time, history, anyone, nfl, bay, team, bowl, era, aflnfl, merger, reminder, longevity, football, chance, bay, wisconsin, chicago, slate, bowl, era, peak, elo, season, team, success, peak, brett, championship, season, bowl, bay, figure, aaron, team, start, peak, history, miami, nfl, didnt, success, year, bowl, record, team, history, year, miami, peak, title, game, team, resurgence, bowl, thrashing, high, curve, jacksonville, team, title, creation, elo, rating, week, season, afc, championship, game, revival, decade')
+
+('NNS', 'decades, results, ratings, ratings, teams, results, championships, wins, titles, winners, franchises, games, patriots, stretches, 49ers, seasons, 49ers, playoffs, times, games, times, championships, patriots, 49ers, cowboys, fans, players, picks, contributors, dallas, yards, seasons, vikings, deals, cowboys, theyd, playoffs, years, titles, points, years, packers, packers, championships, teams, theres, bears, titles, packers, rodgers, dolphins, dolphins, fans, dolphins, dolphins, seasons, championships, heights, losses, ways, jaguars, years')
+
+('VBZ', 'is, is, has, has, depends, cowboys, carries, bowl, has, is, is, jaguars')
+
+('JJ', 'elo, simple, gamebygame, elo, league, total, average, league, profootballreferencecom, super, pro, super, national, american, american, defunct, pro, favorite, entire, professional, san, incredible, new, last, patriots, average, league, san, francisco, san, franciscos, elo, peak, entire, arent, cowboys, optimistic, pro, defensive, huge, full, lopsided, nfl, first, january, green, good, long, green, other, super, nfls, pro, green, super, modern, january, squad, nfc, super, green, early, early, first, super, perfect, only, nfl, next, elo, same, complete, elo, miamis, historical, comparable, florida, few, brief')
+
+('VBN', 'based, set, expanded, selected, become, born, been, cared, won, captured, emerged, gotten, had, won, returned')
+
+('VBD', 'calculated, played, tried, had, was, was, was, made, won, racked, were, were, was, sent, led, became, surpassed, was, finished, was, dominated, came, were, had, won, came, favreled, won, matched, led, joined, had, won, made, reached, led, peaked, went')
+
+('JJR', 'higher, lower, more, more, super, lesser')
+
+('VBG', 'depending, including, excluding, seasonending, rebuilding, coming, giving, running, running, bottoming, following, living, reaching, edging, winning, winning, hitting, hitting')
+
+('VBP', 'start, are, include, are, super, count, belichick, immediate, make, have, have, have, have, have')
+
+('JJS', 'least, greatest, best, best, highest, best, least, worst')
+
+100 most freq tokens after processing: 
+[('the', 7540), ('of', 3821), ('to', 3066), ('in', 2824), ('and', 2784), ('that', 1719), ('for', 1294), ('is', 1244), ('on', 1092), ('it', 1062), ('are', 931), ('at', 806), ('with', 805), ('as', 786), ('we', 769), ('by', 751), ('percent', 721), ('but', 711), ('more', 699), ('our', 658), ('this', 641), ('or', 615), ('they', 601), ('have', 582), ('you', 577), ('from', 574), ('trump', 547), ('teamlogo', 535), ('was', 529), ('about', 527), ('than', 511), ('who', 504), ('be', 494), ('data', 487), ('one', 484), ('were', 457), ('an', 440), ('has', 419), ('their', 387), ('not', 386), ('all', 379), ('verdict', 377), ('there', 357), ('how', 355), ('like', 350), ('polls', 349), ('he', 338), ('so', 336), ('said', 333), ('if', 326), ('can', 326), ('other', 322), ('what', 320), ('people', 311), ('which', 307), ('some', 304), ('most', 294), ('his', 290), ('out', 288), ('those', 284), ('when', 284), ('had', 273), ('also', 270), ('up', 256), ('get', 251), ('10', 251), ('each', 249), ('two', 228), ('just', 227), ('only', 226), ('11', 217), ('do', 217), ('new', 208), ('github', 207), ('these', 205), ('positive', 204), ('bar', 203), ('13', 202), ('them', 200), ('its', 199), ('time', 196), ('will', 192), ('been', 191), ('number', 188), ('points', 188), ('year', 187), ('14', 185), ('would', 184), ('my', 184), ('polling', 184), ('pollsters', 184), ('us', 183), ('no', 179), ('12', 178), ('many', 177), ('15', 174), ('over', 172), ('because', 172), ('much', 172), ('average', 169)]

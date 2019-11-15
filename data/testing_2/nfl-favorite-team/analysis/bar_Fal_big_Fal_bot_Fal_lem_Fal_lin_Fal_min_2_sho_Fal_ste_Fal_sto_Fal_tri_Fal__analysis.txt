@@ -1,0 +1,60 @@
+Article: nfl-favorite-team
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1555
+Raw number of types: 643
+Raw Type token ratio (higher = more diversity in language use): 0.4135048231511254
+
+100 most freq tokens before (pre)processing: 
+[('the', 7374), (',', 7131), ('.', 5027), ('of', 3741), ('a', 3158), ('to', 3017), ('and', 2734), ('in', 2729), ('’', 2526), ('that', 1691), ('s', 1394), ('for', 1263), ('is', 1219), ('on', 1079), (':', 1070), ('it', 1044), ('are', 909), ('“', 833), ('”', 832), ('with', 794), ('—', 792), ('at', 789), ('as', 770), ('we', 761), ('by', 743), ('(', 729), (')', 729), ('percent', 699), ('but', 694), ('more', 684), ('i', 660), ('our', 656), ('this', 629), ('or', 602), ('they', 592), ('you', 572), ('have', 565), ('from', 562), ('trump', 545), ('t', 536), ('team-logo', 535), ('about', 519), ('was', 516), ('than', 502), ('who', 497), ('be', 478), ('one', 474), ('data', 472), ('were', 450), ('an', 427), ('?', 421), ('has', 411), ('1', 386), ('not', 382), ('verdict', 377), ('their', 373), ('all', 369), ('<', 366), ('>', 360), ('there', 353), ('like', 350), ('how', 348), ('polls', 348), ('he', 334), ('said', 333), ('so', 323), ('if', 321), ('can', 319), ('what', 319), ('other', 317), ('people', 308), ('which', 301), ('some', 300), ('most', 291), ('his', 289), ('out', 283), ('when', 279), ('those', 277), ('had', 268), ('also', 264), ('get', 249), ('each', 248), ('up', 247), ('only', 222), ('just', 221), ('two', 218), ('do', 214), ('new', 207), ('positive', 203), ('github', 202), ('its', 199), ('these', 198), ('them', 198), (';', 195), ('time', 189), ('will', 189), ('2', 188), ('points', 187), ('been', 185), ('pollsters', 184)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1256
+Number of types: 607
+Type token ratio: 0.48328025477707004
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'sep, pm, team, blythe, terrell, nfl, data, github, github, datanflfavoriteteam, sweet, sign, hometeam, spirit, team, question, team, shop, road, year, question, rams, fan, hometown, nothing, football, mom, sport, college, basketball, board, rams, bus, cash, seat, nachos, game, comfort1, football, jerome, bettis, isaac, bruce, time, kurt, warner, marshall, faulk, show, turf, town, boom, football, nextgeneration, fan, making, toddler, st, game, season2, villain, kroenke3, plug, choice, way, los, nfl, version, person, team, loyalty, husband, team, crossstate, kansas, city, equivalent, midwestern, boy, kid, school, york, team, live, city, game, math, problem, editor, choice, search, analysis, hand, colleague, paine, ideal, team, team, ownership, city, fool, team, matter, team, neil, board, team, data, season, seahawks, breath, analysis, team, magazine, opinion, research, attempt, franchise, component, team, identity, ownership, club, fanfriendliness, tradition, website, form, category, importance, fandom, podcast, listen, team, blythe, terrell, apple, rss, code, iframe, frameborder, style, auto, maxwidth600px, src, http, fivethirtyeightcomplayerwtp17496919, iframe, turn, factor, case, example, player, behavior, fan, ownership, exercise, times4, point, amount, influence, teampicking, process, version, weight, ownership, honesty, loyalty, core, community, effort, field, likability, team, championshipsdivision, team, history, fan, courtesy, technology, distance, team, stadium, york, distance, team, stadium, louis, price, size, market, population, quality, venue, frequency, strength, leadership, stylishness, watch, paul, size, market, population, blythe, team, perfect, instance, manner, behavior, niece, dust, data, analysis, team, bay, football, memory, didn, lot, anger, team, mind, chance, appearance, wasn, ownership, structure, player, likability, future, team, tradition, aboveaverage, behavior, bay, pittsburgh, city, england, buffalo, tennessee, team, team, score, team, rating, team, player, ownership, player, effort, likability, bay, pittsburgh, city, england, buffalo, arizona, blythe, exercise, list, team, rating, category, data, trading, blue, gold, gold, experience, rams, sorry, guy, paine, analysis, video, rams, fan, team')
+
+('NNS', 'rams, questions, data, days, rams, parents, sports, fans, colts, oilers, supersonics, years, parents, licenses, tickets, siblings, turns, decades, seasons, rams, words, fans, fans, options, rams, dudes, bars, tvs, supporters, factors, players, crimes, women, patriots, categories, standings, surveys, firms, benefits, factors, ideas, podcasts, matchups, relations, uniforms, permutations, rankings, weights, factors, criteria, suspensions, players, crimes, women, players, players, wins, seasons, years, titleswins, wins, dollars, fans, uses, miles, miles, tickets, concessions, terms, promotions, terms, criteria, players, imperfections, thanks, packers, packers, fans, wins, marks, steelers, patriots, bills, predictions, rankings, categories, suspensions, wins, kansas, carolina, indianapolis, teams, criteria, rankings, criteria, github, fans, congratulations, data')
+
+('VBP', 'are, get, am, do, have, support, give, chiefs, pick, are, neil, use, espn, versus, are, are, are, lot, ve, camp, include, kansas, chiefs, like, hope, are')
+
+('JJ', 'dead, answered, new, nfl, early, pro, expos, st, louis, old, next, much, ready, personal, domed, weak, atrocious, first, last, rams, last, hometown, stan, fellow, lite, fantasy, real, nfl, nice, different, high, appealing, new, like, clear, neil, terrible, unlikely, full, other, such, violent, possible, full, deep, ultimate, similar, pro, able, own, new, app, embed, height, margin20px, headtohead, different, sample, extra, next, likely, previous, entire, team, new, fanfriendliness, onfield, uniform, uni, perfect, nfl, benign, aggregate, green, top, surprising, unique, high, offfield, green, new, dead, last, nfl, top, weight, overall, green, new, seattle, top, overall, green, la, good, sure, many, new')
+
+('VB', 'find, do, ask, ask, california, puzzle, be, cheer, be, turn, figure, support, leave, pick, have, support, quantify, canada, be, weight, blythe, discuss, have, choose, find, be, reach, st, wash, put, deal, don, cheer, check, run, find, have')
+
+('VBN', 'filed, had, been, shelled, introduced, immersed, rolled, left, based, known, suspected, committed, pledged, dictated, graded, taken, conducted, generated, selected, voted, personalized, sorted, settled, unveiled, followed, projected, weighted, listed, spoken, excited, attached')
+
+('VBG', 'holding, eating, learning, ensuing, leaving, fuming, showing, feeling, espn, longrunning, rooting, including, winning, plugging, scrolling, selecting, parking, according, having')
+
+('VBD', 'handmade, showed, was, had, rolled, was, knew, was, took, was, was, stuck, had, went, louis, pulled, hauled, left, were, saw, were, knew, went, was, went, was, was, was, was, were, calculated, reflected, created, discovered, embed, width, was, went, mattered, repeated, had, had, had, weight, projected, spent, lukas, was, scored, was, were, gave, came, contributed, spurned, found')
+
+('VBZ', 'goes, closes, hits, loves, loves, times, angeles, watches, has, uniforms, is, is, suspends, helps, includes, has, is')
+
+('JJR', 'more, more, better, smaller, bigger, winner')
+
+('JJS', 'greatest, least, most')
+
+100 most freq tokens after processing: 
+[('the', 7374), ('of', 3741), ('to', 3017), ('and', 2734), ('in', 2731), ('that', 1695), ('for', 1264), ('is', 1221), ('on', 1079), ('it', 1047), ('are', 911), ('with', 794), ('at', 790), ('as', 770), ('we', 761), ('by', 743), ('percent', 708), ('but', 694), ('more', 684), ('our', 656), ('this', 629), ('or', 602), ('they', 592), ('you', 573), ('have', 565), ('from', 562), ('trump', 546), ('teamlogo', 535), ('about', 519), ('was', 516), ('than', 502), ('who', 497), ('be', 480), ('one', 477), ('data', 472), ('were', 450), ('an', 427), ('has', 411), ('not', 382), ('verdict', 377), ('their', 373), ('all', 369), ('there', 353), ('like', 350), ('how', 348), ('polls', 348), ('he', 334), ('said', 333), ('so', 324), ('if', 321), ('can', 319), ('what', 319), ('other', 318), ('people', 308), ('which', 301), ('some', 300), ('most', 292), ('his', 289), ('out', 285), ('when', 279), ('those', 277), ('had', 268), ('also', 264), ('get', 249), ('each', 249), ('10', 247), ('up', 247), ('only', 222), ('just', 221), ('two', 218), ('11', 215), ('do', 215), ('new', 207), ('positive', 204), ('github', 202), ('bar', 201), ('its', 199), ('these', 198), ('them', 198), ('13', 198), ('time', 193), ('will', 189), ('points', 187), ('been', 186), ('polling', 184), ('pollsters', 184), ('my', 183), ('14', 182), ('us', 181), ('would', 178), ('no', 178), ('number', 178), ('12', 176), ('many', 174), ('because', 171), ('much', 169), ('donald', 168), ('15', 167), ('see', 166), ('average', 164)]

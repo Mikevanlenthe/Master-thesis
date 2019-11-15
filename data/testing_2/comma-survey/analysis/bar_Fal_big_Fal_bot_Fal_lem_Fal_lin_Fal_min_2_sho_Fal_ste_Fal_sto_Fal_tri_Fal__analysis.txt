@@ -1,0 +1,62 @@
+Article: comma-survey
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 898
+Raw number of types: 378
+Raw Type token ratio (higher = more diversity in language use): 0.4209354120267261
+
+100 most freq tokens before (pre)processing: 
+[('the', 5899), (',', 5698), ('.', 3886), ('of', 2934), ('a', 2465), ('to', 2391), ('in', 2272), ('and', 2145), ('’', 1921), ('that', 1345), ('s', 1060), ('for', 1010), ('is', 965), (':', 931), ('on', 864), ('it', 810), ('are', 710), ('“', 679), ('”', 678), ('with', 641), ('at', 621), ('as', 598), ('by', 586), ('our', 574), ('more', 568), ('—', 565), ('(', 561), (')', 561), ('we', 559), ('but', 536), ('team-logo', 535), ('trump', 516), ('they', 503), ('this', 489), ('i', 469), ('percent', 462), ('or', 460), ('you', 442), ('have', 435), ('t', 427), ('who', 425), ('from', 424), ('was', 417), ('than', 409), ('about', 408), ('one', 390), ('be', 386), ('verdict', 377), ('1', 367), ('were', 363), ('polls', 344), ('an', 336), ('has', 330), ('data', 329), ('?', 320), ('not', 312), ('all', 302), ('their', 294), ('like', 287), ('he', 280), ('how', 274), ('said', 273), ('there', 269), ('other', 266), ('if', 262), ('most', 249), ('so', 246), ('can', 243), ('those', 236), ('some', 232), ('people', 231), ('his', 227), ('which', 226), ('what', 226), ('when', 224), ('<', 209), ('>', 207), ('out', 205), ('get', 203), ('up', 198), ('also', 197), ('positive', 197), ('had', 193), ('just', 188), ('each', 184), ('pollsters', 184), ('polling', 183), ('only', 178), ('2', 178), ('%', 172), ('points', 171), (';', 170), ('two', 170), ('do', 164), ('new', 161), ('donald', 161), ('poll', 160), ('time', 159), ('github', 155), ('will', 155)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 704
+Number of types: 349
+Type token ratio: 0.49573863636363635
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, oxford, comma, walt, hickey, grammar, data, github, github, datacommasurvey, oxford, dictionary, oxford, university, press, birthplace, oxford, comma, caleb, lot, ink, oxford, comma, list, blight, comic, jfk, stalin, think, fivethirtyeight, audience, poll, june, comma, sentence, opinion, person, kind, loyal, person, kind, latter, oxford, none, pie, result, prooxford, percent, vote, tyranny, comma, percent, pie, cantor, victory, longtime, editor, language, blog, baltimore, sun, author, editor, adjunct, professor, columbia, school, journalism, veteran, york, owner, editorial, consulting, company, don, perlman, email, grammar, knuckle, sentence, loyalty, rule, mcintyre, blunt, passion, oxford, comma, effect, passionate, majority, oxford, comma, trouble, answer, oxford, comma, kind, survey, grammar, type, perlman, grammar, sentence, conjunction, preposition, explanation, parsing, speech, goal, peace, oxford, comma, preference, mcintyre, edit, baltimore, sun, press, stylebook, point, omit, middleoftheroad, view, comma, series, follower, journalism, matter, grammar, clarity, bar, note, relevant, fivethirtyeight, singular, noun, ll, majority, crowd, percentagepoint, margin, percent, percent, preferring, half, thought, usage, survey, issue, bar')
+
+('JJ', 'pm, superfluous, popular, english, grammatical, unnecessary, insufferable, ahistoric, exotic, grammatical, average, american, surveymonkey, important, honest, important, honest, former, much, middle, extra, enough, eric, clear, controversial, say, old, graduate, new, ungrammatical, deep, comic, mere, own, excellent, zealous, humble, many, good, good, start, good, coherent, latinate, such, deep, thought, clear, unambiguous, own, pure, personal, associated, rabid, serial, simple, formative, bad, final, particular, preferred, plural, plural, conclusive, vast, singular')
+
+('VBP', 'elitist, get, ap, ve, have, camp, believe, re, correct, john, don, perlman, know, suspect, have, ve, tend, tend, think, think, are, are, think, are, don, end, exist, ve, didn, have, are, exist, prefer, are, think, are')
+
+('VBD', 'polled, ran, fell, asked, was, was, asked, said, were, learned, escaped, found, said, was, said, took, drummed, asked, put, had')
+
+('NNS', 'americans, data, jones, things, dancers, experts, americans, respondents, partisans, opponents, numbers, oxfordians, pros, times, people, rules, raps, mouths, partisans, hearts, minds, rivals, people, people, people, rules, don, rules, things, references, parts, linguistics, years, rules, interests, people, data, terms, data, respondents, data, respondents, data, data, respondents')
+
+('VBN', 'filed, published, been, spilled, seen, dressed, weighed, split, taught, accompanied, feigned, performed, had, wondered, lost, used, won, put')
+
+('VBZ', 'comma, goes, is, does, loyal, has, comma, is, says, comes, is, is, is, is, is, does, follows, perlman, is, is, seems')
+
+('JJR', 'more, less, matter')
+
+('VBG', 'asking, commanding, grabbing, posturing, winning, following, knowing, writing, following, knowing, using, liking, pressing')
+
+('VB', 'wouldn, be, be, be, defeat, instill, think, prefer, be, tell, be, hear, do, involve, matter, there, be, be, believe, say')
+
+('NNP', 'merrill')
+
+('JJS', 'most, most')
+
+100 most freq tokens after processing: 
+[('the', 5899), ('of', 2934), ('to', 2391), ('in', 2273), ('and', 2145), ('that', 1349), ('for', 1011), ('is', 966), ('on', 864), ('it', 813), ('are', 712), ('with', 641), ('at', 622), ('as', 598), ('by', 586), ('our', 574), ('more', 568), ('we', 559), ('but', 536), ('teamlogo', 535), ('trump', 517), ('they', 503), ('this', 489), ('percent', 467), ('or', 460), ('you', 442), ('have', 435), ('who', 425), ('from', 424), ('was', 417), ('than', 409), ('about', 408), ('one', 393), ('be', 387), ('verdict', 377), ('were', 363), ('polls', 344), ('an', 336), ('has', 330), ('data', 329), ('not', 312), ('all', 302), ('their', 294), ('like', 287), ('he', 280), ('how', 274), ('said', 273), ('there', 269), ('other', 267), ('if', 262), ('most', 250), ('so', 247), ('can', 243), ('those', 236), ('some', 232), ('people', 231), ('his', 227), ('which', 226), ('what', 226), ('when', 224), ('10', 217), ('out', 207), ('get', 203), ('11', 199), ('positive', 198), ('up', 198), ('also', 197), ('had', 193), ('just', 188), ('each', 184), ('polling', 184), ('pollsters', 184), ('13', 181), ('only', 178), ('14', 173), ('points', 171), ('two', 170), ('do', 164), ('12', 163), ('donald', 162), ('new', 161), ('time', 161), ('poll', 160), ('github', 155), ('will', 155), ('them', 153), ('15', 153), ('average', 150), ('no', 150), ('its', 149), ('number', 149), ('would', 148), ('been', 148), ('election', 147), ('many', 143), ('league', 143), ('these', 137), ('us', 135), ('neutral', 135), ('much', 135)]

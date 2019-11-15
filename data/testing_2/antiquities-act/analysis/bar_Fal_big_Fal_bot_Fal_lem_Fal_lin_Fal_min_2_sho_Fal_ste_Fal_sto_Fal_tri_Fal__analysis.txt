@@ -1,0 +1,60 @@
+Article: antiquities-act
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 822
+Raw number of types: 346
+Raw Type token ratio (higher = more diversity in language use): 0.4209245742092457
+
+100 most freq tokens before (pre)processing: 
+[('the', 2606), (',', 2573), ('.', 1571), ('of', 1224), ('a', 1089), ('in', 1012), ('to', 971), ('and', 878), ('’', 750), (':', 601), ('that', 577), ('s', 448), ('our', 441), ('on', 412), ('for', 410), ('is', 409), ('it', 392), ('verdict', 377), ('with', 304), ('1', 281), ('at', 279), ('trump', 277), ('“', 261), ('”', 260), ('—', 257), ('more', 251), ('i', 251), ('by', 249), ('are', 247), ('(', 246), (')', 246), ('percent', 239), ('but', 234), ('as', 232), ('this', 227), ('we', 201), ('than', 197), ('from', 191), ('have', 190), ('was', 189), ('positive', 187), ('about', 179), ('like', 176), ('data', 163), ('or', 163), ('you', 160), ('t', 159), ('an', 158), ('he', 148), ('has', 147), ('they', 146), ('donald', 146), ('one', 145), ('be', 142), ('his', 136), ('neutral', 132), ('who', 119), ('not', 114), ('their', 114), ('other', 113), ('were', 112), ('all', 111), ('so', 110), ('out', 110), ('<', 110), ('when', 110), ('/', 108), ('>', 106), ('people', 104), ('most', 101), ('?', 100), ('what', 100), ('there', 97), ('which', 97), ('get', 96), ('up', 96), ('some', 94), ('my', 92), ('can', 91), ('those', 90), ('if', 89), ('how', 89), ('2', 87), ('only', 85), ('just', 85), (';', 83), ('me', 83), ('negative', 82), ('trump�', 82), ('state', 82), ('model', 78), ('films', 77), ('also', 75), ('do', 75), ('said', 75), ('3', 73), ('its', 72), ('new', 72), ("'m", 72), ('had', 70)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 713
+Number of types: 329
+Type token ratio: 0.46143057503506313
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'trump, president, monument, ella, koeze, trump, administration, data, github, github, dataantiquitiesact, president, trump, executive, order, wednesday, department, monuments1, willingness, monument, status, monument, president, barack, obama, site, month, administration, creation, monument, ire, sen, hatch, government, approval, act, president, protection, par, site, act, president, site, status, conservation, association, group, conservation, monument, status, president, site, monument, status, fact, act, power, monument, status, point, monument, designation, ground, share, land, government, land4, half, threshold, trump, executive, order, government, west, land, responsibility, monument, half, country, giant, park, state, survey, database, state, land, us5, land, designation, monument, kind, protection, land, government, designation, government, reign, land, drilling, logging, executive, order, trump, power, nation, trump, office, administration, ban, lead, fishing, order, rule, protection, water, trump, resolution, coal, land, order, indication, trump, administration, conservation, poll, percent, land, percent, amount, percent, land, west, home, land, popularity, hunting, fishing, conservation, bar, fact, secretary, zinke, montana, teddy, conservationist, monument, zinke, boss, president')
+
+('VB', 'be, scrap, review, be, revoke, designate, alter, damage, address, rescind, be, cover, review, try, map, have, be, reshape, review, operate, go, be, be, be, abolish')
+
+('JJ', 'first, national, interior, national, recent, national, national, utah, former, final, such, large, utah, orrin, federal, national, congressional, national, national, national, nonprofit, public, national, many, national, other, national, national, legal, trump, national, new, national, small, federal, states3, national, national, several, past, subject, several, federal, national, different, western, pristine, natural, geological, national, regional, local, public, such, national, special, such, public, executive, federal, joint, public, recent, symbolic, american, national, popular, nbc, newssurveymonkey, february, national, right, recreational, such, many, trump, interior, ryan, teddy, first, national, first')
+
+('VBN', 'filed, published, created, signed, revoked, collected, been, revoked, been, redesignated, protected, owned, designated, established, managed, owned, freer, allowed, repealed, owned, signed, been, conducted, protected, protected, protected')
+
+('VBP', 'get, trump, receive, land, have, congress, have, disagree, ears, make, act, are, mean, bar, have, support, roosevelt')
+
+('NNS', 'data, predecessors, sites, bears, bears, acres, conservatives, presidents, monuments, thanks, antiquities, teddy, monuments, parks, activities, data, parks, sites, others, parks, kinds, sites, cases, antiquities, presidents, scholars, removes, bears, monuments, monuments, antiquities, acres, monuments, others, administrations, acres, agencies, monuments, agencies, data, agencies, areas, activities, cattle, lands, lures, bullets, lands, bodies, companies, policies, people, parks, respondents, parks, activities, means, conservatives, conservatives, roosevelt')
+
+('VBD', 'signed, designated, raised, called, roosevelt, took, were, kept, had, was, used, took, issued, said, said, was, said, established')
+
+('VBG', 'instructing, signaling, including, preventing, according, testing, including, depending, determining, including, grazing, using, making, rejecting')
+
+('VBZ', 'appears, ears, ears, covers, has, promotes, has, does, ll, owns, is, falls, doesn, is, maintains, aggregates, evaluates, has, offers, does, has, has, extends, has, is, is, is, is, describes')
+
+('JJS', 'largest, latest, most')
+
+('JJR', 'smaller, easier, more, less')
+
+100 most freq tokens after processing: 
+[('the', 2606), ('of', 1224), ('in', 1012), ('to', 971), ('and', 878), ('that', 579), ('our', 441), ('on', 412), ('for', 411), ('is', 409), ('it', 393), ('verdict', 377), ('with', 304), ('at', 279), ('trump', 277), ('more', 251), ('by', 249), ('are', 247), ('percent', 243), ('but', 234), ('as', 232), ('this', 227), ('we', 201), ('than', 197), ('from', 191), ('have', 190), ('was', 189), ('positive', 188), ('about', 179), ('like', 176), ('data', 163), ('or', 163), ('you', 160), ('an', 158), ('one', 148), ('he', 148), ('has', 147), ('donald', 147), ('they', 146), ('be', 143), ('his', 136), ('neutral', 132), ('who', 119), ('not', 114), ('their', 114), ('other', 113), ('were', 112), ('so', 111), ('out', 111), ('all', 111), ('when', 110), ('people', 104), ('most', 101), ('what', 100), ('there', 97), ('which', 97), ('get', 96), ('up', 96), ('some', 94), ('my', 92), ('can', 91), ('those', 90), ('if', 89), ('how', 89), ('only', 85), ('just', 85), ('me', 84), ('negative', 82), ('trump�', 82), ('state', 82), ('10', 80), ('model', 78), ('films', 77), ('also', 75), ('do', 75), ('said', 75), ('bar', 73), ('its', 72), ('new', 72), ('had', 70), ('github', 69), ('polls', 68), ('�i', 67), ('each', 66), ('year', 64), ('rock', 62), ('national', 62), ('where', 61), ('2015', 61), ('women', 61), ('2014', 60), ('been', 59), ('hillary', 59), ('time', 59), ('would', 58), ('them', 58), ('these', 57), ('film', 57), ('two', 56), ('no', 55)]

@@ -1,0 +1,60 @@
+Article: poll-of-pollsters/most-pollsters-say-their-reputations-have-worsened
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1514
+Raw number of types: 570
+Raw Type token ratio (higher = more diversity in language use): 0.3764861294583884
+
+100 most freq tokens before (pre)processing: 
+[('the', 3508), (',', 3463), ('.', 2259), ('of', 1737), ('a', 1448), ('to', 1387), ('in', 1380), ('and', 1244), ('’', 1107), ('that', 791), (':', 684), ('s', 623), ('for', 562), ('is', 542), ('on', 516), ('it', 516), ('our', 485), ('“', 412), ('”', 411), ('with', 395), ('at', 392), ('are', 384), ('verdict', 377), ('by', 352), ('more', 352), ('(', 339), (')', 339), ('as', 336), ('—', 329), ('but', 319), ('i', 318), ('this', 310), ('we', 310), ('percent', 305), ('trump', 300), ('1', 291), ('than', 266), ('you', 262), ('was', 261), ('have', 259), ('from', 255), ('t', 246), ('about', 244), ('they', 242), ('or', 240), ('who', 231), ('be', 224), ('data', 222), ('one', 220), ('like', 212), ('an', 204), ('were', 192), ('positive', 190), ('he', 186), ('has', 185), ('said', 178), ('all', 168), ('most', 167), ('their', 167), ('polls', 163), ('not', 162), ('other', 153), ('his', 153), ('donald', 152), ('people', 149), ('if', 145), ('there', 145), ('?', 143), ('when', 143), ('so', 141), ('out', 141), ('can', 139), ('those', 139), ('what', 138), ('some', 133), ('neutral', 132), ('which', 131), ('<', 130), ('how', 129), ('>', 128), ('pollsters', 125), ('/', 124), ('up', 124), ('get', 122), ('just', 122), ('also', 115), ('each', 114), ('had', 112), ('my', 111), ('only', 107), ('do', 101), ('will', 101), ('github', 98), ('2', 98), (';', 96), ('state', 96), ('me', 95), ('two', 95), ('new', 94), ('would', 93)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1263
+Number of types: 543
+Type token ratio: 0.42992874109263657
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('VBP', 'am, say, have, hank, have, are, are, do, think, make, ve, aggregate, combine, are, are, are, do, have, are, have, know, re, have, hadn, have, think, weren, don, do, therefore, contention, are, shouldn, overstate, find, are, stand, are, are, use, do, use, are, are, have, ask, ll, disagreed, are, tell, disagreed, are, ve, say, ve, expect, expect')
+
+('NNS', 'pollsters, reputations, data, data, datapollofpollsters, years, votes, losers, pollsters, reputations, pollsters, people, pollsters, twothirds, questions, people, responses, pollsters, politics, pollsters, media, strands, media, moments, polls, results, moments, midterms, media, organizations, polls, sins, pollsters, aggregators, polls, organizations, media, reports, claims, pyramids, americans, things, pollsters, polls, polls, methods, respondents, media, pollsters, results, calamities, years, pollsters, pollsters, indicators, data, scientists, scientists, pollsters, innovations, data, effects, rates, people, people, rates, years, pollsters, polls, results, failures, rates, declines, reasons, pollsters, results, people, polls, results, factors, media, critiques, rogers, polls, pollsters, media, makers, polls, polls, moines, findings, caucuses, pollsters, states, primaries, states, nevada, votes, pollsters, interviews, numbers, pollsters, voices, panels, pollsters, polls, polls, polls, supporters, polls, people, votes, pollsters, predictions, surveyusa, polls, years, pollsters, voters, media, polls, matchups, trump, pollsters, seats, republicans, pollsters, pollsters, republicans, seats, marco, polls, polls, pollsters')
+
+('VBN', 'worsened, filed, been, cast, improved, declined, improved, declined, covered, used, blamed, balanced, dipped, blamed, meant, recorded, narrowed, advised, taken, been, named, named, ted, named, named')
+
+('NN', 'carl, bialik, election, github, github, schwab, atlanta, campaign, gathering, support, david, perdue, jason, getz, getty, election, set, campaign, nation, polling, image, election, none, image, dozen, pollsters1, perception, election, trump, twitter, account, work, everyone, questionnaire, pdf, github, list, footnotes2, tactic, criticism, industry, election, year, israel, greece, tarnishing, ben, carson, grain, story, carvalho, college, accuracy, story, election, towery, opinion, savvy, field, selection, everyone, image, dropp, morning, consult, work, recruitment, computer, innovation, industry, shape, midterm, year, question, industry, shape, use, voter, technology, response, gourevitch, strategy, group, response, election, response, rate, threat, borick, muhlenberg, college, electorate, response, group, accuracy, electorate, polling, election, study, pew, respond, matter, clark, election, accuracy, team, work, expertise, regardless, institution, methodology, concern, accuracy, yorker, article, jill, scientist, lindsay, monstrosity, certainty, poll, majority, policy, emphasis, blueprint, policy, selzer, selzer, company, firm, majority, imagine, world, poll, polling, test, month, vote, iowa, caucus, system, hampshire, iowa, calendar, state, vote, colleague, harry, telephone, trump, liveinterview, voice, response, online, question, gap, support, type, poll, morning, consult, experiment, question, trump, liveinterview, trump, candidate, person, fivethirtyeight, candidate, jeb, bush, primary, vote, primary, series, state, majority, unsure, critique, something, mood, country, blum, blum, weprin, leve, primary, meaningless, majority, unsure, shouldn, attention, generalelection, clinton, vs, stage, race, story, election, race, control, senate, number, gop, majority, house, forecasting, race, one, anyone, clinton, nominee, opponent, cruz, chris, christie, one, trump, jim, gilmore, guide, election, coverage, polling')
+
+('VB', 'get, be, find, kentucky, store, believe, say, say, reach, reach, be, continue, buffer, skew, be, be, know, know, get, name, poll, study, acknowledge, be, win, control, hold, hold, rubio, be')
+
+('VBZ', 'worn, sen, images, outfits, has, does, is, is, is, leads, is, distorts, is, is, is, improves, drives, is, misses, is, is, remains, is, wants, des, is, has, follows, remains, has, suggests, does, is, associates')
+
+('JJ', 'past, nov, atlanta, prominent, public, public, few, prolific, prominent, political, public, donald, positive, classic, many, first, much, bad, miss, last, uk, second, bad, good, few, bad, ok, third, uncritical, outlandish, such, egypt, many, outlandish, wrong, interesting, barbara, marist, several, several, highprofile, past, matthew, natural, kyle, several, positive, scrutiny, same, negative, nick, global, low, surprised, missed, recent, chris, older, dramatic, such, predictive, several, aren, different, other, julia, ipsos, dependent, recent, new, political, majoritarian, undue, ann, helpful, few, other, notable, immediate, next, iowa, toughest, next, new, primary, third, other, live, online, interactive, much, open, trump, reluctant, preferred, republican, ignoring, national, national, next, slim, helpful, micheline, jay, national, hypothetical, hillary, donald, big, tight, presidential, hillary, democratic, republican, harry, prior')
+
+('VBG', 'according, working, measuring, shaping, feeling, using, doing, filtering, polling, doing, doing, quantifying, lumping, polling, nailing, evolving, succumbing, declining, polling, declining, trying, materializing, citing, overseeing, polling, polling, finding, polling, affecting, paying, covering')
+
+('VBD', 'asked, answered, said, had, said, had, was, posed, found, responded, blamed, were, said, said, were, said, were, were, said, acknowledged, were, were, said, agreed, pointed, increased, was, was, responded, said, was, said, said, were, said, said, surprised, pointed, found, said, wrote, said, put, said, did, asked, got, got, was, was, had, noted, found, said, trusted, said, said, said, predicted, said, said, predicted, thought, read')
+
+('JJS', 'best, most, least, least')
+
+('JJR', 'better, harder, more, more, harbinger, higher, older, more, more, lower, more, worse, worse')
+
+100 most freq tokens after processing: 
+[('the', 3508), ('of', 1737), ('to', 1387), ('in', 1380), ('and', 1244), ('that', 794), ('for', 563), ('is', 542), ('it', 517), ('on', 516), ('our', 485), ('with', 395), ('at', 392), ('are', 385), ('verdict', 377), ('by', 352), ('more', 352), ('as', 336), ('but', 319), ('this', 310), ('we', 310), ('percent', 309), ('trump', 300), ('than', 266), ('you', 262), ('was', 261), ('have', 259), ('from', 255), ('about', 244), ('they', 242), ('or', 240), ('who', 231), ('be', 225), ('one', 223), ('data', 222), ('like', 212), ('an', 204), ('were', 192), ('positive', 191), ('he', 186), ('has', 185), ('said', 178), ('all', 168), ('most', 167), ('their', 167), ('polls', 163), ('not', 162), ('other', 154), ('donald', 153), ('his', 153), ('people', 149), ('if', 145), ('there', 145), ('when', 143), ('so', 142), ('out', 142), ('can', 139), ('those', 139), ('what', 138), ('some', 133), ('neutral', 132), ('which', 131), ('how', 129), ('pollsters', 125), ('up', 124), ('get', 122), ('just', 122), ('also', 115), ('each', 114), ('had', 112), ('my', 111), ('only', 107), ('10', 102), ('do', 101), ('will', 101), ('github', 98), ('me', 96), ('state', 96), ('two', 95), ('new', 94), ('would', 93), ('polling', 92), ('its', 90), ('year', 89), ('bar', 89), ('first', 85), ('time', 85), ('negative', 83), ('number', 83), ('model', 83), ('points', 83), ('trump�', 82), ('these', 80), ('election', 79), ('them', 78), ('many', 77), ('national', 77), ('films', 77), ('likely', 76), ('no', 76)]

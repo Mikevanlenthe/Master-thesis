@@ -1,0 +1,153 @@
+Sentence nr: 0
+Feb. 2, 2016 at 6:47 PM Iowa Teaches Pollsters To Poll Until The End By Carl Bialik Filed under 2016 Election Get the data on GitHub GitHub data at data/poll-of-pollsters FacebookTwitterEmail People sign in as they arrive at a Democratic Party caucus at Jackson Township Fire Station on Monday in Keokuk, Iowa.
+
+Sentence nr: 1
+MICHAEL B. THOMAS / AFP / Getty Images Most Iowa polls showed Donald Trump winning the state’s Republican caucuses.
+
+Sentence nr: 2
+He didn’t.
+
+Sentence nr: 3
+Some Iowa polls showed Hillary Clinton winning Iowa easily.
+
+Sentence nr: 4
+She didn’t.
+
+Sentence nr: 5
+It’s notoriously hardto poll Iowa, but what can pollsters learn from Monday night’s results to improve their work over the next few months — and for the 2020 caucuses?
+
+Sentence nr: 6
+One of the biggest lessons was a simple one: Keep on contacting voters as late as possible.
+
+Sentence nr: 7
+“Stay in the field until the night before the event, if possible,” said Christine Matthews of the Republican consulting firm Burning Glass Consulting.
+
+Sentence nr: 8
+Matthews was one of eight pollsters who were active in Iowa and who responded to a small poll of pollsters we conducted the day after the caucuses to ask how they thought the polls did, and what lessons they learned.
+
+Sentence nr: 9
+(You can find the questionnaire in this PDF, all the responses on GitHub, and a list of the pollsters who responded in the footnotes.1)2 “Look for the trend at the end,” said Doug Kaplan, managing partner of Gravis Marketing.
+
+Sentence nr: 10
+That sounds like a wise approach because of the success by two pollsters whose final Iowa polls started at a later date than anyone else: last Friday, January 29.
+
+Sentence nr: 11
+The two pollsters, Emerson College and Opinion Savvy, both showed Donald Trump leading Ted Cruz by just one percentage point, with Marco Rubio either close behind or tied.
+
+Sentence nr: 12
+Most other polls started before the last debate and many finished before it, too.
+
+Sentence nr: 13
+They generally showed Trump with a bigger lead and Rubio trailing him by more than 10 percentage points.
+
+Sentence nr: 14
+Cruz finished with 28 percent of the vote, Trump with 24 percent and Rubio with 23 percent.
+
+Sentence nr: 15
+(In our poll, pollsters from both Emerson and Opinion Savvy named their own polling organization as among those who did the best job in Iowa.)
+
+Sentence nr: 16
+Then again, polling late, after the last debate, is difficult.
+
+Sentence nr: 17
+“I guess if there’s a lesson, it’s to keep on polling through the night before the election,” said Tom Jensen, director of the Democratic firm Public Policy Polling.
+
+Sentence nr: 18
+“But polling’s never been more expensive so I don’t know how many organizations really have the resources to do more than they already are.” New Hampshire poses a specific, daunting problem for anyone who wants to poll late.
+
+Sentence nr: 19
+The next Republican debate is on Saturday night, and one of the two days between the debate and next Tuesday’s primary in the state is Super Bowl Sunday.
+
+Sentence nr: 20
+“So it’s basically impossible to poll in New Hampshire after the debates at a time when you will reasonably be able to reach people,” Jensen said.
+
+Sentence nr: 21
+“We are leaning toward skipping polling New Hampshire for that reason.” Also, in the Democratic caucus, polling late wasn’t as much of a clear advantage.
+
+Sentence nr: 22
+Emerson’s late poll showed Hillary Clinton leading Bernie Sanders by 8 percentage points.
+
+Sentence nr: 23
+The two finished in a virtual tie, which was closer to the results found by other pollsters who’d started earlier than Emerson did.
+
+Sentence nr: 24
+So another lesson from Iowa ought to be one that usually applies when drawing conclusions about quadrennial events: Don’t extrapolate too much from a small number of events.
+
+Sentence nr: 25
+While many polls greatly overestimated Trump’s support, several polling watchers — including my boss — emphasized that the polls didn’t have such a bad night.
+
+Sentence nr: 26
+People who think Iowa polls had an especially bad night really need to read what we posted this afternoon: https://t.co/QXTlNblGfE — Nate Silver (@NateSilver538) February 2, 2016 Most pollsters who responded to us seemed glad it was over.
+
+Sentence nr: 27
+Just one of eight said polls had a good night, three said they didn’t and four were unsure.
+
+Sentence nr: 28
+“It wasn’t a total disaster, but most of the polls failed to capture some of the basic trends,” according to one of the three “no” votes, Matthew Towery, founder of Opinion Savvy.
+
+Sentence nr: 29
+“I don’t know if it was simply that some were in the field too early, or if their screening, turnout, and weighting models were just off.
+
+Sentence nr: 30
+Nevertheless, this will likely go down in history as the worst round of modern polling for the Iowa caucus to date.” Two pollsters said Selzer & Co. did the worst job in capturing the horse-race numbers.
+
+Sentence nr: 31
+Clare Malone’s profile for this site last week called the company’s founder and president Ann Selzer “the best pollster in politics,” but Selzer hasn’t been immune to the challenges of polling Iowa.
+
+Sentence nr: 32
+For the third straight Republican presidential caucus, her final Iowa poll for The Des Moines Register underestimated the support of the eventual winner, who each time was the favorite choice of evangelical voters.
+
+Sentence nr: 33
+“They continue to undercount the evangelicals in the GOP side,” said Spencer Kimball, advisor to the Emerson College Polling Society.
+
+Sentence nr: 34
+But Jensen defended Selzer’s work: “Her poll was probably correct at the time she did it.
+
+Sentence nr: 35
+It’s unreasonable to think that everything is going to stay in amber as soon as her field period ends.” (Another pollster named Selzer as the pollster who did the best job for catching general trends and coming close on the levels of support of candidates below the top three.)
+
+Sentence nr: 36
+Selzer was one of 18 Iowa pollsters who didn’t respond to our poll, but she did respond to an email about her work.
+
+Sentence nr: 37
+“We modeled higher evangelical turnout,” Selzer said.
+
+Sentence nr: 38
+“Who would have expected 64%?3 Especially with that community, things happen the Sunday before the caucus that end up in no one’s data.
+
+Sentence nr: 39
+I’m feeling good today.
+
+Sentence nr: 40
+Caucuses are hard to poll — that’s no secret to pollsters or my clients.” Ann Selzer on the polling fizzle: "If I’m demoted to 'silver standard,' I’m fine with that.
+
+Sentence nr: 41
+I was never all that comfortable with the hype."
+
+Sentence nr: 42
+— Dave Weigel (@daveweigel) February 2, 2016 We also asked pollsters for their predictions for New Hampshire and beyond.
+
+Sentence nr: 43
+Though FiveThirtyEight’s polls-only forecast projects Trump to win New Hampshire by nearly 20 percentage points as of Tuesday, no one thought Trump would win by such a big margin.
+
+Sentence nr: 44
+Two pollsters said he’d win by between 10 and 19 points, four said he’d win by a single-digit margin and one said he’d finish second for the second straight contest.
+
+Sentence nr: 45
+Just one of seven pollsters predicted Trump would be the Republican nominee; the rest picked Rubio.
+
+Sentence nr: 46
+All seven pollsters who predicted the Democratic nominee, meanwhile, said it would be Clinton.
+
+Sentence nr: 47
+CORRECTION (Feb. 2, 10:40 p.m.): An earlier version of this article incorrectly described the opinion poll forecasts for Donald Trump before the Iowa caucuses.
+
+Sentence nr: 48
+The polls largely overestimated his support, not underestimated it.
+
+Sentence nr: 49
+Hey, you should sign up for our weekly 2016 newsletter, “What I Thought About Over The Weekend.” Listen to the latest episode of the FiveThirtyEight politics podcast.
+
+Sentence nr: 50
+By Carl Bialik More: Apple Podcasts | ESPN App | RSS | Embed Embed Code <iframe frameborder="0" width="100%" height="180" style="margin:20px auto 25px;max-width:600px;" scrolling="no" src="https://fivethirtyeight.com/player/politics/22588832/"></iframe>
+

@@ -1,0 +1,62 @@
+Article: classic-rock
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 2450
+Raw number of types: 767
+Raw Type token ratio (higher = more diversity in language use): 0.3130612244897959
+
+100 most freq tokens before (pre)processing: 
+[(',', 2148), ('the', 2104), ('.', 1266), ('of', 991), ('a', 894), ('in', 830), ('to', 794), ('and', 700), ('’', 632), (':', 544), ('that', 494), ('our', 437), ('s', 378), ('verdict', 377), ('is', 342), ('for', 342), ('on', 338), ('it', 334), ('1', 265), ('with', 252), ('trump', 246), ('i', 237), ('at', 219), ('“', 215), ('”', 214), ('more', 210), ('—', 199), ('this', 196), ('by', 194), ('(', 187), (')', 187), ('positive', 187), ('percent', 180), ('as', 180), ('but', 178), ('are', 175), ('we', 173), ('than', 169), ('like', 164), ('was', 156), ('from', 155), ('about', 147), ('have', 143), ('donald', 142), ('an', 139), ('t', 137), ('he', 136), ('you', 135), ('neutral', 132), ('data', 125), ('or', 124), ('his', 122), ('has', 119), ('one', 119), ('be', 115), ('/', 102), ('they', 98), ('not', 94), ('out', 94), ('other', 92), ('who', 92), ('what', 90), ('were', 89), ('my', 88), ('?', 88), ('when', 88), ('so', 86), ('their', 84), ('all', 84), ('negative', 82), ('trump�', 82), ('me', 81), ('2', 81), ('there', 78), ('how', 78), ('<', 78), ('>', 78), ('state', 78), ('which', 77), ('some', 75), ('up', 75), ('people', 74), ('most', 73), ('get', 72), ('just', 72), ("'m", 72), ('films', 71), ('can', 70), ('3', 70), ('model', 70), ('if', 69), (';', 69), ('�i', 67), ('polls', 67), ('said', 66), ('10', 64), ('only', 61), ('those', 61), ('rock', 61), ('do', 60)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 1990
+Number of types: 732
+Type token ratio: 0.3678391959798995
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jul, rock, isn, hickey, music, zeppelin, left, day, rock, radio, music, zeppelin, rock, crüe, osbourne, child, rock, day, idiot, rock, station, time, band, rock, anyone, music, period, time, moment, rem, guns, rock, station, rock, amount, collection, analysis, algorithms, answer, question, one, band, intention, rock, sort, something, genre, band, house, part, music, business, rock, target, music, banner, music, radio, streaming, service, problem, connection, music, state, rock, rock, radio, country, week, june, result, cleaning, list, record, song, rock, music, era, york, disproportionate, amount, joel, example, san, antonio, mötley, crüe, bar, rock, region, example, los, jam, band, rest, country, boston, allman, today, rock, timeline, release, set, music, database, songfactscom, line, wasn, coverage, accurate, release, year, percent, percent, song, set, date, majority, booker, mgs, number, mid, rock, song, fairness, year, release, pink, floyd, side, moon, album, rock, zeppelin, holy, elton, john, goodbye, brick, road, trend, rest, line, line, period, percent, song, set, trickle, music, onward, trickle, day, song, article, year, dent, line, nirvana, metallica, wave, rock, song, rock, popularity, band, longevity, sound, bunch, rock, rock, brand, manager, channel, radio, set, programming, director, york, rock, station, waxq, wellman, release, nothing, song, rock, ability, genre, longevity, fact, radio, selection, radio, company, rock, consumer, genre, standard, industry, music, test, music, test, sample, rate, song, slew, wellman, cluster, music, core, rock, rem, rock, wellman, rock, radio, observation, period, zeppelin, van, halen, half, rock, way, percent, percent, song, rock, core, rock, cooler, station, mix, rest, country, definition, rock, city, list, set, city, zeppelin, pack, york, percent, zep, tom, heck, tampa, wxgl, station, character, audience, rock, amount, market, research, wellman, example, rock, immigration, role, influx, rock, landscape, wisdom, rock, brand, englishlanguage, rock, influence, migration, role, york, country, artist, rock, miami, city, set, artist, rock, station, map, rock, click, image, rock, tend, style, rock, band, history, set, knowledge, djs, role, songpicking, dj, wellman, magic, collection, analysis, radio, rock, echo, part, work, methodology, isn, channel, center, rock, etc, center, radio, music, charge, genre, algorithm, nest, math, set, use, lot, math, rest, center, order, genre, mountain, web, news, anything, map, map, universe, example, artist, point, space, mcdonald, point, point, genre, mcdonald, cluster, form, addition, musicanalysis, software, genre, tempo, energy, loudness, danceability, song, dense, bouncy, music, range, minute, rock, rock, mcdonald, range, tempo, drum, machine, nest, person, drum, tempo, machine, timing, giveaway, rock, genre, rock, steel, direction, air, time, waxq, tomorrow, wellman, baby, gen, age, advertising, demographic, rock, correction, footnote, version, story, incorrect, call, rock, station, houston, listen, rock, rock, playlist, spotify')
+
+('VBP', 'am, get, are, go, choose, hear, go, live, are, are, make, are, have, are, wellman, consider, find, like, consider, account, re, are, re, do, are, listen, ll, plays, think, have, think, tend, do, are, change, have, re, re, figure, glenn, start, are, have, go, read, read, read, read, wikipedia, re, are, mcdonald, are, say, are, drum, wellman, am')
+
+('JJ', 'classic, walt, green, classic, different, getty, classic, mötley, ozzy, u2, nirvana, classic, many, green, american, classic, few, first, classic, long, enough, own, classic, classic, massive, classic, techno, tricky, classic, challenging, different, same, internet, deep, current, classic, united, classic, metropolitan, substantial, unique, unique, total, classic, certain, new, classic, unexpected, pearl, popular, classic, able, complete, able, early, vast, beatles, few, large, early, classic, huge, dark, classic, yellow, mid, small, green, last, actual, due, last, classic, classic, other, classic, classic, clear, new, classic, classic, such, regular, major, classic, online, auditorium, familiar, whole, classic, classic, simple, classic, mostplayed, weeklong, top, rolling, classic, classic, essential, classic, classic, next, mostplayed, new, petty, own, classic, massive, south, wellman, hispanic, southern, united, common, conventional, new, played, miami, new, classic, local, regional, classic, classic, contemporary, institutional, dead, fireable, offense, worth, classic, spotify, song, huge, echo, different, clear, universe, classic, floyd, echo, universe, different, echo, blog, much, relational, similar, musical, close, other, echo, nest, sophisticated, different, acoustic, electric, spare, atmospheric, particular, electronic, finite, classic, classic, much, echo, actual, minor, human, unmechanical, dead, clear, classic, hard, next, classic, eventual, key, next, classic, classic, classic, other, fivethirtyeight, classic')
+
+('VBD', 'used, right, were, heard, was, was, grew, made, monitored, was, coded, found, won, pulled, was, appeared, was, led, held, inspired, was, spoke, said, said, said, said, were, studied, made, played, said, said, retired, looked, played, said, decided, was, said, said, was, said, said, mcdonald, said, listed, monitored, was')
+
+('VB', 'be, be, hear, wonder, see, put, get, get, make, u2, find, eric, do, grow, make, find, define, gather, have, get, quantify, change, get, move, stand, stay, specialize, understand, figure, play, englishlanguage, see, be, classic, find, see, philadelphia, prefer, favor, radio, decide, play, song, digitalnative, see, generate, pick, be, find, extrapolate, define, find, do, read, read, know, figure, detect, mimic, be, define, come, economics, happen, chase, start, skew, kkrw')
+
+('VBN', 'filed, led, played, made, led, doubted, shocked, referred, related, been, lumped, fly, influenced, listed, peaked, considered, released, considered, based, given, based, played, led, played, led, played, informed, focused, been, owned, used, zeppelin, based, complicated, allowed, interpreted, defined, painted, powered, set, based, kglk, mostplayed')
+
+('NNS', 'stations, bands, decades, images, bands, weeks, colleagues, roses, data, fits, kinds, people, data, states, stations, areas, data, songs, artists, plays, stations, ways, angeles, times, brothers, times, years, songs, songs, songs, songs, exceptions, kinks, songs, plays, staples, houses, accounts, plays, listings, releases, groups, matters, factors, artists, stations, data, years, consumers, tastes, things, stations, data, decisions, resources, studies, markets, listeners, days, songs, hooks, parts, data, stations, people, consumers, songs, stations, likes, stones, spins, stations, bands, stations, musicians, artists, songs, waxq, eagles, preferences, stations, listeners, songs, listeners, plays, states, hispanics, markets, states, stations, yorkers, preferences, cities, stations, legacies, detroit, geils, beatles, cities, stations, stations, companies, data, stations, decades, startups, services, uses, data, recommendations, artists, genres, stations, interviews, tests, mcdonald, artists, artists, relationships, artists, data, collects, users, histories, machines, charts, posts, articles, entries, inputs, artists, points, webcrawlers, histories, uses, qualities, songs, dimensions, genres, dimensions, beats, strokes, imperfections, beats, agrees, channel, things, boomers, xers, years, things, advertisers, numbers, hits, songs')
+
+('VBZ', 'is, listens, experiences, is, turns, starts, happens, is, has, is, reveals, looks, is, changes, plays, prefers, is, is, is, bar, plays, belongs, is, is, makes, does, owns, makes, is, conducts, is, makes, finds, rem, is, artists, is, plays, shows, is, cool, is, demonstrates, looks, finds, appears, has, comes, changes, is, is, is, shows, is, is, entails, does, orbits, goes, mcdonald, has, relies, is, is, is, happens, sees, looks, is, has, is, is, is, makes')
+
+('VBG', 'shocking, hearing, hearing, figuring, becoming, figuring, identifying, moving, solving, operating, depending, playing, playing, whopping, using, helping, saying, comparing, playing, doing, going, according, listening, ruining, reaching, streaming, defining, placing, talking, developing, using, listening, showing, listening, evaluating, changing, going')
+
+('JJS', 'largest, earliest, most, least, nest, nest, nest')
+
+('JJR', 'more, harder, bigger, larger, longer, older, more, broader, wider, younger, earlier')
+
+('NNP', 'joel, mcdonald')
+
+100 most freq tokens after processing: 
+[('the', 2104), ('of', 991), ('in', 830), ('to', 794), ('and', 700), ('that', 496), ('our', 437), ('verdict', 377), ('for', 343), ('is', 342), ('on', 338), ('it', 335), ('with', 252), ('trump', 246), ('at', 219), ('more', 210), ('this', 196), ('by', 194), ('positive', 188), ('percent', 184), ('as', 180), ('but', 178), ('are', 175), ('we', 173), ('than', 169), ('like', 164), ('was', 156), ('from', 155), ('about', 147), ('have', 143), ('donald', 143), ('an', 139), ('he', 136), ('you', 135), ('neutral', 132), ('data', 125), ('or', 124), ('one', 122), ('his', 122), ('has', 119), ('be', 116), ('they', 98), ('not', 94), ('out', 94), ('other', 92), ('who', 92), ('what', 90), ('were', 89), ('my', 88), ('when', 88), ('so', 87), ('their', 84), ('all', 84), ('negative', 82), ('me', 82), ('trump�', 82), ('there', 78), ('how', 78), ('state', 78), ('which', 77), ('some', 75), ('10', 75), ('up', 75), ('people', 74), ('most', 73), ('get', 72), ('just', 72), ('films', 71), ('can', 70), ('model', 70), ('if', 69), ('�i', 67), ('polls', 67), ('said', 66), ('rock', 62), ('only', 61), ('those', 61), ('do', 60), ('hillary', 58), ('also', 57), ('each', 57), ('bar', 57), ('2014', 54), ('year', 54), ('time', 53), ('women', 53), ('its', 52), ('where', 51), ('new', 51), ('2013', 51), ('had', 51), ('2015', 51), ('2012', 51), ('points', 51), ('them', 50), ('number', 49), ('would', 48), ('no', 48), ('over', 48), ('will', 48)]

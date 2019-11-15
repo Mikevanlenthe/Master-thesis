@@ -1,0 +1,60 @@
+Article: police-killings
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 841
+Raw number of types: 347
+Raw Type token ratio (higher = more diversity in language use): 0.4126040428061831
+
+100 most freq tokens before (pre)processing: 
+[('the', 2353), (',', 2331), ('.', 1407), ('of', 1098), ('a', 983), ('in', 929), ('to', 872), ('and', 795), ('’', 683), (':', 566), ('that', 528), ('our', 439), ('s', 404), ('on', 381), ('verdict', 377), ('is', 367), ('for', 364), ('it', 358), ('1', 281), ('with', 278), ('at', 253), ('trump', 247), ('i', 240), ('more', 225), ('—', 224), ('“', 224), ('by', 223), ('”', 223), ('(', 218), (')', 218), ('are', 211), ('percent', 210), ('this', 209), ('as', 207), ('but', 206), ('we', 190), ('positive', 187), ('than', 181), ('from', 176), ('was', 172), ('like', 169), ('have', 162), ('about', 157), ('you', 150), ('data', 149), ('an', 149), ('t', 145), ('he', 144), ('donald', 143), ('or', 143), ('one', 134), ('neutral', 132), ('his', 130), ('be', 127), ('they', 126), ('has', 126), ('their', 107), ('/', 105), ('other', 105), ('were', 104), ('not', 104), ('who', 104), ('so', 100), ('out', 99), ('all', 99), ('when', 99), ('what', 94), ('?', 93), ('which', 92), ('<', 92), ('my', 91), ('people', 91), ('up', 91), ('>', 88), ('there', 87), ('some', 86), ('2', 86), ('if', 85), ('how', 84), ('negative', 82), ('trump�', 82), ('me', 81), ('most', 80), ('can', 80), ('get', 79), ('state', 79), ('just', 78), ('model', 78), (';', 77), ('only', 75), ('films', 73), ("'m", 72), ('those', 71), ('3', 71), ('do', 68), ('said', 68), ('10', 67), ('�i', 67), ('polls', 67), ('its', 66)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 717
+Number of types: 327
+Type token ratio: 0.4560669456066946
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jun, police, ben, casselman, police, data, github, github, scene, freddie, gray, baltimore, david, goldman, memorial, scene, freddie, gray, baltimore, david, goldman, ap, monday, guardian, database, police, start, year, tuesday, database, police, guardian, coverage, reader, police, reporting, information, age, sex, race1, data, set, place, colleague, reuben, fischerbaum, census, information, guardian, data, set, download, public, chance, work, table, information, race2, income, census, tract3, thing, police, place, percent, place, census, percent, household, quarter, police, majorityblack, percent, population, majorityblack, database, percent, percent, inequality, se, rate, them5, brown, ferguson, missouri, gray, baltimore, police, cause, anger, police, pattern, example, vincent, cordaro, man, home, rockland, county, york, city, suburb, household, income, database, cordaro, news, family, shotgun, standoff, news, shephard, iii, example, census, tract, houston, income, traffic, table, mckenna, example, county, jail, fairfax, virginia, census, country, caution, guardian, datacollection, github, github, census, census')
+
+('VBP', 'am, have, get, makeshift, ve, are, ve, clear, tend, are, are, are, live, fit, do, fit, look, have, are, interpret, have, ve, love, find')
+
+('VBN', 'killed, filed, arrested, arrested, counted, killed, written, flawed, set, killed, found, verified, killed, killed, killed, killed, killed, shot, armed, killed, been, shot, shot, fled, based, died')
+
+('NNS', 'americans, killings, data, datapolicekillings, americans, entries, plans, statistics, killings, data, media, submissions, efforts, encounters, verifies, incidents, data, details, incidents, addresses, killings, addresses, tracts, neighborhoods, deaths, researchers, journalists, data, killings, neighborhoods, killings, tracts, terms, tracts, populations, tracts, americans, neighborhoods, africanamericans, police, tracts, africanamericans, areas, numbers, deaths, neighborhoods, jobs, opportunities, protesters, streets, deaths, conditions, tactics, means, killings, people, reports, police, incidents, ones, men, police, police, numbers, people, cases, results, tracts, words, numbers, thanks, groups, efforts, numbers, data, data, codes, statistics')
+
+('JJ', 'memorial, makeshift, impressive, interactive, guardian, official, fatal, reliable, guardian, own, possible, demographic, such, basic, guardian, demographic, economic, full, available, other, large, basic, whole, bottom, income4, black, likely, guardian, overall, racial, lowincome, same, narrative, michael, freddie, poor, black, few, limited, educational, economic, discriminatory, underlying, february, white, new, york, new, median, guardian, sevenhour, like, unarmed, black, frank, median, household, strange, natasha, other, easy, other')
+
+('VBD', 'was, was, launched, had, opensourced, crowdsourced, took, converted, occurred, took, died, were, died, were, emerged, occurred, took, cited, saw, was, was, died, threatened, was, was, said, had, died, lived, posted')
+
+('VBZ', 'ap, is, calls, includes, includes, allows, is, gives, gives, lives, is, happens, relies, includes, tracts, makes')
+
+('VB', 'add, be, look, build, take, be, say, take, happen, stop, yield, be, work, link, know')
+
+('VBG', 'going, building, combining, making, policing, according')
+
+('JJR', 'poorer, blacker, poorer, more, more, more, more, more, more')
+
+('JJS', 'poorest, most, richest, least')
+
+100 most freq tokens after processing: 
+[('the', 2353), ('of', 1098), ('in', 929), ('to', 872), ('and', 795), ('that', 530), ('our', 439), ('on', 381), ('verdict', 377), ('is', 367), ('for', 365), ('it', 359), ('with', 278), ('at', 253), ('trump', 247), ('more', 225), ('by', 223), ('percent', 214), ('are', 211), ('this', 209), ('as', 207), ('but', 206), ('we', 190), ('positive', 188), ('than', 181), ('from', 176), ('was', 172), ('like', 169), ('have', 162), ('about', 157), ('you', 150), ('data', 149), ('an', 149), ('donald', 144), ('he', 144), ('or', 143), ('one', 137), ('neutral', 132), ('his', 130), ('be', 128), ('they', 126), ('has', 126), ('their', 107), ('other', 105), ('were', 104), ('not', 104), ('who', 104), ('so', 101), ('out', 100), ('all', 99), ('when', 99), ('what', 94), ('which', 92), ('my', 91), ('people', 91), ('up', 91), ('there', 87), ('some', 86), ('if', 85), ('how', 84), ('negative', 82), ('me', 82), ('trump�', 82), ('most', 80), ('can', 80), ('get', 79), ('state', 79), ('just', 78), ('10', 78), ('model', 78), ('only', 75), ('films', 73), ('those', 71), ('do', 68), ('said', 68), ('�i', 67), ('polls', 67), ('its', 66), ('new', 65), ('also', 63), ('rock', 62), ('where', 61), ('hillary', 59), ('had', 59), ('github', 58), ('each', 58), ('would', 57), ('year', 57), ('bar', 57), ('time', 57), ('2015', 56), ('2014', 55), ('them', 55), ('points', 53), ('women', 53), ('police', 52), ('been', 51), ('no', 51), ('2016', 51), ('2013', 51)]

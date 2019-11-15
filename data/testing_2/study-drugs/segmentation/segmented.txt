@@ -1,0 +1,150 @@
+Sentence nr: 0
+Nov. 5, 2015 at 7:15 AM College Students Aren’t The Only Ones Abusing Adderall By Emma Pierson Filed under Drugs Get the data on GitHub GitHub data at data/study-drugs FacebookTwitterEmail Illustration by Kelsey Dake Illustration by Kelsey Dake I can easily understand the appeal of Adderall, a drug that treats ADHD by increasing focus and attention span.
+
+Sentence nr: 1
+It has taken me three months to finish this article, several weeks of which was due to Facebook; I wrote the last draft in a caffeine-fueled mania, listening to “Reptilia” on repeat as a deadline loomed.
+
+Sentence nr: 2
+Who wouldn’t be tempted by a drug that might make it easier to keep up in a world that runs at overwhelming speed?
+
+Sentence nr: 3
+Evidently, many people agree.
+
+Sentence nr: 4
+The proportion of Americans using Adderall, and other “study drugs” like Ritalin and Vyvanse, is increasing rapidly.
+
+Sentence nr: 5
+Between 2008 and 2012, the use of ADHD medications increased by 36 percent, according to an analysis of pharmacy prescriptions.
+
+Sentence nr: 6
+This is partially because ADHD diagnosis rates have increased: by 16 percent among adolescents from 2007 to 2011, a Centers for Disease Control and Prevention analysis found.
+
+Sentence nr: 7
+But many people also use Adderall and similar drugs nonmedically, that is, without a prescription or in ways not recommended by a doctor (for example, by snorting or in very high doses).
+
+Sentence nr: 8
+This behavior is risky.
+
+Sentence nr: 9
+The Drug Enforcement Administration classifies Adderall as a Schedule II drug, the same category as cocaine, because of its potential for abuse.
+
+Sentence nr: 10
+When used as prescribed to treat ADHD, Adderall and similar medications are both effective and unlikely to be addictive; when used improperly, however, they can be highly addictive, and the evidence that they significantly improve cognition is mixed.
+
+Sentence nr: 11
+So who is willing to take the risk of nonmedical use?
+
+Sentence nr: 12
+If you believe the media coverage, it’s college students: CNN has discussed the “rise of study drugs in college,” and last year the Clinton Foundation described misuse of ADHD drugs as an “epidemic.” But it isn’t only college students who use study drugs nonmedically — it’s young adults more broadly, regardless of whether they’re in college.
+
+Sentence nr: 13
+And among college students who use study drugs, there are interesting and almost paradoxical patterns: Study drugs are used more by students at competitive schools, but also more by students with low GPAs.
+
+Sentence nr: 14
+Study drugs may not be used by high-achievers to push themselves even harder; they may be used by those who are falling behind.
+
+Sentence nr: 15
+The emphasis on nonmedical study drug use in college students stems in part from a government report using data from 2006 and 2007, which said that college students ages 18 to 22 were twice as likely as people of the same age who weren’t in college to have used Adderall nonmedically.
+
+Sentence nr: 16
+But when I looked at more recent data from the 2013 National Survey on Drug Use and Health (NSDUH), an annual government survey that includes more than 55,000 Americans, the difference turned out to be closer to 1.3 times, not two times.1 This is far smaller than the difference between white 18- to 22-year-olds and black 18- to 22-year-olds, whether they were in college or not (six times, or 18 percent vs. 3 percent), or the difference between 18- to 22-year-olds whose families do not receive food stamps and those whose do (1.6 times, or 14 percent vs. 9 percent).
+
+Sentence nr: 17
+When I looked at Ritalin (another common study drug), non-college-students in that age range were slightly more likely than college students to engage in nonprescription use.2 My research shows that when it comes to nonprescription study drug use, being a young adult matters more than being a college student.
+
+Sentence nr: 18
+Still, college students are 30 percent more likely than their nonstudent counterparts to use Adderall nonmedically.
+
+Sentence nr: 19
+What drives this trend?
+
+Sentence nr: 20
+Amanda Divin, a professor at Western Illinois University who studies nonmedical prescription drug use and behavior in college students, said that it can be easier to obtain study drugs on college campuses and more socially acceptable to use them.
+
+Sentence nr: 21
+She cited a study in which 55 percent of fraternity members reported using nonmedical ADHD stimulants as evidence that social environment can dramatically affect usage rates.
+
+Sentence nr: 22
+Are nonmedical study drugs more popular at certain types of colleges?
+
+Sentence nr: 23
+I sought to answer this question with data from Niche.com, which provides information to help people choose neighborhoods and schools.
+
+Sentence nr: 24
+Niche gave me college-by-college surveys in which a total of more than 50,000 college students named the most popular drugs on campus.3 I connected this data with other data about each college, such as location and selectivity, and found, for example, that study drugs like Adderall and Ritalin were most popular at schools in New England.4 Only 25 percent of college students in Rocky Mountain schools reported that study drugs were among the most popular on campus versus 40 percent of students in New England, for example.
+
+Sentence nr: 25
+The differences among regions imply that surveys that look only at a single school may miss important trends in study drug use on campus.
+
+Sentence nr: 26
+Niche data also showed that study drugs were more popular at colleges that were more selective or had higher test scores.
+
+Sentence nr: 27
+In the chart below, each point represents one school; the horizontal axis shows the 75th percentile ACT score for incoming students, and the vertical axis shows the share of students who said study drugs were popular on campus.
+
+Sentence nr: 28
+The positive correlation between ACT score and study drug use is highly statistically significant (and previous research has found this pattern as well).5 If Adderall is more popular at colleges with competitive admissions standards, you might also expect it to be used more by high-achievers.
+
+Sentence nr: 29
+But multiple studies find that students who use nonprescription study drugs have a lower college GPA — even when controlling for factors such as high school GPA, frequency of skipping classes and hours spent studying.
+
+Sentence nr: 30
+“These students tend to be lower-achieving students who procrastinate and do not study in advance, attempting to cram studying into one night with the assistance of Adderall to both stay awake as well as stay focused,” Divin said.
+
+Sentence nr: 31
+These students are more likely to struggle in other ways as well.
+
+Sentence nr: 32
+Previous research has found that students who use nonprescription Adderall or Ritalin are more likely to be depressed.
+
+Sentence nr: 33
+The NSDUH data backs this up: College students who had used Adderall nonmedically reported higher levels of depression and were more likely to have considered suicide.
+
+Sentence nr: 34
+Importantly, these correlations, though significant, do not mean that Adderall causes low GPAs or depression.
+
+Sentence nr: 35
+Causality might run the other way: Students who are already depressed or struggling in school could be using Adderall in order to feel better.
+
+Sentence nr: 36
+Or a third factor may be to blame: Students who use Adderall nonmedically are also more likely to abuse alcohol and marijuana, for example.
+
+Sentence nr: 37
+So students at high-achieving schools and students with low GPAs are more likely to take Adderall.
+
+Sentence nr: 38
+This could be because students are more likely to take Adderall when they are more stressed about their academic performance.
+
+Sentence nr: 39
+Many studies make it clear that students use study drugs in part because of academic stress.
+
+Sentence nr: 40
+A recent analysis of NSDUH data found that students were more likely to use stimulants for the first time during exam months.
+
+Sentence nr: 41
+Other less conventional data sources support this latter finding: For example, I found that Google searches for “Adderall” in college towns spiked during exam months and dropped during summer months, and a 2013 study of 200,000 tweets mentioning Adderall found that they peaked during exam periods.
+
+Sentence nr: 42
+Adults older than 25 who use Adderall nonmedically may also struggle.
+
+Sentence nr: 43
+I initially thought that adults working long hours at high-income jobs would be most likely to use Adderall nonmedically.
+
+Sentence nr: 44
+I was wrong.
+
+Sentence nr: 45
+The NSDUH data showed that adults whose family incomes were below $10,000 had the highest rates of nonmedical Adderall use, and those whose family incomes were greater than $75,000 had the lowest.
+
+Sentence nr: 46
+Adults who used Adderall nonmedically also reported higher levels of depression and were more likely to consider suicide.
+
+Sentence nr: 47
+To a student confronting an exam, or an employee confronting a deadline, Adderall must seem as tempting as steroids to an athlete — particularly if everyone else seems to be using it.
+
+Sentence nr: 48
+But Divin was clear: “There isn’t data to suggest or support [the idea] that non-ADHD individuals who use prescription stimulants actually experience any benefits from their use.” The code for this analysis is available on GitHub.
+
+Sentence nr: 49
+Read more: How Many Adults Take ADHD Drugs?
+

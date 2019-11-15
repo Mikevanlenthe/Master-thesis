@@ -1,0 +1,60 @@
+Sentence nr: 0
+Jun.
+
+Sentence nr: 1
+2, 2015 at 6:00 AM The Rock Isn’t Alone: Lots Of People Are Worried About ‘The Big One’ By Walt Hickey Filed under Movies Get the data on GitHub GitHub data at data/san-andreas FacebookTwitterEmail Dwayne Johnson attends the premiere of ‘San Andreas’ on May 26 at TCL Chinese Theatre in Hollywood.
+
+Sentence nr: 2
+Eric Charbonneau / AP “San Andreas,” a film starring Dwayne Johnson about a catastrophic earthquake destroying California, crushed it at the box office this past weekend, beating out expectations and pulling in more than $53 million domestically.
+
+Sentence nr: 3
+“San Andreas” abides by a pretty basic disaster movie formula: world is destroyed, yet a man’s family is rebuilt.
+
+Sentence nr: 4
+But it’s also playing off legitimate fears.
+
+Sentence nr: 5
+The idea behind the film is scientifically sound — on a long enough geological time span, California’s tectonic situation is probably going to break some stuff in a big way, even if the immediate risks are probably a little lower than most people think.
+
+Sentence nr: 6
+Whether it’s the San Andreas fault or the Yellowstone supervolcano, over the coming eons this story will not end well for the left coast.
+
+Sentence nr: 7
+That’s over geological time, though.
+
+Sentence nr: 8
+According to the U.S. Geological Survey, the probability of an earthquake with a magnitude of 8.0 or larger rocking California is 7 percent over the next 30 years.
+
+Sentence nr: 9
+Draw a random card from a deck, and if it’s not a jack, California is OK through 2045.
+
+Sentence nr: 10
+No “Big One.” Still, lots of people think “the Big One” — a massive, catastrophic earthquake — will come during their lifetimes, according to a SurveyMonkey Audience poll we commissioned.
+
+Sentence nr: 11
+Only about a third of Americans are worried about “the Big One,” and 43 percent think it’s going to go down in their lifetime.
+
+Sentence nr: 12
+But when we zero in on the Pacific Census region — the geologically active West Coast and the noncontiguous U.S. states — there’s a good deal more anxiety.
+
+Sentence nr: 13
+About 58 percent of the 206 Pacific region respondents said they were somewhat, very or extremely worried about earthquakes overall, and 65 percent were worried about “the Big One.” About 62 percent think the quake will occur in their lifetime.
+
+Sentence nr: 14
+You could argue that people are more worried than they necessarily need to be about this kind of disaster, but that’s not really a bad thing.
+
+Sentence nr: 15
+People who think “the Big One” will happen in their lifetimes are about three times as likely to have taken precautions for a disaster, such as buying a survival kit or making an evacuation plan, according to the survey.
+
+Sentence nr: 16
+But because people overestimate the risk of “the Big One,” movies that play into those fears, like “San Andreas,” have a built-in audience.
+
+Sentence nr: 17
+Still, here’s my favorite thing about this survey.
+
+Sentence nr: 18
+It turns out the more you know about the San Andreas fault or the Yellowstone supervolcano — and if you don’t know about the last one, you are in for a major treat — the more likely you are to be worried about “the Big One.” Which makes sense, because oh my gosh there is so much magma under Yellowstone why did we settle anything west of the Mississippi?
+
+Sentence nr: 19
+Check out the full data for this on GitHub.
+

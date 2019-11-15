@@ -1,0 +1,62 @@
+Article: potential-candidates/2016-president-who-is-going-to-run
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 1038
+Raw number of types: 394
+Raw Type token ratio (higher = more diversity in language use): 0.37957610789980734
+
+100 most freq tokens before (pre)processing: 
+[(',', 3965), ('the', 3813), ('.', 2502), ('of', 1897), ('a', 1585), ('to', 1578), ('in', 1506), ('and', 1390), ('’', 1232), ('that', 875), (':', 724), ('s', 687), ('is', 626), ('for', 625), ('it', 573), ('on', 557), ('our', 506), ('“', 472), ('”', 471), ('are', 449), ('with', 424), ('at', 422), ('more', 385), ('verdict', 377), ('by', 374), ('as', 368), ('(', 356), (')', 356), ('we', 356), ('—', 350), ('but', 347), ('this', 334), ('i', 334), ('percent', 325), ('they', 321), ('you', 315), ('trump', 313), ('1', 302), ('have', 291), ('t', 284), ('than', 284), ('from', 278), ('was', 277), ('or', 275), ('about', 273), ('who', 269), ('one', 259), ('be', 253), ('data', 231), ('like', 229), ('an', 215), ('said', 212), ('has', 204), ('were', 202), ('their', 202), ('he', 201), ('positive', 192), ('not', 190), ('all', 186), ('most', 182), ('if', 175), ('polls', 174), ('there', 169), ('people', 167), ('?', 165), ('how', 162), ('other', 162), ('his', 161), ('pollsters', 161), ('can', 160), ('what', 158), ('so', 155), ('when', 155), ('donald', 152), ('those', 152), ('some', 151), ('out', 150), ('get', 142), ('which', 141), ('<', 140), ('up', 140), ('>', 138), ('just', 134), ('neutral', 132), ('each', 129), ('also', 128), ('/', 125), ('only', 123), ('will', 120), ('had', 114), ('do', 113), ('my', 113), ('number', 109), ('two', 108), ('github', 105), ('2', 105), ('new', 104), ('10', 101), ('me', 100), ('polling', 100)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 831
+Number of types: 369
+Type token ratio: 0.44404332129963897
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NN', 'jan, president, harry, github, github, clinton, tony, bennett, kennedy, ripple, hope, award, ceremony, york, jason, decrow, president, date, person, relationship, fling, fox, news, contract, feature, person, iowa, hampshire, primary, logic, ground, iowa, hampshire, assumption, idea, candidate, poll, midterm, elections2, side, martin, malley, bernie, jim, run, run, hampshire, end, decision, clinton, someone, clinton, doesn, vice, president, joe, biden, hasn, poll, speaking, clinton, everyone, way, field, clinton, caution, hand, poll, tuesday, difference, warren, side, picture, jeb, bush, mike, huckabee, rand, paul, rick, perry, santorum, majority, run, paul, perry, santorum, campaign, group, christie, scott, walker, campaign, carson, cruz, bobby, rubio, indicator, fiorina, mitt, romney, romney, washington, post, run, campaign, apparatus, romney, scorecard, statement, paul, ryan, john, inaction, direction, course, article, ryan, race, house, dhrumil, mehta, article')
+
+('VBP', 'am, are, are, are, want, re, ll, say, are, get, say, are, get, are, get, haven, are, get, say, aren, get, have, have, look, are, look, speak, look, are, ll, get, score, have, are, are, have, have, seem, think, have, think, have, have, are, have, seem, are, seem, re, ben, have, seem, have, fiorina, list, plan, weren')
+
+('VBG', 'looking, going, figuring, going, figuring, sitting, starting, recurring, running, running, exploring, considering, leaning, running, running, exploring, looking, basing, running, hedging, testing, going, running, going, exploring, hitting, assembling, making, visiting, considering, saying, putting, going, writing, running, beginning')
+
+('NNS', 'clues, data, data, datapotentialcandidates, reacts, candidates, intentions, others, answers, variables, candidates, events, fundraisers, meetings, states, polls, statements, candidates, intentions, events, actions, words, candidates, polls, pollsters, observers, sanders, webb, measures, iowa, elections, don, states, states, pollsters, bets, elizabeth, warren, isn, polls, polls, visits, states, teams, jindal, visits, states, pollsters, cases, candidates, moves, pollsters, surveys, states, states, points, numbers, changes, warren, efforts')
+
+('VBZ', 'is, is, is, is, is, does, has, rallies, is, is, has, does, is, is, has, assumes, is, is, has, is, isn, is, marco, has, is, has, has, is, hasn, has, is, has, is')
+
+('VB', 'run, get, run, try, find, run, look, run1, be, run, run, run, run, be, run, trail, run, take, impact, be, run, doubtful, kasich, update, see, romney')
+
+('VBN', 'filed, introduced, run, held, been, included, been, included, visited, visit, planned, been, included, made, been, warranted, been, included, included, been, included, made, ted, been, run, made, campaignrelated, run, been, quoted, made')
+
+('JJ', 'visible, primary, hillary, robert, new, little, potential, coy, interested, longterm, rick, serious, lucrative, unsure, many, political, new, early, many, national, straightforward, honest, earlystate, new, early, early, close, political, likely, potential, national, democratic, new, midterm, january, hillary, early, national, peep, other, hasn, early, democratic, likely, other, subtle, expect, republican, muddled, vast, early, likely, true, hard, sure, top, likely, early, bush, own, skeptical, lagging, carly, potential, many, early, public, much, early, same, much, serious, white')
+
+('JJR', 'singer, more, louder, fewer')
+
+('VBD', 'dec, said, ruled, ended, said, visited, said, hasn, visited, said, had, said, said, chris, said, won, listed, said, said, said, declared, became, contributed')
+
+('JJS', 'honest, least, least')
+
+('NNP', 'kasich')
+
+100 most freq tokens after processing: 
+[('the', 3813), ('of', 1897), ('to', 1578), ('in', 1506), ('and', 1390), ('that', 878), ('is', 626), ('for', 626), ('it', 575), ('on', 557), ('our', 506), ('are', 450), ('with', 424), ('at', 422), ('more', 385), ('verdict', 377), ('by', 374), ('as', 368), ('we', 356), ('but', 347), ('this', 334), ('percent', 329), ('they', 321), ('you', 315), ('trump', 314), ('have', 291), ('than', 284), ('from', 278), ('was', 277), ('or', 275), ('about', 273), ('who', 269), ('one', 262), ('be', 254), ('data', 231), ('like', 229), ('an', 215), ('said', 212), ('has', 204), ('were', 202), ('their', 202), ('he', 201), ('positive', 193), ('not', 190), ('all', 186), ('most', 182), ('if', 175), ('polls', 174), ('there', 169), ('people', 167), ('other', 163), ('how', 162), ('his', 161), ('pollsters', 161), ('can', 160), ('what', 158), ('so', 156), ('when', 155), ('donald', 153), ('those', 152), ('some', 151), ('out', 151), ('get', 142), ('which', 141), ('up', 140), ('just', 134), ('neutral', 132), ('each', 129), ('also', 128), ('only', 123), ('will', 120), ('10', 115), ('had', 114), ('do', 113), ('my', 113), ('number', 109), ('two', 108), ('github', 105), ('new', 104), ('me', 101), ('polling', 101), ('would', 99), ('its', 97), ('many', 97), ('bar', 97), ('them', 96), ('state', 96), ('points', 94), ('year', 92), ('because', 92), ('time', 91), ('these', 88), ('no', 88), ('election', 88), ('likely', 86), ('first', 86), ('much', 85), ('negative', 84), ('model', 84), ('where', 82)]

@@ -1,0 +1,60 @@
+Article: us-weather-history
+
+Tokenized by nltk.word_tokenize 
+Token analysis before pre-processing 
+Raw number of tokens: 521
+Raw number of types: 247
+Raw Type token ratio (higher = more diversity in language use): 0.4740882917466411
+
+100 most freq tokens before (pre)processing: 
+[('the', 2557), (',', 2532), ('.', 1545), ('of', 1205), ('a', 1077), ('in', 997), ('to', 954), ('and', 866), ('’', 742), (':', 599), ('that', 566), ('s', 443), ('our', 441), ('for', 408), ('on', 404), ('is', 403), ('it', 387), ('verdict', 377), ('with', 302), ('1', 281), ('at', 278), ('trump', 266), ('“', 260), ('”', 259), ('—', 257), ('i', 251), ('more', 249), ('are', 246), ('(', 243), (')', 243), ('by', 241), ('percent', 236), ('but', 232), ('as', 227), ('this', 222), ('we', 201), ('than', 197), ('from', 187), ('was', 187), ('positive', 187), ('have', 186), ('like', 176), ('about', 175), ('or', 161), ('you', 160), ('data', 159), ('t', 158), ('an', 156), ('they', 146), ('donald', 146), ('he', 146), ('one', 142), ('has', 141), ('be', 135), ('his', 132), ('neutral', 132), ('who', 117), ('their', 114), ('other', 112), ('were', 111), ('not', 110), ('out', 110), ('when', 110), ('so', 109), ('/', 108), ('all', 108), ('<', 108), ('>', 104), ('people', 103), ('?', 100), ('what', 99), ('most', 97), ('there', 97), ('which', 96), ('get', 95), ('up', 95), ('some', 92), ('my', 92), ('can', 90), ('if', 88), ('how', 88), ('those', 87), ('2', 87), ('just', 84), (';', 83), ('me', 83), ('negative', 82), ('trump�', 82), ('only', 81), ('state', 80), ('model', 78), ('films', 77), ('do', 75), ('also', 73), ('3', 73), ('said', 72), ("'m", 72), ('new', 71), ('its', 70), ('10', 69)]
+
+Applied pre-processing:
+Lowercased all tokens 
+Tokens below minimum token length 2 filtered out
+Punctuation filtered out ['!', '"', '#', '$', '&', '(', ')', '*', '+', ',', '-', '.', '/', ':', ';', '=', '?', '@', '[', ']', '^', '_', '`', '{', '|', '}', '~', '“', '’', '”', '—', "'", '<', '>']
+Words filtered out: ['facebooktwitteremail', 'nobarlabels', 'nolinelabels', 'nolabels']
+
+Applied filters: 
+barlabelsonly = False
+bigrams = False
+bothlabels = False
+lemmatize = False
+linelabelsonly = False
+minimumtokenlength = 2
+showuniquepostagtokens = False
+stemmer = False
+stopwords = False
+trigrams = False
+
+Token analysis after pre-processing 
+Number of tokens: 423
+Number of types: 231
+Type token ratio: 0.5460992907801419
+
+Used nouns, verbs and adjectives in article: 
+(tokens separated by , ) 
+('NNS', 'months, temperatures, data, states, temperatures, temperatures, times, months, temperatures, cities, charts, temperatures, dots, days, angeles, temperatures, waves, days, highs, carolina, days, highs, days, temperatures, digits, days, temperatures, cities, temperatures, charts, months, cities, waves, snaps, records, others, parts, consequences')
+
+('VBG', 'recordsetting, saying, recordsetting, recordsetting, setting, recordsetting, lasting, studying')
+
+('VBZ', 'looks, feels, has, is, has, best')
+
+('NN', 'randy, olson, weather, data, github, github, datausweatherhistory, year, oceanic, administration, report, half, january, record, world, aboveaverage, year, janjune, period, record, globe, stateofclimate, http, tcodjwfrfmmjp, pictwittercomxpj8rfr8bs, july, fact, period, july, june, detail, york, chart, handful, record, average, range, year, day, city, record, blue, year, city, story, chart, yearround, justright, heat, year, march, record, temperature, charlotte, june, year, record, seattle, winter, beginning, setting, record, high, end, spectrum, chicago, february, houston, average, part, cold, spike, houston, hottest, record, didn, way, city, heat, houston, climate, change, country, day, view')
+
+('VBN', 'filed, published, released, recorded, examined, expected')
+
+('VBP', 'get, weather, show, indicate, make, set')
+
+('JJR', 'hotter, more')
+
+('JJ', 'normal, national, atmospheric, first, western, united, high, such, noaanceiclimate, noaa, noaa, curious, updated, famous, new, past, large, us1, high, low, normal, actual, past, new, low, high, red, tie, previous, unique, click, los, famous, several, particular, north, uncomfortable, upper, warm, december, other, cold, single, low, odd, november, few, other, consistent, aggregate, clear, last, last, many, such, general, different, single, hot, cold, broad')
+
+('VBD', 'was, experienced, was, was, was, looked, was, was, experienced, had, soared, had, experienced, had, returned, reached, sat, had, were, experienced, did')
+
+('JJS', 'warmest, most, warmest, warmest, most')
+
+('VB', 'june, see, show, tell2, expand, feel, cold, affect, climate, take')
+
+100 most freq tokens after processing: 
+[('the', 2557), ('of', 1205), ('in', 997), ('to', 954), ('and', 866), ('that', 568), ('our', 441), ('for', 409), ('on', 404), ('is', 403), ('it', 388), ('verdict', 377), ('with', 302), ('at', 278), ('trump', 266), ('more', 249), ('are', 246), ('by', 241), ('percent', 240), ('but', 232), ('as', 227), ('this', 222), ('we', 201), ('than', 197), ('positive', 188), ('from', 187), ('was', 187), ('have', 186), ('like', 176), ('about', 175), ('or', 161), ('you', 160), ('data', 159), ('an', 156), ('donald', 147), ('they', 146), ('he', 146), ('one', 145), ('has', 141), ('be', 136), ('his', 132), ('neutral', 132), ('who', 117), ('their', 114), ('other', 112), ('were', 111), ('out', 111), ('so', 110), ('not', 110), ('when', 110), ('all', 108), ('people', 103), ('what', 99), ('most', 97), ('there', 97), ('which', 96), ('get', 95), ('up', 95), ('some', 92), ('my', 92), ('can', 90), ('if', 88), ('how', 88), ('those', 87), ('just', 84), ('me', 84), ('negative', 82), ('trump�', 82), ('only', 81), ('10', 80), ('state', 80), ('model', 78), ('films', 77), ('do', 75), ('also', 73), ('said', 72), ('new', 71), ('bar', 71), ('its', 70), ('had', 69), ('polls', 68), ('github', 67), ('�i', 67), ('each', 65), ('year', 64), ('rock', 62), ('where', 61), ('2015', 61), ('women', 61), ('2014', 60), ('hillary', 59), ('time', 59), ('would', 58), ('them', 58), ('film', 57), ('been', 56), ('two', 56), ('these', 55), ('no', 54), ('will', 54)]
