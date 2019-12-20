@@ -1,0 +1,55 @@
+
+
+
+Jun. 17, 2014
+						at
+						12:28 PM
+
+
+
+							Elitist, Superfluous, Or Popular? We Polled Americans on the Oxford Comma						
+
+
+
+By Walt Hickey
+Filed under Grammar
+
+Get the data on GitHub
+GitHub data at data/comma-survey
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+				An Oxford English Dictionary published by Oxford University Press, the birthplace of the Oxford comma.									Caleb Jones / AP
+
+
+
+There’s been a lot of ink spilled on the Oxford comma, the comma that goes before “and” in a list of three or more things. Is it a grammatical must or an unnecessary blight? (You’ve seen the insufferable and ahistoric comic of JFK and Stalin dressed as exotic dancers.) Grammatical experts have weighed in, but what does the average American think?
+FiveThirtyEight and SurveyMonkey Audience ran a poll from June 3 [TV] to 5  [TV] asking 1,129 Americans [QV] which camp they fell into, and wouldn’t you believe it? We’re split on that comma.
+{BAR}<We asked respondents which sentence was, in their opinion, more grammatically correct [CE]: “It’s important for a person to be honest, kind and loyal.” [CV] Or: “It’s important for a person to be honest, kind, and loyal.” [CV] The latter has an Oxford comma, the former none.
+The result was pretty much down the middle, with pro-Oxford partisans [CV] commanding 57 percent of the vote [QV] and opponents to the tyranny of the extra comma [CV] grabbing 43 percent [QV]. Although those numbers might be enough to defeat Eric Cantor, it’s hardly a clear victory for the Oxfordians [CV].>
+So, why is this so controversial? I asked two pros — John McIntyre, the longtime editor behind the “You Don’t Say” language blog at The Baltimore Sun and author of “The Old Editor Says”; and Merrill Perlman, an adjunct professor at the Columbia Graduate School of Journalism, 25-year veteran of The New York Times(,) and owner of an editorial consulting company.
+“I don’t know,” Perlman said in an email, “but I suspect it comes down to what people were taught and when. Most of us learned grammar as rules, often accompanied by raps on the knuckle when an ungrammatical sentence escaped our mouths. That can really instill deep loyalty to the rule.”
+McIntyre is more blunt: “Feigned passion about the Oxford comma, when not performed for comic effect, is mere posturing.”
+Despite their passionate majority, the Oxford comma partisans have had trouble winning the hearts and minds of their rivals. I’ve wondered why this is, and I think I found the answer.
+
+The people who tend to prefer the Oxford comma [CV] also tend to be the kind of people who will tell a survey that they think their own grammar is excellent. Zealous, but not really the humble type. As Perlman said:
+Many people [QV] who think they are good at grammar are good at following what they think are the rules: Don’t start a sentence with a conjunction, don’t end them with a preposition, etc. They may be less good at knowing why the “rules” exist, and I’ve yet to hear a coherent explanation of why you can’t do any of those things that didn’t involve Latinate references or such deep parsing of parts of speech and linguistics that the goal is lost — was the thought clear and unambiguous?
+So, does it matter? Can there ever be peace?
+“I use the Oxford comma in my own writing, out of pure personal preference,” McIntyre said. “When I edit for The Baltimore Sun, which follows Associated Press Stylebook on this point, I omit it.”
+Perlman also took a middle-of-the-road view: “I used to be a rabid ‘no serial comma in a simple series’ follower, drummed into me in my journalism formative years, but I have since some to believe that following rules are just as bad as not knowing them or why they exist. It’s not a matter of grammar at all; it’s matter of clarity.”
+One final note: Relevant to the interests of FiveThirtyEight in particular, we also asked whether people preferred using “data” as a singular or plural noun. To those who prefer the plural [CV], I’ll put this in your terms: The data are pretty conclusive that the vast majority of respondents think we should say “data is.” The singular crowd [CV] won by a 58 percentage-point margin [QV], with 79 percent of respondents [QV] liking “data is” [CV] to 21 percent [QV] preferring “data are.” [CV] But only half of respondents [QV] had put any thought to the usage prior to our survey, so it seems that it’s not a pressing issue for most.
+

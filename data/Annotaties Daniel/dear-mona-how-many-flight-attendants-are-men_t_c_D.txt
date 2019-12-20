@@ -1,0 +1,61 @@
+
+
+
+Oct. 3, 2014
+						at
+						12:31 PM
+
+
+
+							Dear Mona, How Many Flight Attendants Are Men?						
+
+
+
+By Mona Chalabi
+Filed under Hope the Numbers Help
+
+Get the data on GitHub
+GitHub data at data/male-flight-attendants
+
+
+
+FacebookTwitterEmail  
+
+
+
+
+
+
+
+
+
+
+
+
+
+				John Siefer, 26, right, a furloughed pilot working as a flight attendant for a major airline, offers a passenger her choice of beverages on a flight over Chicago on April 15, 1972 [TV].									AP
+
+
+
+
+Dear Mona,
+Are there more male flight attendants than there used to be?
+Jack, 26, Lincolnwood, Illinois
+
+ 
+Dear Jack,
+{LINE}<It depends how far back we go in the history of aviation personnel. See, the latest available numbers from 2012 [TV] show there are 25,268 American male flight attendants [QV] — that’s three times more [TE] than there were in 1980 [TV] but a few thousand [QV] fewer [TE] than there were in 2009 [TV]. But raw numbers are kind of useless in answering your question because the number of female flight attendants [CV] has also risen [TE] since 1980 [TV] and fallen [TE] since 2009 [TV]. I guess what you’re really interested in is whether the percentage of U.S. flight attendants who are men [CV] is higher [CE] than it used to be.>
+{LINE}<When we look at percentages, a slightly different story emerges: In 1980 [TV], 14.3 percent of flight attendants [QV] were male [CV]. That figure has risen [TE] since then to 24.2 percent [QV]. Meanwhile, the overall gender split in U.S. employment (52.7 percent of workers [QV] were male [CV] in 2012 [TV]) has steadily fallen [TE] over the past three decades [TV], according to Census Bureau data compiled by the Minnesota Population Center. (Prior to 2000 [TV], the figures were only available every 10 years, which is why the change looks so steady before then.)>
+
+{LINE}<There are a multitude of reasons why a greater [TE] share of all flight attendants are men today — one of them is probably age [CV]. Even in 1980 [TV], younger flight attendants were more likely [CE] to be men [CV] than older ones. So it could be that as men have entered (and presumably stayed in) the cabin crew, over time they’ve gradually increased their overall percentage. Between 1980 [TV] and 2007 [TV], the median age of all flight attendants rose [TE] from 30 [QV] to 44 [QV].>
+That’s not the only change to have occurred over the past 30 years [TV]. As sociologists at Texas A&M University pointed out in 2009 [TV], flight attendants as a group have become less [CE] white, with black and Hispanic employees [CV] making up a bigger share. They cited 1960s [TV] civil rights laws that forced airline companies to expand their recruitment preferences as an important reason for the change.
+And yet, despite those changes in gender, age and race, the people pointing you toward the emergency exits are still relatively homogenous: 58 percent of all U.S. flight attendants [QV] are white women [CV].
+That makes the airline sector slightly peculiar. Once we look at all industries, the same job category of “public transportation attendants and inspectors” is 40.6 percent [QV] male (of all races) [CV].
+{BAR}<So, it’s clear that flight attendant demographics are unusual by transport standards, but it’s kind of hard to grasp just how unusual it is that 24 percent of the sector [QV] is male [CV] without making broader comparisons. To do that, I looked at the gender split of all 320 occupations [QV] listed in the Minnesota Population Center’s database. The job category that most resembles flight attendants in terms of its gender split is “interviewers, enumerators and surveyors,” [CV] only 24.1 percent of whom [QV] are men [CV]. Other similar roles are “teachers” [CV] (23.9 percent [QV] male [CV]), “administrative support jobs” [CV] (23.4 percent [QV] male [CV]) and “dressmakers and seamstresses” [CV] (24.6 percent [QV] male [CV]).>
+{BAR}<Those roles might be closer to the top of the list but they’re by no means the most [CE] “female dominated” jobs in the U.S., for want of a better phrase. Just 2.6 percent of dental hygienists [QV] and 2.3 percent of kindergarten teachers [QV] are men [CV]. At the other extreme, 99.8 percent of boilermakers [QV] and 99.7 percent of the somewhat bizarrely titled “drillers of earth” [QV] are men [CV]. (See the full list of occupations and their male share at the bottom of this piece.)>
+So, Jack, if you’re intrigued by how many male flight attendants you see, you might also keep a mental tally of the number of male receptionists, hairdressers and typists you encounter, because this data shows those are a much rarer breed of American worker.
+Hope the numbers help,
+Mona
+
+Have a question you would like answered here? Send it to dearmona@fivethirtyeight.com or @DataLab538.
+

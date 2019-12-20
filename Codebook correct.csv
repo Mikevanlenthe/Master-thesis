@@ -1,0 +1,9 @@
+﻿Category;Codebook options;Example
+Bar;[> 2 categorical variable CV] AND [Comparison expressions CE] AND [>2 quantitative variable QV];Idahoans [CV] come out as America’s best drivers [CE] , costing insurers on average $83 [QV] each for collisions in 2010.
+;;New Jerseyans [CV] still don’t come off so good, costing insurers $160 [QV] apiece for collisions, 
+;f(CV) = QV) f(category) = y (quantity), f(x) = y , x >= 2 ;but they’re still far behind the most expensive [CE] state, Louisiana [CV], where it was $195 [QV].
+;;
+Line;[> 2 quantitative variable QV] AND [Trend expressions TE] AND [> 2 Time variable TV];The National Institute on Alcohol Abuse and Alcoholism has data going all the way back to 1850 [TV]. 
+;;Overall, it shows that after prohibition [TV], alcohol consumption per person (age 15 and over before 1970,
+;f(TV) = QV, f(time) = y (quantity), f(x) = y , x >= 2 ;14 and over thereafter) rose [TE], peaking [TE] in the early 1980s [TV] at 2.76 gallons per year [QV], 
+;Time variable (TV) expresses a start and end point;then fell [TE] in the late 1990s [TV] before rising [TE] again to 2.26 gallons per year [QV] in 2010 [TV]
